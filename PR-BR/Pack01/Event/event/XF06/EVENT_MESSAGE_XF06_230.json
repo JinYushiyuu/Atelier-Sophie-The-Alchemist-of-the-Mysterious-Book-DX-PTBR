@@ -1,0 +1,16 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XF06_230.ebm",
+    "nb_messages": 0x1,
+    "messages": [
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0xffffffff,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "ダミー"
+        }
+    ]
+}
