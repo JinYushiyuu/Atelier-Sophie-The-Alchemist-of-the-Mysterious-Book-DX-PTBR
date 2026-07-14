@@ -1,0 +1,142 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_OSK_210.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x54,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Phew, I'm tired."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "I got to meet all the plants I wanted to, I'm satisfied! Thanks again, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "I'm tired too, after being dragged around by you..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "It's all fine. It'll be for your own good in the end too, Monika."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "What does that mean?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "I found new plants, so Sophie should be able to make new things with alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "You'll be able to use the items she makes too, so you'll be benefiting."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3d,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Seriously..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Ahaha, that's true. I need to work hard and Synthesize them for that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Yeah, the plants will be happy too if you do that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Talking about the voices of plants again?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Yup, they're all trying to tell us how they feel."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I think it's my duty to let people know what they're trying to say."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Yeah, yeah."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Oskar learned the skill \"<CLGR>Agile Heavyweight<CLNR>\"."
+        }
+    ]
+}

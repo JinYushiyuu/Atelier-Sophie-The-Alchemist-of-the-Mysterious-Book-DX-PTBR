@@ -1,0 +1,61 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_040.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Monika, are you sure this is the place?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Yes, I'm pretty sure. It should be around here somewhere..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0x14,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Grrr..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, there it is! That's the monster, Sophie!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Urgh, it looks tougher than I imagined..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "But I've got to take it down! Watch over me, Grandma!"
+        }
+    ]
+}

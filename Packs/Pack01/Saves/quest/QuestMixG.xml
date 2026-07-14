@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<QuestMixG numMin="1" numMax="2" money="92" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_UNI_BAG"/>
+	<QuestMixG numMin="1" numMax="2" money="244" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_FRAMME"/>
+	<QuestMixG numMin="1" numMax="2" money="292" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_REFERN"/>
+	<QuestMixG numMin="1" numMax="2" money="288" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_DONNER_STONE"/>
+	<QuestMixG numMin="1" numMax="2" money="561" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_CRAFT"/>
+	<QuestMixG numMin="1" numMax="2" money="810" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ORI_FRAMME"/>
+	<QuestMixG numMin="1" numMax="2" money="1178" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_STARK_REFERN"/>
+	<QuestMixG numMin="1" numMax="2" money="1213" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_DONNER_CRYSTAL"/>
+	<QuestMixG numMin="1" numMax="2" money="458" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_PUNIPUNI_MISSILE"/>
+	<QuestMixG numMin="1" numMax="2" money="1401" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_GOD_LOST"/>
+	<QuestMixG numMin="1" numMax="1" money="1698" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_PRIMORDIAL_FLASHPOINT"/>
+	<QuestMixG numMin="1" numMax="2" money="1167" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_WITCH_TRUMPET"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_RED_UNI_BAG"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BLAU_FRAMME"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_VIO_REFERN"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BLITZ_STONE"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_CRAFT_BAG"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_PETA_FRAMME"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_AIN_SOPH_REFERN"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BLITZ_CRYSTAL"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BLACK_PUNI_MISSILE"/>
+	<QuestMixG numMin="1" numMax="3" money="2188" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_HEAVENLY_HOUSECLEANING"/>
+	<QuestMixG numMin="1" numMax="1" money="1868" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_END_FLASHPOINT"/>
+	<QuestMixG numMin="1" numMax="3" money="1720" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_NECROMANCER_TRUMPET"/>
+	<QuestMixG numMin="1" numMax="2" money="0" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SP_ITEM_001"/>
+	<QuestMixG numMin="1" numMax="2" money="57" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_GUILT_MEDICINE"/>
+	<QuestMixG numMin="1" numMax="2" money="264" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_REFUEL_BOTTLE"/>
+	<QuestMixG numMin="1" numMax="2" money="819" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BREEZE_AROMA"/>
+	<QuestMixG numMin="1" numMax="2" money="676" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_NECTAR_LIFE"/>
+	<QuestMixG numMin="1" numMax="1" money="1028" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ELIXIR_MYSTERY"/>
+	<QuestMixG numMin="1" numMax="2" money="68" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BAKED_GOODS"/>
+	<QuestMixG numMin="1" numMax="2" money="101" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SOTEA"/>
+	<QuestMixG numMin="1" numMax="2" money="191" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_PUNI_JELLY"/>
+	<QuestMixG numMin="1" numMax="3" money="956" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SOPHINANSHU"/>
+	<QuestMixG numMin="1" numMax="2" money="665" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_PIROSOTEA"/>
+	<QuestMixG numMin="1" numMax="2" money="401" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ALCHEMY_DROP"/>
+	<QuestMixG numMin="1" numMax="2" money="1171" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_PLAIN_WAFFLE"/>
+	<QuestMixG numMin="1" numMax="2" money="253" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BAGEL_SAND"/>
+	<QuestMixG numMin="1" numMax="3" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BRIGHT_YELLOW_OINTMENT"/>
+	<QuestMixG numMin="1" numMax="3" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_DIVERGENCE_DRINK"/>
+	<QuestMixG numMin="1" numMax="3" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_FAIRY_BREATH"/>
+	<QuestMixG numMin="1" numMax="3" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_TAKE_LIFE_DROPS"/>
+	<QuestMixG numMin="1" numMax="3" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ITEM_GODDESS_TEARS"/>
+	<QuestMixG numMin="1" numMax="3" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ITEM_ROCK_COOKIES"/>
+	<QuestMixG numMin="1" numMax="3" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_DARK_SOTEA"/>
+	<QuestMixG numMin="1" numMax="3" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_RAINBOW_PUNI_JELLY"/>
+	<QuestMixG numMin="1" numMax="3" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_HEALTH_FOOD_CAKE"/>
+	<QuestMixG numMin="1" numMax="3" money="550" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_FINEST_HOT_MILK"/>
+	<QuestMixG numMin="1" numMax="2" money="378" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_HONEY_SYRUP"/>
+	<QuestMixG numMin="1" numMax="2" money="0" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SP_ITEM_051"/>
+	<QuestMixG numMin="1" numMax="2" money="757" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ANGEL_WHISPER"/>
+	<QuestMixG numMin="1" numMax="2" money="878" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_UNIVERSAL_AMULET_INCENSE"/>
+	<QuestMixG numMin="1" numMax="2" money="290" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BOTTLING_MISFORTUNE"/>
+	<QuestMixG numMin="1" numMax="3" money="948" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ELEMENTAL_CURTAIN"/>
+	<QuestMixG numMin="1" numMax="2" money="797" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SALAMANDER"/>
+	<QuestMixG numMin="1" numMax="3" money="984" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ALL_THINGS_MANUSCRIPT"/>
+	<QuestMixG numMin="1" numMax="2" money="432" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SMALL_DEVIL_MISCHIEF"/>
+	<QuestMixG numMin="1" numMax="2" money="1460" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SAVIOR_SOUL"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_FALLEN_ANGEL_BELL"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_GLUTTONOUS_AROMA"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_EATEN_HAZE"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_MIRAGE_FILM"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_LEIDEN_PULLFT"/>
+	<QuestMixG numMin="1" numMax="3" money="988" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SEALED_BOOK"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_DEVIL_MISCHIEF"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BERSERKER_SOUL"/>
+	<QuestMixG numMin="1" numMax="2" money="15" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SP_ITEM_101"/>
+	<QuestMixG numMin="1" numMax="3" money="266" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_UNIVERSAL_ACCELERATOR"/>
+	<QuestMixG numMin="1" numMax="2" money="742" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SLEEP_TENT"/>
+	<QuestMixG numMin="1" numMax="2" money="571" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_FAIRY_SIGNPOST"/>
+	<QuestMixG numMin="1" numMax="2" money="973" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ALIVE_CART"/>
+	<QuestMixG numMin="1" numMax="2" money="914" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_CLEAR_DROP"/>
+	<QuestMixG numMin="1" numMax="3" money="308" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_MANA_FEATHER"/>
+	<QuestMixG numMin="1" numMax="3" money="540" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_TRAVELER_SHOES"/>
+	<QuestMixG numMin="1" numMax="3" money="596" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SPECIAL_BACKPACK"/>
+	<QuestMixG numMin="1" numMax="2" money="536" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_EMERGENCY_BAG"/>
+	<QuestMixG numMin="1" numMax="3" money="382" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_PICKING_GLOVES"/>
+	<QuestMixG numMin="1" numMax="3" money="390" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_WINNER_TALISMAN"/>
+	<QuestMixG numMin="1" numMax="3" money="440" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_DISCIPLINE_TALISMAN"/>
+	<QuestMixG numMin="1" numMax="3" money="528" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_AMULET_TALISMAN"/>
+	<QuestMixG numMin="1" numMax="3" money="608" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_HEART_PENDANT"/>
+	<QuestMixG numMin="1" numMax="3" money="20" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SP_ITEM_151"/>
+	<QuestMixG numMin="1" numMax="3" money="94" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_RED_NEUTLIZER"/>
+	<QuestMixG numMin="1" numMax="3" money="88" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BLUE_NEUTLIZER"/>
+	<QuestMixG numMin="1" numMax="3" money="94" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_GREEN_NEUTLIZER"/>
+	<QuestMixG numMin="1" numMax="3" money="80" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_YELLOW_NEUTLIZER"/>
+	<QuestMixG numMin="1" numMax="3" money="488" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_PURE_WATER"/>
+	<QuestMixG numMin="1" numMax="3" money="952" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ELEMENTAL_TEARS"/>
+	<QuestMixG numMin="1" numMax="3" money="136" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_APCALL"/>
+	<QuestMixG numMin="1" numMax="4" money="107" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_LAMER_WEIZENMEHL"/>
+	<QuestMixG numMin="1" numMax="3" money="214" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_HONEY"/>
+	<QuestMixG numMin="1" numMax="3" money="538" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_NATURAL_YEAST"/>
+	<QuestMixG numMin="1" numMax="3" money="830" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_UNIVERSAL_MEDICINE"/>
+	<QuestMixG numMin="1" numMax="3" money="208" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ZETTEL"/>
+	<QuestMixG numMin="1" numMax="3" money="212" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_REFRESH_OIL"/>
+	<QuestMixG numMin="1" numMax="3" money="640" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_FLAME_EMPEROR_POWDER"/>
+	<QuestMixG numMin="1" numMax="3" money="596" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BLITZRITE"/>
+	<QuestMixG numMin="1" numMax="3" money="720" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_GEIST_EISEN"/>
+	<QuestMixG numMin="1" numMax="3" money="238" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ALCHEMY_CLAY"/>
+	<QuestMixG numMin="1" numMax="3" money="444" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_BUNDLED_GOLD"/>
+	<QuestMixG numMin="1" numMax="3" money="306" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SPRUCE"/>
+	<QuestMixG numMin="1" numMax="3" money="196" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_INGOT"/>
+	<QuestMixG numMin="1" numMax="3" money="256" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_STARK_METAL"/>
+	<QuestMixG numMin="1" numMax="3" money="380" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SILVERIA"/>
+	<QuestMixG numMin="1" numMax="3" money="608" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_RUBYLIUM"/>
+	<QuestMixG numMin="1" numMax="3" money="810" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_INGOT_SP_1"/>
+	<QuestMixG numMin="1" numMax="2" money="1781" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_INGOT_SP_2"/>
+	<QuestMixG numMin="1" numMax="3" money="208" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_CLOTH"/>
+	<QuestMixG numMin="1" numMax="3" money="312" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_CLOTH_MOFCOT"/>
+	<QuestMixG numMin="1" numMax="3" money="476" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ITEM_KUPTAL_CLOTH"/>
+	<QuestMixG numMin="1" numMax="3" money="646" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_FLUGEL"/>
+	<QuestMixG numMin="1" numMax="2" money="1063" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_VERHEIT"/>
+	<QuestMixG numMin="1" numMax="2" money="1131" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_CLOTH_SP"/>
+	<QuestMixG numMin="1" numMax="3" money="728" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SNOWFLAKE_CRYSTAL"/>
+	<QuestMixG numMin="1" numMax="3" money="660" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_NOBLE_SAPPHIRE"/>
+	<QuestMixG numMin="1" numMax="3" money="706" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_DUSK_DROPS"/>
+	<QuestMixG numMin="1" numMax="3" money="690" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_FORESIGHT_CRYSTAL"/>
+	<QuestMixG numMin="1" numMax="2" money="-1" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_NOTSWAY_SCALE"/>
+	<QuestMixG numMin="1" numMax="3" money="1340" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_CRIMSON_STONE"/>
+	<QuestMixG numMin="1" numMax="1" money="1588" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_ALCHEMY_STONE"/>
+	<QuestMixG numMin="1" numMax="3" money="1416" property_lv_min="1" property_lv_max="5" item="ITEM_MIX_SUN_DROPS"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_ALCHEMY_CLAY"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MAT_KIRUHEN_MILK"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_SILVERIA"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_ITEM_KUPTAL_CLOTH"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_NOTSWAY_SCALE"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_KEY_ITEM_006"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_SP_ITEM_202"/>
+	<QuestMixG numMin="15" numMax="15" item="ITEM_MIX_BAKED_GOODS"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_SP_ITEM_201"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_UNIVERSAL_AMULET_INCENSE"/>
+	<QuestMixG numMin="5" numMax="5" item="ITEM_MIX_UNIVERSAL_AMULET_INCENSE"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_KEY_ITEM_010"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_KEY_ITEM_011"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_SP_ITEM_203"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_FRAMME"/>
+	<QuestMixG numMin="10" numMax="10" item="ITEM_MAT_KUPFER_MINERAL"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_CLOTH"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_KEY_ITEM_007"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_INGOT"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_FLAME_EMPEROR_POWDER"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_SPRUCE"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_FRAMME"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_SPRUCE"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_BOTTLING_MISFORTUNE"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_UNIVERSAL_ACCELERATOR"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_HONEY_SYRUP"/>
+	<QuestMixG numMin="1" numMax="1" item="ITEM_MIX_SALAMANDER"/>
+	<QuestMixG numMin="3" numMax="3" money="0" day_min="30" day_max="60" item="ITEM_MIX_REFUEL_BOTTLE"/>
+	<QuestMixG numMin="3" numMax="3" money="0" day_min="30" day_max="60" item="ITEM_MIX_FINEST_HOT_MILK"/>
+	<QuestMixG numMin="3" numMax="3" money="0" day_min="30" day_max="60" item="ITEM_MIX_PURE_WATER"/>
+	<QuestMixG numMin="1" numMax="1" money="210" day_min="50" day_max="50" item="ITEM_ACC_INCANDESCENT_HEADBAND"/>
+	<QuestMixG numMin="1" numMax="1" money="75" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_4" item="ITEM_MIX_BAGEL_SAND"/>
+	<QuestMixG numMin="1" numMax="1" money="20" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_5" item="ITEM_MIX_BAKED_GOODS"/>
+	<QuestMixG numMin="1" numMax="1" money="688" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_6" item="ITEM_MIX_PLAIN_WAFFLE"/>
+	<QuestMixG numMin="1" numMax="1" money="1021" day_min="50" day_max="50" item="ITEM_ACC_ELEMENT_SHIELD"/>
+	<QuestMixG numMin="1" numMax="1" money="223" day_min="50" day_max="50" item="ITEM_ACC_SPIRIT_EARRINGS"/>
+	<QuestMixG numMin="1" numMax="1" money="48" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_7" item="ITEM_MIX_ALCHEMY_CLAY"/>
+	<QuestMixG numMin="1" numMax="1" money="48" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_8" item="ITEM_MIX_ALCHEMY_CLAY"/>
+	<QuestMixG numMin="1" numMax="1" money="48" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_9" item="ITEM_MIX_ALCHEMY_CLAY"/>
+	<QuestMixG numMin="1" numMax="1" money="60" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_10" item="ITEM_MIX_FINEST_HOT_MILK"/>
+	<QuestMixG numMin="1" numMax="1" money="60" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_11" item="ITEM_MIX_FINEST_HOT_MILK"/>
+	<QuestMixG numMin="1" numMax="1" money="60" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_12" item="ITEM_MIX_FINEST_HOT_MILK"/>
+	<QuestMixG numMin="1" numMax="1" money="85" day_min="50" day_max="50" item="ITEM_ARM_TRAVELERS_VEST"/>
+	<QuestMixG numMin="1" numMax="1" money="76" day_min="50" day_max="50" item="ITEM_ARM_FIRST_COAT"/>
+	<QuestMixG numMin="1" numMax="1" money="50" day_min="50" day_max="50" item="ITEM_ARM_HARD_COAT"/>
+	<QuestMixG numMin="1" numMax="1" money="287" day_min="50" day_max="50" item="ITEM_MIX_ELEMENTAL_CURTAIN"/>
+	<QuestMixG numMin="1" numMax="1" money="96" day_min="50" day_max="50" item="ITEM_MIX_FLUGEL"/>
+	<QuestMixG numMin="1" numMax="1" money="577" day_min="50" day_max="50" item="ITEM_MIX_VERHEIT"/>
+	<QuestMixG numMin="1" numMax="1" money="388" day_min="50" day_max="50" item="ITEM_PC_02_WEP_02"/>
+	<QuestMixG numMin="1" numMax="1" money="543" day_min="50" day_max="50" item="ITEM_PC_08_WEP_02"/>
+	<QuestMixG numMin="1" numMax="1" money="261" day_min="50" day_max="50" item="ITEM_PC_05_WEP_02"/>
+	<QuestMixG numMin="1" numMax="1" money="59" day_min="50" day_max="50" item="ITEM_PC_08_WEP_00"/>
+	<QuestMixG numMin="1" numMax="1" money="61" day_min="50" day_max="50" item="ITEM_PC_00_WEP_01"/>
+	<QuestMixG numMin="1" numMax="1" money="335" day_min="50" day_max="50" item="ITEM_PC_08_WEP_03"/>
+	<QuestMixG numMin="1" numMax="1" money="438" day_min="50" day_max="50" item="ITEM_ACC_ANGEL_RIBBON"/>
+	<QuestMixG numMin="1" numMax="1" money="52" day_min="50" day_max="50" item="ITEM_ACC_GREEN_FEATHERS"/>
+	<QuestMixG numMin="1" numMax="1" money="331" day_min="50" day_max="50" item="ITEM_ACC_GUNADE_RING"/>
+	<QuestMixG numMin="1" numMax="1" money="85" day_min="50" day_max="50" item="ITEM_ARM_FURDEN_COAT"/>
+	<QuestMixG numMin="1" numMax="1" money="207" day_min="50" day_max="50" item="ITEM_ARM_PHANTOM_SHIRT"/>
+	<QuestMixG numMin="1" numMax="1" money="971" day_min="50" day_max="50" item="ITEM_ARM_BRIDE_BLOUSE"/>
+	<QuestMixG numMin="1" numMax="1" money="55" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_13" item="ITEM_MIX_UNIVERSAL_ACCELERATOR"/>
+	<QuestMixG numMin="1" numMax="1" money="55" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_14" item="ITEM_MIX_UNIVERSAL_ACCELERATOR"/>
+	<QuestMixG numMin="1" numMax="1" money="55" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_15" item="ITEM_MIX_UNIVERSAL_ACCELERATOR"/>
+	<QuestMixG numMin="2" numMax="2" money="74" day_min="50" day_max="50" item="ITEM_MIX_REFUEL_BOTTLE"/>
+	<QuestMixG numMin="1" numMax="1" money="244" day_min="50" day_max="50" item="ITEM_MIX_CRAFT"/>
+	<QuestMixG numMin="1" numMax="1" money="85" day_min="50" day_max="50" item="ITEM_ARM_TRAVELERS_VEST"/>
+	<QuestMixG numMin="3" numMax="3" money="75" day_min="50" day_max="50" item="ITEM_MIX_BAGEL_SAND"/>
+	<QuestMixG numMin="2" numMax="2" money="20" day_min="50" day_max="50" item="ITEM_MIX_BAKED_GOODS"/>
+	<QuestMixG numMin="1" numMax="1" money="102" day_min="50" day_max="50" item="ITEM_MIX_WINNER_TALISMAN"/>
+	<QuestMixG numMin="1" numMax="1" money="677" day_min="50" day_max="50" item="ITEM_MIX_WITCH_TRUMPET"/>
+	<QuestMixG numMin="1" numMax="1" money="76" day_min="50" day_max="50" item="ITEM_MIX_REFERN"/>
+	<QuestMixG numMin="1" numMax="1" money="155" day_min="50" day_max="50" item="ITEM_MIX_SNOWFLAKE_CRYSTAL"/>
+	<QuestMixG numMin="2" numMax="2" money="44" day_min="50" day_max="50" item="ITEM_MIX_REFRESH_OIL"/>
+	<QuestMixG numMin="2" numMax="2" money="30" day_min="50" day_max="50" item="ITEM_MIX_CLOTH"/>
+	<QuestMixG numMin="4" numMax="4" money="55" day_min="50" day_max="50" item="ITEM_MIX_UNIVERSAL_ACCELERATOR"/>
+	<QuestMixG numMin="2" numMax="2" money="61" day_min="50" day_max="50" item="ITEM_MIX_FRAMME"/>
+	<QuestMixG numMin="1" numMax="1" money="142" day_min="50" day_max="50" item="ITEM_MIX_AMULET_TALISMAN"/>
+	<QuestMixG numMin="1" numMax="1" money="44" day_min="50" day_max="50" item="ITEM_PC_00_WEP_00"/>
+	<QuestMixG numMin="1" numMax="1" money="238" day_min="50" day_max="50" item="ITEM_MIX_ANGEL_WHISPER"/>
+	<QuestMixG numMin="1" numMax="1" money="70" day_min="50" day_max="50" item="ITEM_MIX_PURE_WATER"/>
+	<QuestMixG numMin="1" numMax="1" money="223" day_min="50" day_max="50" item="ITEM_ACC_SPIRIT_EARRINGS"/>
+	<QuestMixG numMin="1" numMax="1" money="140" day_min="50" day_max="50" item="ITEM_MIX_NOBLE_SAPPHIRE"/>
+	<QuestMixG numMin="1" numMax="1" money="438" day_min="50" day_max="50" item="ITEM_ACC_ANGEL_RIBBON"/>
+	<QuestMixG numMin="1" numMax="1" money="971" day_min="50" day_max="50" item="ITEM_ARM_BRIDE_BLOUSE"/>
+	<QuestMixG numMin="1" numMax="1" money="153" day_min="50" day_max="50" item="ITEM_MIX_HEART_PENDANT"/>
+	<QuestMixG numMin="2" numMax="2" money="279" day_min="50" day_max="50" item="ITEM_MIX_SOPHINANSHU"/>
+	<QuestMixG numMin="1" numMax="1" money="43" day_min="50" day_max="50" item="ITEM_ACC_FRATERNAL_PERSONA"/>
+	<QuestMixG numMin="1" numMax="1" money="354" day_min="50" day_max="50" item="ITEM_MIX_SLEEP_TENT"/>
+	<QuestMixG numMin="1" numMax="1" money="44" day_min="50" day_max="50" item="ITEM_MIX_REFRESH_OIL"/>
+	<QuestMixG numMin="1" numMax="1" money="254" day_min="50" day_max="50" item="ITEM_MIX_BREEZE_AROMA"/>
+	<QuestMixG numMin="1" numMax="1" money="62" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_20" item="ITEM_MIX_ZETTEL"/>
+	<QuestMixG numMin="1" numMax="1" money="62" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_21" item="ITEM_MIX_ZETTEL"/>
+	<QuestMixG numMin="1" numMax="1" money="62" day_min="50" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_22" item="ITEM_MIX_ZETTEL"/>
+</Root>

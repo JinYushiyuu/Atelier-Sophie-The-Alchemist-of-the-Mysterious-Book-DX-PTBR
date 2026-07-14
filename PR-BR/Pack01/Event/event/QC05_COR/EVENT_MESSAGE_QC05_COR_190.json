@@ -1,0 +1,273 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_COR_190.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...Excuse me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Harol. Welcome."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I finished repairing this thing. I brought it over."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Oh, this is... Cory's box!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Cory...? Wait, so this wasn't yours?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Oh, I didn't tell you?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Oh well. I want to show it to the owner. You should come too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Why do I have to go..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "It's fine, come on. Let's go."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Wait up, hey!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Damn it, I guess I have no choice..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "And that's what happened. Harol is the one who fixed your box, Cory!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Wait... Really...? Thank you very much..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "No, I uh, didn't really..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Hey, Cory. You should try pressing the switch."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Yes..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x2,
+            "msg_string": "Wow..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x2,
+            "msg_string": "So this box was a music box..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x2,
+            "msg_string": "Yeah. It's a pretty complicated machine. The repairs took more work than I thought."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x2,
+            "msg_string": "This tune... I've never heard it before."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x2,
+            "msg_string": "It... Seems kind of nostalgic..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x2,
+            "msg_string": "It might be a song from your people's homeland, Cory."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x2,
+            "msg_string": "Maybe. The techniques used to make that music box aren't from around here."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x2,
+            "msg_string": "My people's... Homeland..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "That's great, Cory. That song might be a clue to help you find your dad."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "This town has a lot of immigrants, and a number of travelers. It's possible that someone might recognize that song."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Yeah. You should ask a lot of people about it, and try to find something out."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "...Yes. Thank you both."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1c,
+            "msg_string": "I'll cherish this music box..."
+        }
+    ]
+}

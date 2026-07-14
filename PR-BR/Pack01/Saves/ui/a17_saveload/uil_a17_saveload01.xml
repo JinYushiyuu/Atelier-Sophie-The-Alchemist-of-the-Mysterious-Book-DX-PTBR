@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="data" viewer_visible="true">
+			<image name="bg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_w04" size_wh="538.00, 124.00, 0.00"/>
+			<image name="hilight" pos="-6.00, -11.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win03_hlon" size_w="550.00" size_h="145.00">
+				<anim_ctrl name="anim_blink" viewer_key_assign="0" loop="true" play="true">
+					<bind_node anim="anm_common_blink" node="."/>
+				</anim_ctrl>
+			</image>
+			<image name="data" style="gen_a17_saveload01_sl" pos="18.00, 18.00, 0.00" rot="0.00, -0.00, 0.00" image_no="3" scale="0.50, 0.50, 1.00"/>
+			<text text="第１話　あいうえおカキクケコ" name="text" pos="183, 33, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00"/>
+			<text text="2017/08/30" name="text_1" pos="183, 65, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00"/>
+		</node>
+		<node name="party_info" visible="true" pos="17, 11, 0">
+			<text text="キャラ名５６７８" name="name" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00" align="left"/>
+			<text text="Lv." name="level_prefix" pos="214, 0, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00" align="right" visible="true"/>
+			<text text="999" name="level" pos="263.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00" align="right" visible="true"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" visible="false" viewer_visible="true">
+		<anim_ctrl name="anim_fade_in" viewer_key_assign="0">
+			<bind_node anim="anm_common_fade_in" node="."/>
+		</anim_ctrl>
+		<!--***↓メインメニューから持ってきてください ***-->
+		<image name="map_bg" style="etc_a17_bg_townmap" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true" color="30.00, 0.00, 0.00, 255.00"/>
+		<image name="bg" style="etc_a17_bg" viewer_visible="false" image_no="1"/>
+		<node name="list" pos="104, 81, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node copy="data" clone_child_tree="data" name="data01" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="data" clone_child_tree="data" name="data02" pos="0.00, 120.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="data" clone_child_tree="data" name="data03" pos="0.00, 241.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="data" clone_child_tree="data" name="data04" pos="0.00, 361.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="data" clone_child_tree="data" name="data05" pos="0.00, 482.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="scrollbar" pos="689.00, 76.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true">
+			<scroll_bar name="scroll_bar" pos="-46, 4, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="common_scroll_bar_a18_mix_recipe" size_h="613.00" visible="true"/>
+		</node>
+		<node name="info" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="815, 115, 0">
+			<image name="bg" style="gen_a17_win01_w02" size_wh="422.00, 560.00, 0.00" visible="false" viewer_visible="true" pos="-52.00, 3.00, 0.00"/>
+			<image name="name" style="gen_a17_win03_obi01" pos="47.70, -23.00, 0.00" rot="0.00, 0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<text text="セーブデータ" name="text" viewer_visible="false" rot="0.00, 0.00, 0.00" scale="1.00, 1.00, 1.00" pos="117.30, 4.00, 0.00" align="center" bold_color="53.00, 19.00, 0.00, 255.00" bold_size="2.00" color="255.00, 255.00, 255.00, 255.00">
+					<node name="info_detail" pos="-165, 6, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<text name="place" pos="30.00, 64.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00" text="アトリエ"/>
+						<text text="所持金：" name="money" pos="30, 105, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00">
+							<text text="00000000000" name="text_3" pos="263.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00" align="right"/>
+						</text>
+						<text text="錬金レベル：" name="mixlv" pos="30, 148, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00">
+							<text text="00000000" name="text_3" pos="263.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00" align="right"/>
+						</text>
+						<node name="party_info" visible="true">
+							<node name="party_0" clone_child_tree="party_info" viewer_visible="true" pos="28, 188, 0" visible="true"/>
+							<node name="party_1" clone_child_tree="party_info" viewer_visible="true" pos="28, 229, 0"/>
+							<node name="party_2" clone_child_tree="party_info" viewer_visible="true" pos="28.00, 270.00, 0.00"/>
+							<node name="party_3" clone_child_tree="party_info" viewer_visible="true" pos="28, 312, 0"/>
+							<node name="party_4" clone_child_tree="party_info" viewer_visible="true" pos="28, 353, 0"/>
+							<node name="party_5" clone_child_tree="party_info" viewer_visible="true" pos="28.00, 395.00, 0.00"/>
+							<node name="party_6" clone_child_tree="party_info" viewer_visible="true" pos="28.00, 436.00, 0.00"/>
+							<node name="party_7" clone_child_tree="party_info" viewer_visible="true" pos="28, 477, 0"/>
+						</node>
+						<text text="プレイ時間：" name="playtime" pos="28.00, 524.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00">
+							<text text="00000000" name="text_3" pos="263.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" font_size="22.00" align="right"/>
+						</text>
+					</node>
+				</text>
+			</image>
+		</node>
+		<!--***↓上書きセーブ確認メニュー ***-->
+		<node name="node" pos="352, 20, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+			<image name="50_gray" style="common_black_image" visible="false" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="1920.00, 1080.00, 0.00" pos="-352.00, -104.00, 0.00" color="255.00, 255.00, 255.00, 200.00"/>
+			<node name="SaveLoad_List" pos="11, 97, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node copy="data" clone_child_tree="data" name="data01_1" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="itemcursor" pos="308, 135, -0" scale="1.00, 1.00, 1.00" style="gen_a17_mix02_vector" rot="-0.00, -0.00, 90.01" size_wh="79.00, 70.00, 0.00"/>
+				<node copy="data" clone_child_tree="data" name="data01_2" pos="-0.00, 225.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+	</node>
+</root>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_118" pos_x="32.65" pos_y="0" pos_z="31.862" rotate_y="180"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_119" pos_x="31.1" pos_y="0" pos_z="36.2" rotate_y="180"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1110" pos_x="33.88" pos_y="0" pos_z="35.135" rotate_y="180"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1111" pos_x="26.6" pos_y="0" pos_z="33.43" rotate_y="130"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1112" pos_x="23.9" pos_y="0.1" pos_z="35.1" rotate_y="-180"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1115" pos_x="30.12" pos_y="0" pos_z="34.01" rotate_y="-271"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1116" pos_x="31.49" pos_y="0" pos_z="34.23" rotate_y="-94"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1199" pos_x="30.42" pos_y="0" pos_z="36.24" rotate_y="-180"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1113" pos_x="25.74" pos_y="0" pos_z="34.13" rotate_y="111"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1114" pos_x="24.92" pos_y="0.09" pos_z="35.43" rotate_y="126"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1119" pos_x="30.04" pos_y="0" pos_z="34.1" rotate_y="40"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1120" pos_x="31.11" pos_y="0" pos_z="36.28" rotate_y="-140"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1121" pos_x="31.27" pos_y="0" pos_z="34.27" rotate_y="16"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1122" pos_x="26.2" pos_y="0" pos_z="29.1" rotate_y="49"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1123" pos_x="26.73" pos_y="-0.22" pos_z="28.67" rotate_y="4"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1124" pos_x="33.9" pos_y="0" pos_z="30.34" rotate_y="125"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1117" pos_x="29.46" pos_y="0" pos_z="34.1" rotate_y="37"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1118" pos_x="30.25" pos_y="0" pos_z="36.2" rotate_y="-162"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1127" pos_x="29.5" pos_y="0" pos_z="34.3" rotate_y="5"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1128" pos_x="29.89" pos_y="0" pos_z="36.2" rotate_y="190"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1125" pos_x="29.75" pos_y="0" pos_z="34.1" rotate_y="5"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1126" pos_x="29.89" pos_y="0" pos_z="36.2" rotate_y="190"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1129" pos_x="29.75" pos_y="0" pos_z="34.04" rotate_y="5"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1130" pos_x="29.89" pos_y="0" pos_z="36.2" rotate_y="190"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1132" pos_x="29.89" pos_y="0" pos_z="36.2" rotate_y="180"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1131" pos_x="29.75" pos_y="0" pos_z="34.1" rotate_y="0"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1134" pos_x="30.5" pos_y="0.3" pos_z="34.5" rotate_y="0"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1133" pos_x="30.63" pos_y="0" pos_z="36.2" rotate_y="-170"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1135" pos_x="31.07" pos_y="0" pos_z="36.2" rotate_y="-181"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1136" pos_x="31.4" pos_y="0" pos_z="34.06" rotate_y="-22"/>
+	<T01_TOWN_11_marker marker_data="T01_TOWN_1198" pos_x="29.97" pos_y="0" pos_z="33.94" rotate_y="-315"/>
+	<T01_TOWN_11_marker marker_data="POS_NPC04A_00" pos_x="34.4" pos_y="0" pos_z="28.7" rotate_y="40"/>
+	<T01_TOWN_11_marker marker_data="POS_NPC20A_00" pos_x="35.1" pos_y="0" pos_z="31.9" rotate_y="50"/>
+	<T01_TOWN_11_marker marker_data="POS_NPC20A_01" pos_x="26.6" pos_y="0" pos_z="24.3" rotate_y="20"/>
+	<T01_TOWN_11_marker marker_data="POS_NPC21A_00" pos_x="36.6" pos_y="0" pos_z="33.9" rotate_y="-150"/>
+	<T01_TOWN_11_marker marker_data="POS_NPC23A_00" pos_x="32.65" pos_y="0" pos_z="31.862" rotate_y="180"/>
+	<T01_TOWN_11_marker marker_data="POS_NPC00A_00" pos_x="27.8" pos_y="0" pos_z="25.3" rotate_y="30"/>
+	<T01_TOWN_11_marker marker_data="POS_NPC26A_00" pos_x="36.6" pos_y="0" pos_z="34" rotate_y="-130"/>
+	<T01_TOWN_11_marker marker_data="POS_NPC26B_00" pos_x="32.5" pos_y="0" pos_z="25.8" rotate_y="-210"/>
+	<T01_TOWN_11_marker marker_data="POS_NPC27A_00" pos_x="32.5" pos_y="0" pos_z="25.8" rotate_y="-210"/>
+</Root>

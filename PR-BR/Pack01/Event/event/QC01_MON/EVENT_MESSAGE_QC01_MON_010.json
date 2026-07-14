@@ -1,0 +1,185 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_MON_010.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Monika! Pamela!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oh, hello Sophie. You came at the perfect time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "What's going on?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "We're about to play hide-and-seek with everyone."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Huh, that sounds fun!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Would you like to join us?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Is it really okay?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Of course. We were actually talking about how we wanted one more player. We'd be happy if you joined us."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Of course I'll join!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Okay then, let's start."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I'll explain the rules. The children are going to run off and hide now. We need to find them, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "We win if we can find them all in time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Okay, I got it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Alright then everyone, go hide first."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xdf,
+            "name_id": 0x19,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x2,
+            "msg_string": "Okay!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe4,
+            "name_id": 0x1b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x2,
+            "msg_string": "You won't find me."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe0,
+            "name_id": 0x1a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x2,
+            "msg_string": "Alright, here I go!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "I think it's about time we started looking."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "The play area is inside of the town. We need to find them before the sun sets!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Okay!"
+        }
+    ]
+}

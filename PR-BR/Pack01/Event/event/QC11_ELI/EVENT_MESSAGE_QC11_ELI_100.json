@@ -1,0 +1,211 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_ELI_100.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...And that's why I believe that isn't historically accurate for Adalett."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xee,
+            "name_id": 0x20,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x2,
+            "msg_string": "Hmm, I see... In that case, do you have any books on the subject?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Let's see... As far as I know, there's no single book that contains it all. I would need to gather several books..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xee,
+            "name_id": 0x20,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x2,
+            "msg_string": "I see, I understand. That would really help. I'll come back again sometime."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hello, Elise."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Welcome, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Were you teaching something to a customer again?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I wouldn't say it was teaching. I just told them what I knew."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "You know a lot of things, after all. Why do you know so much, anyway?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Well... It's probably all just knowledge I picked up as I read books."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Huh..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "For example, you don't need to read textbooks. You can find small amounts of knowledge scattered around in novels."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "If you run into something you don't understand, then you do some research about it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "As I did that, I accumulated a lot of knowledge on my own."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Also, I don't know if you'd call this knowledge, but most subjects don't just have one aspect. They have many."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "You'll find relations and connections in the most unexpected of places sometimes."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Maybe it'll be easier to understand if I said they aren't just connected vertically, but horizontally too?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Um, I kind of get it, but I kind of don't..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "You should read more books, Sophie. You'll eventually start to understand what I mean."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "It might even help you find a solution to a problem that you wouldn't have thought of otherwise."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Okay, I got it. But I don't really like studying..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x5,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Hehe. It's only bad because you think of it as studying. You should have more fun with it."
+        }
+    ]
+}

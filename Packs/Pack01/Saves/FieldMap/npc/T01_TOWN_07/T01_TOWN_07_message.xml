@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_1" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="Hey, Sophie. Blow anything up again today?"/>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_2" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="Hey, can you maybe watch the store for me someti-... No?"/>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_3" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="Where should I go to observe plants today... Heh heh, I'm excited for this!"/>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_4" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="Treat the plants you use for alchemy with care and respect. I'll get mad if you don't."/>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_5" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="There are still plants that I haven't seen, somewhere in this world... Gah, I really want to talk to them!"/>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_E" chara_tag="OTTO" name_tag="OTTO" voice_no1="9022" message1="Alright, time to get goin-... Oh, crap! I totally forgot that mom asked me to do some work...!"/>
+    <T01_TOWN_07_message message_data="TOWN_07_OTTO_EV1" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="Ah, thanks. As I expected from you, Sophie." quest_tag="MM07_040" voice_no2="11709" message2="Did you finish the item I asked for?"/>
+    <T01_TOWN_07_message message_data="QC01_MON_015_GIRL_A" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_07_message message_data="QC04_FRI_130_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="9042" message1="Hm, hm... I see..."/>
+    <T01_TOWN_07_message message_data="QC05_COR_210_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="-1" message1="..."/>
+    <T01_TOWN_07_message message_data="QC05_COR_220_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="-1" message1="..."/>
+    <T01_TOWN_07_message message_data="MS01_040_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="9021" message1="I'm totally beat." next_message_tag="MS01_040_PAUL"/>
+    <T01_TOWN_07_message message_data="MS01_040_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="I'm still not used to this..."/>
+    <T01_TOWN_07_message message_data="QC07_LEO_120_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="9022" message1="Let's see..." next_message_tag="QC07_LEO_120_HENRI"/>
+    <T01_TOWN_07_message message_data="QC07_LEO_120_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="I see, I didn't know."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_00" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="I got a big order. I need to finish it by next &quot;Fruit&quot; day."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_01" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="I should be able to finish about 40% of the order today."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_02" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="Today's going well. I should be able to finish about 60% of the order today."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_03" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="I managed to finish about 80% of the order. Just a little more to go."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_04" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="I managed to finish the job. I think I can take a break today."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_10" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="One of my friends asked for my help." next_message_tag="TOWN_07_NPC21B_11"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_11" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="-1" message1="Well... I'm busy, but it's good to have work to do."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_20" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="I'm getting orders from all kinds of people. I want to fulfill them all quick, but..." next_message_tag="TOWN_07_NPC21B_21"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_21" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="-1" message1="I won't get anything done if I get hurt or sick. I'll work in moderation."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_00" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="11749" message1="This is a nice morning... Days like this are good for painting."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_01" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="11772" message1="This is a nice sunset... Days like this are good for painting."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_02" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="11815" message1="This is a nice night sky... Days like this are good for painting."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_00_RAIN" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="-1" message1="Rain makes the colors run... Painting in the rain makes some very special art."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_10" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="11739" message1="Pictures using the scenery here as a motif are very popular." next_message_tag="TOWN_07_NPC23C_11"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_11" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="-1" message1="I really like the scenery here... It makes me paint even more."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_20" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="11739" message1="I actually don't even have to sit here anymore to paint this scenery..." next_message_tag="TOWN_07_NPC23C_21"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_21" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="-1" message1="But I want my senses to influence what I paint, so I came here again."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_00" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="Hm... If I bake it, the bad smell goes away, but the texture gets worse..." next_message_tag="TOWN_07_NPC04A_01"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_01" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="In that case, maybe I should leave a little of the smell, and steam it instead..." next_message_tag="TOWN_07_NPC04A_02"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_02" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="Gah... My head is filled with ideas for food, I can't get any work done."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_10" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="Hm... That tastes good, but it doesn't look very pleasant..." next_message_tag="TOWN_07_NPC04A_11"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_11" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="Maybe it would be better to mash it up so you don't see what it looks like..." next_message_tag="TOWN_07_NPC04A_12"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_12" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="Gah... My head is filled with ideas for food, I can't get any work done."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_20" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="Hm... But that was surprising. I didn't expect that combination would work..." next_message_tag="TOWN_07_NPC04A_21"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_21" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="I didn't think it would reproduce that taste. I should think of more combinations..." next_message_tag="TOWN_07_NPC04A_22"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_22" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="Gah... My head is filled with ideas for food, I can't get any work done."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_00" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="11817" message1="The foundation of thrift starts with keeping good order. You need to manage and maintain your stuff..." next_message_tag="TOWN_07_NPC24A_01"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_01" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="-1" message1="That helps reduce the burden on yourself."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_10" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="11817" message1="Is it cheaper to buy something, or go and procure it yourself..." next_message_tag="TOWN_07_NPC24A_11"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_11" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="-1" message1="It might be better to buy items, if you want to build friendly relations with shopkeepers."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_20" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="11817" message1="You only need to buy what's necessary... But seeing other things on shelves makes you want them too." next_message_tag="TOWN_07_NPC24A_21"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_21" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="-1" message1="Sometimes when you think it over, you already have it. You should make sure before you buy anything."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_00" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Three days until the next weekend... That's bothersome, but I have no choice."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_01" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Two days until the next weekend... I need to be careful not to fall into a slump."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_02" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Tomorrow's the weekend... I need to work hard today."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_03" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Two days until work... I'll just relax today."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_04" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Tomorrow's a work day... I should be sure to rest up."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_10" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="I never feel motivated at the beginning of the week..."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_11" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="I feel decently motivated in the middle of the week... Or maybe not."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_12" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Knowing tomorrow is the weekend really motivates me..."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_13" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Tomorrow's the weekend too... Knowing that lets me relax."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_14" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Tomorrow's a work day... I need to start changing my attitude."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_20" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="The beginning of the week makes me want to make lots of plans."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_21" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Tomorrow's a work day too... Thinking that can actually be a little relieving sometimes."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_22" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Thinking that tomorrow's the weekend makes me want to make weekend plans."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_23" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Enjoying the weekend gives me a good sense of fulfillment."/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_24" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="Tomorrow's work again... I'll do my best."/>
+</Root>

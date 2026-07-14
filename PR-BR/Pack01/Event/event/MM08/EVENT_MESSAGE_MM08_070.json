@@ -1,0 +1,439 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM08_070.ebm",
+    "nb_messages": 0x31,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...Hey, Plachta? There's something I wanted to ask you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "What is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "You know, you always look really sad whenever you talk about Luard."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "I wanted to know why... Will you tell me?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "...I see, I appeared that way?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "While there are many things I wish to remember yet can't, this is one thing I'd like to forget, yet can't..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Plachta..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "It's likely because... Luard was once my friend."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "He was an irreplaceable friend and someone who researched alchemy with me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Huh, you and Luard were from the same village?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Yes... He might be different now, but he wasn't always like that..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "You asked me before why I started using alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Oh, yeah. I remember asking that. You kept saying it was a secret..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Luard and I once studied alchemy together, for the same goal."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "That was to bring people happiness and prosperity through alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Wait, that's..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Yes... The same reason as you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "I was a little embarrassed at the time you asked, so I ended up hiding it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "In the past, Luard and I had the same dreams as you, and researched alchemy for that purpose."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "I didn't know..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "...However, Luard has forgotten that purpose."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Alchemy research was simply a means to reach our goal, but that means became his goal instead."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "...Hey, Plachta? What do you want to do about Luard?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "I need to kill him, with my own hands, no matter what it takes. Just like I did in the past."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Luard can't be left alone while he continues researching Ablation Alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "...Really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "...What?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Do you really want to kill Luard? Are you really thinking that?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "I..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "I see you remembered my wish. To make everyone happy using alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "And of course, that \"everyone\" includes you too, Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Plachta, if you killed Luard... Would you really be happy?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Is that really what you want?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x22,
+            "msg_string": "...No, it isn't."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x23,
+            "msg_string": "He may have changed, but Luard was still my friend."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x24,
+            "msg_string": "We had the same dreams, and researched alchemy together. He was an irreplaceable friend."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x25,
+            "msg_string": "Of course I wouldn't want to kill him!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x26,
+            "msg_string": "But there's no other way! If I leave Luard as he is, then..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "...Hey, Plachta. We should try to persuade Luard together."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Persuade him...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Yeah, we need to make him understand that Ablation Alchemy is dangerous."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "He had the same dreams as you before, right? Then it should be fine. I know he'll understand."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2e,
+            "expr_id": 0x4,
+            "msg_id": 0x2b,
+            "msg_string": "We need to search for a way for everyone to be happy together. Okay?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "It seems you're even more serious and straightforward about your dream than me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "Thank you. I'll try a little harder to see my dream through as well."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Let's persuade Luard together."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "To be honest, there's little hope of success. But we need to do everything we can."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Yeah... That's right! Let's do this, together!"
+        }
+    ]
+}

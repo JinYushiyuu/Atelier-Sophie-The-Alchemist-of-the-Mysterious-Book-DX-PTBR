@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="/Saves/ui/a17_mix/uia_a17_mix_panel.xml"/>
+	<node name="template" load="Saves/ui/uil_template.xml" pos="30.00, 30.00, 0.00"/>
+	<image name="white_bg" style="common_white_image" color="220.00, 220.00, 220.00, 255.00" viewer_visible="true" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="1280.00, 720.00, 0.00" visible="false"/>
+	<node name="clone_targets" viewer_visible="true" visible="false" pos="0, 1, 0">
+		<node name="itemgauge" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false" pos="-0.00, -0.00, -0.00">
+			<text name="eff_name" pos="56, 1, 0" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" text="あいうえおかきくけこ" copy="TEXTCOLOR_BROWN"/>
+			<image name="itemsheet" style="gen_a17_mix04_itemsheet" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="mat_image" pos="3.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="etc_a17_item_s" size_wh="48.00, 48.00, 0.00"/>
+				<image name="cat_image" pos="6.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="etc_a17_category_image" size_wh="42.00, 42.00, 0.00" color="139.00, 113.00, 88.00, 255.00"/>
+				<text text="Lv1" name="eff_level" font_size="18.00" align="right" pos="52.00, 30.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" drop_shadow="true" viewer_visible="false" visible="false"/>
+				<!--ボーナス取得エフェクトの終了位置-->
+				<node name="effect_end_pos" pos="27, 27, 0"/>
+			</image>
+			<image name="gauge" rot="-0.00, -0.00, -0.00" style="gen_a17_mix04_igf02" scale="0.90, 1.00, 1.00" pos="56.00, 25.00, -0.00">
+				<node name="box_root" pos="5, 4, 0">
+					<node name="box_0">
+						<image name="box_image" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_mix04_igb02" pos="8.00, 2.00, 0.00" size_wh="138.00, 17.00, 0.00"/>
+						<anim_ctrl name="anim_ctrl" play="false" loop="true" viewer_key_assign="1">
+							<bind_node anim="eff_blink" node="box_image"/>
+						</anim_ctrl>
+					</node>
+					<node copy="box_0" clone_child_tree="box_0" name="box_1" visible="false"/>
+					<node copy="box_0" clone_child_tree="box_0" name="box_2" visible="false"/>
+					<node copy="box_0" clone_child_tree="box_0" name="box_3" visible="false"/>
+					<node copy="box_0" clone_child_tree="box_0" name="box_4" visible="false"/>
+				</node>
+				<node name="div_root" pos="12.00, 5.00, 0.00">
+					<image name="divide0" style="gen_a17_mix04_divide02" pos="0.00, 0.00, 0.00" pos_ratio_x="0.00" size_wh="10.00, 21.00, 0.00"/>
+					<image copy="divide0" clone_child_tree="divide0" name="divide1" pos="67, 0, 0"/>
+					<image copy="divide0" clone_child_tree="divide0" name="divide2" pos="129.00, 0.00, 0.00" viewer_visible="false"/>
+				</node>
+			</image>
+			<node name="num" pos="25, 27, 0" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="100" name="eff_num" font_size="20.00" align="right" pos="219.00, 2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN"/>
+				<text text="100" name="eff_max_num" font_size="20.00" align="left" pos="229.00, 2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN"/>
+				<text text="/" name="FIX_center" font_size="20.00" align="center" pos="224.00, 2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN"/>
+			</node>
+		</node>
+	</node>
+	<image name="top" style="gen_a17_win01_w01" pos="937, 266, -0" size_wh="330, 402" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+		<image name="size_info" pos="164.00, 40.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="149.00, 124.00, 0.00">
+			<image name="obi01" pos="1.00, -18.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi01"/>
+			<image name="text01" pos="18.00, -14.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_text01" image_no="4"/>
+			<image name="size_icon" pos="45, 34, -0" rot="-0.00, -0.00, -0.00" scale="1.10, 1.10, 1.00" style="gen_a17_item_info01_sizebg">
+				<image name="sizeicon01" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+				<image name="sizeicon02" pos="20.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+				<image name="sizeicon03" pos="40.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+				<image name="sizeicon04" pos="0.00, 20.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+				<image name="sizeicon05" pos="20.00, 20.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+				<image name="sizeicon06" pos="40.00, 20.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+				<image name="sizeicon07" pos="0.00, 40.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+				<image name="sizeicon08" pos="20.00, 40.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+				<image name="sizeicon09" pos="40.00, 40.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+			</image>
+		</image>
+		<image name="quality_box" pos="20.00, 34.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="143.00, 62.00, 0.00">
+			<image name="obi01" pos="-0.00, -12.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi01"/>
+			<image name="text01" pos="18, -10, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_text01" image_no="1"/>
+			<!--↓0817_品質白帯不要-->
+			<text name="quality_text" color="53.00, 19.00, 0.00, 255.00" pos="74.00, 23.00, -0.00" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" text="999" word_space="1.00"/>
+		</image>
+		<image name="use_num_box" pos="23.00, 99.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="140.00, 64.00, 0.00">
+			<image name="obi01" pos="-5.00, -12.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi01"/>
+			<image name="text01" pos="-19, -9, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_text02" image_no="5"/>
+			<text text="99" name="use_num" color="53.00, 19.00, 0.00, 255.00" pos="82.00, 23.00, -0.00" align="right" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="1.00"/>
+			<text text="x" name="FIX_use_tail" color="53.00, 19.00, 0.00, 255.00" pos="98.00, 24.00, -0.00" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="3.50"/>
+		</image>
+		<node name="eff_group" pos="17, 169, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node copy="itemgauge" clone_child_tree="itemgauge" name="itemgauge0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true"/>
+			<node copy="itemgauge" clone_child_tree="itemgauge" name="itemgauge1" pos="0.00, 54.00, 0.00" visible="true"/>
+			<node copy="itemgauge" clone_child_tree="itemgauge" name="itemgauge2" pos="0.00, 108.00, 0.00" visible="true"/>
+			<node copy="itemgauge" clone_child_tree="itemgauge" name="itemgauge3" pos="0.00, 162.00, 0.00" visible="true"/>
+		</node>
+	</image>
+</root>

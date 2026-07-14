@@ -1,0 +1,237 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_020.ebm",
+    "nb_messages": 0x1a,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "I've brought the blueprints for the doll, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oh, hello Fritz! You finished them?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Yeah, here you go."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Hm, hm...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "...I don't get it at all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oh, I suppose so. Well, don't worry about it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "I'm the one who'll be making the doll anyway. It doesn't matter if you don't understand the blueprints."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ah, that's right. That's good..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Yup. Also, I spent many days and sleepless nights perfecting them. There's nothing to worry about."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "I kept mobility in mind, but considered Plachta's gender to make sure there was no lack of feminine curves and..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "A-ah, I see. I-I see! As I'd expect from you, Fritz! Ahahahaha..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "However... There are some things that I need you to prepare for me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Me...? What do you need?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Materials to create the doll. You said that you need this doll to be able to move, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Yes, that's what I was planning..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "I put a lot of emphasis on durability during the planning stage. But I don't think it'll be enough."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Normal materials would wear out after they've been used for a long time. That's why we need special materials."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "This."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Um, so... I need to make this?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Yeah, that's right... Can you do it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Yes, of course. This is a favor I asked from you. I'd love to help however I can."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Good, then I'll leave that to you. Come see me when you finish it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "I got it!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Thanks."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Material for Plachta's body... I need to do my best to make it...!"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Received \"<CLGR>Eternal Brilliance<CLNR>\"."
+        }
+    ]
+}

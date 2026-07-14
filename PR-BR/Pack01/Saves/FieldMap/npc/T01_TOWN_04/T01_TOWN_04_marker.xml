@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_04_marker marker_data="T01_TOWN_040" pos_x="65.9" pos_y="0" pos_z="66.4" rotate_y="-180"/>
+	<T01_TOWN_04_marker marker_data="T01_TOWN_041" pos_x="65.9" pos_y="0" pos_z="65.2" rotate_y="0"/>
+	<T01_TOWN_04_marker marker_data="T01_TOWN_042" pos_x="56.5" pos_y="0" pos_z="55" rotate_y="-40"/>
+	<T01_TOWN_04_marker marker_data="T01_TOWN_043" pos_x="51.63" pos_y="-2.58" pos_z="37.84" rotate_y="-85"/>
+	<T01_TOWN_04_marker marker_data="POS_NPC25A_00" pos_x="56.5" pos_y="0" pos_z="55" rotate_y="-40"/>
+	<T01_TOWN_04_marker marker_data="POS_NPC25A_01" pos_x="66.5" pos_y="0.1" pos_z="65.6" rotate_y="-90"/>
+	<T01_TOWN_04_marker marker_data="POS_NPC26A_00" pos_x="65.77" pos_y="0" pos_z="64.5" rotate_y="-90"/>
+	<T01_TOWN_04_marker marker_data="POS_NPC27A_00" pos_x="66" pos_y="0" pos_z="66" rotate_y="-90"/>
+	<T01_TOWN_04_marker marker_data="POS_NPC26A_01" pos_x="77.7" pos_y="0" pos_z="92" rotate_y="180"/>
+	<T01_TOWN_04_marker marker_data="POS_NPC27A_01" pos_x="76.3" pos_y="0" pos_z="93" rotate_y="140"/>
+	<T01_TOWN_04_marker marker_data="POS_NPC26A_01_RAIN" pos_x="63.2" pos_y="-0.165" pos_z="85.5" rotate_y="50"/>
+	<T01_TOWN_04_marker marker_data="POS_NPC27A_01_RAIN" pos_x="64.2" pos_y="-0.165" pos_z="84.6" rotate_y="45"/>
+</Root>

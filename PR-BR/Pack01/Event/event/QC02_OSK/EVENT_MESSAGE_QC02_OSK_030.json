@@ -1,0 +1,183 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_OSK_030.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Pamela!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Why hello there, Sophie. What do you need?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I'm here to take an order!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "An order? Hmm, there isn't really anything I need Synthesized right now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3f,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Oh, not for that. I'm helping out at the grocery store now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Ah, I see. But why are you working for the grocery store, Sophie?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Um, well..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Oh, I know!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "You don't have any work at your atelier, so you picked up a second job?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "N-no, that's wrong! My atelier's doing just fine!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Oh really? Then why?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Oskar asked me for a favor."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hehe. You're such a good girl, Sophie. You care so much for your friends."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Just make sure you don't do too much extra work, and neglect your atelier."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "I-I know that! More importantly, could you tell me your order?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Oh, right. In that case..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "I think that should do it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Alright, got it. I'll be going now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Yes, yes, be sure to come to the next prayer."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Okay."
+        }
+    ]
+}

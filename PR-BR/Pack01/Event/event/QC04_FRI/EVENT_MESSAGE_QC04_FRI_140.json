@@ -1,0 +1,194 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_FRI_140.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Fritz."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Sophie. What do you need today? Are you here to watch another puppet show?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ahaha, that would be good too. But I came here to ask you something."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "What do you want to ask? Just tell me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Why are you traveling? You don't really need to travel just to put on puppet shows..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "I see, so you want to know the goal of my journey."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "...Well you see, I'm traveling for a simple reason. To fulfill my dream."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Your dream...? Can you tell me...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "It's nothing I need to hide."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "My dream is to perform the greatest puppet show in the world with my daughter."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1a,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "We're traveling around many lands in search of themes to use for that show."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Huh, I see... You want to put on a puppet show with your daughter..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Wait, daughter!? You have a daughter!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Yes, I do. She's just a little older than you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "I-I had no idea... This is the first I've heard of it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "I wasn't trying to hide it or anything... But nobody ever asked."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Well, it's true that I didn't ask..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hahaha. Anyway, now you know the reason why I'm traveling."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "A-ahaha, I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(I didn't think Fritz had a daughter... That was surprising...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "(But I wonder what kind of person she is... Maybe I should ask him next time.)"
+        }
+    ]
+}

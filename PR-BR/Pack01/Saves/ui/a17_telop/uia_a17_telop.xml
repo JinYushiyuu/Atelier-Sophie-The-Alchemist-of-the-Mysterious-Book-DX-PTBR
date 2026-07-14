@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+
+	<anim name="anm_a0">
+		<curve attr="color">
+			<key time="0.0" value="255,255,255,0"/>
+		</curve>
+	</anim>
+
+	<anim name="anm_a255">
+		<curve attr="color">
+			<key time="0.0" value="255,255,255,255"/>
+		</curve>
+	</anim>
+</root>

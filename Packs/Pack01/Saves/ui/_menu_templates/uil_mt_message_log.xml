@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!-- アニメーションの読み込み -->
+	<command load_anim="Saves/ui/_menu_templates/uia_mt_common.xml"/>
+	<node load="Saves/ui/uil_template.xml"/>
+	<!-- 下地ウィンドウ -->
+	<image name="__uimenu_window" size_wh="811.00, 608.00, 0.00" style="gen_log01_window01">
+		<!--スクロールバー-->
+		<scroll_bar name="__uimenu_scroll_bar" pos="-40, 102, 0" style="common_scroll_bar_log" size_h="417.00" pos_ratio_x="1.00"/>
+		<!-- メニュー項目 -->
+		<node name="__uimenu_body" pos="13,63">
+			<!-- メニューカーソル(不要なので非表示に) -->
+			<node name="__uimenu_cursor" visible="false">
+				<image name="__uimenu_cursor_inactive" style="common_none_image"/>
+				<image name="__uimenu_cursor_active" style="common_none_image"/>
+			</node>
+			<!-- メニュー項目リスト(この下にMenuItemが連なる) -->
+			<node pos="25, 5" name="__uimenu_item_list"/>
+		</node>
+	</image>
+</root>

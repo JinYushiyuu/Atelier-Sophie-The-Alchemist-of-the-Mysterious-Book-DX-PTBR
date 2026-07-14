@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_04_message message_data="QC11_ELI_130_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="I-Is it really true...?" next_message_tag="QC11_ELI_130_PLACHTA"/>
+    <T01_TOWN_04_message message_data="QC11_ELI_130_PLACHTA" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="-1" message1="Yes, it really is."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_OP_0" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="Looking for Monika? I think I saw her in the plaza earlier..." next_message_tag="TOWN_04_NPC25A_OP_1"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_OP_1" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="The hill from the plaza to the edge of town is really hard on an old lady..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_00" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="Whew... It's hard work drawing water from the well..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_01" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_10" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="Whew... It's hard work just walking up the hill..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_11" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_20" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="Whew... Today's weather is nice too, isn't it?"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_21" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_30" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="Whew... Today's weather is nice too, isn't it?"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_31" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_40" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="Whew... Today's weather is nice too, isn't it?"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_41" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_SLEEP" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_00" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="It's fun to have Uni fights. Although it hurts a little..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_00" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="11776" message1="Ah... Hello, excuse me."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_10" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="I'm kind of bored of Uni fights. Let's think up a new game to play."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_10" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="11776" message1="Ah... Hello, excuse me."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_20" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="How about hitting an Uni with a stick and sending it flying...?"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_20" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="11776" message1="It looks like my little brother really enjoys coming up with new games."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_21" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="-1" message1="..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_30" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="A new game to play using Uni, huh. Hmm, I can't think of anything..."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_30" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="11776" message1="Ah... Hello, excuse me."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_40" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="I thought of a way to have Uni fights without it hurting." next_message_tag="TOWN_04_NPC26A_41"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_41" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="You throw the Uni from here, and the person who gets it to stick in the furthest tree wins."/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_40" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="11776" message1="The new game my little brother came up with is kind of boring." next_message_tag="TOWN_04_NPC27A_41"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_41" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="-1" message1="It needs to have both throwing and dodging... It's more fun when it isn't just a game of pure strength."/>
+</Root>

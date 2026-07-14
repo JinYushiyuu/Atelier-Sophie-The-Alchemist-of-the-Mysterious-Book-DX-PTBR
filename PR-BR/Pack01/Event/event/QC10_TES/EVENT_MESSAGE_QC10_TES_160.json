@@ -1,0 +1,168 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_TES_160.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oh, welcome Sophie. You've got a nice smile today, as usual."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ehehe, really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Yeah. But..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "W-what is it...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Well, you're always wearing similar looking clothes..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "You've got such a cute face, you should wear something more stylish."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Y-you think so...? But you're always wearing the same thing too, Tess."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "I'm wearing this shop's uniform."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Oh, right... By the way, are the bunny ears part of the uniform?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "No, this is my own original addition. The Meister allowed it, too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Huh... Is Mr. Horst really into bunny ears or something?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "That's quite a misunderstanding. The rabbit ears are popular with the children, that's why I allowed them."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "First time hearing that... I thought it was because it's popular with the male customers..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Ahem!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "W-we probably shouldn't push this issue too much further..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Y-yeah..."
+        }
+    ]
+}

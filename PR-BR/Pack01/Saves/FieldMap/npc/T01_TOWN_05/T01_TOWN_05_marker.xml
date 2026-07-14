@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_05_marker marker_data="QC01_MON_140_MONIKA" pos_x="80.55" pos_y="-1.13" pos_z="53.76" rotate_y="74"/>
+	<T01_TOWN_05_marker marker_data="QC01_MON_320_MONIKA" pos_x="54.08" pos_y="-1.01" pos_z="51.98" rotate_y="-89"/>
+	<T01_TOWN_05_marker marker_data="QC02_OSK_080_OTTO" pos_x="0" pos_y="0" pos_z="0" rotate_y="0"/>
+	<T01_TOWN_05_marker marker_data="QC02_OSK_330_OTTO" pos_x="82.82" pos_y="-1.04" pos_z="53.29" rotate_y="88"/>
+	<T01_TOWN_05_marker marker_data="QC02_JUL_020_JULIO" pos_x="56.22" pos_y="-0.97" pos_z="51.79" rotate_y="-89"/>
+	<T01_TOWN_05_marker marker_data="QC11_ELI_030_ELISE" pos_x="60.67" pos_y="0.06" pos_z="72.23" rotate_y="320"/>
+	<T01_TOWN_05_marker marker_data="T01_TOWN_056" pos_x="64" pos_y="0" pos_z="75.5" rotate_y="0"/>
+	<T01_TOWN_05_marker marker_data="T01_TOWN_057" pos_x="51.63" pos_y="-2.58" pos_z="37.84" rotate_y="-85"/>
+	<T01_TOWN_05_marker marker_data="T01_TOWN_058" pos_x="75.67" pos_y="-2.02" pos_z="40.48" rotate_y="128"/>
+	<T01_TOWN_05_marker marker_data="POS_NPC27A_00" pos_x="75.67" pos_y="-2.02" pos_z="40.48" rotate_y="128"/>
+	<T01_TOWN_05_marker marker_data="POS_NPC27A_00_RAIN" pos_x="53.8" pos_y="-2.92" pos_z="36" rotate_y="50"/>
+	<T01_TOWN_05_marker marker_data="POS_NPC25A_00" pos_x="50.5" pos_y="-1" pos_z="53" rotate_y="-50"/>
+	<T01_TOWN_05_marker marker_data="POS_NPC26B_00" pos_x="68" pos_y="0.16" pos_z="76.17" rotate_y="36"/>
+	<T01_TOWN_05_marker marker_data="POS_DOG_00" pos_x="69.5" pos_y="0.1" pos_z="78" rotate_y="0"/>
+</Root>

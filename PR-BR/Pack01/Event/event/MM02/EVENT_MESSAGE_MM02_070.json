@@ -1,0 +1,299 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_070.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x7,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "This is the place."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "So where's this monster you were talking about?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Uh... Oh, over there."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Wait... Is that... The monster?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3c,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Yeah, that's the one."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Wait, Oskar! You never said it looked THAT strong!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "I did! I clearly told you it was a \"terrible\" monster!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1f,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "I know you said that! But you didn't say it was THAT terrible!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Stop, both of you! Be quiet...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "It noticed us!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "W-what should we do...!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x14,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x2,
+            "msg_string": "GURRRAAWR!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Sophie!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "A-aaaah!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x4,
+            "name_id": 0x25,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x2,
+            "msg_string": "Haaaaaah!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x14,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x2,
+            "msg_string": "GUGAHH...!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x2,
+            "msg_string": "Wha...?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0xffffffff,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "unknown2": 0x2,
+            "msg_string": "The monster..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xe,
+            "msg_id": 0x12,
+            "unknown2": 0x2,
+            "msg_string": "He took it out in one hit!? Who is that guy!?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x2,
+            "msg_string": "I was... Saved?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Are you okay? Are you injured?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Uh, um... I'm okay..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x25,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "I see, that's good. Then I'll be taking my leave."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "He left..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x7,
+            "expr_id": 0xe,
+            "msg_id": 0x18,
+            "msg_string": "Sophie! Are you okay!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Um, yeah..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "But... Who was that...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "I don't know... But he saved me, so he must be a good person..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "I'm sorry, Sophie! It's all because I insisted that you come and help fight that monster..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Ahaha, it's okay. The monster's been beaten, so it's all fine in the end."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x3,
+            "msg_id": 0x1e,
+            "msg_string": "But we can't be sure another monster like that won't appear. We should hurry back to town."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(Oh, now that I think about it... I forgot to ask that guy's name...)"
+        }
+    ]
+}

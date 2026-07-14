@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_dollmake01_b" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="1088,1410,44,40"/>
+	<image name="gen_a17_dollmake01_bg" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="0,0,1536,900"/>
+	<image name="gen_a17_dollmake01_comment" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="0,904,536,180"/>
+	<image name="gen_a17_dollmake01_comment02" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="6,1290,536,180"/>
+	<image name="gen_a17_dollmake01_doll" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="800,904,280,620"/>
+	<image name="gen_a17_dollmake01_f" texture="ui/a17_dollmake.g1t"  texture_index="0" prim_type="wrap" edge_margin="472,115,168,69" uvwh="0,1084,800,200"/>
+	<image_list name="gen_a17_dollmake01_icon01">
+		<image name="gen_a17_dollmake01_icon01__xLIST01" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="536,904,32,32"/>
+		<image name="gen_a17_dollmake01_icon01__xLIST02" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="568,904,32,32"/>
+	</image_list>
+	<image name="gen_a17_dollmake01_itembg" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="536,936,116,116"/>
+	<image name="gen_a17_dollmake01_line" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="604,904,148,10"/>
+	<image name="gen_a17_dollmake01_linebg" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="1088,1312,96,96"/>
+	<image name="gen_a17_dollmake01_ok" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="673,919,120,128"/>
+	<image name="gen_a17_dollmake01_sheet" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="1088,904,448,380"/>
+	<image_list name="gen_a17_dollmake01_start">
+		<image name="gen_a17_dollmake01_start__xLIST01" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="1242,1298,292,116"/>
+		<image name="gen_a17_dollmake01_start__xLIST02" texture="ui/a17_dollmake.g1t" texture_index="0" uvwh="1243,1419,292,116"/>
+	</image_list>
+	<image name="gen_a17_dollmake02_bg01" texture="ui/a17_dollmake.g1t" texture_index="1" uvwh="0,0,455,81"/>
+	<image name="gen_a17_dollmake02_l" texture="ui/a17_dollmake.g1t" texture_index="1" uvwh="479,0,55,43"/>
+	<image name="gen_a17_dollmake02_l_nx" texture="ui/a17_dollmake.g1t" texture_index="1" uvwh="597,0,55,43"/>
+	<image name="gen_a17_dollmake02_l_pc" texture="ui/a17_dollmake.g1t" texture_index="1" uvwh="612,49,61,43"/>
+	<image name="gen_a17_dollmake02_line" texture="ui/a17_dollmake.g1t" texture_index="1" uvwh="0,102,605,81"/>
+	<image name="gen_a17_dollmake02_r" texture="ui/a17_dollmake.g1t" texture_index="1" uvwh="538,0,55,43"/>
+	<image name="gen_a17_dollmake02_r_nx" texture="ui/a17_dollmake.g1t" texture_index="1" uvwh="657,0,55,43"/>
+	<image name="gen_a17_dollmake02_r_pc" texture="ui/a17_dollmake.g1t" texture_index="1" uvwh="683,49,61,43"/>
+</root>

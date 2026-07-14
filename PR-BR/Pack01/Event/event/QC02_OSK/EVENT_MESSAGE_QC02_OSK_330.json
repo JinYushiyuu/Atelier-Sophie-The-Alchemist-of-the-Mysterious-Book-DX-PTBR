@@ -1,0 +1,195 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_OSK_330.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oskar, what are you doing here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hey, Sophie. It's a coincidence seeing you here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0xf,
+            "msg_id": 0x2,
+            "msg_string": "I'm actually planting some seeds."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Is that an Eternal Blossom!? Why is it here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "The Eternal Blossom told me that it wanted to go to all kinds of places."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "That's why we're looking for good places for it to live."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "I see."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I've been improving many places to make them more comfortable for plants to live."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "But I might need to create new places for plants that can only live in special habitats, like the Eternal Blossom."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "This isn't only for the Eternal Blossom. I want all kinds of plants to be able to live around our town."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Wow! Do your best, Oskar!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Hey, you're acting like this is only my job."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Huh?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "You need to help too, Sophie. You can help the plants live better through alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "That way, we can show everyone just how amazing plants really are."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Wha-... Whaaat!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "You use plants for alchemy, right? That should only be natural."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "I guess I do, now that you mention it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "I'm going to go check other places. See you later, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Well, Oskar's back to normal, so I guess everything turned out okay."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Oskar learned the skill \"<CLGR>Field Walker<CLNR>\"."
+        }
+    ]
+}

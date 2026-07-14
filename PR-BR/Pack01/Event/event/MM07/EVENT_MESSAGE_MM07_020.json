@@ -1,0 +1,114 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM07_020.ebm",
+    "nb_messages": 0xc,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Monika, there's something I want to ask you..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "What is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Um, well..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Yeah. So I was wondering if you had any ideas about the materials Plachta mentioned."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Come to think of it, those \"Sun Drops\"... I feel like I heard about them in the past..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Really!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Yes, but where did I hear about it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "...I'm sorry, I can't remember."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "No, don't worry about it. It's not your fault."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I'm sorry I couldn't be of any use."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "It's fine, really. Don't worry about it. I'll see you later."
+        }
+    ]
+}

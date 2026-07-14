@@ -1,0 +1,257 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS01_020.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Is that really okay? I think you should eat more vegetables."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Well, I actually think meat would be better for that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "What are you two talking about?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Oh, Sophie, listen to this. Sir Julio was telling me that I'm too fat!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Yeah, he's right."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "What are you talking about? I've lost a lot of weight since we first met Sir Julio. Can't you tell just by looking?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Wait, you have? I didn't notice at all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x5,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "What!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "See? That's why I told you. You need to lose weight, Oskar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Let's see, maybe you should get a little more exercise?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Uu... Even if you're right, you're way too skinny!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "You're going to get seriously injured if you keep swinging around that huge sword with such a thin body."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I don't know about that..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Sophie, what do you think?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Huh? Me? Um..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "I think Oskar is right, too. It would be too late once you're injured, after all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "As a member of the Church, I follow a simple diet. However, I'd be a failure as a knight if I can't protect anyone."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Perhaps your reasoning is correct."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "That's right! If you get fat too, people won't think I have a problem anymore."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Um, that's a different subject entirely..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "I don't think there's any problems as you are now. You've trained a lot after all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "That's the duty of a knight."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Huh, you really think so?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Oskar, were you hoping that Sir Julio would get fat so we wouldn't think you need to lose weight?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "Gah!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "*Sigh*. I knew it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Oskar, you need to lose weight, regardless of Sir Julio. It's for your own good."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "I-I know..."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_ZZ01_030.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Fields contain Gathering Points where you gather materials, and Enemy Symbols that start battles when you touch them."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Defeating enemies can give you materials too, so fighting can have lots of benefits."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Details about items obtained in the field will be hidden until you leave."
+        }
+    ]
+}

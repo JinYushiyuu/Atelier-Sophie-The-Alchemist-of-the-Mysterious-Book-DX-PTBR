@@ -1,0 +1,59 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY01_100.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "We're here... But those two aren't."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Indeed... Should we check further inside, just in case?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Yeah, sounds good."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Haah... They're nowhere to be found."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Yes... I suppose this was the wrong place to look."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Yeah... Let's try going somewhere else..."
+        }
+    ]
+}

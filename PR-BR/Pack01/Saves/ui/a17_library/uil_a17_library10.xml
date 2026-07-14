@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="node_left" pos="71.00, 526.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<!--***↓モンスター詳細01,02の左側 ***-->
+			<node name="node_main" pos="-1.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="obi01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win02_obi01" pos="-19.00, -387.00, -0.00" size_wh="559.00, 73.00, 0.00">
+					<text text="あああああ" name="text_name" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" align="center" pos="275.00, 8.00, -0.00" font_size="26.00"/>
+				</image>
+				<node name="monster" pos="27.00, -318.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="itembg" style="gen_a17_library01_itembg" pos="-37, 1, 0"/>
+					<image name="img_monster" style="etc_a17_monster_l" pos="21.00, 53.00, 0.00" size_wh="168.00, 168.00, 0.00"/>
+					<image name="lvacce" style="gen_a17_item_info02_lvacce" pos="-19.00, 18.00, 0.00" viewer_visible="true" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<text text="99" name="text_level" font="A17_LV01" pos="22.00, 22.00, 0.00" word_space="-15.00" align="center" font_size="29.00"/>
+					</image>
+					<image name="img_clip" style="gen_a17_win01_checkicon01" pos="-17.00, 201.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.50, 1.50, 1.00" size_wh="40.00, 40.00, 0.00"/>
+				</node>
+				<!--***↓それ以外用 ***-->
+				<node name="node_mat" pos="297.00, -294.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="name" style="gen_a17_win01_obi01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<text text="Type" name="text_note_2" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" align="center" pos="100.00, 8.00, 0.00" font_size="26.00" word_space="-1.00"/>
+						<image name="img_race" pos="-15.00, 63.00, -0.00" scale="1.00, 1.00, 1.00" style="etc_a17_category_monster" rot="-0.00, -0.00, -0.00" size_wh="38.00, 38.00, 0.00" color="149.00, 98.00, 84.00, 255.00"/>
+					</image>
+					<text name="text_race" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" pos="28.00, 68.00, -0.00" font_size="26.00" align="left" text="あいうえおかき"/>
+				</node>
+				<!--***↓説明会話用 ***-->
+				<node name="node" pos="-0.00, -34.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library_iconnote.xml"/>
+			</node>
+		</node>
+		<!--***↓モンスター詳細01の右側 ***-->
+		<node name="node_right" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="662.00, 139.00, 0.00" visible="false" viewer_visible="true">
+			<!--***↓ステータス ***-->
+			<node name="node_kind" pos="21.00, 8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="w03" style="gen_a17_win02_w03" pos="-1.00, 6.00, -0.00" size_wh="532.00, 308.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="obi02" style="gen_a17_item_info01_obi02" pos="7.00, -12.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="212, 44"/>
+				<image name="text" style="gen_a17_library01_text" pos="53, -2, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="9"/>
+				<node name="hp" pos="-6.00, -4.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<text text="HP" name="hp" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="95.00, 44.00, 0.00" align="left" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+					<text text="99999" name="text_hp" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="456.00, 44.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<image name="line_1" style="gen_a17_win01_line03" pos="51, 76, -0" size_wh="436, 7" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="atk" pos="-6.00, 46.25, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<text text="Attack" name="atk" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="95.00, 44.00, 0.00" align="left" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+					<text text="99999" name="text_atk" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="456.00, 44.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<image name="line_1" style="gen_a17_win01_line03" pos="51, 76, -0" size_wh="436, 7" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="def" pos="-6.00, 96.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<text text="Defense" name="def" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="95.00, 44.00, 0.00" align="left" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+					<text text="99999" name="text_def" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="456.00, 44.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<image name="line_1" style="gen_a17_win01_line03" pos="51, 76, -0" size_wh="436, 7" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="spd" pos="-6.00, 146.75, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<text text="Speed" name="spd" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="95.00, 44.00, 0.00" align="left" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+					<text text="99999" name="text_spd" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="456.00, 44.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<image name="line_1" style="gen_a17_win01_line03" pos="51, 76, -0" size_wh="436, 7" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<!--わかりづらいので耐性をResistに。-->
+				<node name="res" pos="-6.00, 197.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<text text="Resist" name="tolerance" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="95.00, 44.00, 0.00" align="left" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+					<node name="icon" pos="95.00, 44.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="img_resicon3" pos="182.60, -5.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_01" rot="0.00, -0.00, 0.00" size_wh="38.00, 38.00, 0.00"/>
+						<image name="img_resicon2" pos="230.40, -5.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_01" rot="0.00, -0.00, 0.00" size_wh="38.00, 38.00, 0.00"/>
+						<image name="img_resicon1" pos="278.20, -5.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_01" rot="0.00, -0.00, 0.00" size_wh="38.00, 38.00, 0.00"/>
+						<image name="img_resicon0" pos="326.00, -5.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_01" rot="0.00, -0.00, 0.00" size_wh="38.00, 38.00, 0.00"/>
+					</node>
+					<image name="line_1" style="gen_a17_win01_line03" pos="51, 76, -0" size_wh="436, 7" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+			<!--***↓リザルト ***-->
+			<node name="node_modname" pos="20.00, 362.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="w03" style="gen_a17_win02_w03" pos="-2.00, -5.00, -0.00" size_wh="537.00, 170.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="obi02" style="gen_a17_item_info01_obi02" pos="7, -25, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="212, 44"/>
+				<image name="text" style="gen_a17_library01_text" pos="62, -14, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="10"/>
+				<node name="exp" pos="-5.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<text text="EXP" name="exp" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="95.00, 44.00, 0.00" align="left" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+					<text text="99999" name="text_exp" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="456.00, 44.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<image name="line_1" style="gen_a17_win01_line03" pos="51, 76, -0" size_wh="436, 7" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="money" pos="-5.00, 42.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<image name="coin" pos="103, 42, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request01_coin"/>
+					<text text="99999" name="text_money" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="456.00, 44.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<image name="line_1" style="gen_a17_win01_line03" pos="51, 76, -0" size_wh="436, 7" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+		</node>
+		<!--***↓モンスター詳細02の右側 ***-->
+		<node name="node_right2" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="662.00, 139.00, 0.00" visible="false" viewer_visible="true">
+			<!--***↓生息地***-->
+			<node name="node_kind" pos="21.00, 8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="w03" style="gen_a17_win02_w03" pos="-1.00, 6.00, -0.00" size_wh="535.00, 205.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="map" rot="-0.00, -0.00, -0.00" scale="0.58, 0.58, 1.00" load="/Saves/ui/a17_library/uil_a17_library_map.xml" pos="6.00, 24.00, 0.00"/>
+				<node name="node_map_etc" pos="202.00, 120.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<image name="obi02_2" style="gen_a17_item_info01_pagebg" rot="0.00, 0.00, -13.00" scale="1.00, 1.00, 1.00" pos="252, 70, -0">
+						<text text="Etc." name="text_etc" copy="TEXTCOLOR_BROWN" pos="25.56, -8.47, -0.00" align="left" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, 13.01" viewer_visible="true"/>
+					</image>
+				</node>
+				<image name="obi02" style="gen_a17_item_info01_obi01" pos="7.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="183, 42"/>
+				<image name="text" style="gen_a17_library01_text" pos="30.00, -7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="11"/>
+				<node name="name" pos="11, -5, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<text text="採取地あいうえおか" name="text_mapname0" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="289.00, 42.00, 0.00" scale="1.00, 1.00, 1.00" align="left" word_space="-1.00"/>
+					<text text="採取地あいうえおか" name="text_mapname1" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="289.00, 69.50, 0.00" scale="1.00, 1.00, 1.00" align="left" word_space="-1.00"/>
+					<text text="採取地あいうえおか" name="text_mapname2" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="289.00, 97.00, 0.00" scale="1.00, 1.00, 1.00" align="left" word_space="-1.00"/>
+					<text text="採取地あいうえおか" name="text_mapname3" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="289.00, 124.50, 0.00" scale="1.00, 1.00, 1.00" align="left" word_space="-1.00"/>
+					<text text="採取地あいうえおか" name="text_mapname4" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" pos="289.00, 152.00, 0.00" scale="1.00, 1.00, 1.00" align="left" word_space="-1.00"/>
+				</node>
+			</node>
+			<!--***↓落とすアイテム ***-->
+			<node name="node_modname" pos="21, 245, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="w03" style="gen_a17_win02_w03" pos="-2.00, -5.00, -0.00" size_wh="535.00, 288.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="node_item_etc" pos="202.00, 195.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+					<image name="obi02_2" style="gen_a17_item_info01_pagebg" rot="0.00, 0.00, -13.00" scale="1.00, 1.00, 1.00" pos="252, 70, -0">
+						<text text="Etc." name="text_etc" copy="TEXTCOLOR_BROWN" pos="25.56, -8.47, -0.00" align="left" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, 13.01" viewer_visible="false"/>
+					</image>
+				</node>
+				<image name="obi02" style="gen_a17_item_info01_obi02" pos="7.00, -25.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="212, 44"/>
+				<image name="text" style="gen_a17_library01_text" pos="30.00, -14.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="node_dropitem0" pos="15.00, 48.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<image name="itembg" style="gen_a17_item_info01_itembg01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="180.00, 180.00, 0.00"/>
+					<image name="img_item" style="etc_a17_item_l" pos="37.00, 37.00, 0.00" rot="-0.00, -0.00, -0.00" size_wh="90.00, 90.00, 0.00" scale="1.00, 1.00, 1.00" image_no="0"/>
+					<image name="lvacce" style="gen_a17_item_info02_lvacce" pos="0, 6, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="50.00, 50.00, 0.00">
+						<text text="99" name="text_level" font="A17_LV01" pos="17.00, 17.00, 0.00" word_space="-15.00" align="center" font_size="23.00"/>
+					</image>
+					<image name="img_color" style="gen_a17_item_info02_color" pos="109, 3, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="55, 54"/>
+					<node name="rarity" pos="92, 107, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="img_gold" style="gen_a17_library03_gold" pos="-93.00, 14.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<image name="img_silver" style="gen_a17_library03_silver" pos="-66.00, 14.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<image name="img_bronze" style="gen_a17_library03_bronze" pos="-37.00, 14.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+					</node>
+				</node>
+				<node copy="./node_dropitem0" clone_child_tree="./node_dropitem0" name="node_dropitem1" pos="185.50, 48.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<command target_node="img_silver" set_visible="true"/>
+				</node>
+				<node copy="./node_dropitem0" clone_child_tree="./node_dropitem0" name="node_dropitem2" pos="356.00, 48.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<command target_node="img_gold" set_visible="true"/>
+				</node>
+				<command target_node="./node_dropitem0/img_bronze" set_visible="true"/>
+			</node>
+		</node>
+	</node>
+</root>

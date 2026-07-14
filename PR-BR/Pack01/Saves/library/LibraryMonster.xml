@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <LibraryMonster note="&quot;This monster has a squishy body... You really can find Puni just about anywhere.&quot;&lt;CR&gt;&quot;You're right. They aren't very strong, but you need to be careful if they swarm you.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This Puni is green.&quot;&lt;CR&gt;&quot;Maybe they colored themselves green for camouflage? Then they could blend in with grass and other plants...&quot;&lt;CR&gt;&quot;...I really doubt they're thinking that deeply about it.&quot;" icon0="3" icon1="0" icon2="-1" icon3="3" permit="true"/>
+    <LibraryMonster note="&quot;This Puni is red... I wonder why?&quot;&lt;CR&gt;&quot;Well you see, it's from the blood of their prey...&quot;&lt;CR&gt;&quot;Eek! Really!? Uu, that's scary...&quot;&lt;CR&gt;&quot;Don't lie. That's just their natural color.&quot;" icon0="0" icon1="3" icon2="0" icon3="2" permit="true"/>
+    <LibraryMonster note="&quot;It's a golden Puni! It's so unusual! ...Maybe we could sell it for a lot of money if we catch it?&quot;&lt;CR&gt;&quot;No, it might be golden, but it's still just a Puni... I doubt anyone would want to buy it.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;Ugh, it's all pitch black and sinister looking... Even though it's just a Puni.&quot;&lt;CR&gt;&quot;Yes. Its strength is also nothing to take lightly... Even though it's just a Puni.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;...Puni Puni?&quot;&lt;CR&gt;&quot;No, that's wrong. It's 'Punipuni?'.&quot;&lt;CR&gt;&quot;...How's that any different?&quot;&lt;CR&gt;&quot;The real question is, how is it the same?&quot;" icon0="0" icon1="17" icon2="0" icon3="17" permit="true"/>
+    <LibraryMonster note="&quot;Um... S-super...?&quot;&lt;CR&gt;&quot;This is a superior Puni. It's said that this is the evolved form of a Puni, after a long time has passed. Its strength should not be taken lightly.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;Admiral...?&quot;&lt;CR&gt;&quot;Yes, as in the commander of a fleet. It must mean that this is a Puni leader.&quot;&lt;CR&gt;&quot;...That actually doesn't sound very impressive.&quot;" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;It's a floating book... Is it different from you?&quot;&lt;CR&gt;&quot;Don't compare Plachta to that!&quot;&lt;CR&gt;&quot;It's upsetting that you would compare me to this.&quot;&lt;CR&gt;&quot;O-oh... Sorry...&quot;" icon0="3" icon1="0" icon2="17" icon3="3" permit="true"/>
+    <LibraryMonster note="&quot;This is a flying book monster. It looks like there's some sort of picture drawn inside.&quot;&lt;CR&gt;&quot;Oh, you're right. What could it be...?&quot;&lt;CR&gt;&quot;Maybe that picture is the actual monster?&quot;" icon0="0" icon1="-1" icon2="2" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;Hmm, a living grimoire, huh...&quot;&lt;CR&gt;&quot;What are you thinking about?&quot;&lt;CR&gt;&quot;Since there's a living grimoire, I was wondering if there could be living novels or snack books, too.&quot;" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;It seems this book contains forbidden knowledge.&quot;&lt;CR&gt;&quot;*Gulp*. Maybe it tells you how to make tons of money...?&quot;&lt;CR&gt;&quot;...I doubt that would be considered taboo.&quot;" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryMonster note="&quot;Apparently this book seizes the souls of the living, trapping them in its pages.&quot;&lt;CR&gt;&quot;I want to be written about in books some day, but not like that...&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;It would seem that this book, filled with knowledge of all creation, has taken on life.&quot;&lt;CR&gt;&quot;I bet I could become an amazing alchemist if I read this, but... That seems like cheating, so I don't really want to.&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;I-it's a ghooost!&quot;&lt;CR&gt;&quot;...I knew that you can't handle ghosts, but is it so bad that you need to shout?&quot;&lt;CR&gt;&quot;Of course! I hate ghosts! I don't want them near me!&quot;" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This ghost is all red. They seem to be especially aggressive towards Sophie and Monika... I guess they don't like you?&quot;&lt;CR&gt;&quot;I don't want a ghost to like me, anyway!&quot;" icon0="3" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This ghost is wearing a silk hat. It seems to act like a gentleman, too.&quot;&lt;CR&gt;&quot;...That's a lie. It wants to trick me by acting that way, then eat me. That's definitely it!&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;It seems that this is a dangerous ghost, using magical fire to burn the souls of humans.&quot;&lt;CR&gt;&quot;Uu, it's just a ghost, but it does more than just scare you... What a nuisance...&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;Bahahaha! This one has a really funny face! Something like this can't be scary to you, can it?&quot;&lt;CR&gt;&quot;...Don't judge things by their faces. Ghosts are always plotting something terrible!&quot;" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;These are shadows of women who died unnatural deaths, and couldn't throw away their attachment to this world.&quot;&lt;CR&gt;&quot;I can understand why you would be attached, but no need to cause trouble...&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;It's a cute plant that can walk around. You must like them too, Oskar.&quot;&lt;CR&gt;&quot;No, don't let them trick you, Sophie. They're monsters that just take the form of plants.&quot;" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This is a plant monster... Right?&quot;&lt;CR&gt;&quot;Yeah. It's a dangerous monster that spreads poisonous pollen when it feels threatened.&quot;&lt;CR&gt;&quot;Really? ...I'm glad I didn't try to pet it.&quot;" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This monster has a really poisonous color...&quot;&lt;CR&gt;&quot;You need to be careful about the seeds it shoots from its mouth. They have a lot of power, so you won't get off lightly if you're hit.&quot;" icon0="0" icon1="3" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This monster smells kind of nice...&quot;&lt;CR&gt;&quot;Watch out! Smelling that will make you hallucinate, then it'll plant its seeds inside you.&quot;&lt;CR&gt;&quot;Its seeds!? Wow, that could have been dangerous...&quot;" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;...This monster has a dangerous name.&quot;&lt;CR&gt;&quot;It has a terrible cry. It's said that hearing it will make you go mad, then die...&quot;&lt;CR&gt;&quot;Ah, so it wasn't just its name that's dangerous...&quot;" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;Ugh, it's all black, and it looks emotionless... This monster's scary, you don't know what it's thinking...&quot;&lt;CR&gt;&quot;Don't stare into its eyes. I don't know the reason why, but you can end up paralyzed.&quot;" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;Wow! This is really cute!&quot;&lt;CR&gt;&quot;It might look like this, but it's still a demon. Be careful. Although they mostly just enjoy playing pranks on people...&quot;" icon0="0" icon1="2" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This is a type of imp. Its claws are coated in poison to make you numb and disabled.&quot;&lt;CR&gt;&quot;I didn't know... I guess that means we shouldn't approach it carelessly.&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;As its name suggests, this is a small demon. As a young demon, it follows the orders of grown demons.&quot;&lt;CR&gt;&quot;It probably won't be so cute when it grows up...&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This is a type of imp that always acts in large groups. They attack prey as a group, and play every trick in the book on them.&quot;&lt;CR&gt;&quot;That actually sounds pretty nasty...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;Its horns are all curly and cute.&quot;&lt;CR&gt;&quot;Those horns are said to store vast magical power. It can unleash magic that rivals that of even greater demons.&quot;" icon0="0" icon1="2" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;Demon... Lord...? Something this tiny?&quot;&lt;CR&gt;&quot;Don't judge things by their appearances. It may have been sealed, but it was once a demon lord. It is endowed with a nearly infinite supply of magical power.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This is a bird monster. They raid fields and prey on livestock, so farmers really hate them.&quot;&lt;CR&gt;&quot;I'd be shocked if a bird like this showed up in my fields, too.&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This is one of the larger species of birds. Due to its appearance, it's often called the king of birds.&quot;&lt;CR&gt;&quot;There sure are a lot of kings, in that case...&quot;&lt;CR&gt;&quot;It's mostly just a nickname, anyway.&quot;" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryMonster note="&quot;Those talons are really sharp... You'd be done for if it caught you...&quot;&lt;CR&gt;&quot;It's actually able to capture prey that's larger than itself, so you need to be careful.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This bird's name is like a person's name.&quot;&lt;CR&gt;&quot;Apparently the person who first discovered it was named Gustaf... Although he died of his wounds soon after making the bird's existence known to the public.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;Wow, this one's ridiculously big.&quot;&lt;CR&gt;&quot;Yeah. It's even bigger than Oskar...&quot;&lt;CR&gt;&quot;A single flap of its wings can create huge gusts. We need to be careful...&quot;" icon0="3" icon1="0" icon2="3" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;It's said that this enormous bird is blessed by the moon itself.&quot;&lt;CR&gt;&quot;I see... It's true that it's as beautiful as the moon...&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;A beast's body, and the tail of a snake... I wonder which one is in control?&quot;&lt;CR&gt;&quot;I don't know, but they work together when attacking, making it very troublesome.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This monster got its name because it moves as fast as lightning.&quot;&lt;CR&gt;&quot;Yeah... If you try to follow its movements, it's so fast that you'll end up dizzy...&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;If you were bitten by fangs that big, it would probably be fatal...&quot;&lt;CR&gt;&quot;It has a habit of hiding its presence, then ambushing prey. We need to be careful for surprise attacks...&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;The tail of this beast is more developed in this type than others. It's said that the head and tail each possess their own will.&quot;&lt;CR&gt;&quot;I wonder if they ever fight?&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;Silent... What's so silent about it?&quot;&lt;CR&gt;&quot;Apparently, it's because it kills its prey so fast that they don't even have time to cry out.&quot;&lt;CR&gt;&quot;Ah, so the monster itself isn't silent...&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This monster looks really heated up...&quot;&lt;CR&gt;&quot;Its fangs are as hot as burning metal. It cauterizes the wound when it bites, making it so that it can't heal properly.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This type of fish inhabits the waterside. It's fairly gentle, and there aren't many stories of humans being attacked. They actually approach playfully.&quot;&lt;CR&gt;&quot;That playfulness is actually what's threatening.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryMonster note="&quot;This fish has a large horn. It's quick when swimming in the water, but it can't move very fast on land.&quot;&lt;CR&gt;&quot;I want to decorate my atelier with those horns...&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;If you look closely, you can see star-like patterns on its body...&quot;&lt;CR&gt;&quot;Yes. Seeing them swimming in the water is almost like watching the night sky.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This subspecies of land fish uses a great roar to create a shockwave, stunning its prey.&quot;&lt;CR&gt;&quot;It's loud enough to make your ears ring...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This is unusual. It's said that this monster spends most of its lifetime deep in the water.&quot;&lt;CR&gt;&quot;...Maybe we shouldn't have attacked it, since it comes out on land so rarely.&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This monster is also known as the ruler of the deep. There's even a legend that says it swallowed a small island.&quot;&lt;CR&gt;&quot;An island!? ...Do islands even taste good?&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;A-a moving skeleton!?&quot;&lt;CR&gt;&quot;I heard that these monsters are born when wandering souls possess the bodies of the dead.&quot;&lt;CR&gt;&quot;Does that mean they're ghosts!? Nooo!&quot;" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This is a type of Lich. They lurk in the shadows of the living, slowly sapping their souls. Look, Sophie. In your shadow...&quot;&lt;CR&gt;&quot;AAAAAAH! I HATE GHOSTS!&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;It's said that this monster interrogates humans about the deeds performed during their lives after they die.&quot;&lt;CR&gt;&quot;If it means being questioned by a ghost like this, I'll never, ever die!&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This is an upper ranking Lich. It has very high intelligence, and can even use magic.&quot;&lt;CR&gt;&quot;It has a really scary face. If it popped out of nowhere, I'd probably faint...&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;Since it's a sorcerer, that means it's not a ghost, right?&quot;&lt;CR&gt;&quot;No, Liches with particularly high magic abilities are given that title.&quot;&lt;CR&gt;&quot;Ghosts that can use magic are the worst...&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This is said to be the king of Liches, able to manipulate the souls of the dead to create more Liches.&quot;&lt;CR&gt;&quot;Souls...? Does that mean I'd be turned into a Lich when I die? ...*Sniffle*&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;Demons... A type of monster with particularly high intelligence and ferocity...&quot;&lt;CR&gt;&quot;Its horns and claws are really sharp... It also has a big body, it looks really strong...&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;Demons are usually aggressive, but this rare type doesn't enjoy fighting. It's unusual for them to leave their own territory.&quot;&lt;CR&gt;&quot;Maybe they're trying to protect something...?&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This demon is said to guard the gates of Hell. It's so vicious that it'll attack anything that enters its sight.&quot;&lt;CR&gt;&quot;That means we just need to avoid being seen...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This is an individual among demons with particularly strong power. It's strong, but the magic it uses is also a major threat.&quot;&lt;CR&gt;&quot;Is it kind of like the king of demons?&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;Just looking at this monster makes me feel hot...&quot;&lt;CR&gt;&quot;This demon has the ability to control powerful flames. Naturally, its strength is great as well, so you need to be careful.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This is a rare type of demon that appears with storms. There's always wind blowing around it, and not even a single blade of grass is left in its wake.&quot;&lt;CR&gt;&quot;We needs to be careful not to be blown away...&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;Really big dragon...&quot;&lt;CR&gt;&quot;This is a dragon at the top of the natural world. Its scales can deflect all but the strongest attacks. This thing lives up to its name.&quot;" icon0="0" icon1="2" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;There's a legend that says when this dragon appears, the world will be engulfed in flames.&quot;&lt;CR&gt;&quot;Really? Then does that mean... We saved the world?&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;According to legend, this dragon is related to the sun. As a follower of the spirit of light, it burns the wicked until nothing is left.&quot;&lt;CR&gt;&quot;...I'm glad I didn't do anything bad.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This powerful dragon's duty is to purge those that threaten the world, along with its kin. The light of the moon is its source of vitality.&quot;&lt;CR&gt;&quot;...Huh? Doesn't that mean that this is a good dragon?&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;She's a really pretty girl.&quot;&lt;CR&gt;&quot;She's not a human, Sophie. She's an embodiment of nature, known as an elemental spirit. This spirit appears to rule the wind.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="&quot;This spirit rules ice. Contrary to her beautiful appearance, she's very cruel, finding enjoyment in freezing and killing living creatures.&quot;&lt;CR&gt;&quot;Uu, I don't ever want to freeze to death...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;This spirit rules light. It's said that she possesses a superior position among spirits, controlling harmony of the world itself.&quot;&lt;CR&gt;&quot;It's true that she seems kind of divine...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;A demon king... Does that mean it's the king of monsters?&quot;&lt;CR&gt;&quot;Yes. As its name suggests, it possesses immense power.&quot;&lt;CR&gt;&quot;...I wonder if Puni are subjects of this king, too?&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="&quot;The king of beasts, huh... That's a pretty awesome name. But as a super amazing super alchemist, I won't lose to a beast king!&quot;&lt;CR&gt;&quot;...Sophie, you don't need to try to compete.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryMonster note="&quot;His left arm was mutated due to a curse received from a monster...&quot;&lt;CR&gt;&quot;He lost control of himself, too... Monster curses are really scary...&quot;" icon0="4" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="Nazarus's body was afflicted by the power of alchemy. Julio pursued him to avenge his father, but he found that Nazarus had lost much as well. As a result, he embraced alchemy instead." icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="&quot;Luard. He was an exceptional alchemist. I wouldn't be exaggerating to say he was a genius.&quot;&lt;CR&gt;&quot;T-to think you'd say that much about him, Plachta... He must have been really amazing.&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="As he gained the knowledge of alchemy, his existence itself was transformed into &quot;something&quot;. All things no longer have a meaning to this being, only the fact that he continues to change." icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ミニスラグダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ゼロスラグダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ピコスラグダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★テラスラグダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★弾丸スラグダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★シャドースラグダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★キャリアーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ダイナソーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ポーターダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ゲートキーパーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★最果ての怪物ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★サンドゴーレムダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ガードダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ジェネラルダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★オフィサーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★リーダーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★プリズマスダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★沈黙の使者ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★タンクダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ディフェンダーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ウォーシップダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ピースメーカーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ドラグーンダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★プロトタイプ－０ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★プロトタイプ－１ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★プロトタイプ－２ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ワイバーンダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★フェイクルインダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★バッドトレジャーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★サンドボックスダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ミミックダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★黄昏の函ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ストレンジキューブダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★フラットフィッシュダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★サンドウォーカーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★エメラルドレイダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★アンダーテイカーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★砂に棲むものダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★デモンズフィッシュダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★フリゲートダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★レイジガーディアンダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★石巨人ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★アースタイタンダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★コロニアダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★マルチプルダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ギャザーズダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★レギオーンダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ファナティスダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★ミラーシュダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★チャイルデンダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★シーフダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★サイレントダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★アサシンダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★キラーマシンダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★カオスセイバーダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★マスターシーフダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★統治するものダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="&quot;It's said to have challenged its wits against a sage renowned for their great wisdom, and still won.&quot;&lt;CR&gt;&quot;Huh, I wonder if it could stand up to Plachta. Of course, Plachta would win.&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="★予備枠０２ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠０３ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠０４ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠０５ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠０６ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠０７ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠０８ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠０９ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠１０ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠１１ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠１２ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠１３ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠１４ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠１５ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠１６ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠１７ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠１８ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠１９ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠２０ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠２１ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠２２ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠２３ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠２４ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠２５ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠２６ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠２７ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠２８ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠２９ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠３０ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠３１ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠３２ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠３３ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠３４ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠３５ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠３６ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠３７ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠３８ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠３９ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠４０ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠４１ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠４２ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠４３ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠４４ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★予備枠４５ダミーテキスト" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+</Root>

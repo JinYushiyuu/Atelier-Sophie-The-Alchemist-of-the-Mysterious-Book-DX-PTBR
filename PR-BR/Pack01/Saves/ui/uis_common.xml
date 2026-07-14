@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root>
+	<!-- 既定イメージ -->
+	<image name="default_image" texture="ui/sys_no_image.g1t" uvwh="0,0,128,16" />
+
+  <!-- A17既定メニュー -->
+  <menu name="default_menu" template_xml="Saves/ui/_a17_menu_templates/uil_a17_mt_default.xml" template_disp_lines="9" disp_lines="11" min_size_w="300"
+           item_height="41.5" normal_font_color="53,19,0,255" selected_font_color="175, 115, 0, 255" decided_font_color="175, 115, 0, 255"/>
+  
+  <!-- 既定スクロールバー -->
+	<scroll_bar name="default_scroll_bar" template_xml="Saves/ui/_scroll_bar_templates/uil_sbt_default.xml"/>
+
+	<!-- 無色透明画像 -->
+	<image name="common_none_image" texture="ui/sys_white.g1t" uvwh="0,0,1,1" color="0,0,0,0"/>
+	<!-- 白画像 -->
+	<image name="common_white_image" texture="ui/sys_white.g1t" uvwh="0,0,1,1" />
+	<!-- 黒画像 -->
+	<image name="common_black_image" texture="ui/sys_white.g1t" uvwh="0,0,1,1" color="0,0,0,255"/>
+
+	<!-- 半透明グラデーションの円 -->
+	<image name="alpha_circle" texture="ui/sys_alpha_circle.g1t" uvwh="0,0,128,128" />
+	<!-- 半透明グラデーションの矩形 -->
+	<image name="alpha_gradation" texture="ui/sys_alpha_gradation.g1t" uvwh="0,0,128,128" />
+
+	<!-- 下地なしのスクロールバー -->
+	<scroll_bar name="common_scroll_bar_no_base" template_xml="Saves/ui/_scroll_bar_templates/uil_sbt_no_base.xml"/>
+
+	<!-- ログ用のスクロールバー -->
+	<scroll_bar name="common_scroll_bar_log" template_xml="Saves/ui/_scroll_bar_templates/uil_sbt_log.xml"/>
+
+	<!-- かご用のスクロールバー -->
+	<scroll_bar name="common_scroll_bar_a17_cabinet" template_xml="Saves/ui/_a17_scroll_bar_templates/uil_a17_sbt_cabinet.xml"/>
+
+	<!-- コンテナ用のスクロールバー -->
+	<scroll_bar name="common_scroll_bar_a17_container" template_xml="Saves/ui/_a17_scroll_bar_templates/uil_a17_sbt_container.xml"/>
+
+	<!-- Balloon Select -->
+	<menu name="common_menu_balloon_select" template_xml="Saves/ui/_menu_templates/uil_mt_balloon_select.xml" template_disp_lines="8" min_size_w="200"
+           item_height="41.5" normal_font_color="53,19,0,255" selected_font_color="175, 115, 0, 255" decided_font_color="175, 115, 0, 255"/>
+
+	<!--メッセージログ-->
+	<menu name="common_menu_message_log" template_xml="Saves/ui/_menu_templates/uil_mt_message_log.xml" template_disp_lines="4" min_size_w="300" size_w="608"  disp_lines="4"
+           item_height="132" normal_font_color="41,53,90, 255" selected_font_color="41,53,90, 255" decided_font_color="41,53,90, 255" inactive_font_color="41,53,90, 255"/>
+
+	<!--コンテナ-->
+	<menu name="common_menu_item_container" template_xml="Saves/ui/_menu_templates/uil_mt_item_container.xml" template_disp_lines="10" min_size_w="350" size_w="404" disp_lines="10"
+           item_height="40" normal_font_color="41,53,90, 255" selected_font_color="41,53,90, 255" decided_font_color="41,53,90, 255"  inactive_font_color="131,118,97, 255"/>
+
+	<!--a17コンテナ-->
+	<menu name="common_menu_a17_item_container" template_xml="Saves/ui/_a17_menu_templates/uil_a17_mt_item_container.xml" template_disp_lines="10" min_size_w="350" size_w="404" disp_lines="10"
+			item_height="38" normal_font_color="53, 19, 0, 255" selected_font_color="53, 19, 0, 255" decided_font_color="53, 19, 0, 255"  inactive_font_color="131,118,97, 255"/>
+
+  <!--a17レシピ選択-->
+  <menu name="common_menu_a17_mix_recipe_list" template_xml="Saves/ui/_a17_menu_templates/uil_a17_mt_mix_recipe_sel.xml" template_disp_lines="10" min_size_w="200" size_w="350"
+			item_height="40" normal_font_color="255,255,255, 255" selected_font_color="255,255,255, 255" decided_font_color="255, 255, 255, 255"  inactive_font_color="131,118,97, 255"/>
+
+  <!--a17調合:特性選択-->
+  <menu name="common_menu_a17_mix_esp_list" template_xml="Saves/ui/_a17_menu_templates/uil_a17_mt_mix_esp_sel.xml" template_disp_lines="6" min_size_w="200" size_w="350"
+			item_height="40" normal_font_color="255,255,255, 255" selected_font_color="255,255,255, 255" decided_font_color="255, 255, 255, 255"  inactive_font_color="131,118,97, 255"/>
+  <!--a17調合:引継特性一覧-->
+  <menu name="common_menu_a17_mix_esp_info" template_xml="Saves/ui/_a17_menu_templates/uil_a17_mt_mix_esp_info.xml" template_disp_lines="6" min_size_w="200" size_w="310"
+			item_height="34" normal_font_color="255,255,255, 255" selected_font_color="255,255,255, 255" decided_font_color="255, 255, 255, 255"  inactive_font_color="131,118,97, 255"/>
+	<!--a17ショップ-->
+	<menu name="common_menu_a17_shop" template_xml="Saves/ui/_a17_menu_templates/uil_a17_mt_shop.xml" template_disp_lines="5" min_size_w="361" size_w="361"
+           item_height="74" normal_font_color="43,22,23, 255" selected_font_color="173, 111, 0, 255" decided_font_color="43,22,23, 255" inactive_font_color="131,118,97, 255"/>
+  <!--調合:潜力投入-->
+	<menu name="common_menu_mix_pot" template_xml="Saves/ui/_menu_templates/uil_mt_mix_pot.xml" template_disp_lines="6" min_size_w="300" size_w="415"
+			item_height="40" normal_font_color="41,53,90, 255" selected_font_color="41,53,90, 255" decided_font_color="41,53,90, 255" inactive_font_color="41,53,90, 255"/>
+
+	<!--調合:スキル使用-->
+	<menu name="common_menu_mix_skill_list" template_xml="Saves/ui/_menu_templates/uil_mt_mix_skill_menu.xml" template_disp_lines="6" min_size_w="200" size_w="350"
+			item_height="38" normal_font_color="206,233,213, 255" selected_font_color="41,53,90, 255" decided_font_color="232, 232, 232, 255" inactive_font_color="232, 232, 232, 255"/>
+
+	<!--戦闘:スキル使用-->
+	<menu name="common_menu_battle_skill_list" template_xml="Saves/ui/_menu_templates/uil_mt_mix_skill_menu.xml" template_disp_lines="6" min_size_w="200" size_w="350"
+			item_height="32" normal_font_color="206,233,213, 255" selected_font_color="255,255,255,255" decided_font_color="41,53,90, 255" inactive_font_color="41,53,90, 255"/>
+
+	<!--メインメニュー:ステータスのスキル欄-->
+  <menu name="common_menu_status_skill_list" template_xml="Saves/ui/_menu_templates/uil_mt_status_skill_menu.xml" template_disp_lines="6" min_size_w="200" size_w="325"
+           item_height="48" normal_font_color="41,53,90,255" selected_font_color="41,53,90,255" decided_font_color="41,53,90,255"/>
+
+  <!--調合：常時効果一覧-->
+  <menu name="common_menu_mix_leftsel_list" template_xml="Saves/ui/_menu_templates/uil_mt_mix_leftsel.xml" template_disp_lines="8" disp_lines="8" min_size_w="320"
+           item_height="38" normal_font_color="41,53,90,255" selected_font_color="41,53,90,255" decided_font_color="41,53,90,255"/>
+
+	<!--ショップ-->
+	<menu name="common_menu_shop" template_xml="Saves/ui/_menu_templates/uil_mt_shop.xml" template_disp_lines="8" min_size_w="418" size_w="418"
+           item_height="46" normal_font_color="41,53,90, 255" selected_font_color="41,53,90, 255" decided_font_color="41,53,90, 255" inactive_font_color="41,53,90, 255"/>
+
+	<!--ライフタスク ログ画面-->
+	<menu name="common_menu_lifetask_log" template_xml="Saves/ui/_menu_templates/uil_mt_lifetask_log.xml" template_disp_lines="12" min_size_w="300" size_w="415"
+			item_height="42" normal_font_color="41,53,90, 255" selected_font_color="41,53,90, 255" decided_font_color="41,53,90, 255" inactive_font_color="41,53,90, 255"/>
+
+	<!--ライフタスク 左画面-->
+	<menu name="common_menu_lifetask_select" template_xml="Saves/ui/_menu_templates/uil_mt_lifetask_select.xml" template_disp_lines="8" min_size_w="300" size_w="415"
+			item_height="62" normal_font_color="41,53,90, 255" selected_font_color="41,53,90, 255" decided_font_color="41,53,90, 255" inactive_font_color="41,53,90, 255"/>
+
+
+	<!-- BGM選択メニュー -->
+	<menu name="common_menu_bgm_select" template_xml="Saves/ui/_menu_templates/uil_mt_bgm_select.xml" template_disp_lines="10" min_size_w="300" size_w="450"
+           item_height="34" normal_font_color="41,53,90,255" selected_font_color="121,107,102,255" decided_font_color="128,128,128,255"/>
+
+	<!--依頼（メインメニュー） 左画面-->
+	<menu name="common_menu_quest_mainmenu" template_xml="Saves/ui/_menu_templates/uil_mt_quest_mainmenu.xml" template_disp_lines="6" min_size_w="300" size_w="415"
+			item_height="80" normal_font_color="41,53,90, 255" selected_font_color="41,53,90, 255" decided_font_color="41,53,90, 255" inactive_font_color="41,53,90, 255"/>
+
+	<!-- アイテムフィルター -->
+  <menu name="common_menu_item_filter_category" template_xml="Saves/ui/_menu_templates/uil_mt_item_filter_category.xml" template_disp_lines="4" min_size_w="278" size_w="278"
+           item_height="34" normal_font_color="41,53,90,255" selected_font_color="121,107,102,255" decided_font_color="41,53,90,255"/>
+  <menu name="common_menu_item_filter" template_xml="Saves/ui/_menu_templates/uil_mt_item_filter.xml" template_disp_lines="8" min_size_w="300" size_w="389"
+           item_height="34" normal_font_color="41,53,90,255" selected_font_color="121,107,102,255" decided_font_color="41,53,90,255"/>
+
+	<!--a17図鑑 左画面-->
+	<menu name="common_menu_atex_select" template_xml="Saves/ui/_menu_templates/uil_mt_library.xml" template_disp_lines="10" min_size_w="300" size_w="415"
+			item_height="58" normal_font_color="53,19,0,255" selected_font_color="175, 115, 0, 255" decided_font_color="175, 115, 0, 255" inactive_font_color="131,118,97, 255"/>
+
+	<!-- skill Select -->
+	<menu name="common_menu_skill_select" template_xml="Saves/ui/_menu_templates/uil_mt_skill_select.xml" template_disp_lines="5" min_size_w="200" size_w="373"
+           item_height="41.5" normal_font_color="53, 19, 0, 255" selected_font_color="255, 174, 43, 255" decided_font_color="255, 174, 43, 255"/>
+<!--
+           item_height="41.5" normal_font_color="53, 19, 0, 255" selected_font_color="255, 174, 43, 255" decided_font_color="255, 174, 43, 255"/>
+-->
+</root>
+

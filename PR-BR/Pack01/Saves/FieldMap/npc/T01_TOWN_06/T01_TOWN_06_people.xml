@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_06_people people_data="MONIKA" chara_tag="MONIKA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_06_people people_data="HENRI" chara_tag="HENRI" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_06_people people_data="PAMELA" chara_tag="PAMELA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC26B_HIDE" chara_tag="NPC26B" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_06_people people_data="MONIKA_TALK" chara_tag="MONIKA" mot_idx="0" wait_mot="EV_ACT_4" talk_mot="EV_ACT_4" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_06_people people_data="HENRI_TALK" chara_tag="HENRI" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC21A" chara_tag="NPC21A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC21A_MAKE" chara_tag="NPC21A" mot_idx="0" wait_mot="EV_ACT_0" talk_mot="EV_ACT_0" gravity="1" notTurn="1"/>
+	<T01_TOWN_06_people people_data="NPC21A_SLEEP" chara_tag="NPC21A" mot_idx="0" wait_mot="EV_ACT_2" talk_mot="EV_ACT_2" gravity="1" notTurn="1"/>
+	<T01_TOWN_06_people people_data="NPC21A_WALK" chara_tag="NPC21A" mot_idx="0" wait_mot="EV_ACT_1" talk_mot="EV_ACT_1" gravity="1" notTurn="1"/>
+	<T01_TOWN_06_people people_data="NPC26A" chara_tag="NPC26A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC26A_ACT_3" chara_tag="NPC26A" mot_idx="0" wait_mot="EV_ACT_3" talk_mot="EV_ACT_3" gravity="1" notTurn="1"/>
+	<T01_TOWN_06_people people_data="NPC26A_ACT_2" chara_tag="NPC26A" mot_idx="0" wait_mot="EV_ACT_2" talk_mot="EV_ACT_2" notTurn="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC26A_RUN" chara_tag="NPC26A" mot_idx="0" wait_mot="EV_ACT_0" talk_mot="EV_ACT_0" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC26A_ACT_1" chara_tag="NPC26A" mot_idx="0" wait_mot="EV_ACT_1" talk_mot="EV_ACT_1" gravity="1" notTurn="1"/>
+	<T01_TOWN_06_people people_data="NPC21A_R" chara_tag="NPC21A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC26A_R" chara_tag="NPC26A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" notTurn="1"/>
+	<T01_TOWN_06_people people_data="NPC22A" chara_tag="NPC22A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC04A" chara_tag="NPC04A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC24A" chara_tag="NPC24A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC24B" chara_tag="NPC24B" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_06_people people_data="NPC24B_SWEEP" chara_tag="NPC24B" mot_idx="0" wait_mot="EV_ACT_2" talk_mot="EV_ACT_2" gravity="1" notTurn="1" talk="1"/>
+</Root>

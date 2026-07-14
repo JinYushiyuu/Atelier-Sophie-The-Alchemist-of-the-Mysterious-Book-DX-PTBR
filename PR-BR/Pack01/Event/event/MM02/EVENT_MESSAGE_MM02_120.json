@@ -1,0 +1,180 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_120.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x60,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmm hm hm hmm."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "You seem to be working happily, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, Plachta. Yeah, alchemy has been really fun for me lately!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "I see... Sophie, may I ask you a question?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Okay, what is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "What caused you to start using alchemy?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "A cause...? Hmm..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "I guess it was my grandma."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "How so?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Well, my grandma was always using alchemy to make medicine and stuff. Everyone in town relied on her."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "People in town would drop by the atelier just to say thank you... Seeing that, I thought it was a really great thing."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "I wanted to be just like my grandma, helping people using alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "So I convinced her to teach me alchemy too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "That's why the reason I started alchemy was my grandma, and she's also my goal!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Someday, I want to be an alchemist just like her, and help lots of people!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Although I still have a long, long way to go before then, ahaha..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "I can't deny that you have a long way to go."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Uu, you don't have to rub it in..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "But I believe that is a wonderful goal. And I'm sure you'll be able to reach it, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Plachta...! Yeah, I'll do my best!"
+        }
+    ]
+}

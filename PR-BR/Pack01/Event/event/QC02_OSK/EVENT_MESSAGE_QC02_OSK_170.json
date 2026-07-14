@@ -1,0 +1,124 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_OSK_170.ebm",
+    "nb_messages": 0xd,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10af,
+            "msg_string": "Ah, Sophie! Perfect timing!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x10b0,
+            "msg_string": "Huh? Do you need something?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10b1,
+            "msg_string": "There's somewhere I want to go next time we go outside the town."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x10b2,
+            "msg_string": "Could we go there?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x10b3,
+            "msg_string": "I don't mind, but why are you asking so suddenly?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x10b4,
+            "msg_string": "I read about a place where lots of rare plants grow in a book at Elise's shop."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x10b5,
+            "msg_string": "There were a number of types that I've never seen before, so I wanted to go check."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x10b6,
+            "msg_string": "Hm... They might be good alchemy materials too..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x2284,
+            "msg_string": "It's okay, right? There were 3 different places written in the book."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0x10b8,
+            "msg_string": "Okay, I got it! We'll try going there sometime."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x10b9,
+            "msg_string": "Alright, thanks! I'm looking forward to this."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x10ba,
+            "msg_string": "Don't act so carefree about it! If you're going to travel, you'd better finish all your work first!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x10bb,
+            "msg_string": "...Yeah, yeah."
+        }
+    ]
+}

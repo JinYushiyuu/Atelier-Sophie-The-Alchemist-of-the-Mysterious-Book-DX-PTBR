@@ -1,0 +1,222 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_060.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "There!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0x14,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Grruarghhh..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Hah, hah... What do you think, Monika?! See, I told you I'd grown!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hmm, yes. I have to admit you have."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "You used to panic at the sight of a single Puni. You've certainly come a long way."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "...Is that meant to be a compliment?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "That's heartfelt praise, I assure you! You really are a different person!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Really...? Well, if you say so, Monika, then I guess it must be true."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Yes. But there's still so much further for you to go."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Yes, you're right. After all, I want to be as great as my grandmother one day."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "She would have barely broken a sweat against a monster like that..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "You're right there. Ramizel was seriously powerful..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Yeah. I've still got a long way to go..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "But I won't give in! I'm getting stronger every day, even if only a little at a time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x46,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "If I keep studying alchemy hard, and keep getting better and better..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x46,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Then one day, I'll be as great an alchemist as Grandma! I want to be relied on like she was!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Hahaha! That's the spirit. You've got to aim high."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x47,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Yup! ...Anyway, I guess we should be heading back."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Yes, that's a good idea. We need to tell Horst what happened."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "And I'll buy you some cake, to make up for putting you on the spot like that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "In fact, just this once I'll let you choose two. And I'll buy you the expensive tea."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Really?! Wow! Thanks, Monika! You're the best!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Oh, dear. It looks like there are some things you haven't grown out of."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x17,
+            "msg_string": "There are some things about me that don't need changing! Come on! Hehe, what cake shall I choose?"
+        }
+    ]
+}

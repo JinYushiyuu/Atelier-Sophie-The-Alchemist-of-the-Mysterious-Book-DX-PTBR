@@ -1,0 +1,201 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_LEO_050.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "I'm coming in, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Leon. Welcome."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I came over to watch your alchemy, like we planned the other day."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Feel free to make yourself at home."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "And that's about it. What do you think?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "A technique using materials to create different things... To be honest, I'm pretty impressed."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "You've got a wonderful skill here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ehehe, I'm happy you feel that way."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hehe, I got to see something great today. Anyway... I should get going soon."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Oh, you're leaving already?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Hey, Plachta! You're going to startle her, you can't just pop out like that..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x20,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "...Hey. That book just talked, didn't it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x54,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Oh no, too late..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Yes, I'm sorry for the late introduction. My name is Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Huh, so your name's Plachta. A talking book, that's pretty amazing! I'm amused!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "H-huh...? She's not shocked...!? In fact, she's having fun?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Ahahahaha, alchemy sure is profound! I really like it!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Anyway, I'll see you again, Sophie! Thanks for today, I really mean it! Heh heh heh..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Oh... She left."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "She's very... Unique."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Ahaha..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "(But it sounds like she likes alchemy, so that's good.)"
+        }
+    ]
+}

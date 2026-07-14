@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!-- スタイルの読み込み -->
+	<!-- アニメーションの読み込み -->
+	<command load_anim="Saves/ui/_menu_templates/uia_mt_common.xml"/>
+	<!-- 下地ウィンドウ -->
+	<image name="__uimenu_window" style="gen_common01_container" size_wh="404, 424">
+		<!--スクロールバー-->
+		<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1,0" pos="-24, -11, 0" size_h="404" style="common_scroll_bar_no_base"/>
+		<!-- メニュー項目 -->
+		<node name="__uimenu_body" pos="20.00, 13.00, 0.00">
+			<!-- メニューカーソル -->
+			<node name="__uimenu_cursor">
+				<image name="__uimenu_cursor_inactive" pos="-5.00, 0.00, 0.00" parent_size_copy_w="true" size_copy_w_offset="-30.00" image_no="0" style="gen_window01_highlight_over"/>
+				<image name="__uimenu_cursor_active" pos="-5.00, 0.00, 0.00" parent_size_copy_w="true" size_copy_w_offset="-30.00" image_no="0" style="gen_window01_highlight_on">
+					<feed pos="5,20"/>
+				</image>
+				<!-- 明滅アニメーション -->
+				<anim_ctrl play="true" loop="true">
+					<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</node>
+			<!-- メニュー項目リスト(この下にMenuItemが連なる) -->
+			<node pos="0, 7" name="__uimenu_item_list"/>
+		</node>
+	</image>
+</root>

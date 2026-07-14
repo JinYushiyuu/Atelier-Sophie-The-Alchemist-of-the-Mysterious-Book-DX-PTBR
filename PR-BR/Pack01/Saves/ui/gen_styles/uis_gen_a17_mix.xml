@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_mix01_cabinetmini" texture="ui/a17_mix.g1t" texture_index="0" uvwh="592,468,580,176"/>
+	<image name="gen_a17_mix01_captag_center" texture="ui/a17_mix.g1t" texture_index="0" uvwh="544,368,644,100"/>
+	<image name="gen_a17_mix01_captiontag" texture="ui/a17_mix.g1t" texture_index="0" uvwh="8,371,536,176"/>
+	<image_list name="gen_a17_mix01_captiontext">
+		<image name="gen_a17_mix01_captiontext__xLIST01" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1192,368,288,64"/>
+		<image name="gen_a17_mix01_captiontext__xLIST02" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1192,432,288,64"/>
+		<image name="gen_a17_mix01_captiontext__xLIST03" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1192,496,288,64"/>
+		<image name="gen_a17_mix01_captiontext__xLIST04" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1192,560,288,64"/>
+		<image name="gen_a17_mix01_captiontext__xLIST05" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1192,624,288,64"/>
+		<image name="gen_a17_mix01_captiontext__xLIST06" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1192,688,288,64"/>
+		<image name="gen_a17_mix01_captiontext__xLIST07" texture="ui/a17_mix.g1t" texture_index="0" uvwh="896,644,288,64"/>
+		<image name="gen_a17_mix01_captiontext__xLIST08" texture="ui/a17_mix.g1t" texture_index="0" uvwh="896,708,288,64"/>
+	</image_list>
+	<image name="gen_a17_mix01_l1r1tab" texture="ui/a17_mix.g1t" texture_index="0" uvwh="0,704,672,60"/>
+	<image name="gen_a17_mix01_levelup" texture="ui/a17_mix.g1t" texture_index="0" uvwh="12,0,1280,368"/>
+	<image_list name="gen_a17_mix01_obitext01">
+		<image name="gen_a17_mix01_obitext01__xLIST01" texture="ui/a17_mix.g1t" texture_index="0" uvwh="336,548,216,40"/>
+		<image name="gen_a17_mix01_obitext01__xLIST02" texture="ui/a17_mix.g1t" texture_index="0" uvwh="336,588,216,40"/>
+		<image name="gen_a17_mix01_obitext01__xLIST03" texture="ui/a17_mix.g1t" texture_index="0" uvwh="336,628,216,40"/>
+		<image name="gen_a17_mix01_obitext01__xLIST04" texture="ui/a17_mix.g1t" texture_index="0" uvwh="556,648,216,40"/>
+		<image name="gen_a17_mix01_obitext01__xLIST05" texture="ui/a17_mix.g1t" texture_index="0" uvwh="676,696,216,40"/>
+	</image_list>
+	<image_list name="gen_a17_mix01_taboff">
+		<image name="gen_a17_mix01_taboff__xLIST01" texture="ui/a17_mix.g1t" texture_index="0" uvwh="0,548,168,60"/>
+		<image name="gen_a17_mix01_taboff__xLIST02" texture="ui/a17_mix.g1t" texture_index="0" uvwh="0,608,168,60"/>
+	</image_list>
+	<image_list name="gen_a17_mix01_tabon">
+		<image name="gen_a17_mix01_tabon__xLIST01" texture="ui/a17_mix.g1t" texture_index="0" uvwh="168,548,168,60"/>
+		<image name="gen_a17_mix01_tabon__xLIST02" texture="ui/a17_mix.g1t" texture_index="0" uvwh="168,608,168,60"/>
+	</image_list>
+	<image_list name="gen_a17_mix01_text01">
+		<image name="gen_a17_mix01_text01__xLIST01" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1296,0,184,48"/>
+		<image name="gen_a17_mix01_text01__xLIST02" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1296,48,184,48"/>
+		<image name="gen_a17_mix01_text01__xLIST03" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1296,96,184,48"/>
+		<image name="gen_a17_mix01_text01__xLIST04" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1296,144,184,48"/>
+		<image name="gen_a17_mix01_text01__xLIST05" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1296,192,184,48"/>
+		<image name="gen_a17_mix01_text01__xLIST06" texture="ui/a17_mix.g1t" texture_index="0" uvwh="1296,240,184,48"/>
+	</image_list>
+	<image name="gen_a17_mix02_attach01" texture="ui/a17_mix.g1t" texture_index="1" uvwh="496,0,60,104"/>
+	<image_list name="gen_a17_mix02_can01">
+		<image name="gen_a17_mix02_can01__xLIST01" texture="ui/a17_mix.g1t" texture_index="1" uvwh="672,197,40,40"/>
+		<image name="gen_a17_mix02_can01__xLIST02" texture="ui/a17_mix.g1t" texture_index="1" uvwh="712,197,40,40"/>
+		<image name="gen_a17_mix02_can01__xLIST03" texture="ui/a17_mix.g1t" texture_index="1" uvwh="630,208,40,40"/>
+	</image_list>
+	<image name="gen_a17_mix02_check" texture="ui/a17_mix.g1t" texture_index="1" uvwh="672,237,96,80"/>
+	<image name="gen_a17_mix02_circlecolor02" texture="ui/a17_mix.g1t" texture_index="1" uvwh="344,332,116,120"/>
+	<image_list name="gen_a17_mix02_circlecolor">
+		<image name="gen_a17_mix02_circlecolor__xLIST01" texture="ui/a17_mix.g1t" texture_index="1" uvwh="448,164,116,120"/>
+		<image name="gen_a17_mix02_circlecolor__xLIST02" texture="ui/a17_mix.g1t" texture_index="1" uvwh="228,332,116,120"/>
+		<image name="gen_a17_mix02_circlecolor__xLIST03" texture="ui/a17_mix.g1t" texture_index="1" uvwh="112,332,116,120"/>
+		<image name="gen_a17_mix02_circlecolor__xLIST04" texture="ui/a17_mix.g1t" texture_index="1" uvwh="463,293,116,120"/>
+		<image name="gen_a17_mix02_circlecolor__xLIST05" texture="ui/a17_mix.g1t" texture_index="1" uvwh="332,164,116,120"/>
+	</image_list>
+	<image_list name="gen_a17_mix02_circleframe">
+		<image name="gen_a17_mix02_circleframe__xLIST01" texture="ui/a17_mix.g1t" texture_index="1" uvwh="164,0,163,163"/>
+		<image name="gen_a17_mix02_circleframe__xLIST02" texture="ui/a17_mix.g1t" texture_index="1" uvwh="164,164,163,163"/>
+		<image name="gen_a17_mix02_circleframe__xLIST03" texture="ui/a17_mix.g1t" texture_index="1" uvwh="0,164,163,163"/>
+		<image name="gen_a17_mix02_circleframe__xLIST04" texture="ui/a17_mix.g1t" texture_index="1" uvwh="328,0,163,163"/>
+		<image name="gen_a17_mix02_circleframe__xLIST05" texture="ui/a17_mix.g1t" texture_index="1" uvwh="0,0,163,163"/>
+	</image_list>
+	<image name="gen_a17_mix02_corner" texture="ui/a17_mix.g1t" texture_index="1" uvwh="620,160,44,44"/>
+	<image name="gen_a17_mix02_line" texture="ui/a17_mix.g1t" texture_index="1" uvwh="752,0,7,158"/>
+	<image name="gen_a17_mix02_lvbg" texture="ui/a17_mix.g1t"  texture_index="1" prim_type="wrap" edge_margin="64,65,64,64" uvwh="68,568,192,193"/>
+	<image name="gen_a17_mix02_not_bg" texture="ui/a17_mix.g1t" texture_index="1" uvwh="464,416,304,64"/>
+	<image_list name="gen_a17_mix02_number01">
+		<image name="gen_a17_mix02_number01__xLIST01" texture="ui/a17_mix.g1t" texture_index="1" uvwh="448,480,160,96"/>
+		<image name="gen_a17_mix02_number01__xLIST02" texture="ui/a17_mix.g1t" texture_index="1" uvwh="608,480,160,96"/>
+	</image_list>
+	<image_list name="gen_a17_mix02_number02">
+		<image name="gen_a17_mix02_number02__xLIST01" texture="ui/a17_mix.g1t" texture_index="1" uvwh="448,576,160,96"/>
+		<image name="gen_a17_mix02_number02__xLIST02" texture="ui/a17_mix.g1t" texture_index="1" uvwh="608,576,160,96"/>
+	</image_list>
+	<image_list name="gen_a17_mix02_number03">
+		<image name="gen_a17_mix02_number03__xLIST01" texture="ui/a17_mix.g1t" texture_index="1" uvwh="448,672,160,96"/>
+		<image name="gen_a17_mix02_number03__xLIST02" texture="ui/a17_mix.g1t" texture_index="1" uvwh="608,672,160,96"/>
+	</image_list>
+	<image name="gen_a17_mix02_pallight" texture="ui/a17_mix.g1t"  texture_index="1" prim_type="wrap" edge_margin="46,43,46,49" uvwh="272,592,176,176"/>
+	<image name="gen_a17_mix02_panel" texture="ui/a17_mix.g1t"  texture_index="1" prim_type="wrap" edge_margin="9,8,11,12" uvwh="592,0,157,156"/>
+	<image name="gen_a17_mix02_vector" texture="ui/a17_mix.g1t" texture_index="1" uvwh="712,317,56,48"/>
+	<image name="gen_a17_mix03_center_tag" texture="ui/a17_mix.g1t" texture_index="2" uvwh="0,679,400,80"/>
+	<image name="gen_a17_mix03_check" texture="ui/a17_mix.g1t" texture_index="2" uvwh="849,25,91,37"/>
+	<image name="gen_a17_mix03_costrecovery" texture="ui/a17_mix.g1t" texture_index="2" uvwh="0,263,1088,416"/>
+	<image name="gen_a17_mix03_itemsheet" texture="ui/a17_mix.g1t" texture_index="2" uvwh="1120,0,384,480"/>
+	<image name="gen_a17_mix03_itemtag" texture="ui/a17_mix.g1t" texture_index="2" uvwh="592,151,512,112"/>
+	<image_list name="gen_a17_mix03_itemtagvec">
+		<image name="gen_a17_mix03_itemtagvec__xLIST01" texture="ui/a17_mix.g1t" texture_index="2" uvwh="848,80,48,48"/>
+		<image name="gen_a17_mix03_itemtagvec__xLIST02" texture="ui/a17_mix.g1t" texture_index="2" uvwh="896,80,48,48"/>
+	</image_list>
+	<image name="gen_a17_mix03_mbg" texture="ui/a17_mix.g1t"  texture_index="2" prim_type="wrap" edge_margin="60,0,60,82" uvwh="1117,551,387,82"/>
+	<image_list name="gen_a17_mix03_tab01">
+		<image name="gen_a17_mix03_tab01__xLIST01" texture="ui/a17_mix.g1t" texture_index="2" uvwh="404,683,288,72"/>
+		<image name="gen_a17_mix03_tab01__xLIST02" texture="ui/a17_mix.g1t" texture_index="2" uvwh="696,683,288,72"/>
+	</image_list>
+	<image name="gen_a17_mix03_tab02" texture="ui/a17_mix.g1t" texture_index="2" uvwh="1232,660,228,92"/>
+	<image name="gen_a17_mix03_textbg" texture="ui/a17_mix.g1t" texture_index="2" uvwh="64,0,784,144"/>
+	<image name="gen_a17_mix03_unbg" texture="ui/a17_mix.g1t"  texture_index="2" prim_type="wrap" edge_margin="64,6,64,12" uvwh="1120,488,320,36"/>
+	<image name="gen_a17_mix03_window01" texture="ui/a17_mix.g1t" texture_index="2" uvwh="0,151,576,112"/>
+	<image name="gen_a17_mix04_bonussheet01" texture="ui/a17_mix.g1t" texture_index="3" uvwh="524,432,240,256"/>
+	<image name="gen_a17_mix04_cabinet" texture="ui/a17_mix.g1t" texture_index="3" uvwh="-1,0,577,432"/>
+	<image name="gen_a17_mix04_divide" texture="ui/a17_mix.g1t" texture_index="3" uvwh="720,0,16,32"/>
+	<image name="gen_a17_mix04_divide02" texture="ui/a17_mix.g1t" texture_index="3" uvwh="720,35,16,32"/>
+	<image name="gen_a17_mix04_igb02" texture="ui/a17_mix.g1t"  texture_index="3" prim_type="wrap" edge_margin="1,0,0,26" uvwh="553,692,189,26"/>
+	<image name="gen_a17_mix04_igf02" texture="ui/a17_mix.g1t"  texture_index="3" prim_type="wrap" edge_margin="45,0,45,44" uvwh="2,647,245,44"/>
+	<image name="gen_a17_mix04_itemgaugebar" texture="ui/a17_mix.g1t" texture_index="3" uvwh="0,494,392,26"/>
+	<image name="gen_a17_mix04_itemgaugeframe" texture="ui/a17_mix.g1t" texture_index="3" uvwh="-1,448,404,36"/>
+	<image name="gen_a17_mix04_itemsheet" texture="ui/a17_mix.g1t" texture_index="3" uvwh="592,128,96,96"/>
+	<image name="gen_a17_mix04_l01" texture="ui/a17_mix.g1t"  texture_index="3" prim_type="wrap" edge_margin="20,25,24,19" uvwh="388,532,132,132"/>
+	<image name="gen_a17_mix04_light" texture="ui/a17_mix.g1t" texture_index="3" uvwh="592,0,112,112"/>
+	<image name="gen_a17_mix04_light_long" texture="ui/a17_mix.g1t" texture_index="3" uvwh="0,532,384,112"/>
+	<image name="gen_a17_mix04_line01" texture="ui/a17_mix.g1t" texture_index="3" uvwh="0,432,464,16"/>
+	<image name="gen_a17_mix04_tag01" texture="ui/a17_mix.g1t" texture_index="3" uvwh="576,240,112,80"/>
+	<image name="gen_a17_mix04_timegaugebar" texture="ui/a17_mix.g1t" texture_index="3" uvwh="0,693,532,28"/>
+	<image name="gen_a17_mix04_timegaugeframe" texture="ui/a17_mix.g1t" texture_index="3" uvwh="0,725,552,43"/>
+	<image_list name="gen_a17_mix05_bonus01">
+		<image name="gen_a17_mix05_bonus01__xLIST01" texture="ui/a17_mix.g1t" texture_index="4" uvwh="784,0,152,148"/>
+		<image name="gen_a17_mix05_bonus01__xLIST02" texture="ui/a17_mix.g1t" texture_index="4" uvwh="940,0,152,148"/>
+		<image name="gen_a17_mix05_bonus01__xLIST03" texture="ui/a17_mix.g1t" texture_index="4" uvwh="1096,0,152,148"/>
+		<image name="gen_a17_mix05_bonus01__xLIST04" texture="ui/a17_mix.g1t" texture_index="4" uvwh="1252,0,152,148"/>
+		<image name="gen_a17_mix05_bonus01__xLIST05" texture="ui/a17_mix.g1t" texture_index="4" uvwh="784,152,152,148"/>
+		<image name="gen_a17_mix05_bonus01__xLIST06" texture="ui/a17_mix.g1t" texture_index="4" uvwh="940,152,152,148"/>
+	</image_list>
+	<image_list name="gen_a17_mix05_effect01">
+		<image name="gen_a17_mix05_effect01__xLIST01" texture="ui/a17_mix.g1t" texture_index="4" uvwh="0,0,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST02" texture="ui/a17_mix.g1t" texture_index="4" uvwh="156,0,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST03" texture="ui/a17_mix.g1t" texture_index="4" uvwh="312,0,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST04" texture="ui/a17_mix.g1t" texture_index="4" uvwh="468,0,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST05" texture="ui/a17_mix.g1t" texture_index="4" uvwh="624,0,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST06" texture="ui/a17_mix.g1t" texture_index="4" uvwh="0,156,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST07" texture="ui/a17_mix.g1t" texture_index="4" uvwh="156,156,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST08" texture="ui/a17_mix.g1t" texture_index="4" uvwh="312,156,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST09" texture="ui/a17_mix.g1t" texture_index="4" uvwh="468,156,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST10" texture="ui/a17_mix.g1t" texture_index="4" uvwh="624,156,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST11" texture="ui/a17_mix.g1t" texture_index="4" uvwh="0,312,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST12" texture="ui/a17_mix.g1t" texture_index="4" uvwh="156,312,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST13" texture="ui/a17_mix.g1t" texture_index="4" uvwh="312,312,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST14" texture="ui/a17_mix.g1t" texture_index="4" uvwh="468,312,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST15" texture="ui/a17_mix.g1t" texture_index="4" uvwh="624,312,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST16" texture="ui/a17_mix.g1t" texture_index="4" uvwh="0,468,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST17" texture="ui/a17_mix.g1t" texture_index="4" uvwh="156,468,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST18" texture="ui/a17_mix.g1t" texture_index="4" uvwh="312,468,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST19" texture="ui/a17_mix.g1t" texture_index="4" uvwh="468,468,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST20" texture="ui/a17_mix.g1t" texture_index="4" uvwh="624,468,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST21" texture="ui/a17_mix.g1t" texture_index="4" uvwh="784,306,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST22" texture="ui/a17_mix.g1t" texture_index="4" uvwh="940,306,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST23" texture="ui/a17_mix.g1t" texture_index="4" uvwh="1096,306,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST24" texture="ui/a17_mix.g1t" texture_index="4" uvwh="784,468,156,156"/>
+		<image name="gen_a17_mix05_effect01__xLIST25" texture="ui/a17_mix.g1t" texture_index="4" uvwh="940,468,156,156"/>
+	</image_list>
+	<image name="gen_a17_mix05_result_bg" texture="ui/a17_mix.g1t" texture_index="4" uvwh="0,626,477,142"/>
+	<image name="gen_a17_mix05_timebg" texture="ui/a17_mix.g1t" texture_index="4" uvwh="784,626,518,96"/>
+</root>

@@ -1,0 +1,184 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_180.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Okay, it's done!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x47,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "I should deliver it to Meklet and Atomina."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "...Wait? Now that I think about it, I have no idea where those two are..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Who could that be? Yes, be right there!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hello, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Meklet, Atomina!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "We figured the item we requested would be done around now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Wow, that was a good guess... I actually just finished it now, here you go."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Whoa, this is really well made."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "It's quite splendid, isn't it Meklet?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "You're so young, yet you're able to Synthesize things like this. You must be an amazing alchemist, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4e,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Huh? Oh no, I'm not that amazing."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "But you can make awesome things like this. Maybe we could make something like this too, if we tried."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "It doesn't work that way, Meklet. Sophie may be able to make things like this, but it's impossible for us."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Haha, yeah, I guess you're right. Thanks, Sophie. This was really interesting. See you later."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "W-wait a second! You aren't going to take it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Yes. We couldn't think of any use for it. You can use it as you see fit."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Yup, that's right. Anyway, we'll see you again sometime."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Huh... Those two really are strange..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "But I'm happy that they praised me..."
+        }
+    ]
+}

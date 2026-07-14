@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node pos="0,50">
+		<node name="monster1" pos="100, 0" load="Saves/ui/samples/xml_load/uil_monster.xml" />
+		<node name="monster2" pos="300, 0" load="Saves/ui/samples/xml_load/uil_monster.xml" />
+		<node name="monster3" pos="500, 0" load="Saves/ui/samples/xml_load/uil_monster.xml" />
+		<node name="monster4" pos="700, 0" load="Saves/ui/samples/xml_load/uil_monster.xml" />
+		<node name="monster5" pos="900, 0" load="Saves/ui/samples/xml_load/uil_monster.xml" />
+	</node>
+	<node pos="0,250">
+		<node name="monster6" pos="100, 0" load="Saves/ui/samples/xml_load/uil_monster.xml" />
+		<node name="monster7" pos="300, 0" load="Saves/ui/samples/xml_load/uil_monster.xml" />
+		<node name="monster8" pos="500, 0" load="Saves/ui/samples/xml_load/uil_monster.xml" />
+		<node name="monster9" pos="700, 0" load="Saves/ui/samples/xml_load/uil_monster.xml" />
+		<node name="monster0" pos="900, 0" load="Saves/ui/samples/xml_load/uil_monster.xml" />
+	</node>
+
+
+	<!-- 明滅アニメーション -->
+	<anim_ctrl play="true" loop="true" speed="0.5" >
+		<bind_node node="monster3/image_monster" anim="anm_test_blink"/>	
+	</anim_ctrl>
+
+</root>

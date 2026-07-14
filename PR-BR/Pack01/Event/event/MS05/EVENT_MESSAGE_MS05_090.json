@@ -1,0 +1,186 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS05_090.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sophie, are you home?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Sir Julio. What is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "There's something I wanted to try out in battle."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Try out...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "That's right."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "I was thinking about this. What do you think?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "I think it's great! If we all work together, we'd be able to face even stronger monsters."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "That's good. Then maybe we should test it the next time we encounter monsters."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Yes!"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You can now use Special Support in battle."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "From now on, you can use Multi Support without consuming the Chain Link."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Would you like to view the explanation for Special Support?"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Special Support is the most powerful support action, usable when 3 or more allies are in the same Stance."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "When 3 or more allies complete their actions in the same Stance and fulfill the conditions, it will activate."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Fulfilling the \"Offense\" Stance conditions activates a powerful chain attack, \"Special Attack\"."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Fulfilling the \"Defense\" Stance conditions activates a powerful cooperative guard, \"Special Guard\"."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Each Special Support ability is extremely powerful."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "However, in exchange, it consumes a large amount of the Chain Link gauge."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "It may be wise at times to keep allies in different stances, until the right time comes to use it."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You can view more details about Special Support under Help in the Encyclopedia."
+        }
+    ]
+}

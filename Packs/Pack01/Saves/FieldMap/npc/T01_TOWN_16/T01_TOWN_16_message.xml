@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_16_message message_data="MM09_010_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="I want to see those two again." next_message_tag="MM09_010_FILON2"/>
+    <T01_TOWN_16_message message_data="MM09_010_FILON2" chara_tag="SOPHIE" name_tag="SOPHIE" voice_no1="-1" message1="Ahaha..."/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_1" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="This town is easy to live in. It's a good place, I've taken a liking to it."/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_2" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="Puppets are very delicate. Even the smallest negligence in maintenance can cause them to malfunction."/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_3" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="Where should I hold my next puppet show... The plaza...? Or maybe I can use the church for it..."/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_4" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="Is Plachta doing well? ...I see, that's good."/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_5" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="Ah, welcome. Are you here to see my puppet show? ...You'll pass? I see..."/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_E" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="Maybe I should take a walk... But I also want to work on my dolls... Hmm..."/>
+    <T01_TOWN_16_message message_data="TOWN_16_FILON_EV1" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="I see, thank you." quest_tag="QC04_FRI_050" voice_no2="-1" message2="Did you bring the item I requested?"/>
+    <T01_TOWN_16_message message_data="TOWN_16_FILON_EV2" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="I see, thank you." quest_tag="MM04_020" voice_no2="-1" message2="Did you bring the item I requested?"/>
+    <T01_TOWN_16_message message_data="TOWN_16_FILON_EV3" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="I see, thank you." quest_tag="QC04_FRI_210" voice_no2="-1" message2="Did you bring the item I requested?"/>
+    <T01_TOWN_16_message message_data="TOWN_16_NPC26A_00" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="I look forward to the next puppet show."/>
+    <T01_TOWN_16_message message_data="TOWN_16_NPC27B_00" chara_tag="NPC27B" name_tag="NPC27B" voice_no1="-1" message1="I look forward to the next puppet show."/>
+</Root>

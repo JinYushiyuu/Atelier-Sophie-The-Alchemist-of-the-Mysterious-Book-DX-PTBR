@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <QuestFlavorText no="1" text="Can I entrust higher difficulty requests to you? This assignment will test your skills. Please do your best to complete it.&lt;CR&gt;(Horst)"/>
+    <QuestFlavorText no="2" text="This is the second promotion assignment to test your skills. Completing this will allow you to take on higher difficulty, and higher paying, requests. Please do your best.&lt;CR&gt;(Horst)"/>
+    <QuestFlavorText no="3" text="...You've finally reached this point. This is the final assignment to test your skills. Will you be able to complete it, and advance to the highest rank?&lt;CR&gt;(Horst)"/>
+    <QuestFlavorText no="4" text="I'm not a very good adventurer. You need to travel to many places to call yourself an adventurer. However, I'm not very confident in my skills, so I want to at least be fully prepared."/>
+    <QuestFlavorText no="5" text="...My head is filled with thoughts of her lately. Just thinking about her makes it so that I can't study, or sleep at night. I want to find the courage to give her a gift, but what would be good?"/>
+    <QuestFlavorText no="6" text="My partner's been slacking lately, and not providing enough supplies. Thanks to that, I don't have enough merchandise for my shop. I regret having to ask, but is there anyone who'll help me out?"/>
+    <QuestFlavorText no="7" text="I've got a once in a lifetime business opportunity! I'll be a big name in business if this works out...! Anyway, I want to make sure luck's on my side, so I don't miss this chance! Thanks for the help!"/>
+    <QuestFlavorText no="8" text="Ever since I started reading fairy tales when I was a kid, I thought about how convenient it must be to use magic. I want to feel like a magician, so please collect things that seem magical."/>
+    <QuestFlavorText no="9" text="It gets really, really hot when standing and working for so long... Could someone bring me stuff to cool down? ...Also, if you see someone making lots of heat, knock them out for me."/>
+    <QuestFlavorText no="10" text="I want to swoop down like an Ardra and grab my boyfriend's heart, with homemade cooking. Good ingredients are important for good cooking, right? Could someone find choice ingredients for me?"/>
+    <QuestFlavorText no="11" text="My playful son managed to tear a big hole in his clothes... I'm not very good at sewing, but I want to fix it. Could someone provide me with cloth and thread?"/>
+    <QuestFlavorText no="12" text="My fields... My fields have been ravaged by monsters, and it's a tragedy to see. Someone, please help me..."/>
+    <QuestFlavorText no="13" text="My mother told me to take a long journey, but... I'm afraid of monsters, so I'm not very enthusiastic about it. Is there anything good for countering monsters?"/>
+    <QuestFlavorText no="14" text="That nun is always beautiful, no matter when I see her... I want to give her a gift, so please bring me the item I listed. By the way, I already investigated what she likes, so no problem there!"/>
+    <QuestFlavorText no="15" text="There are lots of types of water, right? I'm interested in how they taste, so I want to taste test them. Please bring me lots of water!"/>
+    <QuestFlavorText no="16" text="I make my living by investigating ruins. Could someone bring me relics from ruins in the area? Also, it would really help if you eliminated monsters that interfere with investigations."/>
+    <QuestFlavorText no="17" text="I'm beautiful, so I think beautiful gems would suit me. Could someone bring lots of gems that would match me?"/>
+    <QuestFlavorText no="18" text="It's good to study by reading books and all, but I want to see the actual thing, too. I'll pay you, so please show me the &quot;real deal&quot;."/>
+    <QuestFlavorText no="19" text="Hehehe, I'm finally going on a date with him! ...I definitely can't mess this up...! I don't want this to end in failure, so could someone help me prepare?"/>
+    <QuestFlavorText no="20" text="I had a fight with my friend. I want to make amends, so I want to give them something they like, but I can't get it myself... I'm sorry, but can someone out there help me?"/>
+    <QuestFlavorText no="21" text="Gah, I'm so stressed out! Something unpleasant happened at work, and now I can't stop feeling irritated. Please, bring me something to calm down!"/>
+    <QuestFlavorText no="22" text="To attract lots of tourists to the town, it's important to keep the area around town clean!"/>
+    <QuestFlavorText no="23" text="Daily goods are so expensive lately... I wonder why? Anyway, please sell me some at a reasonable price!"/>
+    <QuestFlavorText no="24" text="I want to serve traditional foods from the region at my shop. Please provide me with ingredients."/>
+    <QuestFlavorText no="25" text="This town needs some sort of specialty item to make it more famous! I just know it!"/>
+    <QuestFlavorText no="26" text="My daughter demands valuable items. Please hurry and bring some to me."/>
+    <QuestFlavorText no="27" text="My friend told me about a really cool item! I want it!"/>
+    <QuestFlavorText no="28" text="Lately, my body doesn't move like it used to... Could someone bring me something to liven up?"/>
+    <QuestFlavorText no="29" text="...Hey, you know that girl who opened the mass production shop recently? Apparently she wants to make her shop bigger. Um... I'll pay you, so could you buy merchandise from her shop?"/>
+    <QuestFlavorText no="30" text="Fishing's my hobby, but I need bait. Could you bring me something that I could use?"/>
+    <QuestFlavorText no="31" text="My crystal ball chipped, so I need a shard of crystal that'll fit in there nicely."/>
+    <QuestFlavorText no="32" text="I want high class foods. I won't accept anything but the highest quality."/>
+    <QuestFlavorText no="33" text="I've seen dangerous monsters near the town. Please help exterminate them."/>
+    <QuestFlavorText no="34" text="Leon is such a wonderful and lovely woman! Maybe even a plain girl like me could be a little more attractive if I copied her outfit... I'd be happy if someone brought me pretty clothes."/>
+    <QuestFlavorText no="35" text="There's going to be a new member of my family soon. This might be a little early, but I want a new desk designed for kids. Could someone help me collect materials?"/>
+    <QuestFlavorText no="36" text="My child has finally been born. I want to make new toys for them, but... Could someone help me collect the materials again?"/>
+    <QuestFlavorText no="37" text="I saw a really fun and exciting dream... But I woke up during the best part! I'm really curious how that dream ends, so I want something that could help me see it again."/>
+    <QuestFlavorText no="38" text="I was able to see the dream from before again, but the end was just the worst... Why did it turn out that way? Please, give me something to forget that dream completely!"/>
+    <QuestFlavorText no="39" text="I don't mean to brag, but I have a very sharp mind. I'm kind of a genius. However, I have a long way to go before people consider me a sage. To reach that point, I'd like to study the wisdom of my predecessors."/>
+    <QuestFlavorText no="40" text="The evil ones from the depths of the earth draw near. Unfortunately, my magic is exhausted, and I cannot fight them properly. I'd like a certain item to repel their attack. Keep this information confidential."/>
+    <QuestFlavorText no="41" text="I managed to repel the evil ones, and my magic has recovered. However, they have begun to retreat, in fear of me. Now is the opportunity to destroy them utterly. Lend me your power."/>
+    <QuestFlavorText no="42" text="I heard that there's some unusual clothes popular in Adalett now. They seem a little strange for my taste, but... I want to actually try them on to see. Could someone prepare the clothes for me?"/>
+    <QuestFlavorText no="43" text="The clothes prepared for me before were, uh... Not suitable to my taste. This time, I'd like to try some food that's popular in Adalett instead. Could someone prepare it for me?"/>
+    <QuestFlavorText no="44" text="The food from Adalett was really good! ...After thinking it over, I've decided to take a trip over there. Could someone help me prepare for my journey?"/>
+    <QuestFlavorText no="45" text="My friend keeps telling me that Uni are living creatures. I really doubt that, but... Just in case, I'd like to check. Could someone go and collect Uni for me?"/>
+    <QuestFlavorText no="46" text="I heard about a rare flower that blooms in remote places. A bouquet made with flowers like that would be amazing. There's no mistaking that it would be the ultimate bouquet. Could someone bring me those flowers?"/>
+    <QuestFlavorText no="47" text="I'm going to have a showdown with someone to see who's really the best soon! It's a harsh match: whoever gets a sour Whimsy Strawberry first loses! That's why I need someone to bring a bunch of Whimsy Strawberries!"/>
+    <QuestFlavorText no="48" text="Lately, it seems like the world is getting tired. That must mean something ridiculous will happen soon. I want to at least stock up on food, just in case."/>
+    <QuestFlavorText no="49" text="Apparently my friend is going to take a trip to Adalett... They're an indoors type if I ever saw one, so I can't believe they're going on a journey. I'd like to give them the best good luck charm possible, as a parting gift. I'm counting on you!"/>
+    <QuestFlavorText no="50" text="Recently, some scoundrels have been ravaging my fields. I want to set traps for them... Bring me some materials to make the traps!"/>
+    <QuestFlavorText no="51" text="I'm thinking about making a pie with Bursting Berries, but they're hard to handle, and burst easily. Could someone bring me a whole bunch, so it wouldn't matter if I ruin a few?"/>
+    <QuestFlavorText no="52" text="The Bursting Berry pie I made before was well received. I'm thinking about making sweets with another unusual ingredient. Let's see... Maybe I'll use Luminous Water this time. Could someone collect it for me?"/>
+    <QuestFlavorText no="53" text="The Luminous Water jelly I made was well received, too! But... I want to make something different... A dish that's truly delicious. To do that, I ask for your help one more time."/>
+    <QuestFlavorText no="54" text="Dyed goods are complicated. Even if you use the same materials, the end product could turn out a completely different color. There's a material I'd like to test, so could someone prepare it for me?"/>
+    <QuestFlavorText no="55" text="I obtained an old document excavated from an ancient layer of earth. However, it's soiled from the long years, and the text can't be read. I'd like to clean it without damaging the contents, please prepare a suitable cloth."/>
+    <QuestFlavorText no="56" text="I managed to remove the dirt from the ancient document, but it's in a language that I can't read. Could someone find materials that I can use to decipher the text?"/>
+    <QuestFlavorText no="57" text="After deciphering the ancient document, it seems to describe how to produce a cure-all elixir. I'd like to check whether it really can cure anything. Please provide me the materials to produce it."/>
+    <QuestFlavorText no="58" text="To tell the truth, there's something I'd like to test... Could someone provide me with many types of plants?&lt;CR&gt;(Monika)"/>
+    <QuestFlavorText no="59" text="I'd like someone to make delicious snacks for me. As many as possible... Just so you know, they're not for me to eat. My friend wants to eat them.&lt;CR&gt;(Monika)"/>
+    <QuestFlavorText no="60" text="I'm thinking about going to a friend's house to help clean up, but... It seems to be very messy, so I want to be fully prepared. Could someone provide me with items useful for cleaning?&lt;CR&gt;(Monika)"/>
+    <QuestFlavorText no="61" text="I'm really hungry, so I don't feel very energetic. Someone, bring me something good to perk me up!&lt;CR&gt;(Oskar)"/>
+    <QuestFlavorText no="62" text="There are rude creatures getting in the way of my plant observation! Someone teach them a lesson!&lt;CR&gt;(Oskar)"/>
+    <QuestFlavorText no="63" text="I'm thinking about making an amazing fertilizer that you can't buy in any stores. Someone bring me good soil, and stuff that seems like it has a lot of nutrients in it!&lt;CR&gt;(Oskar)"/>
+    <QuestFlavorText no="64" text="As a member of the Church, I cannot miss my daily prayers... But I'm out of items necessary for it. Could someone provide me with the items I need?&lt;CR&gt;(Julio)"/>
+    <QuestFlavorText no="65" text="I enjoy tasting various dishes during my travels. I'd like to try the tastes of this town, so could someone provide me with food items?&lt;CR&gt;(Julio)"/>
+    <QuestFlavorText no="66" text="The Church has instructed me to collect items related to spirits. However, I have no idea where to begin... Could someone help me find such items?&lt;CR&gt;(Julio)"/>
+    <QuestFlavorText no="67" text="Preparation is essential for travel. I'd like someone to provide me with a few types of medicine.&lt;CR&gt;(Fritz)"/>
+    <QuestFlavorText no="68" text="I'd like to adorn my dolls with more beautiful decorations. Could someone bring me items to make my dolls more colorful?&lt;CR&gt;(Fritz)"/>
+    <QuestFlavorText no="69" text="To make a good doll, you need the finest materials. I don't mind who, could someone provide me with materials for my dolls?&lt;CR&gt;(Fritz)"/>
+    <QuestFlavorText no="70" text="I'm thinking about stocking unusual goods to liven up my shop. Does someone have items that my shop would be famous for selling?&lt;CR&gt;(Corneria)"/>
+    <QuestFlavorText no="71" text="I like squishy things, so I want some squishy things. Please bring me squishy things.&lt;CR&gt;(Corneria)"/>
+    <QuestFlavorText no="72" text="To grow bigger, I want to drink many kinds of milk. Can someone prepare it for me? You would have my thanks.&lt;CR&gt;(Corneria)"/>
+    <QuestFlavorText no="73" text="I want gunpowder to put in my bullets. Bring some to me.&lt;CR&gt;(Harol)"/>
+    <QuestFlavorText no="74" text="I want snacks that would go well with alcohol. It would also be nice to have water to sober up.&lt;CR&gt;(Harol)"/>
+    <QuestFlavorText no="75" text="I don't have enough materials to repair clocks. Bring some to me, I'll pay you.&lt;CR&gt;(Harol)"/>
+    <QuestFlavorText no="76" text="I want to know what kinds of clothes are in fashion in this town now. Can someone bring me several kinds of clothes from this town?&lt;CR&gt;(Leon)"/>
+    <QuestFlavorText no="77" text="I'm running out of thread for tailoring clothes. Can someone deliver some to me? I want it to be as beautiful as possible, too.&lt;CR&gt;(Leon)"/>
+    <QuestFlavorText no="78" text="My creative urges are great right now. I feel like I could make lots of wonderful clothes. I'd like someone to prepare plenty of beautiful cloth, worthy to use as materials.&lt;CR&gt;(Leon)"/>
+    <QuestFlavorText no="79" text="It seems like my furnace isn't hot enough lately. I think it's because the fuel is too poor. Can someone provide me with high quality fuel?&lt;CR&gt;(Logy)"/>
+    <QuestFlavorText no="80" text="I need ore to forge weapons. I have too many orders, so my material supply ran out already... Thanks in advance for the help.&lt;CR&gt;(Logy)"/>
+    <QuestFlavorText no="81" text="There's something I'd like to test, so I need someone to provide me with several weapons. I'm counting on you.&lt;CR&gt;(Logy)"/>
+    <QuestFlavorText no="82" text="I want to give the children some snacks. Please make sure they're super delicious.&lt;CR&gt;(Pamela)"/>
+    <QuestFlavorText no="83" text="I want a long pole to hang laundry with. Let's see... I think a spear or a staff would be perfect. Can somebody bring me one?&lt;CR&gt;(Pamela)"/>
+    <QuestFlavorText no="84" text="There's something I want, but the reason is a secret. Can someone bring it to me secretly?&lt;CR&gt;(Pamela)"/>
+    <QuestFlavorText no="85" text="I'm thinking about decorating the shop to be super showy. Please bring me a bunch of pretty things!&lt;CR&gt;(Tess)"/>
+    <QuestFlavorText no="86" text="I want a cute accessory, but the ones sold in stores are too expensive... I don't mind if it's used, can somebody sell me one for less?&lt;CR&gt;(Tess)"/>
+    <QuestFlavorText no="87" text="I want new clothes... I can't pay much for it, but I'll be really happy if someone brings me a lovely outfit!&lt;CR&gt;(Tess)"/>
+    <QuestFlavorText no="88" text="I'm thinking about writing a book, and I'd like to try out different types of paper. Can someone prepare some paper that would be easy to write on?&lt;CR&gt;(Elise)"/>
+    <QuestFlavorText no="89" text="I received a certain book the other day, but apparently it was a monster. It ended up flying outside. I'm very sorry, but can someone go take care of it for me?&lt;CR&gt;(Elise)"/>
+    <QuestFlavorText no="90" text="I want to learn knowledge that you can't find in ordinary books. To do that, could someone collect a number of mysterious items for me?&lt;CR&gt;(Elise)"/>
+    <QuestFlavorText no="91" text="The merchant who always delivers vegetables to me was injured. Could someone deliver vegetables in their place?&lt;CR&gt;(Marguerite)"/>
+    <QuestFlavorText no="92" text="Lately, there are some rude monsters that get in the way of supplying my goods. Can someone go slay them?&lt;CR&gt;(Marguerite)"/>
+    <QuestFlavorText no="93" text="I want to test out a few types of fertilizer. I want to know how vegetables grow if I use them. It would really help if someone could prepare them for me.&lt;CR&gt;(Marguerite)"/>
+    <QuestFlavorText no="94" text="I'm thinking about doing a little research to serve better tea at my shop. Thus I'd like to request some high quality tea ingredients...&lt;CR&gt;(Horst)"/>
+    <QuestFlavorText no="95" text="I have a lot of customers asking for simple dishes lately. Simple dishes... It's actually much more difficult than it sounds, but I'd like to give it a try. Could someone provide me with ingredients?&lt;CR&gt;(Horst)"/>
+    <QuestFlavorText no="96" text="I'm thinking about trying a different style of cooking. To do that, I'm thinking of using unusual ingredients, but... Could someone provide them to me?&lt;CR&gt;(Horst)"/>
+    <QuestFlavorText no="97" text="Damn those Puni! They're always ganging up and attacking me! Someone go and exterminate those accursed Puni!"/>
+    <QuestFlavorText no="98" text="I saw some dangerous Puni outside the town! Their face and whole body is bright red! ...There's no mistake that they're mad at humans. Someone go and slay them before people gets hurt!"/>
+    <QuestFlavorText no="99" text="...I think I jumped to conclusions about the red Puni... But this time, I saw weird Puni that might not even be Puni! Someone slay them before some naïve adventurer mistakes them for regular Puni and gets hurt!"/>
+    <QuestFlavorText no="100" text="I found a good fishing spot, but the Island Fish are so noisy that I can't relax. Someone go and take out a bunch of them."/>
+    <QuestFlavorText no="101" text="It's tough being a popular man with the ladies. The other day, a bunch of Scarlady even tried to court me... There's no time to lose! My life's in danger at this rate. Someone go and slay them before they murder me in their jealousy!"/>
+    <QuestFlavorText no="102" text="Uu... Just thinking about it sends my heart racing... The other day, I was startled by some Ghosts in the forest. It's frustrating to think they could get away with it. Someone go and teach them a lesson!"/>
+    <QuestFlavorText no="103" text="The imps are performing some sort of suspicious ritual. I have no idea what they're up to, but I have a bad feeling about it. Could someone go and stop them?"/>
+    <QuestFlavorText no="104" text="The imps' ritual was actually to summon a terrible demon! It went flying to the demons' territory... Can someone go and defeat the demon that they summoned?"/>
+    <QuestFlavorText no="105" text="...I think the best way to get rich will be to beat up those that look like they have money... Start with those shining Gold Puni, always showing off. Heh heh heh... I'm counting on you..."/>
+    <QuestFlavorText no="106" text="...My plan to get rich isn't over yet. Next up are Liches. Their name sounds like &quot;rich&quot;, probably trying to show off. I hate them... Huh? I'm wrong about that? ...I don't think so, just go."/>
+    <QuestFlavorText no="107" text="...My plan to get rich has reached its final stage. Archliches. If they're taken care of, my competition will shrink considerably... It's just another misunderstanding? ...W-whatever, just go and beat them up!"/>
+    <QuestFlavorText no="108" text="The forest is noisy lately. Apparently it's because of some plant-like monsters screaming. It's really irritating, could someone go and take care of them?"/>
+    <QuestFlavorText no="109" text="I made a request here before about slaying plant monsters. After that, the forest seems angry. There are even more plant monsters there than before. Can someone go and take care of them again?"/>
+    <QuestFlavorText no="110" text="The tree on the edge of town isn't doing too well lately. It's watched over the town for all this time, it would be a shame to see it die now. Could someone provide fertilizer?"/>
+    <QuestFlavorText no="111" text="I heard a rumor about some ridiculously large Magic Grass! I want to see it, can someone go and gather it for me!?"/>
+    <QuestFlavorText no="112" text="I used a little too much money, so I need to learn self restraint. But I want to eat delicious food, too. I heard a rumor about cheap and tasty wheat. Can someone gather it for me?"/>
+    <QuestFlavorText no="113" text="I heard a rumor about really, really tiny eggs. I'm interested to see just how small they are. Can someone gather a few for me?"/>
+    <QuestFlavorText no="114" text="I need to leave town for business, but it's terrifying to think of a dragon appearing. I heard a rumor about a flower that dragons don't like. Could someone gather it for me?"/>
+    <QuestFlavorText no="115" text="I heard that girls who know how to embroider are attractive... So I want to start embroidery. I'd like to use really pretty, golden thread for it. Could someone provide it to me?"/>
+    <QuestFlavorText no="116" text="There's a theory that says this region was once an ocean... To support the theory, could someone bring some Seabed Soil to me?"/>
+    <QuestFlavorText no="117" text="I want to catch a star, but I'm not a child, so I know it's impossible. I at least want to have some Star Powder, though... Could someone share a little with me?"/>
+    <QuestFlavorText no="118" text="I heard about crystals that are said to be blessed by spirits, and left on this world by them. I'd like to see them, so could someone gather them for me?"/>
+    <QuestFlavorText no="119" text="Apparently there's a big Puni boss that leads many other Puni. If we leave something like that alone, it'll probably cause a disaster. You need to defeat that Puni... The Admiral Puni!"/>
+    <QuestFlavorText no="120" text="It's hard for tourists to come to our town if Blue Puni are roaming around nearby. Can someone go and slay those Puni, for the sake of the town's growth?"/>
+    <QuestFlavorText no="121" text="My children have been going outside the town to play lately. I'm glad they're so energetic, but I'm a little worried about them getting hurt by Puni. Could someone slay Blue Puni before that happens?"/>
+    <QuestFlavorText no="122" text="DUMMY"/>
+    <QuestFlavorText no="123" text="DUMMY"/>
+    <QuestFlavorText no="124" text="Those damn Green Puni! They're always rolling around, getting in the way of my transportation business! I can't work like this, someone go and slay those nuisances!"/>
+    <QuestFlavorText no="125" text="DUMMY"/>
+    <QuestFlavorText no="126" text="My friend told me about scary ghosts... After that, I can't even sleep at night... Please, someone defeat those ghosts and put me at ease!"/>
+    <QuestFlavorText no="127" text="DUMMY"/>
+    <QuestFlavorText no="128" text="There are plant monsters with shrill screams in the forest. They move around, so you can't get away from the noise. Someone go and slay them before I lose my hearing."/>
+    <QuestFlavorText no="129" text="DUMMY"/>
+    <QuestFlavorText no="130" text="Among Puni, the red ones are a little more dangerous. They're more aggressive than ordinary Puni. Please take care of them before someone gets hurt."/>
+    <QuestFlavorText no="131" text="DUMMY"/>
+    <QuestFlavorText no="132" text="I met a cute monster the other day. But it was still a monster in the end... I let down my guard, and it beat me to a pulp when I approached it... It's kind of a shame, but someone needs to slay them!"/>
+    <QuestFlavorText no="133" text="DUMMY"/>
+    <QuestFlavorText no="134" text="DUMMY"/>
+    <QuestFlavorText no="135" text="DUMMY"/>
+    <QuestFlavorText no="136" text="Birds keep eating the seeds I plant in my fields. Can someone go and exterminate those vermin?"/>
+    <QuestFlavorText no="137" text="DUMMY"/>
+    <QuestFlavorText no="138" text="Auu... I don't get why, but I think I'm being stalked by a certain ghost... Please, someone defeat them for me..."/>
+    <QuestFlavorText no="139" text="DUMMY"/>
+    <QuestFlavorText no="140" text="I heard about Puni that shine with a golden color... Those cheeky Puni bastards! Someone go and put them back in their place!"/>
+    <QuestFlavorText no="141" text="DUMMY"/>
+    <QuestFlavorText no="142" text="The leaves of the White Root monster can be made into poison or medicine, depending on how long they're boiled. I need a little, could someone go and collect a few leaves?"/>
+    <QuestFlavorText no="143" text="DUMMY"/>
+    <QuestFlavorText no="144" text="Recently, there are a number of incidents where travelers are attacked by Chimera Beasts. To protect everyone's safety, please go and slay a number of Chimera Beasts."/>
+    <QuestFlavorText no="145" text="DUMMY"/>
+    <QuestFlavorText no="146" text="You can't let down your guard around Apostles. They're small, but they have poison claws. There are a few too many of them lately, so it's time for a little pest control."/>
+    <QuestFlavorText no="147" text="DUMMY"/>
+    <QuestFlavorText no="148" text="There are birds that are also known as emperors... They're just birds! Nobody's ever said something that nice about me, even as a joke! ...Ahem, anyway. They're large and powerful monsters. Someone go and reduce their numbers a bit."/>
+    <QuestFlavorText no="149" text="DUMMY"/>
+    <QuestFlavorText no="150" text="Island Fish can live on land and in the water. They aren't very aggressive, but they're really big, so they get in the way of transportation. I'm sorry to have to ask this, but could someone reduce their numbers a little?"/>
+    <QuestFlavorText no="151" text="DUMMY"/>
+    <QuestFlavorText no="152" text="T-they appeared! Those black, squirming things... Black Puni! I-if something like that popped out of nowhere in my house... I'd be terrified! Someone go and slay them, quickly!"/>
+    <QuestFlavorText no="153" text="DUMMY"/>
+    <QuestFlavorText no="154" text="The other day, I met a ghost that acted very gentlemanly. Although after that, it licked my entire body and beat me up. Someone go and show those fake gentlemen how a real gentleman fights!"/>
+    <QuestFlavorText no="155" text="DUMMY"/>
+    <QuestFlavorText no="156" text="...This might just be my imagination, but I think I saw a skeleton moving around. Could someone investigate? And on the off chance that I happened to be right... Destroy them all!"/>
+    <QuestFlavorText no="157" text="DUMMY"/>
+    <QuestFlavorText no="158" text="DUMMY"/>
+    <QuestFlavorText no="159" text="DUMMY"/>
+    <QuestFlavorText no="160" text="The monster known as Alraune is covered head to toe in poison. Touching them is dangerous. That sounds like a hazard, can someone go and exterminate them?"/>
+    <QuestFlavorText no="161" text="DUMMY"/>
+    <QuestFlavorText no="162" text="It's no good! This monster called Lightning is just way too fast, I know there's no way for me to win! If there's someone speedy around, go and beat them for me."/>
+    <QuestFlavorText no="163" text="DUMMY"/>
+    <QuestFlavorText no="164" text="I was attacked by a fish with a huge horn! I've got skills, so I was able to barely dodge it, but an ordinary adventurer would have been run straight through! If anyone out there is confident in their skills, go and hunt those monsters down."/>
+    <QuestFlavorText no="165" text="DUMMY"/>
+    <QuestFlavorText no="166" text="DUMMY"/>
+    <QuestFlavorText no="167" text="DUMMY"/>
+    <QuestFlavorText no="168" text="Uu... I don't know why, but I'm being followed around by small demons... I don't remember doing anything to them... Could someone slay those monsters before they curse me...?"/>
+    <QuestFlavorText no="169" text="DUMMY"/>
+    <QuestFlavorText no="170" text="Saber Claw. Their talons are like blades, able to even cut armor to shreds. They've been growing in number lately. I'd like to ask for some help in exterminating them."/>
+    <QuestFlavorText no="171" text="DUMMY"/>
+    <QuestFlavorText no="172" text="Monsters called Flare Demons have a heated appearance, and also heated behavior. Their very existence is too hot... I'm the type who sweats a lot, so I can't forgive them. Someone take care of them before I dehydrate...!"/>
+    <QuestFlavorText no="173" text="DUMMY"/>
+    <QuestFlavorText no="174" text="Uu... Lately, I feel like someone's following me... When I asked a friend, they said it could be a monster called a Shadow. I'm sorry to cause trouble, but can someone go and slay these Shadows?"/>
+    <QuestFlavorText no="175" text="DUMMY"/>
+    <QuestFlavorText no="176" text="DUMMY"/>
+    <QuestFlavorText no="177" text="DUMMY"/>
+    <QuestFlavorText no="178" text="My grandpa said that he saw a jet black ghost long ago. Does something like that really exist? ...If they do, that's too scary. Please get rid of them for me!"/>
+    <QuestFlavorText no="179" text="DUMMY"/>
+    <QuestFlavorText no="180" text="The leaves taken from Kimmoch have a very pleasant aroma, and are a material for perfume. I'd like someone to hunt those monsters, so their leaves can be collected..."/>
+    <QuestFlavorText no="181" text="DUMMY"/>
+    <QuestFlavorText no="182" text="The birds known as Gustaf are big, and also strong. It's said that they can even carry off a human. That's too dangerous, we can't leave them out there. If you're confident in your skills, go and hunt them, please!"/>
+    <QuestFlavorText no="183" text="DUMMY"/>
+    <QuestFlavorText no="184" text="A pack of Fang are after my livestock. Someone, please protect my cute animals from those terrible Fangs!"/>
+    <QuestFlavorText no="185" text="DUMMY"/>
+    <QuestFlavorText no="186" text="I hate thunder! After doing some research, I found that a monster called Thunderous can make thunder. That's really rude, someone go and teach them a lesson for me!"/>
+    <QuestFlavorText no="187" text="DUMMY"/>
+    <QuestFlavorText no="188" text="Gaaah...! Monsters called Trickers played a whole bunch of pranks on me...! S-someone go slay them, and take revenge in my place!"/>
+    <QuestFlavorText no="189" text="DUMMY"/>
+    <QuestFlavorText no="190" text="If you take a close look at Star Fish, you can see a star pattern on them. It's said that beating a Star Fish increases your luck... Can someone go and beat some Star Fish, and share that luck with me?"/>
+    <QuestFlavorText no="191" text="DUMMY"/>
+    <QuestFlavorText no="192" text="My wife's suffering from an illness right now. She keeps having nightmares that Death Inquisitors will come for her. I'm willing to try anything to save my wife... Please, someone go and defeat those Death Inquisitors for us."/>
+    <QuestFlavorText no="193" text="DUMMY"/>
+    <QuestFlavorText no="194" text="The tail on a monster called a Twin Header is quite developed. Some even say that the tail is its true head. Can someone go and slay a number of them, and check the authenticity of that story?"/>
+    <QuestFlavorText no="195" text="DUMMY"/>
+    <QuestFlavorText no="196" text="We've identified a monster called a Hell Gate, also known as the gatekeeper of Hell. Please go and slay it as soon as possible."/>
+    <QuestFlavorText no="197" text="DUMMY"/>
+    <QuestFlavorText no="198" text="A monster called Tyrant Horn has a huge roar, it's really noisy! Can someone go and slay them before they break my eardrums?"/>
+    <QuestFlavorText no="199" text="DUMMY"/>
+    <QuestFlavorText no="200" text="A witness said that they saw Archliches performing some sort of ritual. It's probably some sort of spell... Regardless though, it can't be a good thing. Slay any you see on sight."/>
+    <QuestFlavorText no="201" text="DUMMY"/>
+    <QuestFlavorText no="202" text="An adventurer friend of mine talked about a terrible demon. If something like that showed up in town, it would be the end of us all! I'm too afraid, someone go and get rid of it!"/>
+    <QuestFlavorText no="203" text="DUMMY"/>
+    <QuestFlavorText no="204" text="Apparently you can make a simple bomb by stuffing Uni in a bag and adding a little gunpowder. Could someone prepare bombs like that for me? I want them for self defense."/>
+    <QuestFlavorText no="205" text="DUMMY"/>
+    <QuestFlavorText no="206" text="After telling my grandchild a heroic story, I was asked to go slay monsters too... I don't want to disappoint them. Could someone make a bomb that would allow even me to defeat monsters?"/>
+    <QuestFlavorText no="207" text="DUMMY"/>
+    <QuestFlavorText no="208" text="I want to freeze a lake and go skating on the ice. I heard that a cold bomb exists. Could someone share it with me?"/>
+    <QuestFlavorText no="209" text="DUMMY"/>
+    <QuestFlavorText no="210" text="I heard about a bomb that uses electricity to numb enemies. With something like that, no monster would stand a chance! Someone, give me some of those bombs! I don't care who!"/>
+    <QuestFlavorText no="211" text="DUMMY"/>
+    <QuestFlavorText no="212" text="I'm going to go on a fairly long journey, but I'm worried about monsters... Does anybody have bombs that can blow monsters away?"/>
+    <QuestFlavorText no="213" text="DUMMY"/>
+    <QuestFlavorText no="214" text="If you use a crystal filled with the power of lightning, you can see the future more clearly. Unfortunately, the power of lightning drains away fairly quick. Could someone provide me with a new one?"/>
+    <QuestFlavorText no="215" text="DUMMY"/>
+    <QuestFlavorText no="216" text="I heard about a missile that's all squishy and Puni-like. I like all squishy things. You'll have my thanks if you provide me with this squishy missile."/>
+    <QuestFlavorText no="217" text="DUMMY"/>
+    <QuestFlavorText no="218" text="Berg Medicine is pretty effective, and fairly cheap. It's a friend of the people. My stockpile ran out, so I need someone to provide me with more."/>
+    <QuestFlavorText no="219" text="DUMMY"/>
+    <QuestFlavorText no="220" text="You sometimes get injured while traveling. Having medicine with you can make a big difference. Could someone provide me with Refuel Bottles to prepare for my journey?"/>
+    <QuestFlavorText no="221" text="DUMMY"/>
+    <QuestFlavorText no="222" text="I'm tired... I work all the time, and I just can't get the fatigue out of my body... Someone... Give me something to relieve my tiredness..."/>
+    <QuestFlavorText no="223" text="DUMMY"/>
+    <QuestFlavorText no="224" text="I'm thinking about giving my crops something called Nectar of Life to help them grow. But I have no idea where I can obtain it. Can someone prepare it for me?"/>
+    <QuestFlavorText no="225" text="DUMMY"/>
+    <QuestFlavorText no="226" text="Lately, I've been forgetting a lot of things... Sometimes I even forget what I go shopping for. Is there any medicine that can cure forgetfulness?"/>
+    <QuestFlavorText no="227" text="DUMMY"/>
+    <QuestFlavorText no="228" text="Ah, I want to feel like a kid again, and eat simple sweets... I really want to eat them... But buying them myself is a little embarrassing... And that's why I'm requesting them. Someone help me out."/>
+    <QuestFlavorText no="229" text="DUMMY"/>
+    <QuestFlavorText no="230" text="I really want to drink the tea this girl in the neighborhood makes. But I can't just keep asking every day... Can someone find me some tea? I don't mind what kind as long as it's similar."/>
+    <QuestFlavorText no="231" text="DUMMY"/>
+    <QuestFlavorText no="232" text="The other day, I saw a girl eating a Puni... It was shocking. You can eat Puni? I want to see how it tastes, so someone bring me an edible Puni!"/>
+    <QuestFlavorText no="233" text="DUMMY"/>
+    <QuestFlavorText no="234" text="I heard about a snack that has a weird name. Sofi... Something? I don't remember exactly. Anyway, I'm curious about how it tastes. I'll reward whoever brings it to me."/>
+    <QuestFlavorText no="235" text="DUMMY"/>
+    <QuestFlavorText no="236" text="I heard a rumor floating around about this really good tea, called Piro... Something. I want someone to bring it to me so I can drink it. I'm willing to pay."/>
+    <QuestFlavorText no="237" text="DUMMY"/>
+    <QuestFlavorText no="238" text="I'm in the mood for some really sweet candy! I don't think I can resist this urge. At this rate, I'll end up eating all the sugar in the house. Someone, give me sweet candies before that happens!"/>
+    <QuestFlavorText no="239" text="DUMMY"/>
+    <QuestFlavorText no="240" text="The flavor of plain waffles differs depending on who made them. The ones my mom makes are just okay... Can someone bring me really delicious plain waffles to eat?"/>
+    <QuestFlavorText no="241" text="DUMMY"/>
+    <QuestFlavorText no="242" text="Argh, I'm really hungry! When you're hungry and want a light meal, bagel sandwiches have been the go-to food for years! Someone, bring me bagel sandwiches to eat, before my stomach reaches its limit!"/>
+    <QuestFlavorText no="243" text="DUMMY"/>
+    <QuestFlavorText no="244" text="I think it's okay to splurge once in a while, and drink the highest quality, delicious hot milk. I want someone to bring me some super delicious milk to drink."/>
+    <QuestFlavorText no="245" text="DUMMY"/>
+    <QuestFlavorText no="246" text="I don't like drinking medicine... It's bitter. But not drinking medicine makes my colds last longer... Is there medicine out there that even I could drink?"/>
+    <QuestFlavorText no="247" text="DUMMY"/>
+    <QuestFlavorText no="248" text="If you don't use good, clean water, you can't make truly delicious food. Can someone provide me with some clean water, without any impurities?"/>
+    <QuestFlavorText no="249" text="DUMMY"/>
+    <QuestFlavorText no="250" text="Apcol is essential for adding flavor to sweets, but... The store nearby is all out of stock. Will someone provide a little to me, please?"/>
+    <QuestFlavorText no="251" text="DUMMY"/>
+    <QuestFlavorText no="252" text="...I don't have any money, so I'm surviving on Ramel Flour right now. However, I'm reaching the limit even with that. Please, I don't care who. Can someone sell me Ramel Flour for super cheap?"/>
+    <QuestFlavorText no="253" text="DUMMY"/>
+    <QuestFlavorText no="254" text="Honey! I really want to eat some sweet honey! ...Or is it drink rather than eat? Well, whatever. I want to eat it as soon as possible, so bring it quickly! Please!"/>
+    <QuestFlavorText no="255" text="DUMMY"/>
+    <QuestFlavorText no="256" text="Bread made with all natural yeast is popular at my shop... Unfortunately I didn't store the yeast properly, and it went bad. Is anyone willing to provide me with good quality Natural Yeast?"/>
+    <QuestFlavorText no="257" text="DUMMY"/>
+    <QuestFlavorText no="258" text="My pharmacy stocks various kinds of medicine. If I have Elixir Base, I can make any kind of medicine needed. I want to restock my supply of medicine soon, so please deliver Elixir Base to me."/>
+    <QuestFlavorText no="259" text="DUMMY"/>
+    <QuestFlavorText no="260" text="Memos, memos... I forget things easily, so I write lots of memos. But I'm starting to run out of paper... Please give me lots of paper to write on!"/>
+    <QuestFlavorText no="261" text="DUMMY"/>
+    <QuestFlavorText no="262" text="Refresh Oil helps the body purge toxins from itself. It's essential for good health. Is anyone willing to provide me with some Refresh Oil?"/>
+    <QuestFlavorText no="263" text="DUMMY"/>
+    <QuestFlavorText no="264" text="I'm a novice blacksmith, but I make lots of mistakes. I'm running out of metal to use as materials... I'm sorry, but is anyone willing to prepare Ingots for me?"/>
+    <QuestFlavorText no="265" text="DUMMY"/>
+    <QuestFlavorText no="266" text="I'm thinking about using tough Stahl Metal to make armor. However, armor requires quite a lot of it. Can anyone help me obtain more Stahl Metal?"/>
+    <QuestFlavorText no="267" text="DUMMY"/>
+    <QuestFlavorText no="268" text="Silvalia is a metal that shines with an elegant silver color. Don't you agree that it's fitting for an elegant person like me? I'm thinking about making an accessory, so please provide me with the material I need."/>
+    <QuestFlavorText no="269" text="DUMMY"/>
+    <QuestFlavorText no="270" text="Rubilium is a cast metal with a beautiful color, and the hue of each one is slightly different. I want to decorate my room. Will someone give me some Rubilium?"/>
+    <QuestFlavorText no="271" text="DUMMY"/>
+    <QuestFlavorText no="272" text="I'm rich, so I want to build a golden house to match! Collect materials to help me build it! Don't worry, I'm willing to pay! I'm rich, after all! Hahahaha!"/>
+    <QuestFlavorText no="273" text="DUMMY"/>
+    <QuestFlavorText no="274" text="I heard that there's a metal that allows you to create weapons from legends... If anyone out there has some, would you be willing to share with me?"/>
+    <QuestFlavorText no="275" text="DUMMY"/>
+    <QuestFlavorText no="276" text="I'm thinking about making an accessory case for my friend's grandchild. Can someone give me cloth to use as a material? I'd be happy if it was as pretty as possible."/>
+    <QuestFlavorText no="277" text="DUMMY"/>
+    <QuestFlavorText no="278" text="If you're making a cute stuffed toy, you need soft and fluffy Mofcott! That's why I need someone to give me a little Mofcott."/>
+    <QuestFlavorText no="279" text="DUMMY"/>
+    <QuestFlavorText no="280" text="Adal Cloth. Its production method was invented in a neighboring country, Adalett, and its special characteristic is its elasticity. It's a valuable commodity... Is anyone willing to provide me with some?"/>
+    <QuestFlavorText no="281" text="DUMMY"/>
+    <QuestFlavorText no="282" text="So fluffy! I heard about a super fluffy cloth from a friend! I want to fluff up a fluffy cloth like that, too! So please, bring me that fluffy cloth!"/>
+    <QuestFlavorText no="283" text="DUMMY"/>
+    <QuestFlavorText no="284" text="I like the feel of Fairheit, so I want to make clothes using it, but I'm a pretty large man. I don't have enough. Someone, please help me out and prepare some Fairheit for me...!"/>
+    <QuestFlavorText no="285" text="DUMMY"/>
+    <QuestFlavorText no="286" text="I'm thinking about making beautiful, yet strong clothes, perfectly fitting for someone like me. Please prepare the highest quality cloth for me."/>
+    <QuestFlavorText no="287" text="DUMMY"/>
+    <QuestFlavorText no="288" text="Magic Grass has a lot of uses, making it really convenient. If anyone is gathering a lot of it outside, please share a little with me."/>
+    <QuestFlavorText no="289" text="I want to try planting Magic Grass in my garden to grow more. That means I need someone to provide a bunch of Magic Grass to start with."/>
+    <QuestFlavorText no="290" text="If you finely chop Cobalt Grass and use it for cooking, it increases the depth of flavor. Will someone gather Cobalt Grass for me, so I can make more delicious food?"/>
+    <QuestFlavorText no="291" text="DUMMY"/>
+    <QuestFlavorText no="292" text="I want to make some delicious herb tea. To do that, I need good quality Mystic Herbs. I'd be happy if a nice person gathered some Mystic Herbs for me."/>
+    <QuestFlavorText no="293" text="DUMMY"/>
+    <QuestFlavorText no="294" text="DUMMY"/>
+    <QuestFlavorText no="295" text="If you touch Raiden Ore bare handed, you'll get zapped, but I actually like that feeling! Sorry for asking, but I need someone to bring me a few pieces of fresh Raiden Ore!"/>
+    <QuestFlavorText no="296" text="DUMMY"/>
+    <QuestFlavorText no="297" text="Kupulf Ore is very hard. If you put it on the tips of farm tools, they can even break small rocks. It makes farming far more efficient, so I'd be thankful if someone collected it for me."/>
+    <QuestFlavorText no="298" text="DUMMY"/>
+    <QuestFlavorText no="299" text="Hakurei Stones are always emitting coldness. Just placing it in your room makes it a little cooler. We've had a lot of hot days lately, so I'd be happy if someone gathered it for me."/>
+    <QuestFlavorText no="300" text="DUMMY"/>
+    <QuestFlavorText no="301" text="Just looking at Spirit Stones raises my spirits, and I brim with creative urges. Someone show me Spirit Stones, so that I can create better products!"/>
+    <QuestFlavorText no="302" text="DUMMY"/>
+    <QuestFlavorText no="303" text="Black Orbs look really cool, don't they! They're black, and kind of burning! I want to decorate my yard with them, so please gather a few from outside!"/>
+    <QuestFlavorText no="304" text="DUMMY"/>
+    <QuestFlavorText no="305" text="Night Crystals have a deep color, much like the night, and are very beautiful. I can't tell you why, but I need some Night Crystals."/>
+    <QuestFlavorText no="306" text="DUMMY"/>
+    <QuestFlavorText no="307" text="I want to give my girlfriend some brilliant minerals. I think it would suit her beauty. Unfortunately, I don't know where to obtain them... Can someone prepare them for me...?"/>
+    <QuestFlavorText no="308" text="DUMMY"/>
+    <QuestFlavorText no="309" text="I heard about a crystal said to be inhabited by spirits. I heard it was very rare, but maybe there's some way for me to obtain some..."/>
+    <QuestFlavorText no="310" text="DUMMY"/>
+    <QuestFlavorText no="311" text="I want to make a feather ornament, so I need Monster Feathers! Thanks!"/>
+    <QuestFlavorText no="312" text="DUMMY"/>
+    <QuestFlavorText no="313" text="It seems like demand for Strong Bones is increasing right now. Even my shop is running out. I'm sorry, but is anyone willing to provide me with some Strong Bones?"/>
+    <QuestFlavorText no="314" text="DUMMY"/>
+    <QuestFlavorText no="315" text="When cooked, Island Fish Fins actually make excellent snacks. Can someone gather fins for me, so that I can enjoy the little time I have to relax?"/>
+    <QuestFlavorText no="316" text="DUMMY"/>
+    <QuestFlavorText no="317" text="I want to use fur to make a coat, and while I'm at it, I want to make it as warm as possible. Can someone prepare some warm fur for me...?"/>
+    <QuestFlavorText no="318" text="DUMMY"/>
+    <QuestFlavorText no="319" text="I heard about fur that's as red as fire, and also very strong... This sounds like a good chance to make money. Is anyone out there willing to show me some of this fur?"/>
+    <QuestFlavorText no="320" text="DUMMY"/>
+    <QuestFlavorText no="321" text="If you make a bug catching net out of Silver Webs, you can catch any bug you want. Gather me some super sticky and fresh webs!"/>
+    <QuestFlavorText no="322" text="DUMMY"/>
+    <QuestFlavorText no="323" text="I heard about a strong thread that's different from Silver Webs. I'd like to try sewing with that thread... I'm sorry for the trouble, but can someone prepare the thread for me?"/>
+    <QuestFlavorText no="324" text="DUMMY"/>
+    <QuestFlavorText no="325" text="It's said that Dragon Scales also serve as warding charms. Some bad things have happened to me lately, so I'm desperate. Can someone give me Dragon Scales?"/>
+    <QuestFlavorText no="326" text="DUMMY"/>
+    <QuestFlavorText no="327" text="Luminous Water is always faintly glowing. It's convenient, since it can be used as a lamp when going out at night. If someone has a little extra, please give it to me."/>
+    <QuestFlavorText no="328" text="DUMMY"/>
+    <QuestFlavorText no="329" text="I heard about water that's also fuel, and if you mishandle it, it can explode! I really want to see that! Is anyone willing to bring some to me?"/>
+    <QuestFlavorText no="330" text="DUMMY"/>
+    <QuestFlavorText no="331" text="...Suspicious Liquid. It's suspicious, alright. Really suspicious. There's a limit to being suspicious. We don't even know what it actually is. I'd like to study its composition, so please give some to me."/>
+    <QuestFlavorText no="332" text="DUMMY"/>
+    <QuestFlavorText no="333" text="I heard from an adventurer that Puni sometimes leave fluid behind... I'm kind of interested in seeing what kind of fluid it is. Is anyone willing to show it to me?"/>
+    <QuestFlavorText no="334" text="DUMMY"/>
+    <QuestFlavorText no="335" text="I heard about a mysterious liquid that shines with the colors of the rainbow. I'd like to see it, if it exists. Is there any way to obtain some?"/>
+    <QuestFlavorText no="336" text="DUMMY"/>
+    <QuestFlavorText no="337" text="I'm looking for Dragon Bloodstone to do some research. I heard that this treasure has special compounds. It's difficult to obtain, but I hope that someone will provide it to me."/>
+    <QuestFlavorText no="338" text="DUMMY"/>
+    <QuestFlavorText no="339" text="Ah, I really want to knead and squish Puniballs... Please, someone. Help me satisfy this urge..."/>
+    <QuestFlavorText no="340" text="DUMMY"/>
+    <QuestFlavorText no="341" text="I want to try putting golden, shining Puniballs in the bath. Can someone provide me with some especially shiny ones?"/>
+    <QuestFlavorText no="342" text="DUMMY"/>
+    <QuestFlavorText no="343" text="I heard from an adventurer that they eat Beehives in some regions... That sounds a little scary, but I want to try it. Help me out."/>
+    <QuestFlavorText no="344" text="DUMMY"/>
+    <QuestFlavorText no="345" text="I'm collecting pretty shells! They're interesting, because they have all kinds of patterns! If you have some unusual shells, please give them to me!"/>
+    <QuestFlavorText no="346" text="DUMMY"/>
+    <QuestFlavorText no="347" text="Apparently you can find pure white shells once in a while, but they're rare and sold for a lot of money. I'm willing to reward anyone who finds some for me."/>
+    <QuestFlavorText no="348" text="DUMMY"/>
+    <QuestFlavorText no="349" text="There's a pretty crystal called Blue Steel Stone. It's transparent blue color, and shines brilliantly when exposed to light. I want to decorate my house, so I want them in all shapes and sizes."/>
+    <QuestFlavorText no="350" text="DUMMY"/>
+    <QuestFlavorText no="351" text="It's really pretty if you put a bunch of small crystal shards in a bottle. I want to give some to my friend too, so please gather a bunch of them for me."/>
+    <QuestFlavorText no="352" text="DUMMY"/>
+    <QuestFlavorText no="353" text="I want to give the girl I like beautiful crystals that shine like the rainbow! But it sounds like you can't find them unless you go outside the town... Is someone willing to go and gather them in my place...?"/>
+    <QuestFlavorText no="354" text="DUMMY"/>
+    <QuestFlavorText no="355" text="DUMMY"/>
+    <QuestFlavorText no="356" text="DUMMY"/>
+    <QuestFlavorText no="357" text="DUMMY"/>
+    <QuestFlavorText no="358" text="DUMMY"/>
+    <QuestFlavorText no="359" text="DUMMY"/>
+    <QuestFlavorText no="360" text="DUMMY"/>
+    <QuestFlavorText no="361" text="DUMMY"/>
+    <QuestFlavorText no="362" text="DUMMY"/>
+    <QuestFlavorText no="363" text="DUMMY"/>
+    <QuestFlavorText no="364" text="I'm investigating items that can be gathered around this town. I'm understaffed, so I need help surveying Pilgrim Road. Adventurers pass through there often, so it shouldn't be very dangerous."/>
+    <QuestFlavorText no="365" text="I'm investigating items that can be gathered around this town, but I twisted my ankle... I need someone to help survey Merbert Farm. You will be paid properly."/>
+    <QuestFlavorText no="366" text="I'm investigating items that can be gathered around this town. I'm allergic to pollen, so I need help surveying the Flower Garden. I heard that this garden is quite a beautiful sight."/>
+    <QuestFlavorText no="367" text="I'm investigating items that can be gathered around this town. I have other work to attend to, so I need help surveying the Wood Cabin. Oh, you only need to survey the area outside the cabin."/>
+    <QuestFlavorText no="368" text="I'm investigating items that can be gathered around this town. My mother has caught a cold, so I need someone to survey the Open Ruins in my place. I'll get back to work once my mother recovers!"/>
+    <QuestFlavorText no="369" text="I'm investigating items that can be gathered around this town. I stepped on an Uni and got hurt, so can someone survey the Chick Woods in my place? ...And be careful about stepping on Uni."/>
+    <QuestFlavorText no="370" text="I'm investigating items that can be gathered around this town. I was stung by a bee, so I need someone to survey the Blessed Forest... Ugh, I just had to get stung right in the face..."/>
+    <QuestFlavorText no="371" text="I'm investigating items that can be gathered around this town, but... I haven't gotten much sleep lately, so I need help surveying the Leisure Plaza. If I go there now, I would definitely fall asleep..."/>
+    <QuestFlavorText no="372" text="I'm investigating items that can be gathered around this town, but... I really hate mushrooms, so I need help surveying the Fungal Garden... I'm very sorry. Mushrooms are the one thing that I can't handle."/>
+    <QuestFlavorText no="373" text="I'm investigating items that can be gathered around this town. I have a terrible headache, so can someone help me survey the Enlightened Mountain? ...This headache must be because I stayed up all night, trying to find enlightenment."/>
+    <QuestFlavorText no="374" text="I'm investigating items that can be gathered around this town. I need to run an errand for someone, so I need help surveying the Green Ruins. I can't forget to buy Soil Potatoes and Ramel Wheat..."/>
+    <QuestFlavorText no="375" text="I'm investigating items that can be gathered around this town. I'm utterly useless at fighting, so can someone survey the Gathering of Beasts for me? I really am very weak. I wouldn't even stand a chance against a Puni..."/>
+    <QuestFlavorText no="376" text="I'm investigating items that can be gathered around this town. I tripped and hit my head, so can someone survey the Rocky Grove for me...? I have a huge bump on my head now..."/>
+    <QuestFlavorText no="377" text="I'm investigating items that can be gathered around this town. I'm terrible with directions, so can someone survey the Puzzling Path for me...? ...Sometimes I even forget the way to get home... Ehehe..."/>
+    <QuestFlavorText no="378" text="I'm investigating items that can be gathered around this town. I have a bad stomach ache, so can someone survey the Gate of Trees for me...? Uu, it must have been something I ate..."/>
+    <QuestFlavorText no="379" text="I'm investigating items that can be gathered around this town. I can't swim at all, so please survey the Forgetful Stream for me... It would be a big problem if I drowned, right? ...Right!?"/>
+    <QuestFlavorText no="380" text="I'm investigating items that can be gathered around this town. I lost my map, so can someone survey the Foggy Woodland for me? ...It's my fault for not keeping things tidy around here."/>
+    <QuestFlavorText no="381" text="I'm investigating items that can be gathered around this town. I was attacked by a Puni and injured, so please survey the Three Bridge Spring for me... I'm so pathetic, being beaten by a Puni."/>
+    <QuestFlavorText no="382" text="I'm investigating items that can be gathered around this town. I put all of my clothes in the laundry, so I need someone to survey the Calm Banks instead... By the way, just so you know, I sent this request in with a letter."/>
+    <QuestFlavorText no="383" text="I'm investigating items that can be gathered around this town. I need to write materials for an academic conference, so can someone survey the Silent Lakeside...? ...I still haven't come up with anything to write."/>
+    <QuestFlavorText no="384" text="I'm investigating items that can be gathered around this town. I was invited to go somewhere with friends, so can someone survey the Fertile shore? ...I'm sorry. I couldn't resist the temptation of sweets..."/>
+    <QuestFlavorText no="385" text="I'm investigating items that can be gathered around this town. My little brother ran away from home, so I need to look for him. Can someone survey the Small Islet instead...? I'm worried about my cute little brother. I'm very sorry..."/>
+    <QuestFlavorText no="386" text="I'm investigating items that can be gathered around this town. My aunt caught me and won't let me go, so can someone survey the Rocky Mountain for me? Uu, I keep telling her that it's too early for me to get married..."/>
+    <QuestFlavorText no="387" text="I'm investigating items that can be gathered around this town. I have a test coming up, so can someone survey the Verdant Hill for me? Um, it might not seem like it, but... I really am a student."/>
+    <QuestFlavorText no="388" text="I'm investigating items that can be gathered around this town. I had a fight with my dad, so can someone survey the Mountain Boundary for me...? I'm very sorry, I'll try to make amends and get back to work soon..."/>
+    <QuestFlavorText no="389" text="I'm investigating items that can be gathered around this town. One of my bookshelves collapsed, and my room is a total disaster. Can someone survey the Dead Tree Wasteland for me...? Now how can I fix this mess..."/>
+    <QuestFlavorText no="390" text="I'm investigating items that can be gathered around this town... I have some unavoidable circumstances, so I need someone to help survey the Husk Forest... It's not because I'm scared of that place, just so you know."/>
+    <QuestFlavorText no="391" text="DUMMY"/>
+    <QuestFlavorText no="392" text="DUMMY"/>
+    <QuestFlavorText no="393" text="DUMMY"/>
+    <QuestFlavorText no="394" text="DUMMY"/>
+    <QuestFlavorText no="395" text="DUMMY"/>
+    <QuestFlavorText no="396" text="DUMMY"/>
+    <QuestFlavorText no="397" text="DUMMY"/>
+    <QuestFlavorText no="398" text="DUMMY"/>
+    <QuestFlavorText no="399" text="I'm investigating items that can be gathered around this town. I'm afraid of damaging the ruins, so can someone survey the Waterside Ruins for me? My friends always call me the &quot;destroyer&quot;..."/>
+    <QuestFlavorText no="400" text="DUMMY"/>
+    <QuestFlavorText no="401" text="I'm investigating items that can be gathered around this town. Can someone help me survey the City of the Lost? I have bombs, and medicine, so I'm fully prepared this time! Yeah!"/>
+    <QuestFlavorText no="402" text="DUMMY"/>
+    <QuestFlavorText no="403" text="DUMMY"/>
+    <QuestFlavorText no="404" text="Blue, green, red... There are many colors of Puni, but the main similarity is that there are a huge number of them all. Someone go hunt them before they completely cover the area around town."/>
+    <QuestFlavorText no="405" text="There really are a lot of types of Puni. I want to investigate how many types there are. Please tell me after defeating a number of them."/>
+    <QuestFlavorText no="406" text="I found a book outside. When I went to pick it up, it suddenly attacked me! I did a little research, and apparently it was a book monster... Can someone go slay them before more people get tricked like me?"/>
+    <QuestFlavorText no="407" text="It's said that many forbidden books that are sealed away gain life, and become monsters. Is there someone willing to exterminate them before they cause a disaster?"/>
+    <QuestFlavorText no="408" text="I-I don't even slightly believe in ghosts at all, but if they really do exist, someone needs to get rid of them... Or they could cause trouble. Any self-respecting adventurer should go and slay them all, now!"/>
+    <QuestFlavorText no="409" text="Apparently higher ranking ghosts are always looking for a chance to steal people's souls. Someone needs to defeat them before adventurers fall victim to their dirty tricks."/>
+    <QuestFlavorText no="410" text="Argh! Why are those plant monsters so noisy!? Someone go and cut them down, I don't care who does it!"/>
+    <QuestFlavorText no="411" text="Nature can sometime be terrifying... Especially those plant monsters. Anyone who inhales their poison pollen will instantly fall unconscious. Can someone go slay them, before some rookie adventurer comes to harm?"/>
+    <QuestFlavorText no="412" text="Apparently, imps are young demons. They become a huge threat when they grow. It's best to take measures before that happens. Is someone willing to help?"/>
+    <QuestFlavorText no="413" text="What's with those things!? How much do imps enjoy causing trouble!? I'm mad now! Someone go and exterminate every last one of them!"/>
+    <QuestFlavorText no="414" text="*Sigh*... It's depressing to see the fields you work so hard to grow ravaged by birds... Is there anyone willing to go and exterminate those vermin...?"/>
+    <QuestFlavorText no="415" text="T-that was shocking! A bird as big as me, or even bigger, suddenly came out of nowhere and attacked me! I don't want to be attacked again! Someone, please go and slay them."/>
+    <QuestFlavorText no="416" text="I was thinking about taking a nice journey, but beasts appear pretty often lately... Is there anyone willing to clear the way for me?"/>
+    <QuestFlavorText no="417" text="Wild beasts are especially dangerous monsters. They're vicious, and move quickly. They consider everything, including humans, their prey. If we don't fight them now, more people will end up hurt."/>
+    <QuestFlavorText no="418" text="Island Fish keep getting in the way of our fishing. It might be because they're fish too, but... At this rate, we can't make a living. We'll reward anyone who helps get rid of them."/>
+    <QuestFlavorText no="419" text="...I'm curious about the taste of Island Fish. I'm sure they don't taste very good, but I still want to try it. Please, even just a little's fine. Slay them and bring me some pieces."/>
+    <QuestFlavorText no="420" text="Argh, I can't forgive them! They cast curses on people... I know they're monsters, but that's going too far! Someone go and teach them a lesson, I don't care who does it!"/>
+    <QuestFlavorText no="421" text="Some stray from the right path, and sell their souls to demons. After death, they continue to live as monsters. Laying them to rest is the greatest mercy we can show them. Is there someone willing to help them pass on?"/>
+    <QuestFlavorText no="422" text="Demons are, you know, those that do evil things. Wouldn't it be best for someone to defeat them, before they can do anything evil...?"/>
+    <QuestFlavorText no="423" text="So what if they're called demons! They're still just monsters. In that case, someone should be able to beat them. Take up your swords. It's time for a demon hunt."/>
+    <QuestFlavorText no="424" text="I really like plants. I think I would get along with Oskar, from the Behlmer family. Anyway, I want to be surrounded by greenery, so please bring me lots of wonderful plants."/>
+    <QuestFlavorText no="425" text="I'm researching plants. I'd like to observe the traits of several types of plants, so can someone gather them for me?"/>
+    <QuestFlavorText no="426" text="I'm practicing my cooking! ...I'm tired of being called the &quot;Burn Master&quot; all the time. I practiced too much, and ran out of ingredients, so please bring me several kinds of ingredients!"/>
+    <QuestFlavorText no="427" text="Once you set out on an adventure, you can't eat to your heart's content for a while. I want to eat a lot now, while I can. Bring me lots of food that's delicious and filling!"/>
+    <QuestFlavorText no="428" text="I heard from a lady in the neighborhood that clay is good for a growing child's mind. I want my child to grow up smart... Could someone prepare clay for me?"/>
+    <QuestFlavorText no="429" text="I'm thinking about starting a garden, so I need soil. I have no idea what kind of soil is good, though... So I'd like to try out a whole bunch. Could someone bring it to me?"/>
+    <QuestFlavorText no="430" text="I want ore samples. Some properties can't be understood unless you see the real thing. Please deliver some good quality ores to me."/>
+    <QuestFlavorText no="431" text="I'm a blacksmith. I've been thinking lately that ordinary smithing is boring, though. I want to innovate and breathe some new life into the smithing world... That's why I'm asking for some unusual ores."/>
+    <QuestFlavorText no="432" text="There are many kinds of liquids, but I wonder what's best for cleaning stains? I want to test it, so could someone bring me various liquids?"/>
+    <QuestFlavorText no="433" text="I'm making facial lotion by hand, but... I want to try using different water. I'd like to test a few types, so could someone bring water from several places?"/>
+    <QuestFlavorText no="434" text="Memos... Memos... I don't have enough paper for memos. I don't care what kind, it can even be paper scraps. I just need to be able to write on it. Bring it all to me!"/>
+    <QuestFlavorText no="435" text="I want to read all kinds of books. Not normal books, strange ones. I won't ask how you obtain them, just bring me some strange books."/>
+    <QuestFlavorText no="436" text="They say cooking is all about heat... But is it true? I'm skeptical, but I won't know unless I try. Bring me fuels that could turn up the heat!"/>
+    <QuestFlavorText no="437" text="I want to burn unneeded things around my house, so I need fuel. I don't care what it is, as long as it burns."/>
+    <QuestFlavorText no="438" text="Blasting rocks is the most efficient way to collect ores. But you need gunpowder for that. I'd like some, and as good quality as possible."/>
+    <QuestFlavorText no="439" text="Sun Powder and Star Powder... I don't know what they are, but they're both beautiful... I know they're rare, but I want to obtain some..."/>
+    <QuestFlavorText no="440" text="Barrel making is 80% about the materials you use. To make good barrels, you need good materials... Can someone provide it to me?"/>
+    <QuestFlavorText no="441" text="DUMMY"/>
+    <QuestFlavorText no="442" text="Beautiful things are most suitable for me! Now, offer up some beautiful things to me! Go on, don't be shy!"/>
+    <QuestFlavorText no="443" text="Glittering, brilliant things are beautiful. Can someone show me some shiny materials?"/>
+    <QuestFlavorText no="444" text="I want to make medicine, so I'd like some materials to make it. It would be a problem if I didn't have enough medicine."/>
+    <QuestFlavorText no="445" text="There are a lot of things said to be good for the body. I'm not asking for miracle medicine, but I'd like to try various things that are good for you."/>
+    <QuestFlavorText no="446" text="There's only a thin line between poison and medicine. Some poisons can be used as medicine, and vice versa. I'd like to research poisons to create new medicines. Could someone bring me various poisons?"/>
+    <QuestFlavorText no="447" text="DUMMY"/>
+    <QuestFlavorText no="448" text="I'm thinking about making a beautiful quilt. Can someone bring me a number of cloths to use as materials?"/>
+    <QuestFlavorText no="449" text="If I make clothes using pretty cloth, I'd quickly turn into a stylish woman! Collect some cloth for me!"/>
+    <QuestFlavorText no="450" text="I'm an adventurer. Going on journeys is my job. The outcome is determined by how much you prepared beforehand. I'd like some bombs to use when I need to confront monsters."/>
+    <QuestFlavorText no="451" text="Apparently there are many types of bombs. The ones I heard about are fire, ice, and lightning. I'm interested in seeing all three of them."/>
+    <QuestFlavorText no="452" text="My children are quite the rascals, so I never know when they'll get hurt. I'd like to have medicine prepared just in case... Can someone make it for me?"/>
+    <QuestFlavorText no="453" text="I'm very old, and I know that I'm close to death. But I don't want to die yet... Could someone bring me a legendary elixir, so I can live just a little longer?"/>
+    <QuestFlavorText no="454" text="The metal fittings on my armor broke. If I had the materials, I could fix it myself... Could someone deliver metal to me?"/>
+    <QuestFlavorText no="455" text="You need superior material to make strong armor. Could someone prepare materials that could make armor to repel any attack?"/>
+    <QuestFlavorText no="456" text="I want to eat really sweet snacks. Well, just snacks would give me heartburn, so I want tea too. Make sure it's delicious!"/>
+    <QuestFlavorText no="457" text="DUMMY"/>
+    <QuestFlavorText no="458" text="Ah, I want to fill up on a delicious meal... I'd be satisfied with my life if I just had that... Please, give me some good food!"/>
+    <QuestFlavorText no="459" text="DUMMY"/>
+    <QuestFlavorText no="460" text="I'm thinking about inviting some friends to a tea party. I need good tea and snacks. Also, I need paper to write the invitations."/>
+    <QuestFlavorText no="461" text="I'm planning to treat my boyfriend to some nice cooking, but I'm out of ingredients. I'm sorry, could someone give some ingredients to me?"/>
+    <QuestFlavorText no="462" text="The time has come to settle the score with my rival... Well, I say rival, but it's just a monster that beat me up. I want to win this time, so I want to make full preparations!"/>
+    <QuestFlavorText no="463" text="I want to make some cold sweets to cool off. I need water, and something to freeze it with. Oh, and I need something sweet, too."/>
+    <QuestFlavorText no="464" text="I've gained a little weight recently. This is a good opportunity to lose weight and get stronger. Could someone prepare materials to make a training item I need?"/>
+    <QuestFlavorText no="465" text="I want to change my image, and become a mysterious woman! But I have no idea what it actually means to be mysterious! Please bring me some mysterious items!"/>
+    <QuestFlavorText no="466" text="I think Puni goods are the future! I want to show people around me the charm of Puni goods. Please prepare a number of items for me."/>
+    <QuestFlavorText no="467" text="I'm going to have a festival near my house soon. Although it won't be that big. Anyway, can someone help me prepare items that are necessary for the festival?"/>
+    <QuestFlavorText no="468" text="Lately, my fortunetelling isn't very accurate. I'm thinking about training again. Could someone collect the necessary items?"/>
+    <QuestFlavorText no="469" text="There's a legendary sage who is said to have reached enlightenment. Maybe I can do it too, if I have some amazing items. Please bring me a number of unusual items."/>
+    <QuestFlavorText no="470" text="DUMMY"/>
+    <QuestFlavorText no="471" text="DUMMY"/>
+    <QuestFlavorText no="472" text="DUMMY"/>
+    <QuestFlavorText no="473" text="DUMMY"/>
+    <QuestFlavorText no="474" text="DUMMY"/>
+    <QuestFlavorText no="475" text="DUMMY"/>
+</Root>

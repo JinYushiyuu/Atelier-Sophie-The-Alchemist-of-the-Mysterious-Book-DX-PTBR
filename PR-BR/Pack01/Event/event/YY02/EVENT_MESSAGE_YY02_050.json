@@ -1,0 +1,202 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY02_050.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x60,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Next, it's time to put this in..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "How's it going?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x60,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hmm, I don't know right now... Huh...? W-what the...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, this reaction..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Yeah. This is... Going to explode."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Indeed... And it's too late to escape."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x60,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Hey, wait...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xd,
+            "msg_id": 0x7,
+            "msg_string": "That was terrible..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Ahaha! That was an impressive explosion!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Yes, it was most interesting to watch."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Uu... Why didn't it work..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sophie... Did you just refer to my memo as written?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x10,
+            "msg_id": 0xc,
+            "msg_string": "Huh, yeah I did... Was that wrong?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Yes. That was a memo from the research stages. I'd hesitate to call it a complete recipe."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "If you Synthesize it based on that memo, you'll just fail over and over."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x10,
+            "msg_id": 0xf,
+            "msg_string": "Uu, I didn't know..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Oh, that reminds me... You were always blowing up your cauldron before, too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Hehe... You always had an unconcerned look on your face, while it was covered in soot."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "T-that was in the past... Anyway, that memo is an incomplete product."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Think of this as alchemy studies. Try completing the recipe yourself."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "...Okay, I got it. I'll think it over."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Good luck... For our sake, too."
+        }
+    ]
+}

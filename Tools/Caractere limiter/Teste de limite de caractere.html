@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Teste Caixa de Diálogo</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@200..900&display=swap" rel="stylesheet">
+
+<style>
+
+body{
+    margin:0;
+    background:#555;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    height:100vh;
+}
+
+#dialogo{
+    position:relative;
+    width:825px;
+    height:183px;
+}
+
+#dialogo img{
+    width:100%;
+    display:block;
+    user-select:none;
+    pointer-events:none;
+}
+
+#texto{
+
+    position:absolute;
+
+    left:250px;
+    top:100px;
+
+    width:550px;
+    height:100px;
+
+    background:transparent;
+
+    border:none;
+    outline:none;
+    box-shadow:none;
+
+    appearance:none;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+
+    resize:none;
+    overflow:visible;
+
+    padding:0;
+
+    color:#3b2e25;
+
+    font-family:"Source Sans 3", sans-serif;
+    font-size:30px;
+    font-weight:400;
+    line-height:35px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div id="dialogo">
+
+    <img src="Ryza.png">
+
+    <textarea
+        id="texto"
+        spellcheck="false"
+        placeholder="Digite aqui..."
+    ></textarea>
+
+</div>
+
+</body>
+
+</html>

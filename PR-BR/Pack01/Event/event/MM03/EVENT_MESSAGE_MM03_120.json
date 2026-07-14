@@ -1,0 +1,154 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_120.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x2,
+            "msg_id": 0x3e1,
+            "msg_string": "Plachta!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3e2,
+            "msg_string": "W-what is it, Sophie? You seem to be especially cheerful right now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x3e3,
+            "msg_string": "I thought of something! I got a really good idea! A way to reclaim your memories!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3e4,
+            "msg_string": "Really? However, it's nearly impossible to create a human..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x3e5,
+            "msg_string": "Yeah, I know. That's why I'm not going to create a human. I'll create a doll!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3e6,
+            "msg_string": "A doll...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x3e7,
+            "msg_string": "Yes, Fritz told me that especially amazing dolls can gain souls of their own."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x3e8,
+            "msg_string": "You said you put your soul in that book, right? So if we move your soul into a doll instead..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3e9,
+            "msg_string": "If I'm in something close to human, we wouldn't need to create a real human for me to take human form...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3ea,
+            "msg_string": "I didn't even think of that. That's an excellent idea. It's also far more feasible than creating a human."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x3eb,
+            "msg_string": "Right? Okay, I can finally see the finish line!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x3ec,
+            "msg_string": "Hm, I wonder what I'd need to turn you into a doll? First I'd need the doll itself. We'd go nowhere without that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x2330,
+            "msg_string": "Oh right, you'd need clothes. And a doll can't move, so I need to do something..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x3ee,
+            "msg_string": "And most importantly, I need some sort of device to move your soul from the book into the doll..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x3ef,
+            "msg_string": "It sounds really hard, but... This is all for Plachta. I need to do it!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x3f0,
+            "msg_string": "Anyway, I should go talk to lots of people!"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Sophie learned the skill \"<CLGR>Alchemist's Wisdom<CLNR>\"."
+        }
+    ]
+}

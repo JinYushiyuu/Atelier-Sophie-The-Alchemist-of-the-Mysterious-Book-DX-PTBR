@@ -1,0 +1,176 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_FRI_060.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Fritz, I finished the puppet strings!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Really? Let me see."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "...Yes, I think this will work nicely."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Really? That's good, I'm relieved."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "That book said you're still a novice... But it seems like you're a pretty capable alchemist."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Ehehe, I got a compliment."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Anyway, with this I'll be able to put on puppet shows. You have my gratitude, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I'm glad I could be of help. If it's okay, could I watch your puppet show sometime?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "What...? You're interested in puppet shows?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Oh, um, yes. I've never seen one before, so I wanted to at least once."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "I see! So you want to watch my puppet show! That's fantastic! You should watch, by all means!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Um... Fritz...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Puppet shows are wonderful things! The playwright accounts for every little detail to craft a moving story!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "Then, the one to bring the story to life is the puppeteer's art, expressing emotion and depth through their dolls!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "When these two come together, it's as though the dolls have come to life, captivating their audience!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "A-ahaha. I-I see! I really want to watch that..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "I know, right!? Yes, you must watch at least once!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Hahahahaha!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(Fritz is like a different person when he talks about dolls...)"
+        }
+    ]
+}

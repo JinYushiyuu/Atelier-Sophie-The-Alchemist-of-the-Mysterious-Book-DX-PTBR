@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_shop01_bar" texture="ui/a17_shop.g1t"  texture_index="0" prim_type="wrap" edge_margin="0,4,1,3" uvwh="688,224,16,176"/>
+	<image name="gen_a17_shop01_bf" texture="ui/a17_shop.g1t"  texture_index="0" prim_type="wrap" edge_margin="0,32,48,32" uvwh="1,193,48,208"/>
+	<image_list name="gen_a17_shop01_buylight">
+		<image name="gen_a17_shop01_buylight__xLIST01" texture="ui/a17_shop.g1t" texture_index="0" uvwh="480,416,224,128"/>
+		<image name="gen_a17_shop01_buylight__xLIST02" texture="ui/a17_shop.g1t" texture_index="0" uvwh="480,544,224,128"/>
+	</image_list>
+	<image name="gen_a17_shop01_cab" texture="ui/a17_shop.g1t"  texture_index="0" prim_type="wrap" edge_margin="0,240,8,64" uvwh="128,0,544,416"/>
+	<image name="gen_a17_shop01_cabinettag" texture="ui/a17_shop.g1t" texture_index="0" uvwh="672,0,464,80"/>
+	<image name="gen_a17_shop01_contribution" texture="ui/a17_shop.g1t" texture_index="0" uvwh="1140,0,388,156"/>
+	<image name="gen_a17_shop01_demand" texture="ui/a17_shop.g1t" texture_index="0" uvwh="704,220,832,520"/>
+	<image_list name="gen_a17_shop01_paper">
+		<image name="gen_a17_shop01_paper__xLIST01" texture="ui/a17_shop.g1t" texture_index="0" uvwh="0,416,480,112"/>
+		<image name="gen_a17_shop01_paper__xLIST02" texture="ui/a17_shop.g1t" texture_index="0" uvwh="0,528,480,112"/>
+		<image name="gen_a17_shop01_paper__xLIST03" texture="ui/a17_shop.g1t" texture_index="0" uvwh="0,640,480,112"/>
+	</image_list>
+	<image name="gen_a17_shop01_sign" texture="ui/a17_shop.g1t" texture_index="0" uvwh="672,80,284,100"/>
+	<image_list name="gen_a17_shop01_tag">
+		<image name="gen_a17_shop01_tag__xLIST01" texture="ui/a17_shop.g1t" texture_index="0" uvwh="0,0,128,64"/>
+		<image name="gen_a17_shop01_tag__xLIST02" texture="ui/a17_shop.g1t" texture_index="0" uvwh="0,64,128,64"/>
+		<image name="gen_a17_shop01_tag__xLIST03" texture="ui/a17_shop.g1t" texture_index="0" uvwh="0,128,128,64"/>
+	</image_list>
+</root>

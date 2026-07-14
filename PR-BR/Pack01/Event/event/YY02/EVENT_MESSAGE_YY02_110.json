@@ -1,0 +1,173 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY02_110.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hey, Sophie! Man, the Sister here is such a nice person!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0xc,
+            "msg_id": 0x1,
+            "msg_string": "Hehe... She gave us lots of sweets..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Wait, by Sister you mean..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Oh, you know these children, Sophie?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Oh, yeah. I guess we're acquaintances, or how should I put it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "You know them too, Pamela?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Yup, they're very good children."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "They help around the church, and play with the other children."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "They help me so much."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Oh no, thank you for playing with us, Sister! I had a lot of fun!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Thank you for the sweets. We'll come and play again!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Yes, you're more than welcome. See you again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Yeah, see you!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "...Um, what was that just now?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "I suppose you could call it... Worldly wisdom?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "You should learn from us, Sophie. To survive in the world, you mustn't be picky about your means."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Anyway, we'll get going now. We want to enjoy these sweets the Sister gave us."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Bye bye."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "I-I feel like that's something I shouldn't have seen... Yeah, I'll forget it. I saw nothing. Yup."
+        }
+    ]
+}

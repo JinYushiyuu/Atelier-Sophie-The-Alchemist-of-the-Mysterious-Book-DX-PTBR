@@ -1,0 +1,331 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_160.ebm",
+    "nb_messages": 0x24,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0xc,
+            "msg_id": 0x0,
+            "msg_string": "Okay, these sweets look fantastic! Mmm, and they smell wonderful...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0xc,
+            "msg_id": 0x1,
+            "msg_string": "I know they'll love them! Time to send out the invitations!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Mmm, these are better than ever, Sophie...! So delectably sweet...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Yes...! I could eat these all day long!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "...Hmm. I wonder... If we could duplicate them, we might be able to eat more...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Hahaha, you don't have to do that. I've made plenty more."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Really?! Hehe, that's the Sophie we know and love."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "You really are a wonderful baker, Sophie, whether using alchemy or not."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "That's true... Her cooking and baking are hard to find fault with..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Cory! You phrased that oddly. It sounded like you were implying something?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "No, not at all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "But that aside... Sophie, I'd really like to learn how to bake sweets, too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Is there some secret to making delicious sweets...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "The secret...? Hmm... I guess the secret is to be faithful to the recipe."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Faithful to the recipe...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Yeah. The recipe is crucial. You have to do it just right, or it won't taste good."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "I learned most of my recipes from my grandma..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "So I guess it's really thanks to her that my sweets taste so good."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "That's true. Ramizel's sweets were wonderful, too..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "But it's a little odd. You follow the same recipes Ramizel used, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2e,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "But yours taste ever so slightly different to hers."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Huh, really? I follow the recipes faithfully..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Yes. I think I prefer the ones you make, though."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Hm...? I wonder what the difference could be... Maybe your hands excrete some substance..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Ew, I don't like the sound of that. I guess the difference is how we impart love into the mix."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "Love...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Exactly. Cooking and baking are all about love!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Even with the same recipe, each baker feels differently towards the recipients of their wares."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a,
+            "expr_id": 0x2,
+            "msg_id": 0x1c,
+            "msg_string": "You two are my best friends, so I put all the love I feel towards you into the mix. That's all!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "I see... Hehe, that must be it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Sophie's love tastes delicious... I'll remember that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x1f,
+            "msg_string": "That's not quite what I said, Cory! It's not my love that tastes good, exactly..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x20,
+            "msg_string": "Hahaha! Well, I think we understand that love is your secret ingredient."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x21,
+            "msg_string": "Yes. Thank you for the wonderful sweets, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x22,
+            "msg_string": "Well, I'm just happy you liked them! It's really flattering!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0xc,
+            "msg_id": 0x23,
+            "msg_string": "That was a resounding success! I guess I owe Grandma another debt of gratitude, hehe!"
+        }
+    ]
+}

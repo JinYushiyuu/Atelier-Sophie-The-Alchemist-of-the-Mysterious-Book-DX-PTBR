@@ -1,0 +1,384 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_140.ebm",
+    "nb_messages": 0x2b,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Yes?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hello, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Oh, Sir Julio!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Haha, I just happened to have some business nearby, so I figured I'd drop by for a chat..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Sophie, are you home? We've come for a visit!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Hey, Oskar! You need to knock before you barge into people's houses..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Monika! Oskar! Why are you both here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "No particular reason, but Oskar said... Oh, hello Sir Julio."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Hello, Monika, Oskar. You seem to be doing well today."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "The atelier's quite lively now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Ahaha, yeah..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Oh, right. This is the perfect chance to talk to you all about something."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "About what?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "It's about Plachta. She just recently remembered an amazing memory!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Hm... What kind of memory?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Ehehe, you're going to be shocked. It turns out..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "Plachta used to be human!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0x29,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "WHAAAAAT!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "WHAAAAAT!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x29,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "I-is that true!? Plachta wasn't always a book!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x29,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "I-it's seriously possible for a human to turn into a book!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Even something like that is possible... It seems alchemy is more profound than I imagined..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hehe, I figured this was important, so I'd thought I tell you all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "That means everyone needs to treat Plachta properly, like a human being!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "...I think I've been doing that from the start?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Yes, I always considered Plachta like a friend, and treated her as such."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Yeah, same here. It doesn't matter if she's a person or a book, Plachta is Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Now that you mention it, you're right... Isn't that great, Plachta?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "Yes, I was concerned about how they would react."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x2,
+            "msg_id": 0x1d,
+            "msg_string": "Anyway, since everyone's here, we should have tea and snacks. Do you have time?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Is it really okay for me to be here as well?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "No problems at all here. I was waiting for this!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "...That's actually what Oskar came here for."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "I'll go get everything ready, just wait a little while..."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Everyone had fun talking, including Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "That was fun."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "msg_string": "Yes, it's been a while since I talked that much."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "It seemed like everyone had more questions than usual."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "They might have said things like that before, but it seems like the fact that you used to be human was a big deal."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "That may be so... Although I feel sorry that I couldn't answer most of their questions."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Yeah... I hope all your memories come back soon."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "msg_string": "Yes, I hope so too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x2a,
+            "msg_string": "I'll do my best to make that happen!"
+        }
+    ]
+}

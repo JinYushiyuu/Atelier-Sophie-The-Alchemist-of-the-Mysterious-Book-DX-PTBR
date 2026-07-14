@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!-- スタイルの読み込み -->
+	<command load_style="Saves/ui/_menu_templates/uis_mt_common.xml"/>
+	<!-- アニメーションの読み込み -->
+	<command load_anim="Saves/ui/_menu_templates/uia_mt_common.xml"/>
+	<!-- 下地ウィンドウ -->
+	<image name="__uimenu_window" size_wh="413.00, 368.00, 0.00" style="common_none_image" viewer_visible="false" visible="true" pos="-1.00, 2.00, 0.00">
+		<!--gen_mix04_win01-->
+		<!--スクロールバー-->
+		<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1.00, 0.00, 0.00" size_h="210.00" pos="-30.00, 56.00, 0.00"/>
+		<!-- メニュー項目 -->
+		<node name="__uimenu_body" pos="-5, 51, 0">
+			<!-- メニューカーソル -->
+			<node name="__uimenu_cursor">
+				<image name="__uimenu_cursor_inactive" pos="30.00, 5.00, -10.00" parent_size_copy_w="true" size_copy_w_offset="-53.00" image_no="0" style="gen_a17_win01_hl"/>
+				<image name="__uimenu_cursor_active" pos="30.00, 5.00, -10.00" parent_size_copy_w="true" image_no="0" style="gen_a17_win01_hl" size_copy_w_offset="-53.00">
+					<feed pos="5,20"/>
+				</image>
+				<!-- 明滅アニメーション -->
+				<anim_ctrl play="true" loop="true">
+					<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</node>
+			<!-- メニュー項目リスト(この下にMenuItemが連なる) -->
+			<node pos="55.00, 15.00, 0.00" name="__uimenu_item_list"/>
+		</node>
+	</image>
+</root>

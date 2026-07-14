@@ -1,0 +1,33 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY01_070.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "The \"Fallen Palace\"... You said you saw those two here, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "That's right. Although it was a bit further inside."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "We should go and take a look. Hopefully, we can at least find some clues..."
+        }
+    ]
+}

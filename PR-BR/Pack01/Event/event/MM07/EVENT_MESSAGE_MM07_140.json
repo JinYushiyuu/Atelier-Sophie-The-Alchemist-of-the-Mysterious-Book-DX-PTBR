@@ -1,0 +1,269 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM07_140.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...I'm going to tell you about the past. About myself, and Luard."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "...Luard was an exceedingly skilled alchemist. He was also a fellow researcher of alchemy alongside me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "He wasn't originally the way you just saw him... However, at one point, he began walking the wrong path."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x2,
+            "msg_string": "Luard was taken in by the power of alchemy. His research became more and more self-righteous, and selfish."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x2,
+            "msg_string": "I tried to convince him to stop... But he wouldn't listen to me."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x2,
+            "msg_string": "In fact, he began to immerse himself in his alchemy research even further."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x2,
+            "msg_string": "If allowed to continue, his research could have affected the entire world... That's why I fought to stop him."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x2,
+            "msg_string": "I killed him with my own hands, and split his soul into two artificial lifeforms."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x2,
+            "msg_string": "However, there was one thing that concerned me. The \"Cauldron of Knowledge\"."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x2,
+            "msg_string": "Artificial lifeforms can't use alchemy. But the Cauldron is an exception."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x2,
+            "msg_string": "As long as the Cauldron existed, there was the possibility of Luard returning to his former self."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x2,
+            "msg_string": "That's why I sealed my own soul in that book."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x2,
+            "msg_string": "I could change hands between alchemists, gaining new knowledge to prepare for the future."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x2,
+            "msg_string": "However, over the long years, my memories were lost. And you know the rest of the story, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x24,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Something like that happened...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Yes. Allowing Luard to resurrect himself was my failure."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "If Luard is allowed to go free, he will likely resume his alchemy research."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "And if he continues, something terrible could happen once again. That must be prevented at all costs."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "In order to do that, we need to figure out where Luard fled to."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Hmm... Where would he have gone?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "...I have no idea. Actually, I suppose it would be more correct to say that I can't remember."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "It's likely that I already know where he would have gone. But I can't remember where."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "I see... Oh, maybe..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Maybe if we keep bringing back your memories like before, you'll remember where he would go?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Yes, that seems very possible. However, we don't have much time to go about it leisurely."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "I'll do what I can to investigate where Luard went. You continue improving your alchemy skills, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "That will likely be the quickest way of finding where he went."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Okay, I understand! Leave that to me, Plachta!"
+        }
+    ]
+}

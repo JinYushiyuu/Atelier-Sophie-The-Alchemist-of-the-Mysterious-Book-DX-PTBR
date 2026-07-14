@@ -1,0 +1,157 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_JUL_070.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sir Julio!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hello, Sophie. Do you need something?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "There's something I wanted to ask you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ask me? What could it be?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "You know a lot of things about alchemy, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "I was wondering why you know so much."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, the reason's quite simple. I told you before, but I've been traveling to investigate alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "That's why."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "But you know things that I had no idea even existed..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "I doubt there's much like that. But I have traveled to many places."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "That means I've met many people, and learned from them. It may be thanks to that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "I think it's important to go and gain knowledge directly from the source."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Someday, you should travel to distant places, not just places around here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "I'm sure there is much for you to gain."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "You're right. I really want to go and see lots of different places."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Julio learned the skill \"<CLGR>Oath of Strength<CLNR>\"."
+        }
+    ]
+}

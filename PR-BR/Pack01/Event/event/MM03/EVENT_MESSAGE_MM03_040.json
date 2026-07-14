@@ -1,0 +1,95 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_040.ebm",
+    "nb_messages": 0xa,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Monika, there's something I want to ask you..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "What could it be?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Well, you see. Lately, Plachta isn't remembering anything new..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "I thought you might have some ideas why."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Hm, Plachta's memories... You're still writing recipes into her, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Yeah, I am, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2e,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "I see... Maybe you just need to write even more recipes into her..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hmm, I wonder if that's the only option..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "I'm sorry, I can't really think of any particularly clever ideas..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "No, it's fine! Thank you, Monika. I'll see you later!"
+        }
+    ]
+}

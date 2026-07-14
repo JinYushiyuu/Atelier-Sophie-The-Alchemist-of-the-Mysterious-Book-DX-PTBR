@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+<root>
+	<grp> <!-- フィールドランプ点灯 -->
+		<eff timing="0.0" eff_no="27" pos_x="0" pos_y="0.0" rot_x="0" rot_y="0"rot_z="0" scale_x="50" scale_y="50" scale_z="50" emit_life="1.5" p_life="2.0" r="255" g="190" b="255"></eff>
+		<eff timing="0.0" eff_no="130" pos_x="0" pos_y="0.0" rot_x="0" rot_y="0"rot_z="0" scale_x="15" scale_y="15" scale_z="15" emit_life="1.2" p_life="1.8" r="255" g="220" b="100"></eff>
+		<eff timing="0.0" eff_no="350" pos_x="0" pos_y="0.0" rot_x="0" rot_y="0"rot_z="0" scale_x="20" scale_y="20" scale_z="20" emit_life="1.2" p_life="0" r="255" g="255" b="255"></eff>
+	</grp>
+	
+	<grp> <!-- 遺物発見 -->
+	    <eff timing="0.0" eff_no="361" pos_x="655.0" pos_y="350.0" rot_x="0" rot_y="0"rot_z="0" scale_x="110" scale_y="110" scale_z="110" emit_life="0.3" r="255" g="255" b="255"></eff>
+	    <eff timing="0.0" eff_no="130" pos_x="655.0" pos_y="350.0" rot_x="0" rot_y="0"rot_z="0" scale_x="60" scale_y="60" scale_z="60" emit_life="0.1" r="50" g="120" b="255"></eff>
+	    <eff timing="0.0" eff_no="390" pos_x="655.0" pos_y="350.0" rot_x="0" rot_y="0"rot_z="0" scale_x="50" scale_y="50" scale_z="50" emit_life="0.35" r="200" g="200" b="200"></eff>
+	    <eff timing="0.0" se_no="1" vol="1.0" pitch="0.0"/>
+	</grp>
+
+	<grp> <!-- 強敵遭遇 -->
+	    <eff timing="0.0" eff_no="38" pos_x="655.0" pos_y="350.0" rot_x="0" rot_y="0"rot_z="0" scale_x="100" scale_y="100" scale_z="100" emit_life="0.3" r="255" g="255" b="255"></eff>
+	    <eff timing="0.0" eff_no="334" pos_x="655.0" pos_y="350.0" rot_x="0" rot_y="0"rot_z="0" scale_x="100" scale_y="100" scale_z="100" emit_life="0.3" r="255" g="150" b="50"></eff>
+	   	<eff timing="0.0" eff_no="130" pos_x="655.0" pos_y="350.0" rot_x="0" rot_y="0"rot_z="0" scale_x="60" scale_y="60" scale_z="60" emit_life="0.1" r="255" g="40" b="45"></eff>
+	    <eff timing="0.0" se_no="1" vol="1.0" pitch="0.0"/>
+	</grp>
+	
+	<grp> <!-- 採取分担 -->
+		<eff timing="0.0" eff_no="361" pos_x="655.0" pos_y="350.0" rot_x="0" rot_y="0"rot_z="0" scale_x="110" scale_y="110" scale_z="110" emit_life="0.3" r="255" g="255" b="255"></eff>
+	    <eff timing="0.0" eff_no="130" pos_x="655.0" pos_y="350.0" rot_x="0" rot_y="0"rot_z="0" scale_x="60" scale_y="60" scale_z="60" emit_life="0.1" r="50" g="255" b="100"></eff>
+	    <eff timing="0.0" se_no="1" vol="1.0" pitch="0.0"/>
+	</grp>	
+</root>

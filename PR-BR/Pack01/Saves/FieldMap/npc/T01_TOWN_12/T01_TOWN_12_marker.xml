@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_12_marker marker_data="T01_TOWN_122" pos_x="7.1" pos_y="0" pos_z="12.45" rotate_y="0"/>
+	<T01_TOWN_12_marker marker_data="T01_TOWN_123" pos_x="7.14" pos_y="0" pos_z="12.39" rotate_y="-6"/>
+	<T01_TOWN_12_marker marker_data="T01_TOWN_124" pos_x="6.93" pos_y="0" pos_z="13.8" rotate_y="173"/>
+	<T01_TOWN_12_marker marker_data="POS_NPC06A_00" pos_x="9.85" pos_y="0" pos_z="12.5" rotate_y="145"/>
+	<T01_TOWN_12_marker marker_data="POS_NPC26B_00" pos_x="2.9" pos_y="0" pos_z="18.8" rotate_y="-90"/>
+	<T01_TOWN_12_marker marker_data="POS_NPC26B_01" pos_x="2.4" pos_y="0" pos_z="18.1" rotate_y="90"/>
+</Root>

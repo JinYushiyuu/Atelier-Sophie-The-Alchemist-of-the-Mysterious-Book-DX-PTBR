@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="true">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="grow_menu_template" visible="true" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<!--メニュー行の雛形-->
+			<node name="row_template" pos="104.00, 115.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<!--↓line_formatのposは(0,0,0)にしておいてください-->
+				<node name="line_format" pos="-1, 8, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true">
+					<!-- メニューカーソル -->
+					<image name="__uimenu_cursor_inactive" style="gen_a17_win01_hl" pos="1.00, -11.00, 0.00" size_wh="350.00, 39.00, 0.00">
+						<!-- 明滅アニメーション -->
+						<anim_ctrl loop="true" play="true">
+							<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+						</anim_ctrl>
+					</image>
+					<image name="__uimenu_cursor_active" style="gen_a17_win01_hl" pos="1, -11, 0" size_wh="350.00, 39.00, 0.00">
+						<!-- 明滅アニメーション -->
+						<anim_ctrl loop="true" play="true">
+							<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+						</anim_ctrl>
+					</image>
+					<!--*** ↓以下のノードはプログラムで参照するので、数や順番に気をつけてください ***-->
+					<node name="set_param_space">
+						<image name="category" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_i03" pos="-1.00, -13.00, 0.00" size_wh="42.00, 42.00, 0.00"/>
+						<text text="あいうえおかきくけこ" name="name" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="-2.00" pos="43.00, -5.00, -0.00" copy="TEXTCOLOR_BROWN"/>
+						<image name="new" style="gen_a17_win03_new" pos="-60.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<!--0914_MAX時のアイコン追加(以下の素材は分けないで2つで1つとして使ってください)-->
+						<image name="max" style="gen_a17_field03_star" pos="312.00, -12.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="39.00, 39.00, 0.00" visible="false" viewer_visible="false">
+							<image name="star" style="gen_a17_field03_star" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="39.00, 39.00, 0.00" image_no="1"/>
+						</image>
+					</node>
+				</node>
+			</node>
+			<!--メニューレイアウトの雛形-->
+			<node name="menu_template" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="103.00, 255.00, -0.00">
+				<image name="bg" style="gen_a17_win01_w02" size_wh="412.00, 334.00, 0.00" viewer_visible="false" pos="2, 7, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<!--スクロールバー-->
+				<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1,0" pos="379, 16, -0" size_h="298" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<!-- メニュー行のリスト(行以外は入れないこと)-->
+				<node name="__uimenu_item_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format" pos="19, 52, 0"/>
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_1" pos="17.00, 91.50, 0.00"/>
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_2" pos="17.00, 133.00, 0.00"/>
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_3" pos="17.00, 174.50, 0.00"/>
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_4" pos="17.00, 216.00, 0.00"/>
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_6" pos="17.00, 216.00, 0.00"/>
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_7" pos="23, 300, 0"/>
+				</node>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<!--***↓装備 ***-->
+		<node name="grow_menu" pos="82.00, 163.00, 0.00">
+			<menu name="menu" pos="-2.00, -6.00, -0.00" normal_font_color="53.00, 19.00, 0.00, 255.00" template_node="grow_menu_template/menu_template" disp_lines="8" selected_font_color="175.00, 115.00, 0.00, 255.00" decided_font_color="255.00, 174.00, 43.00, 255.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+			</menu>
+			<node name="point_win">
+				<node name="have" pos="165.00, -60.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="obi01" style="gen_a17_win03_obi02" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="Have:" name="have_label" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="17.00, 10.00, 0.00"/>
+					<text text="999" name="point" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="145.00, 10.00, 0.00" align="right"/>
+					<text text="Pts" name="pts" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="198.00, 10.00, 0.00" align="right"/>
+				</node>
+				<node name="use" pos="165.00, -14.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="obi01" style="gen_a17_win03_obi02" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="Need:" name="use_label" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="17.00, 10.00, 0.00"/>
+					<text text="999" name="point" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="145.00, 10.00, 0.00" align="right"/>
+					<text text="Pts" name="pts" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="198.00, 10.00, 0.00" align="right"/>
+				</node>
+			</node>
+		</node>
+		<node name="information" pos="49.00, -33.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="bg" style="gen_a17_win02_w01" pos="23.00, 555.00, 0.00" size_wh="551.00, 154.00, 0.00" viewer_visible="false">
+				<image name="label" style="gen_a17_win02_w01_acce01" pos="44.00, 16.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+			<text text="あいうえおかきくけこさしすせそなにぬねのあいうえおかきくけこさしすせそなにぬねのあいうえおかきくけこさしすせそなにぬねの" name="desc" color="53.00, 19.00, 0.00, 255.00" pos="65.00, 597.00, 0.00" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="-1.50" line_char_length="20" line_space="8.00"/>
+			<node name="level" pos="409.00, 567.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="Lv" name="lv" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="-36.00, -0.00, -0.00"/>
+				<text text="/" name="per" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="39, 0, -0"/>
+				<text text="99" name="now" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="35.00, -0.00, -0.00" align="right"/>
+				<text text="99" name="max" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="50.00, -0.00, -0.00"/>
+			</node>
+		</node>
+		<anim_ctrl name="get_in_grow" viewer_key_assign="1">
+			<bind_node node="." anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+</root>

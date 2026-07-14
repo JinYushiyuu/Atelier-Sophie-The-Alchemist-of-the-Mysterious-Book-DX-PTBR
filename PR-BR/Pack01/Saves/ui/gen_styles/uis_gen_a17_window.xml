@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_win01_bookserif01" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="126,44,151,56" uvwh="0,608,640,155"/>
+	<image name="gen_a17_win01_bookserif01_acce01" texture="ui/a17_window.g1t" texture_index="0" uvwh="640,608,44,64"/>
+	<image_list name="gen_a17_win01_checkbox">
+		<image name="gen_a17_win01_checkbox__xLIST01" texture="ui/a17_window.g1t" texture_index="0" uvwh="704,352,64,64"/>
+		<image name="gen_a17_win01_checkbox__xLIST02" texture="ui/a17_window.g1t" texture_index="0" uvwh="704,416,64,64"/>
+		<image name="gen_a17_win01_checkbox__xLIST03" texture="ui/a17_window.g1t" texture_index="0" uvwh="704,479,64,64"/>
+	</image_list>
+	<image name="gen_a17_win01_checkicon01" texture="ui/a17_window.g1t" texture_index="0" uvwh="416,142,64,64"/>
+	<image name="gen_a17_win01_checkicon02" texture="ui/a17_window.g1t" texture_index="0" uvwh="640,671,80,64"/>
+	<image name="gen_a17_win01_countbg" texture="ui/a17_window.g1t" texture_index="0" uvwh="608,256,156,55"/>
+	<image name="gen_a17_win01_directionkey_down" texture="ui/a17_window.g1t" texture_index="0" uvwh="714,576,52,32"/>
+	<image name="gen_a17_win01_directionkey_up" texture="ui/a17_window.g1t" texture_index="0" uvwh="714,544,52,32"/>
+	<image name="gen_a17_win01_fram01" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="65,48,63,40" uvwh="416,384,224,187"/>
+	<image name="gen_a17_win01_hl" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="33,0,179,58" uvwh="416,0,292,58"/>
+	<image name="gen_a17_win01_hl_on" texture="ui/a17_window.g1t"  texture_index="2" prim_type="wrap" edge_margin="33,0,179,58" uvwh="0,320,292,58"/>
+	<image name="gen_a17_win01_line01" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="14,0,74,12" uvwh="416,593,121,12"/>
+	<image name="gen_a17_win01_line02" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="0,32,10,32" uvwh="756,608,10,128"/>
+	<image name="gen_a17_win01_line03" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="18,0,94,10" uvwh="415,576,153,10"/>
+	<image name="gen_a17_win01_moneybg" texture="ui/a17_window.g1t" texture_index="0" uvwh="208,288,352,91"/>
+	<image_list name="gen_a17_win01_moneyicon">
+		<image name="gen_a17_win01_moneyicon__xLIST01" texture="ui/a17_window.g1t" texture_index="0" uvwh="644,416,52,52"/>
+		<image name="gen_a17_win01_moneyicon__xLIST02" texture="ui/a17_window.g1t" texture_index="0" uvwh="644,472,52,52"/>
+		<image name="gen_a17_win01_moneyicon__xLIST03" texture="ui/a17_window.g1t" texture_index="0" uvwh="644,528,52,52"/>
+	</image_list>
+	<image name="gen_a17_win01_obi01" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="96,0,112,80" uvwh="416,60,304,80"/>
+	<image name="gen_a17_win01_pagebg" texture="ui/a17_window.g1t" texture_index="0" uvwh="560,336,144,48"/>
+	<image name="gen_a17_win01_scr01_o" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="0,55,15,50" uvwh="738,611,15,139"/>
+	<image name="gen_a17_win01_scr01_u" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="0,90,1,97" uvwh="726,0,42,253"/>
+	<image name="gen_a17_win01_subserif01" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="92,58,74,70" uvwh="0,208,192,192"/>
+	<image name="gen_a17_win01_subserif_nameparts01" texture="ui/a17_window.g1t" texture_index="0" uvwh="208,208,368,64"/>
+	<image name="gen_a17_win01_w01" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="64,64,62,66" uvwh="0,0,191,192"/>
+	<image name="gen_a17_win01_w02" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="65,65,63,66" uvwh="208,-1,192,193"/>
+	<image name="gen_a17_win01_w03" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="64,65,64,64" uvwh="0,415,192,193"/>
+	<image name="gen_a17_win01_w04" texture="ui/a17_window.g1t"  texture_index="0" prim_type="wrap" edge_margin="72,73,73,72" uvwh="201,384,209,210"/>
+	<image name="gen_a17_win02_obi01" texture="ui/a17_window.g1t"  texture_index="1" prim_type="wrap" edge_margin="128,0,129,112" uvwh="0,240,480,112"/>
+	<image name="gen_a17_win02_w01" texture="ui/a17_window.g1t"  texture_index="1" prim_type="wrap" edge_margin="178,151,174,35" uvwh="0,0,542,236"/>
+	<image name="gen_a17_win02_w01_acce01" texture="ui/a17_window.g1t" texture_index="1" uvwh="0,352,192,32"/>
+	<image name="gen_a17_win02_w02" texture="ui/a17_window.g1t"  texture_index="1" prim_type="wrap" edge_margin="64,64,62,66" uvwh="576,192,191,192"/>
+	<image name="gen_a17_win02_w03" texture="ui/a17_window.g1t"  texture_index="1" prim_type="wrap" edge_margin="64,64,62,57" uvwh="544,-1,222,186"/>
+	<image name="gen_a17_win03_frame01" texture="ui/a17_window.g1t" texture_index="2" uvwh="336,602,432,71"/>
+	<image name="gen_a17_win03_hl" texture="ui/a17_window.g1t"  texture_index="2" prim_type="wrap" edge_margin="55,55,48,55" uvwh="576,128,186,192"/>
+	<image name="gen_a17_win03_hlon" texture="ui/a17_window.g1t"  texture_index="2" prim_type="wrap" edge_margin="55,55,48,55" uvwh="576,336,186,192"/>
+	<image name="gen_a17_win03_new" texture="ui/a17_window.g1t" texture_index="2" uvwh="576,64,104,41"/>
+	<image name="gen_a17_win03_obi01" texture="ui/a17_window.g1t"  texture_index="2" prim_type="wrap" edge_margin="95,2,99,0" uvwh="0,673,352,78"/>
+	<image name="gen_a17_win03_obi02" texture="ui/a17_window.g1t"  texture_index="2" prim_type="wrap" edge_margin="90,1,94,0" uvwh="372,691,335,68"/>
+	<image_list name="gen_a17_win03_tab_event_off">
+		<image name="gen_a17_win03_tab_event_off__xLIST0" texture="ui/a17_window.g1t" texture_index="2" uvwh="0,192,256,64"/>
+		<image name="gen_a17_win03_tab_event_off__xLIST0" texture="ui/a17_window.g1t" texture_index="2" uvwh="260,192,256,64"/>
+	</image_list>
+	<image_list name="gen_a17_win03_tab_event_on">
+		<image name="gen_a17_win03_tab_event_on__xLIST01" texture="ui/a17_window.g1t" texture_index="2" uvwh="0,256,256,64"/>
+		<image name="gen_a17_win03_tab_event_on__xLIST02" texture="ui/a17_window.g1t" texture_index="2" uvwh="260,256,256,64"/>
+	</image_list>
+	<image_list name="gen_a17_win03_tab_off">
+		<image name="gen_a17_win03_tab_off__xLIST01" texture="ui/a17_window.g1t" texture_index="2" uvwh="0,64,105,64"/>
+		<image name="gen_a17_win03_tab_off__xLIST02" texture="ui/a17_window.g1t" texture_index="2" uvwh="112,64,105,64"/>
+		<image name="gen_a17_win03_tab_off__xLIST03" texture="ui/a17_window.g1t" texture_index="2" uvwh="224,64,105,64"/>
+		<image name="gen_a17_win03_tab_off__xLIST04" texture="ui/a17_window.g1t" texture_index="2" uvwh="336,64,105,64"/>
+		<image name="gen_a17_win03_tab_off__xLIST05" texture="ui/a17_window.g1t" texture_index="2" uvwh="448,64,105,64"/>
+	</image_list>
+	<image_list name="gen_a17_win03_tab_on">
+		<image name="gen_a17_win03_tab_on__xLIST01" texture="ui/a17_window.g1t" texture_index="2" uvwh="0,128,105,64"/>
+		<image name="gen_a17_win03_tab_on__xLIST02" texture="ui/a17_window.g1t" texture_index="2" uvwh="112,128,105,64"/>
+		<image name="gen_a17_win03_tab_on__xLIST03" texture="ui/a17_window.g1t" texture_index="2" uvwh="224,128,105,64"/>
+		<image name="gen_a17_win03_tab_on__xLIST04" texture="ui/a17_window.g1t" texture_index="2" uvwh="336,128,105,64"/>
+		<image name="gen_a17_win03_tab_on__xLIST05" texture="ui/a17_window.g1t" texture_index="2" uvwh="448,128,105,64"/>
+	</image_list>
+	<image name="gen_a17_win03_tabbg" texture="ui/a17_window.g1t"  texture_index="2" prim_type="wrap" edge_margin="86,0,79,60" uvwh="0,0,665,60"/>
+	<image_list name="gen_a17_win03_tabquest_off">
+		<image name="gen_a17_win03_tabquest_off__xLIST01" texture="ui/a17_window.g1t" texture_index="2" uvwh="207,383,204,60"/>
+		<image name="gen_a17_win03_tabquest_off__xLIST02" texture="ui/a17_window.g1t" texture_index="2" uvwh="207,445,204,60"/>
+		<image name="gen_a17_win03_tabquest_off__xLIST03" texture="ui/a17_window.g1t" texture_index="2" uvwh="207,507,204,60"/>
+	</image_list>
+	<image_list name="gen_a17_win03_tabquest_on">
+		<image name="gen_a17_win03_tabquest_on__xLIST01" texture="ui/a17_window.g1t" texture_index="2" uvwh="0,383,204,60"/>
+		<image name="gen_a17_win03_tabquest_on__xLIST02" texture="ui/a17_window.g1t" texture_index="2" uvwh="0,445,204,60"/>
+		<image name="gen_a17_win03_tabquest_on__xLIST03" texture="ui/a17_window.g1t" texture_index="2" uvwh="0,507,204,60"/>
+	</image_list>
+	<image name="gen_a17_win04_titlebg" texture="ui/a17_window.g1t"  texture_index="3" prim_type="wrap" edge_margin="385,0,32,64" uvwh="-1,128,769,64"/>
+	<image name="gen_a17_win04_wbg" texture="ui/a17_window.g1t"  texture_index="3" prim_type="wrap" edge_margin="52,27,64,17" uvwh="520,0,190,128"/>
+</root>

@@ -1,0 +1,104 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_JUL_150.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "This is...? Some sort of laboratory?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Look!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Is that a Synthesis cauldron?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Why would it be here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "It appears that this was once a place for alchemy research."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Really? What kind of research were they performing...?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x2,
+            "msg_string": "GAAAAAH..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Is that Nazarus's voice...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "He seems to be further inside this building."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Let's go. We need to hurry and bring him the medicine!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Yes!"
+        }
+    ]
+}

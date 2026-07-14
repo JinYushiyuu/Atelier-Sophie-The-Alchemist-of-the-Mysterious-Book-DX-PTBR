@@ -1,0 +1,141 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_TES_100.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Whoa, this is...! Thanks, Sophie. I should be able to grow flowers in my yard again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "...You'll grow weeds, too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Ahaha, I told you I'll take care of that myself."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Still, you've been helping me out a lot lately. You really saved me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x41,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "No problem, don't worry about it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3f,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "No, I can't let this go unrewarded. Sophie, just wait there for a minute."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Huh? Why?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Just do it, wait right there."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Here you go. This is my thanks."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "This is..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Yeah, I bought it, thinking it could be useful for alchemy... Is it no good?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "No, it's fine. This will really help!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I see. You can use that however you want, Sophie. It's yours."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "I'll ask you if I need anything again."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Received \"<CLGR>Forgotten Part<CLNR>\"."
+        }
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY01_020.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xd,
+            "msg_id": 0x0,
+            "msg_string": "Hmmmm..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "W-what is it? You've been staring at me for some time now..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0xd,
+            "msg_id": 0x2,
+            "msg_string": "I'm just thinking of something, don't worry about it. Hmmmm..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "You say that, but..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "(Plachta doesn't have the sense of taste... That's why her tastes differ from mine...)"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "(No, it probably isn't just taste.)"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "(She probably feels all kinds of things differently than me...)"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(That's... I don't like it.)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x25,
+            "expr_id": 0x10,
+            "msg_id": 0x8,
+            "msg_string": "Um... This is starting to get embarrassing..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "(Hmm, it's probably because... Plachta has a doll's body...)"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "(Then to solve the issue... I'd have to give her a human body...?)"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "(But I already tried that before, and had to give up...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0xd,
+            "msg_id": 0xc,
+            "msg_string": "Hmmmmmmmmmm..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x42,
+            "expr_id": 0x9,
+            "msg_id": 0xd,
+            "msg_string": "...I'm sorry, Sophie. I can't take it anymore! Excuse me!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Oh, she ran off... Hmm..."
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "(To give Plachta a human body... It would be really difficult, but I can't think of another way...)"
+        },
+        {
+            "type": 0x0,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "(This is for the sake of enjoying delicious food together! I'll try thinking of something.)"
+        }
+    ]
+}

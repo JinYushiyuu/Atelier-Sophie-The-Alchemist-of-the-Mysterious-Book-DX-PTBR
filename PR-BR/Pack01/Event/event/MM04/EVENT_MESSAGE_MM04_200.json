@@ -1,0 +1,187 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_200.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "(Oh, that reminds me... Harol told me about wind-up clock springs before.)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Plachta needs springs to move her body... Harol might be able to make them...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "...Is there something on my face? Why are you staring at me so much?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Oh, sorry..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Um, Harol, there's something I wanted to ask you..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ask me...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Yeah, to tell the truth..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "You're making Plachta into a doll...? That's hard to believe, but I understand what you said."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "So what exactly do you want me to do?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Well, Plachta needs springs to make her body move, and I want you to make them."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "...I see."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Yeah... Is it okay with you?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "No, I refuse."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "Huh...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "I don't enjoy wasting effort on things that might not even succeed."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "And I told you that I don't like making clocks."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Sure, this isn't for an actual clock, but I don't like making the springs either. Find someone else."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Harol..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x22,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(I didn't think he'd refuse... Uu, what could I possibly do...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x21,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "..."
+        }
+    ]
+}

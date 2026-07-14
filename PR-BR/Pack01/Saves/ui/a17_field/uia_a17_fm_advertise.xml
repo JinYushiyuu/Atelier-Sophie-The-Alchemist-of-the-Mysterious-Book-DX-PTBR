@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+
+<!-- cutin -->
+
+	<anim name="fadein_now_map_name">
+    	<curve attr="pos">
+      		<key time="0.0"		value="316, 0, 0"/>
+      		<key time="0.75"	value="0, 0, 0"/>
+    	</curve>
+  	</anim>
+	
+	<!-- ツイート表示 -->
+	< anim name="fm_anim_tweet_enter" >
+		<curve attr="color">
+			<key time ="0.0"		value="255, 255, 255, 0"/>
+			<key time ="0.5"		value="255, 255, 255, 255"/>
+		</curve>
+	</anim>
+	
+	<!-- ツイート上方移動 -->
+	< anim name="fm_anim_tweet_up" >
+		<curve attr="pos">
+			<key time ="0.0"		value="0, 0, 0"/>
+			<key time ="0.5"		value="0, -83, 0"/>
+		</curve>
+	</anim>
+	
+	<anim name="fadein_collect_item">
+		<curve attr="rot">
+		  <key time="0.0"		value="0, 180, 0"/>
+    	  <key time="0.5"		value="0, 360, 0"/>
+		</curve>
+		<curve attr="color">
+    	  <key time="0.0"		value="128, 128, 128, 0"/>
+    	  <key time="0.5"		value="255, 255, 255, 255"/>
+    	</curve>
+	</anim>
+	
+	<anim name="fadeout_collect_item">
+		<curve attr="color">
+    	  <key time="0.0"		value="255, 255, 255, 255"/>
+    	  <key time="0.5"		value="255, 255, 255, 0"/>
+    	</curve>
+	</anim>
+	
+	<anim name="move_collect_item">
+		<curve attr="pos">
+    	  <key time="0.0"		value="-100, 0, 0"/>
+    	  <key time="0.3"		value="-100, -120, 0"/>
+    	</curve>
+	</anim>
+
+  <!-- シナリオ関連レシピ -->
+  <anim name="slide_in_scenario_recipe">
+		<curve attr="pos" interpolate="spline">
+    	  <key time="0.0"		value="-400, 0, 0"/>
+    	  <key time="0.3"		value="10,  0, 0"/>
+        <key time="0.5"		value="0,  0, 0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0"		value="255, 255, 255, 0"/>
+      <key time="0.2"		value="255, 255, 255, 255"/>
+    </curve>
+	</anim>
+</root>
+

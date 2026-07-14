@@ -1,0 +1,246 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY01_080.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x54,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Haah... There's no sign of them..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Hm... Perhaps I was seeing things...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "...! No, you didn't imagine it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Huh...? Oh!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x29,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Meklet! Atomina!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0xf,
+            "msg_id": 0x5,
+            "msg_string": "Gah!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0xf,
+            "msg_id": 0x6,
+            "msg_string": "...They found us. What should we do?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Haha, that should be obvious."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Well, I suppose so. There's only one thing to do at times like this..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0x29,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "...Run away!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "...Run away!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Ah! Let's chase them, Plachta!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Yes, Sophie!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "What's wrong with you!? Chasing little kids with all your might like that!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "That's right. You're being childish."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Our appearances may differ, but we're the same age! This isn't a matter of being childish!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Uu, there's so much rubble, it's hard to run... Waaah!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Sophie!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Owww, I hit my nose..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Alright! Now's our chance! Let's run, full speed ahead!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Yes, I agree. Farewell, you two."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Uu, we lost them..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Are you okay?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Yeah. Although it still hurts a bit..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "But those two really were here... Although they ran away now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "If they're fleeing, there must be something they don't wish for us to know."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "Hmm... Let's go back to the atelier, and think it over."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Yes, that would be best."
+        }
+    ]
+}

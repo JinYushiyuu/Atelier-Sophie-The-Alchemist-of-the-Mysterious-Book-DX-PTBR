@@ -1,0 +1,220 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_OSK_110.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Fritz!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Sophie? What is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Have you seen Oskar?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "No, I haven't seen him around here..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "I see... I wonder where he went..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Did something happen?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Well, Oskar was supposed to look after the store, but he went somewhere..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "And so you're searching for him?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x24,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Yeah... I wonder why he slacks off so much..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "I think I can understand how he feels, just a little."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Huh!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "In the past, I worried about many things. For example, whether I should use a sword or a spear in a battle."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I see... That's a little unexpected."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "At the time, I didn't know how I would turn out in the future. There were many things that I wanted to do."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "It was almost painful to do the same thing, or stay in the same place for too long..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Huh, so you had a time like that too?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Yeah... And I think Oskar feels the same way."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "I don't know what he'll do in the future, but he must have something that he's engrossed in now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "That reminds me. The other day, he said he had something important to do, and asked me to do his work for him."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "I can understand him after traveling with him several times, but he's unexpectedly earnest at heart."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2e,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "He cherishes his store, but he left to do something else. It must be very important."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Something Oskar thinks is important... Maybe it would be plants?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Thank you, Fritz. I think I know where Oskar could have gone."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "That's good. Do your best to find him."
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_LOG_090.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Logy, Logy!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "I've made it! A tool to increase the heat of your furnace!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Really!? Let me see!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "So this is it... Will this really raise the heat of the furnace?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "It should. You should try it out."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "A-alright...  Let's try it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Yeah, this is perfect."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Really, Logy!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Yeah, I'll be able to make new weapons with this. No problems at all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Using this, I'll be able to make a much wider variety of weapons."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "That's good... I'm glad it went well."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "It's all thanks to you, Sophie. You'll keep helping me out, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Of course! Just be sure to keep making cute weapons for me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Yeah, leave that to me."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You can now craft new weapons."
+        }
+    ]
+}

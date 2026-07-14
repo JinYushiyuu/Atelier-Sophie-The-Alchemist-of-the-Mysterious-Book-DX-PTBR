@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_calendar01_c_d" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="78,615,128,100"/>
+	<image name="gen_a17_calendar01_c_l" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="206,591,96,128"/>
+	<image name="gen_a17_calendar01_c_r" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="302,591,112,128"/>
+	<image name="gen_a17_calendar01_c_u" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="414,591,128,100"/>
+	<image name="gen_a17_calendar01_clockface" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="314,0,188,188"/>
+	<image name="gen_a17_calendar01_clockframe" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="0,0,314,244"/>
+	<image name="gen_a17_calendar01_clockhand" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="620,364,132,132"/>
+	<image_list name="gen_a17_calendar01_day">
+		<image name="gen_a17_calendar01_day__xLIST01" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="0,719,42,49"/>
+		<image name="gen_a17_calendar01_day__xLIST02" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="44,719,42,49"/>
+		<image name="gen_a17_calendar01_day__xLIST03" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="88,719,42,49"/>
+		<image name="gen_a17_calendar01_day__xLIST04" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="132,719,42,49"/>
+		<image name="gen_a17_calendar01_day__xLIST05" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="176,719,42,49"/>
+	</image_list>
+	<image name="gen_a17_calendar01_request_bg" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="372,427,157,152"/>
+	<image_list name="gen_a17_calendar01_time">
+		<image name="gen_a17_calendar01_time__xLIST01" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="0,244,206,183"/>
+		<image name="gen_a17_calendar01_time__xLIST02" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="206,244,207,183"/>
+		<image name="gen_a17_calendar01_time__xLIST03" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="413,244,207,183"/>
+		<image name="gen_a17_calendar01_time__xLIST04" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="0,427,206,184"/>
+	</image_list>
+	<image name="gen_a17_calendar01_week" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="504,0,217,217"/>
+	<image name="gen_a17_calendar01_week_bg" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="206,427,162,162"/>
+	<image name="gen_a17_calendar01_week_ch" texture="ui/a17_calendar.g1t" texture_index="0" uvwh="620,219,144,144"/>
+</root>

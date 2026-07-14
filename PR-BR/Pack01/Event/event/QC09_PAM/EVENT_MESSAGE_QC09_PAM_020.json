@@ -1,0 +1,182 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_PAM_020.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Pamela."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Sophie. Welcome."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Everyone, I'm sorry, but could you play over there for a little while?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "They all look really lively."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "They're still growing children, so they're full of energy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "That's great... It might be fun if I could play with them too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "You would be welcome anytime, Sophie. You can play with them as much as you want."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Really!? Yay!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "But... It really does seem troublesome. You have to take care of all those kids alone..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "It's not troublesome at all. This is a nursery, it's only natural."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Also... They're all well behaved, and they even help me sometimes."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Wow, they're all good kids... And it's like you're their mom."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "You're making me blush."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "...Huh? Oh no! P-Pamela! Look!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "Hm!? Oh dear! Those kids are all trying to run out of the plaza."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "I knew it! That's what it looked like!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "They're all such naughty children!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Heeey! Don't run off too far!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "I'm sorry, Sophie. I'll see you again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "...I guess it's not all fun and games trying to look after kids."
+        }
+    ]
+}

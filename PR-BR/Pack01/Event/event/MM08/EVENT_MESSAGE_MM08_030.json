@@ -1,0 +1,61 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM08_030.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x5,
+            "voice_id": 0xe9,
+            "name_id": 0x17,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x2,
+            "msg_string": "Hey, did you hear? Some really dangerous monsters appeared near town."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xfd,
+            "name_id": 0x18,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x2,
+            "msg_string": "Really? There's too many of them lately..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe9,
+            "name_id": 0x17,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x2,
+            "msg_string": "Luckily no one's been hurt yet... But we might need to start planning for the worst."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xfd,
+            "name_id": 0x18,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x2,
+            "msg_string": "Yeah. Seriously, what's going on lately..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Dangerous monsters near the town...? Uu, that's kind of scary..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "..."
+        }
+    ]
+}

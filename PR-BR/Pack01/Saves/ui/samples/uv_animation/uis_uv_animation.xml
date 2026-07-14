@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root>
+	<image name="style_image_monster000" texture="WinXls/a15_dict_mons000.g1t" uvwh="0,0,192,192" />
+</root>

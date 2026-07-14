@@ -1,0 +1,194 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_OSK_070.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sophie, are you here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Oskar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Thanks for taking care of my work the other day. Here's my thanks."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Wow, thank you. So what did you have to do, anyway?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Sophie..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, Oskar. What's wrong?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "What do you mean, \"what's wrong\"!? Why didn't you finish my work!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Thanks to you, mom was super mad at me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Oh... S-sorry..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "But it sounds like you weren't able to work for a while. What were you doing?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I had to go outside of town. I heard a voice calling my name."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "When I followed the voice, it turned out to be a forest."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Wait, you went alone?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "No, I went with the plants from around here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "You brought plants with you?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "That's right. They were saying they wanted to go with me. I couldn't just ignore them."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "You seem to have no problem ignoring Mrs. Marguerite."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "I-I'm sorry about that. I'll do the work myself next time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "You'd better!"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Received \"<CLGR>Whimsy Strawberry<CLNR>\" x3, \"<CLGR>Silver Potato<CLNR>\" x3, \"<CLGR>Ramel Wheat<CLNR>\" x3."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Oskar learned the skill \"<CLGR>Confidence<CLNR>\"."
+        }
+    ]
+}

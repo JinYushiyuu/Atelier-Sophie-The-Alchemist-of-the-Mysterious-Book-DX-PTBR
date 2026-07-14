@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template" viewer_visible="true"/>
+	</node>
+	<!--***固有アニメーション ***-->
+	<command load_anim="/Saves/ui/a17_recipe/uia_a17_recipe.xml"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="menu_item_org" pos="100.00, 5.00, 0.00">
+			<text text="Recipe Map 1" name="menu_text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line" style="gen_a17_library01_menuline01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-100.00, -10.00, 0.00"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="false">
+		<node name="bg" load="/Saves/ui/a17_common/uil_a17_bg01_big.xml" visible="false" viewer_visible="true"/>
+		<node name="menu_list" pos="-4.00, 71.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<menu name="menu" style="common_menu_atex_select" pos="118.00, 174.00, -0.00" disp_scroll_bar="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node copy="menu_item_org" clone_child_tree="menu_item_org" name="clone_menu_item_org"/>
+				<node copy="menu_item_org" clone_child_tree="menu_item_org" name="clone_menu_item_org"/>
+				<node copy="menu_item_org" clone_child_tree="menu_item_org" name="clone_menu_item_org"/>
+				<node copy="menu_item_org" clone_child_tree="menu_item_org" name="clone_menu_item_org"/>
+				<node copy="menu_item_org" clone_child_tree="menu_item_org" name="clone_menu_item_org"/>
+			</menu>
+		</node>
+		<!--*** ↓新しいかざりです ***-->
+		<node name="magic_circle" pos="604.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="255.00, 255.00, 255.00, 255.00">
+			<image name="circlebg" style="gen_a17_recipe03_circlebg" pos="84, 164, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" size_wh="489, 488"/>
+			<node name="menu_circle">
+				<node name="circle_red" pos="23.00, 97.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<!--*** ↓赤***-->
+					<image name="circle" style="gen_a17_recipe03_circle01" pos="408.00, 61.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="154.00, 154.00, 0.00"/>
+					<image name="highlight" style="gen_a17_recipe03_light01" pos="366.00, 18.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="240.00, 240.00, 0.00"/>
+				</node>
+				<node name="circle_blue" pos="56.00, 135.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<!--*** ↓青　***-->
+					<image name="circle" style="gen_a17_recipe03_circle01" pos="373.00, 365.00, -0.00" image_no="1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="154.00, 154.00, 0.00"/>
+					<image name="highlight" style="gen_a17_recipe03_light01" pos="330.00, 322.00, -0.00" image_no="1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="240.00, 240.00, 0.00"/>
+				</node>
+				<node name="circle_green" visible="true" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<!--*** ↓緑　***-->
+					<image name="circle" style="gen_a17_recipe03_circle01" pos="72.00, 498.00, 0.00" image_no="2" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="154.00, 154.00, 0.00"/>
+					<image name="highlight" style="gen_a17_recipe03_light01" pos="28.00, 456.00, 0.00" image_no="2" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="240.00, 240.00, 0.00"/>
+				</node>
+				<node name="circle_yellow" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<!--*** ↓黄色 ***-->
+					<image name="circle" style="gen_a17_recipe03_circle01" pos="75.00, 158.00, -0.00" image_no="3" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="154.00, 154.00, 0.00"/>
+					<image name="highlight" style="gen_a17_recipe03_light01" pos="30.00, 117.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="240.00, 240.00, 0.00" image_no="3"/>
+				</node>
+				<node name="circle_white" pos="23.00, 97.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<!--*** ↓白　***-->
+					<image name="circle" style="gen_a17_recipe03_circle02" pos="216.00, 223.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="178.00, 178.00, 0.00"/>
+					<image name="highlight" style="gen_a17_recipe03_light02" pos="183.00, 190.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="246.00, 241.00, 0.00"/>
+				</node>
+			</node>
+		</node>
+		<!--***↓入場演出 ***-->
+		<anim_ctrl name="get_in" viewer_key_assign="1">
+			<bind_node node="." anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+</root>

@@ -1,0 +1,269 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_JUL_130.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sir Julio!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Sophie..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Um, Sir Julio? You don't seem very cheerful..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Yes, I was a little concerned about Nazarus."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "...It's possible that I should have killed him when I first met him."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "No way! Why would you say that?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Because that's what Nazarus wished for. I'm the one who refused."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I thought it wouldn't be the right choice for him, and it would have gone against my code of chivalry."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "However, Nazarus has suffered for all this time as a result, and he's even turned into... That..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "In the end, my selfish decision did nothing to help him. I forced him to listen to me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "It's possible that I was the one in the wrong."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "I think you're wrong about that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "What?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Sir Julio, you said before that it's a knight's duty to protect everyone."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "I don't think that killing Nazarus would have been the best thing for him."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Sophie..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "If Nazarus was to die, I would be really sad."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Not just me, but everyone who knows him... You would be sad too!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "That wouldn't make anyone happy! That's why..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "...You're right. It's exactly as you say, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Sir Julio..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "I knew the answer from the very start. It's a knight's duty to defend the happiness of everyone."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Not just the people in front of my eyes. If the people around them aren't happy too, there's no point to any of it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "That's right! And I managed to make the medicine too!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "You completed it!? Will it be effective?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Plachta said it would work."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x1c,
+            "msg_string": "I see, then we can't just stand around here. We need to hurry to see Nazarus!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Yeah!"
+        }
+    ]
+}

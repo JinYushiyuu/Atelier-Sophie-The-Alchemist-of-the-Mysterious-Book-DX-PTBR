@@ -1,0 +1,177 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_OSK_160.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Sophie, thanks for the other day."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Did the vegetables get better?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Yeah! They're getting more and more lively every day."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "That's good."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Still, you've been getting pretty amazing lately, Sophie. You did a great job."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1a,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Ehehehehe. Really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Yeah. Ever since Plachta showed up, your alchemy has been getting really amazing, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Did you find some sort of secret trick?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Hmm, Plachta told me to really think about what kind of power alchemy is."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "What does that mean?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Alchemy uses wishes and desires about \"wanting to become something\"."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "It's important for alchemists to listen to the voices of materials, and then apply their own feelings to that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "A wish to become something..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Yeah. That's why lately, I've been trying to take the materials into consideration."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "...I see. Anyway, thanks again for taking care of this. This is my way of saying thanks."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Wow, thank you so much!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "I'll let you know if we need anything else."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Okay! Just leave it to me!"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Received \"<CLGR>Bursting Berry<CLNR>\" x3, \"<CLGR>Whimsy Strawberry<CLNR>\" x3, \"<CLGR>Kirchen Milk<CLNR>\" x3."
+        }
+    ]
+}

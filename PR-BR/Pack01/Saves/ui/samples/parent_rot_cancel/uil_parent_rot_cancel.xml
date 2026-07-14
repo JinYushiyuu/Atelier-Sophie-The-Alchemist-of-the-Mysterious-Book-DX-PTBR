@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<text text="キーボードの0で回転します" name="text_3" pos="91, 58, 0"/>
+		<text text="回転する親テキストノード" name="text_1" pos="559, 315, 0" font_color="255.00, 255.00, 128.00, 255.00">
+			<anim_ctrl name="anim_ctrl" viewer_key_assign="0" speed="0.50">
+				<bind_node name="bind_node" anim="anm_common_rotateZ360" node="text_1"/>
+			</anim_ctrl>
+			<text text="回転を維持するテキストノード" name="text_2" pos="308.00, -2.00, -0.00" rot="0.00, 0.00, 10.00" scale="1.00, 1.00, 1.00" parent_rot_cancel="true" font_color="128.00, 255.00, 255.00, 255.00"/>
+		</text>
+	</node>
+</root>

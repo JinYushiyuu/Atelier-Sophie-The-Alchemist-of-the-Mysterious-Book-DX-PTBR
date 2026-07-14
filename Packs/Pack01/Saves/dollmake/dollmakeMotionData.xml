@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<dollmakeMotionData motion="MOTION_F_WAIT" st="-1" DivNo="0" ed="2" LoopNum="-1" facial="-1"/>
+	<dollmakeMotionData motion="MOTION_S_BURST" st="0" DivNo="-1" ed="-1" LoopNum="-1" facial="-1"/>
+	<dollmakeMotionData motion="MOTION_S_BURST" st="1" DivNo="2" ed="-1" LoopNum="-1" facial="-1"/>
+	<dollmakeMotionData motion="MOTION_WALK" st="0" DivNo="1" ed="2" LoopNum="-1" facial="-1"/>
+	<dollmakeMotionData motion="MOTION_TURN_L" st="0" DivNo="-1" ed="-1" LoopNum="0" facial="-1"/>
+	<dollmakeMotionData motion="MOTION_F_WAIT" st="-1" DivNo="0" ed="2" LoopNum="-1" facial="-1"/>
+	<dollmakeMotionData motion="MOTION_WALK" st="0" DivNo="1" ed="2" LoopNum="-1" facial="-1"/>
+	<dollmakeMotionData motion="MOTION_TURN_L" st="0" DivNo="-1" ed="-1" LoopNum="0" facial="-1"/>
+	<dollmakeMotionData motion="MOTION_F_WAIT" st="-1" DivNo="0" ed="2" LoopNum="-1" facial="-1"/>
+</Root>

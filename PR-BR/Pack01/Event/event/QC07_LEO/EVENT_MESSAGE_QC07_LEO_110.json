@@ -1,0 +1,106 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_LEO_110.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "(Huh? That's Monika... And Leon? What are they talking about...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "In other words, Sophie's personality has been like that for a long time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "That's right. She was about the same back when she was a child, too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "That's actually really easy to imagine."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Sophie hasn't changed much since long ago."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "...I see, I got it. Sorry for taking so much of your time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Oh no, it was enjoyable for me too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Anyway, I'll be going now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ah, okay. I'll see you again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "(...They were talking about me, weren't they?)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "(Wait, are they talking behind my back!? Uu, did I do something bad...?)"
+        }
+    ]
+}

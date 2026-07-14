@@ -1,0 +1,184 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_090.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "*Sigh*..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "That was quite the sigh. What's wrong, Sophie?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Ah, Plachta... I was just thinking how hard it is to make a human..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "T-this again?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Oh, don't worry. I won't do anything like before."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "I-I see. That's good."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Hmm, but I wonder if it's even possible to create a human through alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Let's see... This is only based on what I currently remember, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "In the entire history of alchemy, as far as I'm aware, nobody has ever created a human."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "I thought so... And I failed big time the other day..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "T-that's right. But..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "I do have memories of \"those that were exceedingly close to human, yet not human\" existing in the past."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Huh? What does that mean?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "Artificial lifeforms created through alchemy..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "Lifeforms once existed, possessing eternal life, and while appearing human, they were also like dolls or puppets."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "However, the rate of success was close to zero, and it raised many ethical questions. Research was quickly halted."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Oh... Sounds like I'm going to have to think of a way myself after all..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Hmm, I know I need to turn you back into a human to help you regain your memories, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "I can't think of a way to do it at all... Hm, hmm, hmmmm!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Argh, it's no good! Plachta, I'm going to take a walk for a change of pace!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "V-very well, I understand. Take care."
+        }
+    ]
+}

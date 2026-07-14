@@ -1,0 +1,159 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS01_100.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Do you have some sort of a secret?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Hm, maybe it's my strictly regulated lifestyle?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "What are you talking about?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Oh, Sophie. Corneria was just asking me about how to grow taller."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Taller?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Yes, I thought Monika would know how..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Oh yeah, Monika's pretty tall after all. I'm kind of jealous."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "...Really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Yeah. You're really stylish, and you look picture perfect no matter what you're doing."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I wouldn't go THAT far..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Also, I think your smaller stature is cute. I feel jealous about that sometimes."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Wait, really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "I don't think so..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "I suppose we all just want things that we don't have."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "I guess so..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Anyway, I'll be going now."
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_HAR_130.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oh, Sophie. Sorry, but could you wait a little while? I'm in the middle of something."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oh, okay. I got it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Whew... Sorry for the wait."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "No, I don't mind. What were you working on?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "I was making gears for a clock. It's really delicate work..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Gears for a clock..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "...Hey, I've been wondering about this, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Why are you suddenly working as a clockmaker now?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "It sounds like you were buying lots of books about clocks at Elise's shop, too..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "...Damn it, Elise. Why'd you have to go and blab about it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "...I guess I can't help it. I'll talk. I just realized how unskilled I really am."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Huh? What do you mean?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "I told you before, right? I had a lot of trouble making the wind up springs for Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "You need to be able to easily make springs, at least, or you're a failure as a clockmaker."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "I just thought I needed to study more."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "I see... So that's why."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "...Is it really that weird for me to be working as a clockmaker?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "No, it's not. I actually have a better opinion of you now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Yeah. Do your best from now on, too."
+        }
+    ]
+}

@@ -1,0 +1,282 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_PAM_010.ebm",
+    "nb_messages": 0x1f,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, Sophie! You came at the perfect time!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Huh, Monika? What's wrong?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Do you have some time right now?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Yeah, I do..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "That's good. Then can you help me?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "With what?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Cleaning the church."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Pamela, I've brought Sophie. She said she'll help with the cleaning."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Oh my, it's been a while, Sophie. Thank you so much for coming."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "No problem. I'm sorry I couldn't come here lately, Pamela."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Oh don't worry about that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Pamela, we can talk later. We should get the cleaning done first. Otherwise it'll get dark."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "You're right. Then let's begin."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "We've cleaned up quite a lot."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Indeed... Although I feel as though there's still a lot left..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "That's enough for today. Thank you both."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Oh right, Pamela. Are you going to throw away the stuff here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Let's see... None of it is really usable, so I suppose so."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "In that case, can I take some of it? I might be able to use it for alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Feel free to take as much as you want. In fact, you can just take it all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "U-um... That's... All of it would be... I'd feel kind of bad..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "You could pay for it, then."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Oh, you really don't have to worry about that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "N-no! I'll pay!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Well then... In that case, do you mind if I take it as a donation for the church?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "A donation?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "You can leave a donation in exchange for taking some of this stuff."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Does that sound okay to you?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "I see... It sounds like you'd both benefit from this arrangement."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Yeah, I think so too! Okay Pamela, I'll be donating lots of money from now on!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Okay, I'll be waiting."
+        }
+    ]
+}

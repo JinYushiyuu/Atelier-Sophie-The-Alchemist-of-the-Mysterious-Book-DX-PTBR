@@ -1,0 +1,176 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_HOR_190.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Mr. Horst."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Welcome, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Hey, Mr. Horst? This shop is open both day and night, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Yes. Why do you ask?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "So you're working here both day and night, too?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Yes. This is my shop, after all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Then when do you sleep?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "When? ...Whenever I have time, I suppose."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Does that mean you aren't sleeping much?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "Heh heh, I get plenty of sleep."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Really...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "Yes, I've been working here for a long time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "When you get used to it, you can get by on short naps."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "That's pretty amazing..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "There's nothing amazing about it. My life's rhythm is simply in such a cycle."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "More importantly Sophie, are you sleeping properly?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4a,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ehehe. Sometimes I get really into alchemy, and I stay up late at night..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x3f,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "That's not good. You need to make sure you go to bed and get enough rest."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Okay..."
+        }
+    ]
+}

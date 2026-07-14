@@ -1,0 +1,33 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_MON_040.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, there you are!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe4,
+            "name_id": 0x1b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x2,
+            "msg_string": "Oh no, and I thought this was a good place."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe4,
+            "name_id": 0x1b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x2,
+            "msg_string": "I'll go back to the plaza now."
+        }
+    ]
+}

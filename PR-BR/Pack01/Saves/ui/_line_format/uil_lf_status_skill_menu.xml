@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--メインメニューのステータス画面:スキルメニューの行のひな形-->
+	<node name="lf_status_skill_menu" pos="0.00, 0.00, 0.00" rot="1.00, 0.00, 0.00" scale="1.00, 1.00, 1.00">
+		<image name="icon" style="gen_m_st03_skill_icon" pos="-29, -2, 0"/>
+		<node name="skill_name_color_base">
+			<text text="攻撃力えおかきくけこ" name="skill_name" font_size="24.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="15.00, 5.00, 0.00"/>
+		</node>
+	</node>
+</root>

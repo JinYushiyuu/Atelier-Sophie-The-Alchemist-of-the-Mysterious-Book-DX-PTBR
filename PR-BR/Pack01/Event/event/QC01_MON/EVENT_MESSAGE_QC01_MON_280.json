@@ -1,0 +1,176 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC01_MON_280.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Sophie. Are you here to buy a clock?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Nope, I'm just browsing around. I already have a clock, anyway."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "I see. You hardly ever show up to prayers, so I thought you didn't have one..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "S-sorry..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Don't be so hard on her. I'm sure Sophie has things to do."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "There's a lot of times when I'm concentrating on my work and forget what time it is. I can't blame her at all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "You keep your promises so you're fine, Harol. Sophie's at fault because she makes promises, and forgets about them."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x24,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Uu..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Alright, that's enough. Here, I finished with the adjustments."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Thank you very much."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Still... Is it really necessary to adjust it this often?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "You're coming here every week."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Wait, you are!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "It makes me uneasy when I don't know what time it is. And I want to make sure I'm always on time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Anyway, thank you for making the adjustments."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "See you later, Sophie. Make sure you come to the next prayer."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Okay, see you later."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "...She's really serious."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Yeah, she's really admirable. I need to keep better track of time too..."
+        }
+    ]
+}

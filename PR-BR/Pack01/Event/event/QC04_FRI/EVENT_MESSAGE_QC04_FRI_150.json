@@ -1,0 +1,177 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_FRI_150.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Fritz, can I ask about your daughter?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "My daughter...? Well, I don't really mind..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "What kind of person is she? I can't even imagine what she's like..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "That's a hard question to answer. To put it nicely, she's optimistic. To put it not so nicely, she's thoughtless..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "I don't really know what to say as her parent, but she's a really cheerful girl."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "In a way, she's kind of like you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ehehe, I see."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Yeah, but you already know what kind of personality I have. I don't know where she got that personality of hers..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "If it wasn't from you... Then maybe it was from your wife?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "H-her!? Uh... No, her personality is a lot... Different from my daughter too..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Oh, really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "Y-yes. Let's stop talking about my family now. Alright?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Um, okay..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "...Hm, now that I think about it, my daughter and I are alike, in some way."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "How so?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "We're very similar in the fact that we both love dolls."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "For some reason, she seems to understand dolls really well."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "A-ah... I'm suddenly getting a much clearer picture of your daughter..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(Ahaha... I'm sure she got that from Fritz...)"
+        }
+    ]
+}

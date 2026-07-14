@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+<root>
+	<!-- トークマター点灯用 -->
+	<grp>
+		<eff timing="0.0" eff_no="627" pos_x="22.0" pos_y="18.0" scale_x="60" scale_y="60" scale_z="60" emit_life="   0.5" r="125" g="125" b=" 255" a_mode="1" />
+		<eff timing="0.0" se_no="88" vol="1.0" pitch="0.0"/>
+	</grp>
+	<!-- 結晶インストール用 -->
+	<grp>
+		<eff timing="0.05" eff_no="1" pos_x="0.0" pos_y="0.0" scale_x="100" scale_y="100" scale_z="1" emit_life="   0.2" r="255" g="125" b=" 120" a_mode="1" />
+		<eff timing="0.0" se_no="88" vol="1.0" pitch="0.0"/>
+	</grp>
+	<!-- レベルアップ演出用 -->
+	<grp>
+		<eff timing="0.1" eff_no="629" pos_x="30.0" pos_y="20.0" scale_x="95" scale_y="95" scale_z="95" emit_life="   1.0" r="255" g="255" b=" 255" a_mode="1" />
+		<eff timing="0.0" eff_no="260" pos_x="30.0" pos_y="20.0" scale_x="95" scale_y="95" scale_z="95" emit_life="   0.8" r="255" g="255" b=" 255" a_mode="1" />
+		<eff timing="0.0" eff_no="631" pos_x="30.0" pos_y="20.0" scale_x="25" scale_y="25" scale_z="25" emit_life="   0.8" r="32" g="32" b=" 255" a_mode="1" />
+		<eff timing="0.0" eff_no="241" pos_x="30.0" pos_y="20.0" scale_x="60" scale_y="60" scale_z="60" emit_life="   0.4" r="255" g="180" b=" 0" a_mode="1" />
+		<eff timing="0.0" se_no="88" vol="1.0" pitch="0.0"/>
+	</grp>	
+</root>

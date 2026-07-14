@@ -1,0 +1,211 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_070.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Come on in."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hello, Sophie. I hope you don't mind..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ah, Cory! Welcome to my atelier!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hehe, you want something sweet to eat? Oh, how about I make you some tea? Or maybe some milk?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Oh. Uh, thanks, but you don't have to go to any trouble on my account..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Come on, now, you know I have to be hospitable. After all, you always do so much for me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "This is my atelier, so I have to be the best host ever!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Uh-huh... I guess that kind of makes sense..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Of course it does! But I suppose you came here for a reason, Cory?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Oh, yes... I can't get much past you, Sophie..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Hahaha. Well, you looked a little uncomfortable, you see. Why don't you tell me what's up?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Um, the thing is... I received a request at my store from an adventurer..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "They're looking for a certain herb, but I just don't know where to find it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "And you want my help? I see. If you want a herb expert, you've come to the right place!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "I'm always gathering herbs whenever I go out. I'm sure I can help you out!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Thank you, Sophie... You don't know how much this means to me..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Um... This is what the adventurer wanted..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Hm... I see. I think I can get some of this for you quite nearby."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "We probably shouldn't keep your customer waiting. Shall we go and get it now?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "Are you sure, Sophie? You aren't busy...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "No, it's no problem at all. You're always my number one priority, Cory!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "That's very... flattering... Um..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "I'm most grateful... Thank you so much."
+        }
+    ]
+}

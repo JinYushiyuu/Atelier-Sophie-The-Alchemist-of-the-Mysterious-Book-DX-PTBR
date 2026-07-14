@@ -1,0 +1,243 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_100.ebm",
+    "nb_messages": 0x1b,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Sophie. Excuse me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Sir Julio! Do you need anything?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I just figured I'd like to observe your atelier."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ateliers express their alchemist's personality, they're quite interesting. Do you mind?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Oh, not at all. Go right ahead. Although it's a little messy..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Thank you! I'll take a little look around."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Yes, I'm quite satisfied! Thank you again. Your atelier seems to be full of dreams, it's very interesting."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "H-huh... Is that so?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Yes. And the most intriguing thing in this atelier is probably..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Plachta. I believe it to be you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Me...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "To be honest, I had questions ever since the moment I first saw you. What exactly are you...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Um, she was a reference book we had here. But she started talking when I wrote a recipe into her."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Hm... Does that mean she's some sort of alchemic instrument?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "You're pretty insightful. You seem to know a lot about alchemy, Julio."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Haha, I've merely heard a lot of stories about alchemy. But I've never heard about a talking book such as yourself."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "An exceptionally grand alchemist must have been responsible for you. Would you mind speaking to me about it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "...I'm sorry. I don't remember any of that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Oh right. Sir Julio, Plachta actually doesn't have most her memories..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "...I see. I'm quite sorry for asking."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "No, it's fine. Besides, Sophie's working really hard to bring my memories back."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Interesting... I understand. Sophie, Plachta, if there's anything I can do to assist with this, please let me know."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Once Plachta regains her memories, I would love to speak with her."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Okay, I'll keep that in mind!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Thank you. I'll be taking my leave now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Julio seems like a nice guy, doesn't he, Plachta?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "msg_string": "He does. Although I'm somewhat concerned about the reason behind his extreme interest in alchemy..."
+        }
+    ]
+}

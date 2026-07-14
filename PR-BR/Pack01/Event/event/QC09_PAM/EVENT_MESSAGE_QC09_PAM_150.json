@@ -1,0 +1,133 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_PAM_150.ebm",
+    "nb_messages": 0xe,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Harol. There's something I wanted to ask you..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Do you know how old Pamela is?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "You want to know Pamela's age?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Yeah. Do you happen to know?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "...Why would I know that?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x54,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Uu, I figured as much..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Why would you even think that I knew?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Because your family has been running this clock shop for two generations... I thought you might know about the past."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "I see... But we never talked about how my dad and Pamela got along."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "How can I describe it? It's like that nun is just a natural part of this town."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "You know... Like a part of the church."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "That's true... It feels really natural for her to be at the church... Although her appearance is really showy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Yeah... I guess so. Anyway, I've never even thought about it before."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "I see. I guess you're right..."
+        }
+    ]
+}

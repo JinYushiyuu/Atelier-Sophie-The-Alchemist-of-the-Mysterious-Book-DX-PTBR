@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="true" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false">
+		<node name="cell" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="itemlightnext" style="gen_a17_cabinet02_itemlightnext" pos="-1.00, -4.00, 0.00" visible="false"/>
+			<image name="highlight" style="gen_a17_cabinet02_itemlight" pos="-1.00, -4.00, 0.00">
+				<anim_ctrl name="anim_ctrl" play="true" loop="true">
+					<bind_node node="highlight" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+				<feed name="screen_pointer_feed" pos="11.00, 14.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+			<image name="item_unknow" style="etc_a17_item_s" visible="false"/>
+			<image name="item_image" style="etc_a17_item_s"/>
+			<image name="check" style="gen_a17_win01_checkicon02" pos="8, 7, 0"/>
+			<text text="99" name="number_green" font="A17_ITEM01" pos="46, 34, 0" word_space="-15.00" align="right"/>
+			<text text="99" name="number_yellow" font="A17_ITEM01" pos="46.00, 34.00, -0.00" word_space="-15.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right"/>
+			<node name="rare" visible="false" viewer_visible="false">
+				<image name="kira" style="gen_a17_cabinet01_kira" pos="34.00, -9.00, -0.00" flick_time="0.10" alpha_blend="add" scale="0.60, 0.60, 1.00" rot="-0.00, -0.00, -0.00"/>
+				<image name="kira01" style="gen_a17_cabinet01_kira03" pos="16.00, 34.00, -0.00" flick_time="0.14" scale="0.50, 0.50, 0.50" alpha_blend="add" rot="-0.00, -0.00, -0.00"/>
+				<image name="kira02" style="gen_a17_cabinet01_kira02" pos="-1.00, 6.00, -0.00" flick_time="0.12" scale="0.60, 0.60, 1.00" rot="-0.00, -0.00, -0.00"/>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="select" pos="107.00, 189.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+			<image name="w02" style="gen_a17_win01_w02" size_wh="296, 254"/>
+			<node name="text" pos="-1, 4, 0">
+				<text text="Buy" name="name_1" pos="29.00, 41.00, 0.00" color="43.00, 22.00, 23.00, 255.00" word_space="-1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Sell" name="name_2" pos="29.00, 82.75, 0.00" color="43.00, 22.00, 23.00, 255.00" word_space="-1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Craft Weapon" name="name_3" pos="29.00, 124.50, 0.00" color="43.00, 22.00, 23.00, 255.00" word_space="-1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Enhance Weapon" name="name_4" pos="29.00, 166.25, 0.00" color="43.00, 22.00, 23.00, 255.00" word_space="-1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<image name="light" style="gen_a17_win01_hl" pos="19.00, 40.00, 0.00" viewer_visible="false"/>
+		</node>
+		<node name="tag" pos="-29.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+			<node name="tagup" pos="187.00, 124.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="cabinettag" style="gen_a17_shop01_cabinettag"/>
+				<node name="text" pos="19.00, 10.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="Have" name="stock" pos="2.00, -1.00, 0.00" color="43.00, 22.00, 23.00, 255.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="moneyicon" pos="64.00, -3.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_moneyicon"/>
+					<text text=":" name="money" pos="103.00, -1.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="center" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="99999999" name="money_1" pos="252.00, -1.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="right" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+			<node name="tagdown" pos="187.00, 170.00, 0.00" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="cabinettag" style="gen_a17_shop01_cabinettag"/>
+				<node name="text" pos="19.00, 10.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="Cost" name="stock" pos="2.00, -1.00, 0.00" color="43.00, 22.00, 23.00, 255.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="moneyicon" pos="64, -2, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_moneyicon"/>
+					<text text=":" name="money" pos="103.00, -1.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="center" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="99999999" name="money_1" pos="252.00, -1.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="right" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+		</node>
+		<node name="cabinet" pos="-31, 2, 0" viewer_visible="true" visible="false">
+			<feed name="feed" pos="75.00, 216.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="under_confirm_window" pos="261.00, 603.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="downtag" style="gen_a17_cabinet02_downtag"/>
+				<image name="confirm_highlight" style="gen_a17_cabinet02_downtaglight">
+					<feed name="screen_pointer_feed" pos="32, 17, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="confirm_highlight" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<image name="okon" pos="57.00, 2.00, 0.00" style="gen_a17_cabinet01_ok"/>
+				<image name="okoff" style="gen_a17_cabinet01_ok" image_no="1" pos="57, 2, 0" viewer_visible="false"/>
+				<text text="&lt;IM19&gt;" name="ok_button" pos="18.00, 4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="0.90, 0.90, 0.90"/>
+			</node>
+			<node name="frame" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="75.00, 216.00, -0.00">
+				<image name="a17_cabinet_frame" style="gen_a17_cabinet02_frame" pos="-4.00, -1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+				<scroll_bar name="scroll_bar" style="common_scroll_bar_a17_cabinet" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_h="396.00" pos="384.00, 1.00, -0.00"/>
+				<node name="sheet" pos="17.00, 24.00, -0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node copy="cell" clone_child_tree="cell" name="col00" pos="0.00, 0.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col01" pos="70.00, 0.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col02" pos="140.00, 0.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col03" pos="210.00, 0.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col04" pos="280.00, 0.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col10" pos="0.00, 70.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col11" pos="70.00, 70.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col12" pos="140.00, 70.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col13" pos="210.00, 70.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col14" pos="280.00, 70.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col20" pos="0.00, 140.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col21" pos="70.00, 140.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col22" pos="140.00, 140.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col23" pos="210.00, 140.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col24" pos="280.00, 140.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col30" pos="0.00, 210.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col31" pos="70.00, 210.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col32" pos="140.00, 210.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col33" pos="210.00, 210.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col34" pos="280.00, 210.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col40" pos="0.00, 280.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col41" pos="70.00, 280.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col42" pos="140.00, 280.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col43" pos="210.00, 280.00, 0.00"/>
+					<node copy="cell" clone_child_tree="cell" name="col44" pos="280.00, 280.00, 0.00"/>
+				</node>
+			</node>
+		</node>
+		<node name="center_sheet" pos="-24, -22, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false">
+			<image name="w02" style="gen_a17_item_info01_w01" pos="490.00, 153.00, -0.00" size_wh="401.00, 523.00, 0.00"/>
+			<node name="center_tag" pos="-4, -16, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="namebg01" style="gen_a17_item_info01_namebg01" pos="541, 157, 0"/>
+				<text text="あいうえおかきくけこ" name="text_25" color="47.00, 23.00, 23.00, 255.00" align="left" pos="578.00, 165.00, 0.00" word_space="-2.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="recipe_item" pos="534, 228, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="itembg" style="gen_a17_item_info01_itembg02" pos="-19.00, -20.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="item" style="etc_a17_item_l" pos="27.00, 23.00, -0.00" size_wh="100.00, 100.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="comp_2" pos="566.00, 369.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="fram" pos="149, -142, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="160, 74"/>
+					<image name="obi01" pos="146.00, -152.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi01"/>
+					<image name="text01" pos="161, -151, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_text01" image_no="1"/>
+					<text name="finish_1" color="53.00, 19.00, 0.00, 255.00" pos="229, -114, -0" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" text="あいうえお" word_space="-2.00"/>
+					<image name="text01_1" pos="237.00, -161.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi03" size_wh="115.00, 50.00, 0.00"/>
+					<text text="99" name="quality_1" color="106.00, 37.00, 8.00, 255.00" pos="290.00, -150.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" word_space="2.00"/>
+				</node>
+				<node name="size_1" pos="568.00, 463.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="fram" pos="145, -147, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="161, 86"/>
+					<image name="obi01" pos="142.00, -162.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi01"/>
+					<image name="text01" pos="159.00, -158.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_text01" image_no="4"/>
+					<node name="sizeicon" pos="200, -125, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="sizebg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizebg"/>
+						<image name="sizeicon01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_1" pos="21.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_2" pos="40.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01" pos="1.00, 20.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_1" pos="22.00, 20.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_2" pos="41.00, 20.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01" pos="1.00, 40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_1" pos="22.00, 40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_2" pos="41.00, 40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+					</node>
+				</node>
+			</node>
+			<node name="status" pos="577.00, 400.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node name="HP" pos="-33.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="HP" name="HP" color="47.00, 23.00, 23.00, 255.00" pos="-0.00, -0.00, -0.00" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="10.00"/>
+					<text text="+999" name="999" color="162.00, 0.00, 0.00, 255.00" pos="291.00, 1.00, -0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right"/>
+				</node>
+				<node name="MP" pos="-33.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="MP" name="MP" color="47.00, 23.00, 23.00, 255.00" pos="-0.00, 29.00, -0.00" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="10.00"/>
+					<text text="+999" name="999_1" color="162.00, 0.00, 0.00, 255.00" pos="291.00, 29.00, -0.00" align="right" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="LP" pos="258.00, 27.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text name="LP" color="47.00, 23.00, 23.00, 255.00" pos="-291.00, 30.00, -0.00" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" text="LP" word_space="10.00"/>
+					<text text="+999" name="999_2" color="162.00, 0.00, 0.00, 255.00" pos="-0.00, 30.00, -0.00" align="right" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="node" pos="258.00, 57.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="ATK" name="ATK" color="47.00, 23.00, 23.00, 255.00" pos="-293.00, 30.00, -0.00" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="-999" name="999_left" color="0.00, 0.00, 162.00, 255.00" align="right" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-103.00, 31.00, -0.00"/>
+					<text text="～" name="999_center" color="67.00, 54.00, 42.00, 255.00" align="right" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-71.00, 31.00, -0.00"/>
+					<text text="+999" name="999_right" color="162.00, 0.00, 0.00, 255.00" pos="-0.00, 29.00, -0.00" align="right" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="DEF" pos="-35.00, 117.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="DEF" name="DEF" color="47.00, 23.00, 23.00, 255.00" pos="-0.00, -0.00, -0.00" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="-999" name="999_4" color="0.00, 0.00, 162.00, 255.00" align="right" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="293.00, -0.00, -0.00"/>
+				</node>
+				<node name="SPD" pos="-35.00, 147.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="SPD" name="SPD" color="47.00, 23.00, 23.00, 255.00" pos="-0.00, -0.00, -0.00" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="-999" name="999_5" color="0.00, 0.00, 162.00, 255.00" align="right" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="293.00, -0.00, -0.00"/>
+				</node>
+				<image name="line_4" style="gen_a17_win01_line03" pos="37.00, 25.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="235, 0"/>
+				<image name="line_5" style="gen_a17_win01_line03" pos="37.00, 54.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="235.00, 0.00, 0.00"/>
+				<image name="line_8" style="gen_a17_win01_line03" pos="37.00, 83.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="235.00, 0.00, 0.00"/>
+				<image name="line_9" style="gen_a17_win01_line03" pos="37.00, 112.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="235.00, 0.00, 0.00"/>
+				<image name="line_10" style="gen_a17_win01_line03" pos="37.00, 141.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="235.00, 0.00, 0.00"/>
+				<image name="line_11" style="gen_a17_win01_line03" pos="37.00, 170.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="235.00, 0.00, 0.00"/>
+				<image name="fram01_3" style="gen_a17_win01_fram01" pos="-65, -10, -0" size_wh="352, 194" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="count" pos="632.00, 546.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="fram01_3" style="gen_a17_win01_fram01" pos="-120, 40, -0" size_wh="352, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="countframe" pos="-94.00, 44.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="countframe" style="gen_a17_w_shop01_countframe" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="countframe_1" style="gen_a17_w_shop01_countframe" pos="49.80, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="countframe_2" style="gen_a17_w_shop01_countframe" pos="99.60, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="countframe_3" style="gen_a17_w_shop01_countframe" pos="149.40, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="countframe_4" style="gen_a17_w_shop01_countframe" pos="199.20, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="countframe_5" style="gen_a17_w_shop01_countframe" pos="249.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="count_yellow" pos="-94.00, 44.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="count" style="gen_a17_w_shop01_count" pos="4.00, 3.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+					<image name="count" style="gen_a17_w_shop01_count" pos="53.80, 3.20, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+					<image name="count" style="gen_a17_w_shop01_count" pos="103.60, 3.40, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+					<image name="count" style="gen_a17_w_shop01_count" pos="153.40, 3.60, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+					<image name="count" style="gen_a17_w_shop01_count" pos="203.20, 3.80, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+					<image name="count" style="gen_a17_w_shop01_count" pos="253.00, 4.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+				</node>
+				<node name="count_red" pos="-94.00, 44.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="count" style="gen_a17_w_shop01_count" pos="4.00, 3.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="count" style="gen_a17_w_shop01_count" pos="53.80, 3.20, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="count" style="gen_a17_w_shop01_count" pos="103.60, 3.40, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="count" style="gen_a17_w_shop01_count" pos="153.40, 3.60, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="count" style="gen_a17_w_shop01_count" pos="203.20, 3.80, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="count" style="gen_a17_w_shop01_count" pos="253.00, 4.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+			<node name="page" pos="647, 642, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="pagebg" style="gen_a17_item_info01_pagebg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="1/3" name="1_3" color="125.00, 65.00, 54.00, 255.00" align="center" pos="45.00, 0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="2/3" name="2_3" color="125.00, 65.00, 54.00, 255.00" align="center" pos="45.00, 0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="3/3" name="3_3" color="125.00, 65.00, 54.00, 255.00" align="center" pos="45.00, 0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+		<node name="item_sheet" pos="383.00, -21.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+			<image name="w02" style="gen_a17_item_info01_w01" pos="490.00, 153.00, -0.00" size_wh="401.00, 523.00, 0.00"/>
+			<node name="center_tag" pos="-4, -16, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="namebg01" style="gen_a17_item_info01_namebg01" pos="541, 157, 0"/>
+				<text text="あいうえおかきくけこ" name="text_25" color="47.00, 23.00, 23.00, 255.00" align="left" pos="578.00, 165.00, 0.00" word_space="-2.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="recipe_item" pos="534, 228, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="itembg" style="gen_a17_item_info01_itembg02" pos="-19.00, -20.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="item" style="etc_a17_item_l" pos="27.00, 23.00, -0.00" size_wh="100.00, 100.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="comp_2" pos="566.00, 369.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="fram" pos="149, -142, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="160, 74"/>
+					<image name="obi01" pos="146.00, -152.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi01"/>
+					<image name="text01" pos="161, -151, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_text01" image_no="1"/>
+					<text name="finish_1" color="53.00, 19.00, 0.00, 255.00" pos="229.00, -114.00, 0.00" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" text="あいうえお" word_space="-2.00"/>
+					<image name="text01_1" pos="237.00, -161.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi03" size_wh="115.00, 50.00, 0.00"/>
+					<text text="99" name="quality_1" color="106.00, 37.00, 8.00, 255.00" pos="290.00, -150.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" word_space="2.00"/>
+				</node>
+				<node name="size_1" pos="568.00, 463.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="fram" pos="145, -147, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="161, 86"/>
+					<image name="obi01" pos="142.00, -162.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi01"/>
+					<image name="text01" pos="159.00, -158.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_text01" image_no="4"/>
+					<node name="sizeicon" pos="200, -125, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="sizebg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizebg"/>
+						<image name="sizeicon01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_1" pos="21.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_2" pos="40.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01" pos="1.00, 20.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_1" pos="22.00, 20.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_2" pos="41.00, 20.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01" pos="1.00, 40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_1" pos="22.00, 40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+						<image name="sizeicon01_2" pos="41.00, 40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_sizeicon01"/>
+					</node>
+				</node>
+			</node>
+			<node name="effect_1" pos="570.00, 426.00, -0.00">
+				<image name="fram01_2" style="gen_a17_win01_fram01" pos="-3, -36, -0" size_wh="303, 133" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="obi01_2" style="gen_a17_item_info01_obi01" pos="-61.00, -41.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line" style="gen_a17_win01_line03" pos="61, -3, 0" size_wh="224, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_1" style="gen_a17_win01_line03" pos="61.00, 26.33, 0.00" size_wh="224, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_2" style="gen_a17_win01_line03" pos="61.00, 54.67, 0.00" size_wh="224, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_3" style="gen_a17_win01_line03" pos="61.00, 83.00, 0.00" size_wh="224, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="text_28" style="gen_a17_item_info01_text01" pos="-44.00, -38.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="あいうえおかきくけこ" name="size_2" color="53.00, 19.00, 0.00, 255.00" pos="61.00, -28.00, 0.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-2.00"/>
+				<text text="あいうえおかきくけこ" name="size_3" color="53.00, 19.00, 0.00, 255.00" pos="61.00, 1.00, 0.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-2.00"/>
+				<text text="あいうえおかきくけこ" name="size_4" color="53.00, 19.00, 0.00, 255.00" pos="61.00, 32.00, 0.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-2.00"/>
+				<text text="あいうえおかきくけこ" name="size_5" color="53.00, 19.00, 0.00, 255.00" pos="61.00, 61.00, 0.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-2.00"/>
+			</node>
+			<node name="toku_1" pos="632.00, 546.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="あいうえおかきくけこ" name="text_29" color="47.00, 23.00, 23.00, 255.00" pos="-1.00, -7.00, 0.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-2.00"/>
+				<text text="あいうえおかきくけこ" name="text_5" color="47.00, 23.00, 23.00, 255.00" pos="-1.00, 23.50, 0.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-2.00"/>
+				<text text="あいうえおかきくけこ" name="text_6" color="47.00, 23.00, 23.00, 255.00" pos="-1.00, 54.00, 0.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-2.00"/>
+				<image name="line_4" style="gen_a17_win01_line03" pos="-2.00, 20.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="228.00, 0.00, 0.00"/>
+				<image name="line_5" style="gen_a17_win01_line03" pos="-2.00, 49.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="228.00, 0.00, 0.00"/>
+				<image name="line_8" style="gen_a17_win01_line03" pos="-2.00, 78.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="228.00, 0.00, 0.00"/>
+				<image name="fram01_3" style="gen_a17_win01_fram01" pos="-65, -10, -0" size_wh="303, 101" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="obi01_3" style="gen_a17_item_info01_obi01" pos="-122.00, -19.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="text_26" style="gen_a17_item_info01_text01" pos="-105.00, -16.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="2"/>
+			</node>
+			<node name="page" pos="655, 636, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="pagebg" style="gen_a17_item_info01_pagebg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="1/3" name="1_3" color="125.00, 65.00, 54.00, 255.00" align="center" pos="45.00, 0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="2/3" name="2_3" color="125.00, 65.00, 54.00, 255.00" align="center" pos="45.00, 0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="3/3" name="3_3" color="125.00, 65.00, 54.00, 255.00" align="center" pos="45.00, 0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+	</node>
+</root>

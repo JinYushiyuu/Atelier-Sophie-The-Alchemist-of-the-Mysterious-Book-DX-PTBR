@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="SHIFT-JIS"?>
+<Root>
+	<point friend_tag="FRIEND_PLACHTA" chara_tag="CHARA_PLACHTA" default_pts="0" limit_default="40" limit_pts1="55" limit_pts2="70" limit_pts3="85" limit_pts4="100" limit_pts5="100" pass_ev1="EVENT_MM02_210" pass_ev2="EVENT_MM06_040" pass_ev3="EVENT_MM07_010" pass_ev4="EVENT_MM08_090"/>
+	<point friend_tag="FRIEND_MONIKA" chara_tag="CHARA_MONIKA" default_pts="10" limit_default="25" limit_pts1="45" limit_pts2="65" limit_pts3="85" limit_pts4="100" limit_pts5="100" pass_ev1="EVENT_QC01_MON_060" pass_ev2="EVENT_QC01_MON_280" pass_ev3="EVENT_QC01_MON_140" pass_ev4="EVENT_XF02_010"/>
+	<point friend_tag="FRIEND_OTTO" chara_tag="CHARA_OTTO" default_pts="10" limit_default="25" limit_pts1="45" limit_pts2="55" limit_pts3="85" limit_pts4="100" limit_pts5="100" pass_ev1="EVENT_QC02_OSK_070" pass_ev2="EVENT_QC02_OSK_160" pass_ev3="EVENT_QC02_OSK_210" pass_ev4="EVENT_QC02_OSK_330"/>
+	<point friend_tag="FRIEND_JULIO" chara_tag="CHARA_JULIO" default_pts="0" limit_default="15" limit_pts1="45" limit_pts2="75" limit_pts3="85" limit_pts4="100" limit_pts5="100" pass_ev1="EVENT_QC03_JUL_010" pass_ev2="EVENT_QC03_JUL_040" pass_ev3="EVENT_QC03_JUL_070" pass_ev4="EVENT_QC03_JUL_220"/>
+	<point friend_tag="FRIEND_FILON" chara_tag="CHARA_FILON" default_pts="0" limit_default="55" limit_pts1="65" limit_pts2="85" limit_pts3="100" limit_pts4="100" limit_pts5="100" pass_ev1="EVENT_QC04_FRI_120" pass_ev2="EVENT_QC04_FRI_170" pass_ev3="EVENT_QC04_FRI_200" pass_ev4="EVENT_QC04_FRI_240"/>
+	<point friend_tag="FRIEND_CANARIA" chara_tag="CHARA_CANARIA" default_pts="0" limit_default="55" limit_pts1="75" limit_pts2="85" limit_pts3="100" limit_pts4="100" limit_pts5="100" pass_ev1="EVENT_QC05_COR_110" pass_ev2="EVENT_QC05_COR_120" pass_ev3="EVENT_QC05_COR_190" pass_ev4="EVENT_QC05_COR_230"/>
+	<point friend_tag="FRIEND_PAUL" chara_tag="CHARA_PAUL" default_pts="10" limit_default="45" limit_pts1="65" limit_pts2="85" limit_pts3="100" limit_pts4="100" limit_pts5="100" pass_ev1="EVENT_QC06_HAR_130" pass_ev2="EVENT_QC06_HAR_150" pass_ev3="EVENT_QC06_HAR_170" pass_ev4="EVENT_QC06_HAR_220"/>
+	<point friend_tag="FRIEND_HENRI" chara_tag="CHARA_HENRI" default_pts="0" limit_default="55" limit_pts1="65" limit_pts2="85" limit_pts3="100" limit_pts4="100" limit_pts5="100" pass_ev1="EVENT_QC07_LEO_140" pass_ev2="EVENT_QC07_LEO_170" pass_ev3="EVENT_QC07_LEO_210" pass_ev4="EVENT_QC07_LEO_230"/>
+	<point friend_tag="FRIEND_LOGIX" chara_tag="CHARA_LOGIX" default_pts="10" limit_default="100"/>
+	<point friend_tag="FRIEND_PAMELA" chara_tag="CHARA_PAMELA" default_pts="10" limit_default="100"/>
+	<point friend_tag="FRIEND_TESS" chara_tag="CHARA_TESS" default_pts="10" limit_default="100"/>
+	<point friend_tag="FRIEND_ELISE" chara_tag="CHARA_ELISE" default_pts="10" limit_default="100"/>
+	<point friend_tag="FRIEND_MARGRIT" chara_tag="CHARA_MARGRIT" default_pts="10" limit_default="100"/>
+	<point friend_tag="FRIEND_HELLMUT" chara_tag="CHARA_HELLMUT" default_pts="10" limit_default="100"/>
+</Root>

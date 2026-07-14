@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false"/>
+	<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+	<node load="Saves/ui/uil_template.xml" name="template_loader" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="node" viewer_visible="true">
+			<node name="normal" viewer_visible="true">
+				<image name="bg" style="gen_a17_main_menu01_tag" visible="true" viewer_visible="true" pos="-0.00, -0.00, -0.00" image_no="0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="name" style="gen_a17_main_menu01_t_off" pos="40.00, 10.00, 0.00" viewer_visible="true" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="icon" style="gen_a17_main_menu01_i01" pos="7.00, 10.00, 0.00" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="highlight" viewer_visible="true" visible="false">
+				<image name="bg_2" style="gen_a17_main_menu01_tag" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" viewer_visible="true"/>
+				<image name="bg" style="gen_a17_main_menu01_taglight" pos="0.00, 0.00, 0.00" viewer_visible="true">
+					<feed name="feed" pos="22, 13, 0"/>
+				</image>
+				<image name="name" style="gen_a17_main_menu01_t_on" pos="40.00, 10.00, 0.00" viewer_visible="true" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="anim_ctrl" loop="true" play="true">
+					<bind_node node="bg" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+				<image name="icon" style="gen_a17_main_menu01_i01" pos="7.00, 10.00, 0.00" viewer_visible="true" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" visible="true" viewer_visible="false">
+		<node name="menu" viewer_visible="false" pos="-54.00, -19.00, 0.00" scale="1.00, 1.00, 1.00" visible="true">
+			<node name="menu_select" pos="24, 23, 0">
+				<node copy="node" clone_child_tree="node" name="select_0" pos="48.00, 153.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<node copy="node" clone_child_tree="node" name="select_1" pos="48.00, 209.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<node copy="node" clone_child_tree="node" name="select_2" pos="48.00, 265.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<node copy="node" clone_child_tree="node" name="select_3" pos="48.00, 321.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<node copy="node" clone_child_tree="node" name="select_4" pos="48.00, 377.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<node copy="node" clone_child_tree="node" name="select_5" pos="48.00, 433.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<node copy="node" clone_child_tree="node" name="select_6" pos="48.00, 489.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<node copy="node" clone_child_tree="node" name="select_7" pos="48.00, 545.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<node copy="node" clone_child_tree="node" name="select_8" pos="48.00, 601.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+			</node>
+		</node>
+		<anim_ctrl name="get_in" start_visible="true" play="false" viewer_key_assign="8">
+			<bind_node node="top" anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+</root>

@@ -1,0 +1,105 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_HOR_040.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5e,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hmm... That should do it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Sophie, you've improved quite a bit."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Ehehe. Thank you very much."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "You've improved very quickly. I'm quite surprised."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4a,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "O-oh stop that, Mr. Horst. You don't need to praise me so much..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Haha. So, are you enjoying it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4b,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Yeah, I get a real sense of accomplishment when I play something that was too hard before..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4b,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I feel like I'm making progress one step at a time, it makes me happy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "I'm sure the piano is happy too, for someone to feel that way about it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "This makes me want to play it even more."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Haha, you're welcome anytime."
+        }
+    ]
+}

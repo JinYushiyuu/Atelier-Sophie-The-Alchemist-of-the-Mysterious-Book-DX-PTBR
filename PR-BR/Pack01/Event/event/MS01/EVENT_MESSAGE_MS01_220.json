@@ -1,0 +1,97 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS01_220.ebm",
+    "nb_messages": 0xa,
+    "messages": [
+        {
+            "type": 0x5,
+            "voice_id": 0xd2,
+            "name_id": 0x16,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x2,
+            "msg_string": "Welcome, cutie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Um, who are you?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xd2,
+            "name_id": 0x16,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x2,
+            "msg_string": "I sing at this shop at night."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Huh... So you're a singer."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xd2,
+            "name_id": 0x16,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x2,
+            "msg_string": "That's right. Be sure to listen, okay?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xd2,
+            "name_id": 0x16,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x2,
+            "msg_string": "Do you want to listen to me sing?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Yes, please!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xd2,
+            "name_id": 0x16,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x2,
+            "msg_string": "Okay, I'll sing."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Maybe another time."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xd2,
+            "name_id": 0x16,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x2,
+            "msg_string": "Just let me know when you want to hear it."
+        }
+    ]
+}

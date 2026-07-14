@@ -1,0 +1,174 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_FRI_130.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "What are you doing, Fritz?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Sophie. I was watching people."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Watching people...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Yeah. How can I put it... To put it simply, I was observing the people of this town."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Why would you do that...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Well you see, as people who live in town go about their lives, they show subtle, natural behaviors."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "It's actually a good reference when making dolls."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "I see... So that's why you were watching them."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "It's a custom I've had for a long time. I stand at a street corner at set times, and observe people."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Watching just a little is enough to see their subtle habits and nuances. It's actually quite fascinating."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Habits, huh... I wonder if I have any..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Of course. Your habits are very easy to see."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Huh!? Really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Your habits are... No, I shouldn't say. It would be boring if I just told you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x27,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "Whaaat!? You can't just stop now. You're making me even more worried!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Hahaha. It doesn't matter what your habits are, they're all a part of what makes you unique. Cherish that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x29,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "No way! Stop being so mean and just tell me, Fritz!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hahaha. See you later, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Oh come on, Fritz!"
+        }
+    ]
+}

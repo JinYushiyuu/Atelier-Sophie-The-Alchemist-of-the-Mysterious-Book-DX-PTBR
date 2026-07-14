@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_main_caption01" texture="ui/a17_main_caption.g1t" texture_index="0" uvwh="0,0,742,288"/>
+	<image name="gen_a17_main_caption02" texture="ui/a17_main_caption.g1t" texture_index="0" uvwh="4,292,536,176"/>
+	<image_list name="gen_a17_main_caption02_cap">
+		<image name="gen_a17_main_caption02_cap__xLIST01" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,0,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST02" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,56,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST03" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,112,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST04" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,168,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST05" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,224,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST06" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,280,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST07" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,336,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST08" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,392,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST09" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,448,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST10" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,504,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST11" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,560,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST12" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,616,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST13" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="0,672,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST14" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,0,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST15" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,55,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST16" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,111,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST17" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,167,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST18" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,223,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST19" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,279,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST20" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,335,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST21" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,391,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST22" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,447,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST23" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,503,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST24" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,559,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST25" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,615,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST26" texture="ui/a17_main_caption.g1t" texture_index="1" uvwh="352,671,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST27" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,0,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST28" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,56,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST29" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,112,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST30" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,168,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST31" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,224,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST32" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,280,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST33" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,336,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST34" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,392,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST35" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,448,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST36" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,504,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST37" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,560,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST38" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,616,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST39" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="0,672,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST40" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="360,0,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST41" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="360,56,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST42" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="360,112,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST43" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="360,168,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST44" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="360,224,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST45" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="360,280,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST46" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="360,336,352,56"/>
+		<image name="gen_a17_main_caption02_cap__xLIST47" texture="ui/a17_main_caption.g1t" texture_index="2" uvwh="360,392,352,56"/>
+	</image_list>
+</root>

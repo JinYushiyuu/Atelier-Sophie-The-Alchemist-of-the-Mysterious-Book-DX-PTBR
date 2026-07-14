@@ -1,0 +1,329 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY01_010.ebm",
+    "nb_messages": 0x25,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x49,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Okay. That should do it!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Nice work. Would you like to take a little break?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Yeah, sounds good. I was a bit hungry, anyway... This is good timing for a meal."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "What should be today's menu... Meat sounds good, but I want fish, too..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "...Uu, I can't decide. Hey, is there anything you want to eat?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "If it's something you make, I don't mind what it is."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x31,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Oh, really? Then... Let's have stew."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Stew...! Yes, please. Oh, but I'd prefer it to have extra potatoes..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "I know, I know. I'll go whip it up real quick, hold on just a bit!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Okay, it's done!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Here you go. Could you do a little taste test?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "I understand. Let's see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "...It's very good. You really are skilled at cooking, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "That's a relief. Then I'll give it a try, too..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "...Hm? Hmmmm...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Is something the matter?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "...Hey... Do you really think this is good?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Yes. Is there something strange about what I said?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Oh, no. It's fine if you like it, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(I think I undercooked this... To be honest, it's not very good...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "...Just wondering, but do you not like this stew?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Yeah. I think I screwed up... For one, these potatoes are still crunchy..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "...I see. If you say so, it must be true."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "I don't have a sense of taste, nor can I really tell the texture of food..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xf,
+            "msg_id": 0x18,
+            "msg_string": "Oh..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "The \"flavor\" that I talk about is upon judging the compounds in the food."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "I suppose technically, I can't actually taste your cooking..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "I'm very sorry. I casually said that it tastes good, when I can't actually taste it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "N-no! It's my fault for messing it up!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "I'll go make a new batch now! Something that we can both say tastes good!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "So... Don't think too deeply about it. Okay?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Okay..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "(Plachta doesn't have the sense of taste... I never really thought much about it until now...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "(That means the feeling of something tasting \"good\" is different between us...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "(And even if we eat something good, the \"flavor\" we experience is different...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "msg_string": "(That makes me feel a little sad...)"
+        }
+    ]
+}

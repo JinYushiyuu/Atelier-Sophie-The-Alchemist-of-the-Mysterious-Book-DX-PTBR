@@ -1,0 +1,212 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_170.ebm",
+    "nb_messages": 0x17,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Cory!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oh, Sophie. Have you come to replenish your supplies...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "No, I came here to ask you something today. I'd actually like you to make more of these."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "What... Is this?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Um, it's necessary to turn Plachta into a doll."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Plachta...? Into a doll...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "I'm sorry, I don't understand..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Oh, right, I hadn't told you about it. You see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "I see, I understand now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "You need to duplicate that item for Plachta?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Yeah, that's right. Can you do it? Would you be okay?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "...Yes, it's okay. It seems you're very eager to do this. I can work a little..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Thank you, Cory!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Oh, but... I don't know about the money... You're going to work, so it wouldn't be free..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Money...? Oh, for the duplication... That's fine. I can work for free once in a while."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "No way, I couldn't let you do that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Grr... Okay, I understand. In that case... *Cough*"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Ah, I'm so thirsty... I really, really want some milk..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Huh? What's wrong all of a sudden, Cory?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "I told you what's wrong... I'm very thirsty, and I really, really want to drink some milk."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "If only there was a kind person who would bring me milk in my moment of need. I'd waive any charges for work..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "...Oh, I get it! Okay, I'll go get you some milk!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Thank you... Very much."
+        }
+    ]
+}

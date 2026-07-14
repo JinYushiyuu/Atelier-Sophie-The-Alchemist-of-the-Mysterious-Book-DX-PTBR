@@ -1,0 +1,149 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_090.ebm",
+    "nb_messages": 0x10,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Haah, haah... Sorry, were you waiting long?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Nah, I just got here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I waited a short while."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x51,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "S-sorry... It took a while to get ready..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "That's fine. Now, shall we get going?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Oh, wait a minute. Someone else will be joining us starting today..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hello, Sophie. I apologize for keeping you waiting."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Sir Julio! Hello!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Y-you're the man from before..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Ah yes, I hadn't introduced myself to you two yet. I am Julio, a knight of Adalett."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I'll be helping Sophie when she goes gathering, starting today. It's nice to meet you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Sir Julio? My name is Monika."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "And this is Oskar. It's nice to meet you too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Why do you have to introduce me, Monika...? Oh well, whatever. It's nice meeting you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Yes, I look forward to working together, Monika, Oskar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Okay, with that settled, let's go gathering!"
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY03_040.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sophie, are you here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oh, Sir Julio! Do you need something?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "It's nothing major. There's just something that I wanted to ask you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ask me...? What is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Do you know about the official alchemist license examination?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "License examination...? No, I've never heard of it before."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "I see... Apparently, it's held in a city called Reisenberg."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "If you pass the examination, you receive an official alchemist's license."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "The license serves as proof that one is an alchemist of suitable capability... From what I hear."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Huh, so there's something like that...! I might want to see how my skills stand in comparison...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "I thought you would say that. However, the city where the exam is held is very far from here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "If you intend to go, you would need to prepare appropriately."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "I see... I understand, thank you very much!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "No need for thanks, I simply wanted to let you know."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Anyway, I'll be taking my leave now. See you again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "An official alchemist license examination... Such a thing didn't exist in my time..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Your time was 500 years ago, wasn't it? I'm not exactly surprised..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Hehe, true. So... What do you intend to do?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Hmm, I'm pretty interested. I want to see how my skills compare..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "My only real concern is about how far away the exam location is..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Hmm... What should I do..."
+        }
+    ]
+}

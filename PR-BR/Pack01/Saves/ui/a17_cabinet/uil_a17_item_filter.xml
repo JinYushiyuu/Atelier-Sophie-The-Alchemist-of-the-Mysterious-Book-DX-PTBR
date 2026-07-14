@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓テンプレート(汎用メニューの行形式)の読み込み-->
+		<node name="menu_line_format" load="/Saves/ui/_a17_line_format/uil_a17_lf_default.xml" viewer_visible="false"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="main" pos="0, 31, 0" viewer_visible="true">
+			<image name="win" style="gen_a17_win01_w04" pos="362.00, 147.00, 0.00" size_wh="538.00, 340.00, 0.00"/>
+			<image name="img_tag" pos="364, 83, -0" rot="-0.00, -0.00, -0.00" style="gen_a17_win04_titlebg" size_wh="537, 67">
+				<text text="Filter Items" name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" pos_ratio_x="0.50" pos="-147.00, 34.00, 0.00" viewer_visible="false" color="200.00, 172.00, 148.00, 255.00" drop_shadow="true"/>
+			</image>
+			<node name="category" pos="401.00, 191.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="mouse_area" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="common_none_image" size_wh="488.00, 39.00, 0.00" visible="true"/>
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false" viewer_visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false" viewer_visible="false">
+					<feed name="feed" pos="5.00, 5.00, 0.00"/>
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="Category" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="あいうえおかきくけこ" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="kind" pos="401.00, 232.75, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="mouse_area" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="common_none_image" size_wh="488.00, 39.00, 0.00" visible="true"/>
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false">
+					<feed name="feed" pos="5.00, 5.00, 0.00"/>
+					<anim_ctrl name="anim_ctrl_1" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="Class" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="0" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="potential" pos="401.00, 274.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="mouse_area" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="common_none_image" size_wh="488.00, 39.00, 0.00" visible="true"/>
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false" viewer_visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false" viewer_visible="false">
+					<feed name="feed" pos="5.00, 5.00, 0.00"/>
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="Trait" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Red" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="item" pos="401.00, 316.25, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="mouse_area" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="common_none_image" size_wh="488.00, 39.00, 0.00" visible="true"/>
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false">
+					<feed name="feed" pos="5.00, 5.00, 0.00"/>
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="Item" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="No Setting" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="reset" pos="401, 358, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="mouse_area" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="common_none_image" size_wh="194.67, 38.67, 0.00" visible="true"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" visible="false">
+					<feed name="feed" pos="5.00, 5.00, 0.00"/>
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="Reset" name="reset" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="ok" pos="401, 401, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="mouse_area" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="common_none_image" size_wh="194.67, 38.67, 0.00" visible="true"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" visible="false">
+					<feed name="feed" pos="5.00, 5.00, 0.00"/>
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="Setting Complete" name="ok" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="line" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="line" style="gen_a17_win01_line01" pos="389.00, 176.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_1" style="gen_a17_win01_line01" pos="389.00, 218.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_2" style="gen_a17_win01_line01" pos="389.00, 260.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_3" style="gen_a17_win01_line01" pos="389.00, 302.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_4" style="gen_a17_win01_line01" pos="389.00, 344.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_5" style="gen_a17_win01_line01" pos="389.00, 386.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_6" style="gen_a17_win01_line01" pos="389.00, 428.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="frame" pos="580.00, 188.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="frame" style="gen_a17_win03_frame01" pos="2.00, -4.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="frame_1" style="gen_a17_win03_frame01" pos="2.00, 37.83, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="frame_2" style="gen_a17_win03_frame01" pos="2.00, 79.67, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="frame_3" style="gen_a17_win03_frame01" pos="2.00, 121.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<!--該当件数を仮置き。-->
+			<text text="(  Applicable)" name="text_hit_label" copy="TEXTCOLOR_BROWN" align="left" pos="655.00, 525.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+				<text text="999" name="text_hitnum" copy="TEXTCOLOR_BROWN" align="right" pos="65, 1, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</text>
+			<selector name="selector_menu">
+				<option_list>
+					<option node="category"/>
+					<option node="kind"/>
+					<option node="potential"/>
+					<option node="item"/>
+					<option node="reset"/>
+					<option node="ok"/>
+				</option_list>
+			</selector>
+		</node>
+		<node name="sub" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<menu name="menu_sub" pos="899.00, 149.00, 0.00" normal_font_color="53.00, 19.00, 0.00, 255.00" disp_lines="8" selected_font_color="175.00, 115.00, 0.00, 255.00" decided_font_color="255.00, 174.00, 43.00, 255.00" viewer_visible="false" style="default_menu" size_w="300.00">
+				<node copy="lf_default" clone_child_tree="lf_default" name="clone_lf_default"/>
+				<node copy="lf_default" clone_child_tree="lf_default" name="clone_lf_default_1"/>
+				<node copy="lf_default" clone_child_tree="lf_default" name="clone_lf_default_2"/>
+				<node copy="lf_default" clone_child_tree="lf_default" name="clone_lf_default_3"/>
+				<node copy="lf_default" clone_child_tree="lf_default" name="clone_lf_default_4"/>
+				<node copy="lf_default" clone_child_tree="lf_default" name="clone_lf_default_5"/>
+				<node copy="lf_default" clone_child_tree="lf_default" name="clone_lf_default_6"/>
+				<node copy="lf_default" clone_child_tree="lf_default" name="clone_lf_default_7"/>
+				<node copy="lf_default" clone_child_tree="lf_default" name="clone_lf_default_8"/>
+			</menu>
+		</node>
+	</node>
+</root>

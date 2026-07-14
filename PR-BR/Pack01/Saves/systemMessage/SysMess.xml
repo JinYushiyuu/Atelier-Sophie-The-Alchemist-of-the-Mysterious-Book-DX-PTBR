@@ -1,0 +1,918 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11069" Text="Hmm, what to make..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11075" Text="Which cauldron should I use?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11081" Text="What materials to use..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11087" Text="How should I make this..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11093" Text="Okay, let's start."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11099" Text="...I can relax on this one."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11105" Text="I'll use this here."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11111" Text="How about this?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11117" Text="This material... Goes right here."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11123" Text="This isn't bad."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11129" Text="Huh, so that's what happens..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11135" Text="Yeah, good."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11141" Text="The quality might get better."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11147" Text="The effect might increase."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11153" Text="It could gain a trait."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11159" Text="This might finish quicker..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11165" Text="Oh this... This is good..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11171" Text="Yeah, this looks good."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11177" Text="This is no good..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11183" Text="Hmm, I might have messed up..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11189" Text="I'll put the material in."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11195" Text="I'll stir the cauldron."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11201" Text="Mix it around and around."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11207" Text="Feeling good about this!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11213" Text="This... Should work great!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11219" Text="Is this good?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11225" Text="Yeah, I should finish it quick."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11231" Text="It's don-... W-wah! There's something wrong with this...!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11237" Text="It's done!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11245" Text="I made this really well."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11249" Text="Yeah, this is good."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11255" Text="I made something unusual... I thought it would turn out no good..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11261" Text="What traits should I transfer?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11269" Text="Is this really okay?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11275" Text="Oh no, I failed..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11281" Text="Alright, it's done!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11071" Text="Okay, what should I make?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11077" Text="Which cauldron is best?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11083" Text="What materials should I use?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11089" Text="Hmm, how should I make this..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11095" Text="Okay then, let's start!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11101" Text="Maybe I'll relax a little on this."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11107" Text="This material goes here."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11113" Text="This... Should go here."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11119" Text="This goes here!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11125" Text="Yeah, this is good!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11131" Text="This is great!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11137" Text="I think something good will happen."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11143" Text="The quality could get better."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11149" Text="I think the effect will increase."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11155" Text="I feel like this will gain a trait."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11161" Text="This looks like it'll finish sooner."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11167" Text="Alright, this is going well!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11173" Text="Yeah, this is going great!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11179" Text="Hm, this isn't going very well..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11185" Text="Oh, this looks kind of bad..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11191" Text="Materials go in!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11197" Text="Mix, mix, mix."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11203" Text="I'll mix it up!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11209" Text="This is looking amazing!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11215" Text="Alright, I'm really into this!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11221" Text="Is this really okay?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11227" Text="Alright, I'll finish it now!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11233" Text="Okay... Wait? What? This doesn't seem right..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11239" Text="Done!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11243" Text="Ehehe, it went better than usual!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11251" Text="Yeah! It turned out really good!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11257" Text="It's different from what I thought... But whatever!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11263" Text="What traits to transfer?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11267" Text="Is this okay?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11273" Text="Waah, I failed!?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11279" Text="Okay, it's finished!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11073" Text="What kind of stuff should I make?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11079" Text="Now which cauldron..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11085" Text="Which materials should I choose?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11091" Text="How to make this..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11097" Text="Okay, I'll try it!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11103" Text="I'll relax just a little."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11109" Text="I've decided this material goes here."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11115" Text="I think... This would be best here."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11121" Text="I'll try this here."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11127" Text="Oh, this reaction is interesting."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11133" Text="Whoa, this looks kind of amazing."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11139" Text="I feel like something great will happen!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11145" Text="The quality should get better."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11151" Text="Will the effect increase?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11157" Text="Maybe a trait will appear."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11163" Text="This should finish a little faster!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11169" Text="Alright, this looks great!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11175" Text="It's going great!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11181" Text="Huh? This is weird..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11187" Text="This is kind of..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11193" Text="Putting in the materials!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11199" Text="Mix, mix, round and round."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11205" Text="Now go!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11211" Text="Going perfect!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11217" Text="I'm really excited now!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11223" Text="Will this go well?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11229" Text="Okay, it's time to finish!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11235" Text="Alright...! Huh? This is weird... But it should be fine!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11241" Text="Done and done!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11247" Text="This is really good!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11253" Text="I made it super well!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11259" Text="It's not what I imagined, but... This is good, in its own way!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11265" Text="What traits should I add?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11271" Text="How's this?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11277" Text="Waah, what's this!? I failed..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11283" Text="Yeah, this is all done!"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11070" Text="What will you make?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11076" Text="What cauldron will you use?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11082" Text="Selecting materials is very important."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11088" Text="How will you make this?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11094" Text="Very well, begin."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11100" Text="Doing this by eye? ...Well, that's fine."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11106" Text="Not a bad choice."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11112" Text="I see."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11118" Text="So you decided to put it there."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11124" Text="That's a unique reaction."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11130" Text="I see an excellent result."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11136" Text="An appropriate choice."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11142" Text="The quality should increase."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11148" Text="The effect should increase."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11154" Text="A trait should appear."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11160" Text="The time should be reduced."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11166" Text="Keep it up."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11172" Text="Wonderful."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11178" Text="This isn't good..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11184" Text="A bad trend."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11190" Text="Adding materials?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11196" Text="Be sure to stir it well."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11202" Text="Just go slow and steady."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11208" Text="A good indication."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11214" Text="The results should be wonderful."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11220" Text="Is this what you wanted?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11226" Text="It's time to finish it. Don't relax yet."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11232" Text="Finishing it? Hm? Could this reaction be..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11238" Text="It's complete."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11244" Text="A wonderful degree of perfection."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11250" Text="This result is... You've done well, Sophie."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11256" Text="This is... You've created something unusual."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11262" Text="What traits will you transfer?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11268" Text="Is that okay?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11274" Text="This is... A failure..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11280" Text="It's complete. Good work."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11072" Text="Which item will you make?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11078" Text="Choose the cauldron you'll use."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11084" Text="Are you selecting materials?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11090" Text="Do you know how to make this?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11096" Text="Show me your skills."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11102" Text="This shouldn't be much work to make."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11108" Text="You're using that material there?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11114" Text="You're putting it in there?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11120" Text="Hmm..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11126" Text="An excellent reaction."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11132" Text="You have good sense."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11138" Text="As expected of you."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11144" Text="I believe the quality will increase."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11150" Text="I believe the effect will increase."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11156" Text="I believe a trait will appear."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11162" Text="The Synthesis time should decrease."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11168" Text="Just continue like that."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11174" Text="I see you understand the theories well."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11180" Text="Hmm..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11186" Text="Calm down a little."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11192" Text="You're adding materials?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11198" Text="Sophie, you should handle the materials more carefully..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11204" Text="Mixy mix... Ahem. No, I didn't say anything."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11210" Text="This is... Quite splendid."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11216" Text="Continue at this rate."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11222" Text="Do you see any issues with this?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11228" Text="Time to finish... I always get nervous."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11234" Text="Time to finish... But this reaction... Very interesting."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11240" Text="Looks done."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11246" Text="A result worthy of praise."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11252" Text="This is splendid."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11258" Text="This is different from expectations, but... It's not bad."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11264" Text="Which traits will you add?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11270" Text="Are you sure about this?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11276" Text="Unfortunately, you seem to have failed..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11282" Text="It's complete. You worked hard."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11074" Text="What are you going to Synthesize?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11080" Text="Which cauldron are you going to use?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11086" Text="What materials will you be using?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11092" Text="How can you make this?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11098" Text="I look forward to seeing how you make it."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11104" Text="That should be fine."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11110" Text="Good progress."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11116" Text="Now, what could happen..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11122" Text="You're putting it there?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11128" Text="I think we can expect a lot out of this."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11134" Text="I think that's good."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11140" Text="Very respectable."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11146" Text="The quality appears to be increasing."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11152" Text="The effect appears to be increasing."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11158" Text="A new trait should appear."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11164" Text="The Synthesis time appears to have decreased."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11170" Text="That's quite something."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11176" Text="This should create a good result."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11182" Text="Changing the flow of Synthesis...?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11188" Text="Think about compatibility with the cauldron."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11194" Text="Do your best to mix it."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11200" Text="That's not how you should mix it. Do it more like this..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11206" Text="Let's add the materials."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11212" Text="Hehe. You seem to be into this."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11218" Text="Quite magnificent. Excellent work, Sophie."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11224" Text="Are you okay with this?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11230" Text="Now, time to finish. Just don't get careless."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11236" Text="Are you completing... Hm? This could be interesting."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11242" Text="You've finished."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11248" Text="This result... You've improved again."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11254" Text="This is... You can be quite confident about this."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11260" Text="Hehe, you made something interesting."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11266" Text="Select the traits to transfer."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11272" Text="Is this okay with you?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11278" Text="You've failed... It's okay, there's always next time."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11284" Text="This was fun for me too."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="-1" Text="Returning to material selection will reset material input and skill use. Is this okay?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12264" Text="Where should I go?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12265" Text="Where are we going?"/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12266" Text="Where are we going next?"/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12267" Text="Alright, where to?"/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12268" Text="What's our destination?"/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12271" Text="Where to?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12269" Text="Where can we go next?"/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12270" Text="Got a destination?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12272" Text="Where do you intend to go next?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12273" Text="Hehehe, where are we going?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12274" Text="Where should we go?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12275" Text="Hey, where are we going next?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12276" Text="This is the same place... Is it okay?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12277" Text="We were just here... Are we going to explore it again?"/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12278" Text="Is this okay? We just went here..."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12279" Text="Hey, Sophie. We just checked this place... Is this really okay?"/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12280" Text="We just investigated this area... Do you mind going again?"/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12283" Text="We were just here. Are we searching it again?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12281" Text="I think we just went here. Or do you already know that?"/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12282" Text="Hey, wait. We just checked this place. Are we going again?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12284" Text="Wait, we were just in here. Do you want to explore it more?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12285" Text="Oh my, we just went here. Are we going to look again?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12286" Text="Are we going to the same place again?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12287" Text="Sophie, you know we just went here, right? Or do you want to check again?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12288" Text="I have other things to do now."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12289" Text="Sophie, you have something to do first."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12290" Text="Wait, is this really the time for that?"/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12291" Text="Hey wait, don't you have something else to do?"/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12292" Text="Perhaps you should complete your other goal first?"/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12295" Text="I think you have something else to do first."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12293" Text="Is it really okay to do this now?"/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12294" Text="Don't you have something better to do?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12296" Text="Wait, are you taking the scenic route or something?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12297" Text="Oh dear, don't you have something to do first?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12298" Text="Is it really the time to be doing this?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12299" Text="Wait up. This isn't the time for that, is it?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12300" Text="Huh? What is that?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12301" Text="Sophie, there's something over there."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12302" Text="What could that be?"/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12303" Text="Hey, what's that? There's something there."/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12304" Text="Look over there. There appears to be something."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12307" Text="Hm? What exactly is that...?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12305" Text="We found... Something."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12306" Text="What is that..."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12308" Text="Oh my, what could that be?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12309" Text="Ah, we found something."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12310" Text="What could that be..."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12311" Text="Hey, I found something!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12312" Text="Waah, what is this?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12313" Text="This is...!"/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12314" Text="Eek, what!?"/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12315" Text="Whoa, what's going on!?"/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12316" Text="What!?"/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12319" Text="What's that!?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12317" Text="What is it...?"/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12318" Text="What's this...?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12320" Text="What could that be?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12321" Text="Oh dear, what is this?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12322" Text="What!?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12323" Text="Wait, what!? I didn't hear about this!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12324" Text="We can go to a new place now!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12325" Text="A new place, huh... Ehehe, this is exciting."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12326" Text="A new place... I hope we can gather amazing materials there."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12327" Text="A new place... What could be there?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12328" Text="Looks like we can go to a new place."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12329" Text="It seems that we can now go to a new place."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12330" Text="Ehehe, that was good!"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12331" Text="I didn't expect such luck."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12332" Text="Hehe, so things like this happen too."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12333" Text="This is thanks to my good karma!"/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12334" Text="Haha, we're in luck."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12337" Text="Hahaha, a splendid event."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12335" Text="That was good... I'm happy."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12336" Text="This isn't bad."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12338" Text="Hehe, I feel good now."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12339" Text="Thank you, God."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12340" Text="Heh, that's good."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12341" Text="Yeah, we're super lucky!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12342" Text="Uu, that was bad..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12343" Text="What a disaster..."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12344" Text="I didn't think this would happen..."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12345" Text="Uu, what did I do to deserve this..."/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12346" Text="Hahaha... That was unexpectedly bad..."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12349" Text="Grr. That was just bad luck..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12347" Text="I want... To go home..."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12348" Text="Damn it. Why did this have to happen..."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12350" Text="*Sigh*... That doesn't put me in a good mood..."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12351" Text="Uu, did I do something bad...?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12352" Text="Uu, that was no good..."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12353" Text="No! I'm done! I want to go home!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12354" Text="Ow... They got us..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12355" Text="I was careless. I'll be more careful next time."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12356" Text="I'm sorry, if only I did better..."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12357" Text="Damn, my body hurts... We got beat up pretty bad..."/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12358" Text="I let my guard down... This won't happen again."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12361" Text="I'm sorry, it's because I'm too weak. I need to train more..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12359" Text="Ow... It really is dangerous outside of town."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12360" Text="...I won't make the same mistake twice."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12362" Text="The enemies are pretty strong. That's fine, we'll pay them back next time!"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12363" Text="Oh dear... Don't overdo it, okay?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12364" Text="We got beat pretty bad... Let's think about why we lost."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12365" Text="Ouch... I don't even have the strength left to complain..."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11368" Text="I see you're working early. What do you want to buy?"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11375" Text="Are you getting hungry yet? My vegetables are always fresh and delicious!"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11382" Text="Another day's almost over... Buy something before I close shop!"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="-1"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11389" Text="I restocked the goods I was short on. Buy whatever you want!"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11396" Text="I tried acquiring new goods. Want to take a look?"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11403" Text="Ah, I have some rare goods in stock. You should look at them!"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11410" Text="I've got a big sale now! Buy whatever you want!"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11417" Text="What do you want to buy?"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11424" Text="Hmm, you don't have enough money..."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11431" Text="You can't hold any more. Sorry, but can you make space for it?"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11438" Text="What do you want to sell?"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11445" Text="You don't have anything I can buy from you."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11452" Text="Is this okay?"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11459" Text="Thank as always!"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11466" Text="Come again anytime."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11374" Text="*Yawn*... I'm sleepy... But I'll work hard. By the way... What do you need today?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11381" Text="Nn... I'm sleepy after eating... But I need to work..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11388" Text="*Yawn*. I'm tired again today... Are you here to buy something?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="-1"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11395" Text="I refilled the items that were low on stock. It's all ready for you."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11402" Text="I have new items in stock. If you're interested..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11409" Text="I did my best to stock rare items. Can you buy them?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11416" Text="I did my best to reduce my prices... Can you buy more items?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11423" Text="What are you going to buy?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11430" Text="You don't... Have enough money. I can't sell it to you like this..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11437" Text="You have too many items. Come back after making adjustments..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11444" Text="What are you going to sell?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11451" Text="...Hm? You don't seem to have anything to sell..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11458" Text="Are you really okay with this?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11465" Text="Thank you."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11472" Text="Please come again."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11372" Text="It's pretty early. How are you doing? Anyway, time for business."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11379" Text="Welcome, thanks for coming. What do you need today?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11386" Text="Whew, I'm kind of tired by this time of day... But I'll work."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="-1"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11393" Text="I've restocked on goods I ran out of. Feel free to buy more."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11400" Text="I've got some new wares. You should take a look since you're here."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11407" Text="I've stocked something kind of rare... Want to see?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11414" Text="I'm selling my wares for cheap right now. You might want to take advantage of that."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11421" Text="What are you buying?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11428" Text="I'm sorry, but you don't have the money."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11435" Text="You've got too many belongings. You should adjust that and come back."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11442" Text="What are you selling?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11449" Text="Wait, you don't have anything to sell me."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11456" Text="This is okay, right?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11463" Text="That's a deal."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11470" Text="I'll see you again."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11373" Text="Good morning, you look lively today. Now then... What are you looking for?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11380" Text="Welcome to my shop. I have lots of merchandise that's perfect for you."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11387" Text="Hehe, I thought you'd show up around now. You want to buy something?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="-1"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11394" Text="I've restocked my wares. Buy as much as you want."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11401" Text="I have some new merchandise now. You'll take a look, right?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11408" Text="I have some rare merchandise right now. Will you take a look?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11415" Text="I've got a special discount right now. Now's your chance to buy lots of stuff!"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11422" Text="Which one do you want?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11429" Text="Oh, that's too bad. You don't have enough money..."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11436" Text="Your hands are totally full. Sorry, but you've got to make space first."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11443" Text="Which one do you want to sell?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11450" Text="Oh dear, you don't have anything to sell."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11457" Text="You're sure, right?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11464" Text="Hehe, thanks."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11471" Text="Come back again. I'll be waiting."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11369" Text="Good morning, Sophie. What do you need today?"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11376" Text="Welcome, thank you for coming. Feel free to take your time."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11383" Text="...Oh, sorry. I was really into this book... You want to buy something?"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="-1"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11390" Text="I restocked the items I was low on. You can buy them again."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11397" Text="I have new merchandise. Are you interested?"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11404" Text="I have rare items that I normally can't stock. You should take a look."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11411" Text="I'm selling items for cheaper than usual now. Buy a lot, okay?"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11418" Text="What will you buy?"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11425" Text="...I'm sorry. You don't have enough money."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11432" Text="You can't hold more. I'm sorry, can you make room?"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11439" Text="What will you sell?"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11446" Text="Hm? You don't have anything to sell..."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11453" Text="Is this okay?"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11460" Text="Thank you."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11467" Text="Hehe, feel free to come back anytime."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11473" Text="Morning! And welcome! What do you need?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11474" Text="Welcome to Tess's shop! What do you need?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11475" Text="Ah, Sophie, thanks for coming. Take your time, okay?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="-1"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11476" Text="I've restocked stuff that was gone. You can trade for them again."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11477" Text="I've got new stuff in stock. Feel free to trade for them!"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11478" Text="I've got some rare stuff! You can trade for those too."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11479" Text="I'm having a little sale now. You might find a better deal than usual."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11480" Text="What will you trade for?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11481" Text="Sorry, you don't have enough vouchers for that."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11482" Text="Oh, you seem to be holding too much stuff. Come back after fixing that."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11483" Text="Sorry, I don't have anything to trade right now..."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11484" Text="Is that okay?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11486" Text="Just take it, it's a steal for you!"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11461" Text="Thanks for your business!"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11468" Text="Come back whenever you want!"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11371" Text="Sophie, did you eat breakfast? Oh, you want to buy something?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11378" Text="Welcome. Buy lots of things to help the church, okay?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11385" Text="Hehe, I've found a lost lamb. Is there something you want?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="-1"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11392" Text="I have more of the items I ran out of. Buy lots of stuff, okay?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11399" Text="I found new goods, so I'm stocking them. Feel free to buy them."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11406" Text="I found something unusual, so I have it in stock now."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11413" Text="I'm selling goods for really cheap right now. Buy it all, okay?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11420" Text="What will you buy from me?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11427" Text="Oh dear. You don't have enough money."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11434" Text="It looks like you can't hold more. You should get rid of stuff you don't want."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11441" Text="What will you sell to me?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11448" Text="You don't have anything to sell..."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11455" Text="Is this really okay?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11462" Text="Thank you very much."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11469" Text="Come again, okay?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11488" Text="Are you registering an item for duplication? Which one?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11489" Text="I see... So you'll register this?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11490" Text="This... Seems really amazing. You want to register this?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11491" Text="I'm sorry. I don't see anything that I can duplicate..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11492" Text="I can't register any more items... Will you replace another?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11493" Text="Okay, I'll do my best to duplicate it..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11494" Text="Refilling your items? Um, it will cost this much..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11495" Text="Refilling your items? With your discount... It's this much."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11496" Text="Refilling your items? Excluding yours... It will cost this much."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11497" Text="Refilling... Huh? You don't have anything to refill."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11498" Text="I did my best to refill them."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11499" Text="You don't have enough money... Um... I'm running a business, so..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11500" Text="I'm refilling items when you get home. Do you want to stop?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11501" Text="I'm not refilling items when you get home. Do you want to?"/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11502" Text="I understand. I'll stop refilling your items..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11503" Text="I understand. I'll start refilling your items..."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Insufficient money."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Your basket is full. Throw something away to make space."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Your container is full. Throw items away or sell them to make space."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="You have nothing to sell. Important items and items with a sell price of 0 cannot be sold."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11291" Text="What weapon do you want to make?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11292" Text="Tell me which materials to use."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11293" Text="Is this material okay?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11294" Text="Choose the traits you want to add."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11295" Text="Is this alright?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11296" Text="Okay, I'll start making it."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11297" Text="Alright, it's done. I think it turned out well."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11298" Text="It's done... Wait, what's this? This is different from what I thought... Well, it's not bad."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11299" Text="What weapon do you want to enhance?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11300" Text="What material will you use for enhancement?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11301" Text="Is this okay?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11302" Text="Alright, time to start enhancing..."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11303" Text="It's done. Here you go, take it."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11304" Text="Hehe. What armor do you want to make?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11305" Text="Which materials should I use?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11306" Text="Is this material okay with you?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11307" Text="Are there any traits you want it to have?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11308" Text="Is this okay?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11309" Text="I got it. I'll make the best armor for you."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11310" Text="It's done. Hmm... It looks great."/>
+    <SysMess VoiceNo="11311" Text="It's done... Maybe I overdid it a little... But it's great, isn't it?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11312" Text="What armor should I enhance?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11313" Text="What materials should I use?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11314" Text="Is this okay with you?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11315" Text="Hehe, time to show off my skills."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11316" Text="It's done. What do you think? I'm the best, right?"/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11504" Text="Welcome. Thank you for coming, Sophie."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11505" Text="I'll see you again."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11504" Text="Welcome. Thank you for coming, Sophie."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11505" Text="I'll see you again."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11506" Text="Which request will you accept?"/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11507" Text="I don't have any requests right now... Can you come back again?"/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11508" Text="Is this request okay?"/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11509" Text="Thank you. I'm counting on you."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11510" Text="You intend to refuse a request? ...Are you sure?"/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="1511" Text="I see... I can understand why, but it's not exactly praiseworthy..."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11511" Text="I see... I can understand why, but it's not exactly praiseworthy..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11522" Text="I don't get it at all... This looks impossible..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11523" Text="I know how to make it, but I don't have materials..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11524" Text="Yeah, I have the materials, and I can make it in time."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11525" Text="Hmm, even if I started now, I wouldn't make the deadline..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11526" Text="I have enough materials, I can make this right away."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11527" Text="I can make it, but I don't have the materials..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11528" Text="I haven't made this before, but I have enough. But should I really hand it over..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11529" Text="Yeah, I can turn this request in anytime."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11530" Text="I've never heard of this... It might be difficult..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11531" Text="I don't have enough on me. I'd need to gather it outside..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11532" Text="Yeah, I have enough on me, so I can report this anytime."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11533" Text="Huh? I've never heard of this monster..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11534" Text="I've fought this monster before, but... I wonder if I can win..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11535" Text="Yeah, I've beat this monster before... I should be fine."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11536" Text="I can report this anytime."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11537" Text="This request looks tough... I should make sure to check the contents."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11539" Text="Oh no, this request is past its deadline! I need to hurry and report it..."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11514" Text="Hmm... I don't think I'd make it in time..."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11515" Text="Thank you very much. Here is your payment."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11516" Text="Ah, this is... Excellent work. I've increased your reward."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11517" Text="You've gone this far... I'll pay you very well for this."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11518" Text="It may be partial, but it still helps. Here is your reward."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11519" Text="You completed an entire series of requests. You've been very helpful."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11520" Text="This is from me. Your help is greatly appreciated, thank you."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11521" Text="...Oh my, it seems you have too many items. Please make adjustments."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11541" Text="What rumor do you wish to hear?"/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11542" Text="I haven't heard any particularly interesting rumors. Please come back again."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11543" Text="Is that rumor okay?"/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11544" Text="Thank you very much. I'll tell you now."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11545" Text="Oh, I have a new idea."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11546" Text="Alright, I thought of something!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11547" Text="I have a good idea."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11551" Text="I think I can make something new."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11552" Text="Hehe, I can make more stuff now."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11553" Text="I thought up a new recipe!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11557" Text="Maybe I'm a little better now?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11558" Text="I have more confidence now."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11559" Text="Ah... I think I understand more now."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11563" Text="I think I can do something amazing now!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11564" Text="Hm... I feel like I can make something amazing."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11567" Text="Level up!"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11548" Text="Sophie, did you think of something?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11549" Text="That face... It looks like you have an idea."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11550" Text="You created a new recipe? Congratulations."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11554" Text="You made a recipe on your own... I'm amazed at your creativity."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11555" Text="It seems you can create more now."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11556" Text="A new recipe... You've done well, Sophie."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11560" Text="That's one step closer to the truth of alchemy."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11561" Text="Your speed of growth surprises even me."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11562" Text="It seems you've improved your skills again, Sophie."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11565" Text="There's no downside to learning such a skill."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11566" Text="You've mastered another secret of alchemy."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11568" Text="You've improved your alchemy. Congratulations."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12456" Text="What should I do..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12457" Text="Is this okay?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12458" Text="Hmm, a hard decision..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12459" Text="I'll think about it a little."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12460" Text="Is this what you wanted?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12461" Text="What to do..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12462" Text="Yeah!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12463" Text="Okay, I've decided!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12464" Text="Yeah, I'll do this!"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12465" Text="Yes."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12466" Text="I've decided."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12467" Text="Let's do this."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12468" Text="Nah."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12469" Text="I'll stop this..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12470" Text="This doesn't seem good..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12471" Text="No..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12472" Text="We should stop."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="12473" Text="That won't work."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11820" Text="Barrel."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11821" Text="It's a barrel!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11822" Text="Barrel barrel."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11823" Text="Baaarrel."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11824" Text="Barrel."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11825" Text="It appears to be a barrel."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11826" Text="Oh, I can't carry any more... Hm, what should I throw away?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11827" Text="Sophie. You can't hold any more. You might want to throw something away."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11828" Text="I'll use this!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11829" Text="How about this?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11830" Text="Using this!"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11831" Text="Use this."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11832" Text="Using an item?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11833" Text="This is the power of alchemy."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11834" Text="Okay, request complete!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11835" Text="That request is done."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11836" Text="Yeah, that request is over!"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11837" Text="You've completed a request. Good work."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11838" Text="That should complete a request."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11839" Text="It seems a request is complete. Good work."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11840" Text="What's this? A new discovery!?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11841" Text="What could this be? I don't know..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11842" Text="I found something interesting. I should record it."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11843" Text="Sophie. This could be a new discovery."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11844" Text="We've found an unusual item..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11845" Text="This is valuable... Sophie, you should record it."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11846" Text="Eeh!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11847" Text="Okay!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11878" Text="There!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11852" Text="Tooh!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11853" Text="Whoa."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11854" Text="Hoh!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11858" Text="Is this... An alchemy item? Why was it here..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11859" Text="Ah, this is... I can use this. Yay!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11860" Text="Found an alchemy item."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11861" Text="It seems you've found an alchemy item. It should still be usable."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11862" Text="Sophie, there's an alchemy item. We should take it."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11863" Text="It's an alchemy item. Alchemists should reuse things wherever possible."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11864" Text="Treasure chest!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11865" Text="What could be inside?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11866" Text="Please be something amazing!"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11867" Text="A treasure chest? What could be inside?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11868" Text="I'm curious what could be inside."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11869" Text="We should open it."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11870" Text="There's something there. What should I do..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11871" Text="What could this be? Hmm..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11872" Text="This is suspicious... Maybe I should inspect it? Or not..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11873" Text="Sophie. There's something there... Do you want to check it?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11874" Text="What could this be... Sophie, what will you do?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11875" Text="Hm, this is... It may be worth investigating."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11876" Text="What item should I use?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11880" Text="I'll use this!"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11877" Text="What item will you use?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11881" Text="Are you using that item?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11882" Text="I'll stop for now."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11883" Text="I have something else to do now..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11884" Text="We should stop this for now."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11885" Text="Don't you have something else to do?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11886" Text="No, it's not time to rest right now."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11887" Text="I have something to do before resting!"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11888" Text="Sophie, don't you have something else to do now?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11889" Text="Perhaps you should rest another time?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11890" Text="Hm, hm, I see... So that's how it is..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11891" Text="Do this like this, and that like that... Yeah, I get it! ...I think."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11894" Text="Ask if there's something you don't understand. I'll teach you whatever I can."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11895" Text="Reading is important for alchemy training. Daily studies are the shortest path to mastery."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11896" Text="Gathering, gathering."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11897" Text="What will I find?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11900" Text="I'll gather carefully."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11901" Text="What can I gather here?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11902" Text="I'll take this."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11903" Text="Drawing water, drawing water."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11906" Text="How long should I rest?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11908" Text="Ah, I'm tired. I'll take a little break..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11910" Text="*Yawn*... Good night..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11912" Text="Okay, break's over! Time to do my best!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11914" Text="Ah, that was a good nap..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11907" Text="How long will you rest?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11909" Text="A short break? I understand."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11911" Text="Good night, Sophie. Have a nice rest."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11913" Text="Is your break over? Are you still tired?"/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11915" Text="Hehe, did you sleep well?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11916" Text="Hm, I think I'm getting kind of hungry..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11918" Text="Sophie, if you have time to space out, you should study... Sophie?"/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11919" Text="Hey, Sophie? What are you doing? You're wasting time."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11920" Text="Hm, hm, I see... Ah. Oh, hey. I was talking to a plant."/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11921" Text="Hahaha, you sure are easygoing, Sophie. I don't dislike that."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11922" Text="*Yawn*... I'm kind of bored... And sleepy..."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11923" Text="If we aren't doing anything, can I leave? I want to work on my guns."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11924" Text="Are you saying that you want to watch my puppet show? Oh, no...?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11925" Text="Hm, what should I make next... A blouse? Or maybe a one-piece dress?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11926" Text="Sophie? What it is? Did you fall asleep?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11927" Text="I don't mind, but... Are you not doing anything?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11928" Text="I'm bored! Bored bored bored! I'm not the type who can just stand around!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11929" Text="I'm home."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11930" Text="Whew, we're back."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11931" Text="Waah! Whew, that was close. I almost broke a plate."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11932" Text="Ahaha. Looking at the fountain makes me want to jump in."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11933" Text="Mm. These vegetables look good, no matter when I look at them..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11934" Text="Uu, this food looks so good... I'm starting to drool just looking at it."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11935" Text="This statue looks kind of like Pamela... Maybe it's just my imagination."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11936" Text="Wow, these books are thick... It would hurt to get hit by the corner..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11937" Text="Tick, tock, tick, tock... The sound of clocks is kind of calming."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11938" Text="It's hot! I-I need to be careful not to get burned!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11939" Text="This tree was here since the town was founded... It must be really old."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11940" Text="Grandma. I'm doing well..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11941" Text="Maybe I'll practice the piano."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11942" Text="Oh I know. I'll play the piano."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11943" Text="Hm, I still have a long way to go..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11944" Text="Ah, I'm no good..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11945" Text="Okay, I feel like I've gotten better!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11946" Text="Hehe, it's okay, I guess."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11947" Text="Ehehe, I've gotten pretty good!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11948" Text="Yeah, I played it well!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11883" Text="I have something else to do now..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="3520" Text="I should do this after finding the kids."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="4011" Text="I'll do this after helping the grocery store."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11883" Text="I have something else to do now..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="980" Text="I should relax a little longer..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="1435" Text="It's not the time to go outside now. I need to use the &quot;Compass of Hades&quot; on Plachta..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="2233" Text="I'm tired, so I shouldn't leave town now..."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="30" Text="No, it's not the time to go outside now... I need to look for grandma's book."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="3371" Text="I shouldn't go outside right now."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Starting Synthesis. First, select the item you'd like to make."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Next, select the required materials. Choose a card on screen, then select a material from the ones you possess."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Now you will actually add the materials you chose."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Actions during Synthesis will consume points (CP). If you don't have enough CP, your actions will not do anything."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Next, the attribute value of the material is added. The material's attribute affects what value it contributes to."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Next, the effect power of the material is added. Effect power of materials is averaged together."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Depending on the traits on the material, it can add more attribute value to the item being created."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Attribute value will be added according to the number of attribute spaces. If the attribute of the item matches, move value is added."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Items have their own hidden properties. The total attribute value of added materials can draw out these properties."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="The container is full. Select items to discard (discarded items will be converted to money)."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="You do not have the necessary DLC installed for the loaded save data. Load has been canceled."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="The loaded save data has been modified. Load cancelled."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="The corresponding exploration equipment is not equipped."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Data download is not complete. Load cancelled."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Starting network save. Is this okay?"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Starting network load. Is this okay?"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="You don't possess an item to give."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11569" Text="Is this for me...? Thank you very much, Sophie. I'm very happy."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11570" Text="Is it really okay to have this...? Thank you! I'm happy!"/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11571" Text="Whoa! Is it really okay to take this!? I'm really happy about this!"/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11572" Text="Is it... Really okay to have this? I see... I'm very happy, thank you!"/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11575" Text="This is! I-is it really okay!? ...I'm very fond of things like this. I owe you one."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11573" Text="Are you... Giving this to me? Ehehe... I'm very happy."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11574" Text="Is this for me...? I see. I'll accept it gratefully."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11576" Text="This is wonderful. You seem to know exactly what I like."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11578" Text="Is it really okay to have this? Thank you."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11577" Text="I'm very happy. You're such a good girl, Sophie, giving me such a wonderful gift."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11579" Text="Wow! You're giving this to me!? You really know how to win a girl's heart!"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11581" Text="Oh my... Hehe, I'm happy. Thank you, Sophie."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11580" Text="Are you giving this to me? I'm happy. I'll give you some vegetables sometime!"/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11582" Text="Wow! I'm really happy about this. Thank you very much, Sophie."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11583" Text="I can have this? ...Hehe, I'll take it gratefully."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11584" Text="Wow... Thank you for such a wonderful gift."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11585" Text="Ah, this is good. Thank you, Sophie."/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11586" Text="Huh, this is really good. Can I really have it? Thank you!"/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11589" Text="This looks like a good item. I can tell at a glance. Thank you."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11587" Text="I can have this...? I'm happy. Thank you very much."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11588" Text="Hm... Not bad. I like it."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11590" Text="Ah, this gift makes me happy. Thank you, I'll take it."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11592" Text="Huh, this is great. Thank you, I'll take it."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11591" Text="Oh my, this is good. I can really have it? Thank you."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11593" Text="Wow, I can have this? Yeah, I think it's great."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11595" Text="Hehe, what a wonderful gift. Thank you."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11594" Text="I can really have this? I'll have to repay you sometime."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11596" Text="This is great. I'm really happy, Sophie."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11597" Text="Thank you very much, Sophie. I'll accept it."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11598" Text="Wow, this makes me happy. I'll accept it."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11599" Text="Whoa, thanks! I'll take it!"/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11600" Text="This is good. Thank you."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11603" Text="I see, you're giving this to me. Thank you."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11601" Text="Thank you very much. I'll take it."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11602" Text="...I'll take it."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11604" Text="Not bad at all. I don't dislike it."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11606" Text="Thank you, I'm happy."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11605" Text="I'm happy. Thank you."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11607" Text="Ah. Thank you, Sophie. I'll accept it."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11609" Text="I'll take it gratefully."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11608" Text="This is good. I'll take it gratefully."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11610" Text="Huh... This is good. Thank you very much."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11611" Text="...Well, I'll accept it."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11612" Text="Oh, uh, yeah... I'll take it..."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11613" Text="Oh, this... I'll take it, but..."/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11614" Text="A-ahaha... Yeah, I'm happy... Thanks..."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11617" Text="Wait, this is... I'm thankful for it, but, uh..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11615" Text="Thank you..."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11616" Text="This is... Well, I guess I'll take it..."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11618" Text="Huh? T-this is for me? I-I see. I'll take it..."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11620" Text="This is... Well, I'm happy... I guess, haha..."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11619" Text="Hm? This is for me? This is a little troubling. What should I do..."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11621" Text="A-ahaha, this, huh... Y-yes... T-thank you..."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11623" Text="Wait, this!? Um... Uh... I-I guess I'll take it..."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11622" Text="Oh, this is... Uh, yeah, I'll take it..."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11624" Text="This is... Hmm... I-I'll accept it gratefully..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11625" Text="Uu, this is! Uh, no... I'll still take it..."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11626" Text="Uh, um... This is hard to say, but... Oh, no, I'll accept it..."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11627" Text="...Hey, Sophie. You know I like plants, right? Did you forget?"/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11628" Text="Uu!? Sophie, this is actually kind of... No.. Uh... I'm happy, haha..."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11631" Text="Wha!? U-uh... I-I suppose I'll accept it..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11629" Text="I'll... Accept it..."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11630" Text="This isn't... A prank, right? Well, whatever. I'll take it."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11632" Text="Uh, this is, um... I'm thankful for the thought, but... Uh..."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11634" Text="Oh, yes... I'll take it, thank you..."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11633" Text="You need to consider what people like and dislike when you give them gifts, you know?"/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11635" Text="Wait, this is your gift!? Uh, no, never mind. I'm happy... I mean it, okay?"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11637" Text="Umm... Ahaha, I'm happy, thank you... What should I do with this..."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11636" Text="...You chose this for me? I'll take it. Thank you."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11638" Text="Wait, this couldn't be... Uu... T-thank you very much..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11639" Text="A gift... For me? What did I do to deserve this..."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11640" Text="Huh, a gift for me...? Hehe, now what's this all about?"/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11641" Text="Oh, you're giving something to me? Thanks, Sophie."/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11642" Text="A gift for me? Haha, I'm happy."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11645" Text="Hm, a gift? What are you giving me? This is exciting, no matter how old I get."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11643" Text="You're... Giving something to me? I look forward to it."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11644" Text="A gift...? You're giving something to me...?"/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11646" Text="Oh dear, a gift for me? Hehe, what could it be?"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11648" Text="Hm, a gift for me, huh? What could it be?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11647" Text="Oh my, you're giving me a gift? I'm excited to see what it is."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11649" Text="A gift for me? Hmm, now what exactly is it?"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11651" Text="Ah, Sophie. You're giving something to me?"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11650" Text="A gift for me? I'm happy, what are you giving me?"/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11652" Text="A gift for me? This should be fun."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11653" Text="Sophie. You've given a lot to me, so I've prepared a thank you gift."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11654" Text="Sophie, here. I've brought you a present, as thanks for always."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11655" Text="Hey, Sophie. Thanks as always. I've got something for you."/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11656" Text="Sophie. I've brought you a gift. Would you accept it?"/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11659" Text="Sophie. Will you accept this? It's my way of thanking you."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11657" Text="Sophie, this is from me... As thanks for always..."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11658" Text="Sophie. Just be quiet and take this. It's a thank you gift, nothing special."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11660" Text="Sophie. I've brought you something nice today. You should be happy!"/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11662" Text="Sophie, this is a thank you for always. Will you accept it?"/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11661" Text="Hehe, Sophie. I've brought you a little present today."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11663" Text="Sophie! This is a present from me to you! Here you go!"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11665" Text="Sophie. Here you go. It's a gift from me."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11664" Text="Sophie, you're always giving me things. I've brought something in return."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11666" Text="Sophie. I'm always receiving things from you, so I brought you something today."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11667" Text="I'd be happy if you liked it. I'll be going now."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11668" Text="Thanks as always. I'll see you later."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11669" Text="Use it with care. See you!"/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11670" Text="I just hope you like it. I'll be taking my leave now."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11673" Text="Use it however you see fit. I'll see you again."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11671" Text="Please use it however you like... I'll be going home now."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11672" Text="...I'm done here. See you."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11674" Text="So? It's great, isn't it? I'll be leaving now."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11676" Text="I can't just keep taking things, after all. I'll be going now."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11675" Text="Hehe, do you like it? I'll see you again."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11677" Text="I hope you like it. I'll see you at the café!"/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11678" Text="I'm really thankful for always. See you again."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11679" Text="Hehe, do you like it? I'll be going now. See you."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11680" Text="I'm always grateful for your help. I'll go now..."/>
+    <SysMess CharaTag="CHARA_PLACHTA" NameTag="NAME_PLACHTA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11681" Text="Sophie. I'm grateful, but I can't accept any more."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11682" Text="I'd feel bad taking any more. Maybe another time."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11683" Text="No, I don't want more. I feel bad taking so much."/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11684" Text="No, no. I can't accept that much."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11687" Text="You're always giving me things. I'll just accept your thoughts right now."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11685" Text="You always give me things... I don't need anything right now."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11686" Text="It'll trouble me if you give me so much. I'm sorry, not right now."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11688" Text="Oh... You're always giving me things. I'm sorry, I can't take it now."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11690" Text="No, I can't accept so much. I'll pass for now."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11689" Text="You always give me so much, Sophie... I'm sorry, I can't accept it."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11691" Text="What? I feel bad taking so much from you. I'm sorry."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11693" Text="I'm sorry. I've already accepted so much... I have to refuse for now."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11692" Text="You're always giving me so much, Sophie. I can't accept anything now."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11694" Text="I feel bad taking so much from you. I'll have to refuse for now."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11695" Text="Hmm..."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11696" Text="What to do..."/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11697" Text="Hmm..."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11698" Text="Grr..."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11699" Text="Hm..."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11700" Text="I feel weak..."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11701" Text="What should I do..."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11702" Text="What can I do..."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11703" Text="Now then..."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11704" Text="What should I do..."/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11705" Text="This is troubling..."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11706" Text="What to do..."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11707" Text="Very troubling..."/>
+    <SysMess CharaTag="CHARA_MONIKA" NameTag="NAME_MONIKA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11708" Text="Ah."/>
+    <SysMess CharaTag="CHARA_OTTO" NameTag="NAME_OTTO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11709" Text="Yo!"/>
+    <SysMess CharaTag="CHARA_JULIO" NameTag="NAME_JULIO" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11710" Text="Hey."/>
+    <SysMess CharaTag="CHARA_CANARIA" NameTag="NAME_CANARIA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11711" Text="Ah..."/>
+    <SysMess CharaTag="CHARA_PAUL" NameTag="NAME_PAUL" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11712" Text="Hm..."/>
+    <SysMess CharaTag="CHARA_FILON" NameTag="NAME_FILON" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11713" Text="Hey."/>
+    <SysMess CharaTag="CHARA_HENRI" NameTag="NAME_HENRI" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11714" Text="Ah."/>
+    <SysMess CharaTag="CHARA_PAMELA" NameTag="NAME_PAMELA" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11715" Text="Oh my."/>
+    <SysMess CharaTag="CHARA_LOGIX" NameTag="NAME_LOGIX" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11716" Text="Hey."/>
+    <SysMess CharaTag="CHARA_TESS" NameTag="NAME_TESS" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11717" Text="Hello!"/>
+    <SysMess CharaTag="CHARA_MARGRIT" NameTag="NAME_MARGRIT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11718" Text="Hey."/>
+    <SysMess CharaTag="CHARA_ELISE" NameTag="NAME_ELISE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11719" Text="Ah."/>
+    <SysMess CharaTag="CHARA_HELLMUT" NameTag="NAME_HELLMUT" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="11720" Text="Hm."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="&quot;%S&quot; completed."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="&quot;%S&quot; can be reported."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="&quot;%S&quot; has ended."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="&quot;%S&quot; deadline is near."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="That fruit looks good... Wait, it's a hunter's trap!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="A sudden squall! I'm totally soaked."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found some good fruit. It's fresh and delicious!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Discovered spring water! Good water quenches my thirst."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Chased by a pack of wild dogs. I'm not hurt, but I'm tired from running..."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="The ground suddenly shakes. I tripped and fell!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Ate some delicious fruit. The sweet and sour taste fills my mouth."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found an unusual butterfly. Something good should happen today."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a shining pebble."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a silver shining pebble."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a golden shining pebble."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a rainbow shining pebble."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Returning to title. Is this okay?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11892" Text="Hm, hm. This goes like this, and that like that. Okay, I got it!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11893" Text="Hm, hm, hmm. Okay, I learned it!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11849" Text="Here I go!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11850" Text="Teyah!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11851" Text="Swing!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11852" Text="There!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11853" Text="Eeh!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11854" Text="Juuump!"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11898" Text="I wonder if there's anything good?"/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11899" Text="I'll gather a lot."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11904" Text="Okay."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11905" Text="I'll draw some water."/>
+    <SysMess CharaTag="CHARA_SOPHIE" NameTag="NAME_SOPHIE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SBUC" VoiceNo="11917" Text="Now then. What should I make next?"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a resting cabin for travelers. Took a nice break inside."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a forest full of stumps. Sat down and had a fun chat."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a tree that reaches the heavens. Cooled off in the shade with the sound of rustling leaves."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a spring of clean water. The cool water quenches our thirst."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a nice rock to sit down on. Took a little rest with everyone."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found small ruins to shelter from the elements. Took a nice rest."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Met some adventurers on a journey. They gave us a charm for good luck."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a meadow with lots of flowers. Had fun making garlands."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a lush forest of fresh leaves. Breathing the scent of greenery is refreshing."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a faintly glowing spring. Drinking the water gives us strength."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Amazing scenery spreads below as we walk a mountain path. The beautiful scenery is exciting."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found an altar with a large rock in some ruins. Touching the rock fills the body with warmth."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Met a traveling merchant. Received some delicious snacks."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found lots of ripe fruit on the trees. Everyone enjoyed eating it."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found some suspicious mushrooms growing. Eating them fills the body with energy."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a spring of clear water. Had fun playing in the water."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found something shiny in the ground. After digging it up, it turned out to be money."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found a wagon stuck in the mud. We were given a little something for helping them out."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Picked up a strange glowing rock. A merchant who passed by insisted on buying it."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Found an old jar by the roadside. After opening it, we found that it was full of money."/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Heard some rustling in the bushes. Monsters suddenly came leaping out!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="I thought I tripped on something, and it turned out to be monsters in the ground!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="The air in front of us seemed distorted. Monsters suddenly appeared!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="While gazing out at the water, monsters suddenly came jumping out!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Monsters suddenly came leaping out from between the rocks!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="A pack of monsters came out of the bushes, and we were surrounded before we knew it!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Monsters came jumping out from up in the trees!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="We heard a splashing sound behind us, and we turned around to see a pack of glaring monsters!"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Ending game. Are you sure?"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Save the data ?"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="Load the data ?"/>
+    <SysMess CharaTag="CHARA_NONE" NameTag="NAME_NONE" BucTag="BUC_NONE" BalloonMode="BALLOON_MODE_SYSTEM" VoiceNo="-1" Text="There is no save data"/>
+</Root>

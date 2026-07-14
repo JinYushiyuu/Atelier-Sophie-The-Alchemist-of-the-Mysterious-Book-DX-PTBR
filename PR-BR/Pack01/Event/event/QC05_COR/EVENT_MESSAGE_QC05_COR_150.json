@@ -1,0 +1,130 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_COR_150.ebm",
+    "nb_messages": 0xe,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Logy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Logy might know something about the Machine Box...?)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hm? Need something?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "I wanted you to take a look at this..."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Showed Logy the \"Machine Box\"."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "...Do you know what this is? I thought you might be familiar with things like this..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Hmm... This is..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "The switch... Doesn't seem to move..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "...Do you know anything about it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "I'm a blacksmith. I work with metals, but I don't know much about precise machines like this."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "I might figure something out if I could take it apart, but I would probably end up breaking something this delicate."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Sorry I couldn't be of any help."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "No, it's okay. Thank you for looking!"
+        }
+    ]
+}

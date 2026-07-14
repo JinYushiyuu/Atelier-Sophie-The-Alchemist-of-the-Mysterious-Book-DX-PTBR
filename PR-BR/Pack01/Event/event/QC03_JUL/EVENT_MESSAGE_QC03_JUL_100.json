@@ -1,0 +1,574 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_JUL_100.ebm",
+    "nb_messages": 0x40,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "I think we've checked all the rooms... Ah!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hello, Julio!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Nazarus, it's been quite a while."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Yes it has. By the way, could she be an alchemist...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Yes, I'm Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Sophie is a very skilled alchemist. I can guarantee that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Sophie, this is Nazarus. He's the one who I want you to cure."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Huh...? This person...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Hm? Is there something weird about me?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "No, I just heard that you needed medicine, but you seem to be doing fine."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Ah, this isn't a matter of illness."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Really? Then what...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "His left arm."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Huh, his arm?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Yes, I can sense a strange power from his left arm."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x55,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Correct."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "W-what's that arm!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x56,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Long ago, I fought a powerful monster. This happened due to one of its abilities."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "It looks like it's spread further..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x56,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "It has. At first, it was only up to my wrist, but now you can see how far it's progressed."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "It seems that monster's power has entered your body."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x56,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Yes. Sometimes, I lose control of myself, and end up running wild."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x57,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "That's why I stick to places without any people around, and travel trying to find a cure."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "By the way, Nazarus. What is this place...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "I don't know. It seemed to be abandoned, so I thought it would be the perfect place to hide."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "The documents seem to say that they were doing some sort of research here before. Although I didn't find any clues..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "So do you have any ideas about how to cure him, Sophie?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "...I'm sorry. I don't know... I didn't think it would be something like this..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "That's fine. I have an idea."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x1f,
+            "msg_string": "You do, Plachta!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Yes. Nazarus's condition is very similar to cases where people are poisoned by monsters."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "The symptoms aren't exactly the same, but I have seen someone with a similar condition."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "And... Were they cured?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Yes, they were. Medicine was used for it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "That's good. Then it sounds like we can do something. But how would I make the medicine?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x25,
+            "msg_string": "Unfortunately, I can't remember the exact method of making it. However, I know the theory behind it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x26,
+            "msg_string": "I'm sure you can use that theory to create the medicine yourself, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Yeah. I don't know if I'll be able to make it, but it's worth going to the atelier and trying."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x28,
+            "msg_string": "Thanks for that. Come back when you're don-... Gaah!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x29,
+            "msg_string": "Nazarus!? What's wrong?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x5d,
+            "expr_id": 0x3,
+            "msg_id": 0x2a,
+            "msg_string": "My arm...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1f,
+            "expr_id": 0x3,
+            "msg_id": 0x2b,
+            "msg_string": "Are you... Losing control again!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0x2c,
+            "msg_string": "No way!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x5d,
+            "expr_id": 0x3,
+            "msg_id": 0x2d,
+            "msg_string": "AAAAAAAAAH!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Nazarus..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "unknown2": 0x2,
+            "msg_string": "GAAAAAAH!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x30,
+            "msg_string": "He's lost his mind. This isn't good..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x31,
+            "unknown2": 0x2,
+            "msg_string": "GAAAAAAH!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x32,
+            "msg_string": "Eeek!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x33,
+            "unknown2": 0x2,
+            "msg_string": "AAAAAAAAAAA!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x34,
+            "msg_string": "I-I was saved...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x35,
+            "msg_string": "It seems the floor couldn't hold his weight..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x36,
+            "msg_string": "I wonder if he's okay...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x37,
+            "msg_string": "I can hear him, he should be fine."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6c,
+            "expr_id": 0x0,
+            "msg_id": 0x38,
+            "msg_string": "Sophie, we should return to town and prepare that medicine."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x39,
+            "msg_string": "It's possible that he will regain control after some time passes. We need to finish the medicine by then."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0x3a,
+            "msg_string": "Yeah, you're right. I need to do whatever I can for now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x3b,
+            "msg_string": "Sir Julio, let's go back to town."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3c,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3d,
+            "msg_string": "Sir Julio!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x3e,
+            "msg_string": "O-oh, sorry. You're right, we need to hurry..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x3f,
+            "msg_string": "Yeah!"
+        }
+    ]
+}

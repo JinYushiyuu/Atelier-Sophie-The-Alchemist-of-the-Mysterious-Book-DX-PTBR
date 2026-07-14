@@ -1,0 +1,95 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM07_100.ebm",
+    "nb_messages": 0xa,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Haah, haah... We did it... We won..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Well fought, Sophie. Are you injured?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Oh, no. I'm okay."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "That's good."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Now then..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "This should do it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Here you are, Sophie. These are the \"Eternity Scales\" you desired."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Wow... Thank you very much!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "There's no need for thanks. I'm just happy to have been of use to you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Now that we're done here, we shouldn't linger for too long. Let's return."
+        }
+    ]
+}

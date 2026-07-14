@@ -1,0 +1,174 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_330.ebm",
+    "nb_messages": 0x13,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sophie! Plachta! Are you home?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Wah, Leon. What's wrong?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Nothing's wrong. I finished Plachta's clothes, so I brought them over."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Here you go."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Wow..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "This is..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "What do you think? I emphasized ease of mobility, but I also made it feminine."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Leon...! These clothes are amazing!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "Yes. I didn't even imagine that it would be to this degree of perfection."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Sounds like you like it, that's good."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Yeah, I really like it! Right, Plachta?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "Yes, they're... Quite to my liking."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "That's good. Anyway, I should get going."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "I want to see you wearing those clothes real soon, got it? Promise me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Yes, we promise. Thank you so much!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Hehe. See you later."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Leon really is amazing... She was able to make such lovely clothes..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "Yes, she possesses quite a level of skill... She's obviously not ordinary, even from my point of view."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Yeah. Anyway, this is another step forward in Operation Humanize Plachta!"
+        }
+    ]
+}

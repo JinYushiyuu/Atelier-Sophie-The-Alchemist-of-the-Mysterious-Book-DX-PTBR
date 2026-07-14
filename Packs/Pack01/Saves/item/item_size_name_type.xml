@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <item_size_name_type NameTag="ITEM_SIZE_NAME_TYPE_0" size0="For Ants" size1="Tiny" size2="Average" size3="Big" size4="Monstrous"/>
+    <item_size_name_type NameTag="ITEM_SIZE_NAME_TYPE_1" size0="Mini" size1="Small" size2="Average" size3="Huge" size4="Infinite"/>
+</Root>

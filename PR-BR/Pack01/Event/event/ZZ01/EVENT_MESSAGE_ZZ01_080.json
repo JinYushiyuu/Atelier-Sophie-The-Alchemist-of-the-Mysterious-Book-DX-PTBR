@@ -1,0 +1,34 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_ZZ01_080.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "<CLGR>Taking actions in the field uses LP.<CLNR> When you touch an enemy while at low LP, you will have lower stats."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "<CLGR>Using items in the field consumes use count.<CLNR> Once the count reaches 0, you cannot use the item anymore."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "<CLGR>LP and item count will be restored when you return to the atelier.<CLNR> You should return when things get tough."
+        }
+    ]
+}

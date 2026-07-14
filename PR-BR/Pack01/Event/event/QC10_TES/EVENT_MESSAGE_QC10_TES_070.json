@@ -1,0 +1,158 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_TES_070.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Tess."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Sophie. Welcome. Hey, I have something I want to ask you again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Again? ...What is it this time?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Heh heh heh... This time, I want you to make me some poison..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "P-poison!? W-wait, Tess...! Don't tell me you're going to poison someone...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Uh... Do I really seem like someone who'd do that?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "No, but... But if you ask for poison, there's only really one..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I'm going to use it on my yard."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Wait, your yard?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Yup. You know how I blew up that rock the other day, right? That made a big crater in my yard."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "There's a big hole, and weeds growing everywhere, so I figured I'd just clean everything up at once."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Um... Does that mean you're going to use poison to kill the weeds...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Hey, you're pretty sharp. That's right."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(Hmm... Then she should just use an herbicide...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "So, anyway... Can you make me that poison?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "*Sigh*... Yeah, I can try making it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3c,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Thanks! You really are reliable, Sophie!"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="SHIFT-JIS"?>
+<Root>
+	<photoModeCharaFace chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+	<photoModeCharaFace chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_022" blow="-1" eye="-1" mouth="-1"/>
+	<photoModeCharaFace chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_060" blow="1" eye="1" mouth="3"/>
+	<photoModeCharaFace chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_061" blow="1" eye="1" mouth="2" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_062" blow="2" eye="2" mouth="5"/>
+	<photoModeCharaFace chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_063" blow="2" eye="2" mouth="4" mouth_time="0.3"/>
+	<photoModeCharaFace chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_064" blow="3" eye="3" mouth="7"/>
+</Root>

@@ -1,0 +1,167 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_060.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Sophie! This is bad!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Oskar!? What's wrong? You're covered in sweat!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Haah, haaah... A monster! A monster appeared!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "A monster...? Where?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x23,
+            "expr_id": 0xe,
+            "msg_id": 0x4,
+            "msg_string": "Haah... Haah... I was outside the town observing plants like usual."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0xe,
+            "msg_id": 0x5,
+            "msg_string": "I thought it was safe because I always go there, but... There was a terrible monster."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Huh... So, Oskar. What about this monster?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x5,
+            "expr_id": 0xd,
+            "msg_id": 0x7,
+            "msg_string": "That should be obvious. I want you to come with me and defeat it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "...What? Me? Why?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "You should already know. I'm not very strong at all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Please, Sophie! You're the only person I can ask!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "I made a promise with those plants. I told them I'd bring them some special fertilizer!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Just think of it as helping me and the plants! Please! I'm begging you!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Hmm, well if you're that desperate, I guess I can go..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1e,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Thank you, Sophie! I won't forget this, I owe you!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x42,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Oh, I already told Monika about it too! I'll see you in a bit!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "So much for me being the only person he could ask! He just says whatever's convenient to him!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x39,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "But I said I'd go... *Sigh*. I don't really care about this, but I guess I have to..."
+        }
+    ]
+}

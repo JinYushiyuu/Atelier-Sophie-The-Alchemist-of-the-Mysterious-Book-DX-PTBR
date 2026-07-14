@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_sub_status01_alclv" texture="ui/a17_sub_status.g1t" texture_index="0" uvwh="275,1,100,32"/>
+	<image name="gen_a17_sub_status01_hp" texture="ui/a17_sub_status.g1t" texture_index="0" uvwh="200,1,64,32"/>
+	<image name="gen_a17_sub_status01_lp" texture="ui/a17_sub_status.g1t" texture_index="0" uvwh="137,1,64,32"/>
+	<image name="gen_a17_sub_status01_lv" texture="ui/a17_sub_status.g1t" texture_index="0" uvwh="7,1,64,32"/>
+	<image name="gen_a17_sub_status01_mp" texture="ui/a17_sub_status.g1t" texture_index="0" uvwh="70,1,65,32"/>
+	<image_list name="gen_a17_sub_status01_ph01">
+		<image name="gen_a17_sub_status01_ph01__xLIST00" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="1100,0,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST01" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="0,256,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST02" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="0,480,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST03" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="288,0,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST04" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="288,224,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST05" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="288,448,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST06" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="560,0,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST07" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="560,224,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST08" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="560,448,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST09" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="832,0,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST10" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="832,224,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST11" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="832,448,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST12" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="1100,224,256,208"/>
+		<image name="gen_a17_sub_status01_ph01__xLIST13" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="1100,448,256,208"/>
+	</image_list>
+	<image_list name="gen_a17_sub_status01_ph02">
+		<image name="gen_a17_sub_status01_ph02__xLIST00" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="1166,1,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST01" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="53,257,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST02" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="57,481,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST03" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="352,1,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST04" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="352,225,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST05" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="352,449,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST06" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="630,1,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST07" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="624,225,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST08" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="624,449,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST09" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="893,1,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST10" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="895,225,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST11" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="911,449,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST12" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="1172,226,106,188"/>
+		<image name="gen_a17_sub_status01_ph02__xLIST13" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="1172,450,106,188"/>
+	</image_list>
+	<image name="gen_a17_sub_status01_photoback" texture="ui/a17_sub_status.g1t" texture_index="1" uvwh="0,-1,272,224"/>
+	<image name="gen_a17_sub_status01_status" texture="ui/a17_sub_status.g1t" texture_index="0" uvwh="0,175,354,209"/>
+	<image name="gen_a17_sub_status01_tag" texture="ui/a17_sub_status.g1t" texture_index="0" uvwh="0,64,320,96"/>
+</root>

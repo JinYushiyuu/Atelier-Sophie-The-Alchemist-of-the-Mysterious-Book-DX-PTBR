@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_123" day_time="morning" people_data="LOGIX" start_ev="MM09_010" end_ev="MM09_140" message_data="MM09_010_LOGIX"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_123" day_time="noon" people_data="LOGIX" start_ev="MM09_010" end_ev="MM09_140" message_data="MM09_010_LOGIX"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_123" day_time="evening" people_data="LOGIX" start_ev="MM09_010" end_ev="MM09_140" message_data="MM09_010_LOGIX"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="morning" people_data="LOGIX" start_ev="QC08_LOG_050" end_ev="QC08_LOG_060" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="TOWN_12_LOGIX_EV1"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="noon" people_data="LOGIX" start_ev="QC08_LOG_050" end_ev="QC08_LOG_060" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="TOWN_12_LOGIX_EV1"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="evening" people_data="LOGIX" start_ev="QC08_LOG_050" end_ev="QC08_LOG_060" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="TOWN_12_LOGIX_EV1"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="morning" people_data="LOGIX" start_ev="QC08_LOG_080" end_ev="QC08_LOG_090" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="TOWN_12_LOGIX_EV2"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="noon" people_data="LOGIX" start_ev="QC08_LOG_080" end_ev="QC08_LOG_090" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="TOWN_12_LOGIX_EV2"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="evening" people_data="LOGIX" start_ev="QC08_LOG_080" end_ev="QC08_LOG_090" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="TOWN_12_LOGIX_EV2"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_123" day_time="morning" people_data="LOGIX" start_ev="XF05_070" end_ev="MS01_070" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_070_LOGIX"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_123" day_time="noon" people_data="LOGIX" start_ev="XF05_070" end_ev="MS01_070" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_070_LOGIX"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_123" day_time="evening" people_data="LOGIX" start_ev="XF05_070" end_ev="MS01_070" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_070_LOGIX"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_124" day_time="morning" people_data="JULIO" start_ev="XF05_070" end_ev="MS01_070" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_070_JULIO"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_124" day_time="noon" people_data="JULIO" start_ev="XF05_070" end_ev="MS01_070" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_070_JULIO"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_124" day_time="evening" people_data="JULIO" start_ev="XF05_070" end_ev="MS01_070" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_070_JULIO"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="morning" people_data="LOGIX" start_ev="XF04_190" end_ev="QC12_HOR_160" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="LOGIX_TOWN01_12"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="noon" people_data="LOGIX" start_ev="XF04_190" end_ev="QC12_HOR_160" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="LOGIX_TOWN01_12"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="evening" people_data="LOGIX" start_ev="XF04_190" end_ev="QC12_HOR_160" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="LOGIX_TOWN01_12"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="morning" people_data="LOGIX" start_ev="XF01_090" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="LOGIX_TOWN01_12"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="noon" people_data="LOGIX" start_ev="XF01_090" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="LOGIX_TOWN01_12"/>
+	<T01_TOWN_12_flower marker_data="T01_TOWN_122" day_time="evening" people_data="LOGIX" start_ev="XF01_090" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" call_menu="SHOP_WEPON" message_data="LOGIX_TOWN01_12"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="morning" people_data="NPC06A" start_ev="MM01_010" end_ev="MM02_130" message_data="TOWN_12_NPC06A_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="noon" people_data="NPC06A" start_ev="MM01_010" end_ev="MM02_130" message_data="TOWN_12_NPC06A_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="evening" people_data="NPC06A" start_ev="MM01_010" end_ev="MM02_130" message_data="TOWN_12_NPC06A_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_00" day_time="morning" people_data="NPC26B" start_ev="MM01_010" end_ev="MM02_130" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_00" day_time="noon" people_data="NPC26B" start_ev="MM01_010" end_ev="MM02_130" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_00" day_time="evening" people_data="NPC26B" start_ev="MM01_010" end_ev="MM02_130" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="morning" people_data="NPC06A" start_ev="MM02_130" end_ev="MM02_210" message_data="TOWN_12_NPC06A_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="noon" people_data="NPC06A" start_ev="MM02_130" end_ev="MM02_210" message_data="TOWN_12_NPC06A_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="evening" people_data="NPC06A" start_ev="MM02_130" end_ev="MM02_210" message_data="TOWN_12_NPC06A_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_01" day_time="morning" people_data="NPC26B_ACT_3" start_ev="MM02_130" end_ev="MM02_210" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_01" day_time="noon" people_data="NPC26B_ACT_3" start_ev="MM02_130" end_ev="MM02_210" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_01" day_time="evening" people_data="NPC26B_ACT_3" start_ev="MM02_130" end_ev="MM02_210" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_00"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="morning" people_data="NPC06A" start_ev="MM02_210" end_ev="MM06_020" message_data="TOWN_12_NPC06A_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="noon" people_data="NPC06A" start_ev="MM02_210" end_ev="MM06_020" message_data="TOWN_12_NPC06A_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="evening" people_data="NPC06A" start_ev="MM02_210" end_ev="MM06_020" message_data="TOWN_12_NPC06A_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_00" day_time="morning" people_data="NPC26B" start_ev="MM02_210" end_ev="MM06_020" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_00" day_time="noon" people_data="NPC26B" start_ev="MM02_210" end_ev="MM06_020" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_00" day_time="evening" people_data="NPC26B" start_ev="MM02_210" end_ev="MM06_020" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="morning" people_data="NPC06A" start_ev="MM06_020" end_ev="MM07_010" message_data="TOWN_12_NPC06A_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="noon" people_data="NPC06A" start_ev="MM06_020" end_ev="MM07_010" message_data="TOWN_12_NPC06A_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="evening" people_data="NPC06A" start_ev="MM06_020" end_ev="MM07_010" message_data="TOWN_12_NPC06A_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_01" day_time="morning" people_data="NPC26B_ACT_3" start_ev="MM06_020" end_ev="MM07_010" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_01" day_time="noon" people_data="NPC26B_ACT_3" start_ev="MM06_020" end_ev="MM07_010" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_01" day_time="evening" people_data="NPC26B_ACT_3" start_ev="MM06_020" end_ev="MM07_010" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_10"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="morning" people_data="NPC06A" start_ev="MM07_010" message_data="TOWN_12_NPC06A_20"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="noon" people_data="NPC06A" start_ev="MM07_010" message_data="TOWN_12_NPC06A_20"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC06A_00" day_time="evening" people_data="NPC06A" start_ev="MM07_010" message_data="TOWN_12_NPC06A_20"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_00" day_time="morning" people_data="NPC26B" start_ev="MM07_010" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_20"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_00" day_time="noon" people_data="NPC26B" start_ev="MM07_010" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_20"/>
+	<T01_TOWN_12_flower marker_data="POS_NPC26B_00" day_time="evening" people_data="NPC26B" start_ev="MM07_010" ex1_start_ev="QC01_MON_010" ex1_end_ev="QC01_MON_060" message_data="TOWN_12_NPC26B_20"/>
+</Root>

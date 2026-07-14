@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓アニメーションxmlの読み込み-->
+		<command load_anim="Saves/ui/uia_common.xml"/>
+		<command load_anim="Saves/ui/a17_shop/uia_a17_store.xml"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" color="255.00, 255.00, 255.00, 128.00" viewer_visible="false"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="Top" visible="false" viewer_visible="true">
+		<image name="w03" style="gen_a17_shop01_demand" pos="361.00, 151.00, 0.00" viewer_visible="false">
+			<node name="page0" visible="false" viewer_visible="true">
+				<text text="To Ms. Sophie" name="text" pos="281, 115, -0" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN"/>
+				<text text="Cole" name="text" pos="277.00, 202.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="99999" name="money" pos="272.00, 202.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="right" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="page1" visible="false" viewer_visible="false" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="Not enough money." name="text" pos="283, 116, -0" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" word_space="-1.00"/>
+				<text text="Automatic refill cancelled." name="text" pos="287, 199, -0" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" word_space="-1.00"/>
+				<text text="Please tell me when to restart it." name="text" pos="285, 239, 0" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN"/>
+			</node>
+			<image name="stamp_image" pos="324.00, 248.00, -0.00" style="gen_a17_shop01_sign" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="30.00, 30.00, 60.00, 255.00" viewer_visible="true" size_wh="189.00, 66.00, 0.00" visible="false" pivot_enable="true" pivot_pos="90.00, 33.00, 0.00"/>
+		</image>
+	</node>
+	<!--***↓アニメーションデータ ***-->
+	<anim_ctrl name="fade_in" viewer_key_assign="0" start_visible="true">
+		<bind_node node="Top" anim="store_common_fade_in"/>
+	</anim_ctrl>
+	<anim_ctrl name="fade_out" viewer_key_assign="1" end_visible="false">
+		<bind_node node="Top" anim="store_common_fade_out"/>
+	</anim_ctrl>
+	<anim_ctrl name="stamp" viewer_key_assign="2" start_visible="true" speed="3.00">
+		<bind_node node="stamp_image" anim="store_stamp"/>
+	</anim_ctrl>
+</root>

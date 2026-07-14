@@ -1,0 +1,184 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_LEO_020.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Leon, what are you doing here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "I came to look at the area."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "The area...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Yeah. To tell the truth, I was planning to open a shop around here. Well, it would be more like a street stall."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "You're going to open a shop... Does that mean it would be a clothing shop?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Yup, that's right. I plan to stock all kinds of clothes that I make."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "Wow...! I'd love to see it when it opens!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hehe, thanks. I'd appreciate it if you came."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "But... There's just one thing I'm concerned about."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "What's that?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Materials for my clothes. This was a sudden decision, so I don't know where to acquire the cloth I need."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "At this rate, it'll just be a shop without anything in it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "I see, you need cloth..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Um, Leon. Does it matter what kind of cloth you have?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Let's see... I'm not catering to rich snobs or anything, so it doesn't have to be high class stuff..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "I'd just like to have all kinds of different cloths to work with."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "In that case, I could prepare cloth for you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Wait, you? ...Were you running a fabric store or something?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "No, I'm not... But it'll be okay. I want to see your shop as soon as possible."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "...I see. Well then, I guess I'll leave it up to you. I'm counting on you, Sophie."
+        }
+    ]
+}

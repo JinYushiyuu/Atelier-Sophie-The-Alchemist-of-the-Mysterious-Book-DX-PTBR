@@ -1,0 +1,163 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_COR_020.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "...Ah, it's the girl from before."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hello."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x25,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x25,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "...H-hello."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "...D-do you need something?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oh, no, sorry about that. I just didn't recognize you, where did you come from?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x25,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "...I've always lived here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Huh? You have? You look very unique, I doubt I would forget you if I saw you before."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x25,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "I just normally don't come here..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "I see."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x25,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "I live near the edge of town..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "I didn't know... You're wearing unusual clothes, I've never seen anything like it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x25,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "...Are they really unusual? I never noticed until now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Although the neighbors do say that a lot. But I like them, they're really open and breathable."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Yeah, it looks really cool!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x25,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Anyway, I'll be leaving."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Oh."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "...What was she doing? I didn't even get a chance to ask her name."
+        }
+    ]
+}

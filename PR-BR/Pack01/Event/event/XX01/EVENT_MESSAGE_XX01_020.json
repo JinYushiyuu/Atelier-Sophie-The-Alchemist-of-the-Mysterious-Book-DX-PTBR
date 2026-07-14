@@ -1,0 +1,139 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_020.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "All right, I'm done! I've fixed Grandma's clothes!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "It went pretty well, considering I've never done it before. Now, time to try them on."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Okay then, let's start with this... And this one next..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Tadaa! How's that?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Yes, pretty impressive, if I do say so myself! Hehehe!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "...Ahem. \"Don't worry, everyone. Just leave this request to me.\" I sound just like her!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "I'm getting closer to Grandma every day! Hehe..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Strong, kind, stylish... Relied on and respected by everyone..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "I really do want to be as great an alchemist as Grandma was..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "...Yes. Perhaps wearing these clothes might help me take that next step closer."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I feel so much stronger, with Grandma looking down on me..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Then it's settled! It's time to get synthesizing. I have to be more like her...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Okay, I'm feeling it now! Time for me to see just how close I can get to Grandma's level!"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You can now change costumes in the Dressing Room."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You can access the Dressing Room from the System Menu at the atelier's desk, or the World Map."
+        }
+    ]
+}

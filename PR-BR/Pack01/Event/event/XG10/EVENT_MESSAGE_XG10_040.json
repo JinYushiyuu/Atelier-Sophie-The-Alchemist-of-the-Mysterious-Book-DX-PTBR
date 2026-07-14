@@ -1,0 +1,16 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XG10_040.ebm",
+    "nb_messages": 0x1,
+    "messages": [
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Every clock shows the same time, without any deviation. It's as though they refuse to fall out of order at all."
+        }
+    ]
+}

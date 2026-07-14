@@ -1,0 +1,97 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_HOR_140.ebm",
+    "nb_messages": 0xa,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Magnificent! Just as I'd expect of you, Sophie. You've done very well."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "With this, you are now a request contractor of the highest rank."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I did it!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x47,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Um, Mr. Horst? Since I'm the highest rank now, does that mean the rewards are the highest too?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Of course."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ehehe, I'm going to make lots of money."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Still, to think that little Sophie has grown so much... It brings a tear to my eye..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hey wait, this isn't something to cry over."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Today's on the house. Please order as much as you want."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Wait, really? As much as I want? Yay!"
+        }
+    ]
+}

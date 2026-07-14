@@ -1,0 +1,159 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_060.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Alright, they're done."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "I'll go call Fritz."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Hm..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "How are they...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Yes, these are good swords."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "I see, that's a relief."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "What, you weren't confident about them?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I don't have many opportunities to make two swords that are intended to be used at the same time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Wait, really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Yeah. Most people only use one sword at a time. There's a lot of people who use a shield with it too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "And if you're going to hold two at once, you're better off holding one sword that's bigger."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Now that you mention it, Monika and Julio do that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Hah, once you get used to it, using two swords is just as effective."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Why do you use two swords?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "It's easier to handle unforeseen situations, and it's better for fighting multiple monsters alone."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Huh..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Anyway, thank you. I'll use them with care."
+        }
+    ]
+}

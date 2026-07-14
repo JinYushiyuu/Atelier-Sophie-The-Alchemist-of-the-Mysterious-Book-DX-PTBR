@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<mixMotionData motion_0="MOTION_F_WAIT" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="-1" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_WAIT_LONG" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="0" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_EV_NORMAL1" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="-1" facial_0="1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_ACT_02" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="-1" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_TALK" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="-1" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_EV_NORMAL1" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="-1" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_EV_NORMAL2" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="0" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_EV_HAPPY" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="0" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_EV_HAPPY" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="0" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_EV_ACT_5" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="1" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_EV_NORMAL1" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="-1" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_EV_HAPPY" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="1" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+	<mixMotionData motion_0="MOTION_EV_ACT_6" st_0="0" DivNo_0="1" ed_0="2" LoopNum_0="1" facial_0="-1" motion_1="MOTION_F_WAIT" st_1="0" DivNo_1="1" ed_1="2" LoopNum_1="-1" facial_1="-1"/>
+</Root>

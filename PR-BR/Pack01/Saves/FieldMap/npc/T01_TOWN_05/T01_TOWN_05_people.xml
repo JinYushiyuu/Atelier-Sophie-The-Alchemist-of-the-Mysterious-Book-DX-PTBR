@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_05_people people_data="MONIKA" chara_tag="MONIKA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_05_people people_data="OTTO" chara_tag="OTTO" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_05_people people_data="JULIO" chara_tag="JULIO" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_05_people people_data="ELISE" chara_tag="ELISE" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_05_people people_data="MONIKA_SONG" chara_tag="MONIKA" mot_idx="0" wait_mot="ACT_01" talk_mot="ACT_01" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_05_people people_data="OTTO_PLANT" chara_tag="OTTO" mot_idx="0" wait_mot="ACT_01" talk_mot="ACT_01" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_05_people people_data="NPC27A" chara_tag="NPC27A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_05_people people_data="NPC25A" chara_tag="NPC25A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_05_people people_data="DOG" chara_tag="E3D_COMMON_CHARA_DUMMY_01" mot_idx="0" wait_mot="F_WAIT" talk_mot="F_WAIT" gravity="1"/>
+	<T01_TOWN_05_people people_data="NPC26B" chara_tag="NPC26B" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" notTurn="1" talk="1"/>
+</Root>

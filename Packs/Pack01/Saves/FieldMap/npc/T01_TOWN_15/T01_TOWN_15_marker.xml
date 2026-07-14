@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_15_marker marker_data="T01_TOWN_15_PAMELA" pos_x="23.64" pos_y="0" pos_z="36.4" rotate_y="-120"/>
+	<T01_TOWN_15_marker marker_data="T01_TOWN_15_RNPC01A" pos_x="14.7" pos_y="0" pos_z="30.6" rotate_y="131"/>
+	<T01_TOWN_15_marker marker_data="QC01_MON_090_MONIKA" pos_x="20.91" pos_y="0" pos_z="29.49" rotate_y="340"/>
+	<T01_TOWN_15_marker marker_data="QC01_MON_120_MONIKA" pos_x="21.53" pos_y="0" pos_z="19.55" rotate_y="0"/>
+	<T01_TOWN_15_marker marker_data="QC01_MON_130_MONIKA" pos_x="22.34" pos_y="0" pos_z="34.19" rotate_y="-192"/>
+	<T01_TOWN_15_marker marker_data="QC01_MON_130_PAMELA" pos_x="23.91" pos_y="0" pos_z="35.66" rotate_y="-156"/>
+	<T01_TOWN_15_marker marker_data="QC01_MON_130_NPC26A" pos_x="23.72" pos_y="0" pos_z="32.92" rotate_y="-12"/>
+	<T01_TOWN_15_marker marker_data="QC01_MON_130_NPC26B" pos_x="24.54" pos_y="0" pos_z="32.88" rotate_y="-17"/>
+	<T01_TOWN_15_marker marker_data="QC01_MON_130_NPC27A" pos_x="22.85" pos_y="0" pos_z="32.87" rotate_y="-6"/>
+	<T01_TOWN_15_marker marker_data="QC01_MON_130_RNPC01A" pos_x="22.43" pos_y="0" pos_z="36.55" rotate_y="-184"/>
+	<T01_TOWN_15_marker marker_data="QC12_HOR_060_HELLMUT" pos_x="19.75" pos_y="0" pos_z="36.73" rotate_y="0"/>
+	<T01_TOWN_15_marker marker_data="QC12_HOR_060_RNPC01A" pos_x="19.75" pos_y="0" pos_z="38.45" rotate_y="-180"/>
+	<T01_TOWN_15_marker marker_data="MS01_090_PAMELA" pos_x="23.64" pos_y="0" pos_z="36.4" rotate_y="-120"/>
+	<T01_TOWN_15_marker marker_data="MS01_090_FILON" pos_x="20.52" pos_y="0" pos_z="35.42" rotate_y="0"/>
+	<T01_TOWN_15_marker marker_data="MS01_120_PAMELA" pos_x="20.33" pos_y="0" pos_z="33.78" rotate_y="319"/>
+	<T01_TOWN_15_marker marker_data="MS01_120_PAUL" pos_x="19.23" pos_y="0" pos_z="35.01" rotate_y="13"/>
+	<T01_TOWN_15_marker marker_data="MS01_190_MARGRIT" pos_x="19.99" pos_y="0" pos_z="15.08" rotate_y="161"/>
+	<T01_TOWN_15_marker marker_data="QC03_JUL_050_RNPC01A" pos_x="9.43" pos_y="0" pos_z="25.95" rotate_y="35"/>
+	<T01_TOWN_15_marker marker_data="QC03_JUL_050_JULIO" pos_x="10.35" pos_y="0" pos_z="26.72" rotate_y="-130"/>
+	<T01_TOWN_15_marker marker_data="QC09_PAM_050_PAMELA" pos_x="20" pos_y="0" pos_z="36" rotate_y="0"/>
+	<T01_TOWN_15_marker marker_data="QC09_PAM_080_PAMELA" pos_x="20" pos_y="0" pos_z="36" rotate_y="0"/>
+	<T01_TOWN_15_marker marker_data="QC09_PAM_160_PAMELA" pos_x="20" pos_y="0" pos_z="36" rotate_y="0"/>
+	<T01_TOWN_15_marker marker_data="POS_NPC26A_00" pos_x="24" pos_y="0.1" pos_z="8.1" rotate_y="0"/>
+	<T01_TOWN_15_marker marker_data="POS_NPC26B_00" pos_x="18" pos_y="0" pos_z="38.3" rotate_y="49"/>
+	<T01_TOWN_15_marker marker_data="POS_NPC26B_01" pos_x="26.8" pos_y="0" pos_z="26.5" rotate_y="10"/>
+	<T01_TOWN_15_marker marker_data="POS_NPC26B_02" pos_x="13" pos_y="0" pos_z="2.1" rotate_y="-10"/>
+	<T01_TOWN_15_marker marker_data="POS_NPC26B_03" pos_x="14.4" pos_y="0" pos_z="30.9" rotate_y="-50"/>
+	<T01_TOWN_15_marker marker_data="POS_NPC26B_04" pos_x="26.8" pos_y="0" pos_z="25.5" rotate_y="100"/>
+	<T01_TOWN_15_marker marker_data="POS_NPC27A_00" pos_x="15.5" pos_y="0.1" pos_z="14.4" rotate_y="0"/>
+</Root>

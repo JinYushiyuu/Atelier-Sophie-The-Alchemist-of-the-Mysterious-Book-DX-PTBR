@@ -1,0 +1,130 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC08_LOG_020.ebm",
+    "nb_messages": 0xe,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "(Oh, it's Logy... What's he doing in a place like that?)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Logy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hm, Sophie? Why are you here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "That's my line. Why are you in a place like this, Logy?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "This is my shop, starting today. I'm making preparations now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Wait, a shop? What kind of shop is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "What kind of shop? ...It's obviously a blacksmithing shop..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "What!? You were a blacksmith!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Uh... Why are you so surprised... We were living in the same town for years, you know?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "That's true, but... I didn't know that at all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "...Well, it's fine. Anyway, I'm opening a blacksmith shop here, so maybe you could help me spread the word?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Oh, okay. I understand. I'll let everyone know."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Thanks for that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(That reminds me, I've been going outside a lot lately... Maybe I should ask Logy to make me some weapons too?)"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="SHIFT-JIS"?>
+<Root>
+	<photoModeMobList chara_tag="CHARA_LOGIX" event="EVENT_QC08_LOG_010"/>
+	<photoModeMobList chara_tag="CHARA_PAMELA" event="EVENT_QC09_PAM_010"/>
+	<photoModeMobList chara_tag="CHARA_TESS" event="EVENT_QC10_TES_010"/>
+	<photoModeMobList chara_tag="CHARA_ELISE" event="EVENT_QC11_ELI_010"/>
+	<photoModeMobList chara_tag="CHARA_HELLMUT" event="EVENT_MM01_070"/>
+	<photoModeMobList chara_tag="CHARA_MEKLET" event="EVENT_MM02_030"/>
+	<photoModeMobList chara_tag="CHARA_ATOMINA" event="EVENT_MM02_030"/>
+	<photoModeMobList chara_tag="CHARA_PLACHTA_RNPC_A" event="EVENT_MM01_080"/>
+	<photoModeMobList chara_tag="CHARA_RNPC02A" event="EVENT_QC03_JUL_100"/>
+	<photoModeMobList chara_tag="CHARA_MARGRIT" event="EVENT_MM01_110"/>
+	<photoModeMobList chara_tag="CHARA_PUNI_00" monster_tag="MONSTER_PUNI_00" eff_offset_scale="1.4" camera_radius="0.3"/>
+	<photoModeMobList chara_tag="CHARA_PUNI_01" monster_tag="MONSTER_PUNI_01" share_pose_chara="CHARA_PUNI_00" eff_offset_scale="1.4" camera_radius="0.3"/>
+	<photoModeMobList chara_tag="CHARA_PUNI_02" monster_tag="MONSTER_PUNI_02" share_pose_chara="CHARA_PUNI_00" eff_offset_scale="1.4" camera_radius="0.3"/>
+	<photoModeMobList chara_tag="CHARA_PUNI_03" monster_tag="MONSTER_PUNI_03" share_pose_chara="CHARA_PUNI_00" eff_offset_scale="1.4" camera_radius="0.3"/>
+	<photoModeMobList chara_tag="CHARA_PUNI_04" monster_tag="MONSTER_PUNI_04" share_pose_chara="CHARA_PUNI_00" eff_offset_scale="1.4" camera_radius="0.3"/>
+	<photoModeMobList chara_tag="CHARA_PUNI_05" monster_tag="MONSTER_PUNI_05" share_pose_chara="CHARA_PUNI_00" eff_offset_scale="1.4" camera_radius="0.3"/>
+	<photoModeMobList chara_tag="CHARA_PUNI_06" monster_tag="MONSTER_PUNI_06" share_pose_chara="CHARA_PUNI_00" eff_offset_scale="1.4" camera_radius="0.3"/>
+	<photoModeMobList chara_tag="CHARA_PUNI_07" monster_tag="MONSTER_PUNI_07" share_pose_chara="CHARA_PUNI_00" eff_offset_scale="1.4" camera_radius="0.6"/>
+	<photoModeMobList chara_tag="CHARA_BOOK_00" monster_tag="MONSTER_BOOK_00" eff_offset_scale="1.2"/>
+	<photoModeMobList chara_tag="CHARA_BOOK_01" monster_tag="MONSTER_BOOK_01" share_pose_chara="CHARA_BOOK_00" eff_offset_scale="1.2"/>
+	<photoModeMobList chara_tag="CHARA_BOOK_02" monster_tag="MONSTER_BOOK_02" share_pose_chara="CHARA_BOOK_00" eff_offset_scale="1.2"/>
+	<photoModeMobList chara_tag="CHARA_BOOK_03" monster_tag="MONSTER_BOOK_03" share_pose_chara="CHARA_BOOK_00" eff_offset_scale="3"/>
+	<photoModeMobList chara_tag="CHARA_BOOK_SP" monster_tag="MONSTER_BOOK_SP" share_pose_chara="CHARA_BOOK_00" eff_offset_scale="3"/>
+	<photoModeMobList chara_tag="CHARA_BOOK_BOSS" monster_tag="MONSTER_BOOK_BOSS" share_pose_chara="CHARA_BOOK_00" eff_offset_scale="3"/>
+	<photoModeMobList chara_tag="CHARA_GHOST_00" monster_tag="MONSTER_GHOST_00" eff_offset_scale="1.5" camera_radius="0.75"/>
+	<photoModeMobList chara_tag="CHARA_GHOST_01" monster_tag="MONSTER_GHOST_01" share_pose_chara="CHARA_GHOST_00" eff_offset_scale="1.5" camera_radius="0.75"/>
+	<photoModeMobList chara_tag="CHARA_GHOST_02" monster_tag="MONSTER_GHOST_02" share_pose_chara="CHARA_GHOST_00" eff_offset_scale="1.5" camera_radius="0.75"/>
+	<photoModeMobList chara_tag="CHARA_GHOST_03" monster_tag="MONSTER_GHOST_03" share_pose_chara="CHARA_GHOST_00" eff_offset_scale="1.5" camera_radius="0.75"/>
+	<photoModeMobList chara_tag="CHARA_GHOST_SP" monster_tag="MONSTER_GHOST_SP" share_pose_chara="CHARA_GHOST_00" eff_offset_scale="1.5" camera_radius="0.75"/>
+	<photoModeMobList chara_tag="CHARA_GHOST_BOSS" monster_tag="MONSTER_GHOST_BOSS" share_pose_chara="CHARA_GHOST_00" eff_offset_scale="1.5" camera_radius="0.75"/>
+	<photoModeMobList chara_tag="CHARA_MANDRAKE_00" monster_tag="MONSTER_MANDRAKE_00" eff_offset_scale="2" camera_radius="1.5"/>
+	<photoModeMobList chara_tag="CHARA_MANDRAKE_01" monster_tag="MONSTER_MANDRAKE_01" share_pose_chara="CHARA_MANDRAKE_00" eff_offset_scale="2" camera_radius="1.5"/>
+	<photoModeMobList chara_tag="CHARA_MANDRAKE_02" monster_tag="MONSTER_MANDRAKE_02" share_pose_chara="CHARA_MANDRAKE_00" eff_offset_scale="2" camera_radius="1.5"/>
+	<photoModeMobList chara_tag="CHARA_MANDRAKE_03" monster_tag="MONSTER_MANDRAKE_03" share_pose_chara="CHARA_MANDRAKE_00" eff_offset_scale="2" camera_radius="1.5"/>
+	<photoModeMobList chara_tag="CHARA_MANDRAKE_SP" monster_tag="MONSTER_MANDRAKE_SP" share_pose_chara="CHARA_MANDRAKE_00" eff_offset_scale="2" camera_radius="1.5"/>
+	<photoModeMobList chara_tag="CHARA_MANDRAKE_BOSS" monster_tag="MONSTER_MANDRAKE_BOSS" share_pose_chara="CHARA_MANDRAKE_00" eff_offset_scale="2" camera_radius="1.5"/>
+	<photoModeMobList chara_tag="CHARA_APOSTEL_00" monster_tag="MONSTER_APOSTEL_00" eff_offset_scale="1.4" camera_radius="0.84"/>
+	<photoModeMobList chara_tag="CHARA_APOSTEL_01" monster_tag="MONSTER_APOSTEL_01" share_pose_chara="CHARA_APOSTEL_00" eff_offset_scale="1.4" camera_radius="0.84"/>
+	<photoModeMobList chara_tag="CHARA_APOSTEL_02" monster_tag="MONSTER_APOSTEL_02" share_pose_chara="CHARA_APOSTEL_00" eff_offset_scale="1.4" camera_radius="0.84"/>
+	<photoModeMobList chara_tag="CHARA_APOSTEL_03" monster_tag="MONSTER_APOSTEL_03" share_pose_chara="CHARA_APOSTEL_00" eff_offset_scale="1.4" camera_radius="0.84"/>
+	<photoModeMobList chara_tag="CHARA_APOSTEL_SP" monster_tag="MONSTER_APOSTEL_SP" share_pose_chara="CHARA_APOSTEL_00" eff_offset_scale="1.4" camera_radius="0.84"/>
+	<photoModeMobList chara_tag="CHARA_APOSTEL_BOSS" monster_tag="MONSTER_APOSTEL_BOSS" share_pose_chara="CHARA_APOSTEL_00" eff_offset_scale="1.4" camera_radius="1.3" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_ARDRA_00" monster_tag="MONSTER_ARDRA_00" eff_offset_scale="1.2" camera_radius="2.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_ARDRA_01" monster_tag="MONSTER_ARDRA_01" share_pose_chara="CHARA_ARDRA_00" eff_offset_scale="1.2" camera_radius="2.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_ARDRA_02" monster_tag="MONSTER_ARDRA_02" share_pose_chara="CHARA_ARDRA_00" eff_offset_scale="1.2" camera_radius="2.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_ARDRA_03" monster_tag="MONSTER_ARDRA_03" share_pose_chara="CHARA_ARDRA_00" eff_offset_scale="1.2" camera_radius="2.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_ARDRA_SP" monster_tag="MONSTER_ARDRA_SP" share_pose_chara="CHARA_ARDRA_00" eff_offset_scale="1.2" camera_radius="2.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_ARDRA_BOSS" monster_tag="MONSTER_ARDRA_BOSS" share_pose_chara="CHARA_ARDRA_00" eff_offset_scale="1.2" camera_radius="2.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_CHIMERA_00" monster_tag="MONSTER_CHIMERA_00" eff_offset_scale="1.6" camera_radius="3.9"/>
+	<photoModeMobList chara_tag="CHARA_CHIMERA_01" monster_tag="MONSTER_CHIMERA_01" share_pose_chara="CHARA_CHIMERA_00" eff_offset_scale="1.6" camera_radius="3.9"/>
+	<photoModeMobList chara_tag="CHARA_CHIMERA_02" monster_tag="MONSTER_CHIMERA_02" share_pose_chara="CHARA_CHIMERA_00" eff_offset_scale="1.6" camera_radius="3.9"/>
+	<photoModeMobList chara_tag="CHARA_CHIMERA_03" monster_tag="MONSTER_CHIMERA_03" share_pose_chara="CHARA_CHIMERA_00" eff_offset_scale="1.6" camera_radius="3.9"/>
+	<photoModeMobList chara_tag="CHARA_CHIMERA_SP" monster_tag="MONSTER_CHIMERA_SP" share_pose_chara="CHARA_CHIMERA_00" eff_offset_scale="1.6" camera_radius="3.9"/>
+	<photoModeMobList chara_tag="CHARA_CHIMERA_BOSS" monster_tag="MONSTER_CHIMERA_BOSS" share_pose_chara="CHARA_CHIMERA_00" eff_offset_scale="1.6" camera_radius="3.9"/>
+	<photoModeMobList chara_tag="CHARA_LANDFISH_00" monster_tag="MONSTER_LANDFISH_00" eff_offset_scale="3" camera_radius="2.6"/>
+	<photoModeMobList chara_tag="CHARA_LANDFISH_01" monster_tag="MONSTER_LANDFISH_01" share_pose_chara="CHARA_LANDFISH_00" eff_offset_scale="3.2" camera_radius="2.8"/>
+	<photoModeMobList chara_tag="CHARA_LANDFISH_02" monster_tag="MONSTER_LANDFISH_02" share_pose_chara="CHARA_LANDFISH_00" eff_offset_scale="3" camera_radius="2.6"/>
+	<photoModeMobList chara_tag="CHARA_LANDFISH_03" monster_tag="MONSTER_LANDFISH_03" share_pose_chara="CHARA_LANDFISH_00" eff_offset_scale="3" camera_radius="2.6"/>
+	<photoModeMobList chara_tag="CHARA_LANDFISH_SP" monster_tag="MONSTER_LANDFISH_SP" share_pose_chara="CHARA_LANDFISH_00" eff_offset_scale="3" camera_radius="4.68"/>
+	<photoModeMobList chara_tag="CHARA_LANDFISH_BOSS" monster_tag="MONSTER_LANDFISH_BOSS" share_pose_chara="CHARA_LANDFISH_00" eff_offset_scale="3" camera_radius="4.68"/>
+	<photoModeMobList chara_tag="CHARA_LICH_00" monster_tag="MONSTER_LICH_00" eff_offset_scale="1.6" camera_radius="1.6"/>
+	<photoModeMobList chara_tag="CHARA_LICH_01" monster_tag="MONSTER_LICH_01" share_pose_chara="CHARA_LICH_00" eff_offset_scale="1.6" camera_radius="1.6"/>
+	<photoModeMobList chara_tag="CHARA_LICH_02" monster_tag="MONSTER_LICH_02" share_pose_chara="CHARA_LICH_00" eff_offset_scale="1.6" camera_radius="1.6"/>
+	<photoModeMobList chara_tag="CHARA_LICH_03" monster_tag="MONSTER_LICH_03" share_pose_chara="CHARA_LICH_00" eff_offset_scale="1.6" camera_radius="1.6"/>
+	<photoModeMobList chara_tag="CHARA_LICH_SP" monster_tag="MONSTER_LICH_SP" share_pose_chara="CHARA_LICH_00" eff_offset_scale="1.6" camera_radius="1.6"/>
+	<photoModeMobList chara_tag="CHARA_LICH_BOSS" monster_tag="MONSTER_LICH_BOSS" share_pose_chara="CHARA_LICH_00" eff_offset_scale="1.6" camera_radius="1.6"/>
+	<photoModeMobList chara_tag="CHARA_DEMON_00" monster_tag="MONSTER_DEMON_00" eff_offset_scale="1.25" camera_radius="1.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DEMON_01" monster_tag="MONSTER_DEMON_01" share_pose_chara="CHARA_DEMON_00" eff_offset_scale="1.25" camera_radius="1.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DEMON_02" monster_tag="MONSTER_DEMON_02" share_pose_chara="CHARA_DEMON_00" eff_offset_scale="1.25" camera_radius="1.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DEMON_03" monster_tag="MONSTER_DEMON_03" share_pose_chara="CHARA_DEMON_00" eff_offset_scale="1.25" camera_radius="1.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DEMON_SP" monster_tag="MONSTER_DEMON_SP" share_pose_chara="CHARA_DEMON_00" eff_offset_scale="1.25" camera_radius="1.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DEMON_BOSS" monster_tag="MONSTER_DEMON_BOSS" share_pose_chara="CHARA_DEMON_00" eff_offset_scale="1.25" camera_radius="1.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DRAGONARE_00" monster_tag="MONSTER_DRAGONARE_00" is_boss="-1" eff_offset_scale="2.3" camera_radius="5.5" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DRAGONARE_01" monster_tag="MONSTER_DRAGONARE_01" share_pose_chara="CHARA_DRAGONARE_00" is_boss="-1" eff_offset_scale="2.3" camera_radius="5.5" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DRAGONARE_SP01" monster_tag="MONSTER_DRAGONARE_SP01" share_pose_chara="CHARA_DRAGONARE_00" is_boss="-1" eff_offset_scale="2.3" camera_radius="5.5" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DRAGONARE_SP02" monster_tag="MONSTER_DRAGONARE_SP02" share_pose_chara="CHARA_DRAGONARE_00" is_boss="-1" eff_offset_scale="2.3" camera_radius="5.5" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_RESERVE_01" monster_tag="MONSTER_RESERVE_01" share_pose_chara="CHARA_DRAGONARE_00" is_boss="-1" eff_offset_scale="2.3" camera_radius="5.5" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_ELEMENTAL_00" monster_tag="MONSTER_ELEMENTAL_00" is_boss="-1" eff_offset_scale="1.7" camera_radius="3.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_ELEMENTAL_01" monster_tag="MONSTER_ELEMENTAL_01" share_pose_chara="CHARA_ELEMENTAL_00" is_boss="-1" eff_offset_scale="1.7" camera_radius="3.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_ELEMENTAL_02" monster_tag="MONSTER_ELEMENTAL_02" share_pose_chara="CHARA_ELEMENTAL_00" is_boss="-1" eff_offset_scale="1.7" camera_radius="3.6" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DEMONLORD_00" monster_tag="MONSTER_DEMONLORD_00" is_boss="-1" eff_offset_scale="1.6" camera_radius="4.8" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_DEMONLORD_01" monster_tag="MONSTER_DEMONLORD_01" share_pose_chara="CHARA_DEMONLORD_00" is_boss="-1" eff_offset_scale="1.6" camera_radius="4.8" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_NUAZA_00" monster_tag="MONSTER_NUAZA_00" is_boss="-1" eff_offset_scale="1.7" camera_radius="2.8" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_NUAZA_01" monster_tag="MONSTER_NUAZA_01" share_pose_chara="CHARA_NUAZA_00" is_boss="-1" eff_offset_scale="1.7" camera_radius="2.8" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_LASTBOSS_00" monster_tag="MONSTER_LASTBOSS_00" is_boss="-1" eff_offset_scale="1.1" camera_radius="7" skip_elevation_check="-1"/>
+	<photoModeMobList chara_tag="CHARA_LASTBOSS_01" monster_tag="MONSTER_LASTBOSS_01" share_pose_chara="CHARA_LASTBOSS_00" is_boss="-1" eff_offset_scale="1.1" camera_radius="7" skip_elevation_check="-1"/>
+</Root>

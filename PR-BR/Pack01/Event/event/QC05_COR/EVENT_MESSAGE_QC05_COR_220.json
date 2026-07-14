@@ -1,0 +1,294 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC05_COR_220.ebm",
+    "nb_messages": 0x20,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oh, Cory. You're listening to the music box again?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x5a,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Yes... It's become like a daily routine for me now..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Huh, I see... It really is a nice tune, though."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x5a,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Yes..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hey, what are you two doing here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, hello Logy. We were listening to Cory's music box."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2b,
+            "expr_id": 0xb,
+            "msg_id": 0x6,
+            "msg_string": "I see, so that box was a music box."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2b,
+            "expr_id": 0xb,
+            "msg_id": 0x7,
+            "msg_string": "A music box, huh..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2c,
+            "expr_id": 0xb,
+            "msg_id": 0x8,
+            "msg_string": "This is a pretty nostalgic tune. I wonder how many years it's been since I heard it last?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "What...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Logy, you know this tune?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2d,
+            "expr_id": 0xb,
+            "msg_id": 0xb,
+            "msg_string": "Hm? Yeah. It's not exactly the same, but I heard it when I traveled for training."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Really!? Logy, can you please tell us more!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1f,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "We might figure something out about Cory's dad!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "I'd... Like to ask as well..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "I heard this song in a country far to the east of here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "That reminds me, there were lots of people over there who wore clothes like yours..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "And? What else!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Do you... Know anything else?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Let's see... Also..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Hm, that's about it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Logy, thank you so much! You really helped!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Thank you... Very much..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "No problem. I'm glad I could help. Anyway, I'll get going now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "That's great, Cory. We got to hear all kinds of things!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Yes... He really did have a lot to tell us...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "So my people are in a country to the east... My dad could be in the east too..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Um, Cory... Are you thinking about going to look for him?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "...I don't know. Not right now, at least..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "(It would get kind of lonely around here if Cory left this town...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "msg_string": "(But it would be to find her dad. I would need to support her decision, if she does...!)"
+        }
+    ]
+}

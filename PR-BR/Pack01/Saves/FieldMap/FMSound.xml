@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<sound offset="871,10,744" seTag="SE_OBJ_FIRE01" maxDistance="5000" minDistance="45" volume="0.4" mapTag="FIELDMAP_T01_TOWN_01"/>
+	<sound offset="18061,200,23449" seTag="SE_OBJ_WATER01" maxDistance="50000" minDistance="500" volume="0.7" mapTag="FIELDMAP_T01_TOWN_08"/>
+	<sound offset="639,0,2094" seTag="SE_OBJ_FIRE01" maxDistance="5000" minDistance="45" volume="0.4" mapTag="FIELDMAP_T01_TOWN_14"/>
+	<sound offset="604, 20, 1996" seTag="SE_OBJ_KAMA01" maxDistance="24000" minDistance="110" volume="0.52" mapTag="FIELDMAP_T01_TOWN_01"/>
+	<sound offset="140,0, 1198" seTag="SE_OBJ_FIRE01" maxDistance="5000" minDistance="160" volume="0.6" mapTag="FIELDMAP_T01_TOWN_12"/>
+	<sound offset="11507, 334, 12979" seTag="SE_OBJ_WATER02" maxDistance="25000" minDistance="250" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_01"/>
+	<sound offset="10149, 335, 13140" seTag="SE_OBJ_WATER02" maxDistance="25000" minDistance="250" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_01"/>
+	<sound offset="10257, 511, 12485" seTag="SE_OBJ_WATER02" maxDistance="25000" minDistance="250" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_01"/>
+	<sound offset="7065, 241, 6899" seTag="SE_OBJ_WATER02" maxDistance="25000" minDistance="220" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_03"/>
+	<sound offset="5528, 245, 8157" seTag="SE_OBJ_WATER02" maxDistance="20000" minDistance="220" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_03"/>
+	<sound offset="5967, 1500, 30813" seTag="SE_OBJ_WIND01" maxDistance="20000" minDistance="1400" volume="0.6" mapTag="FIELDMAP_L07_HALLOFSOUL_02"/>
+	<sound offset="3921, 2190, 23184" seTag="SE_OBJ_WIND01" maxDistance="20000" minDistance="1500" volume="0.6" mapTag="FIELDMAP_L07_HALLOFSOUL_02"/>
+	<sound offset="4023, 1900, 24875" seTag="SE_OBJ_WIND01" maxDistance="20000" minDistance="200" volume="0.6" mapTag="FIELDMAP_L07_HALLOFSOUL_02"/>
+	<sound offset="22194,290,11546" seTag="SE_OBJ_WIND01" maxDistance="20000" minDistance="150" volume="0.6" mapTag="FIELDMAP_L07_HALLOFSOUL_02"/>
+	<sound offset="5650, 2500, 12921" seTag="SE_OBJ_WIND01" maxDistance="20000" minDistance="150" volume="0.6" mapTag="FIELDMAP_L07_HALLOFSOUL_05"/>
+	<sound offset="5650, 2500, 10663" seTag="SE_OBJ_WIND01" maxDistance="20000" minDistance="150" volume="0.6" mapTag="FIELDMAP_L07_HALLOFSOUL_05"/>
+	<sound offset="12076, 521, 5219" seTag="SE_OBJ_WIND01" maxDistance="25000" minDistance="1000" volume="0.6" mapTag="FIELDMAP_L04_WASTELAND_03"/>
+	<sound offset="14996, 335, 14897" seTag="SE_OBJ_WATER02" maxDistance="25000" minDistance="220" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_04"/>
+	<sound offset="17572, 335, 14972" seTag="SE_OBJ_WATER02" maxDistance="20000" minDistance="220" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_04"/>
+	<sound offset="16316, 335, 13010" seTag="SE_OBJ_WATER02" maxDistance="20000" minDistance="220" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_04"/>
+	<sound offset="6000, 543, 5746" seTag="SE_OBJ_WIND01" maxDistance="15000" minDistance="150" volume="0.6" mapTag="FIELDMAP_L04_WASTELAND_03"/>
+	<sound offset="8056, 467, 6423" seTag="SE_OBJ_WIND01" maxDistance="15000" minDistance="150" volume="0.6" mapTag="FIELDMAP_L04_WASTELAND_03"/>
+	<sound offset="6231, 328, 6968" seTag="SE_OBJ_WIND01" maxDistance="15000" minDistance="150" volume="0.6" mapTag="FIELDMAP_L04_WASTELAND_03"/>
+	<sound offset="6797, 335, 6858" seTag="SE_OBJ_WATER02" maxDistance="25000" minDistance="220" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_05"/>
+	<sound offset="6893, 335, 7921" seTag="SE_OBJ_WATER02" maxDistance="20000" minDistance="220" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_05"/>
+	<sound offset="7467, 301, 7921" seTag="SE_OBJ_WATER02" maxDistance="20000" minDistance="220" volume="0.5" mapTag="FIELDMAP_S04_RIVERSIDE_05"/>
+	<sound offset="23912, -230, 21136" seTag="SE_OBJ_WATER02" maxDistance="20000" minDistance="220" volume="0.6" mapTag="FIELDMAP_S03_FOREST_05"/>
+	<sound offset="20817, -230, 20194" seTag="SE_OBJ_WATER02" maxDistance="20000" minDistance="220" volume="0.6" mapTag="FIELDMAP_S03_FOREST_05"/>
+	<sound offset="2639, 3, 5007" seTag="SE_OBJ_WIND01" maxDistance="25000" minDistance="300" volume="0.6" mapTag="FIELDMAP_T01_TOWN_04"/>
+</Root>

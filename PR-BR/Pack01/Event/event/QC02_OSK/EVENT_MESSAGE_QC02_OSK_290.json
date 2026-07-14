@@ -1,0 +1,204 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_OSK_290.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "I don't think we can go any further..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "We never saw any plants that seemed like it could be the Eternal Blossom."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "...I wonder if they really are extinct..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "It would seem not. Look over there."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Wait, could that be...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Yes, there's no mistake. That is the Eternal Blossom."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x6,
+            "msg_string": "So that's it...! We should go gather it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "...No, we shouldn't."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Huh!? Why not? I thought we were looking for that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "It's true that the Eternal Blossom can be used to make good medicine. But I can hear its voice."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "They want to stay in this forest."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "They want to help the creatures here that rely on them."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Oskar..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "I just want you to look at the Eternal Blossom, and nothing else. Sorry Sophie, I know you came all the way here..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "No, it's okay. We can't help that. We'll just look, like you said."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Yeah. I'll go see if we can be friends."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "!? Watch out!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "A monster!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "The Eternal Blossom!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x13,
+            "msg_string": "If a big monster like that steps on it, it'll be totally crushed!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Hey! Get away from the Eternal Blossom!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "Damn it. Then we'll just have to force you!"
+        }
+    ]
+}

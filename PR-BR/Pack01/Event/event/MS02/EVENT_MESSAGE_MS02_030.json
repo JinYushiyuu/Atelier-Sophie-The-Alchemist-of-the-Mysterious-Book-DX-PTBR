@@ -1,0 +1,151 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS02_030.ebm",
+    "nb_messages": 0x10,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hey, you can make all kinds of things now, right Sophie?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Hm, I don't know. I think it's more than before, at least. But I still have a long way to go."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "I need to improve my skills, and I need more materials."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "I haven't traveled very far yet..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "I see... Do you know about a place called the \"Prospector's Strand\"?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "No, I've never heard of it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "There's a place up the river where the water is very clean and clear."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Why is it called the \"Prospector's Strand\"?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Well you see... You know how heavy rain makes the water rise?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "The morning after that, all kinds of things end up drifting onto the banks."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0xa,
+            "msg_string": "Sometimes, you'll even find valuable items."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0xb,
+            "msg_string": "There are lots of people who go to the shore in search of such things. That's how it got its name."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "I see... Does that mean if I go, I might find some unusual materials?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "I would think so."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Thank you, Elise. I'll try going there."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Learned location of the \"<CLGR>Prospector's Strand<CLNR>\"."
+        }
+    ]
+}

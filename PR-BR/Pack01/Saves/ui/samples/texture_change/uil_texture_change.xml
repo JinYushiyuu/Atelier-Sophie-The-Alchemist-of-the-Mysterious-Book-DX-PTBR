@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_style="Saves/ui/samples/texture_change/uis_texture_change.xml" />
+
+
+	<image pos="0,0" color="64,64,64,255" size_wh="1280,720" style="common_white_image"/>
+
+	<image name="test_image" pos="500,255" style="image256x256"/>
+
+	<text text="○ボタン押下で画像をフォントのテクスチャに切り替える" drop_shadow="true"/>
+</root>
+

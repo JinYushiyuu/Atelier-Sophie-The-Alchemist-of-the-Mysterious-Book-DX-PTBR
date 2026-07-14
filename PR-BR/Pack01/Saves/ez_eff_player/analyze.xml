@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+<root>
+	<grp> <!-- 分解(×２) -->
+		<eff timing="0.6" eff_no="601" pos_x="  639.0" pos_y=" 350.0" scale_x="1300" scale_y="800" scale_z="300" emit_life="   0.1"  r="128" g="128" b="128" a="32" />
+		<eff timing="0.6" eff_no="601" pos_x="  491.0" pos_y=" 350.0" scale_x="312" scale_y="555" scale_z="300" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+		<eff timing="0.6" eff_no="601" pos_x="  851.0" pos_y=" 350.0" scale_x="312" scale_y="555" scale_z="300" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+		<eff timing="0.6" eff_no="403" pos_x="  639.0" pos_y=" 357.0" scale_x="420" scale_y="420" scale_z="420" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+		<eff timing="0.3" eff_no="601" pos_x="  639.0" pos_y=" 353.0" scale_x="20" scale_y="555" scale_z="300" emit_life="   0.1" p_life="   0.2"  r="255" g="255" b="255" a="255" />
+		<eff timing="0.3" eff_no="30" pos_x="  639.0" pos_y=" 350.0" scale_x="300" scale_y="300" scale_z="300" emit_life="   0.1"  r="128" g="128" b="255" a="128" />
+		<eff timing="0.3" eff_no="209" pos_x="  639.0" pos_y=" 357.0" scale_x="420" scale_y="420" scale_z="420" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+		<eff timing="0.3" eff_no="260" pos_x="  639.0" pos_y=" 357.0" scale_x="3000" scale_y="3000" scale_z="3000" emit_life="   0.1"  r="10" g="10" b="255" a="128" />
+		<eff timing="0.3" eff_no="446" pos_x="  639.0" pos_y=" 357.0" scale_x="420" scale_y="420" scale_z="420" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+		<eff timing="0.3" eff_no="154" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.2"  r="128" g="128" b="128" a="128" />
+		<eff timing="0.3" eff_no="121" pos_x="  639.0" pos_y=" 357.0" scale_x="400" scale_y="400" scale_z="400" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+    <eff timing="0.0" se_no="2" vol="1.0" pitch="0.0"/>
+  </grp>
+	<grp> <!-- 分解(×１) -->
+    <eff timing="0.6" eff_no="601" pos_x="  639.0" pos_y=" 350.0" scale_x="1300" scale_y="800" scale_z="300" emit_life="   0.1"  r="128" g="128" b="128" a="32" />
+    <eff timing="0.6" eff_no="601" pos_x="  671.0" pos_y=" 350.0" scale_x="312" scale_y="555" scale_z="300" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+    <eff timing="0.6" eff_no="403" pos_x="  639.0" pos_y=" 357.0" scale_x="420" scale_y="420" scale_z="420" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+    <eff timing="0.3" eff_no="601" pos_x="  639.0" pos_y=" 353.0" scale_x="20" scale_y="555" scale_z="300" emit_life="   0.1" p_life="   0.2"  r="255" g="255" b="255" a="255" />
+    <eff timing="0.3" eff_no="30" pos_x="  639.0" pos_y=" 350.0" scale_x="300" scale_y="300" scale_z="300" emit_life="   0.1"  r="128" g="128" b="255" a="128" />
+    <eff timing="0.3" eff_no="209" pos_x="  639.0" pos_y=" 357.0" scale_x="420" scale_y="420" scale_z="420" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+    <eff timing="0.3" eff_no="260" pos_x="  639.0" pos_y=" 357.0" scale_x="3000" scale_y="3000" scale_z="3000" emit_life="   0.1"  r="10" g="10" b="255" a="128" />
+    <eff timing="0.3" eff_no="446" pos_x="  639.0" pos_y=" 357.0" scale_x="420" scale_y="420" scale_z="420" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+    <eff timing="0.3" eff_no="154" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.2"  r="128" g="128" b="128" a="128" />
+    <eff timing="0.3" eff_no="121" pos_x="  639.0" pos_y=" 357.0" scale_x="400" scale_y="400" scale_z="400" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+    <eff timing="0.0" se_no="2" vol="1.0" pitch="0.0"/>
+  </grp>
+  <!-- 潜力引継ぎ -->
+  <grp>
+    <!-- 中央1つ -->
+    <eff timing="0.6" eff_no="606" pos_x="  671.0" pos_y=" 545.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+  </grp>
+  <grp>
+    <!-- 中央2つ -->
+    <eff timing="0.6" eff_no="606" pos_x="  671.0" pos_y=" 545.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+    <eff timing="0.8" eff_no="606" pos_x="  671.0" pos_y=" 577.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+  </grp>
+  <grp>
+    <!-- 中央3つ -->
+    <eff timing="0.6" eff_no="606" pos_x="  671.0" pos_y=" 545.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+    <eff timing="0.8" eff_no="606" pos_x="  671.0" pos_y=" 577.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+    <eff timing="1.0" eff_no="606" pos_x="  671.0" pos_y=" 609.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+  </grp>
+  <grp>
+    <!-- 左1つ -->
+    <eff timing="0.6" eff_no="606" pos_x="  491.0" pos_y=" 545.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+  </grp>
+  <grp>
+    <!-- 左2つ -->
+    <eff timing="0.6" eff_no="606" pos_x="  491.0" pos_y=" 545.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+    <eff timing="0.8" eff_no="606" pos_x="  491.0" pos_y=" 577.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+  </grp>
+  <grp>
+    <!-- 左3つ -->
+    <eff timing="0.6" eff_no="606" pos_x="  491.0" pos_y=" 545.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+    <eff timing="0.8" eff_no="606" pos_x="  491.0" pos_y=" 577.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+    <eff timing="1.0" eff_no="606" pos_x="  491.0" pos_y=" 609.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+  </grp>
+  <grp>
+    <!-- 右1つ -->
+    <eff timing="0.6" eff_no="606" pos_x="  851.0" pos_y=" 545.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+  </grp>
+  <grp>
+    <!-- 右2つ -->
+    <eff timing="0.6" eff_no="606" pos_x="  851.0" pos_y=" 545.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+    <eff timing="0.8" eff_no="606" pos_x="  851.0" pos_y=" 577.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+  </grp>
+  <grp>
+    <!-- 右3つ -->
+    <eff timing="0.6" eff_no="606" pos_x="  851.0" pos_y=" 545.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+    <eff timing="0.8" eff_no="606" pos_x="  851.0" pos_y=" 577.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+    <eff timing="1.0" eff_no="606" pos_x="  851.0" pos_y=" 609.0" scale_x="240" scale_y="22" scale_z="100" emit_life="   0.1"  r="255" g="255" b="255" a="192" />
+  </grp>
+</root>

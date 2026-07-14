@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Bonus Name="L01 Forest of Fairies (Forest of Fairies)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_010"/>
+	<Bonus Name="L02 Forgotten Nursery (Forgotten Nursery)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_020"/>
+	<Bonus Name="L03 Prospector's Strand (Prospector's Strand)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_030"/>
+	<Bonus Name="L04 Scar of the Land (Scar of the Land)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_040"/>
+	<Bonus Name="L05 Moon Sun Moor (Moon Sun Moor)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_050"/>
+	<Bonus Name="L06 Fallen Palace (Fallen Palace)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_060"/>
+	<Bonus Name="L07 Soul Space (Soul Space)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_070"/>
+	<Bonus Name="L08 Sealed Temple (Sealed Temple)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_080"/>
+	<Bonus Name="L09 Underground Lake (Underground Lake)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_090"/>
+	<Bonus Name="L10 Infinite Archive (Infinite Archive)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_100"/>
+	<Bonus Name="P15 Pilgrim Road (Plains 01)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_110"/>
+	<Bonus Name="P13 Merbert Farm (Plains 02)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_120"/>
+	<Bonus Name="P16 Flower Garden (Plains 03)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_130"/>
+	<Bonus Name="P22 Wood Cabin (Plains 04)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_140"/>
+	<Bonus Name="P20 Open Ruins (Plains 05)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_150"/>
+	<Bonus Name="P14 Chick Woods (Shallow Forest 01)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_160"/>
+	<Bonus Name="P26 Blessed Forest (Shallow Forest 02)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_170"/>
+	<Bonus Name="P09 Leisure Plaza (Shallow Forest 03)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_180"/>
+	<Bonus Name="P07 Fungal Garden (Shallow Forest 04)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_190"/>
+	<Bonus Name="P19 Mountain Entrance (Shallow Forest 05)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_200"/>
+	<Bonus Name="P04 Green Ruins (Shallow Forest 06)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_210"/>
+	<Bonus Name="P29 Gathering of Beasts (Deep Forest 01)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_220"/>
+	<Bonus Name="P23 Rocky Grove (Deep Forest 02)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_230"/>
+	<Bonus Name="P06 Puzzling Path (Deep Forest 03)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_240"/>
+	<Bonus Name="P03 Gate of Trees (Deep Forest 04)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_010"/>
+	<Bonus Name="P28 Withered Wetlands (Deep Forest 05)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_020"/>
+	<Bonus Name="P01 Foggy Woodland (Deep Forest 06)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_030"/>
+	<Bonus Name="P11 Three Bridge Spring (Waterside 01)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_040"/>
+	<Bonus Name="P12 Calm Banks (Waterside 02)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_050"/>
+	<Bonus Name="P08 Silent Lakeside (Waterside 03)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_060"/>
+	<Bonus Name="P02 Pure Waterside (Waterside 04)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_070"/>
+	<Bonus Name="P25 Fertile Shore (Waterside 05)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_080"/>
+	<Bonus Name="P17 Rugged Foothill (Mountains 01)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_090"/>
+	<Bonus Name="P10 Verdant Hill (Mountains 02)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_100"/>
+	<Bonus Name="P27 Mountain Boundary (Mountains 03)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_110"/>
+	<Bonus Name="P24 Dead Tree Wasteland (Mountains 04)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_120"/>
+	<Bonus Name="P18 Husk Forest (Mountains 05)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_130"/>
+	<Bonus Name="P05 Waterside Ruins (Ruins 03)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_140"/>
+	<Bonus Name="P21 City of the Lost (Ruins 05)" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_150"/>
+	<Bonus Name="レシピロック・１" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_010"/>
+	<Bonus Name="レシピロック・２" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_020"/>
+	<Bonus Name="レシピロック・３" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_030"/>
+	<Bonus Name="レシピロック・４" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_040"/>
+	<Bonus Name="レシピロック・５" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_050"/>
+	<Bonus Name="レシピロック・６" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_060"/>
+	<Bonus Name="レシピロック・７" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_070"/>
+	<Bonus Name="レシピロック・８" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_080"/>
+	<Bonus Name="レシピロック・９" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_090"/>
+	<Bonus Name="レシピロック・１０" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_100"/>
+	<Bonus Name="レシピロック・１１" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_110"/>
+	<Bonus Name="レシピロック・１２" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_120"/>
+	<Bonus Name="ワールドマップ開示・１" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_170" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG02_090" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG01_120"/>
+	<Bonus Name="ワールドマップ開示・２" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_220" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG02_040"/>
+	<Bonus Name="ワールドマップ開示・３" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_230" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG01_130" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG02_050"/>
+	<Bonus Name="ワールドマップ開示・４" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_110" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG01_140" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG01_180" BonusEntry4="BonusEntry_Event_Tag_On" Entry4Prm1="EVENT_XG01_030"/>
+	<Bonus Name="ワールドマップ開示・５" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_100" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG02_060"/>
+	<Bonus Name="ワールドマップ開示・６" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_190" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG01_200"/>
+	<Bonus Name="ワールドマップ開示・７" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_130" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG01_210" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG01_240"/>
+	<Bonus Name="ワールドマップ開示・８" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_140" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG02_030"/>
+	<Bonus Name="ワールドマップ開示・９" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_080" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG01_150" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG02_020" BonusEntry4="BonusEntry_Event_Tag_On" Entry4Prm1="EVENT_XG02_010"/>
+	<Bonus Name="ワールドマップ開示・１０" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_150" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG02_120" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG02_150" BonusEntry4="BonusEntry_Event_Tag_On" Entry4Prm1="EVENT_XG02_070"/>
+	<Bonus Name="ワールドマップ開示・１１"/>
+	<Bonus Name="ワールドマップ開示・１２"/>
+	<Bonus Name="ワールドマップ開示・１３"/>
+	<Bonus Name="Book Store: Scholar" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG10_240"/>
+	<Bonus Name="Nearby Forest: Girl" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_130"/>
+	<Bonus Name="Night Street: Fortuneteller" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_140"/>
+	<Bonus Name="Voice in the Night" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Empty Cabin" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Puppeteer in the Cabin" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Puppeteer Comes to Town" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Puppeteer's Request" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Fritz's Passion" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="New in Town" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Exotic Girl" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="I'll Open Shop Too" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Duplication Shop Opens" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Duplication Shop Sales" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Corneria's Power" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Delinquent Shopkeep" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Want to be a Gunsmith?" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Clockshop Cuckoo" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Clockshop Inspection" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Left Spring Key" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Harol's Reputation" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Mysterious Girl" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Leon's Request" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Leon's Shop Opens" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Sophie's Clothes" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="I Like Alchemy" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Leon's Secret" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="Soul Techniques" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_110"/>
+</Root>

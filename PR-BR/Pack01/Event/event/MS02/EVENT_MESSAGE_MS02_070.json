@@ -1,0 +1,97 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS02_070.ebm",
+    "nb_messages": 0xa,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x43,
+            "expr_id": 0xb,
+            "msg_id": 0x0,
+            "msg_string": "Hey, Sophie. Have you gone to the \"Forest of Fairies\" before?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "No, I've never heard of it. Where is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "I only learned about it after reading an old book, but it seems to be a sacred place."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "It's in a forest that most people can't enter, and it's even further inside that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "There are lots of rare plants there, but there are also very fierce monsters."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "There's a place like that? It sounds kind of scary... But I want rare materials... I don't know what to do..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "I know I'm the one who told you about it, but if you go, be careful."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "It's very far away, and dangerous."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Okay, I will. Thank you, Elise."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Learned location of the \"<CLGR>Forest of Fairies<CLNR>\"."
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_TES_040.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Whoa, now this looks like a real bomb! Thanks, Sophie!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "You're welcome."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Hahaha, now I'll be able to get rid of that accursed rock."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "That reminds me... Why did you suddenly start thinking about blowing up a rock?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Well, you know. My place has a lot of little kids running around and playing, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, you mean your little brothers..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "That's right. Anyway, that big rock is just getting in the way."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Now that you mention it, it would be in the way..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Yup. I tried digging it out before, but it's buried unexpectedly deep in the ground."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "And that's why I asked you to make me a bomb, Dr. Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Hm, hm... I see. But... You should be really careful with that bomb."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Huh?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "It's made to be thrown at monsters... It has a lot of power."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "...How much power are we talking about?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Let's see... If you used it here, it would probably blow away the entire shop..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "I-it's that strong!? I see, I didn't know..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x28,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Well, I know I should be careful with it now. I'll use plenty of caution."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Yeah, please do so."
+        }
+    ]
+}

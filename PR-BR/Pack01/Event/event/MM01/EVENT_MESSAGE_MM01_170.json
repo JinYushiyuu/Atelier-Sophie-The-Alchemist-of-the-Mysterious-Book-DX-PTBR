@@ -1,0 +1,337 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM01_170.ebm",
+    "nb_messages": 0x26,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "We're back!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "Ah, welcome back. That took a long time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "T-that book is floating!? And talking!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2f,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "I never thought I'd hear the voices of books in addition to plants..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x29,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "N-no, Oskar, it isn't just you. I can hear it too, this time..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "msg_string": "Sophie, it seems your friends are just as loud as you are."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ahaha... I'm pretty sure anyone would be surprised if they saw you, Plachta..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Um... Both of you, this is..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "You wrote something in a reference book, and it started talking? Sounds more like a dream."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "I never thought that book would turn out to be something this amazing..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I was shocked at first too. I mean, a book was flying and talking, after all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "I don't think it's that shocking..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "No, it is..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "So um... Miss Plachta?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "Just call me Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Oh, okay then, Plachta... What, or who are you?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ah, I asked the same question. But it seems like Plachta doesn't have any memories."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "Yes. The only things I know are my name, and a little knowledge of alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Right. That's why I want to figure out a way to get her memories back."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Memories, huh... Maybe they'll come back if you found some sort of clue?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "A clue... Hmm..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Oh, Sophie. I just thought of something!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "Plachta started talking because you wrote something in the book, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Yeah, I think that did it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Then maybe her memories will return if you write more recipes into the book?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Wow, that makes sense! You're pretty sharp, Monika!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "What do you think, Plachta?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "It doesn't sound far-fetched. I think it would be worth trying."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x49,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Okay, in that case, I'll study lots of alchemy, and write lots of recipes into you!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "I feel like some sort of fate brought us here. If there's anything I can help with, let me know."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Yeah, I'll help with whatever I can too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Thank you both!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Whoa, it's getting late. I need to get home or mom will scold me again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "I'll be leaving as well. See you later, Sophie and Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Yeah, see you!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "I need to work hard, for Plachta!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "msg_string": "Yes, I have high hopes, Sophie."
+        }
+    ]
+}

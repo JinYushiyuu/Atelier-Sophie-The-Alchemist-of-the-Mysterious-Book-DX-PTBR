@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_11_message message_data="TESS_TOWN01_11" chara_tag="TESS" name_tag="TESS" voice_no1="11717" message1="Hey there, Sophie. Take your time and relax!"/>
+    <T01_TOWN_11_message message_data="HELLMUT_TOWN01_11" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="11720" message1="Oh, Sophie. Need something?"/>
+    <T01_TOWN_11_message message_data="MONIKA_TOWN01_11" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9017" message1="Singing for work, huh. That's pretty nice..."/>
+    <T01_TOWN_11_message message_data="SONGER_TOWN01_11" chara_tag="NPC23C" name_tag="NPC23C_01" voice_no1="-1" message1="Welcome. Just relax and listen."/>
+    <T01_TOWN_11_message message_data="QC01_MON_150_TESS" chara_tag="TESS" name_tag="TESS" voice_no1="9062" message1="Can you do something? Please!" next_message_tag="QC01_MON_150_MONIKA"/>
+    <T01_TOWN_11_message message_data="QC01_MON_150_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="I-I said it's impossible!"/>
+    <T01_TOWN_11_message message_data="QC01_MON_150_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="QC01_MON_310_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="QC01_MON_310_SONGER" chara_tag="NPC23C" name_tag="NPC23C_01" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="QC03_JUL_030_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="9025" message1="It's no problem at all." next_message_tag="QC03_JUL_030_HELLMUT"/>
+    <T01_TOWN_11_message message_data="QC03_JUL_030_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="Thank you, that really helps."/>
+    <T01_TOWN_11_message message_data="QC06_HAR_060_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="QC06_HAR_060_MACHI_A" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="QC06_HAR_060_MACHI_B" chara_tag="NPC00B" name_tag="NPC00B" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="QC11_ELI_040_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="QC12_HOR_160_LOGIX" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="QC12_HOR_160_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="QC12_HOR_200_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9015" message1="Thank you very much." next_message_tag="QC12_HOR_200_HELLMUT"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_200_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="Oh no, thank you."/>
+    <T01_TOWN_11_message message_data="QC12_HOR_210_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="9020" message1="As expected, Mr. Horst." next_message_tag="QC12_HOR_210_HELLMUT"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_210_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="Thank you very much."/>
+    <T01_TOWN_11_message message_data="QC12_HOR_220_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="9025" message1="Thank you very much." next_message_tag="QC12_HOR_220_HELLMUT"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_220_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="You're welcome."/>
+    <T01_TOWN_11_message message_data="QC12_HOR_230_PLACHTA" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="9012" message1="I see..." next_message_tag="QC12_HOR_230_HELLMUT"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_230_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="Did it suit your tastes?"/>
+    <T01_TOWN_11_message message_data="MS01_110_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="-1" message1="..." next_message_tag="MS01_110_HELLMUT"/>
+    <T01_TOWN_11_message message_data="MS01_110_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="MS01_170_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="9051" message1="Thank you." next_message_tag="MS01_170_HELLMUT"/>
+    <T01_TOWN_11_message message_data="MS01_170_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="Did it suit your tastes?"/>
+    <T01_TOWN_11_message message_data="MS01_170_TESS" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="MM09_010_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="9066" message1="Please relax and take your time."/>
+    <T01_TOWN_11_message message_data="MM09_010_TESS" chara_tag="TESS" name_tag="TESS" voice_no1="9060" message1="Hey there, handsome!" next_message_tag="MM09_010_TESS2"/>
+    <T01_TOWN_11_message message_data="MM09_010_TESS2" chara_tag="SOPHIE" name_tag="SOPHIE" voice_no1="-1" message1="Please, stop that."/>
+    <T01_TOWN_11_message message_data="TOWN_11_TESS_EV1" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="..." quest_tag="QC10_TES_030" voice_no2="11717" message2="Did you bring the item I requested?"/>
+    <T01_TOWN_11_message message_data="TOWN_11_TESS_EV2" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="..." quest_tag="QC10_TES_050" voice_no2="11717" message2="Did you bring the item I requested?"/>
+    <T01_TOWN_11_message message_data="TOWN_11_TESS_EV3" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="..." quest_tag="QC10_TES_070" voice_no2="11717" message2="Did you bring the item I requested?"/>
+    <T01_TOWN_11_message message_data="TOWN_11_TESS_EV4" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="..." quest_tag="QC10_TES_090" voice_no2="11717" message2="Did you bring the item I requested?"/>
+    <T01_TOWN_11_message message_data="TOWN_11_TESS_EV5" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="..." quest_tag="QC10_TES_120" voice_no2="11717" message2="Did you bring the item I requested?"/>
+    <T01_TOWN_11_message message_data="TOWN_11_HELLMUT_EV1" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="..." quest_tag="QC12_HOR_170" voice_no2="-1" message2="Did you bring the item I asked for?"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_00" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="To boil... Or bake... Both have their own merits..." next_message_tag="TOWN_11_NPC04A_01"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_01" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="But smoking is another option. Maybe I'll try it when I get a chance."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_10" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="The most effective way to come up with ideas is by taking action." next_message_tag="TOWN_11_NPC04A_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_11" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="I'm always tasting something when trying to come up with new dishes."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_20" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="Freezing and then thawing food can vastly change the texture..." next_message_tag="TOWN_11_NPC04A_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_21" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="The possibilities with ingredients really are endless."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_00" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="11802" message1="My work went really well, so I'm celebrating."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_01" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_10" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="11802" message1="It's a treat for myself, since I'm always working hard." next_message_tag="TOWN_11_NPC20A_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_11" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="-1" message1="It's money I earned and saved up. It's good to use it once in a while."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_20" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="11802" message1="I'm actually really into a new drink lately..." next_message_tag="TOWN_11_NPC20A_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_21" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="-1" message1="It's not bad to try something new once in a while."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_00" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="11803" message1="This soothes all the weariness of the week... It's a good day to drink."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_01" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_10" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="11803" message1="Apparently in the past, it was said that alcohol was a gift from God..." next_message_tag="TOWN_11_NPC21A_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_11" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="-1" message1="It's true that simply drinking it makes you more merry. That's a pretty big deal."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_20" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="11803" message1="When you grow up, there's less things that seem fun." next_message_tag="TOWN_11_NPC21A_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_21" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="-1" message1="...Although there are some things you couldn't do when you were a kid, like drink alcohol."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_00" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11772" message1="Welcome." next_message_tag="TOWN_11_NPC23A_01"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_01" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="Would you like some snacks? They're freshly baked and delicious."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_02" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11815" message1="Welcome." next_message_tag="TOWN_11_NPC23A_03"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_03" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="Would you like to try this? It's great for waking you up."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_10" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11772" message1="Welcome." next_message_tag="TOWN_11_NPC23A_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_11" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="Would you like some frozen sweets? They're great for hot days."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_12" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11815" message1="Welcome." next_message_tag="TOWN_11_NPC23A_13"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_13" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="Would you like some hot milk? It'll help you sleep on even the most sleepless nights."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_20" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11772" message1="Welcome." next_message_tag="TOWN_11_NPC23A_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_21" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="Would you like some rations? They're growing more popular lately."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_22" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11815" message1="Welcome." next_message_tag="TOWN_11_NPC23A_23"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_23" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="Would you like to try this? It tastes just like an alcoholic drink, but without the alcohol."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC00A_00" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="11748" message1="I heard that Tess came back. I've got to order lots of stuff now."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC00A_10" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="11748" message1="Uu, I think I ate too much... I still have plenty of money... But my body can't keep up with my wallet..."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC00A_20" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="11748" message1="Lately, I've been thinking of orders that would let me sit here a little longer than usual."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_00" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="I'm trying to think of ways to efficiently finish lots of requests, but..." next_message_tag="TOWN_11_NPC26B_01"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_01" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="I think I'm the type who needs to go one by one, completing them thoroughly."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_10" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="It's great that I can accept more difficult requests now, but..." next_message_tag="TOWN_11_NPC26B_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_11" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="Some of them really are too hard. It takes a different kind of courage to refuse them."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_20" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="The only requests I can really do are the ones to deliver materials..." next_message_tag="TOWN_11_NPC26B_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_21" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="But the more capable you prove yourself to be, the less easy requests like that you see."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC27A_00" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="-1" message1="The weekdays don't really have any special events..." next_message_tag="TOWN_11_NPC27A_01"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC27A_01" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="-1" message1="It's actually good, since you can immerse yourself in your own work."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC27A_10" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="-1" message1="It kind of makes your curious when people aren't in their usual places, right?"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC27A_20" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="-1" message1="Hm, where should I go today..."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_00" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="Ah... Such a gentle interior, and that faint, fleeting feeling..." next_message_tag="TOWN_11_NPC26A_01"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_01" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="That atmosphere has captured my heart, and won't let go..."/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_10" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="Hmm, maybe... I just don't have the right air." next_message_tag="TOWN_11_NPC26A_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_11" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="What about learning from someone? Like Pamela?"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_20" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="Hehe, I can't say enough today either... It's never enough." next_message_tag="TOWN_11_NPC26A_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_21" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="I couldn't say enough, even if I spent my entire life. Pamela's charm is just that deep."/>
+    <T01_TOWN_11_message message_data="TOWN_11_DUMMY_MSG" voice_no1="-1" message1="..."/>
+</Root>

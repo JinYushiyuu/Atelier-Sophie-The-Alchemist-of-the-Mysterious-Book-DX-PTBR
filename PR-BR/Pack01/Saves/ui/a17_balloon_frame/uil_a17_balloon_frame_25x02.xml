@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root pos="325,370" visible="true">
+	<command load_anim="Saves/ui/a17_balloon_frame/uia_a17_balloon_frame.xml"/>
+	<!--パネルの両左右下の土台-->
+	<node load="Saves/ui/uil_template.xml" name="template_loader" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+	<node name="base" visible="false" viewer_visible="true">
+		<!--パネル-->
+		<image name="panel" pos="-67.00, 150.00, 0.00" style="gen_a17_speech_win01_w01" size_wh="767.00, 120.00, 0.00">
+			<!--メッセージ-->
+			<text name="msg_text" color="243.00, 243.00, 243.00, 255.00" pos="37.00, 26.00, 0.00" drop_shadow="false" line_char_length="25" font_size="28.00" line_space="6.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" text="あいうえおかきくけこサシスセソたちつてとアイウエオあいうえおかきくけこサシスセソたちつてとあいうえの" word_space="-0.50"/>
+			<!--名前表示欄-->
+			<image name="name_base" pos="25.00, -27.00, 0.00" style="gen_a17_speech_win01_namebg" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text name="name_text" text="シャリー" pos="133, 5, 0" align="center" font_size="28.00" copy="TEXTCOLOR_BROWN"/>
+			</image>
+			<image name="prompt_icon" pos_ratio_x="1.00" pos_ratio_y="1.00" pos="-45.00, -57.00, 0.00" style="gen_a17_common02_csr02" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<anim_ctrl name="anim_ctrl" play="true" loop="true">
+					<bind_node node="prompt_icon" anim="anm_bf_prompt"/>
+				</anim_ctrl>
+			</image>
+		</image>
+	</node>
+	<!--入場演出-->
+	<anim_ctrl name="anim_enter" start_visible="true" play="true" loop="false" reverse="false" speed="1.0">
+		<bind_node node="base" anim="anm_common_fade_in"/>
+	</anim_ctrl>
+</root>

@@ -1,0 +1,167 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_TES_060.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "Whoa, thanks Sophie! Yeah, this is some really good wood!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Will this be enough?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1a,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Yeah, it's perfect. This should make a better wall than I had before."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ahaha, that's good."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Anyway, here's your reward. The payment for the bomb's included."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "T-thank you very much."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "By the way, Tess. It sounds like this will be a major project... Will you be able to do it alone?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Oh, yeah. I'll be fine. I'm actually really good at carpentry!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Huh, that's kind of unexpected..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Well, my little brothers are pretty rowdy, so they break lots of stuff. I'd always have to fix it all, so..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "So you got good at it before you knew it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Yeah, that's right."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "I see... However, if you require assistance, please don't hesitate to ask. I'll go over to help."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Yeah, I'll help too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Haha, I'm happy you say that. I'll ask if I can't fix it up myself."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "But... Maybe a bomb was overdoing it a little... I kind of regret it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ahaha..."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Received 500 Cole."
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS03_090.ebm",
+    "nb_messages": 0xc,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "I-is this really okay...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Wow, this is very stylish."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "I made it according to Leon's design, but I've never seen a spear this fashionable."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Does a weapon even need to be stylish?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "What are you talking about? Of course it does."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oh, hello Leon."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "A truly good weapon needs to be beautiful. Don't you understand that as a blacksmith?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "It's true that the finest weapons all possess their own unique brilliance..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "But just because a weapon is beautiful doesn't mean it's a good weapon, either..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "I'll be the one to decide that. I'll use it, and show you that it's a good weapon."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Anyway, it looks well made. Thanks."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x9,
+            "name_id": 0x9,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "S-sure. I guess it's fine if she's okay with it..."
+        }
+    ]
+}

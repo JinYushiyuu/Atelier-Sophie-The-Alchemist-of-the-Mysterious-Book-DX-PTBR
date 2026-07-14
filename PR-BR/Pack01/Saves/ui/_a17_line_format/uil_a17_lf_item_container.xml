@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--アイテムコンテナメニューの行のひな形-->
+	<node name="lf_item_container" pos="0, 0, 0">
+		<text text="あいうえおかきくけこ" name="item_name" color="53.00, 19.00, 0.00, 255.00" pos="17, 5, 0"/>
+		<text text="999" name="item_count" color="53.00, 19.00, 0.00, 255.00" pos="345.00, 7.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right"/>
+	</node>
+</root>

@@ -1,0 +1,337 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_JUL_180.ebm",
+    "nb_messages": 0x25,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Nazarus!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Now! This is our chance, make him drink the medicine."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Understood!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "...Huh? Where am I?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Nazarus!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Good, it seems you've regained control."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "You're... I see, so I'm still alive."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Yes, you are. Sophie made medicine for you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "I see. Thank you, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Yeah..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "What's wrong? Why such a sad face?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Your arm hasn't been cured..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "What are you saying? It's thanks to you that I could return to normal. Don't worry about my arm."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "But..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "It's as Nazarus says, Sophie. It seems it won't progress any further."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Huh?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x10,
+            "msg_string": "Really!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Yes, I don't feel the ominous presence that was there when we first met."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "I believe the curse that was consuming his body has disappeared."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "A long time passed while his arm was transformed, so that's likely why it didn't return to normal."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "I see... But now I don't have to worry about attacking people..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "You've finally done it, Nazarus."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Julio, thank you. It's all because of you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "No, I haven't done anything. It was thanks to Sophie and Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "But if I hadn't met you back then, I would have turned into a monster sooner or later."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "You hardly even knew who I was, why did you do so much for my sake?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "It's a knight's duty to protect everyone. I only did the obvious thing to do."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Also, if I had abandoned you back then, I would have started to give up on everyone in a similar position."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "I intend to continue to protect everybody. I believe that's the right path to take as a knight."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Furthermore, this isn't the end. Your arm hasn't returned to normal, after all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "I'll continue to search for a way to turn it back."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "Julio... Thank you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "For now, let's return to town and rest. We'll think about what to do afterwards."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "You're right. Nazarus, you should come to the church. You can rest easy there."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Thank you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "No need for thanks. That's the duty of a knight."
+        }
+    ]
+}

@@ -1,0 +1,202 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_OSK_100.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oh hello, Sophie. Welcome."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Elise, have you seen Oskar?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Oskar? I haven't seen him. I haven't left my shop today."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Hehe, are you playing hide and seek?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "I don't know if I could call it hide and seek, or tag, or what..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x24,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Oskar's slacking off on his job again, and ran off somewhere."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x7,
+            "msg_string": "Ah, I see. Still... You really have all gotten along since long ago."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Well, I guess we're childhood friends."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Maybe it's because you've been together for so long..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Sometimes, I start to think that you and Oskar are really similar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "What!? How!? I'm not fat at all!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Not your appearance, your inner personality."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2e,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "You're both fixated on something, and once you start concentrating, you don't pay attention to your surroundings."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "I-I don't know about that. And besides, you're the same way, Elise."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "It's true that I can get engrossed in books, but I know how much time passed while I was reading."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "But when you two concentrate on something, you can sometimes totally immerse yourselves in it for days."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "Uu... I can't deny that..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x5,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "...Back on topic, but I would guess Oskar went somewhere with lots of plants that he likes."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "It was enough to make him completely forget about looking after the store, after all. He really cares about that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Oh, that might be possible...! Thank you, Elise!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Yes, do your best."
+        }
+    ]
+}

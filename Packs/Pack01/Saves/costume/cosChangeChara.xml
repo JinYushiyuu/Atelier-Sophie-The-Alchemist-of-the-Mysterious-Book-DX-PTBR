@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<cosChangeChara tag="COSCHANGE_CHARA_SHALLISTERA" charaTag="CHARA_SHALLISTERA" cos0="COSTUME_PC40" cos1="COSTUME_PC40B"/>
+	<cosChangeChara tag="COSCHANGE_CHARA_SHALLOTTE" charaTag="CHARA_SHALLOTTE" cos0="COSTUME_PC41" cos1="COSTUME_PC41B"/>
+	<cosChangeChara tag="COSCHANGE_CHARA_WILBELL" charaTag="CHARA_WILBELL" cos0="COSTUME_PC43" cos1="COSTUME_PC43B"/>
+	<cosChangeChara tag="COSCHANGE_CHARA_JURIE" charaTag="CHARA_JURIE" cos0="COSTUME_PC44" cos1="COSTUME_PC44B"/>
+	<cosChangeChara tag="COSCHANGE_CHARA_MIRUCA" charaTag="CHARA_MIRUCA" cos0="COSTUME_PC45" cos1="COSTUME_PC45B"/>
+	<cosChangeChara tag="COSCHANGE_CHARA_ESCHA" charaTag="CHARA_ESCHA" cos0="COSTUME_PC48" cos1="COSTUME_PC48B" cos2="COSTUME_PC48C"/>
+	<cosChangeChara tag="COSCHANGE_CHARA_KATLA" charaTag="CHARA_KATLA" cos0="COSTUME_PC52" cos1="COSTUME_PC52B"/>
+	<cosChangeChara tag="COSCHANGE_CHARA_LINCA" charaTag="CHARA_LINCA" cos0="COSTUME_PC55" cos1="COSTUME_PC55B"/>
+</Root>

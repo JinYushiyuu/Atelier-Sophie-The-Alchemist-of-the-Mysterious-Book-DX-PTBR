@@ -1,0 +1,736 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <LibraryEsp note="Effect: Price when selling to shops decreases a little, but also decreases duplication price." permit="true"/>
+    <LibraryEsp note="Effect: Price when selling to shops decreases quite a bit, but also decreases duplication price." permit="true"/>
+    <LibraryEsp note="Effect: Price when selling to shops decreases quite a lot, but also decreases duplication price." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Low Price x Low Price+&lt;CLNR&gt;&lt;CR&gt;Effect: Price when selling to shops decreases quite a lot, but also decreases duplication price." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Low Price+ x Low Price++&lt;CLNR&gt;&lt;CR&gt;Effect: Price when selling to shops decreases massively, but also decreases duplication price." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Common Item x Mass Produced&lt;CLNR&gt;&lt;CR&gt;Effect: Price when selling to shops plummets, but also decreases duplication price." permit="true"/>
+    <LibraryEsp note="Effect: Price when selling to shops increases a little." permit="true"/>
+    <LibraryEsp note="Effect: Price when selling to shops increases quite a bit." permit="true"/>
+    <LibraryEsp note="Effect: Price when selling to shops increases quite a lot." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;High Price x High Price+&lt;CLNR&gt;&lt;CR&gt;Effect: Price when selling to shops increases quite a lot." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;High Price+ x High Price++&lt;CLNR&gt;&lt;CR&gt;Effect: Price when selling to shops increases massively." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;High Class x Rare Item&lt;CLNR&gt;&lt;CR&gt;Effect: Price when selling to shops skyrockets." permit="true"/>
+    <LibraryEsp note="Effect: Increases item quality by 10% when this trait is transferred." permit="true"/>
+    <LibraryEsp note="Effect: Increases item quality by 15% when this trait is transferred." permit="true"/>
+    <LibraryEsp note="Effect: Increases item quality by 20% when this trait is transferred." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Quality Up x Quality Up+&lt;CLNR&gt;&lt;CR&gt;Effect: Increases item quality by 20% when this trait is transferred." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Quality Up+ x Quality Up++&lt;CLNR&gt;&lt;CR&gt;Effect: Increases item quality by 30% when this trait is transferred." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Well Made x Pro Perfection&lt;CLNR&gt;&lt;CR&gt;Effect: Increases item quality by 50% when this trait is transferred." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Increases attack item effect by 5%." permit="true"/>
+    <LibraryEsp note="Effect: Increases attack item effect by 7%." permit="true"/>
+    <LibraryEsp note="Effect: Increases attack item effect by 10%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Destruction Up x Destruction Up+&lt;CLNR&gt;&lt;CR&gt;Effect: Increases attack item effect by 12%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Destruction Up+ x Destruction Up++&lt;CLNR&gt;&lt;CR&gt;Effect: Increases attack item effect by 17%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Big Destruction x Intense Destruction&lt;CLNR&gt;&lt;CR&gt;Effect: Increases attack item effect by 30%." permit="true"/>
+    <LibraryEsp note="Effect: Increases attack item effect by 40%." permit="true"/>
+    <LibraryEsp note="Effect: Attack item enhanced by a small, fixed amount. Lower power equals stronger enhancement." permit="true"/>
+    <LibraryEsp note="Effect: Attack item enhanced by a fixed amount. Lower power equals stronger enhancement." permit="true"/>
+    <LibraryEsp note="Effect: Attack item enhanced by a large, fixed amount. Lower power equals stronger enhancement." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Fixed Power x Fixed Power+&lt;CLNR&gt;&lt;CR&gt;Effect: Attack item enhanced by a fixed amount. Lower power equals stronger enhancement." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Fixed Power+ x Fixed Power++&lt;CLNR&gt;&lt;CR&gt;Effect: Attack item enhanced by a large, fixed amount. Lower power equals stronger enhancement." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Pain in Numbers x Damage in Numbers&lt;CLNR&gt;&lt;CR&gt;Effect: Attack item enhanced by a huge, fixed amount. Lower power equals stronger enhancement." permit="true"/>
+    <LibraryEsp note="Effect: Attack item enhanced by a ridiculous, fixed amount. This increase scales with the original value." permit="true"/>
+    <LibraryEsp note="Effect: Attacks cause 5% additional damage, and increases skill power by 5%." permit="true"/>
+    <LibraryEsp note="Effect: Attacks cause 7% additional damage, and increases skill power by 7%." permit="true"/>
+    <LibraryEsp note="Effect: Attacks cause 10% additional damage, and increases skill power by 10%." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Increases recovery item effect by 10%." permit="true"/>
+    <LibraryEsp note="Effect: Increases recovery item effect by 15%." permit="true"/>
+    <LibraryEsp note="Effect: Increases recovery item effect by 20%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Recovery Up x Recovery Up+&lt;CLNR&gt;&lt;CR&gt;Effect: Increases recovery item effect by 25%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Recovery Up+ x Recovery Up++&lt;CLNR&gt;&lt;CR&gt;Effect: Increases recovery item effect by 35%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Big Recovery x Intense Recovery&lt;CLNR&gt;&lt;CR&gt;Effect: Increases recovery item effect by 50%." permit="true"/>
+    <LibraryEsp note="Effect: Increases recovery item effect by 40%." permit="true"/>
+    <LibraryEsp note="Effect: Recovery item enhanced by a tiny, fixed amount. Lower power equals stronger effect." permit="true"/>
+    <LibraryEsp note="Effect: Recovery item enhanced by a small, fixed amount. Lower power equals stronger effect." permit="true"/>
+    <LibraryEsp note="Effect: Recovery item enhanced by a fixed amount. Lower power equals stronger effect." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Fixed Recovery x Fixed Recovery+&lt;CLNR&gt;&lt;CR&gt;Effect: Recovery item enhanced by a small, fixed amount. Lower power equals stronger effect." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Fixed Recovery+ x Fixed Recovery++&lt;CLNR&gt;&lt;CR&gt;Effect: Recovery item enhanced by a fixed amount. Lower power equals stronger effect." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Medicine Enhance x Big Medicine Enhance&lt;CLNR&gt; Effect: Recovery item enhanced by a large, fixed amount. Lower power equals stronger effect." permit="true"/>
+    <LibraryEsp note="Effect: Recovery item enhanced by a ridiculous, fixed amount. This increase scales with the original value." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Gives item a 15% chance to critical hit." permit="true"/>
+    <LibraryEsp note="Effect: Gives item a 25% chance to critical hit." permit="true"/>
+    <LibraryEsp note="Effect: Gives item a 35% chance to critical hit." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Critical x Critical+&lt;CLNR&gt;&lt;CR&gt;Effect: Gives item a 50% chance to critical hit." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Critical+ x Critical++&lt;CLNR&gt;&lt;CR&gt;Effect: Item will always critical hit." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Critical Finish x Always Critical&lt;CLNR&gt;&lt;CR&gt;Effect: Item will always critical hit, and KO target (bosses excluded)." permit="true"/>
+    <LibraryEsp note="Effect: Reduces item number variation slightly, making it easier to score higher numbers." permit="true"/>
+    <LibraryEsp note="Effect: Reduces item number variation a little, making it easier to score higher numbers." permit="true"/>
+    <LibraryEsp note="Effect: Reduces item number variation, making it easier to score higher numbers." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Stable Effect x Stable Effect+&lt;CLNR&gt;&lt;CR&gt;Effect: Reduces item number variation, making it easier to score higher numbers." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Stable Effect+ x Stable Effect++&lt;CLNR&gt;&lt;CR&gt;Effect: Halves item number variation, making it easier to score higher numbers." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Stability Emphasis x Solid Effect&lt;CLNR&gt;&lt;CR&gt;Effect: Stabilizes item number variation, making it far easier to score higher numbers." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Increases item use count by 1. Power is reduced a little." permit="true"/>
+    <LibraryEsp note="Effect: Increases item use count by 2. Power is reduced slightly." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Use Count +1 x Use Count +2&lt;CLNR&gt;&lt;CR&gt;Effect: Increases item use count by 3." permit="true"/>
+    <LibraryEsp note="Effect: Reduces item use count by 1. Power is increased a little." permit="true"/>
+    <LibraryEsp note="Effect: Reduces item use count by 2. Power is increased." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Use Count -1 x Use Count -2&lt;CLNR&gt;&lt;CR&gt;Effect: Reduces item use count by 5. Power is massively increased." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Bestows a maximum HP increase.&lt;CR&gt;Effect: Maximum HP increases by 10." permit="true"/>
+    <LibraryEsp note="Bestows a maximum HP increase.&lt;CR&gt;Effect: Maximum HP increases by 15." permit="true"/>
+    <LibraryEsp note="Bestows a maximum HP increase.&lt;CR&gt;Effect: Maximum HP increases by 25." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;HP Enhance x HP Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum HP increases by 25." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;HP Boost x HP Super Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum HP increases by 40." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Full of Life x Overflowing Life&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum HP increases by 70." permit="true"/>
+    <LibraryEsp note="Bestows a maximum MP increase.&lt;CR&gt;Effect: Maximum MP increases by 10." permit="true"/>
+    <LibraryEsp note="Bestows a maximum MP increase.&lt;CR&gt;Effect: Maximum MP increases by 15." permit="true"/>
+    <LibraryEsp note="Bestows a maximum MP increase.&lt;CR&gt;Effect: Maximum MP increases by 25." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;MP Enhance x MP Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum MP increases by 25." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;MP Boost x MP Super Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum MP increases by 40." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Magician's Wisdom x Grand Magician's Wisdom&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum MP increases by 70." permit="true"/>
+    <LibraryEsp note="Bestows a maximum LP increase.&lt;CR&gt;Effect: Maximum LP increases by 5." permit="true"/>
+    <LibraryEsp note="Bestows a maximum LP increase.&lt;CR&gt;Effect: Maximum LP increases by 7." permit="true"/>
+    <LibraryEsp note="Bestows a maximum LP increase.&lt;CR&gt;Effect: Maximum LP increases by 10." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;LP Enhance x LP Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum LP increases by 12." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;LP Boost x LP Super Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum LP increases by 17." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Full of Stamina x Unabating Stamina&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum LP increases by 30." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Full of Life x Magician's Wisdom&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum HP and MP increases by 15." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Overflowing Life x Grand Magician's Wisdom&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum HP and MP increases by 25." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Power of Life x Wisdom of the Gods&lt;CLNR&gt;&lt;CR&gt;Effect: Maximum HP and MP increases by 40." permit="true"/>
+    <LibraryEsp note="Bestows a stat boost.&lt;CR&gt;Effect: Increases base stats by 5%." permit="true"/>
+    <LibraryEsp note="Bestows a stat boost.&lt;CR&gt;Effect: Increases base stats by 6%." permit="true"/>
+    <LibraryEsp note="Bestows a stat boost.&lt;CR&gt;Effect: Increases base stats by 7%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Parameters +5% x Parameters +6%&lt;CLNR&gt;&lt;CR&gt;Effect: Increases base stats by 10%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Parameters +6% x Parameters +7%&lt;CLNR&gt;&lt;CR&gt;Effect: Increases base stats by 12%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Enhance the Body x Draw Out Power&lt;CLNR&gt;&lt;CR&gt;Effect: Increases base stats by 15%." permit="true"/>
+    <LibraryEsp note="Effect: Increases base stats by 20%." permit="true"/>
+    <LibraryEsp note="Enhances weapon attack power.&lt;CR&gt;Effect: Increases attack power by 7." permit="true"/>
+    <LibraryEsp note="Enhances weapon attack power.&lt;CR&gt;Effect: Increases attack power by 10." permit="true"/>
+    <LibraryEsp note="Enhances weapon attack power.&lt;CR&gt;Effect: Increases attack power by 15." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Attack Enhance x Attack Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Increases attack power by 15." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Attack Boost x Attack Super Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Increases attack power by 25." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Power of Beasts x Power of Destruction&lt;CLNR&gt;&lt;CR&gt;Effect: Increases attack power by 40." permit="true"/>
+    <LibraryEsp note="Enhances armor defense.&lt;CR&gt;Effect: Increases defense by 7." permit="true"/>
+    <LibraryEsp note="Enhances armor defense.&lt;CR&gt;Effect: Increases defense by 10." permit="true"/>
+    <LibraryEsp note="Enhances armor defense.&lt;CR&gt;Effect: Increases defense by 15." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Defense Enhance x Defense Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Increases defense by 15." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Defense Boost x Defense Super Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Increases defense by 25." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Steel Defense x Diamond Defense&lt;CLNR&gt;&lt;CR&gt;Effect: Increases defense by 40." permit="true"/>
+    <LibraryEsp note="Accessories with this will increase speed.&lt;CR&gt;Effect: Increases speed by 7." permit="true"/>
+    <LibraryEsp note="Accessories with this will increase speed.&lt;CR&gt;Effect: Increases speed by 10." permit="true"/>
+    <LibraryEsp note="Accessories with this will increase speed.&lt;CR&gt;Effect: Increases speed by 15." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Speed Enhance x Speed Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Increases speed by 15." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Speed Boost x Speed Super Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Increases speed by 25." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Speed of Skanda x Speed of Gods&lt;CLNR&gt;&lt;CR&gt;Effect: Increases speed by 40." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Attack Enhance x Defense Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Increases attack &amp; defense by 5." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Attack Enhance x Speed Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Increases attack &amp; speed by 5." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Defense Enhance x Speed Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Increases defense &amp; speed by 5." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;ATK DEF Enhance x ATK SPD Enhance x DEF SPD Enhance (any 2)&lt;CLNR&gt;&lt;CR&gt;Effect: Increases all stats by 5." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Attack Boost x Defense Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Increases attack &amp; defense by 7." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Attack Boost x Speed Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Increases attack &amp; speed by 7." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Defense Boost x Speed Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Increases defense &amp; speed by 7." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;ATK DEF Boost x ATK SPD Boost x DEF SPD Boost (any 2)&lt;CLNR&gt;&lt;CR&gt;Effect: Increases all stats by 7." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;All Stat Enhance x All Stat Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Increases all stats except resistances by 10." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;All Stat Boost x All Stat Super Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Increases all stats except resistances by 25." permit="true"/>
+    <LibraryEsp note="Effect: Increases maximum HP and MP by 50." permit="true"/>
+    <LibraryEsp note="Effect: Increases defense by 30, and increases all base stats by 15%." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Bestows reduced MP consumption effect.&lt;CR&gt;Effect: Reduces MP consumption of skills by 10%." permit="true"/>
+    <LibraryEsp note="Bestows reduced MP consumption effect.&lt;CR&gt;Effect: Reduces MP consumption of skills by 15%." permit="true"/>
+    <LibraryEsp note="Bestows reduced MP consumption effect.&lt;CR&gt;Effect: Reduces MP consumption of skills by 20%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Consume MP -10% x Consume MP -15%&lt;CLNR&gt;&lt;CR&gt;Effect: Reduces MP consumption of skills by 20%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Consume MP -15% x Consume MP -20%&lt;CLNR&gt;&lt;CR&gt;Effect: Reduces MP consumption of skills by 30%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Cut MP Consume x Compact MP Consume&lt;CLNR&gt;&lt;CR&gt;Effect: Reduces MP consumption of skills by 50%." permit="true"/>
+    <LibraryEsp note="Bestows increased skill power effect.&lt;CR&gt;Effect: Increases skill power and MP consumption by 5%." permit="true"/>
+    <LibraryEsp note="Bestows increased skill power effect.&lt;CR&gt;Effect: Increases skill power and MP consumption by 7%." permit="true"/>
+    <LibraryEsp note="Bestows increased skill power effect.&lt;CR&gt;Effect: Increases skill power and MP consumption by 10%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Skill Power +5% x Skill Power +7%&lt;CLNR&gt;&lt;CR&gt;Effect: Increases skill power and MP consumption by 12%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Skill Power +7% x Skill Power +10%&lt;CLNR&gt;&lt;CR&gt;Effect: Increases skill power and MP consumption by 17%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Skill Enhance x Skill Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Increases skill power and MP consumption by 30%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Cut MP Consume x Skill Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Increases skill power by 7%, and reduces MP consumption by 7%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Compact MP Consume x Skill Boost&lt;CLNR&gt;&lt;CR&gt;Effect: Increases skill power by 10%, and reduces MP consumption by 10%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Halve MP Consume x Skill Super Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Increases skill power by 15%, and reduces MP consumption by 15%." permit="true"/>
+    <LibraryEsp note="Effect: Increases skill power by 25%, and reduces MP consumption by 25%." permit="true"/>
+    <LibraryEsp note="Effect: Increases skill power by 35%, and reduces MP consumption by 35%." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Massively increases the target's level." permit="true"/>
+    <LibraryEsp note="Effect: Massively increases the target's attack power." permit="true"/>
+    <LibraryEsp note="Effect: Massively increases the target's defense." permit="true"/>
+    <LibraryEsp note="Effect: Massively increases the target's speed." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Has a &lt;CLGR&gt;chance to inflict Sleep&lt;CLNR&gt; when dealing damage." permit="true"/>
+    <LibraryEsp note="Effect: Has a &lt;CLGR&gt;chance to inflict Poison&lt;CLNR&gt; when dealing damage." permit="true"/>
+    <LibraryEsp note="Effect: Has a &lt;CLGR&gt;chance to inflict Slow&lt;CLNR&gt; when dealing damage." permit="true"/>
+    <LibraryEsp note="Effect: Has a &lt;CLGR&gt;chance to inflict Curse&lt;CLNR&gt; when dealing damage." permit="true"/>
+    <LibraryEsp note="Effect: Has a &lt;CLGR&gt;chance to inflict Blind&lt;CLNR&gt; when dealing damage." permit="true"/>
+    <LibraryEsp note="Effect: Has a &lt;CLGR&gt;chance to inflict Weak&lt;CLNR&gt; when dealing damage." permit="true"/>
+    <LibraryEsp note="Effect: Has a &lt;CLGR&gt;chance to inflict No Heal&lt;CLNR&gt; when dealing damage." permit="true"/>
+    <LibraryEsp note="Effect: Has a &lt;CLGR&gt;chance to inflict Seal&lt;CLNR&gt; when dealing damage." permit="true"/>
+    <LibraryEsp note="Effect: Massively reduces the target's level, reducing all stats and damage dealt." permit="true"/>
+    <LibraryEsp note="Effect: Massively reduces the target's attack power." permit="true"/>
+    <LibraryEsp note="Effect: Massively reduces the target's defense." permit="true"/>
+    <LibraryEsp note="Effect: Massively reduces the target's speed." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Absorb 3% of damage dealt through attacks to restore your own HP." permit="true"/>
+    <LibraryEsp note="Effect: Absorb 5% of damage dealt through attacks to restore your own HP." permit="true"/>
+    <LibraryEsp note="Effect: Absorb 7% of damage dealt through attacks to restore your own HP." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Damage Absorb x Damage Absorb+&lt;CLNR&gt;&lt;CR&gt;Effect: Absorb 7% of damage dealt through attacks to restore your own HP." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Damage Absorb+ x Damage Absorb++&lt;CLNR&gt;&lt;CR&gt;Effect: Absorb 10% of damage dealt through attacks to restore your own HP." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;HP Absorb x Steal Life&lt;CLNR&gt;&lt;CR&gt;Effect: Absorb 15% of damage dealt through attacks to restore your own HP." permit="true"/>
+    <LibraryEsp note="Effect: Increases attack power by 20, and absorb 10% of damage dealt through attacks to restore your own HP." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Slag type enemies." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Plant and Spirit type enemies." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Animal and Beast type enemies." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Demon type enemies." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Dragon type enemies." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to monsters created through magic and alchemy." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Puni type enemies." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Undead type enemies." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Broken targets by 10%." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Broken targets by 20%." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Broken targets by 30%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Enhance Finisher x Enhance Finisher+&lt;CLNR&gt;&lt;CR&gt;Effect: Increases damage dealt to Broken targets by 30%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Enhance Finisher+ x Enhance Finisher++&lt;CLNR&gt;&lt;CR&gt;Effect: Increases damage dealt to Broken targets by 40%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Merciless Blow x Relentless Blow&lt;CLNR&gt;&lt;CR&gt;Effect: Increases damage dealt to Broken targets by 60%." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Enhances item effect according to strength of traits present." permit="true"/>
+    <LibraryEsp note="Effect: Greatly enhances item effect according to strength of traits present." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Trait Enhance x Trait Enhance+&lt;CLNR&gt;&lt;CR&gt;Effect: Massively enhances item effect according to strength of traits present." permit="true"/>
+    <LibraryEsp note="Effect: Enhances item effect according to strength of traits present. Stronger traits equal ridiculously greater enhancement." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Power increases by number of targets in effect area x 5%." permit="true"/>
+    <LibraryEsp note="Effect: Power increases by number of targets in effect area x 10%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Area Bonus x Area Bonus+&lt;CLNR&gt;&lt;CR&gt;Effect: Power increases by number of targets in effect area x 15%." permit="true"/>
+    <LibraryEsp note="Effect: Power increases by number of targets in effect area x 20%." permit="true"/>
+    <LibraryEsp note="Effect: Power increases by 10 / number of targets in effect area %." permit="true"/>
+    <LibraryEsp note="Effect: Power increases by 15 / number of targets in effect area %." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Fewer Bonus x Fewer Bonus+&lt;CLNR&gt;&lt;CR&gt;Effect: Power increases by 20 / number of targets in effect area %." permit="true"/>
+    <LibraryEsp note="Effect: Power increases by 30 / number of targets in effect area %." permit="true"/>
+    <LibraryEsp note="Effect: Power increases by 20 / number of targets in effect area % + number of targets in effect area x 10%." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Power increases by 10% when use count is 1." permit="true"/>
+    <LibraryEsp note="Effect: Power increases by 20% when use count is 1." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Enhance Last x Enhance Last+&lt;CLNR&gt;&lt;CR&gt;Effect: Power increases by 30% when use count is 1." permit="true"/>
+    <LibraryEsp note="Effect: Power increases by 45% when use count is 1." permit="true"/>
+    <LibraryEsp note="Effect: Completely consumes item in 1 use during battle, but increases power by use count x 3%." permit="true"/>
+    <LibraryEsp note="Effect: Completely consumes item in 1 use during battle, but increases power by use count x 5%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Count Compress x Count Compress+&lt;CLNR&gt;&lt;CR&gt;Effect: Completely consumes item in 1 use during battle, but increases power by use count x 7%." permit="true"/>
+    <LibraryEsp note="Effect: Completely consumes item in 1 use during battle, but increases power by use count x 10%." permit="true"/>
+    <LibraryEsp note="Effect: Increases item power by maximum use count x 2%." permit="true"/>
+    <LibraryEsp note="Effect: Increases item power by maximum use count x 3%." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Count Bonus x Count Bonus+&lt;CLNR&gt;&lt;CR&gt;Effect: Increases item power by maximum use count x 5%." permit="true"/>
+    <LibraryEsp note="Effect: Increases item power by maximum use count x 7%." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Reduces WT after using item by 10%. Power is decreased slightly." permit="true"/>
+    <LibraryEsp note="Effect: Reduces WT after using item by 20%. Power is decreased a small amount." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Fast Use x Fast Use+&lt;CLNR&gt;&lt;CR&gt;Effect: Reduces WT after using item by 30%. Power is decreased a small amount." permit="true"/>
+    <LibraryEsp note="Effect: Reduces WT after using item by 50%." permit="true"/>
+    <LibraryEsp note="Effect: Wait time after using item increases a little, but power increases a little too." permit="true"/>
+    <LibraryEsp note="Effect: Wait time after using item increases, but power increases too." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Power Throw x Power Throw+&lt;CLNR&gt;&lt;CR&gt;Effect: Wait time after using item increases a lot, but power increases a lot too." permit="true"/>
+    <LibraryEsp note="Effect: Increases item power by a small amount proportional to wait time after using item." permit="true"/>
+    <LibraryEsp note="Effect: Increases item power by a decent amount proportional to wait time after using item." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Wait Time Enhance x Wait Time Enhance+&lt;CLNR&gt;&lt;CR&gt;Effect: Increases item power proportional to wait time after using item." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Item size increases by 1 level, equipment cost increases by 5." permit="true"/>
+    <LibraryEsp note="Effect: Item size increases by 2 levels, equipment cost increases by 10." permit="true"/>
+    <LibraryEsp note="Effect: Item size decreases by 1 level, equipment cost decreases by 10." permit="true"/>
+    <LibraryEsp note="Effect: Item size decreases by 2 levels, equipment cost decreases by 20." permit="true"/>
+    <LibraryEsp note="Effect: Increases item effect by a decent amount as size increases." permit="true"/>
+    <LibraryEsp note="Effect: Increases item effect as size increases." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Size Enhance x Size Super Enhance&lt;CLNR&gt;&lt;CR&gt;Effect: Increases item effect by a large amount as size increases." permit="true"/>
+    <LibraryEsp note="Effect: Reduces equipment cost of usable item by 5." permit="true"/>
+    <LibraryEsp note="Effect: Reduces equipment cost of usable item by 8." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Kind of Light x Light&lt;CLNR&gt;&lt;CR&gt;Effect: Reduces equipment cost of usable item by 12." permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;Light x Easy to Handle&lt;CLNR&gt;&lt;CR&gt;Effect: Reduces equipment cost of usable item by 20." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Zeal factor enhances the material it resides in.&lt;CR&gt;Effect: Increases HP and attack." permit="true"/>
+    <LibraryEsp note="Happy heart enhances the material it resides in.&lt;CR&gt;Effect: Increases MP and defense." permit="true"/>
+    <LibraryEsp note="Cunning wit enhances the material it resides in.&lt;CR&gt;Effect: Increases critical bonus and accuracy." permit="true"/>
+    <LibraryEsp note="Splendid glory enhances the material it resides in.&lt;CR&gt;Effect: Increases WT delay resistance and Break resistance." permit="true"/>
+    <LibraryEsp note="Benevolent light enhances the material it resides in.&lt;CR&gt;Effect: Provides damage reversal and immunity to all ailments." permit="true"/>
+    <LibraryEsp note="Wild instinct enhances the material it resides in.&lt;CR&gt;Effect: Increases speed, reduces wait time after using skills." permit="true"/>
+    <LibraryEsp note="Persistent faith enhances the material it resides in.&lt;CR&gt;Effect: Provides HP regeneration and chance to avoid KO." permit="true"/>
+    <LibraryEsp note="Guiding intuition enhances the material it resides in.&lt;CR&gt;Effect: Increases critical hit rate, has a chance to shorten wait time." permit="true"/>
+    <LibraryEsp note="Empty world enhances the material it resides in.&lt;CR&gt;Effect: Provides damage conversion, reduces physical damage taken." permit="true"/>
+    <LibraryEsp note="Power of madness enhances the material it resides in.&lt;CR&gt;Effect: Greatly increases attack power, lose lots of HP each turn." permit="true"/>
+    <LibraryEsp note="Burning passion enhances the material it resides in.&lt;CR&gt;Effect: Increases all stats by 15, bestows fire and ice resistance." permit="true"/>
+    <LibraryEsp note="Unwavering spirit enhances the material it resides in.&lt;CR&gt;Effect: Increases all stats by 15, bestows lightning and physical resistance." permit="true"/>
+    <LibraryEsp note="Fog of illusion enhances the material it resides in.&lt;CR&gt;Effect: Swaps HP and MP, adds evasion chance." permit="true"/>
+    <LibraryEsp note="Bonds of belief enhances the material it resides in.&lt;CR&gt;Effect: Increases assist effect, provides damage conversion." permit="true"/>
+    <LibraryEsp note="Hammer of justice enhances the material it resides in.&lt;CR&gt;Effect: Greatly increases skill power, adds Break value." permit="true"/>
+    <LibraryEsp note="Dreadful king enhances the material it resides in.&lt;CR&gt;Effect: Causes additional damage and status effects." permit="true"/>
+    <LibraryEsp note="Unceasing desire enhances the material it resides in.&lt;CR&gt;Effect: Absorbs a portion of damage dealt." permit="true"/>
+    <LibraryEsp note="Pursuit of knowledge enhances the material it resides in.&lt;CR&gt;Effect: Causes additional damage." permit="true"/>
+    <LibraryEsp note="Star of expectation enhances the material it resides in.&lt;CR&gt;Effect: Provides enhancement proportional to level." permit="true"/>
+    <LibraryEsp note="Ray of hope enhances the material it resides in.&lt;CR&gt;Effect: Increases maximum HP, provides automatic KO revival." permit="true"/>
+    <LibraryEsp note="Awakening courage enhances the material it resides in.&lt;CR&gt;Effect: Provides a bonus against powerful foes and bosses." permit="true"/>
+    <LibraryEsp note="Kind soul enhances the material it resides in.&lt;CR&gt;Effect: Provides a Burst Mode bonus and gauge fill rate increase." permit="true"/>
+    <LibraryEsp note="Indomitable soul enhances the material it resides in.&lt;CR&gt;Effect: Provides Break resistance and greatly increases speed of recovering from Break." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Attacks cause 7% additional damage, and increases skill power by 15%." permit="true"/>
+    <LibraryEsp note="Effect: Attacks cause 15% additional damage, and increases skill power by 10%." permit="true"/>
+    <LibraryEsp note="Effect: Attacks cause 15% additional damage, and increases skill power by 15%." permit="true"/>
+    <LibraryEsp note="Effect: Attacks cause 20% additional damage, and increases skill power by 25%." permit="true"/>
+    <LibraryEsp note="Effect: Attacks cause 15% additional damage, and increases skill power by 20%." permit="true"/>
+    <LibraryEsp note="Effect: Attacks cause between 1 - 50% additional damage." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="Effect: Item automatically activates when the user's HP falls below 20% in battle. Consumes MP." permit="true"/>
+    <LibraryEsp note="Effect: Item automatically activates when the user's HP falls below 30% in battle. Consumes MP." permit="true"/>
+    <LibraryEsp note="Effect: Item automatically activates when the user's HP falls below 40% in battle. Consumes MP." permit="true"/>
+    <LibraryEsp note="Effect: Item automatically activates when the user's HP falls below 50% in battle." permit="true"/>
+    <LibraryEsp note="Effect: Increases item power by 25%, and makes its effect non-attribute. Non-attribute is not affected by any resistances or weaknesses." permit="true"/>
+    <LibraryEsp note="Effect: Has a &lt;CLGR&gt;high chance to inflict Poison&lt;CLNR&gt; when dealing damage." permit="true"/>
+    <LibraryEsp note="Effect: Restores some of the target's HP, and also recovers from Poison." permit="true"/>
+    <LibraryEsp note="Effect: Temporarily increases all of the target's stats. They will also automatically revive on their next turn after being KO'd." permit="true"/>
+    <LibraryEsp note="Effect: Pushes back the target's turn a little. This effect diminishes with each use until the target takes another turn." permit="true"/>
+    <LibraryEsp note="Effect: Heat causes continuous damage. The effect is small." permit="true"/>
+    <LibraryEsp note="Effect: Cold reduces the target's speed, and also has a low chance of inflicting Slow." permit="true"/>
+    <LibraryEsp note="Effect: Increases all stats by 8." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Puni and magical creatures." permit="true"/>
+    <LibraryEsp note="Effect: Reduces skill power by 10%, but also reduces MP consumption by 30%." permit="true"/>
+    <LibraryEsp note="Effect: Reduces the target's defense and speed." permit="true"/>
+    <LibraryEsp note="Effect: Restores Break value to the target. Also reduces wait time after turns by a small amount." permit="true"/>
+    <LibraryEsp note="Effect: Increases attack by 7, and attacks cause a small amount of additional damage." permit="true"/>
+    <LibraryEsp note="Effect: The target recovers a small amount of HP, and also recovers from Weak." permit="true"/>
+    <LibraryEsp note="Effect: Increases the target's evasion rate. This effect lasts 5 turns." permit="true"/>
+    <LibraryEsp note="Effect: Increases attack item effect by 5%, and also has a chance to cause Weak." permit="true"/>
+    <LibraryEsp note="Effect: The target recovers a small amount of HP, and also recovers from Curse." permit="true"/>
+    <LibraryEsp note="Effect: Price when selling to shops increases quite a lot." permit="true"/>
+    <LibraryEsp note="Effect: Increases attack item effect by 15%." permit="true"/>
+    <LibraryEsp note="Effect: Increases defense by 10, and also causes a decent amount of HP recovery each turn." permit="true"/>
+    <LibraryEsp note="Effect: Increases recovery item effect by 30%, but increases equipment cost by 5." permit="true"/>
+    <LibraryEsp note="Effect: Increases the target's maximum HP during battle, and also reduces the effectiveness of status ailments. The effect is small." permit="true"/>
+    <LibraryEsp note="Effect: Increases critical hit rate, and also increases damage dealt to Broken targets." permit="true"/>
+    <LibraryEsp note="Effect: The target recovers from Poison and No Heal ailments." permit="true"/>
+    <LibraryEsp note="Effect: Increases price when selling to shops." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Demon and Undead enemies." permit="true"/>
+    <LibraryEsp note="Effect: Increases damage dealt to Broken targets by 20%, and a portion of damage dealt is absorbed to recover HP." permit="true"/>
+    <LibraryEsp note="Effect: Increases all stats by 15, and also increases skill power by 20%." permit="true"/>
+    <LibraryEsp note="Effect: Revive from KO, and also removes 3 status ailments." permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+</Root>

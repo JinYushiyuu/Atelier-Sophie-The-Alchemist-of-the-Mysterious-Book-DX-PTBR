@@ -1,0 +1,159 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_TES_080.ebm",
+    "nb_messages": 0x11,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Whoa, you really helped me out, Sophie. Thanks!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "You're welcome!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Heh heh heh... Just you wait, you accursed weeds... I'll exterminate you all with this poison..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "T-Tess... You look really scary right now..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Tess, the customers are watching."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oh, crap. Right."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Tess, please be very careful when you use that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Yeah, I'll be fine."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "You said that with the bomb..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "Oh... Well, I'm just going to sprinkle this on the yard. It's not like poison can explode, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "No, it won't explode, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "Hm? What's wrong? Is there something on your mind?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Um... I don't know if it's on my mind... But I have a bad feeling about this..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Ahaha, you worry too much, Sophie. I'll be fine. Just leave it all up to Tess."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "Okay... I understand..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Yup. Anyway, thanks again, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "(...Will she really be okay?)"
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+
+<root>
+
+<!--カメラ関連-->
+	<camera boundary_min="-7.0, 0.0, -7.0" boundary_max="-7.0, 0.0, -7.0" center_position2="0,0,0" zoom_mode="XZ" free_camera="true">
+		<area tlPosition="-400.0, 0.0, -400.0" brPosition="400.0, 0.0, 400.0" tag="CLOSELY_Z">
+			<point length="5.5" radian="0.0" lookRad=" 8.0" fov="45.0" diffPosition=" 0.0, 1.0, 0.0" position=" 0.0, 0.0,  9.0" bumper_follow_speed="5.0" zoom_time="1.0" zoom_distance="0.0"/>
+		</area>
+	</camera>
+<!--フォグ関連-->
+	<fog start="10.0" end="140" ambient="0.9" mieG="0.5" rayleighPow="2.0" mieRGB="0.8, 0.4, 1.0, 1.0" rayleighRGB="0.20, 1.17, 1.0, 1.0" />
+
+<!--ライト関連-->
+	<light ambient="0.6, 0.6, 0.7, 0.0">
+		<param type="PARALLEL" rot="40.0, 360.0, 0.0" color="0.4, 0.4, 0.3, 1.0" />
+		<param type="PARALLEL" rot="90.0, 0.0, 0.0" color="0.0, 0.0, 0.0, 1.0" />
+	</light>
+	
+<!--CharaShader-->
+	<chara_shader light_dir="2.0, -1.0, -1.0" light_color="0.65, 0.4, 0.3, 0.3" rim_light_dir="2.56, -2.67, 1.0" rim_light_color="0.7, 0.6, 0.6, 0.8" point_light_strength="0.1, 0.0, 0.0, 0.0" />
+
+<!--HDR-->
+	<hdr threshold="0.5" glow_add_rate="1.0" glow_limit="1.0" />
+
+<!--パターンマップ-->
+	<pattern_map speed_u="0.005" speed_v="0.005" area_width="140.0" area_height="140.0" />
+
+<!--遠景モデル関連-->
+	<sphere offset="0.0, 10.0, 0.0" scale="1.0, 1.0, 1.0" />
+
+<!--地形モデル関連-->
+	<terrain offset="-64.0, 0.0, -64.0" />
+
+</root>

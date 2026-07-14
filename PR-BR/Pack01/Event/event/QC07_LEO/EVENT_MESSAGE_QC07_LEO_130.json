@@ -1,0 +1,168 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_LEO_130.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Ah, Sophie. Welcome."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Leon! Have you been talking behind my back lately!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "What!? I-I don't know. Did I do anything like that? A-ahaha..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Grr, it's no use lying about it. I saw you, after all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "I overheard you talking to Monika and Oskar about me!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x29,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Uu... I didn't think you'd be watching... Oh crap."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "...Did you just say you didn't think I'd be watching? So that means you really were talking about me behind my back!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "J-just believe me! I was talking about you, but I wasn't spreading bad rumors or anything."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "I was just asking those two for more information about you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Well, if you say so, I'll believe you... But what were you trying to ask them?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "That's... Things about your past... And other stuff like that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "My past...? Why would you need to know that...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "Uuuuu... I really can't tell you! It's still a secret! I can't say!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Hmm, I'm really curious. C'mon, please tell me, Leon."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "No! I won't talk, no matter what you say!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Leon!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x10,
+            "msg_string": "I said it's a secret, so it's a secret! This conversation's over!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "(Uu, I guess it's no good. I'll give up. It's fine if she wasn't saying bad things...)"
+        }
+    ]
+}

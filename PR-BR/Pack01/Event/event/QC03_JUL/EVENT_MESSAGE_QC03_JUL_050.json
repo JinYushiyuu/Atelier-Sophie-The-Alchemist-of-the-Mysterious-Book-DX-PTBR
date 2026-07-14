@@ -1,0 +1,195 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_JUL_050.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hello, Sir Julio. What were you talking about?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I was asked about churches in other regions."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x118,
+            "name_id": 0x13,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Julio is still quite young, but he's traveled to many places. He's quite helpful as a reference."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Is there a difference between churches?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "There's nothing fundamentally different. However, the actions the churches take can differ greatly."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Some churches take care of children, others put vast resources into their choirs, and yet others host lectures."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Huh, sounds like they do all kinds of things."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x118,
+            "name_id": 0x13,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Yes, it's very interesting. Perhaps our church should specialize in something as well."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x118,
+            "name_id": 0x13,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "If we do that, maybe Sophie will manage to come to the prayer every week."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Gah..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "You don't attend prayer very often, Sophie?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "Ahaha, I forget a lot when I'm concentrating on work..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "That's not good. Well, I'd be happy if you came, but there's no need to force yourself."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "If you neglected your work out of too much consideration for us, it would be an even bigger issue."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Yes, I'll do my best."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Anyway, I'll be taking my leave now. Father, thank you very much."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x118,
+            "name_id": 0x13,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Thank you too, this time was quite worthwhile. We should talk again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Thank you. I'll be going now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "See you again, Sophie."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Julio learned the skill \"<CLGR>Guardian<CLNR>\"."
+        }
+    ]
+}

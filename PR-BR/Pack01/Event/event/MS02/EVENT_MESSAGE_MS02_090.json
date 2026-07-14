@@ -1,0 +1,61 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS02_090.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Mr. Horst, do you have any new information?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Let's see... Now that you mention it, I heard about a strange place."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Really!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Yes, I'll tell you where it is. You might find something useful for alchemy there."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Thank you very much."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Learned location of the \"\"."
+        }
+    ]
+}

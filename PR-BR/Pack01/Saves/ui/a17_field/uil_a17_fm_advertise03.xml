@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="/Saves/ui/a17_field/uia_a17_fm_advertise.xml"/>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<node name="getItemWin" pos="1175.00, 360.00, 0.00" visible="false" viewer_visible="true" pivot_enable="true" pivot_pos="50.00, 50.00, 0.00" rot="0.00, 0.00, 0.00" color="255.00, 255.00, 255.00, 255.00">
+		<image name="w01" style="gen_a17_field05_win01" size_wh="100.00, 100.00, 0.00" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<image name="item_image" style="etc_a17_item_s" pos="20.00, 20.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="255.00, 255.00, 255.00, 255.00"/>
+		<image name="kira" style="gen_a17_cabinet01_kira" pos="68.00, 68.00, -0.00" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" visible="false" viewer_visible="true"/>
+		<text text="Get" name="Get_text" font_color="243.00, 152.00, 0.00, 255.00" pos="-12.00, 7.00, -0.00" rot="-0.00, -0.00, -15.01" font_size="28.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true"/>
+		<anim_ctrl name="anim_ctrl_open" play="false" loop="false" viewer_key_assign="1">
+			<bind_node node="getItemWin" anim="fadein_collect_item" start_visible="true"/>
+		</anim_ctrl>
+		<anim_ctrl name="anim_ctrl_close" viewer_key_assign="2">
+			<bind_node node="getItemWin" anim="fadeout_collect_item"/>
+		</anim_ctrl>
+	</node>
+</root>

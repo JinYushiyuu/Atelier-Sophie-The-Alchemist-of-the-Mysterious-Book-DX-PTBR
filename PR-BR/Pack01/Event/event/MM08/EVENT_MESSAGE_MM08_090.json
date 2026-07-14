@@ -1,0 +1,355 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM08_090.ebm",
+    "nb_messages": 0x27,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Okay... Time to try making the item that started Plachta and Luard's dream!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "It's done!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hey, Plachta? I tried making the item you two made in the past... How did it turn out?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "This is... Hehe, this brings back memories..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Hehe, I could tell just by looking that you and Luard worked really hard to make this recipe."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "That's right. We desperately read through many books, gathered materials, and finally managed to create it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "It was just an item created by amateur alchemists, though. I'm sure you can tell that its effect isn't very strong."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Still, when we managed to solve the village's problem with this item, I remember that we were overjoyed."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "At the same time, we found a new dream, with alchemy. We believed that we could make many people happy by using it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "...There's no mistake that this item was where it all started."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I'm sure Luard will remember the dream you two shared if he sees that item."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "And when that happens, he'll understand. He'll stop using Ablation Alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "...Perhaps you're right. But we'll need to go face him to do so."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "At the \"Library of All Creation\", where Luard went."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Plachta...? Wait, did you remember...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Yes, I remember everything."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "I believe Luard went to the \"Library of All Creation\". It's the place Luard and I used as our atelier in the past."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "...It's also the place where I fought Luard."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Um, Plachta..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "You know how you couldn't remember that until the end... Maybe it was because it was too sad?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "What do you mean?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "It's the place where you had to fight your long time friend, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "I thought I was bringing back all your memories to help you, and make you happy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "...But it seems like I've just made you remember how sad the past was instead."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Hehe, you're doubting yourself after all this time?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "You made a promise to me. You said that you would help me regain all of my memories."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "It's true that some of those memories are sad. But I was able to remember some things that are even more important."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "I'm very grateful that you've helped bring back all of my memories, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "Plachta..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "I was just a book, yet you gave me a body and brought back my memories..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1e,
+            "msg_string": "You want to bring happiness to not just me, but to Luard as well. Someone who's causing calamities."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "I don't think there's any way that I could show you enough gratitude."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "I'm sure that one day, you'll be able to fulfill the dreams that we couldn't reach..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "I know you'll be able to bring happiness to many people using alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "That's yet another reason why I want to protect your future, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Will you come with me to meet Luard?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Yeah, of course! Let's go, Plachta. We'll persuade Luard!"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Sophie learned the skill \"<CLGR>Proficiency<CLNR>\"."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Plachta learned the skill \"<CLGR>Synchronize<CLNR>\"."
+        }
+    ]
+}

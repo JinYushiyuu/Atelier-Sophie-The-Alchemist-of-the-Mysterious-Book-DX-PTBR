@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" viewer_visible="true" color="255.00, 255.00, 255.00, 128.00" visible="false"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="item" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="mouse_area" pos="67.00, 16.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="common_none_image" size_wh="250.00, 39.00, 0.00" visible="true"/>
+			<node name="itemSet">
+				<image name="itembg" style="gen_a17_dollmake01_itembg" pos="-7.00, -7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="item" style="etc_a17_item_l" size_wh="64.00, 64.00, 0.00" pos="3, 1, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<image name="category_image" style="etc_a17_category_image" size_wh="46.00, 46.00, 0.00" pos="9.00, 9.00, -0.00" color="149.00, 98.00, 84.00, 255.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="light_noItem" pos="-14.00, -19.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="name_light" pos="81.00, 35.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="250.00, 39.00, 0.00"/>
+				<image name="item_light" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win03_hl" size_wh="101.00, 106.00, 0.00"/>
+			</node>
+			<text text="あいうえおかきくけこ" name="name_off" pos="83.00, 20.00, -0.00" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" word_space="-2.00"/>
+			<!--***↓選択確定時 ***-->
+			<node name="light_setItem" pos="-14.00, -19.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="name_light" pos="81.00, 35.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="250.00, 39.00, 0.00"/>
+				<image name="item_light" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win03_hlon" size_wh="101.00, 106.00, 0.00"/>
+			</node>
+			<text text="あいうえおかきくけこ" name="name_on" pos="83.00, 20.00, -0.00" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE" word_space="-2.00"/>
+			<anim_ctrl name="cursor_on" viewer_key_assign="1" start_visible="true" loop="true">
+				<bind_node anim="anm_common_cursor_blink" node="light_noItem"/>
+			</anim_ctrl>
+			<anim_ctrl name="cursor_off" viewer_key_assign="2" end_visible="false">
+				<bind_node node="light_noItem" end_visible="false"/>
+			</anim_ctrl>
+			<anim_ctrl name="category">
+				<bind_node end_visible="true" node="category_image"/>
+				<bind_node node="itemSet/item" end_visible="false"/>
+			</anim_ctrl>
+			<anim_ctrl name="material">
+				<bind_node end_visible="false" node="category_image"/>
+				<bind_node end_visible="true" node="itemSet/item"/>
+			</anim_ctrl>
+			<anim_ctrl name="decide" viewer_key_assign="3" end_visible="true">
+				<bind_node node="light_setItem" end_visible="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="non_decide" viewer_key_assign="4" end_visible="false">
+				<bind_node node="light_setItem" end_visible="false"/>
+			</anim_ctrl>
+			<anim_ctrl name="name_brown" viewer_key_assign="5">
+				<bind_node end_visible="false" node="name_on"/>
+				<bind_node end_visible="true" node="name_off"/>
+			</anim_ctrl>
+			<anim_ctrl name="name_beige" viewer_key_assign="6">
+				<bind_node end_visible="true" node="name_on"/>
+				<bind_node end_visible="false" node="name_off"/>
+			</anim_ctrl>
+			<anim_ctrl name="fade_except_itemIcon" play="false" start_visible="true" viewer_key_assign="0" reverse="true">
+				<bind_node node="category_image" anim="anm_common_fade_in" start_visible="true"/>
+				<bind_node node="namebg" anim="anm_common_fade_in" start_visible="true"/>
+				<bind_node node="light_noItem" anim="anm_common_fade_in" start_visible="true"/>
+				<bind_node node="name_off" anim="anm_common_fade_in" start_visible="true"/>
+				<bind_node node="light_setItem" anim="anm_common_fade_in" start_visible="true"/>
+				<bind_node node="name_on" anim="anm_common_fade_in" start_visible="true"/>
+				<bind_node node="feed" end_visible="false" start_visible="false"/>
+			</anim_ctrl>
+			<feed name="feed" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="8.00, 7.00, 0.00"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" pos="-3, 21, 0">
+		<image name="bg" style="gen_a17_dollmake01_bg" pos="127.00, 4.00, 0.00" size_wh="1102.00, 645.00, 0.00"/>
+		<image name="doll" style="gen_a17_dollmake01_doll" pos="600.00, 125.00, 0.00" size_wh="223.00, 480.00, 0.00"/>
+		<node name="itemnameframe" pos="282.00, 147.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<!--***↓アイテム下にあるフレーム ***-->
+			<image name="selectframe_1" pos="11.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_dollmake01_f" size_wh="504.00, 134.00, 0.00">
+				<image name="ok" style="gen_a17_dollmake01_ok" pos="413, 30, 0"/>
+			</image>
+			<image name="selectframe_2" pos="8.00, 93.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_dollmake01_f" size_wh="429, 134">
+				<image name="ok" style="gen_a17_dollmake01_ok" pos="338, 29, 0"/>
+			</image>
+			<image name="selectframe_3" pos="7.00, 185.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_dollmake01_f" size_wh="553, 134">
+				<image name="ok" style="gen_a17_dollmake01_ok" pos="462, 29, 0"/>
+			</image>
+			<image name="selectframe_4" pos="10.00, 276.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_dollmake01_f" size_wh="427, 134">
+				<image name="ok" style="gen_a17_dollmake01_ok" pos="337, 31, 0"/>
+			</image>
+		</node>
+		<node name="item" pos="30, 16, 0">
+			<node copy="item" clone_child_tree="item" name="clone_item_1" pos="193.00, 126.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="item" clone_child_tree="item" name="clone_item_2" pos="193.00, 217.67, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="item" clone_child_tree="item" name="clone_item_3" pos="193.00, 309.33, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="item" clone_child_tree="item" name="clone_item_4" pos="193.00, 401.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="start_item">
+				<image name="start_off" pos="270.00, 495.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_dollmake01_start"/>
+				<image name="start_on" pos="270.00, 495.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_dollmake01_start" image_no="1"/>
+				<feed name="feed" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="285, 510, -0"/>
+				<anim_ctrl name="start_on_anm" viewer_key_assign="7">
+					<bind_node end_visible="true" node="start_on"/>
+					<bind_node end_visible="false" node="start_off"/>
+				</anim_ctrl>
+				<anim_ctrl name="start_off_anm" viewer_key_assign="8">
+					<bind_node node="start_on" end_visible="false"/>
+					<bind_node node="start_off" end_visible="true"/>
+				</anim_ctrl>
+				<anim_ctrl name="start_cursor_on" viewer_key_assign="0" loop="true">
+					<bind_node node="start_on" anim="anm_common_cursor_blink"/>
+					<bind_node node="start_off" start_visible="true"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<node name="sheet" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="790.00, 222.00, 0.00">
+			<!--***↓改造後_0909修正 ***-->
+			<node name="text_before" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="bg" style="gen_a17_dollmake02_bg01" pos="64.00, -127.00, 0.00"/>
+				<image name="icon" style="gen_a17_dollmake01_icon01" pos="66, -123, 0" image_no="1"/>
+				<text text="After Modifying:" name="text" pos="83.00, -117.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="left" copy="TEXTCOLOR_BROWN" word_space="-1.00"/>
+				<text text="レイディセイバー" name="dollName" pos="220.00, -117.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="left" copy="TEXTCOLOR_BROWN" word_space="-1.00"/>
+			</node>
+			<!--***↓改造前_0909修正 ***-->
+			<node name="text_comparison" pos="0.00, 53.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<!--***↓vita用のleftは2番 ***-->
+				<image name="left" style="gen_a17_dollmake02_l" pos="24.00, -114.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="&lt;IM11&gt;" name="text_left" pos="29.00, -119.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="30.00" visible="false" viewer_visible="false"/>
+				<!--***↓vita用のrightは3番 ***-->
+				<image name="right" style="gen_a17_dollmake02_r" pos="366.00, -114.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+				<text text="&lt;IM15&gt;" name="text_right" pos="371.00, -119.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="30.00" visible="false"/>
+				<image name="line" style="gen_a17_dollmake02_line" pos="10.00, -130.00, 0.00"/>
+				<image name="bg" style="gen_a17_dollmake02_bg01" pos="64.00, -127.00, 0.00"/>
+				<image name="icon" style="gen_a17_dollmake01_icon01" pos="65, -123, 0"/>
+				<text text="Comparison:" name="text" pos="83.00, -117.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="left" copy="TEXTCOLOR_BROWN" word_space="-1.00"/>
+				<text text="レイディセイバー" name="dollName" pos="186.00, -117.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="left" copy="TEXTCOLOR_BROWN" word_space="-1.00"/>
+			</node>
+			<image name="sheet" style="gen_a17_dollmake01_sheet" pos="60.00, -19.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<!--***↓iconbefore用 ***-->
+			<node name="icon_before" pos="209.00, 108.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node name="bg" pos="-65.00, -65.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="icon_1" style="gen_a17_dollmake01_linebg" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="183.00, 183.00, 183.00, 255.00" pos="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="65.00, 65.00, 0.00" viewer_visible="false"/>
+					<image name="icon_2" style="gen_a17_dollmake01_linebg" rot="0.00, 0.00, 90.00" scale="1.00, 1.00, 1.00" color="183.00, 183.00, 183.00, 255.00" pos="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="65.00, 65.00, 0.00"/>
+					<image name="icon_3" style="gen_a17_dollmake01_linebg" rot="0.00, 0.00, 180.00" scale="1.00, 1.00, 1.00" color="183.00, 183.00, 183.00, 255.00" pos="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="65.00, 65.00, 0.00"/>
+					<image name="icon_4" style="gen_a17_dollmake01_linebg" rot="0.00, 0.00, 270.00" scale="1.00, 1.00, 1.00" color="183.00, 183.00, 183.00, 255.00" pos="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="65.00, 65.00, 0.00"/>
+				</node>
+				<node name="line" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, -2.50, 0.00">
+					<image name="icon_1" style="gen_a17_dollmake01_line" rot="0.00, 0.00, 0.00" scale="1.00, 1.00, 1.00" color="135.00, 135.00, 135.00, 255.00" pos="-65.00, 0.00, 0.00" pivot_enable="true" pivot_pos="0.00, 2.50, 0.00"/>
+					<image name="icon_2" style="gen_a17_dollmake01_line" rot="0.00, 0.00, 0.00" scale="1.00, 1.00, 1.00" color="135.00, 135.00, 135.00, 255.00" pos="0.00, -65.00, 0.00" pivot_enable="true" pivot_pos="0.00, 2.50, 0.00"/>
+					<image name="icon_3" style="gen_a17_dollmake01_line" rot="0.00, 0.00, 0.00" scale="1.00, 1.00, 1.00" color="135.00, 135.00, 135.00, 255.00" pos="65.00, 0.00, 0.00" pivot_enable="true" pivot_pos="0.00, 2.50, 0.00"/>
+					<image name="icon_4" style="gen_a17_dollmake01_line" rot="0.00, 0.00, 0.00" scale="1.00, 1.00, 1.00" color="135.00, 135.00, 135.00, 255.00" pos="0.00, 65.00, 0.00" pivot_enable="true" pivot_pos="0.00, 2.50, 0.00"/>
+				</node>
+				<node name="icon" pos="-10.00, -10.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="icon_1" style="gen_a17_dollmake01_icon01" pos="-65.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="icon_2" style="gen_a17_dollmake01_icon01" pos="0.00, -65.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="21.00, 21.00, 0.00"/>
+					<image name="icon_3" style="gen_a17_dollmake01_icon01" pos="65.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="21.00, 21.00, 0.00"/>
+					<image name="icon_4" style="gen_a17_dollmake01_icon01" pos="0.00, 65.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="21.00, 21.00, 0.00"/>
+				</node>
+			</node>
+			<!--***↓iconafter用 ***-->
+			<node name="icon_after" pos="209.00, 108.00, 0.00">
+				<node name="bg" pos="-65.00, -65.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="icon_1" style="gen_a17_dollmake01_linebg" rot="0.00, 0.00, 0.00" scale="1.00, 1.00, 1.00" color="247.00, 240.00, 124.00, 255.00" pos="0.00, 0.00, 0.00" pivot_pos="65.00, 65.00, 0.00" pivot_enable="true"/>
+					<image name="icon_2" style="gen_a17_dollmake01_linebg" rot="0.00, 0.00, 90.00" scale="1.00, 1.00, 1.00" color="247.00, 240.00, 124.00, 255.00" pos="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="65.00, 65.00, 0.00"/>
+					<image name="icon_3" style="gen_a17_dollmake01_linebg" rot="0.00, 0.00, 180.00" scale="1.00, 1.00, 1.00" color="247.00, 240.00, 124.00, 255.00" pos="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="65.00, 65.00, 0.00"/>
+					<image name="icon_4" style="gen_a17_dollmake01_linebg" rot="0.00, 0.00, 270.00" scale="1.00, 1.00, 1.00" color="247.00, 240.00, 124.00, 255.00" pos="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="65.00, 65.00, 0.00"/>
+				</node>
+				<node name="line" pos="0.00, -2.50, 0.00" rot="0.00, 0.00, 0.00" scale="1.00, 1.00, 1.00">
+					<image name="icon_1" style="gen_a17_dollmake01_line" scale="1.00, 1.00, 1.00" color="230.00, 220.00, 65.00, 255.00" rot="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="0.00, 2.50, 0.00" pos="-65.00, 0.00, 0.00"/>
+					<image name="icon_2" style="gen_a17_dollmake01_line" pos="0.00, -65.00, 0.00" scale="1.00, 1.00, 1.00" color="230.00, 220.00, 65.00, 255.00" rot="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="0.00, 2.50, 0.00"/>
+					<image name="icon_3" style="gen_a17_dollmake01_line" pos="65.00, 0.00, 0.00" scale="1.00, 1.00, 1.00" color="230.00, 220.00, 65.00, 255.00" rot="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="0.00, 2.50, 0.00"/>
+					<image name="icon_4" style="gen_a17_dollmake01_line" pos="0.00, 65.00, 0.00" scale="1.00, 1.00, 1.00" color="230.00, 220.00, 65.00, 255.00" rot="0.00, 0.00, 0.00" pivot_enable="true" pivot_pos="0.00, 2.50, 0.00"/>
+				</node>
+				<node name="icon" pos="-10.00, -10.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="icon_1" style="gen_a17_dollmake01_icon01" pos="-65.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="21.00, 21.00, 0.00" image_no="1"/>
+					<image name="icon_2" style="gen_a17_dollmake01_icon01" pos="0.00, -65.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="21.00, 21.00, 0.00" image_no="1"/>
+					<image name="icon_3" style="gen_a17_dollmake01_icon01" pos="65.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="21.00, 21.00, 0.00" image_no="1"/>
+					<image name="icon_4" style="gen_a17_dollmake01_icon01" pos="0.00, 65.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="21.00, 21.00, 0.00" image_no="1"/>
+				</node>
+			</node>
+		</node>
+		<node name="comment" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="880, 496, 0" visible="true">
+			<image name="comment" style="gen_a17_dollmake01_comment02" size_wh="407, 103" pos="-56, -1, 0"/>
+			<text text="あいうえおかきくけこあいうえお" name="text" pos="-1, 32, -0" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" word_space="-2.00" line_char_length="15" line_space="6.00" screen_clip="false"/>
+			<image name="icon" style="gen_a17_icon01_02on" pos="1, -22, 0" image_no="1"/>
+		</node>
+	</node>
+	<!--***↓改造後 ***-->
+	<node name="text_after" pos="787.00, 295.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="false">
+		<image name="bg" style="gen_a17_dollmake02_bg01" pos="64.00, -127.00, 0.00"/>
+		<image name="icon" style="gen_a17_dollmake01_icon01" pos="65.00, -123.00, 0.00" image_no="1"/>
+		<text text="Body Name:" name="text" pos="83.00, -117.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left" copy="TEXTCOLOR_BROWN" word_space="-1.00"/>
+		<text text="レイディセイバー" name="dollName" pos="188.00, -117.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left" copy="TEXTCOLOR_BROWN" word_space="-1.00"/>
+	</node>
+	<node name="comment_after" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="214.00, 112.00, 0.00" viewer_visible="false" visible="false">
+		<image name="comment" style="gen_a17_dollmake01_comment" rot="0.00, 180.00, 0.00" pos="440, 3, 0" size_wh="546, 128"/>
+		<text text="あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこ" name="text" pos="-82, 33, -0" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" word_space="-1.50" line_char_length="20" line_space="6.00"/>
+	</node>
+	<!--*** 以下アニメ ***-->
+	<anim_ctrl name="fade_anim_top" play="false" start_visible="true" viewer_key_assign="9">
+		<bind_node node="top" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+	<anim_ctrl name="fade_except_item" play="false" start_visible="true" viewer_key_assign="0" reverse="true">
+		<bind_node node="top/bg" anim="anm_common_fade_in" start_visible="true"/>
+		<bind_node node="top/doll" anim="anm_common_fade_in" start_visible="true"/>
+		<bind_node node="top/itemnameframe" anim="anm_common_fade_in" start_visible="true"/>
+		<bind_node node="top/sheet" anim="anm_common_fade_in" start_visible="true"/>
+		<bind_node node="top/comment" anim="anm_common_fade_in" start_visible="true"/>
+		<bind_node node="top/item/start_item" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+	<anim_ctrl name="view_status">
+		<bind_node node="top/comment" end_visible="false"/>
+		<bind_node node="top/sheet" end_visible="false"/>
+		<bind_node node="text_after" end_visible="false"/>
+	</anim_ctrl>
+	<anim_ctrl name="non_view_status">
+		<bind_node node="top/comment" end_visible="true"/>
+		<bind_node node="top/sheet" end_visible="true"/>
+	</anim_ctrl>
+	<anim_ctrl name="fade_anim_detail" play="false" start_visible="true" viewer_key_assign="9">
+		<bind_node node="top" anim="anm_common_fade_in" start_visible="true"/>
+		<bind_node node="text_after" anim="anm_common_fade_in" start_visible="true"/>
+		<bind_node node="comment_after" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+	<!--***↓改造後 ***-->
+	<anim_ctrl name="hide_remodel">
+		<bind_node node="top/doll" end_visible="false"/>
+		<bind_node node="top/itemnameframe" end_visible="false"/>
+		<bind_node node="top/item" end_visible="false"/>
+		<bind_node node="top/comment" end_visible="false"/>
+		<bind_node node="top/sheet/text_comparison" end_visible="false"/>
+		<bind_node node="top/sheet/text_before" end_visible="false"/>
+		<bind_node node="top/sheet/icon_before" end_visible="false"/>
+	</anim_ctrl>
+	<anim_ctrl name="visible_detail">
+		<bind_node node="text_after" end_visible="true"/>
+		<bind_node node="comment_after" end_visible="true"/>
+	</anim_ctrl>
+	<anim_ctrl name="non_view_status_detail">
+		<bind_node node="top/sheet" end_visible="true"/>
+		<bind_node node="text_after" end_visible="true"/>
+	</anim_ctrl>
+	<anim_ctrl name="comment_after_fade">
+		<bind_node node="comment_after" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+	<!--***↓0801_キャプション追加**-->
+	<image name="caption_main" style="gen_a17_mix01_captiontag" pos="0.00, 0.00, 0.00">
+		<image name="text_image" style="gen_a17_main_caption02_cap" pos="58, 45, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="33"/>
+	</image>
+</root>

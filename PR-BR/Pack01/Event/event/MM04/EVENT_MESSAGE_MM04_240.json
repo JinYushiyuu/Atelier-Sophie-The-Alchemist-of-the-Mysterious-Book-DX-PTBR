@@ -1,0 +1,106 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_240.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Harol?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "I know he said he'll bring them to me when they're done, but... I'm curious how they're made."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Maybe he'll let me watch a little?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Huh? Where's Harol?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Damn it, I screwed it up again!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Wah, that was surprising... Um... Harol...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Why won't it work!? I know I'm doing it right...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Damn it... This still isn't enough? Maybe I slacked off for too long..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x21,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "No, I'll try it again... I can't give up now..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x7,
+            "name_id": 0x7,
+            "extra_id": 0x22,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "She's relying on me. I need to show her that I can do this...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "(Looks like Harol's working really hard... I probably shouldn't interrupt him...)"
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_190.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4f,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "And... There. Done."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hey, Plachta, how do you feel? Any changes?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "Yes, another memory has returned... And it's about the \"Cauldron of Knowledge\"."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Really!? You finally remembered that!? So where is this Cauldron!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Unfortunately, it's not about its location... But I can remember what the Cauldron is."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "Oh, right. Now that I think about it, I still have no idea exactly what the \"Cauldron of Knowledge\" is..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "...I told you before that we alchemists help fulfill the wishes of the materials we use, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Oh, yeah. I remember that part, at least..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "The \"Cauldron of Knowledge\" is a device that amplifies the power of those wishes."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "As a result, it greatly reduces the power the alchemist would normally have to give to the materials."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "Normally, the process of giving power to materials is determined by natural ability."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "However, using the \"Cauldron of Knowledge\", one would be able to use alchemy without such ability."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "I don't really get it, but... You're saying that the \"Cauldron of Knowledge\" allows anyone to use alchemy?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "Yes, exactly. And those who are already capable of using alchemy would be able to use even more advanced techniques."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "I get it... But why do you know so much about this \"Cauldron of Knowledge\" anyway?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "It doesn't matter if you were an alchemist in the past. The Cauldron sounds more like it's just a legend."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "Ah, that question is easy to answer."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "I'm the one who created the \"Cauldron of Knowledge\". It's only natural that I'd know about it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x12,
+            "msg_string": "Whaaaaat!? Y-you made it!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "Yes... Although I only just remembered."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "...Wait, if you were able to make a device like that... Maybe you were actually some amazing person back then?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "I don't know... But I think I really am an amazing person."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "I guess you're not modest... Oh, Plachta. Can I ask another question?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Why did you make the \"Cauldron of Knowledge\"?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "It sounds like such an amazing device. You must have had an equally amazing reason for creating it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "That's... I don't know. I'm sorry, I can't remember that yet."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "I see... That's too bad."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Plachta told you about a new gathering field that she remembered."
+        }
+    ]
+}

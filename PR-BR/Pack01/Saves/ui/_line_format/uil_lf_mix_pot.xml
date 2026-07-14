@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--調合:潜力投入メニューの行のひな形-->
+	<node name="lf_mix_pot">
+		<image name="new_icon" style="gen_common01_new" pos="-29, -8, 0"/>
+		<image name="check_image" style="gen_mix04_skill_check" pos="-29, -13, 0"/>
+		<text name="item_name" text="アイテム名あいうえお" font_size="24.00" copy="TEXTCOLOR_BROWN" pos="16, 0, 0" viewer_visible="true"/>
+		<text text="99" name="item_count" pos="328, 11, 0" font="NUMBER01_24PX" align="right"/>
+	</node>
+</root>

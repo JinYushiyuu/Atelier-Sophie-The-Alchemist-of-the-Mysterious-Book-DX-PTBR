@@ -1,0 +1,16 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM05_050.ebm",
+    "nb_messages": 0x1,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "It seems we're quite lucky, being able to witness such an important moment in history."
+        }
+    ]
+}

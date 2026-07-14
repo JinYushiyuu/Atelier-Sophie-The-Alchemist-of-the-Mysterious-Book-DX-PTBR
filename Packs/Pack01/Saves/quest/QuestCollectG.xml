@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<QuestCollectG numMin="2" numMax="5" money="36" item="ITEM_MAT_MAGIC_GRASS"/>
+	<QuestCollectG numMin="2" numMax="5" money="45" item="ITEM_MAT_COBALT_GRASS"/>
+	<QuestCollectG numMin="2" numMax="4" money="114" item="ITEM_MAT_FAIRY_POISONOUS_GRASS"/>
+	<QuestCollectG numMin="2" numMax="4" money="237" item="ITEM_MAT_MYSTIC_HERB"/>
+	<QuestCollectG numMin="2" numMax="4" money="57" item="ITEM_MAT_DRIED_GRASS"/>
+	<QuestCollectG numMin="2" numMax="4" money="69" item="ITEM_MAT_VINES_TWINE"/>
+	<QuestCollectG numMin="2" numMax="4" money="81" item="ITEM_MAT_PEAK_COTTON"/>
+	<QuestCollectG numMin="2" numMax="4" money="114" item="ITEM_MAT_MOSSY_WOOD"/>
+	<QuestCollectG numMin="2" numMax="3" money="38" item="ITEM_MAT_KIFA"/>
+	<QuestCollectG numMin="2" numMax="3" money="30" item="ITEM_MAT_ARUTARU"/>
+	<QuestCollectG numMin="2" numMax="3" money="38" item="ITEM_MAT_CRIMSON_GRASS"/>
+	<QuestCollectG numMin="1" numMax="3" money="76" item="ITEM_MAT_WHITE_PRINCESS_GRASS"/>
+	<QuestCollectG numMin="1" numMax="3" money="226" item="ITEM_MAT_AFTERLIFE_LILIES"/>
+	<QuestCollectG numMin="1" numMax="1" money="1125" item="ITEM_MAT_DUNKELHEIT"/>
+	<QuestCollectG numMin="1" numMax="2" money="225" item="ITEM_MAT_DUNKELSTERN"/>
+	<QuestCollectG numMin="2" numMax="4" money="102" item="ITEM_MAT_EISEN_MINERAL"/>
+	<QuestCollectG numMin="2" numMax="4" money="135" item="ITEM_MAT_REIDEN_MINERAL"/>
+	<QuestCollectG numMin="2" numMax="4" money="135" item="ITEM_MAT_KUPFER_MINERAL"/>
+	<QuestCollectG numMin="2" numMax="5" money="69" item="ITEM_MAT_KAREN_STONE"/>
+	<QuestCollectG numMin="2" numMax="4" money="90" item="ITEM_MAT_HAKUREI_STONE"/>
+	<QuestCollectG numMin="2" numMax="3" money="158" item="ITEM_MAT_RARE_MATAL"/>
+	<QuestCollectG numMin="2" numMax="3" money="256" item="ITEM_MAT_BLACK_MASS"/>
+	<QuestCollectG numMin="2" numMax="5" money="45" item="ITEM_MAT_MUD_DUMPLING"/>
+	<QuestCollectG numMin="2" numMax="3" money="46" item="ITEM_MAT_BOTTOM_SOIL"/>
+	<QuestCollectG numMin="1" numMax="3" money="300" item="ITEM_MAT_SEABED_SOIL"/>
+	<QuestCollectG numMin="2" numMax="4" money="114" item="ITEM_MAT_LITHOGRAPH"/>
+	<QuestCollectG numMin="2" numMax="4" money="69" item="ITEM_MAT_INFORMAL_STONE"/>
+	<QuestCollectG numMin="2" numMax="4" money="126" item="ITEM_MAT_ANCIENT_STONE_PILLAR"/>
+	<QuestCollectG numMin="2" numMax="4" money="180" item="ITEM_MAT_MALLEABLE_MATERIA"/>
+	<QuestCollectG numMin="2" numMax="4" money="147" item="ITEM_MAT_FADENRITE"/>
+	<QuestCollectG numMin="2" numMax="4" money="405" item="ITEM_MAT_NIGHT_CRYSTAL"/>
+	<QuestCollectG numMin="2" numMax="4" money="459" item="ITEM_MAT_GARDEN_MAIDEN"/>
+	<QuestCollectG numMin="2" numMax="4" money="294" item="ITEM_MAT_SILVER_SPIRIT_CRYSTAL"/>
+	<QuestCollectG numMin="1" numMax="3" money="1050" item="ITEM_MAT_ELEMENT_CRYSTAL"/>
+	<QuestCollectG numMin="2" numMax="5" money="57" item="ITEM_MAT_DEMON_BIRD_FEATHER"/>
+	<QuestCollectG numMin="2" numMax="5" money="75" item="ITEM_MAT_STRONG_BONES"/>
+	<QuestCollectG numMin="2" numMax="4" money="237" item="ITEM_MAT_ISLAND_FISH_FIN"/>
+	<QuestCollectG numMin="2" numMax="4" money="135" item="ITEM_MAT_BEAST_FUR"/>
+	<QuestCollectG numMin="2" numMax="3" money="390" item="ITEM_MAT_DUSK_FUR"/>
+	<QuestCollectG numMin="2" numMax="4" money="126" item="ITEM_MAT_SILVER_THREAD"/>
+	<QuestCollectG numMin="1" numMax="3" money="750" item="ITEM_MAT_GOLD_THREAD"/>
+	<QuestCollectG numMin="1" numMax="1" money="638" item="ITEM_MAT_DRAGON_SCALE"/>
+	<QuestCollectG numMin="3" numMax="7" money="20" item="ITEM_MAT_WELL_WATER"/>
+	<QuestCollectG numMin="2" numMax="5" money="45" item="ITEM_MAT_DELICIOUS_WATER"/>
+	<QuestCollectG numMin="1" numMax="2" money="23" item="ITEM_MAT_KIRUHEN_MILK"/>
+	<QuestCollectG numMin="2" numMax="4" money="114" item="ITEM_MAT_NIGHT_GLOW_WATER"/>
+	<QuestCollectG numMin="2" numMax="4" money="405" item="ITEM_MAT_NITRO_WATER"/>
+	<QuestCollectG numMin="2" numMax="4" money="315" item="ITEM_MAT_SUSPICIOUS_LIQUID"/>
+	<QuestCollectG numMin="2" numMax="5" money="93" item="ITEM_MAT_PUNI_LIQUID"/>
+	<QuestCollectG numMin="1" numMax="3" money="840" item="ITEM_MAT_RAINBOW_PUNI_LIQUID"/>
+	<QuestCollectG numMin="1" numMax="1" money="750" item="ITEM_MAT_DRAGON_BLOOD_CRYSTAL"/>
+	<QuestCollectG numMin="1" numMax="2" money="15" item="ITEM_MAT_HOLY_WATER"/>
+	<QuestCollectG numMin="2" numMax="5" money="57" item="ITEM_MAT_PUNIPUNI_BALL"/>
+	<QuestCollectG numMin="1" numMax="3" money="196" item="ITEM_MAT_GOLDEN_PUNIPUNI_BALL"/>
+	<QuestCollectG numMin="3" numMax="5" money="48" item="ITEM_MAT_UNI"/>
+	<QuestCollectG numMin="2" numMax="5" money="57" item="ITEM_MAT_RED_UNI"/>
+	<QuestCollectG numMin="2" numMax="5" money="36" item="ITEM_MAT_LAMER_WEIZEN"/>
+	<QuestCollectG numMin="1" numMax="3" money="30" item="ITEM_MAT_WEIZENMEHL"/>
+	<QuestCollectG numMin="2" numMax="5" money="45" item="ITEM_MAT_SOIL_POTATO"/>
+	<QuestCollectG numMin="2" numMax="4" money="81" item="ITEM_MAT_SILVER_POTATO"/>
+	<QuestCollectG numMin="2" numMax="5" money="102" item="ITEM_MAT_HONEY_BEEHIVE"/>
+	<QuestCollectG numMin="2" numMax="5" money="69" item="ITEM_MAT_UNIDENTFIED_EGG"/>
+	<QuestCollectG numMin="2" numMax="5" money="57" item="ITEM_MAT_WHIM_STRAWBERRY"/>
+	<QuestCollectG numMin="2" numMax="4" money="81" item="ITEM_MAT_BURST_BERRY"/>
+	<QuestCollectG numMin="1" numMax="2" money="8" item="ITEM_MAT_SCRAP_PAPER"/>
+	<QuestCollectG numMin="1" numMax="2" money="15" item="ITEM_MAT_NATURE_OIL"/>
+	<QuestCollectG numMin="1" numMax="2" money="23" item="ITEM_MAT_SAFLOR_OIL"/>
+	<QuestCollectG numMin="1" numMax="1" money="15" item="ITEM_MAT_CHURCH_AMULETS"/>
+	<QuestCollectG numMin="1" numMax="1" money="75" item="ITEM_MAT_LUXURY_CHURCH_AMULETS"/>
+	<QuestCollectG numMin="1" numMax="1" money="750" item="ITEM_MAT_PIOUS_CHURCH_AMULETS"/>
+	<QuestCollectG numMin="2" numMax="5" money="81" item="ITEM_MAT_BEAUTIFUL_SEASHELL"/>
+	<QuestCollectG numMin="1" numMax="3" money="526" item="ITEM_MAT_PELREM_SHELL"/>
+	<QuestCollectG numMin="2" numMax="4" money="351" item="ITEM_MAT_BLUE_CRYSTAL"/>
+	<QuestCollectG numMin="1" numMax="3" money="750" item="ITEM_MAT_STAR_POWDER"/>
+	<QuestCollectG numMin="2" numMax="5" money="339" item="ITEM_MAT_SUN_POWDER"/>
+	<QuestCollectG numMin="2" numMax="5" money="135" item="ITEM_MAT_SMALL_CRYSTAL_PIECES"/>
+	<QuestCollectG numMin="2" numMax="4" money="339" item="ITEM_MAT_RAINBOW_CRYSTAL_PIECES"/>
+	<QuestCollectG numMin="2" numMax="4" money="114" item="ITEM_MAT_PENDEROCK"/>
+	<QuestCollectG numMin="1" numMax="3" money="976" item="ITEM_MAT_PENDEGRUN"/>
+	<QuestCollectG numMin="1" numMax="2" money="113" item="ITEM_MAT_DEVIOUS_CORE"/>
+	<QuestCollectG numMin="1" numMax="1" money="600" item="ITEM_MAT_DRAGON_CORE"/>
+	<QuestCollectG numMin="1" numMax="1" money="750" item="ITEM_MAT_FORGOTTEN_BRANCH"/>
+	<QuestCollectG numMin="1" numMax="1" money="750" item="ITEM_MAT_FORGOTTEN_JEWEL"/>
+	<QuestCollectG numMin="1" numMax="1" money="750" item="ITEM_MAT_FORGOTTEN_ORE"/>
+	<QuestCollectG numMin="1" numMax="1" money="750" item="ITEM_MAT_FORGOTTEN_PARTS"/>
+	<QuestCollectG numMin="1" numMax="3" money="30" item="ITEM_MAT_BASTARDS_PIECES"/>
+	<QuestCollectG numMin="1" numMax="3" money="30" item="ITEM_MAT_BURNT_PIECES"/>
+	<QuestCollectG numMin="1" numMax="3" money="30" item="ITEM_MAT_SMELL_PIECES"/>
+	<QuestCollectG numMin="1" numMax="3" money="30" item="ITEM_MAT_BEAUTIFUL_PIECES"/>
+	<QuestCollectG numMin="1" numMax="3" money="30" item="ITEM_MAT_FAILURE_ASH"/>
+	<QuestCollectG numMin="1" numMax="1" money="15" item="ITEM_MAT_OBORO_PETAL"/>
+	<QuestCollectG numMin="1" numMax="1" money="15" item="ITEM_MAT_ANCIENT_DRAGON_SCALE"/>
+	<QuestCollectG numMin="1" numMax="1" money="15" item="ITEM_MAT_SP_ITEM_001"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_KEY_ITEM_011"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MAT_KIRUHEN_MILK"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_INGOT"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_CLOTH"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_NOTSWAY_SCALE"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_KEY_ITEM_006"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_UNIVERSAL_ACCELERATOR"/>
+	<QuestCollectG numMin="15" numMax="15" item="ITEM_MIX_BAKED_GOODS"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_UNIVERSAL_ACCELERATOR"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_UNIVERSAL_AMULET_INCENSE"/>
+	<QuestCollectG numMin="5" numMax="5" item="ITEM_MIX_UNIVERSAL_AMULET_INCENSE"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_KEY_ITEM_010"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_KEY_ITEM_011"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_SP_ITEM_203"/>
+	<QuestCollectG numMin="10" numMax="10" item="ITEM_MAT_KAREN_STONE"/>
+	<QuestCollectG numMin="10" numMax="10" item="ITEM_MAT_KUPFER_MINERAL"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_CLOTH"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_KEY_ITEM_007"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_INGOT"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_PRIMORDIAL_FLASHPOINT"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_SPRUCE"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_FRAMME"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_SPRUCE"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_BOTTLING_MISFORTUNE"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_UNIVERSAL_ACCELERATOR"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_HONEY_SYRUP"/>
+	<QuestCollectG numMin="1" numMax="1" item="ITEM_MIX_SALAMANDER"/>
+	<QuestCollectG numMin="10" numMax="10" money="0" item="ITEM_MAT_KIFA"/>
+	<QuestCollectG numMin="7" numMax="7" money="0" item="ITEM_MAT_LITHOGRAPH"/>
+	<QuestCollectG numMin="5" numMax="5" money="0" item="ITEM_MAT_NITRO_WATER"/>
+	<QuestCollectG numMin="1" numMax="1" money="18" day_min="50" day_max="50" item="ITEM_MAT_COBALT_GRASS"/>
+	<QuestCollectG numMin="1" numMax="1" money="66" day_min="50" day_max="50" item="ITEM_MAT_SMALL_CRYSTAL_PIECES"/>
+	<QuestCollectG numMin="1" numMax="1" money="90" day_min="50" day_max="50" item="ITEM_MAT_GOLDEN_PUNIPUNI_BALL"/>
+	<QuestCollectG numMin="1" numMax="1" money="120" day_min="50" day_max="50" item="ITEM_MAT_GOLD_THREAD"/>
+	<QuestCollectG numMin="1" numMax="1" money="334" day_min="50" day_max="50" item="ITEM_MAT_SUN_POWDER"/>
+	<QuestCollectG numMin="1" numMax="1" money="334" day_min="50" day_max="50" item="ITEM_MAT_STAR_POWDER"/>
+	<QuestCollectG numMin="4" numMax="4" money="24" day_min="50" day_max="50" item="ITEM_MAT_DEMON_BIRD_FEATHER"/>
+	<QuestCollectG numMin="7" numMax="7" money="12" day_min="50" day_max="50" item="ITEM_MAT_MAGIC_GRASS"/>
+	<QuestCollectG numMin="5" numMax="5" money="6" day_min="50" day_max="50" item="ITEM_MAT_WELL_WATER"/>
+	<QuestCollectG numMin="2" numMax="2" money="54" day_min="50" day_max="50" item="ITEM_MAT_SOIL_POTATO"/>
+	<QuestCollectG numMin="1" numMax="1" money="90" day_min="50" day_max="50" item="ITEM_MAT_MYSTIC_HERB"/>
+	<QuestCollectG numMin="3" numMax="3" money="60" day_min="50" day_max="50" item="ITEM_MAT_SILVER_THREAD"/>
+	<QuestCollectG numMin="20" numMax="20" money="18" day_min="50" day_max="50" item="ITEM_MAT_MUD_DUMPLING"/>
+	<QuestCollectG numMin="1" numMax="1" money="168" day_min="50" day_max="50" item="ITEM_MAT_GARDEN_MAIDEN"/>
+	<QuestCollectG numMin="1" numMax="1" money="350" day_min="50" day_max="50" item="ITEM_MAT_ELEMENT_CRYSTAL"/>
+	<QuestCollectG numMin="1" numMax="1" money="6" day_min="50" day_max="50" item="ITEM_MAT_WELL_WATER"/>
+	<QuestCollectG numMin="1" numMax="1" money="48" day_min="50" day_max="50" item="ITEM_MAT_DELICIOUS_WATER"/>
+	<QuestCollectG numMin="1" numMax="1" money="180" day_min="50" day_max="50" item="ITEM_MAT_NITRO_WATER"/>
+	<QuestCollectG numMin="2" numMax="2" money="66" day_min="50" day_max="50" item="ITEM_MAT_INFORMAL_STONE"/>
+	<QuestCollectG numMin="2" numMax="2" money="90" day_min="50" day_max="50" item="ITEM_MAT_LITHOGRAPH"/>
+	<QuestCollectG numMin="1" numMax="1" money="174" day_min="50" day_max="50" item="ITEM_MAT_NIGHT_CRYSTAL"/>
+	<QuestCollectG numMin="1" numMax="1" money="90" day_min="50" day_max="50" item="ITEM_MAT_GOLDEN_PUNIPUNI_BALL"/>
+	<QuestCollectG numMin="1" numMax="1" money="30" day_min="50" day_max="50" item="ITEM_MAT_BEAUTIFUL_SEASHELL"/>
+	<QuestCollectG numMin="1" numMax="1" money="42" day_min="50" day_max="50" item="ITEM_MAT_EISEN_MINERAL"/>
+	<QuestCollectG numMin="1" numMax="1" money="54" day_min="50" day_max="50" item="ITEM_MAT_REIDEN_MINERAL"/>
+	<QuestCollectG numMin="1" numMax="1" money="54" day_min="50" day_max="50" item="ITEM_MAT_KUPFER_MINERAL"/>
+	<QuestCollectG numMin="1" numMax="1" money="102" day_min="50" day_max="50" item="ITEM_MAT_WHITE_PRINCESS_GRASS"/>
+</Root>

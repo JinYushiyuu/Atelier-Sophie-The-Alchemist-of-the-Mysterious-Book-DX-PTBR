@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" visible="false" viewer_visible="true">
+		<node name="contribution" pos="85.00, 216.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="contribution" style="gen_a17_shop01_contribution" pos="33, 246, 0"/>
+			<text text="999999999" name="money_text" pos="258.00, 299.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" align="right" word_space="1.00"/>
+		</node>
+	</node>
+	<anim_ctrl name="fade_in" viewer_key_assign="0" start_visible="true">
+		<bind_node node="top" anim="store_common_fade_in"/>
+	</anim_ctrl>
+	<anim_ctrl name="fade_out" viewer_key_assign="1">
+		<bind_node node="top" anim="store_common_fade_out"/>
+	</anim_ctrl>
+</root>

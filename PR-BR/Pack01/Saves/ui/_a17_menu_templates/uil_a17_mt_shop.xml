@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!-- スタイルの読み込み -->
+	<command load_style="Saves/ui/_menu_templates/uis_mt_common.xml"/>
+	<!-- アニメーションの読み込み -->
+	<command load_anim="Saves/ui/_menu_templates/uia_mt_common.xml"/>
+	<!-- 下地ウィンドウ -->
+	<image name="__uimenu_window" style="gen_a17_shop01_cab" size_wh="361.00, 415.00, 0.00">
+		<!--スクロールバー-->
+		<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1.00, 0.00, 0.00" size_h="415.00" style="common_scroll_bar_a17_cabinet" pos="-7.00, 0.00, 0.00"/>
+		<!-- メニュー項目 -->
+		<node name="__uimenu_body" pos="20, 16, 0">
+			<node name="bg">
+				<image name="bg1" style="gen_a17_shop01_paper" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="bg2" style="gen_a17_shop01_paper" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 74.00, 0.00"/>
+				<image name="bg3" style="gen_a17_shop01_paper" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 148.00, 0.00"/>
+				<image name="bg4" style="gen_a17_shop01_paper" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 222.00, 0.00"/>
+				<image name="bg5" style="gen_a17_shop01_paper" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 296.00, 0.00"/>
+			</node>
+			<!-- メニューカーソル -->
+			<node name="__uimenu_cursor" viewer_visible="false">
+				<image name="__uimenu_cursor_inactive" style="gen_a17_shop01_paper" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="2"/>
+				<image name="__uimenu_cursor_active" style="gen_a17_shop01_paper" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1">
+					<feed pos="20, 37, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<!-- 明滅アニメーション -->
+				<anim_ctrl play="true" loop="true">
+					<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</node>
+			<!-- メニュー項目リスト(この下にMenuItemが連なる) -->
+			<node pos="0.00, 0.00, 0.00" name="__uimenu_item_list"/>
+		</node>
+	</image>
+</root>

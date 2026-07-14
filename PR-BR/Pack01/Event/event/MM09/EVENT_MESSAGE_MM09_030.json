@@ -1,0 +1,105 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM09_030.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sir Julio!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Sophie. What is it? We only just parted ways."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I wanted to thank you properly. Thank you very much!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Haha, there's no need for that. I'm just glad to have helped you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Sir Julio...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Still, you've become quite the splendid alchemist. I think you're quite amazing."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ehehe... Really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "That's why I told you before, Julio. Sophie has a lot of potential."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Heh heh, it seems you were correct. I'm proud to have friends such as you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "I look forward to working together more, if you would allow it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Yes! Of course!"
+        }
+    ]
+}

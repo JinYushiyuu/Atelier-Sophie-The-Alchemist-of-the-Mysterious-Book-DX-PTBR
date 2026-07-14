@@ -1,0 +1,88 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC06_HAR_160.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x5,
+            "voice_id": 0xe9,
+            "name_id": 0x17,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x2,
+            "msg_string": "Hey, did you hear about the clock shop?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xfd,
+            "name_id": 0x18,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x2,
+            "msg_string": "Huh? You mean Harol's shop, right? The one famous for being lazy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "(Hm...? Are those people talking about Harol's shop...?)"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe9,
+            "name_id": 0x17,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x2,
+            "msg_string": "That's what I always heard, too. But it sounds like it's been different lately."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe9,
+            "name_id": 0x17,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x2,
+            "msg_string": "He'll repair your clock for really cheap if you bring it over. Apparently he doesn't do a bad job, either."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xfd,
+            "name_id": 0x18,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x2,
+            "msg_string": "Huh... I heard he wasn't very skilled compared to his father... Is it true?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe9,
+            "name_id": 0x17,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x2,
+            "msg_string": "Yeah. My clock's been acting up lately. I'll try bringing it over to see sometime."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(Huh, sounds like Harol's working hard...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "(Ehehe, Harol's shop is getting the praise, but I'm feeling happy too for some reason.)"
+        }
+    ]
+}

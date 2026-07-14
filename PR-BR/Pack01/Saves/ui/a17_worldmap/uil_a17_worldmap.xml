@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="Saves/ui/a17_worldmap/uia_a17_map.xml"/>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="true">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="template_loader"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<node name="destination" visible="true" viewer_visible="false" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="w03" pos="2, 0, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_worldmap01_destinationbg" size_wh="258.00, 49.00, 0.00"/>
+			<text text="場所の名前あいうえお" name="text" pos="127, 11, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="54.00, 19.00, 2.00, 255.00" word_space="-1.00" align="center"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="true">
+		<node name="nowarea" pos="1001.00, 25.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="false">
+			<image name="nowarea" style="gen_a17_worldmap01_nowarea"/>
+			<text name="area_name_text" color="229.00, 223.00, 183.00, 255.00" text="あいうえおかきく" pos="63, 13, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="-1.00"/>
+		</node>
+		<!--↓行き先選択-->
+		<node name="center" pos="497.00, 400.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="false">
+			<anim_ctrl name="fade_in" exclusive_play="true">
+				<bind_node node="center" anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="fade_out" exclusive_play="true">
+				<bind_node node="center" anim="anm_common_fade_in" reverse="true" start_visible="false"/>
+			</anim_ctrl>
+			<node name="nowspot" pos="-4, 31, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="nowspot" style="gen_a17_worldmap01_nowspot"/>
+				<image name="hl" pos="4, 3, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="279, 38"/>
+				<text text="場所の名前あいうえお" name="text" pos="144.00, 9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" word_space="-1.00" copy="TEXTCOLOR_BEIGE"/>
+			</node>
+		</node>
+		<node name="dir_arrow" viewer_visible="true" visible="false">
+			<node name="south" pos="478, 568, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node copy="destination" clone_child_tree="destination" name="clone_destination" pos="32.00, -1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="arrow" style="gen_a17_worldmap01_spot_c_d" pos="121.00, -63.12, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="east" pos="854, 358, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node copy="destination" clone_child_tree="destination" name="clone_destination" pos="-33.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="arrow" style="gen_a17_worldmap01_spot_c_r" pos="-94.83, -19.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="north" pos="480, 113, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node copy="destination" clone_child_tree="destination" name="clone_destination" pos="30, 48, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="arrow" style="gen_a17_worldmap01_spot_c_u" pos="119.00, 97.88, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="west" pos="99.00, 357.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node copy="destination" clone_child_tree="destination" name="clone_destination" pos="90, -1, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="arrow" style="gen_a17_worldmap01_spot_c_l" pos="348.68, -18.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<anim_ctrl name="anim_ctrl" play="true" loop="true" speed="0.50">
+				<bind_node node="west/arrow" anim="anm_map_arrow_move_west"/>
+				<bind_node node="north/arrow" anim="anm_map_arrow_move_north"/>
+				<bind_node node="east/arrow" anim="anm_map_arrow_move_east"/>
+				<bind_node node="south/arrow" anim="anm_map_arrow_move_south"/>
+			</anim_ctrl>
+			<anim_ctrl name="dir_arrow_fade_out_fast" end_visible="false" viewer_key_assign="1" exclusive_play="true" speed="10.00">
+				<bind_node node="dir_arrow" anim="anm_common_fade_in" reverse="true" start_visible="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="dir_arrow_fade_out" end_visible="false" viewer_key_assign="1" exclusive_play="true">
+				<bind_node node="dir_arrow" anim="anm_common_fade_in" reverse="true" start_visible="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="dir_arrow_fade_in" viewer_key_assign="0">
+				<bind_node node="dir_arrow" anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<!--カーソル-->
+		<image style="gen_a17_worldmap01_point_cursor" name="cursor" image_no="0" pos="620, 309, -0" visible="false" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<anim_ctrl name="cursor_float" play="true" loop="true">
+				<bind_node anim="anm_map_free_cursor" node="cursor"/>
+			</anim_ctrl>
+			<anim_ctrl name="cursor_fade_in" start_visible="true" viewer_key_assign="2" exclusive_play="true">
+				<bind_node node="cursor" anim="anm_common_fade_in"/>
+			</anim_ctrl>
+			<anim_ctrl name="cursor_fade_out" end_visible="false" viewer_key_assign="3" exclusive_play="true">
+				<bind_node node="cursor" anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+		</image>
+		<!--↓図鑑表示時-->
+		<image name="pointer_info_window" style="gen_a17_win01_w04" size_wh="675.00, 507.00, 0.00" pos="312.00, 132.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+			<node name="template" pos="713, 1, 0" visible="false" viewer_visible="false">
+				<node name="cell_a17" viewer_visible="false">
+					<image name="high_light" style="gen_a17_win01_hl" pos="-6, -9, -0" size_wh="257.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+						<anim_ctrl name="anim_ctrl" loop="true" play="true">
+							<bind_node node="high_light" anim="anm_common_cursor_blink"/>
+						</anim_ctrl>
+						<feed name="feed" pos="10.00, 19.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					</image>
+					<anim_ctrl name="on_unselect" viewer_key_assign="8" exclusive_play="true">
+						<bind_node node="high_light" end_visible="false"/>
+					</anim_ctrl>
+					<anim_ctrl name="on_select" viewer_key_assign="7" exclusive_play="true">
+						<bind_node node="high_light" start_visible="true"/>
+					</anim_ctrl>
+					<text text="あいうえおかきくけこ" name="text" pos="10.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="54.00, 19.00, 2.00, 255.00" align="left" word_space="-2.00">
+						<image name="quest_icon" style="gen_map01_requesticon" pos="210, -2, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					</text>
+				</node>
+			</node>
+			<anim_ctrl name="ac_info_window_fade_in" viewer_key_assign="3" exclusive_play="true">
+				<bind_node anim="anm_common_fade_in" start_visible="true" node="pointer_info_window" speed="1.50"/>
+			</anim_ctrl>
+			<anim_ctrl name="ac_info_window_fade_out" viewer_key_assign="4" exclusive_play="true">
+				<bind_node anim="anm_common_fade_in" start_visible="true" reverse="true" node="pointer_info_window" speed="1.50"/>
+			</anim_ctrl>
+			<node name="item_list">
+				<node name="node">
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="item_0" pos="50, 101, 0"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="item_1" pos="50.00, 137.89, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="item_2" pos="50.00, 174.78, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="item_3" pos="50.00, 211.67, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="item_4" pos="50.00, 248.56, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="item_5" pos="50.00, 285.44, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="item_6" pos="50.00, 322.33, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="item_7" pos="50.00, 359.22, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="item_8" pos="50.00, 396.11, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="item_9" pos="50.00, 433.00, 0.00"/>
+				</node>
+				<image name="label" style="gen_a17_worldmap01_titleline" pos="37.00, 62.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="Gatherables" name="text" pos="139.00, -18.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="54.00, 19.00, 2.00, 255.00" word_space="-1.00" align="center"/>
+				</image>
+				<node name="lines" pos="0.00, 1.00, 0.00">
+					<image name="line_1" style="gen_a17_win01_line01" pos="44, 125, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_2" style="gen_a17_win01_line01" pos="44.00, 161.89, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_3" style="gen_a17_win01_line01" pos="44.00, 198.78, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_4" style="gen_a17_win01_line01" pos="44.00, 235.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_5" style="gen_a17_win01_line01" pos="44.00, 272.56, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_6" style="gen_a17_win01_line01" pos="44.00, 309.44, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_7" style="gen_a17_win01_line01" pos="44.00, 346.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_8" style="gen_a17_win01_line01" pos="44.00, 383.22, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_9" style="gen_a17_win01_line01" pos="44.00, 420.11, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_10" style="gen_a17_win01_line01" pos="44.00, 457.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+				</node>
+				<node name="item_etc" pos="-4.00, 407.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="obi02_2" style="gen_a17_item_info01_pagebg" rot="0.00, 0.00, -13.00" scale="1.00, 1.00, 1.00" pos="252, 70, -0"/>
+					<text text="Etc." name="text_etc" copy="TEXTCOLOR_BROWN" pos="275, 56, -0" align="left" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00"/>
+				</node>
+			</node>
+			<node name="monster_list">
+				<node name="node" pos="320.00, -1.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="monster_0" pos="50, 101, 0"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="monster_1" pos="50.00, 137.89, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="monster_2" pos="50.00, 174.78, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="monster_3" pos="50.00, 211.67, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="monster_4" pos="50.00, 248.56, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="monster_5" pos="50.00, 285.44, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="monster_6" pos="50.00, 322.33, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="monster_7" pos="50.00, 359.22, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="monster_8" pos="50.00, 396.11, 0.00"/>
+					<node copy="cell_a17" clone_child_tree="cell_a17" name="monster_9" pos="50.00, 433.00, 0.00"/>
+				</node>
+				<image name="label" style="gen_a17_worldmap01_titleline" pos="355.00, 62.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="Inhabiting Monsters" name="text" pos="138.00, -18.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="54.00, 19.00, 2.00, 255.00" word_space="-1.00" align="center"/>
+				</image>
+				<node name="monster_etc" pos="326.00, 404.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="obi02_2" style="gen_a17_item_info01_pagebg" rot="0.00, 0.00, -13.00" scale="1.00, 1.00, 1.00" pos="252, 70, -0"/>
+					<text text="Etc." name="text_etc" copy="TEXTCOLOR_BROWN" pos="275, 56, -0" align="left" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00"/>
+				</node>
+				<node name="lines" pos="320.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="line_1" style="gen_a17_win01_line01" pos="44, 125, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_2" style="gen_a17_win01_line01" pos="44.00, 161.89, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_3" style="gen_a17_win01_line01" pos="44.00, 198.78, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_4" style="gen_a17_win01_line01" pos="44.00, 235.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_5" style="gen_a17_win01_line01" pos="44.00, 272.56, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_6" style="gen_a17_win01_line01" pos="44.00, 309.44, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_7" style="gen_a17_win01_line01" pos="44.00, 346.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_8" style="gen_a17_win01_line01" pos="44.00, 383.22, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_9" style="gen_a17_win01_line01" pos="44.00, 420.11, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+					<image name="line_10" style="gen_a17_win01_line01" pos="44.00, 457.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="260, 8" viewer_visible="false"/>
+				</node>
+			</node>
+			<selector name="pointer_info_selector" viewer_visible="false" pos="-312.00, -132.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<option_list viewer_visible="true">
+					<option node="item_list/item_0"/>
+					<option node="item_list/item_1"/>
+					<option node="item_list/item_2"/>
+					<option node="item_list/item_3"/>
+					<option node="item_list/item_4"/>
+					<option node="item_list/item_5"/>
+					<option node="item_list/item_6"/>
+					<option node="item_list/item_7"/>
+					<option node="item_list/item_8"/>
+					<option node="item_list/item_9"/>
+				</option_list>
+				<option_list>
+					<option node="monster_list/monster_0"/>
+					<option node="monster_list/monster_1"/>
+					<option node="monster_list/monster_2"/>
+					<option node="monster_list/monster_3"/>
+					<option node="monster_list/monster_4"/>
+					<option node="monster_list/monster_5"/>
+					<option node="monster_list/monster_6"/>
+					<option node="monster_list/monster_7"/>
+					<option node="monster_list/monster_8"/>
+					<option node="monster_list/monster_9"/>
+				</option_list>
+			</selector>
+		</image>
+	</node>
+</root>

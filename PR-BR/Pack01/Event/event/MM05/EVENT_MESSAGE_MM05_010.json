@@ -1,0 +1,400 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM05_010.ebm",
+    "nb_messages": 0x2d,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "The doll's body, and wind-up springs to move. Clothes for her to wear, and the \"Compass of Hades\" to move her soul."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Yeah, it's all ready! Plachta! Everything's all set to turn you into a doll!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "...You actually did it? To be honest, I'm surprised."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "msg_string": "It must have been a lot of work to come this far. Thank you very much, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3f,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "No, I couldn't have done all this alone."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "There was Fritz, and Harol. Leon, and Cory. Monika, Oskar, and Julio too..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Anyway, lots of people helped me. That's why I was able to come this far."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "...Still. That doesn't change the fact that you worked very hard."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "msg_string": "That's why I want to say thank you, Sophie... Thank you for doing all this for my sake."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Wait, Plachta. It's still too early to say that. You should say it once you've become the doll."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "msg_string": "...Hehe, I suppose so."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Okay... Then I guess I need to assemble your body first!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x2,
+            "msg_string": "Let's see... I need to install the wind-up springs into your body... There. Next I need to put the clothes on..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Okay, it's done!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "So this is my body..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x47,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Yeah, that's right... All that's left is to use the \"Compass of Hades\" to move your soul."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "...Yes."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Once I do that, you'll become this doll..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Oh right. I should invite Monika and Oskar. This is a once in a lifetime chance to see your debut."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "Um, no. That's not really necessary..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Anyway, I'll be back in a little while!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "Sheesh... She really does go out of her way."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "I know you came to me before about Plachta's memories, but... I never thought you'd do something like this."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "I was always kind of thinking this, but... You do some crazy things sometimes, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "I know Plachta used to be human, but normal people would never think about turning a book into a doll, you know?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Ahaha, I guess that's true. But this is for Plachta. I'd feel bad if she never got her memories back."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "I wanted to do everything I could for her... Once I started thinking that way, I couldn't stop."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "I don't know if I should call that reckless, or not thinking about consequences..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Yeah, but I think that's just part of what makes Sophie, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Yes, you're right. That's one of her strengths."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "O-oh stop it, you two. You're making me blush..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Huh, do I have a visitor at this time...? Yes, come in?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Hello, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Meklet, Atomina!? Why are you here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "We felt like you were doing something interesting now, so we came over."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2b,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Looks like we were spot on. Do you mind if we watch too?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Oh, I see... Well, you two have helped me a lot..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "Okay, I understand. You two can watch too!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "Thank you, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "You have our gratitude. Anyway... What are you planning to do?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Well you see, I'm going to be turning Plachta into a doll."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Plachta... Oh, you mean that book."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Hm, that sounds wonderful. I didn't think we'd get to see something that amazing..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "Yeah, I agree. Anyway, we'll just be quietly watching."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Okay... Then I guess we should get started."
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="gen_a17_library01_icon">
+		<image name="gen_a17_library01_icon__xLIST01" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,436,144,144"/>
+		<image name="gen_a17_library01_icon__xLIST02" texture="ui/a17_library.g1t" texture_index="0" uvwh="144,436,144,144"/>
+	</image_list>
+	<image name="gen_a17_library01_itembg" texture="ui/a17_library.g1t" texture_index="0" uvwh="320,256,448,432"/>
+	<image name="gen_a17_library01_mark" texture="ui/a17_library.g1t" texture_index="0" uvwh="659,691,32,32"/>
+	<image name="gen_a17_library01_menuline01" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,708,656,80"/>
+	<image name="gen_a17_library01_pb" texture="ui/a17_library.g1t"  texture_index="0" prim_type="wrap" edge_margin="14,11,24,25" uvwh="568,0,176,144"/>
+	<image_list name="gen_a17_library01_text02">
+		<image name="gen_a17_library01_text02__xLIST01" texture="ui/a17_library.g1t" texture_index="0" uvwh="320,0,96,48"/>
+		<image name="gen_a17_library01_text02__xLIST02" texture="ui/a17_library.g1t" texture_index="0" uvwh="320,48,96,48"/>
+		<image name="gen_a17_library01_text02__xLIST03" texture="ui/a17_library.g1t" texture_index="0" uvwh="320,96,96,48"/>
+		<image name="gen_a17_library01_text02__xLIST04" texture="ui/a17_library.g1t" texture_index="0" uvwh="320,144,96,48"/>
+		<image name="gen_a17_library01_text02__xLIST05" texture="ui/a17_library.g1t" texture_index="0" uvwh="320,192,96,48"/>
+		<image name="gen_a17_library01_text02__xLIST06" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,639,96,58"/>
+		<image name="gen_a17_library01_text02__xLIST07" texture="ui/a17_library.g1t" texture_index="0" uvwh="96,639,96,58"/>
+		<image name="gen_a17_library01_text02__xLIST08" texture="ui/a17_library.g1t" texture_index="0" uvwh="192,639,96,58"/>
+	</image_list>
+	<image name="gen_a17_library01_text02frame" texture="ui/a17_library.g1t" texture_index="0" uvwh="420,0,144,144"/>
+	<image_list name="gen_a17_library01_text">
+		<image name="gen_a17_library01_text__xLIST01" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,0,320,48"/>
+		<image name="gen_a17_library01_text__xLIST02" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,48,320,48"/>
+		<image name="gen_a17_library01_text__xLIST03" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,96,320,48"/>
+		<image name="gen_a17_library01_text__xLIST04" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,144,320,48"/>
+		<image name="gen_a17_library01_text__xLIST05" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,192,320,48"/>
+		<image name="gen_a17_library01_text__xLIST06" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,240,320,48"/>
+		<image name="gen_a17_library01_text__xLIST07" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,288,320,48"/>
+		<image name="gen_a17_library01_text__xLIST08" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,336,320,48"/>
+		<image name="gen_a17_library01_text__xLIST09" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,384,320,48"/>
+		<image name="gen_a17_library01_text__xLIST10" texture="ui/a17_library.g1t" texture_index="0" uvwh="416,144,320,48"/>
+		<image name="gen_a17_library01_text__xLIST11" texture="ui/a17_library.g1t" texture_index="0" uvwh="416,192,320,48"/>
+		<image name="gen_a17_library01_text__xLIST12" texture="ui/a17_library.g1t" texture_index="2" uvwh="284,275,320,48"/>
+		<image name="gen_a17_library01_text__xLIST13" texture="ui/a17_library.g1t" texture_index="0" uvwh="0,582,320,48"/>
+		<image name="gen_a17_library01_text__xLIST13" texture="ui/a17_library.g1t" texture_index="2" uvwh="284,326,320,48"/>
+	</image_list>
+	<image name="gen_a17_library01_textmon" texture="ui/a17_library.g1t" texture_index="2" uvwh="284,225,392,48"/>
+	<image name="gen_a17_library02_a01" texture="ui/a17_library.g1t" texture_index="1" uvwh="0,0,336,1248"/>
+	<image name="gen_a17_library02_a02" texture="ui/a17_library.g1t" texture_index="1" uvwh="384,0,320,1248"/>
+	<image name="gen_a17_library03_bronze" texture="ui/a17_library.g1t" texture_index="2" uvwh="472,152,72,72"/>
+	<image name="gen_a17_library03_gold" texture="ui/a17_library.g1t" texture_index="2" uvwh="472,0,248,72"/>
+	<image name="gen_a17_library03_l" texture="ui/a17_library.g1t"  texture_index="2" prim_type="wrap" edge_margin="14,0,14,15" uvwh="640,77,124,15"/>
+	<image name="gen_a17_library03_pf" texture="ui/a17_library.g1t"  texture_index="2" prim_type="wrap" edge_margin="16,22,16,20" uvwh="268,1,200,200"/>
+	<image name="gen_a17_library03_pfbg" texture="ui/a17_library.g1t" texture_index="2" uvwh="1,261,278,62"/>
+	<image name="gen_a17_library03_silver" texture="ui/a17_library.g1t" texture_index="2" uvwh="472,76,160,72"/>
+	<image name="gen_a17_library03_w1" texture="ui/a17_library.g1t"  texture_index="2" prim_type="wrap" edge_margin="61,66,58,85" uvwh="0,0,264,256"/>
+	<image name="gen_a17_library04_hl" texture="ui/a17_library.g1t"  texture_index="3" prim_type="wrap" edge_margin="24,25,29,21" uvwh="0,432,173,149"/>
+	<image name="gen_a17_library04_worldmap" texture="ui/a17_library.g1t" texture_index="3" uvwh="0,0,710,432"/>
+	<image name="gen_a17_library05_bg01" texture="ui/a17_library.g1t" texture_index="4" uvwh="0,0,656,624"/>
+</root>

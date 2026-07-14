@@ -1,0 +1,194 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_120.ebm",
+    "nb_messages": 0x15,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0xe,
+            "msg_id": 0x0,
+            "msg_string": "G-Ghosts! Show yourselves! Come out and let me beat you!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x44,
+            "expr_id": 0xe,
+            "msg_id": 0x1,
+            "msg_string": "Sophie, your voice is shaking."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0xe,
+            "msg_id": 0x2,
+            "msg_string": "N-N-No, it isn't! I'm stronger than I used to be!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1d,
+            "expr_id": 0xe,
+            "msg_id": 0x3,
+            "msg_string": "Th-This is all to become more like my grandma...! I can't let any ghost stop me..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xffffffff,
+            "name_id": 0x60,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Whoo-oo-oo-oo..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, there it is. A ghost..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "No! A ghost! Go away, go away! Begone, foul ghost!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "That's no good, Sophie... That's not what your grandmother would have done..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "...Um, Corneria? You were the one who accepted this request, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Yes... That's right..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "I know you want to help Sophie grow... But isn't this a little harsh?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "I don't think so... Sophie is very strong..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "It may be too much for some... But I know Sophie can do this..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "No ghost can stop her, I'm sure..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Corneria..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "You still think that, after watching her run away screaming...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "...To be totally honest... I think I may have made a mistake."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Haha... She really is terrified of ghosts, after all..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "But this is all for her own good...! Sometimes you have to be cruel to be kind!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "Come on, Sophie! Come and defeat the ghosts!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Uwah! Don't push me! No! I hate ghosts! Aaaarghhh!"
+        }
+    ]
+}

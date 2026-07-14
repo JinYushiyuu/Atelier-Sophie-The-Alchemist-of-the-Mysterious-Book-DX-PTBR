@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+	<!-- 明滅 -->
+	<anim name="anm_forecast_blink">
+    	<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255, 1"/>
+			<key time="2.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+
+  
+    <anim name="anm_mix_in">
+
+
+      <curve attr="color">
+        <key time="0.0"		value="255,255,255,  0"/>
+        <key time="0.05"		value="255,255,255,  0"/>
+        <key time="0.35" 	value="255,255,255,255"/>
+      </curve>
+      <curve attr="pos">
+        <key time="0.0" value="25.0,0.0,0.0"/>
+        <key time="0.35" value="0.0,0.0,0.0"/>
+      </curve>
+    </anim>
+
+  <!--■■■■■■■■■■■■■■調合キャプションのアニメーション■■■■■■■■■■■■■■-->
+  <anim name="anm_mix_caption_change_in">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0"		value="-150,0,0,0"/>
+      <key time="0.2"		value="0,0,0,0"/>
+      <key time="0.25"		value="0,0,0,0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,0"/>
+      <key time="0.1"		value="255,255,255,255"/>
+    </curve>
+  </anim>
+  <anim name="anm_mix_caption_change_out">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0"		value="0,0,0,"/>
+      <key time="0.25"		value="0,-130,0,0"/>
+    </curve>
+  </anim>
+  <anim name="anm_mix_caption_recipe_in">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0"		value="0,-75,0"/>
+      <key time="0.2"		value="0,-10,0"/>
+      <key time="0.25"		value="0,0,0"/>
+    </curve>
+  </anim>
+
+
+  <!--■■■■■■■■■■■■■■カードアニメーション■■■■■■■■■■■■■■-->
+
+  <!--カードの出現-->
+  <anim name="card_in">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,  0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.0" value="20.0,0.0,0.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+    </curve>
+    <curve attr="rot">
+      <key time="0.0" value="0.0,10.0,0.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+    </curve>
+  </anim>  
+  <!--カードが一回転-->
+  <anim name="change_card">
+    <curve attr="rot">
+      <key time="0.0" value="0.0,0.0,0.0"/>
+      <key time="0.3" value="0.0,180.0,0.0"/>
+      <key time="0.6" value="0.0,360.0,0.0"/>
+    </curve>
+  </anim>
+  <!--カードが裏返る-->
+  <anim name="reverse">
+    <curve attr="rot">
+      <key time="0.0" value="0.0,0.0,0.0"/>
+      <key time="0.2" value="0.0,180.0,0.0"/>
+    </curve>
+  </anim>
+  <!--カードが表になる-->
+  <anim name="reverse_out">
+    <curve attr="rot">
+      <key time="0.0" value="0.0,180.0,0.0"/>
+      <key time="0.2" value="0.0,360.0,0.0"/>
+      <key time="0.2" value="0.0,0.0,0.0"/>
+    </curve>
+  </anim>
+
+
+  <!--カードの投入-->
+  <anim name="card_insert">
+    <curve attr="rot">
+      <key time="0.0" value="0.0,0.0,0.0"/>
+      <key time="0.3" value="0.0,360.0,0.0"/>
+      <key time="1.0" value="0.0,360.0,0.0"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.0" value="0.0,0.0,0.0"/>
+      <key time="0.3" value="0.0,0.0,0.0"/>
+      <key time="0.5" value="0.0,0.0,-100.0"/>
+      <key time="0.6" value="0.0,0.0,0.0"/>
+      <key time="0.8" value="0.0,0.0,100.0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="0.3" value="255,255,255,255"/>
+      <key time="0.6" value="255,255,255,255"/>
+      <key time="0.8" value="255,255,255,0"/>
+    </curve>
+    <curve attr="scale">
+      <key time="0.0" value="1,1,1"/>
+      <key time="0.3" value="0.7,0.7,0.7"/>
+    </curve>
+  </anim>
+
+
+  <!--■■■■■■■■■■■■■■材料投入関連アニメーション■■■■■■■■■■■■■■-->
+  
+  <!--上画面の左右矢印動き-->
+  <anim name="insert_top_cursor_anime_l">
+    <curve attr="pos">
+      <key time="0.0" value="0.0,0.0,0.0"/>
+      <key time="0.3" value="-10.0,0.0,0.0"/>
+      <key time="0.6" value="0.0,0.0,0.0"/>
+    </curve>
+  </anim>
+  <anim name="insert_top_cursor_anime_r">
+    <curve attr="pos">
+      <key time="0.0" value="0.0,0.0,0.0"/>
+      <key time="0.3" value="10.0,0.0,0.0"/>
+      <key time="0.6" value="0.0,0.0,0.0"/>
+    </curve>
+  </anim>
+  
+  <!--下地入り-->
+  <anim name="start_in_big_bg">
+    <curve attr="pos">
+      <key time="0.0" value="0.0,400.0,0.0"/>
+      <key time="0.3" value="0.0,0.0,0.0"/>
+    </curve>
+  </anim>
+  <anim name="start_fade_in_left_right">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.3" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  <!--スキル起動-->
+  <anim name="skill_sheet_in">
+    <curve attr="pos">
+      <key time="0.0" value="0.0,0.0,0.0"/>
+      <key time="0.2" value="0.0,-276.0,0.0"/>
+    </curve>
+  </anim>
+  <!--■■■■■■■■■■■■■■潜力、常駐効果一覧の手前に出てくるウィンドウのアニメーション■■■■■■■■■■■■■■-->
+
+  <anim name="right_in_anim">
+    <curve attr="pos">
+      <key time="0.0" value="0.0,0.0,0.0"/>
+      <key time="0.25" value="-520.0,0.0,0.0"/>
+    </curve>
+  </anim>
+  <anim name="left_in_anim">
+    <curve attr="pos">
+      <key time="0.0" value="0.0,0.0,0.0"/>
+      <key time="0.25" value="520.0,0.0,0.0"/>
+    </curve>
+  </anim>
+
+  <!--■■■■■■■■■■■■■■チェインボーナスアニメーション■■■■■■■■■■■■■■-->
+  <anim name="chain_bonus_anime_left">
+    <curve attr="pos">
+      <key time="0.0" value="-100.0,0.0,0.0"/>
+      <key time="0.15" value="0.0,0.0,0.0"/>
+      <key time="0.65" value="20.0,0.0,0.0"/>
+      <key time="0.8" value="100.0,0.0,0.0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.00"  value="255, 255, 255, 0"/>
+      <key time="0.15"  value="255, 255, 255, 255"/>
+      <key time="0.65"  value="255, 255, 255, 255"/>
+      <key time="0.80"  value="255, 255, 255, 0"/>
+    </curve>
+  </anim>
+  <anim name="chain_bonus_anime_right">
+    <curve attr="pos">
+      <key time="0.0" value="100.0,0.0,0.0"/>
+      <key time="0.15" value="0.0,0.0,0.0"/>
+      <key time="0.65" value="-20.0,0.0,0.0"/>
+      <key time="0.8" value="-100.0,0.0,0.0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.00"  value="255, 255, 255, 0"/>
+      <key time="0.15"  value="255, 255, 255, 255"/>
+      <key time="0.65"  value="255, 255, 255, 255"/>
+      <key time="0.80"  value="255, 255, 255, 0"/>
+    </curve>
+  </anim>
+
+
+  <!--■■■■■■■■■■■■■■レベルアップ■■■■■■■■■■■■■■-->
+
+  <!-- フェードイン -->
+  <anim name="anim_levelup_fade_in">
+    <curve attr="color">
+      <key time="0.00"  value="255, 255, 255, 0"/>
+      <key time="0.20"  value="255, 255, 255, 255"/>
+    </curve>
+  </anim>
+
+  <!-- スライドアップ -->
+  <anim name="anim_levelup_slide_up_to">
+    <curve attr="pos">
+      <key time="0.00"  value="0, 100,  0"/>
+      <key time="0.20"  value="0,   0,  0"/>
+    </curve>
+  </anim>
+
+  <!-- レベルアップ -->
+  <anim name="anm_level_up">
+    <curve attr="pos" interpolate="spline" >
+      <key time="0.00" value="0.0,150.0,0.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+      <key time="1.25" value="0.0,0.0,0.0"/>
+      <key time="1.75" value="0.0,-200.0,0.0"/>
+
+    </curve>
+    <curve attr="color">
+      <key time="0.00"	value="255,255,255,0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+      <key time="1.25"	value="255,255,255,255"/>
+      <key time="1.75"	value="255,255,255,0"/>
+    </curve>
+  </anim>
+
+
+  <!--■■■■■■■■■■■■■■コントラスト用の背景■■■■■■■■■■■■■■-->
+  <anim name="anm_fade_in_">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,  0"/>
+      <key time="0.20"	value="255,255,255, 120"/>
+    </curve>
+  </anim>
+
+  <!--■■■■■■■■■■■■■■チェインのアニメーション■■■■■■■■■■■■■■-->
+  <anim name="chain_fade_">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255, 0"/>
+      <key time="0.4"		value="255,255,255, 255"/>
+    </curve>
+  </anim>
+
+  <anim name="chain_add_anime">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,40, 255"/>
+      <key time="0.8"		value="255,255,40, 255"/>
+      <key time="1.0"		value="255,255,40, 0"/>
+    </curve>
+  </anim>
+
+  <anim name="chain_fade_explain">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255, 0"/>
+      <key time="0.2"		value="255,255,255, 255"/>
+    </curve>
+  </anim>
+
+  <anim name="chain_effect_anime">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255, 128"/>
+      <key time="0.2"		value="255,255,255, 180"/>
+      <key time="0.40"	value="255,255,255, 120"/>
+      <key time="0.80"	value="255,255,255, 20"/>
+      <key time="1.00"	value="255,255,255, 0"/>
+    </curve>
+    <curve attr="scale">
+      <key time="0.6" value="1,1,1"/>
+      <key time="0.8" value="1.8,0.5,1.5"/>
+    </curve>
+  </anim>
+  
+  <anim name="chain_effect_button_anime">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255, 80"/>
+      <key time="0.3"		value="255,255,255, 205"/>
+      <key time="0.6"	value="255,255,255, 80"/>
+    </curve>
+  </anim>
+
+  <!--■■■■■■■■■■■■■■レクチャー用カーソル■■■■■■■■■■■■■■-->
+
+  <anim name="lecture_cursor_anime">
+    <curve attr="pos">
+      <key time="0.00"  value="0, 0,  0"/>
+      <key time="0.50"  value="10, 10,  0"/>
+      <key time="1.00"  value="0,   0,  0"/>
+    </curve>
+  </anim>
+  <anim name="lecture_cursor_in">
+    <!--<curve attr="pos">
+      <key time="0.00"  value="-50, -50,  0"/>
+      <key time="0.30"  value="10, 10,  0"/>
+    </curve>-->
+    <curve attr="scale">
+      <key time="0.0" value="3,3,3"/>
+      <key time="0.3" value="1,1,1"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255, 0"/>
+      <key time="0.3"		value="255,255,255, 255"/>
+    </curve>
+  </anim>
+  
+  
+  
+</root>
+

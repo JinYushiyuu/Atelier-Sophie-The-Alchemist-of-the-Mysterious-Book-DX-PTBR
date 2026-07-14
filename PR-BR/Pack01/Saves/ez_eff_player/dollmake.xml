@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+<root>
+	<!-- 材料回転(開始時演出) -->
+	<grp>		
+		<eff timing="0.0" eff_no="603" pos_x=" 640.0" pos_y=" 300.0" scale_x="160" scale_y="160" scale_z="100" emit_life="0.7" r="255" g="255" b=" 255" a="255" />
+		<eff timing="0.0" eff_no="603" pos_x=" 640.0" pos_y=" 300.0" scale_x="220" scale_y="220" scale_z="220" emit_life="0.7" r="255" g="255" b=" 255" a="255" />
+		<eff timing="0.0" eff_no="603" pos_x=" 640.0" pos_y=" 300.0" scale_x="300" scale_y="300" scale_z="300" rot_x="180" emit_life="1.0" r="255" g="255" b=" 255" a="255" />
+		<eff timing="0.0" eff_no="605" pos_x=" 640.0" pos_y=" 300.0" scale_x="160" scale_y="160" scale_z="100" emit_life="0.7" r="80" g="255" b=" 255" a="150" />
+		<eff timing="0.0" eff_no="605" pos_x=" 640.0" pos_y=" 300.0" scale_x="160" scale_y="160" scale_z="100" emit_life="0.7" r="80" g="255" b=" 150" a="150" />
+		<eff timing="0.0" eff_no="605" pos_x=" 640.0" pos_y=" 300.0" scale_x="160" scale_y="160" scale_z="100" emit_life="0.7" r="255" g="150" b=" 60" a="150" />
+		<eff timing="0.0" eff_no="610" pos_x=" 640.0" pos_y=" 300.0" scale_x="160" scale_y="160" scale_z="100" emit_life="0.7" r="255" g="150" b=" 60" a="255" />
+		<eff timing="0.0" eff_no="477" pos_x=" 640.0" pos_y=" 300.0" scale_x="250" scale_y="250" scale_z="250" emit_life="0.7" r="40" g="80" b=" 180" a="255" />
+		
+		<eff timing="1.0" eff_no="612" pos_x=" 640.0" pos_y=" 300.0" scale_x="460" scale_y="460" scale_z="160" emit_life="0.4" r="128" g="128" b=" 128" a="160" />
+		<eff timing="1.2" eff_no="80" pos_x=" 640.0" pos_y=" 350.0" scale_x="260" scale_y="260" scale_z="160" emit_life="0.25" r="150" g="150" b=" 255" a="255" />
+		<eff timing="1.4" eff_no="80" pos_x=" 640.0" pos_y=" 350.0" scale_x="450" scale_y="450" scale_z="450" emit_life="0.25" r="150" g="150" b=" 255" a="255" />
+		<eff timing="1.6" eff_no="80" pos_x=" 640.0" pos_y=" 350.0" scale_x="700" scale_y="700" scale_z="700" emit_life="0.25" r="150" g="150" b=" 255" a="255" />
+		<eff timing="1.8" eff_no="80" pos_x=" 640.0" pos_y=" 350.0" scale_x="1000" scale_y="1000" scale_z="1000" emit_life="0.25" r="150" g="150" b=" 255" a="255" />
+		<eff timing="2.0" eff_no="80" pos_x=" 640.0" pos_y=" 350.0" scale_x="1500" scale_y="1500" scale_z="1500" emit_life="0.25" r="150" g="150" b=" 255" a="255" />
+		<eff timing="2.2" eff_no="80" pos_x=" 640.0" pos_y=" 350.0" scale_x="2000" scale_y="2000" scale_z="2000" emit_life="0.2" r="150" g="150" b=" 255" a="255" />
+		<eff timing="1.0" eff_no="104" pos_x=" 640.0" pos_y=" 350.0" scale_x="70" scale_y="70" scale_z="70" emit_life="0.6" r="255" g="255" b=" 255" a="255" />
+	</grp>
+	<!-- 完成時演出 -->
+	<grp>
+		<eff timing="0.4" eff_no="622" pos_x=" 640.0" pos_y=" 300.0" scale_x="500" scale_y="500" scale_z="255" emit_life="0.4" r="128" g="128" b=" 128" a="100" />
+		<eff timing="0.4" eff_no="604" pos_x=" 640.0" pos_y=" 300.0" scale_x="250" scale_y="250" scale_z="255" emit_life="0.4" r="128" g="128" b=" 128" a="100" />
+		<eff timing="0.4" eff_no="130" pos_x=" 640.0" pos_y=" 300.0" scale_x="250" scale_y="250" scale_z="100" emit_life="0.1" r="128" g="128" b=" 255" a="255" />
+		<eff timing="0.4" eff_no="121" pos_x=" 640.0" pos_y=" 300.0" scale_x="150" scale_y="150" scale_z="150" emit_life="0.1" r="128" g="128" b=" 255" a="255" />
+		<eff timing="0.4" eff_no="389" pos_x=" 640.0" pos_y=" 300.0" scale_x="250" scale_y="250" scale_z="100" emit_life="0.4" r="128" g="128" b=" 128" a="128" />
+		<eff timing="0.4" eff_no="623" pos_x=" 640.0" pos_y=" 300.0" scale_x="250" scale_y="250" scale_z="100" emit_life="0.5" r="128" g="128" b=" 128" a="70" />
+		<eff timing="0.4" eff_no="209" pos_x=" 640.0" pos_y=" 300.0" scale_x="160" scale_y="160" scale_z="160" emit_life="0.1" r="128" g="128" b=" 128" a="70" />
+		<eff timing="0.4" eff_no="673" pos_x=" 640.0" pos_y=" 300.0" scale_x="70" scale_y="70" scale_z="70" rot_z="70" emit_life="0.3" r="255" g="255" b=" 255" a="255" />
+	</grp>
+</root>

@@ -1,0 +1,432 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM01_080.ebm",
+    "nb_messages": 0x31,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Whew, I worked hard today... Huh?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x2,
+            "msg_string": "Whaaaaaaat!? That book is floating!? I-I didn't think books could do that!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x116,
+            "name_id": 0x25,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x2,
+            "msg_string": "...You just got home, and you're already so loud."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x2,
+            "msg_string": "Oh, sorry! ...Wait, what? Did the book just... Talk?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x116,
+            "name_id": 0x25,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x2,
+            "msg_string": "Yes, I talked."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x2,
+            "msg_string": "Whaaaaat!? The book...! The book is talking!?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x116,
+            "name_id": 0x25,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x2,
+            "msg_string": "Please just calm down. People are able to talk. It's not strange for a book to talk too."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x2,
+            "msg_string": "Huh? U-um, I don't think that's how it works..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Um... So you're that reference book from earlier, right? The one I wrote in."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "msg_string": "Yes. I'm Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Oh, you have a name... I'm Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "msg_string": "Sophie? I shall remember that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Um... Miss Plachta?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "Just call me Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Uh, okay. Um, Plachta... What exactly are you?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "A book."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x35,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "I can see that, but... You're a book, yet you're flying, and talking... It's really strange..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "It's true that I'm different from an ordinary book. That's because I..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "I... That's strange, I can't remember. What exactly am I?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Um, that's what I want to know..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "Wait, Plachta... Do you not have any memories?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "msg_string": "It seems so. I can remember that I'm related to alchemy, though."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "Alchemy!? Then I might be able to help! I'm actually an alchemist!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "msg_string": "Yes, I know. A novice alchemist who doesn't even know how to produce Berg Medicine."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "Uu, so you saw that... B-but, I can make it now..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "msg_string": "Even a child could make that if they studied a little bit."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x27,
+            "expr_id": 0x3,
+            "msg_id": 0x1a,
+            "msg_string": "Gah! B-but, but! Mr. Horst praised me for it, saying it was really well made!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "msg_string": "From my point of view, it didn't appear particularly excellent in any way."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "... Yeah, I'm terrible at alchemy. I make lots of mistakes, and I can't make lots of things."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "I can't help the people around town like my grandma was able to..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "...Do you wish to become better?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x1f,
+            "msg_string": "...Huh?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "I'm asking you if you wish to become better at alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Of course I do. I would, if I could..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "There is a device called the \"Cauldron of Knowledge\". It allows anyone to use the power of alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x23,
+            "msg_string": "With that, you would be able to make free use of alchemy, as you so desire."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x24,
+            "msg_string": "There's an amazing device like that!? I want it! Where can I find it!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x25,
+            "msg_string": "The \"Cauldron of Knowledge\" is... This is strange."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x26,
+            "msg_string": "...Oh no, don't tell me... Plachta, you forgot where the Cauldron is?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "...It seems so."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x28,
+            "msg_string": "Whaaaaat!? Are you serious!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x29,
+            "expr_id": 0x3,
+            "msg_id": 0x29,
+            "msg_string": "That's terrible! You got my hopes up, only to crush them!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "...I'm very sorry. But I can't remember at all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2b,
+            "msg_string": "...As compensation, I can teach you alchemy myself."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "msg_string": "I may have lost my memories, but I'm confident that my knowledge of alchemy exceeds yours."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x2d,
+            "msg_string": "Hmm, you do seem pretty smart, and you probably do know more about alchemy than me..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "If you'll teach me, I'll gladly accept..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "msg_string": "Very well. We'll be working together starting now, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Yeah! I look forward to it, Plachta!"
+        }
+    ]
+}

@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <RecipeLearnCond No="0" title="ジャンプ発想01" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_01" desc="Jump 1 Time"/>
+    <RecipeLearnCond No="1" title="ジャンプ発想02" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_02" desc="Jump 2 Times"/>
+    <RecipeLearnCond No="2" title="ジャンプ発想03" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_03" desc="Jump 3 Times"/>
+    <RecipeLearnCond No="3" title="ジャンプ発想04" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_04" desc="Jump 4 Times"/>
+    <RecipeLearnCond No="4" title="ジャンプ発想05" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_05" desc="Jump 5 Times"/>
+    <RecipeLearnCond No="5" title="ジャンプ発想06" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_06" desc="Jump 6 Times"/>
+    <RecipeLearnCond No="6" title="ジャンプ発想07" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_07" desc="Jump 7 Times"/>
+    <RecipeLearnCond No="7" title="ジャンプ発想08" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_08" desc="Jump 8 Times"/>
+    <RecipeLearnCond No="8" title="ジャンプ発想09" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_09" desc="Jump 9 Times"/>
+    <RecipeLearnCond No="9" title="ジャンプ発想10" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_10" desc="Jump 10 Times"/>
+    <RecipeLearnCond No="10" title="ジャンプ発想11" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_11" desc="Jump 11 Times"/>
+    <RecipeLearnCond No="11" title="ジャンプ発想12" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_12" desc="Jump 12 Times"/>
+    <RecipeLearnCond No="12" title="ジャンプ発想13" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_13" desc="Jump 13 Times"/>
+    <RecipeLearnCond No="13" title="ジャンプ発想14" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_14" desc="Jump 14 Times"/>
+    <RecipeLearnCond No="14" title="採取発想01" achievement="ACHIEVEMENT_MAIN_COLLECT_01" desc="Gather Plant 1 Time"/>
+    <RecipeLearnCond No="15" title="採取発想02" achievement="ACHIEVEMENT_MAIN_COLLECT_02" desc="Gather Plant 2 Times"/>
+    <RecipeLearnCond No="16" title="採取発想03" achievement="ACHIEVEMENT_MAIN_COLLECT_03" desc="Gather Plant 3 Times"/>
+    <RecipeLearnCond No="17" title="採取発想04" achievement="ACHIEVEMENT_MAIN_COLLECT_04" desc="Gather Plant 4 Times"/>
+    <RecipeLearnCond No="18" title="Gather Magic Grass" achievement="ACHIEVEMENT_MAIN_GATHER_COUNT_MAGIC_GRASS_3" desc="Gather 3 Magic Grass"/>
+    <RecipeLearnCond No="19" title="Gather Kaen Stone" achievement="ACHIEVEMENT_MAIN_GATHER_COUNT_KAREN_STONE_3" desc="Gather 3 Kaen Stone"/>
+    <RecipeLearnCond No="20" title="Gather Uni" achievement="ACHIEVEMENT_MAIN_GATHER_COUNT_UNI_3" desc="Gather 3 Uni"/>
+    <RecipeLearnCond No="21" title="Gather Kaen Stone" achievement="ACHIEVEMENT_MAIN_IDEA_FRAMME_00" desc="Gather Kaen Stone"/>
+    <RecipeLearnCond No="22" title="Synthesize Neutralizer R" achievement="ACHIEVEMENT_MAIN_IDEA_FRAMME_01" desc="Synthesize Neutralizer R"/>
+    <RecipeLearnCond No="23" title="Battle" achievement="ACHIEVEMENT_MAIN_IDEA_FRAMME_02" desc="Battle 2 Times"/>
+    <RecipeLearnCond No="24" title="Gather Ramel Wheat" achievement="ACHIEVEMENT_MAIN_IDEA_PLAIN_WAFFLE_00" desc="Gather Ramel Wheat"/>
+    <RecipeLearnCond No="25" title="Synthesize Ramel Flour" achievement="ACHIEVEMENT_MAIN_IDEA_PLAIN_WAFFLE_01" desc="Synthesize Ramel Flour"/>
+    <RecipeLearnCond No="26" title="Gather (Ingredient)" achievement="ACHIEVEMENT_MAIN_IDEA_PLAIN_WAFFLE_02" desc="Gather 2 (Ingredient)"/>
+    <RecipeLearnCond No="27" title="Gather Cobalt Grass" achievement="ACHIEVEMENT_MAIN_IDEA_ZETTEL_00" desc="Gather Cobalt Grass"/>
+    <RecipeLearnCond No="28" title="Gather Well Water" achievement="ACHIEVEMENT_MAIN_IDEA_ZETTEL_01" desc="Gather Well Water"/>
+    <RecipeLearnCond No="29" title="Synthesize Neutralizer R" achievement="ACHIEVEMENT_MAIN_IDEA_ZETTEL_02" desc="Synthesize Neutralizer R"/>
+    <RecipeLearnCond No="30" title="Gather Nitro Water" achievement="ACHIEVEMENT_MAIN_IDEA_BLAU_FRAMME_00" desc="ニトロ水を採取しよう　※α未実装"/>
+    <RecipeLearnCond No="31" title="Gather Bursting Berry" achievement="ACHIEVEMENT_MAIN_IDEA_BLAU_FRAMME_01" desc="はじけるベリーを採取しよう　※α未実装"/>
+    <RecipeLearnCond No="32" title="Slay Red Puni" achievement="ACHIEVEMENT_MAIN_IDEA_BLAU_FRAMME_02" desc="赤プニを３０体倒そう　※α未実装"/>
+    <RecipeLearnCond No="33" title="Gather Nitro Water" achievement="ACHIEVEMENT_MAIN_IDEA_FLAME_EMPEROR_POWDER_00" desc="ニトロ水を採取しよう　※α未実装"/>
+    <RecipeLearnCond No="34" title="Slay Flare Demon" achievement="ACHIEVEMENT_MAIN_IDEA_FLAME_EMPEROR_POWDER_01" desc="フレアデーモンを３０体倒そう　※α未実装"/>
+    <RecipeLearnCond No="35" title="Slay Ifritter" achievement="ACHIEVEMENT_MAIN_IDEA_FLAME_EMPEROR_POWDER_02" desc="イフリータを１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="36" title="Gather Aizen Ore" achievement="ACHIEVEMENT_MAIN_IDEA_INGOT_00" desc="アイゼン鉱を採取しよう　※α未実装"/>
+    <RecipeLearnCond No="37" title="Gather Pretty Shell" achievement="ACHIEVEMENT_MAIN_IDEA_INGOT_01" desc="きれいな貝殻を採取しよう　※α未実装"/>
+    <RecipeLearnCond No="38" title="Gather Silver Web" achievement="ACHIEVEMENT_MAIN_IDEA_INGOT_02" desc="粘銀の糸を採取しよう　※α未実装"/>
+    <RecipeLearnCond No="39" title="Gather (Liquid)" achievement="ACHIEVEMENT_MAIN_IDEA_BLUE_NEUTLIZER_00" desc="Gather 2 (Liquid)"/>
+    <RecipeLearnCond No="40" title="Gather Good Water" achievement="ACHIEVEMENT_MAIN_IDEA_BLUE_NEUTLIZER_01" desc="Gather Good Water"/>
+    <RecipeLearnCond No="41" title="Synthesize Berg Medicine" achievement="ACHIEVEMENT_MAIN_IDEA_BLUE_NEUTLIZER_02" desc="Synthesize Berg Medicine"/>
+    <RecipeLearnCond No="42" title="Gather (Liquid)" achievement="ACHIEVEMENT_MAIN_IDEA_PUNI_JELLY_00" desc="Gather 2 (Liquid)"/>
+    <RecipeLearnCond No="43" title="Gather (Ingredient)" achievement="ACHIEVEMENT_MAIN_IDEA_PUNI_JELLY_01" desc="Gather 2 (Ingredient)"/>
+    <RecipeLearnCond No="44" title="Slay Mini Slag" achievement="ACHIEVEMENT_MAIN_IDEA_PUNI_JELLY_02" desc="Defeat 2 Mini Slag"/>
+    <RecipeLearnCond No="45" title="Gather (Liquid)" achievement="ACHIEVEMENT_MAIN_IDEA_SOTEA_00" desc="Gather 2 (Liquid)"/>
+    <RecipeLearnCond No="46" title="Gather Magic Grass" achievement="ACHIEVEMENT_MAIN_IDEA_SOTEA_01" desc="Gather Magic Grass"/>
+    <RecipeLearnCond No="47" title="Synthesize (Ingredient)" achievement="ACHIEVEMENT_MAIN_IDEA_SOTEA_02" desc="Synthesize 1 (Ingredient)"/>
+    <RecipeLearnCond No="48" title="Gather Hakurei Stone" achievement="ACHIEVEMENT_MAIN_IDEA_REFERN_00" desc="Gather Hakurei Stone"/>
+    <RecipeLearnCond No="49" title="Synthesize Bomb" achievement="ACHIEVEMENT_MAIN_IDEA_REFERN_01" desc="Synthesize Bomb"/>
+    <RecipeLearnCond No="50" title="Battle" achievement="ACHIEVEMENT_MAIN_IDEA_REFERN_02" desc="Battle 2 Times"/>
+    <RecipeLearnCond No="51" title="Synthesize Puni Jelly" achievement="ACHIEVEMENT_MAIN_IDEA_REFUEL_BOTTLE_00" desc="Synthesize Puni Jelly"/>
+    <RecipeLearnCond No="52" title="Synthesize Neutralizer B" achievement="ACHIEVEMENT_MAIN_IDEA_REFUEL_BOTTLE_01" desc="Synthesize Neutralizer B"/>
+    <RecipeLearnCond No="53" title="Battle" achievement="ACHIEVEMENT_MAIN_IDEA_REFUEL_BOTTLE_02" desc="Battle 2 Times"/>
+    <RecipeLearnCond No="54" title="Gather Silver Crystal" achievement="ACHIEVEMENT_MAIN_IDEA_SNOWFLAKE_CRYSTAL_00" desc="銀霊結晶を採取しよう　※α未実装"/>
+    <RecipeLearnCond No="55" title="Gather Spirit Crystal" achievement="ACHIEVEMENT_MAIN_IDEA_SNOWFLAKE_CRYSTAL_01" desc="精霊結晶を採取しよう　※α未実装"/>
+    <RecipeLearnCond No="56" title="Gather Island Fish Fin" achievement="ACHIEVEMENT_MAIN_IDEA_SNOWFLAKE_CRYSTAL_02" desc="島魚のヒレを採取しよう　※α未実装"/>
+    <RecipeLearnCond No="57" title="Gather Seabed Soil" achievement="ACHIEVEMENT_MAIN_IDEA_PURE_WATER_00" desc="湖底の土を採取しよう"/>
+    <RecipeLearnCond No="58" title="Slay Single Horn" achievement="ACHIEVEMENT_MAIN_IDEA_PURE_WATER_01" desc="一本角を３０体倒そう　※α未実装"/>
+    <RecipeLearnCond No="59" title="Slay Star Fish" achievement="ACHIEVEMENT_MAIN_IDEA_PURE_WATER_02" desc="大星魚を１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="60" title="Gather Fairy Poison Grass" achievement="ACHIEVEMENT_ITEM_MIX_DARK_SOTEA_00" desc="妖精の毒草を採取しよう　※α未実装"/>
+    <RecipeLearnCond No="61" title="Slay Kimmoch" achievement="ACHIEVEMENT_ITEM_MIX_DARK_SOTEA_01" desc="キンモクジュを３０体倒そう　※α未実装"/>
+    <RecipeLearnCond No="62" title="Slay Deadly Spirit" achievement="ACHIEVEMENT_ITEM_MIX_DARK_SOTEA_02" desc="死告花の精を１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="63" title="Gather (Liquid)" achievement="ACHIEVEMENT_MAIN_IDEA_GREEN_NEUTLIZER_00" desc="Gather 2 (Liquid)"/>
+    <RecipeLearnCond No="64" title="Gather (Plant)" achievement="ACHIEVEMENT_MAIN_IDEA_GREEN_NEUTLIZER_01" desc="Gather 2 (Plant)"/>
+    <RecipeLearnCond No="65" title="Synthesize Simple Sweets" achievement="ACHIEVEMENT_MAIN_IDEA_GREEN_NEUTLIZER_02" desc="Synthesize Simple Sweets"/>
+    <RecipeLearnCond No="66" title="Gather (Medicine Mat)" achievement="ACHIEVEMENT_MAIN_IDEA_BAGEL_SAND_00" desc="Gather 2 (Medicine Mat)"/>
+    <RecipeLearnCond No="67" title="Gather (Plant)" achievement="ACHIEVEMENT_MAIN_IDEA_BAGEL_SAND_01" desc="Gather 2 (Plant)"/>
+    <RecipeLearnCond No="68" title="Synthesize Ramel Flour" achievement="ACHIEVEMENT_MAIN_IDEA_BAGEL_SAND_02" desc="Synthesize Ramel Flour"/>
+    <RecipeLearnCond No="69" title="Gather Raiden Ore" achievement="ACHIEVEMENT_MAIN_IDEA_DONNER_STONE_00" desc="Gather Raiden Ore"/>
+    <RecipeLearnCond No="70" title="Synthesize Ice Bomb" achievement="ACHIEVEMENT_MAIN_IDEA_DONNER_STONE_01" desc="Synthesize Ice Bomb"/>
+    <RecipeLearnCond No="71" title="Battle" achievement="ACHIEVEMENT_MAIN_IDEA_DONNER_STONE_02" desc="Battle 2 Times"/>
+    <RecipeLearnCond No="72" title="Gather Fardenlite" achievement="ACHIEVEMENT_MAIN_IDEA_BLITZRITE_00" desc="ファーライトを採取しよう　※α未実装"/>
+    <RecipeLearnCond No="73" title="Slay Archlich" achievement="ACHIEVEMENT_MAIN_IDEA_BLITZRITE_01" desc="アークリッチを３０体倒そう　※α未実装"/>
+    <RecipeLearnCond No="74" title="Slay Sorcerer Titus" achievement="ACHIEVEMENT_MAIN_IDEA_BLITZRITE_02" desc="魔術師タイタスを１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="75" title="Gather Dunkelheit" achievement="ACHIEVEMENT_MAIN_IDEA_BREEZE_AROMA_00" desc="ドンケルハイトを採取しよう　※α未実装"/>
+    <RecipeLearnCond No="76" title="Slay Wind Elemental" achievement="ACHIEVEMENT_MAIN_IDEA_BREEZE_AROMA_01" desc="風のエレメンタルを３０体倒そう　※α未実装"/>
+    <RecipeLearnCond No="77" title="Slay Light Elemental" achievement="ACHIEVEMENT_MAIN_IDEA_BREEZE_AROMA_02" desc="光のエレメンタルを１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="78" title="Gather Altare" achievement="ACHIEVEMENT_MAIN_IDEA_NATURAL_YEAST_00" desc="アルタルを採取しよう　※α未実装"/>
+    <RecipeLearnCond No="79" title="Slay Gustaf" achievement="ACHIEVEMENT_MAIN_IDEA_NATURAL_YEAST_01" desc="グスタフを３０体倒そう　※α未実装"/>
+    <RecipeLearnCond No="80" title="Slay Rok" achievement="ACHIEVEMENT_MAIN_IDEA_NATURAL_YEAST_02" desc="ロックを１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="81" title="Gather Uni" achievement="ACHIEVEMENT_MAIN_IDEA_APCALL_00" desc="Gather Uni"/>
+    <RecipeLearnCond No="82" title="Gather Soil Potato" achievement="ACHIEVEMENT_MAIN_IDEA_APCALL_01" desc="Gather Soil Potato"/>
+    <RecipeLearnCond No="83" title="Synthesize Simple Sweets" achievement="ACHIEVEMENT_MAIN_IDEA_APCALL_02" desc="Synthesize Simple Sweets"/>
+    <RecipeLearnCond No="84" title="Gather Beehive" achievement="ACHIEVEMENT_MAIN_IDEA_HONEY_00" desc="Gather Beehive"/>
+    <RecipeLearnCond No="85" title="Synthesize Plain Waffle" achievement="ACHIEVEMENT_MAIN_IDEA_HONEY_01" desc="Synthesize Plain Waffle"/>
+    <RecipeLearnCond No="86" title="Synthesize Bagel Sandwich" achievement="ACHIEVEMENT_MAIN_IDEA_HONEY_02" desc="Synthesize Bagel Sandwich"/>
+    <RecipeLearnCond No="87" title="Gather (Clay)" achievement="ACHIEVEMENT_MAIN_IDEA_YELLOW_NEUTLIZER_00" desc="Gather (Clay)"/>
+    <RecipeLearnCond No="88" title="Gather Raiden Stone" achievement="ACHIEVEMENT_MAIN_IDEA_YELLOW_NEUTLIZER_01" desc="Gather Raiden Stone"/>
+    <RecipeLearnCond No="89" title="Synthesize (Neutralizer)" achievement="ACHIEVEMENT_MAIN_IDEA_YELLOW_NEUTLIZER_02" desc="Synthesize 2 (Neutralizer)"/>
+    <RecipeLearnCond No="90" title="Gather Red Uni" achievement="ACHIEVEMENT_MAIN_IDEA_UNI_BAG_00" desc="赤うにを採取しよう　※α未実装"/>
+    <RecipeLearnCond No="91" title="Slay Red Puni" achievement="ACHIEVEMENT_MAIN_IDEA_UNI_BAG_01" desc="赤プニを３０体倒そう　※α未実装"/>
+    <RecipeLearnCond No="92" title="Slay Flare Demon" achievement="ACHIEVEMENT_MAIN_IDEA_UNI_BAG_02" desc="フレアデーモンを１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="93" title="Gather Zafloa Oil" achievement="ACHIEVEMENT_MAIN_IDEA_REFRESH_OIL_00" desc="ザフロア油を採取しよう　※α未実装"/>
+    <RecipeLearnCond No="94" title="Slay Gold Puni" achievement="ACHIEVEMENT_MAIN_IDEA_REFRESH_OIL_01" desc="金プニを３０体倒そう　※α未実装"/>
+    <RecipeLearnCond No="95" title="Slay Black Puni" achievement="ACHIEVEMENT_MAIN_IDEA_REFRESH_OIL_02" desc="黒プニを１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="96" title="Gather Red Uni" achievement="ACHIEVEMENT_MAIN_IDEA_CRAFT_00" desc="赤うにを採取しよう　※α未実装"/>
+    <RecipeLearnCond No="97" title="Slay Twin Header" achievement="ACHIEVEMENT_MAIN_IDEA_CRAFT_01" desc="ツインヘッダーを３０体倒そう　※α未実装"/>
+    <RecipeLearnCond No="98" title="Slay Silent Beast" achievement="ACHIEVEMENT_MAIN_IDEA_CRAFT_02" desc="沈黙の魔獣を１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="99" title="Gather" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMY_CLAY_00" desc="Gather 5 Times"/>
+    <RecipeLearnCond No="100" title="Synthesize" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMY_CLAY_01" desc="Synthesize 5 Times"/>
+    <RecipeLearnCond No="101" title="Battle" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMY_CLAY_02" desc="Battle 5 Times"/>
+    <RecipeLearnCond No="102" title="Gather Rainbow Crystal" achievement="ACHIEVEMENT_MAIN_IDEA_BEGINNERS_ALCHEMY_KETTLE_00" desc="Gather Rainbow Crystal"/>
+    <RecipeLearnCond No="103" title="Synthesize" achievement="ACHIEVEMENT_MAIN_IDEA_BEGINNERS_ALCHEMY_KETTLE_01" desc="Synthesize 10 Times"/>
+    <RecipeLearnCond No="104" title="Slay Dragonaire" achievement="ACHIEVEMENT_MAIN_IDEA_BEGINNERS_ALCHEMY_KETTLE_02" desc="Defeat Dragonaire"/>
+    <RecipeLearnCond No="105" title="Gather Holy Water" achievement="ACHIEVEMENT_MAIN_IDEA_ANGEL_WHISPER_00" desc="聖水を購入しよう　※α未実装"/>
+    <RecipeLearnCond No="106" title="Gather Pendeloch" achievement="ACHIEVEMENT_MAIN_IDEA_ANGEL_WHISPER_01" desc="ペンデロークを採取しよう　※α未実装"/>
+    <RecipeLearnCond No="107" title="Slay Unliving King" achievement="ACHIEVEMENT_MAIN_IDEA_ANGEL_WHISPER_02" desc="ノーライフキングを１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="108" title="Gather Pendeloch" achievement="ACHIEVEMENT_MAIN_IDEA_AUS_JEM_00" desc="ペンデロークを採取しよう　※α未実装"/>
+    <RecipeLearnCond No="109" title="Gather Pelem Shell" achievement="ACHIEVEMENT_MAIN_IDEA_AUS_JEM_01" desc="ペルレムシェルを採取しよう　※α未実装"/>
+    <RecipeLearnCond No="110" title="Slay Dark Maiden" achievement="ACHIEVEMENT_MAIN_IDEA_AUS_JEM_02" desc="漆黒の乙女を１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="111" title="Gather" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMYST_KETTLE_00" desc="Gather 2000 Times"/>
+    <RecipeLearnCond No="112" title="Synthesize" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMYST_KETTLE_01" desc="Synthesize 1000 Times"/>
+    <RecipeLearnCond No="113" title="Battle" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMYST_KETTLE_02" desc="Battle 1500 Times"/>
+    <RecipeLearnCond No="114" title="ダミー" achievement="ACHIEVEMENT_MAIN_IDEA_DUMMY" desc="ダミー"/>
+    <RecipeLearnCond No="115" title="Idea from Event&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_00_00" desc="Memo:&lt;CR&gt;Read &lt;CLGR&gt;Book&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="116" title="None&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_00_01"/>
+    <RecipeLearnCond No="117" title="None&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_00_02"/>
+    <RecipeLearnCond No="118" title="Gather: Well Water&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_06_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Well Water&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="119" title="None" achievement="ACHIEVEMENT_BLUE_06_01"/>
+    <RecipeLearnCond No="120" title="None" achievement="ACHIEVEMENT_BLUE_06_02"/>
+    <RecipeLearnCond No="121" title="Obtain: Uni&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_00_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Uni&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="122" title="None&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_00_01"/>
+    <RecipeLearnCond No="123" title="None&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_00_02"/>
+    <RecipeLearnCond No="124" title="Buy: Ramel Wheat&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_00_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Ramel Wheat&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="125" title="None" achievement="ACHIEVEMENT_GREEN_00_01"/>
+    <RecipeLearnCond No="126" title="None" achievement="ACHIEVEMENT_GREEN_00_02"/>
+    <RecipeLearnCond No="127" title="Battle and Requests" achievement="ACHIEVEMENT_RED_03_00" desc="&lt;CLGR&gt;Plachta's Memory Fragment&lt;CLNR&gt;&lt;CR&gt;Collect memory clues!"/>
+    <RecipeLearnCond No="128" title="Battle: 25 Enemies&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_00" desc="Memory Clue:&lt;CR&gt;Memory from &lt;CLGR&gt;Slaying Monsters&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="129" title="Request: 7 Times&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_01" desc="Memory Clue: Big Effect&lt;CR&gt;Memory from &lt;CLGR&gt;Completing Requests&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="130" title="Investigate Merbert Farm" achievement="ACHIEVEMENT_RED_09_00" desc="Memo: Merbert Farm&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Wheat Field&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="131" title="None" achievement="ACHIEVEMENT_RED_09_01"/>
+    <RecipeLearnCond No="132" title="None" achievement="ACHIEVEMENT_RED_09_02"/>
+    <RecipeLearnCond No="133" title="Obtain: Red Uni&lt;CR&gt;" achievement="ACHIEVEMENT_RED_00_00" desc="Memo: Area with Uni (Night)&lt;CR&gt;Idea from &lt;CLGR&gt;Red Uni&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="134" title="None" achievement="ACHIEVEMENT_RED_00_01"/>
+    <RecipeLearnCond No="135" title="None" achievement="ACHIEVEMENT_RED_00_02"/>
+    <RecipeLearnCond No="136" title="Book Store&lt;CR&gt;" achievement="ACHIEVEMENT_RED_02_00" desc="Memo: Book Store&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Bookshelf&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="137" title="None" achievement="ACHIEVEMENT_RED_02_01"/>
+    <RecipeLearnCond No="138" title="None" achievement="ACHIEVEMENT_RED_02_02"/>
+    <RecipeLearnCond No="139" title="Slay and Requests&lt;CR&gt;" achievement="ACHIEVEMENT_RED_06_00" desc="&lt;CLGR&gt;Plachta's Memory Fragment&lt;CLNR&gt;&lt;CR&gt;Collect memory clues!"/>
+    <RecipeLearnCond No="140" title="Slay: Chimera Beast&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_02" desc="Memory Clue: &lt;CLGR&gt;Big Effect&lt;CLNR&gt;&lt;CR&gt;Memory from &lt;CLGR&gt;Farm Monster (Night)&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="141" title="Request: 12 Times&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_03" desc="Memory Clue:&lt;CR&gt;Memory from &lt;CLGR&gt;Completing Requests&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="142" title="Whimsy Strawberry Gathering Info" achievement="ACHIEVEMENT_YELLOW_06_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Whimsy Strawberry&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="143" title="None" achievement="ACHIEVEMENT_YELLOW_06_01"/>
+    <RecipeLearnCond No="144" title="None" achievement="ACHIEVEMENT_YELLOW_06_02"/>
+    <RecipeLearnCond No="145" title="Obtain: Beehive&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_07_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Beehive&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="146" title="None" achievement="ACHIEVEMENT_YELLOW_07_01"/>
+    <RecipeLearnCond No="147" title="None" achievement="ACHIEVEMENT_YELLOW_07_02"/>
+    <RecipeLearnCond No="148" title="Investigate Plaza" achievement="ACHIEVEMENT_BLUE_03_00" desc="Memo: Plaza&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Fountain&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="149" title="None" achievement="ACHIEVEMENT_BLUE_03_01"/>
+    <RecipeLearnCond No="150" title="None" achievement="ACHIEVEMENT_BLUE_03_02"/>
+    <RecipeLearnCond No="151" title="Obtain: Animal Fur&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_09_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Animal Fur&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="152" title="None" achievement="ACHIEVEMENT_YELLOW_09_01"/>
+    <RecipeLearnCond No="153" title="None" achievement="ACHIEVEMENT_YELLOW_09_02"/>
+    <RecipeLearnCond No="154" title="Synthesis: Simple Sweets (Salty)&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_01_00" desc="Memo: Effect &lt;CLGR&gt;Salty&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Simple Sweets&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="155" title="None" achievement="ACHIEVEMENT_GREEN_01_01"/>
+    <RecipeLearnCond No="156" title="None" achievement="ACHIEVEMENT_GREEN_01_02"/>
+    <RecipeLearnCond No="157" title="Obtain: Silver Web&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_05_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Silver Web&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="158" title="None" achievement="ACHIEVEMENT_YELLOW_05_01"/>
+    <RecipeLearnCond No="159" title="None" achievement="ACHIEVEMENT_YELLOW_05_02"/>
+    <RecipeLearnCond No="160" title="Synthesis and Obtain (Water)&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_10_00" desc="&lt;CLGR&gt;Plachta's Memory Fragment&lt;CLNR&gt;&lt;CR&gt;Collect memory clues!"/>
+    <RecipeLearnCond No="161" title="Synthesis: 20 Times&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_04" desc="Memory Clue:&lt;CR&gt;Memory from &lt;CLGR&gt;Performing Synthesis&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="162" title="Obtain: (Water) x50&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_05" desc="Memory Clue:&lt;CR&gt;Memory from &lt;CLGR&gt;Obtaining (Water)&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="163" title="Synthesis: Ramel Flour&lt;CR&gt;" achievement="ACHIEVEMENT_RED_10_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Ramel Flour&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="164" title="None" achievement="ACHIEVEMENT_RED_10_01"/>
+    <RecipeLearnCond No="165" title="None" achievement="ACHIEVEMENT_RED_10_02"/>
+    <RecipeLearnCond No="166" title="Obtain: Raiden Ore&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_06_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Raiden Ore&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="167" title="None" achievement="ACHIEVEMENT_GREEN_06_01"/>
+    <RecipeLearnCond No="168" title="None" achievement="ACHIEVEMENT_GREEN_06_02"/>
+    <RecipeLearnCond No="169" title="Battle: Win in a Pinch&lt;CR&gt;" achievement="ACHIEVEMENT_RED_13_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Close Battle&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="170" title="None" achievement="ACHIEVEMENT_RED_13_01"/>
+    <RecipeLearnCond No="171" title="None" achievement="ACHIEVEMENT_RED_13_02"/>
+    <RecipeLearnCond No="172" title="Slay: Kaiser Pigeon&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_13_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Kaiser Pigeon&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="173" title="None" achievement="ACHIEVEMENT_BLUE_13_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="174" title="None" achievement="ACHIEVEMENT_BLUE_13_02"/>
+    <RecipeLearnCond No="175" title="Obtain: Pious Talisman&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_01_00" desc="Memo: Church&lt;CR&gt;Idea from &lt;CLGR&gt;Pious Talisman&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="176" title="None" achievement="ACHIEVEMENT_YELLOW_01_01"/>
+    <RecipeLearnCond No="177" title="None" achievement="ACHIEVEMENT_YELLOW_01_02"/>
+    <RecipeLearnCond No="178" title="Obtain from Event" achievement="ACHIEVEMENT_WHITE_00_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="179" title="None" achievement="ACHIEVEMENT_WHITE_00_01"/>
+    <RecipeLearnCond No="180" title="None" achievement="ACHIEVEMENT_WHITE_00_02"/>
+    <RecipeLearnCond No="181" title="Obtain Info on (Thread)" achievement="ACHIEVEMENT_YELLOW_13_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="182" title="Adventure Experience Info" achievement="ACHIEVEMENT_YELLOW_13_01"/>
+    <RecipeLearnCond No="183" title="None" achievement="ACHIEVEMENT_YELLOW_13_02"/>
+    <RecipeLearnCond No="184" title="Obtain: Kifa&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_09_00" desc="Memo: Gathering of Beasts&lt;CR&gt;Idea from &lt;CLGR&gt;Kifa&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="185" title="None" achievement="ACHIEVEMENT_GREEN_09_01"/>
+    <RecipeLearnCond No="186" title="None" achievement="ACHIEVEMENT_GREEN_09_02"/>
+    <RecipeLearnCond No="187" title="Slay and Requests" achievement="ACHIEVEMENT_GREEN_02_00" desc="&lt;CLGR&gt;Plachta's Memory Fragment&lt;CLNR&gt;&lt;CR&gt;Collect memory clues!"/>
+    <RecipeLearnCond No="188" title="Buy: 8000 Cole&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_06" desc="Memory Clue: &lt;CLGR&gt;Big Effect&lt;CLNR&gt;&lt;CR&gt;Memory from &lt;CLGR&gt;Monster from Memories&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="189" title="Request: 25 Times&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_07" desc="Memo: Prospector's Strand&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Silent Beast&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="190" title="None" achievement="ACHIEVEMENT_RED_26_00" desc="????"/>
+    <RecipeLearnCond No="191" title="None" achievement="ACHIEVEMENT_RED_26_01" desc="????"/>
+    <RecipeLearnCond No="192" title="None" achievement="ACHIEVEMENT_RED_26_02" desc="????"/>
+    <RecipeLearnCond No="193" title="None" achievement="ACHIEVEMENT_RED_27_00" desc="????"/>
+    <RecipeLearnCond No="194" title="None" achievement="ACHIEVEMENT_RED_27_01" desc="????"/>
+    <RecipeLearnCond No="195" title="None" achievement="ACHIEVEMENT_RED_27_02" desc="????"/>
+    <RecipeLearnCond No="196" title="None" achievement="ACHIEVEMENT_RED_28_00" desc="????"/>
+    <RecipeLearnCond No="197" title="None" achievement="ACHIEVEMENT_RED_28_01" desc="????"/>
+    <RecipeLearnCond No="198" title="None" achievement="ACHIEVEMENT_RED_28_02" desc="????"/>
+    <RecipeLearnCond No="199" title="None" achievement="ACHIEVEMENT_RED_29_00" desc="????"/>
+    <RecipeLearnCond No="200" title="None" achievement="ACHIEVEMENT_RED_29_01" desc="????"/>
+    <RecipeLearnCond No="201" title="None" achievement="ACHIEVEMENT_RED_29_02" desc="????"/>
+    <RecipeLearnCond No="202" title="None" achievement="ACHIEVEMENT_RED_30_00" desc="????"/>
+    <RecipeLearnCond No="203" title="None" achievement="ACHIEVEMENT_RED_30_01" desc="????"/>
+    <RecipeLearnCond No="204" title="None" achievement="ACHIEVEMENT_RED_30_02" desc="????"/>
+    <RecipeLearnCond No="205" title="Buy: 300 Cole&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_03_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;300 Cole in Purchases&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="206" title="Sell: 300 Cole&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_03_01" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;300 Cole in Sales&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="207" title="None" achievement="ACHIEVEMENT_GREEN_03_02"/>
+    <RecipeLearnCond No="208" title="Battle Defeat Info" achievement="ACHIEVEMENT_RED_16_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Unfortunate Encounter&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="209" title="None" achievement="ACHIEVEMENT_RED_16_01"/>
+    <RecipeLearnCond No="210" title="None" achievement="ACHIEVEMENT_RED_16_02"/>
+    <RecipeLearnCond No="211" title="Investigate: Forgotten Nursery&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_01_00" desc="Memo: Forgotten Nursery&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Pond&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="212" title="None" achievement="ACHIEVEMENT_BLUE_01_01"/>
+    <RecipeLearnCond No="213" title="None" achievement="ACHIEVEMENT_BLUE_01_02"/>
+    <RecipeLearnCond No="214" title="Synthesis: Honey (Kirchen Bell Special)&lt;CR&gt;" achievement="ACHIEVEMENT_RED_12_00" desc="Memo: Trait &lt;CLGR&gt;Kirchen Bell Special&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Honey&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="215" title="None" achievement="ACHIEVEMENT_RED_12_01"/>
+    <RecipeLearnCond No="216" title="None" achievement="ACHIEVEMENT_RED_12_02"/>
+    <RecipeLearnCond No="217" title="Learn Upon Obtaining" achievement="ACHIEVEMENT_WHITE_06_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Obtaining Practice Cauldron&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="218" title="None" achievement="ACHIEVEMENT_WHITE_06_01"/>
+    <RecipeLearnCond No="219" title="None" achievement="ACHIEVEMENT_WHITE_06_02"/>
+    <RecipeLearnCond No="220" title="Synthesis: Uni Bag (Explodes)&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_02_00" desc="Memo: Effect &lt;CLGR&gt;Explodes&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Uni Bag&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="221" title="None" achievement="ACHIEVEMENT_YELLOW_02_01"/>
+    <RecipeLearnCond No="222" title="None" achievement="ACHIEVEMENT_YELLOW_02_02"/>
+    <RecipeLearnCond No="223" title="Skill: Brave Heart&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_17_00" desc="Memo: Ally Skill&lt;CR&gt;Idea from &lt;CLGR&gt;Certain Support Skill&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="224" title="Skill: Light Edge&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_17_01" desc="Memo: Ally Skill&lt;CR&gt;Idea from &lt;CLGR&gt;Certain Attack Skill&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="225" title="None" achievement="ACHIEVEMENT_WHITE_17_02"/>
+    <RecipeLearnCond No="226" title="To Next Memory..." achievement="ACHIEVEMENT_RED_07_00" desc="&lt;CLGR&gt;Plachta's Memory Fragment&lt;CLNR&gt;&lt;CR&gt;Collect memory clues!"/>
+    <RecipeLearnCond No="227" title="Synthesis: 30 Times" achievement="ACHIEVEMENT_WHITE_YOBI_08" desc="Memory Clue:&lt;CR&gt;Memory from &lt;CLGR&gt;Performing Synthesis&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="228" title="Use: 15 Times" achievement="ACHIEVEMENT_WHITE_YOBI_09" desc="Memory Clue: &lt;CLGR&gt;Big Effect&lt;CLNR&gt;&lt;CR&gt;Memory from &lt;CLGR&gt;Using Items&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="229" title="Slay: Green Puni&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_04_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Green Puni&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="230" title="Slay: Red Puni&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_04_01" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Red Puni&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="231" title="Slay: Black Puni&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_04_02" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Black Puni&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="232" title="Synthesis: Cloth (Carries Heat)&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_10_00" desc="Memo: Trait &lt;CLGR&gt;Carries Heat&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Cloth&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="233" title="None" achievement="ACHIEVEMENT_YELLOW_10_01"/>
+    <RecipeLearnCond No="234" title="None" achievement="ACHIEVEMENT_YELLOW_10_02"/>
+    <RecipeLearnCond No="235" title="Event: &lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_14_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="236" title="None" achievement="ACHIEVEMENT_BLUE_14_01"/>
+    <RecipeLearnCond No="237" title="None" achievement="ACHIEVEMENT_BLUE_14_02"/>
+    <RecipeLearnCond No="238" title="Synthesis: Berg Medicine (Size +)&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_15_00" desc="Memo: Trait &lt;CLGR&gt;Size +&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Berg Medicine&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="239" title="None" achievement="ACHIEVEMENT_GREEN_15_01"/>
+    <RecipeLearnCond No="240" title="None" achievement="ACHIEVEMENT_GREEN_15_02"/>
+    <RecipeLearnCond No="241" title="Exploration: Total&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_03_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Actions During Exploration&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="242" title="Exploration: Jump&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_03_01"/>
+    <RecipeLearnCond No="243" title="Exploration: Swing&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_03_02"/>
+    <RecipeLearnCond No="244" title="Learn Upon Obtaining" achievement="ACHIEVEMENT_WHITE_08_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Obtaining Expert Cauldron&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="245" title="None" achievement="ACHIEVEMENT_WHITE_08_01"/>
+    <RecipeLearnCond No="246" title="None" achievement="ACHIEVEMENT_WHITE_08_02"/>
+    <RecipeLearnCond No="247" title="Gather: 10 Times&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_25_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Gathering&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="248" title="None" achievement="ACHIEVEMENT_YELLOW_25_01"/>
+    <RecipeLearnCond No="249" title="None" achievement="ACHIEVEMENT_YELLOW_25_02"/>
+    <RecipeLearnCond No="250" title="To Next Memory..." achievement="ACHIEVEMENT_RED_08_00" desc="&lt;CLGR&gt;Plachta's Memory Fragment&lt;CLNR&gt;&lt;CR&gt;Collect memory clues!"/>
+    <RecipeLearnCond No="251" title="Slay: 60 Enemies" achievement="ACHIEVEMENT_WHITE_YOBI_10" desc="Memory Clue:&lt;CR&gt;Memory from &lt;CLGR&gt;Slaying Monsters&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="252" title="Weapon Crafting: 5 Times" achievement="ACHIEVEMENT_WHITE_YOBI_11" desc="Memory Clue: &lt;CLGR&gt;Big Effect&lt;CLNR&gt;&lt;CR&gt;Memory from &lt;CLGR&gt;Crafting Weapons&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="253" title="Enemy Drop: Chest&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_18_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Chests Dropped by Monsters&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="254" title="None" achievement="ACHIEVEMENT_YELLOW_18_01"/>
+    <RecipeLearnCond No="255" title="None" achievement="ACHIEVEMENT_YELLOW_18_02"/>
+    <RecipeLearnCond No="256" title="Skill: Puni Breath" achievement="ACHIEVEMENT_BLUE_18_00" desc="Memo: Monster Skill&lt;CR&gt;Idea from &lt;CLGR&gt;Puni Breath&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="257" title="None" achievement="ACHIEVEMENT_BLUE_18_01"/>
+    <RecipeLearnCond No="258" title="None" achievement="ACHIEVEMENT_BLUE_18_02"/>
+    <RecipeLearnCond No="259" title="Slay: Saber Claw&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_05_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Saber Claw&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="260" title="None" achievement="ACHIEVEMENT_GREEN_05_01"/>
+    <RecipeLearnCond No="261" title="None" achievement="ACHIEVEMENT_GREEN_05_02"/>
+    <RecipeLearnCond No="262" title="Obtain from Event" achievement="ACHIEVEMENT_WHITE_04_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="263" title="None" achievement="ACHIEVEMENT_WHITE_04_01"/>
+    <RecipeLearnCond No="264" title="None" achievement="ACHIEVEMENT_WHITE_04_02"/>
+    <RecipeLearnCond No="265" title="Obtain: Event" achievement="ACHIEVEMENT_YELLOW_15_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="266" title="None" achievement="ACHIEVEMENT_YELLOW_15_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="267" title="None" achievement="ACHIEVEMENT_YELLOW_15_02"/>
+    <RecipeLearnCond No="268" title="Obtain: Good Water&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_23_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Good Water&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="269" title="None" achievement="ACHIEVEMENT_GREEN_23_01"/>
+    <RecipeLearnCond No="270" title="None" achievement="ACHIEVEMENT_GREEN_23_02"/>
+    <RecipeLearnCond No="271" title="Ancient Kitchen" achievement="ACHIEVEMENT_YELLOW_04_00" desc="Memo: Forgotten Nursery&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Ancient Kitchen&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="272" title="None" achievement="ACHIEVEMENT_YELLOW_04_01"/>
+    <RecipeLearnCond No="273" title="None" achievement="ACHIEVEMENT_YELLOW_04_02"/>
+    <RecipeLearnCond No="274" title="NPC Chat" achievement="ACHIEVEMENT_YELLOW_14_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Talking to a Fortuneteller&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="275" title="None" achievement="ACHIEVEMENT_YELLOW_14_01"/>
+    <RecipeLearnCond No="276" title="None" achievement="ACHIEVEMENT_YELLOW_14_02"/>
+    <RecipeLearnCond No="277" title="Synthesis: Spruce (Flickering Light)" achievement="ACHIEVEMENT_YELLOW_21_00" desc="Memo: Trait &lt;CLGR&gt;Flickering Light&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Spruce&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="278" title="None" achievement="ACHIEVEMENT_YELLOW_21_01"/>
+    <RecipeLearnCond No="279" title="None" achievement="ACHIEVEMENT_YELLOW_21_02"/>
+    <RecipeLearnCond No="280" title="To Next Memory..." achievement="ACHIEVEMENT_WHITE_20_00" desc="&lt;CLGR&gt;Plachta's Memory Fragment&lt;CLNR&gt;&lt;CR&gt;Collect memory clues!"/>
+    <RecipeLearnCond No="281" title="Slay: Deadly Spirit" achievement="ACHIEVEMENT_WHITE_YOBI_12" desc="Memory Clue: Memory from becoming &lt;CLGR&gt;Friendly with Artisans&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="282" title="Synthesis: (Paper) x25" achievement="ACHIEVEMENT_WHITE_YOBI_13" desc="Memo: &lt;CLGR&gt;Visit Frequently&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="283" title="Learn from Event" achievement="ACHIEVEMENT_WHITE_09_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="284" title="None" achievement="ACHIEVEMENT_WHITE_09_01"/>
+    <RecipeLearnCond No="285" title="None" achievement="ACHIEVEMENT_WHITE_09_02"/>
+    <RecipeLearnCond No="286" title="Learn from Event" achievement="ACHIEVEMENT_WHITE_16_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="287" title="None" achievement="ACHIEVEMENT_WHITE_16_01"/>
+    <RecipeLearnCond No="288" title="None" achievement="ACHIEVEMENT_WHITE_16_02"/>
+    <RecipeLearnCond No="289" title="None" achievement="ACHIEVEMENT_BLUE_21_00"/>
+    <RecipeLearnCond No="290" title="None" achievement="ACHIEVEMENT_BLUE_21_01"/>
+    <RecipeLearnCond No="291" title="None" achievement="ACHIEVEMENT_BLUE_21_02"/>
+    <RecipeLearnCond No="292" title="" achievement="ACHIEVEMENT_BLUE_22_00" desc="Memo: &lt;CR&gt;Acquire &lt;CLGR&gt;Teacher's Cauldron&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="293" title="None" achievement="ACHIEVEMENT_BLUE_22_01" desc="????"/>
+    <RecipeLearnCond No="294" title="None" achievement="ACHIEVEMENT_BLUE_22_02" desc="????"/>
+    <RecipeLearnCond No="295" title="" achievement="ACHIEVEMENT_BLUE_23_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="296" title="None" achievement="ACHIEVEMENT_BLUE_23_01" desc="????"/>
+    <RecipeLearnCond No="297" title="None" achievement="ACHIEVEMENT_BLUE_23_02" desc="????"/>
+    <RecipeLearnCond No="298" title="None" achievement="ACHIEVEMENT_BLUE_24_00" desc="????"/>
+    <RecipeLearnCond No="299" title="None" achievement="ACHIEVEMENT_BLUE_24_01" desc="????"/>
+    <RecipeLearnCond No="300" title="None" achievement="ACHIEVEMENT_BLUE_24_02" desc="????"/>
+    <RecipeLearnCond No="301" title="None" achievement="ACHIEVEMENT_BLUE_25_00" desc="????"/>
+    <RecipeLearnCond No="302" title="None" achievement="ACHIEVEMENT_BLUE_25_01" desc="????"/>
+    <RecipeLearnCond No="303" title="None" achievement="ACHIEVEMENT_BLUE_25_02" desc="????"/>
+    <RecipeLearnCond No="304" title="None" achievement="ACHIEVEMENT_BLUE_26_00" desc="????"/>
+    <RecipeLearnCond No="305" title="None" achievement="ACHIEVEMENT_BLUE_26_01" desc="????"/>
+    <RecipeLearnCond No="306" title="None" achievement="ACHIEVEMENT_BLUE_26_02" desc="????"/>
+    <RecipeLearnCond No="307" title="None" achievement="ACHIEVEMENT_BLUE_27_00" desc="????"/>
+    <RecipeLearnCond No="308" title="None" achievement="ACHIEVEMENT_BLUE_27_01" desc="????"/>
+    <RecipeLearnCond No="309" title="None" achievement="ACHIEVEMENT_BLUE_27_02" desc="????"/>
+    <RecipeLearnCond No="310" title="None" achievement="ACHIEVEMENT_BLUE_28_00" desc="????"/>
+    <RecipeLearnCond No="311" title="None" achievement="ACHIEVEMENT_BLUE_28_01" desc="????"/>
+    <RecipeLearnCond No="312" title="None" achievement="ACHIEVEMENT_BLUE_28_02" desc="????"/>
+    <RecipeLearnCond No="313" title="None" achievement="ACHIEVEMENT_BLUE_29_00" desc="????"/>
+    <RecipeLearnCond No="314" title="None" achievement="ACHIEVEMENT_BLUE_29_01" desc="????"/>
+    <RecipeLearnCond No="315" title="None" achievement="ACHIEVEMENT_BLUE_29_02" desc="????"/>
+    <RecipeLearnCond No="316" title="None" achievement="ACHIEVEMENT_BLUE_30_00" desc="????"/>
+    <RecipeLearnCond No="317" title="None" achievement="ACHIEVEMENT_BLUE_30_01" desc="????"/>
+    <RecipeLearnCond No="318" title="None" achievement="ACHIEVEMENT_BLUE_30_02" desc="????"/>
+    <RecipeLearnCond No="319" title="Obtain: Kirchen Milk (Buy from NPC)" achievement="ACHIEVEMENT_BLUE_07_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Kirchen Milk&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="320" title="None" achievement="ACHIEVEMENT_BLUE_07_01"/>
+    <RecipeLearnCond No="321" title="None" achievement="ACHIEVEMENT_BLUE_07_02"/>
+    <RecipeLearnCond No="322" title="Synthesis: Anything&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_01_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Synthesis&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="323" title="Level: Synthesis&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_01_01" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Alchemy Lv&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="324" title="None" achievement="ACHIEVEMENT_WHITE_01_02"/>
+    <RecipeLearnCond No="325" title="Synthesis: Alchemy Drops (Removes Ailment)" achievement="ACHIEVEMENT_BLUE_02_00" desc="Memo: Effect &lt;CLGR&gt;Super Sweet&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Alchemy Drops&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="326" title="None" achievement="ACHIEVEMENT_BLUE_02_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="327" title="None" achievement="ACHIEVEMENT_BLUE_02_02"/>
+    <RecipeLearnCond No="328" title="Exploration: Travel the Land&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_17_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Exploring Various Areas&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="329" title="None" achievement="ACHIEVEMENT_GREEN_17_01"/>
+    <RecipeLearnCond No="330" title="None" achievement="ACHIEVEMENT_GREEN_17_02"/>
+    <RecipeLearnCond No="331" title="Obtain: Luminous Water&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_05_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Luminous Water&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="332" title="None" achievement="ACHIEVEMENT_BLUE_05_01"/>
+    <RecipeLearnCond No="333" title="None" achievement="ACHIEVEMENT_BLUE_05_02"/>
+    <RecipeLearnCond No="334" title="Synthesis: (Accessory)&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_16_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Synthesizing (Accessory)&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="335" title="None" achievement="ACHIEVEMENT_BLUE_16_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="336" title="None" achievement="ACHIEVEMENT_BLUE_16_02"/>
+    <RecipeLearnCond No="337" title="Investigate Blacksmith" achievement="ACHIEVEMENT_GREEN_04_00" desc="Memo: Blacksmith&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Furnace&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="338" title="None" achievement="ACHIEVEMENT_GREEN_04_01"/>
+    <RecipeLearnCond No="339" title="None" achievement="ACHIEVEMENT_GREEN_04_02"/>
+    <RecipeLearnCond No="340" title="Synthesis: Gold Thread (Purifying Water)&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_11_00" desc="Memo: Trait &lt;CLGR&gt;Purifying Water&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Gold Thread&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="341" title="None" achievement="ACHIEVEMENT_YELLOW_11_01"/>
+    <RecipeLearnCond No="342" title="None" achievement="ACHIEVEMENT_YELLOW_11_02"/>
+    <RecipeLearnCond No="343" title="Synthesis: Bomb (Blue Flame)&lt;CR&gt;" achievement="ACHIEVEMENT_RED_04_00" desc="Memo: Effect &lt;CLGR&gt;Blue Flame&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Bomb&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="344" title="None" achievement="ACHIEVEMENT_RED_04_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="345" title="None" achievement="ACHIEVEMENT_RED_04_02"/>
+    <RecipeLearnCond No="346" title="Obtain: Black Orb&lt;CR&gt;" achievement="ACHIEVEMENT_RED_18_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Black Orb&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="347" title="None" achievement="ACHIEVEMENT_RED_18_01"/>
+    <RecipeLearnCond No="348" title="None" achievement="ACHIEVEMENT_RED_18_02"/>
+    <RecipeLearnCond No="349" title="Armor Crafting and Slay&lt;CR&gt;" achievement="ACHIEVEMENT_RED_19_00" desc="&lt;CLGR&gt;Plachta's Memory Fragment&lt;CLNR&gt;&lt;CR&gt;Collect memory clues!"/>
+    <RecipeLearnCond No="350" title="Synthesis: 30 Times" achievement="ACHIEVEMENT_WHITE_YOBI_14" desc="Memory Clue:&lt;CR&gt;Memory from &lt;CLGR&gt;Performing Synthesis&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="351" title="Thank You Gift: 4 Times" achievement="ACHIEVEMENT_WHITE_YOBI_15" desc="Memory Clue: &lt;CLGR&gt;Big Effect&lt;CLNR&gt;&lt;CR&gt;Memory from &lt;CLGR&gt;Thank You Gifts&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="352" title="Synthesis: Supreme Hot Milk (Hot)&lt;CR&gt;" achievement="ACHIEVEMENT_RED_11_00" desc="Memo: Effect &lt;CLGR&gt;Hot&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Supreme Hot Milk&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="353" title="None" achievement="ACHIEVEMENT_RED_11_01"/>
+    <RecipeLearnCond No="354" title="None" achievement="ACHIEVEMENT_RED_11_02"/>
+    <RecipeLearnCond No="355" title="Enemy Skill: Lightning" achievement="ACHIEVEMENT_GREEN_07_00" desc="Memo: Monster Skill&lt;CR&gt;Idea from &lt;CLGR&gt;Lightning&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="356" title="None" achievement="ACHIEVEMENT_GREEN_07_01"/>
+    <RecipeLearnCond No="357" title="None" achievement="ACHIEVEMENT_GREEN_07_02"/>
+    <RecipeLearnCond No="358" title="Consume LP: Down to 0&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_03_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Working Until Exhausted&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="359" title="None" achievement="ACHIEVEMENT_WHITE_03_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="360" title="None" achievement="ACHIEVEMENT_WHITE_03_02" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="361" title="Use: Ice Bomb&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_12_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Ice Bomb&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="362" title="None" achievement="ACHIEVEMENT_BLUE_12_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="363" title="None" achievement="ACHIEVEMENT_BLUE_12_02"/>
+    <RecipeLearnCond No="364" title="Synthesis: Puni Jelly&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_15_00" desc="Memo: Effect &lt;CLGR&gt;Activate Division&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Puni Jelly&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="365" title="None" achievement="ACHIEVEMENT_BLUE_15_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="366" title="None" achievement="ACHIEVEMENT_BLUE_15_02"/>
+    <RecipeLearnCond No="367" title="Investigate Scar of the Land" achievement="ACHIEVEMENT_RED_17_00" desc="Memo: Scar of the Land&lt;CR&gt;Idea from &lt;CLGR&gt;Drilled Scar&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="368" title="None" achievement="ACHIEVEMENT_RED_17_01"/>
+    <RecipeLearnCond No="369" title="None" achievement="ACHIEVEMENT_RED_17_02"/>
+    <RecipeLearnCond No="370" title="Obtain: Gunade Ring&lt;CR&gt;" achievement="ACHIEVEMENT_RED_22_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Gunade Ring&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="371" title="Synthesis: Training Charm (Training Mastery)" achievement="ACHIEVEMENT_RED_22_01" desc="Memo: Effect &lt;CLGR&gt;Training Mastery&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Training Charm&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="372" title="None" achievement="ACHIEVEMENT_RED_22_02"/>
+    <RecipeLearnCond No="373" title="Learn Upon Obtaining" achievement="ACHIEVEMENT_WHITE_12_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Obtaining Tuned Cauldron&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="374" title="None" achievement="ACHIEVEMENT_WHITE_12_01"/>
+    <RecipeLearnCond No="375" title="None" achievement="ACHIEVEMENT_WHITE_12_02"/>
+    <RecipeLearnCond No="376" title="Synthesis: Bagel Sandwich (Fluffy)&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_14_00" desc="Memo: Effect &lt;CLGR&gt;Fluffy&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Bagel Sandwich&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="377" title="None" achievement="ACHIEVEMENT_GREEN_14_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="378" title="None" achievement="ACHIEVEMENT_GREEN_14_02"/>
+    <RecipeLearnCond No="379" title="" achievement="ACHIEVEMENT_BLUE_11_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Silver Crystal&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="380" title="None" achievement="ACHIEVEMENT_BLUE_11_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="381" title="None" achievement="ACHIEVEMENT_BLUE_11_02"/>
+    <RecipeLearnCond No="382" title="Donation and Requests&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_14_00" desc="&lt;CLGR&gt;Plachta's Memory Fragment&lt;CLNR&gt;&lt;CR&gt;Collect memory clues!"/>
+    <RecipeLearnCond No="383" title="Slay: Unliving King&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_16" desc="Memory Clue:&lt;CR&gt;Memory from &lt;CLGR&gt;Monster from Memories&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="384" title="Donation: 8000 Cole&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_17" desc="Memo: Underground Lake&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Unliving King&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="385" title="Obtain from Event" achievement="ACHIEVEMENT_GREEN_21_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="386" title="None" achievement="ACHIEVEMENT_GREEN_21_01"/>
+    <RecipeLearnCond No="387" title="None" achievement="ACHIEVEMENT_GREEN_21_02"/>
+    <RecipeLearnCond No="388" title="Obtain from Event" achievement="ACHIEVEMENT_YELLOW_12_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="389" title="None" achievement="ACHIEVEMENT_YELLOW_12_01"/>
+    <RecipeLearnCond No="390" title="None" achievement="ACHIEVEMENT_YELLOW_12_02"/>
+    <RecipeLearnCond No="391" title="Learn from Event" achievement="ACHIEVEMENT_WHITE_21_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="392" title="None" achievement="ACHIEVEMENT_WHITE_21_01"/>
+    <RecipeLearnCond No="393" title="None" achievement="ACHIEVEMENT_WHITE_21_02"/>
+    <RecipeLearnCond No="394" title="Obtain from Event" achievement="ACHIEVEMENT_BLUE_09_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="395" title="None" achievement="ACHIEVEMENT_BLUE_09_01"/>
+    <RecipeLearnCond No="396" title="None" achievement="ACHIEVEMENT_BLUE_09_02"/>
+    <RecipeLearnCond No="397" title="Obtain from Event" achievement="ACHIEVEMENT_GREEN_12_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="398" title="None" achievement="ACHIEVEMENT_GREEN_12_01"/>
+    <RecipeLearnCond No="399" title="None" achievement="ACHIEVEMENT_GREEN_12_02"/>
+    <RecipeLearnCond No="400" title="Synthesize Elixir Base with Traits" achievement="ACHIEVEMENT_GREEN_13_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Synthesizing Elixir Base&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="401" title="None" achievement="ACHIEVEMENT_GREEN_13_01"/>
+    <RecipeLearnCond No="402" title="None" achievement="ACHIEVEMENT_GREEN_13_02"/>
+    <RecipeLearnCond No="403" title="None" achievement="ACHIEVEMENT_GREEN_24_00" desc="????"/>
+    <RecipeLearnCond No="404" title="None" achievement="ACHIEVEMENT_GREEN_24_01" desc="????"/>
+    <RecipeLearnCond No="405" title="None" achievement="ACHIEVEMENT_GREEN_24_02" desc="????"/>
+    <RecipeLearnCond No="406" title="None" achievement="ACHIEVEMENT_GREEN_26_00" desc="????"/>
+    <RecipeLearnCond No="407" title="None" achievement="ACHIEVEMENT_GREEN_26_01" desc="????"/>
+    <RecipeLearnCond No="408" title="None" achievement="ACHIEVEMENT_GREEN_26_02" desc="????"/>
+    <RecipeLearnCond No="409" title="" achievement="ACHIEVEMENT_GREEN_27_00" desc="Memo: &lt;CR&gt;Acquire &lt;CLGR&gt;Hermit's Cauldron&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="410" title="None" achievement="ACHIEVEMENT_GREEN_27_01"/>
+    <RecipeLearnCond No="411" title="None" achievement="ACHIEVEMENT_GREEN_27_02"/>
+    <RecipeLearnCond No="412" title="" achievement="ACHIEVEMENT_GREEN_28_00" desc=""/>
+    <RecipeLearnCond No="413" title="None" achievement="ACHIEVEMENT_GREEN_28_01" desc="????"/>
+    <RecipeLearnCond No="414" title="None" achievement="ACHIEVEMENT_GREEN_28_02" desc="????"/>
+    <RecipeLearnCond No="415" title="None" achievement="ACHIEVEMENT_GREEN_29_00" desc="????"/>
+    <RecipeLearnCond No="416" title="None" achievement="ACHIEVEMENT_GREEN_29_01" desc="????"/>
+    <RecipeLearnCond No="417" title="None" achievement="ACHIEVEMENT_GREEN_29_02" desc="????"/>
+    <RecipeLearnCond No="418" title="None" achievement="ACHIEVEMENT_GREEN_30_00" desc="????"/>
+    <RecipeLearnCond No="419" title="None" achievement="ACHIEVEMENT_GREEN_30_01" desc="????"/>
+    <RecipeLearnCond No="420" title="None" achievement="ACHIEVEMENT_GREEN_30_02" desc="????"/>
+    <RecipeLearnCond No="421" title="Use: (Bomb)" achievement="ACHIEVEMENT_BLUE_20_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Using (Bomb)&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="422" title="Use: (Magic Item)" achievement="ACHIEVEMENT_BLUE_20_01" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Using (Magic Item)&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="423" title="Use: (Medicine)" achievement="ACHIEVEMENT_BLUE_20_02" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Using (Medicine)&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="424" title="Investigate Waterside Ruins" achievement="ACHIEVEMENT_WHITE_15_00" desc="Memo: Waterside Ruins&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Bridge&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="425" title="None" achievement="ACHIEVEMENT_WHITE_15_01"/>
+    <RecipeLearnCond No="426" title="None" achievement="ACHIEVEMENT_WHITE_15_02"/>
+    <RecipeLearnCond No="427" title="Synthesis: Angel's Whisper (Awakens Soul)" achievement="ACHIEVEMENT_YELLOW_16_00" desc="Memo: Effect &lt;CLGR&gt;Soul Awakening&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Angel's Whisper&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="428" title="None" achievement="ACHIEVEMENT_YELLOW_16_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="429" title="None" achievement="ACHIEVEMENT_YELLOW_16_02"/>
+    <RecipeLearnCond No="430" title="Investigate Prayerless Altar" achievement="ACHIEVEMENT_WHITE_05_00" desc="Memo: Small Islet&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Prayerless Altar&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="431" title="None" achievement="ACHIEVEMENT_WHITE_05_01"/>
+    <RecipeLearnCond No="432" title="None" achievement="ACHIEVEMENT_WHITE_05_02"/>
+    <RecipeLearnCond No="433" title="Synthesis: Ingot (Golden Radiance)&lt;CR&gt;" achievement="ACHIEVEMENT_RED_21_00" desc="Memo: Trait &lt;CLGR&gt;Golden Radiance&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Ingot&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="434" title="None" achievement="ACHIEVEMENT_WHITE_YOBI_18"/>
+    <RecipeLearnCond No="435" title="None" achievement="ACHIEVEMENT_WHITE_YOBI_19"/>
+    <RecipeLearnCond No="436" title="Learn Upon Obtaining" achievement="ACHIEVEMENT_WHITE_11_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Obtaining Fairy Cauldron&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="437" title="None" achievement="ACHIEVEMENT_WHITE_11_01"/>
+    <RecipeLearnCond No="438" title="None" achievement="ACHIEVEMENT_WHITE_11_02"/>
+    <RecipeLearnCond No="439" title="Synthesis: Pure Water (Secret of Health)&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_08_00" desc="Memo: Trait &lt;CLGR&gt;Secret of Health&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Pure Water&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="440" title="None" achievement="ACHIEVEMENT_BLUE_08_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="441" title="None" achievement="ACHIEVEMENT_BLUE_08_02"/>
+    <RecipeLearnCond No="442" title="Synthesis: Adal Cloth (Premium Price)" achievement="ACHIEVEMENT_YELLOW_23_00" desc="Memo: Trait &lt;CLGR&gt;High Class&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Adal Cloth&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="443" title="None" achievement="ACHIEVEMENT_YELLOW_23_01"/>
+    <RecipeLearnCond No="444" title="None" achievement="ACHIEVEMENT_YELLOW_23_02"/>
+    <RecipeLearnCond No="445" title="Obtain: Dragon Crystal&lt;CR&gt;" achievement="ACHIEVEMENT_RED_24_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Dragon Bloodstone&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="446" title="None" achievement="ACHIEVEMENT_RED_24_01"/>
+    <RecipeLearnCond No="447" title="None" achievement="ACHIEVEMENT_RED_24_02"/>
+    <RecipeLearnCond No="448" title="Synthesis: Natural Yeast (Sunny Scent)&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_08_00" desc="Memo: Trait &lt;CLGR&gt;Sunny Scent&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Natural Yeast&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="449" title="None" achievement="ACHIEVEMENT_YELLOW_08_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="450" title="None" achievement="ACHIEVEMENT_YELLOW_08_02"/>
+    <RecipeLearnCond No="451" title="Investigate Silent Bedroom" achievement="ACHIEVEMENT_YELLOW_20_00" desc="Memo: Moon Sun Moor&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Silent Bedroom&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="452" title="None" achievement="ACHIEVEMENT_YELLOW_20_01"/>
+    <RecipeLearnCond No="453" title="None" achievement="ACHIEVEMENT_YELLOW_20_02"/>
+    <RecipeLearnCond No="454" title="Consume LP: Use 100&lt;CR&gt;" achievement="ACHIEVEMENT_RED_01_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Becoming Fatigued&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="455" title="None" achievement="ACHIEVEMENT_RED_01_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="456" title="None" achievement="ACHIEVEMENT_RED_01_02" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="457" title="Synthesis: Noble Sapphire (Ancient Seal)&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_17_00" desc="Memo: Trait &lt;CLGR&gt;Ancient Seal&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Noble Sapphire&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="458" title="None" achievement="ACHIEVEMENT_BLUE_17_01"/>
+    <RecipeLearnCond No="459" title="None" achievement="ACHIEVEMENT_BLUE_17_02"/>
+    <RecipeLearnCond No="460" title="Running Info" achievement="ACHIEVEMENT_YELLOW_17_00" desc="Memo: Battle&lt;CR&gt;Idea from &lt;CLGR&gt;Running Away&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="461" title="None" achievement="ACHIEVEMENT_YELLOW_17_01"/>
+    <RecipeLearnCond No="462" title="None" achievement="ACHIEVEMENT_YELLOW_17_02"/>
+    <RecipeLearnCond No="463" title="Battle: Weakness Damage" achievement="ACHIEVEMENT_GREEN_22_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Weakness Damage&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="464" title="None" achievement="ACHIEVEMENT_GREEN_22_01"/>
+    <RecipeLearnCond No="465" title="None" achievement="ACHIEVEMENT_GREEN_22_02"/>
+    <RecipeLearnCond No="466" title="Talk: Scholar&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_11_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;Talking to Someone Who Would Know&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="467" title="None" achievement="ACHIEVEMENT_GREEN_11_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="468" title="None" achievement="ACHIEVEMENT_GREEN_11_02"/>
+    <RecipeLearnCond No="469" title="Battle: Break&lt;CR&gt;" achievement="ACHIEVEMENT_RED_05_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;A Heated Battle&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="470" title="None" achievement="ACHIEVEMENT_RED_05_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="471" title="None" achievement="ACHIEVEMENT_RED_05_02"/>
+    <RecipeLearnCond No="472" title="Weather: Waterside Night Thunderstorm&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_08_00" desc="Memo: Prospector's Strand&lt;CR&gt;&lt;CLGR&gt;Encountering Night Thunderstorm&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="473" title="None" achievement="ACHIEVEMENT_GREEN_08_01"/>
+    <RecipeLearnCond No="474" title="None" achievement="ACHIEVEMENT_GREEN_08_02"/>
+    <RecipeLearnCond No="475" title="To Next Memory..." achievement="ACHIEVEMENT_WHITE_22_00" desc="&lt;CLGR&gt;Plachta's Memory Fragment&lt;CLNR&gt;&lt;CR&gt;Collect memory clues!"/>
+    <RecipeLearnCond No="476" title="Battle: Deal 10000 Damage" achievement="ACHIEVEMENT_WHITE_YOBI_20" desc="Memory Clue:&lt;CR&gt;Memory from &lt;CLGR&gt;Causing Wounds&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="477" title="Battle: Take 2000 Damage" achievement="ACHIEVEMENT_WHITE_YOBI_21" desc="Memory Clue: &lt;CLGR&gt;Big Effect&lt;CLNR&gt;&lt;CR&gt;Memory from &lt;CLGR&gt;Taking Wounds&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="478" title="Event: Corneria" achievement="ACHIEVEMENT_GREEN_25_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="479" title="None" achievement="ACHIEVEMENT_GREEN_25_01" desc="????"/>
+    <RecipeLearnCond No="480" title="None" achievement="ACHIEVEMENT_GREEN_25_02" desc="????"/>
+    <RecipeLearnCond No="481" title="None" achievement="ACHIEVEMENT_YELLOW_27_00" desc="????"/>
+    <RecipeLearnCond No="482" title="None" achievement="ACHIEVEMENT_YELLOW_27_01" desc="????"/>
+    <RecipeLearnCond No="483" title="None" achievement="ACHIEVEMENT_YELLOW_27_02" desc="????"/>
+    <RecipeLearnCond No="484" title="None" achievement="ACHIEVEMENT_YELLOW_28_00" desc="????"/>
+    <RecipeLearnCond No="485" title="None" achievement="ACHIEVEMENT_YELLOW_28_01" desc="????"/>
+    <RecipeLearnCond No="486" title="None" achievement="ACHIEVEMENT_YELLOW_28_02" desc="????"/>
+    <RecipeLearnCond No="487" title="None" achievement="ACHIEVEMENT_YELLOW_29_00" desc="????"/>
+    <RecipeLearnCond No="488" title="None" achievement="ACHIEVEMENT_YELLOW_29_01" desc="????"/>
+    <RecipeLearnCond No="489" title="None" achievement="ACHIEVEMENT_YELLOW_29_02" desc="????"/>
+    <RecipeLearnCond No="490" title="None" achievement="ACHIEVEMENT_YELLOW_30_00" desc="????"/>
+    <RecipeLearnCond No="491" title="None" achievement="ACHIEVEMENT_YELLOW_30_01" desc="????"/>
+    <RecipeLearnCond No="492" title="None" achievement="ACHIEVEMENT_YELLOW_30_02" desc="????"/>
+    <RecipeLearnCond No="493" title="Synthesis: Refuel Bottle (Auto Activate 50%)" achievement="ACHIEVEMENT_YELLOW_19_00" desc="Memo: Effect &lt;CLGR&gt;Auto Activate 50%&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Refuel Bottle&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="494" title="None" achievement="ACHIEVEMENT_YELLOW_19_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="495" title="None" achievement="ACHIEVEMENT_YELLOW_19_02"/>
+    <RecipeLearnCond No="496" title="Slay: Yasuk" achievement="ACHIEVEMENT_RED_20_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Yasuk&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="497" title="Slay: Dorak" achievement="ACHIEVEMENT_RED_20_01" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Dorak&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="498" title="None" achievement="ACHIEVEMENT_RED_20_02"/>
+    <RecipeLearnCond No="499" title="Investigate Small Islet" achievement="ACHIEVEMENT_BLUE_19_00" desc="Memo: Small Islet&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Small Island&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="500" title="None" achievement="ACHIEVEMENT_BLUE_19_01"/>
+    <RecipeLearnCond No="501" title="None" achievement="ACHIEVEMENT_BLUE_19_02"/>
+    <RecipeLearnCond No="502" title="Skill: Life Powder (Kimmoch)" achievement="ACHIEVEMENT_RED_15_00" desc="Memo: Monster Skill&lt;CR&gt;Idea from &lt;CLGR&gt;Life Powder&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="503" title="Investigate: Forest of Fairies" achievement="ACHIEVEMENT_RED_15_01" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Gathering in Forest of Fairies&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="504" title="None" achievement="ACHIEVEMENT_RED_15_02"/>
+    <RecipeLearnCond No="505" title="Learn Upon Obtaining" achievement="ACHIEVEMENT_WHITE_13_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Obtaining Ancient Cauldron&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="506" title="None" achievement="ACHIEVEMENT_WHITE_13_01"/>
+    <RecipeLearnCond No="507" title="None" achievement="ACHIEVEMENT_WHITE_13_02"/>
+    <RecipeLearnCond No="508" title="Synthesis: Codex of Creation (Steal Lots of Life)&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_25_00" desc="Memo: Effect &lt;CLGR&gt;Steals Lots of Life&lt;CLNR&gt;&lt;CR&gt;Idea from &lt;CLGR&gt;Codex of Creation&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="509" title="None" achievement="ACHIEVEMENT_WHITE_YOBI_22"/>
+    <RecipeLearnCond No="510" title="None" achievement="ACHIEVEMENT_WHITE_YOBI_23"/>
+    <RecipeLearnCond No="511" title="NPC: Nearby Forest" achievement="ACHIEVEMENT_GREEN_20_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;Meet Someone Who Speaks to the Dead&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="512" title="Slay: Lich" achievement="ACHIEVEMENT_GREEN_20_01" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Lich&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="513" title="None" achievement="ACHIEVEMENT_GREEN_20_02"/>
+    <RecipeLearnCond No="514" title="Slay: Light Elemental&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_22_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Light Elemental&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="515" title="None" achievement="ACHIEVEMENT_YELLOW_22_01"/>
+    <RecipeLearnCond No="516" title="None" achievement="ACHIEVEMENT_YELLOW_22_02"/>
+    <RecipeLearnCond No="517" title="Request: Abandon&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_23_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Breaking Trust&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="518" title="None" achievement="ACHIEVEMENT_WHITE_23_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="519" title="None" achievement="ACHIEVEMENT_WHITE_23_02"/>
+    <RecipeLearnCond No="520" title="Investigate Front of Atelier" achievement="ACHIEVEMENT_GREEN_16_00" desc="Memo: Front of Atelier&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Hill&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="521" title="None" achievement="ACHIEVEMENT_GREEN_16_01"/>
+    <RecipeLearnCond No="522" title="None" achievement="ACHIEVEMENT_GREEN_16_02"/>
+    <RecipeLearnCond No="523" title="Investigate Blue Sky Altar" achievement="ACHIEVEMENT_RED_14_00" desc="Memo: Blue Sky Altar&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Ruins&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="524" title="None" achievement="ACHIEVEMENT_RED_14_01"/>
+    <RecipeLearnCond No="525" title="None" achievement="ACHIEVEMENT_RED_14_02"/>
+    <RecipeLearnCond No="526" title="Obtain: Spirit Crystal&lt;CR&gt;" achievement="ACHIEVEMENT_RED_23_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Spirit Crystal&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="527" title="None" achievement="ACHIEVEMENT_RED_23_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="528" title="None" achievement="ACHIEVEMENT_RED_23_02"/>
+    <RecipeLearnCond No="529" title="Obtain: Rainbow Puni Fluid&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_24_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Rainbow Puni Fluid&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="530" title="None" achievement="ACHIEVEMENT_YELLOW_24_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="531" title="None" achievement="ACHIEVEMENT_YELLOW_24_02"/>
+    <RecipeLearnCond No="532" title="Obtain from Event" achievement="ACHIEVEMENT_RED_25_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="533" title="None" achievement="ACHIEVEMENT_RED_25_01"/>
+    <RecipeLearnCond No="534" title="None" achievement="ACHIEVEMENT_RED_25_02"/>
+    <RecipeLearnCond No="535" title="Slay: Magmacius&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_18_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Magmacius&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="536" title="None" achievement="ACHIEVEMENT_WHITE_18_01"/>
+    <RecipeLearnCond No="537" title="None" achievement="ACHIEVEMENT_WHITE_18_02"/>
+    <RecipeLearnCond No="538" title="Slay: Dark Maiden&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_10_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Slaying Dark Maiden&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="539" title="None" achievement="ACHIEVEMENT_GREEN_10_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="540" title="None" achievement="ACHIEVEMENT_GREEN_10_02"/>
+    <RecipeLearnCond No="541" title="Investigate Clock Shop" achievement="ACHIEVEMENT_GREEN_19_00" desc="Memo: Clock Shop&lt;CR&gt;Idea from &lt;CLGR&gt;Investigating Clocks&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="542" title="None" achievement="ACHIEVEMENT_GREEN_19_01"/>
+    <RecipeLearnCond No="543" title="None" achievement="ACHIEVEMENT_GREEN_19_02"/>
+    <RecipeLearnCond No="544" title="Obtain: Dunkelheit" achievement="ACHIEVEMENT_WHITE_10_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Dunkelheit&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="545" title="None" achievement="ACHIEVEMENT_WHITE_10_01" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="546" title="None" achievement="ACHIEVEMENT_WHITE_10_02"/>
+    <RecipeLearnCond No="547" title="Skill: Positive Release" achievement="ACHIEVEMENT_GREEN_18_00" desc="Memo: Skill&lt;CR&gt;Idea from &lt;CLGR&gt;Positive Release&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="548" title="None" achievement="ACHIEVEMENT_GREEN_18_01"/>
+    <RecipeLearnCond No="549" title="None" achievement="ACHIEVEMENT_GREEN_18_02"/>
+    <RecipeLearnCond No="550" title="Synthesis: Level 45" achievement="ACHIEVEMENT_WHITE_24_00" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Synthesis Level&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="551" title="Synthesis: Learn All" achievement="ACHIEVEMENT_WHITE_24_01" desc="Memo:&lt;CR&gt;Idea from &lt;CLGR&gt;Learning Recipes&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="552" title="None" achievement="ACHIEVEMENT_WHITE_24_02"/>
+    <RecipeLearnCond No="553" title="Obtain from Event" achievement="ACHIEVEMENT_WHITE_02_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="554" title="None" achievement="ACHIEVEMENT_WHITE_02_01"/>
+    <RecipeLearnCond No="555" title="None" achievement="ACHIEVEMENT_WHITE_02_02"/>
+    <RecipeLearnCond No="556" title="Synthesis: Wonder Stimulant&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_26_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="557" title="None" achievement="ACHIEVEMENT_YELLOW_26_01"/>
+    <RecipeLearnCond No="558" title="None" achievement="ACHIEVEMENT_YELLOW_26_02"/>
+    <RecipeLearnCond No="559" title="Learn from Event" achievement="ACHIEVEMENT_WHITE_19_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;???&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="560" title="None" achievement="ACHIEVEMENT_WHITE_19_01"/>
+    <RecipeLearnCond No="561" title="None" achievement="ACHIEVEMENT_WHITE_19_02"/>
+    <RecipeLearnCond No="562" title="Learn Upon Obtaining" achievement="ACHIEVEMENT_WHITE_26_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="563" title="None" achievement="ACHIEVEMENT_WHITE_26_01" desc="????"/>
+    <RecipeLearnCond No="564" title="None" achievement="ACHIEVEMENT_WHITE_26_02" desc="????"/>
+    <RecipeLearnCond No="565" title="" achievement="ACHIEVEMENT_WHITE_27_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="566" title="None" achievement="ACHIEVEMENT_WHITE_27_01" desc="????"/>
+    <RecipeLearnCond No="567" title="None" achievement="ACHIEVEMENT_WHITE_27_02" desc="????"/>
+    <RecipeLearnCond No="568" title="" achievement="ACHIEVEMENT_WHITE_28_00" desc="Memo: &lt;CR&gt;Acquire &lt;CLGR&gt;Miraculous Cauldron&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="569" title="None" achievement="ACHIEVEMENT_WHITE_28_01"/>
+    <RecipeLearnCond No="570" title="None" achievement="ACHIEVEMENT_WHITE_28_02"/>
+    <RecipeLearnCond No="571" title="" achievement="ACHIEVEMENT_WHITE_29_00" desc="Memo:&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="572" title="None" achievement="ACHIEVEMENT_WHITE_29_01" desc="????"/>
+    <RecipeLearnCond No="573" title="None" achievement="ACHIEVEMENT_WHITE_29_02" desc="????"/>
+    <RecipeLearnCond No="574" title="None" achievement="ACHIEVEMENT_WHITE_30_00" desc="????"/>
+    <RecipeLearnCond No="575" title="None" achievement="ACHIEVEMENT_WHITE_30_01" desc="????"/>
+    <RecipeLearnCond No="576" title="なし" achievement="ACHIEVEMENT_WHITE_30_02" desc="????"/>
+    <RecipeLearnCond No="577"/>
+</Root>

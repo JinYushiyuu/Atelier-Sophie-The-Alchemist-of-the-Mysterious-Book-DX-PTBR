@@ -1,0 +1,265 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC11_ELI_090.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Elise."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, welcome Sophie. Do you want to take another quiz today?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "You have another one? I'm pretty confident that I can get them all right!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Okay then, do you mind if this one's a little more difficult?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x4,
+            "msg_string": "Uu... I-I'll be fine!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hehe, do your best."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Here's the first question."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "That's impressive, you're correct."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Heh heh. I'm just getting started."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Can you say that after the second question?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Correct. You managed to get that one too..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Yay! Just one more!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "The third question's very difficult."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "Congratulations. You got them all correct, that's very impressive."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "I did it!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Hehe, I think you've graduated from my quizzes now. I've prepared a special prize for you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "What could it be?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "What's this...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "I received it from a merchant. They said it's related to alchemy, so I thought it would be suitable for you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Is it really okay for me to take this?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Yes, there's no use in me holding onto it. It's your prize."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Thank you so much, Elise!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "I'm sorry, that's incorrect."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "I-I guess it's no good..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Hehe. You should buy some books and study more."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Received \"<CLGR>Forgotten Wood<CLNR>\"."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "What happens to monsters at night?"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "What status effect occurs when you attack the same enemy many times, causing them to take critical hits?"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "How many types of Puni are presently known to inhabit this region?"
+        }
+    ]
+}

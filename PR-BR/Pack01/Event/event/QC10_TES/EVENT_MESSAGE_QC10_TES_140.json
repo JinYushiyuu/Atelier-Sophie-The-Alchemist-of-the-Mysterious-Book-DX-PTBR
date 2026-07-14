@@ -1,0 +1,267 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_TES_140.ebm",
+    "nb_messages": 0x1d,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1e9f,
+            "msg_string": "Thank you very much, please come again!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1ea0,
+            "msg_string": "Tess."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1ea1,
+            "msg_string": "Hey, Sophie. What's up?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1ea2,
+            "msg_string": "Not much, I just dropped by..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1ea3,
+            "msg_string": "I see. That's fine, you should have a bite to eat. Meister! Sophie's here!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1ea4,
+            "msg_string": "...Tess, you're really amazing."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1ea5,
+            "msg_string": "Amazing? Why are you saying this all of a sudden? You won't get much out of complimenting me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1ea6,
+            "msg_string": "I was just thinking about how you're always cheerfully serving customers..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1ea7,
+            "msg_string": "Oh, that? I'm always cheerful and serious about my work."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x1ea8,
+            "msg_string": "I'm not this shop's poster girl for nothing!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1ea9,
+            "msg_string": "Wow, you're so confident. I wonder if Mr. Horst's shop is doing so well thanks to you..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x1eaa,
+            "msg_string": "Hey, you say some good things."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1eab,
+            "msg_string": "Meister, did you hear that just now?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1eac,
+            "msg_string": "Yes, I heard it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x1ead,
+            "msg_string": "If you did... Then maybe you could give me just a little, tiiiny raise..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1eae,
+            "msg_string": "I admit that your influence has increased sales... But that's a different story."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x1eaf,
+            "msg_string": "Darn it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x1eb0,
+            "msg_string": "Wait, are you not satisfied with your current wage, Tess?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1eb1,
+            "msg_string": "No, that's not what I meant. I'm actually doing pretty well."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x1eb2,
+            "msg_string": "But... I have my own dream too. It never hurts to have more money."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x1eb3,
+            "msg_string": "Your dream, huh...? What is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1eb4,
+            "msg_string": "Hehehe, listen and be amazed! My dream is to open my very own shop!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x1eb5,
+            "msg_string": "I'll make a big shop, and my whole family will work there."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x1eb6,
+            "msg_string": "Wow, that sounds like fun! It's a wonderful dream!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x1eb7,
+            "msg_string": "Right? Right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1eb8,
+            "msg_string": "...That means in the future, you'd be a competitor of mine."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x2287,
+            "msg_string": "Gah, now that you mention it, that's true...! But I won't lose, even if it's against you, Meister!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x1eba,
+            "msg_string": "Yes, I have no intention of losing, either... I'll look forward to when the time comes."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1ebb,
+            "msg_string": "(Hehe, they both seem to be having fun... This is really nice.)"
+        }
+    ]
+}

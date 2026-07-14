@@ -1,0 +1,183 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS01_060.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x43,
+            "expr_id": 0xf,
+            "msg_id": 0xa0d,
+            "msg_string": "No, you need to fix it up even more."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0xa0e,
+            "msg_string": "I-I'm most sorry."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xa0f,
+            "msg_string": "Huh? Sir Julio?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xa10,
+            "msg_string": "Hello, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa11,
+            "msg_string": "Are you shopping?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0xa12,
+            "msg_string": "No, I was just being advised about my armor..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0xa13,
+            "msg_string": "It's because he doesn't take care of it at all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xa14,
+            "msg_string": "That's unexpected, you're always taking such good care of your sword."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0xa15,
+            "msg_string": "I thought I was taking proper care of my armor as well."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0xa16,
+            "msg_string": "But it seems Leon thinks otherwise."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0xa17,
+            "msg_string": "That's because it's no good at all. You're leaving dents everywhere."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xa18,
+            "msg_string": "Dents? I don't really see anything that bad..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xa19,
+            "msg_string": "It doesn't matter if they aren't that noticeable at a glance, you need to fix them."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa1a,
+            "msg_string": "I know of people who lost their lives because of a tiny dent they didn't fix."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xa1b,
+            "msg_string": "That's scary..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa1c,
+            "msg_string": "Exactly. That's why you need to maintain it properly, just in case."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0xa1e,
+            "msg_string": "Thank you very much for your guidance. I'll be more careful from now on."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xa1f,
+            "msg_string": "Hehe. You're really straightforward, so you'll be fine now that I warned you. Be sure to take good care of your armor."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xa20,
+            "msg_string": "Yes."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x4,
+            "msg_id": 0xa21,
+            "msg_string": "I should be careful about maintaining my items too..."
+        }
+    ]
+}

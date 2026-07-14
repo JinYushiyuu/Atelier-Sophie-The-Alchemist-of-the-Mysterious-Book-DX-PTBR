@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<S01_PLAIN_01_people people_data="PUNI_00" chara_tag="PUNI_00_F" mot_idx="0" wait_mot="F_WAIT" talk_mot="F_WAIT" gravity="1" talk="1"/>
+	<S01_PLAIN_01_people people_data="PUNI_01" chara_tag="PUNI_01_F" mot_idx="0" wait_mot="F_WAIT" talk_mot="F_WAIT" gravity="1" talk="1"/>
+	<S01_PLAIN_01_people people_data="PUNI_02" chara_tag="PUNI_02_F" mot_idx="0" wait_mot="F_WAIT" talk_mot="F_WAIT" gravity="1" talk="1"/>
+	<S01_PLAIN_01_people people_data="PUNI_03" chara_tag="PUNI_03_F" mot_idx="0" wait_mot="F_WAIT" talk_mot="F_WAIT" gravity="1" talk="1"/>
+	<S01_PLAIN_01_people people_data="PUNI_04" chara_tag="PUNI_04_F" mot_idx="0" wait_mot="F_WAIT" talk_mot="F_WAIT" gravity="1" talk="1"/>
+	<S01_PLAIN_01_people people_data="PUNI_05" chara_tag="PUNI_05_F" mot_idx="0" wait_mot="F_WAIT" talk_mot="F_WAIT" gravity="1" talk="1"/>
+	<S01_PLAIN_01_people people_data="PUNI_06" chara_tag="PUNI_06_F" mot_idx="0" wait_mot="F_WAIT" talk_mot="F_WAIT" gravity="1" talk="1"/>
+</Root>

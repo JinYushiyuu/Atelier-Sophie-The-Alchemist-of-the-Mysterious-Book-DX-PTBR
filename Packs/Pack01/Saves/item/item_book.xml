@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <item_book BookName="Gathering Buddy" BookTag="ITEM_BOOK_RECIPE_01" ItemTag="ITEM_MIX_PICKING_GLOVES"/>
+    <item_book BookName="Eternal Brilliance" BookTag="ITEM_BOOK_RECIPE_02" ItemTag="ITEM_MIX_ALCHEMY_CLAY"/>
+    <item_book BookName="Soul Techniques" BookTag="ITEM_BOOK_RECIPE_03" ItemTag="ITEM_KEY_ITEM_004"/>
+    <item_book BookName="Alchemic Drive Guide" BookTag="ITEM_BOOK_RECIPE_04" ItemTag="ITEM_KEY_ITEM_006"/>
+    <item_book BookName="Blessing of the Sun" BookTag="ITEM_BOOK_RECIPE_05" ItemTag="ITEM_MIX_SUN_DROPS"/>
+    <item_book BookName="Recipe of Origin" BookTag="ITEM_BOOK_RECIPE_06" ItemTag="ITEM_KEY_ITEM_012"/>
+    <item_book BookName="Puppeteer's Tools" BookTag="ITEM_BOOK_RECIPE_07" ItemTag="ITEM_KEY_ITEM_010"/>
+    <item_book BookName="Alchemist's Book" BookTag="ITEM_BOOK_RECIPE_08" ItemTag="ITEM_KEY_ITEM_011"/>
+    <item_book BookName="Canaria's Note" BookTag="ITEM_BOOK_RECIPE_09"/>
+    <item_book BookName="Epigraph of All Creation" BookTag="ITEM_BOOK_RECIPE_10"/>
+    <item_book BookName="参考書予備枠０１" BookTag="ITEM_BOOK_RECIPE_11"/>
+    <item_book BookName="参考書予備枠０２" BookTag="ITEM_BOOK_RECIPE_12"/>
+    <item_book BookName="参考書予備枠０３" BookTag="ITEM_BOOK_RECIPE_13"/>
+    <item_book BookName="参考書予備枠０４" BookTag="ITEM_BOOK_RECIPE_14"/>
+    <item_book BookName="参考書予備枠０５" BookTag="ITEM_BOOK_RECIPE_15"/>
+    <item_book BookName="参考書予備枠０６" BookTag="ITEM_BOOK_RECIPE_16"/>
+    <item_book BookName="参考書予備枠０７" BookTag="ITEM_BOOK_RECIPE_17"/>
+    <item_book BookName="参考書予備枠０８" BookTag="ITEM_BOOK_RECIPE_18"/>
+    <item_book BookName="参考書予備枠０９" BookTag="ITEM_BOOK_RECIPE_19"/>
+    <item_book BookName="参考書予備枠１０" BookTag="ITEM_BOOK_RECIPE_20"/>
+    <item_book BookName="参考書予備枠１１" BookTag="ITEM_BOOK_RECIPE_21"/>
+    <item_book BookName="参考書予備枠１２" BookTag="ITEM_BOOK_RECIPE_22"/>
+    <item_book BookName="参考書予備枠１３" BookTag="ITEM_BOOK_RECIPE_23"/>
+    <item_book BookName="参考書予備枠１４" BookTag="ITEM_BOOK_RECIPE_24"/>
+    <item_book BookName="参考書予備枠１５" BookTag="ITEM_BOOK_RECIPE_25"/>
+    <item_book BookName="参考書予備枠１６" BookTag="ITEM_BOOK_RECIPE_26"/>
+    <item_book BookName="参考書予備枠１７" BookTag="ITEM_BOOK_RECIPE_27"/>
+    <item_book BookName="参考書予備枠１８" BookTag="ITEM_BOOK_RECIPE_28"/>
+    <item_book BookName="参考書予備枠１９" BookTag="ITEM_BOOK_RECIPE_29"/>
+    <item_book BookName="参考書予備枠２０" BookTag="ITEM_BOOK_RECIPE_30"/>
+</Root>

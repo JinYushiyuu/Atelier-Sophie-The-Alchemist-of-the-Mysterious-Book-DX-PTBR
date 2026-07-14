@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template" viewer_visible="false"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" pos="10.00, 5.00, 0.00">
+		<!--***↓0715お休み追加 ***-->
+		<node name="sleep">
+			<node name="cursor">
+				<image name="cursor_u" style="gen_a17_calendar01_c_u" pos="594.00, 109.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="cursor_d" style="gen_a17_calendar01_c_d" pos="594.00, 432.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="cursor_l" style="gen_a17_calendar01_c_l" pos="399.00, 268.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="cursor_r" style="gen_a17_calendar01_c_r" pos="786.00, 268.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="select">
+				<image name="w01" style="gen_a17_win02_w02" pos="922.00, 244.00, 0.00" size_wh="234.00, 130.00, 0.00"/>
+				<image name="fram" style="gen_a17_win01_fram01" pos="934, 256, 0" size_wh="206, 107"/>
+				<image name="line_01" style="gen_a17_win01_line03" pos="955.00, 299.00, 0.00" size_wh="165, 7" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_02" style="gen_a17_win01_line03" pos="955.00, 338.00, 0.00" size_wh="165, 7" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="99" name="day_count" copy="TEXTCOLOR_BROWN" align="right" pos="982.00, 274.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="99" name="time_count" copy="TEXTCOLOR_BROWN" align="right" pos="1062.00, 274.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Days" name="text_day" copy="TEXTCOLOR_BROWN" align="left" pos="986.00, 274.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Hours" name="text_time" copy="TEXTCOLOR_BROWN" align="left" pos="1066.00, 274.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Rest" name="text" copy="TEXTCOLOR_BROWN" align="right" pos="1110, 313, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+		<anim_ctrl name="fade_anm">
+			<bind_node node="sleep" anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+</root>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+<root>
+	 <!-- 武器開始時 -->
+	<grp>
+		<eff timing="0.0" eff_no="609" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   1.0" r="128" g="255" b="128" a="100" />
+		<eff timing="0.0" eff_no="610" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   1.0" r="128" g="64" b="64" a="100" />
+		<eff timing="0.0" eff_no="642" pos_x="  639.0" pos_y=" 357.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   1.0" r="255" g="100" b="160" a="128" />
+		<eff timing="0.0" eff_no="365" pos_x="  639.0" pos_y=" 357.0" scale_x="700" scale_y="700" scale_z="700" emit_life="   1.0" r="128" g="128" b="128" a="64" />
+		<eff timing="0.0" eff_no="640" pos_x="  639.0" pos_y=" 357.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   1.0" r="255" g="255" b="255" a="128" />
+		<eff timing="0.0" eff_no="456" pos_x="  639.0" pos_y=" 357.0" scale_x="85" scale_y="85" scale_z="85" emit_life="   0.7" r="255" g="255" b="255" a="255" />
+		<eff timing="0.0" eff_no="456" pos_x="  639.0" pos_y=" 357.0" scale_x="90" scale_y="90" scale_z="90" emit_life="   0.7" r="255" g="255" b="255" a="255" />
+		<eff timing="0.0" eff_no="641" pos_x="  639.0" pos_y=" 357.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   1.0" r="255" g="255" b="255" a="128" />
+		<eff timing="0.0" se_no="307" vol="0.7" pitch="0.0"/>
+	</grp>
+	<!-- 武器成功 -->
+	<grp>
+		<eff timing="0.0" eff_no="601" pos_x="  639.0" pos_y=" 357.0" scale_x="5000" scale_y="5000" scale_z="200" emit_life="   0.1"  r="150" g="150" b="150" a="255" />
+		<eff timing="0.0" eff_no="27" pos_x="  639.0" pos_y=" 357.0" scale_x="500" scale_y="500" scale_z="200" emit_life="   0.1"  r="255" g="150" b="70" a="255" />
+		<eff timing="0.0" eff_no="403" pos_x="  639.0" pos_y=" 357.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+		<eff timing="0.0" eff_no="375" pos_x="  639.0" pos_y=" 357.0" scale_x="83" scale_y="83" scale_z="110" emit_life="   0.1" r="128" g="128" b="128" a="100" />
+		<eff timing="0.0" eff_no="130" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.1" r="255" g="140" b="60" a="255" />
+		<eff timing="0.0" eff_no="130" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.1" r="255" g="140" b="60" a="255" />
+		<eff timing="0.0" eff_no="209" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.1" r="128" g="128" b="128" a="128" />
+		<eff timing="0.0" eff_no="383" pos_x="  639.0" pos_y=" 357.0" scale_x="180" scale_y="180" scale_z="180" emit_life="   0.1" r="128" g="128" b="128" a="128" />
+		<eff timing="0.0" eff_no="34" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.1" r="255" g="255" b="255" a="255" />
+		<eff timing="0.0" eff_no="237" pos_x="  639.0" pos_y=" 357.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   0.1" r="255" g="255" b="255" a="255" />
+		<eff timing="0.0" eff_no="462" pos_x="  639.0" pos_y=" 450.0" scale_x="150" scale_y="150" scale_z="100" emit_life="   0.3" r="255" g="140" b="70" a="255" />
+		<eff timing="0.0" eff_no="462" pos_x="  639.0" pos_y=" 450.0" scale_x="150" scale_y="150" scale_z="100" emit_life="   0.3" r="255" g="140" b="70" a="255" />
+		<eff timing="0.0" eff_no="121" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="100" emit_life="   0.1" r="128" g="128" b="128" a="60" />
+		<eff timing="0.0" se_no="265" vol="1.0" pitch="0.0"/>
+	</grp>
+	 <!-- 防具開始時 -->
+	<grp>
+		<eff timing="0.0" eff_no="609" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   1.0" r="128" g="255" b="128" a="100" />
+		<eff timing="0.0" eff_no="610" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   1.0" r="128" g="64" b="64" a="100" />
+		<eff timing="0.0" eff_no="642" pos_x="  639.0" pos_y=" 357.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   1.0" r="255" g="100" b="160" a="128" />
+		<eff timing="0.0" eff_no="365" pos_x="  639.0" pos_y=" 357.0" scale_x="700" scale_y="700" scale_z="700" emit_life="   1.0" r="128" g="128" b="128" a="64" />
+		<eff timing="0.0" eff_no="640" pos_x="  639.0" pos_y=" 357.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   1.0" r="255" g="255" b="255" a="128" />
+		<eff timing="0.0" eff_no="466" pos_x="  639.0" pos_y=" 357.0" scale_x="85" scale_y="85" scale_z="85" emit_life="   0.7" r="255" g="255" b="255" a="255" />
+		<eff timing="0.0" eff_no="466" pos_x="  639.0" pos_y=" 357.0" scale_x="90" scale_y="90" scale_z="90" emit_life="   0.7" r="255" g="255" b="255" a="255" />
+		<eff timing="0.0" eff_no="641" pos_x="  639.0" pos_y=" 357.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   1.0" r="255" g="255" b="255" a="128" />
+		<eff timing="0.0" se_no="307" vol="0.7" pitch="0.0"/>
+	</grp>
+	<!-- 防具成功 -->
+	<grp>
+		<eff timing="0.0" eff_no="601" pos_x="  639.0" pos_y=" 357.0" scale_x="5000" scale_y="5000" scale_z="200" emit_life="   0.1"  r="150" g="150" b="150" a="255" />
+		<eff timing="0.0" eff_no="27" pos_x="  639.0" pos_y=" 357.0" scale_x="500" scale_y="500" scale_z="200" emit_life="   0.1"  r="60" g="150" b="255" a="255" />
+		<eff timing="0.0" eff_no="403" pos_x="  639.0" pos_y=" 357.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   0.1"  r="128" g="128" b="128" a="128" />
+		<eff timing="0.0" eff_no="375" pos_x="  639.0" pos_y=" 357.0" scale_x="83" scale_y="83" scale_z="110" emit_life="   0.1" r="128" g="128" b="128" a="100" />
+		<eff timing="0.0" eff_no="606" pos_x="  639.0" pos_y=" 357.0" scale_x="170" scale_y="240" scale_z="110" emit_life="   0.1" r="255" g="120" b="200" a="128" />
+		<eff timing="0.0" eff_no="130" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.1" r="60" g="140" b="255" a="255" />
+		<eff timing="0.0" eff_no="130" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.1" r="60" g="140" b="255" a="255" />
+		<eff timing="0.0" eff_no="209" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.1" r="128" g="128" b="128" a="128" />
+		<eff timing="0.0" eff_no="354" pos_x="  639.0" pos_y=" 357.0" scale_x="800" scale_y="800" scale_z="800" emit_life="   0.1" r="128" g="128" b="128" a="100" />
+		<eff timing="0.0" eff_no="383" pos_x="  639.0" pos_y=" 357.0" scale_x="180" scale_y="180" scale_z="180" emit_life="   0.1" r="128" g="128" b="128" a="128" />
+		<eff timing="0.0" eff_no="334" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.3" r="255" g="100" b="200" a="128" />
+		<eff timing="0.0" eff_no="604" pos_x="  639.0" pos_y=" 357.0" scale_x="250" scale_y="250" scale_z="250" emit_life="   0.3" r="128" g="128" b="128" a="64" />
+		<eff timing="0.0" eff_no="604" pos_x="  639.0" pos_y=" 357.0" scale_x="420" scale_y="420" scale_z="420" emit_life="   0.3" r="128" g="128" b="128" a="64" />
+		<eff timing="0.0" eff_no="35" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.6" r="128" g="10" b="10" a="128" />
+		<eff timing="0.0" eff_no="121" pos_x="  639.0" pos_y=" 357.0" scale_x="200" scale_y="200" scale_z="100" emit_life="   0.1" r="128" g="128" b="128" a="60" />
+		<eff timing="0.0" se_no="265" vol="1.0" pitch="0.0"/>
+	</grp>
+</root>

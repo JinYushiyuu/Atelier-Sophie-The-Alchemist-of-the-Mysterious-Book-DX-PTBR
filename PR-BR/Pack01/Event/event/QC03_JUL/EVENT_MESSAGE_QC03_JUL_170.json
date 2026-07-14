@@ -1,0 +1,44 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_JUL_170.ebm",
+    "nb_messages": 0x4,
+    "messages": [
+        {
+            "type": 0x5,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "unknown2": 0x2,
+            "msg_string": "GAAAAH..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Nazarus is still out of control..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "If we don't administer the medicine soon, his life will be in danger. We need to stop him this time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "Yes. Nazarus, this time, I shall save you!"
+        }
+    ]
+}

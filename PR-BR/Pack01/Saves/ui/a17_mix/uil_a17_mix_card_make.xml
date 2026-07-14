@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root pos="0,0">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓アニメーションxmlの読み込み-->
+		<command load_anim="Saves/ui/uia_common.xml"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 192.00, 192.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="true">
+		<node name="OriginalCard" visible="false" viewer_visible="true" pos="497, 284, 0">
+			<image name="itembg" style="gen_a17_item_info01_itembg02" pos="-96.00, -96.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="ProductionImage" style="etc_a17_item_l" pos="-50.00, -50.00, 0.00" size_wh="100.00, 100.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<!--★カードを追加する対象のノード想定-->
+	<node name="Cards" viewer_visible="false" visible="true"/>
+</root>

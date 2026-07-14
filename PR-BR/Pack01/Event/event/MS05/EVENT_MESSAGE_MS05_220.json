@@ -1,0 +1,61 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MS05_220.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x49,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Alright, it's done."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "That's an \"Eye of Mercury\"."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Yeah. I wanted to know more details about materials and the items I Synthesize."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "If I recall, this item will allow you to properly gauge the quality of such things."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Yeah. Now I'll be able to analyze and fine tune my Synthesis even more."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "The Eye of Mercury allows you to see a numeric value for item quality."
+        }
+    ]
+}

@@ -1,0 +1,770 @@
+{
+    "name": "PACK02_02.pak",
+    "version": 0x20000,
+    "header_size": 0x10,
+    "flags": 0xd,
+    "nb_files": 0xbe,
+    "64-bit": false,
+    "files": [
+        {
+            "name": "\\Data\\Win32\\Ipu\\logo_gust.g1t",
+            "key": "9c4283dadbbc4e85200bd47a513f34c3c5c9b6cc"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\logo_kt.g1t",
+            "key": "50ae589411d7c5dd96ad1991043ca6c34dd52ddc"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_1.g1t",
+            "key": "ec11153157ff8944f4ef589b7dab29158618a5ae"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_2.g1t",
+            "key": "4788318c22fe25e8de00fda7da018a76ab3ba5c2"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_3.g1t",
+            "key": "e081dfae9a19099d86ad424e18f4a878f569dbdd"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_4.g1t",
+            "key": "a458cb7caac7e9bd489839b3487afb57ccdd6542"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_5.g1t",
+            "key": "406342237be2133ffafd596eab892f8541080a55"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_6.g1t",
+            "key": "9bcbe098db6c4e9e1a1504cf14fd764a781fb317"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_7.g1t",
+            "key": "efd8a5d0ea366038dff8f1ba2de3ade20d92228f"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_8.g1t",
+            "key": "f1b8c0b69019246d8f2a8664242eecd00468b47d"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_A1.g1t",
+            "key": "6089b800d2c360dbdff55a0b938fe478d52b0953"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_A2.g1t",
+            "key": "528ce1dafeb7368fae0aaa0f32c5387f32b9475c"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_A3.g1t",
+            "key": "044e41ae89e1043f2a8b5ba76e498ad21071a629"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_A4.g1t",
+            "key": "76dbb26b1f9aae4cd5e8b89504d5834e90bb756c"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_A5.g1t",
+            "key": "4d571ba0271bce136088c3710bb5d8e2cb141466"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_B1.g1t",
+            "key": "101277c141a49fec4812bfb72441d2734dea9b90"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_B2.g1t",
+            "key": "400690f15085ef872fd820649ffd75f29c404ad1"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_B3.g1t",
+            "key": "6f1fa396dacf679fce2ba09fd8f3282c7396a1e1"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_B4.g1t",
+            "key": "c18b4ef6ea43a6b5b27f722217047949c583c9a9"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_battle_B5.g1t",
+            "key": "8ad3b8ffad9c79f8daf21ebd4f4f4153c7d4f5ef"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_canashop_1.g1t",
+            "key": "f9e044c23a8510efe65c7b915f55c66217bf9522"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_canashop_2.g1t",
+            "key": "4bd9462e15965058f6b23096c90ccad37dfcd18f"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_canashop_3.g1t",
+            "key": "241cb8a6459ba0a23887eaa2fd226b21072eceba"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_canashop_4.g1t",
+            "key": "4a2b8fad556c439adebba1e0162a97cdb57a1184"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_clip_1.g1t",
+            "key": "e61fce263603ae6856a3a1e61306e0653d5a20f0"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_itemequip_1.g1t",
+            "key": "b7f9a6910609581b2160fa929f6d8cc775a58f9d"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_itemequip_2.g1t",
+            "key": "2cb72d1d3b766bdd7fbfd8851c8c14a3b12c28d1"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_quest_1.g1t",
+            "key": "fef368ca9473d1c635463ec0cdd86ef0bccb154c"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_quest_2.g1t",
+            "key": "2f6360f562f55c4d5fb9bc0d41f5015f0d445502"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_quest_3.g1t",
+            "key": "6e51f82f8fa626d124efafe171ce01424848071a"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_quest_4.g1t",
+            "key": "7a004c0cd6bfde0da631de6d20c89e27dee2b223"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_recipe_1.g1t",
+            "key": "b74f0c90aa3caec70ff6622faf4ad4bb6ca6a573"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_recipe_2.g1t",
+            "key": "f579e2649fa58d68d77d1f89d52214908179e31c"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_search2_1.g1t",
+            "key": "22abbe1a6dda6ef307db13ef8ca10e1c26729e03"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_search2_2.g1t",
+            "key": "e31375452f81bf0a1c40dd713c64d8f2d046560a"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_search2_3.g1t",
+            "key": "728a64393d80f8a41ef0d7e32bac011546429cde"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_search_1.g1t",
+            "key": "ba2f10fb7cfc5294ba3d306636ca1edf7467450f"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_search_2.g1t",
+            "key": "4aedc7ee4f707e4b325f3a90d23fc3390f348207"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_search_3.g1t",
+            "key": "5bf7fcfd260ae753d9f7745a04f98aea1f40a4ea"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_spequip_1.g1t",
+            "key": "920b7735b6721843783793bb2d3352798317ed4c"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_time_1.g1t",
+            "key": "d6eef03dd55241c7483c23c2f51bc48cf2e17736"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_tmap_1.g1t",
+            "key": "4b2397cf64ab268c9f030b349e3eb52ebae817eb"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_tmap_2.g1t",
+            "key": "6fb2ef0babfca58924d2da63799d84f7ab3add16"
+        },
+        {
+            "name": "\\Data\\Win32\\Ipu\\tu_week_1.g1t",
+            "key": "f3606ea93860832568fd9dde565375bab509a5f2"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_battle.g1t",
+            "key": "3480b7091fd7b1fbc66a15d60fb61652301b3a6b"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_battle_damagelette01.g1t",
+            "key": "c24b77a7415d3bba72d1beb1a821fbb5d9af750e"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_battle_damagelette02.g1t",
+            "key": "147fa0abaeda0998c5e8a9e683cc3024e856a662"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_battle_damagelette03.g1t",
+            "key": "16dd022187b2f1d3ae82052206d48914f3f6933b"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_cabinet.g1t",
+            "key": "5aa7c7aead22b7321f00f430b596d455cd723bc8"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_calendar.g1t",
+            "key": "ca6e837e2fd5f72b5a0ae38ee08083558a2526d1"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_charabig_image00.g1t",
+            "key": "6d540b796b70e83ac6008d0c4823c280507f0448"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_charabig_image01.g1t",
+            "key": "601215ec8552b463c973adac645063fe230a686e"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_charabig_image02.g1t",
+            "key": "2448fb4eb35913eb59d5822cde6180cc046e1a51"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_charabig_image03.g1t",
+            "key": "4f4352c5dc35fa6c7ce0a1794e8bde5ab90e2688"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_charabig_image04.g1t",
+            "key": "205e1ae77d154b996270a787a738b7bca1f0b026"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_charabig_image05.g1t",
+            "key": "ddabccbb7c11b376ae848dd12845da6c30828784"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_chara_name.g1t",
+            "key": "2c4b26b0d0cd90a982aec86d77cc044534d46d6e"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_dollmake.g1t",
+            "key": "274269d4c8671bc36aad09a54c8e80972ca833e8"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_event.g1t",
+            "key": "56c142b88ffc65251b0ce258cb13b7167b9bf9c3"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_extra.g1t",
+            "key": "30b09561cd76ef926346da960adb449ac875c09d"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_field.g1t",
+            "key": "9e96ad8527a9e50b50f12ea9caf1305954e36f8a"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_000.g1t",
+            "key": "f420d944a90914d2d75df260ec7d7866198c3487"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_001.g1t",
+            "key": "6a36a926478b692e6dc21aecafd3599e66165c75"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_002.g1t",
+            "key": "2d7d02776c0737ad4559ccfe74fa9a28497d4e49"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_003.g1t",
+            "key": "25502c8695890256ff1decb7cf82f7ddb7e04bc3"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_004.g1t",
+            "key": "d3b5c9e94b971a575a7df738e0ea913633cd2489"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_005.g1t",
+            "key": "11343063fb34a3b4237e201216760c47785425d2"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_006.g1t",
+            "key": "ecf78d168aa2db77353dd709f617c68f1cc489fc"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_007.g1t",
+            "key": "1d817be4d0be6f62a3ba85908d0e1fdbe09a22a8"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_008.g1t",
+            "key": "97e95bab201e0469adfdad343ee4f6ee709f2508"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_009.g1t",
+            "key": "172156f182d88dc053c1f6fcc99e1421ddf83bda"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_010.g1t",
+            "key": "d6f16c4ad15f32d8f83c247b88d91e5038c634ee"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_011.g1t",
+            "key": "e31271f3c2f92d2a5108b97cdd9f7dd3822f22f0"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_012.g1t",
+            "key": "4b215b54c21d4240d4281212d5335d16cbe3b3b8"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_013.g1t",
+            "key": "5eba65888d9e20caf7a64b2c8966bda6a608c55f"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_014.g1t",
+            "key": "5dfdad3124dd8e1c3f1886a49ba22f7ddc2d750e"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_015.g1t",
+            "key": "2d20e5cc0335ca978268322dd2a33ab21bdddb29"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_016.g1t",
+            "key": "c1656c039b87d8b6e68cee53dc0247bf0649d382"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_017.g1t",
+            "key": "7cfa4dfda98bc521d262dc5764f7a166af055686"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_018.g1t",
+            "key": "0e9227627ba52913faaa1f4f1dabfc45ad8e4d51"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_019.g1t",
+            "key": "531cf72d0417de0fa7b0f72b6a9127c707bd26f2"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_020.g1t",
+            "key": "aa932a0f3e4a32ad13b60d43fdcd274081def305"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_021.g1t",
+            "key": "6a614c55e7b5abd08a78ca061dbace64473c1c47"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_022.g1t",
+            "key": "537b34244b9f5c80273aed53ee44f011fa7f59a2"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_023.g1t",
+            "key": "8b76f47ef9cce6ef29a5c8746869bc37b86cf727"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_024.g1t",
+            "key": "4b5669bd272e59cbe37a7c373b253c63db6253a1"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_025.g1t",
+            "key": "cd8b13f1051185066789388149b1c5b87a1672ed"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_026.g1t",
+            "key": "14601a0d38885b479872348c70d45bb5c0dc6d47"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_027.g1t",
+            "key": "3749fc4a6e79ee86bcf21cf94ace8edb31ac42be"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_028.g1t",
+            "key": "3d0d55e37e3ebae0d0b2464b6ea7daeea7a5a458"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_029.g1t",
+            "key": "5d1d4a2ba79b7019e617a340195ecad54a9a3669"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_030.g1t",
+            "key": "008732393b296a4cb3e44049d794938feb07dd34"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_033.g1t",
+            "key": "89dd88d760b055144cd9584ef5e507276de0e1b7"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_034.g1t",
+            "key": "86aa8664ba3eaa89d6bc9ccfec01ecf0b53ae50f"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_035.g1t",
+            "key": "ee47d66fb89397d73a4cd43c14b88eaf5c96f289"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_036.g1t",
+            "key": "222ceacc2182a7b2fdb1031cd4da5d32ada97b3d"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_037.g1t",
+            "key": "7c81bb2f2bf349301ebaf93c84c3793ec2c85a0e"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_038.g1t",
+            "key": "acc3583d0ca12138acc4f3b6dece6b82c8f7a10e"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_039.g1t",
+            "key": "4255e4143d4e74822d7d118c4165d1532b61915b"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_040.g1t",
+            "key": "16e8a368547d8f69626a480fcacd04b45965efd4"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_041.g1t",
+            "key": "e70e9c8cf9eb7296083228d7beeadf2ecb3cf3b1"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_042.g1t",
+            "key": "3a127b0832ae2317e4d9af07962bec570c572e40"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_043.g1t",
+            "key": "73f25413783acf36b18876f190d25e2c530ae6e1"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_044.g1t",
+            "key": "6f1a654707fa0544a62e6094a8ecf9446e670c7c"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_045.g1t",
+            "key": "206dd96e32b1a28aae2e8c988de9d578591ebc28"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_046.g1t",
+            "key": "0614223cf3eecc1ee4541bc14fa8dbb559957bca"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_047.g1t",
+            "key": "8288d250f12cfb73fd6100ce8b789f0961c1e5ee"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_048.g1t",
+            "key": "f848f1343ede4d3038b17f2425f2023eae93d0ca"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_049.g1t",
+            "key": "bead8fe72025ff630c7ee5c4b07c20733300bdc5"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_050.g1t",
+            "key": "d97b5b7f571c2930405acc9e0cd875af477e23cd"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_051.g1t",
+            "key": "bfd280927ef2bda1249c278d68fc4e089e672a21"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_052.g1t",
+            "key": "b0ace63e80da7a77be111634fa82909743c1ee7a"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_053.g1t",
+            "key": "1128ffff08fa5f889883161f195dc9ba45572ade"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_054.g1t",
+            "key": "1da00c71b331392ed74e54ccdb87033d708d85eb"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_055.g1t",
+            "key": "a898dcf091251b3dc5e6806f9dcab6791ac36f07"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_056.g1t",
+            "key": "877df0c056b9067deb6a9f1b10c35734d62be6dc"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_057.g1t",
+            "key": "d25b25231e9e4f724b96a14d39a0073ca374bc51"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_058.g1t",
+            "key": "f7906abc6fae878819c519afc2c85a0cc6ac7186"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_059.g1t",
+            "key": "c60539078b6b6f6b855fdacb842b43af655c8ef5"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_060.g1t",
+            "key": "1e9615a304349424b33b1e2614b401dd97d81df0"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_061.g1t",
+            "key": "5e65f97b2bb3368fa1d4721116e886a80a8d9b45"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_062.g1t",
+            "key": "a6251dfdbefac6bc3f35f27fd1d30cf6ecac468a"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_063.g1t",
+            "key": "bfec4a023307ab76fa1260955d788b77df4e8796"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_064.g1t",
+            "key": "a714498bb88e400a60f1426016a2d1af09108468"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_065.g1t",
+            "key": "0cac5c11407962579586e7bbb0f1695e080317c7"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_066.g1t",
+            "key": "cd49664158c2ff38ae7714ac1b407c1e8449d2e8"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_067.g1t",
+            "key": "7a221cb3933c81cd86eceb0e100e53cd0e3ba2f8"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_068.g1t",
+            "key": "3d2879f52461527dda2ba7a8d369bfe33cb70b6f"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_069.g1t",
+            "key": "7966cc8e6c3ca4d561ca7362e107cbee51d593b5"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_070.g1t",
+            "key": "ed5e9f4c4c3cd68e5d0f7be5161f61451634957a"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_071.g1t",
+            "key": "2ae307e686881d7c489e250ab187f0ae928a05db"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_072.g1t",
+            "key": "f4cb29750a7756470015811241aab7f035e5c69b"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_073.g1t",
+            "key": "192172dc74d8ebe780ba8b2a39af7c16a22058c6"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_074.g1t",
+            "key": "84ad19c878aa5831b8c5325a1fd86f698322b751"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_075.g1t",
+            "key": "f929f6efd3595045464a1993229bda312b868115"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_076.g1t",
+            "key": "c799caf963c96d5453f2a2d414d5b1def6ea8f17"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_077.g1t",
+            "key": "2594c7d722fd00b80cf2a24fc555bc8cd6bf6a9d"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_078.g1t",
+            "key": "ba3ef7129e396b2d86a2240bfbdae65b0ae03814"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_079.g1t",
+            "key": "e83654142c57fd45503223ac8156f4617262c97a"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_080.g1t",
+            "key": "bb172f3175dad09b19faedb8dc502098e7f9b6b8"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_081.g1t",
+            "key": "70b331be8bcb050d311d501cee2aff31e87b92f2"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_082.g1t",
+            "key": "1e6731fb544103c3f132673b66e08fd00bcabaf6"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_083.g1t",
+            "key": "fc5d3f0a97b46dc61fe3b4f1920f293d3c3881cd"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_084.g1t",
+            "key": "c30d92af6d0aae1182e3c5a38e306f9029d79f9a"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_085.g1t",
+            "key": "34922e19443c9d64faa722584dfc40a7a9a05e3e"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_086.g1t",
+            "key": "f226b977c5a524836963f2d6db8feb22812d59f2"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_087.g1t",
+            "key": "f2727d4721c9a869d2c800f1d1155c5fe289b56b"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_088.g1t",
+            "key": "272a5765ac5e784462fae1955b3072ad6721d0d5"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_089.g1t",
+            "key": "f714a2ced34dbc1a0ef837f312c3d4e985ed2435"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_090.g1t",
+            "key": "099e3144712da1e13c66eb0e6b90717be6175e13"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_091.g1t",
+            "key": "fbc34267579ed737134e87d31bc3370884f45e4e"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_092.g1t",
+            "key": "48f1214bf46437c0029b96dabe6e37a2446fb3df"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_093.g1t",
+            "key": "0ace5f06ac7b4f064fef100c5babf2a5584c2541"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_094.g1t",
+            "key": "5f13a3eacc2ef39cd699c85c8422450f5529ecd7"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_095.g1t",
+            "key": "8ccb37482e6a973d86c6abc7be5ab1a3ec06016d"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_096.g1t",
+            "key": "094c92a5eace842b4863aa074563a4d7a69542e2"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_097.g1t",
+            "key": "859e576b8a6744664e86d8e659e5235070381d16"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_098.g1t",
+            "key": "33bf7ef95a485c68811b6f85da20e54bcda2f03c"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_099.g1t",
+            "key": "4d4ed16e804ef7bce737aeb8dd5a54e0e3e3d000"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_100.g1t",
+            "key": "c79a619fa28a931f59b5c6f1ab0d26e1eb2b7538"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_101.g1t",
+            "key": "68e1845c79481192e147431efc7329fca294d485"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_102.g1t",
+            "key": "5637b0788eb984d48fadf510fa66ac774da40100"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_103.g1t",
+            "key": "1c7c13705571672225cabd16d7377fa92704af66"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_104.g1t",
+            "key": "d8faf1bf84c34c3643d985199528165558442ec7"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_105.g1t",
+            "key": "624b248632f82d58f4e02ae7f22b74bcbc1e20e0"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_106.g1t",
+            "key": "06ced7c320557ad37b019ac9a86da97e10de027d"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_107.g1t",
+            "key": "09b70e7b55d859f253cc8f4b0e9fb2109e9aba1b"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_108.g1t",
+            "key": "0fc3461b7e25dfcb9e7befd0603c3fb3455868c6"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_109.g1t",
+            "key": "9efae6eb0df5af2bca8456c0c20452d86bec6a11"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_help_image_110.g1t",
+            "key": "c18b31a1db6d800b4db0d0dbd910cc2a40a8db6d"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_item_info.g1t",
+            "key": "3c44fb1af5393e3d54a7483733613ca38c1de0d3"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_library.g1t",
+            "key": "0da35fb83dacd6ed1fa5589751bef1dffc5797c5"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_loading.g1t",
+            "key": "ad81f994b529418929cbaacd05e6adb8f6d5660e"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_main_caption.g1t",
+            "key": "484470da4e4efa60ec4a3f4a85643eeb698a37f3"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_main_menu.g1t",
+            "key": "461e8654e9c02853148ac8b9ca73492dc54130ad"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_menu_status.g1t",
+            "key": "360df53bf1be59b7e113f743e4112f69de00d827"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_mix.g1t",
+            "key": "d2855a91f0ef2bd6771abe9695eccf31996fea09"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_recipe.g1t",
+            "key": "1c7ec1c7fa701fa6c5599042bb21d0ea515454be"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_request.g1t",
+            "key": "d4623355691c500653ce1cd1645f1a691aa5cb93"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_saveload.g1t",
+            "key": "8243d44768fe76b4939c459cc04e3b4c2533f248"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_shop.g1t",
+            "key": "1043af076762ec6b71093fac3b33239dd7b54948"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_sub_status.g1t",
+            "key": "478b63e8c2b6a35eef3da86d79c76c17ee3cad2e"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_system.g1t",
+            "key": "c4bac4247633f42f9a57ed18906827fed2b8ba61"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_telop01.g1t",
+            "key": "b59e12aea5174005d876b01d963f16b7d4096bb4"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_telop02.g1t",
+            "key": "55c745435edd5330a50f101dd9965ca3b50e93b4"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_title.g1t",
+            "key": "d80bc722ef10d004c16d52051f33a4b9e4433a4f"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_townmap.g1t",
+            "key": "222db0eda7f64b0646c20addcb4009628a813acd"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_window.g1t",
+            "key": "868809af015e13771c92d8d09ad6bfcdb8e43020"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\a17_w_shop.g1t",
+            "key": "47c0a1cbbf4824ed09b30b28a731494305cbd621"
+        },
+        {
+            "name": "\\Data\\Win32\\ui\\mouse_cursor.g1t",
+            "key": "e8265fe66a17f0f032ad22dcb54d757c5ba355d5"
+        }
+    ]
+}

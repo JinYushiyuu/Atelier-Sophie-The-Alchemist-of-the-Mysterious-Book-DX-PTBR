@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<node name="item" load="Saves/ui/_a17_line_format/uil_a17_lf_mix_esp_sel.xml"/>
+		<node name="list" load="/Saves/ui/_a17_menu_templates/uil_a17_mt_mix_esp_sel.xml"/>
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="true">
+		<node name="information" pos="65, 469, 0" viewer_visible="false">
+			<image name="w01" style="gen_a17_win02_w01" pos="-1.00, 5.00, -0.00" size_wh="412, 194" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="w01_1" style="gen_a17_win02_w01_acce01" pos="22, 15, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="あいうえおかきくけこさしすせそなにぬねのあいうえおかきくけこさしすせそなにぬねのあいうえおかきくけこさしすせそなにぬねの" name="information_text" color="53.00, 19.00, 0.00, 255.00" pos="41.00, 47.00, -0.00" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="-1.50" line_char_length="15" line_space="10.00"/>
+		</node>
+		<node name="material" viewer_visible="true" pos="37.00, -46.00, 0.00">
+			<image name="w02" style="gen_a17_win01_w04" pos="25.00, 187.00, -0.00" size_wh="346, 320" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<menu name="menu" style="common_menu_a17_mix_esp_list" pos="11.00, 165.00, 0.00" selected_font_color="175.00, 115.00, 0.00, 255.00">
+				<node name="node" clone_tree="item"/>
+				<node name="node" clone_tree="item"/>
+				<node name="node" clone_tree="item"/>
+				<node name="node" clone_tree="item"/>
+				<node name="node" clone_tree="item"/>
+				<node name="node" clone_tree="item"/>
+				<node name="node" clone_tree="item"/>
+				<node name="node" clone_tree="item"/>
+			</menu>
+			<node name="FIX_line" viewer_visible="true">
+				<image name="line01" style="gen_a17_win01_line01" pos="56.00, 216.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="268, 2"/>
+				<image name="line01_1" style="gen_a17_win01_line01" pos="56, 255, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="268, 2"/>
+				<image name="line01_2" style="gen_a17_win01_line01" pos="56, 292, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="268, 2"/>
+				<image name="line01_3" style="gen_a17_win01_line01" pos="55, 333, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="268, 2"/>
+				<image name="line01_4" style="gen_a17_win01_line01" pos="54, 370, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="268, 2"/>
+				<image name="line01_5" style="gen_a17_win01_line01" pos="54, 407, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="268, 2"/>
+				<image name="line01_6" style="gen_a17_win01_line01" pos="56, 448, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="268, 2"/>
+			</node>
+			<node name="number" pos="36, 217, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="number01" style="gen_a17_mix02_number01" pos="10.00, 232.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="number02" style="gen_a17_mix02_number02" pos="105.00, 232.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="number03" style="gen_a17_mix02_number03" pos="200.00, 232.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+		<node name="ok_1" viewer_visible="false" pos="1.00, -37.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+			<image name="w02" style="gen_a17_win01_w02" pos="959.00, 394.00, 0.00" size_wh="295.00, 174.00, 0.00"/>
+			<image name="light" style="gen_a17_win01_hl" pos="979, 434, 0" size_wh="233.00, 38.00, 0.00" viewer_visible="false"/>
+			<text text="This is OK" name="text_21" color="53.00, 19.00, 0.00, 255.00" pos="986.00, 441.00, 0.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-1.00"/>
+			<text text="Redo" name="text_22" color="53.00, 19.00, 0.00, 255.00" pos="986.00, 486.00, 0.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-1.00"/>
+		</node>
+	</node>
+</root>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template" viewer_visible="false"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="calender" visible="false" viewer_visible="true" pos="-19.00, -8.00, 0.00">
+			<!--***↓0716_依頼警告追加 ***-->
+			<node name="request" pos="154.00, -8.00, 0.00" pivot_enable="true" rot="0.00, 0.00, -180.00" pivot_pos="0.00, 110.00, 0.00">
+				<image name="request_bg" style="gen_a17_calendar01_request_bg" pos="-16.00, 91.00, 0.00" size_wh="104.00, 101.00, 0.00"/>
+				<text text="6" name="request_text" pos="38.00, 140.00, -0.00" bold_color="255.00, 174.00, 0.00, 255.00" bold_size="1.00" font_color="252.00, 255.00, 0.00, 255.00"/>
+			</node>
+			<!--***↓0716_日数追加 ***-->
+			<node name="week_count" pos="154.00, -8.00, 0.00" pivot_enable="true" pivot_pos="0.00, 70.00, 0.00" rot="0.00, 0.00, 180.00">
+				<image name="week_count_bg" style="gen_a17_calendar01_week_bg" pos="-2.00, 1.00, 0.00"/>
+				<text text="99" name="day_text" font="A17_WEEK_COUNT" word_space="-13.00" pos="51.00, 32.00, 0.00" align="right"/>
+			</node>
+			<image name="a17_calendar01_clockface" style="gen_a17_calendar01_clockface" pos="33.00, 9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="time_view" style="gen_a17_calendar01_time" pos="30, 28, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+			<node name="a17_calendar01_clockhand" pos="93.00, 71.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="clock_hand" style="gen_a17_calendar01_clockhand" pos="-42.00, -44.00, 0.00" pivot_enable="true" pivot_pos="44.00, 44.00, 0.00" rot="0.00, 0.00, 0.00"/>
+			</node>
+			<node name="a17_calendar01_week" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="26.00, 11.00, -0.00">
+				<image name="day_of_the_week_disp" style="gen_a17_calendar01_week" pos="-72.00, -72.00, 0.00" pivot_enable="true" pivot_pos="72.00, 72.00, 0.00" rot="0.00, 0.00, 0.00">
+					<!--***↓曜日 ***-->
+					<node name="weekday" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="week0" pos="81.00, 76.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day"/>
+						<image name="week1" pos="83, 42, 0" rot="-0.00, -0.00, -72.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="1" pivot_enable="true" pivot_pos="14.00, 16.00, 0.00"/>
+						<image name="week2" pos="53, 28, -0" rot="-0.00, -0.00, -144.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="2" pivot_enable="true" pivot_pos="13.33, 16.00, 0.00"/>
+						<image name="week3" pos="32, 53, 0" rot="-0.00, -0.00, -216.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="3" pivot_enable="true" pivot_pos="13.33, 16.00, 0.00"/>
+						<image name="week4" pos="45, 84, 0" rot="0.00, 0.00, -288.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="4" pivot_enable="true" pivot_pos="13.33, 16.00, 0.00"/>
+					</node>
+				</image>
+			</node>
+			<!--***↓曜日のしめす用 ***-->
+			<node name="week_clockhand" pos="-19.00, -33.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="week_clockhand" style="gen_a17_calendar01_week_ch" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 0.00, 0.00"/>
+			</node>
+			<image name="a17_calendar01_clockframe" style="gen_a17_calendar01_clockframe" pos="-34.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<!--***↓時計の蓋 ***-->
+			<image name="cover" pos="21.00, 9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_cover" visible="false"/>
+		</node>
+		<!--***↓0715中央に来た際の場当たりなので後々消してください。 ***-->
+		<node name="calender_1" visible="false" viewer_visible="true" pos="531, 239, 0">
+			<!--***↓0716_依頼警告追加 ***-->
+			<node name="request" pos="154.00, -8.00, 0.00">
+				<image name="request_bg" style="gen_a17_calendar01_request_bg" pos="-16.00, 91.00, 0.00" visible="false" viewer_visible="true" size_wh="104, 101"/>
+				<text text="6" name="text" pos="38.00, 140.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" bold_color="255.00, 174.00, 0.00, 255.00" bold_size="1.00" font_color="252.00, 255.00, 0.00, 255.00"/>
+			</node>
+			<!--***↓0716_日数追加 ***-->
+			<node name="week_count" pos="154.00, -8.00, 0.00">
+				<image name="week_count_bg" style="gen_a17_calendar01_week_bg" visible="false" viewer_visible="true" pos="-2, 1, 0"/>
+				<text text="99" name="text_1" font="A17_WEEK_COUNT" word_space="-13.00" pos="51.00, 32.00, 0.00" align="right"/>
+			</node>
+			<image name="a17_calendar01_clockface" style="gen_a17_calendar01_clockface" pos="33.00, 9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="time_view" style="gen_a17_calendar01_time" pos="30, 28, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+			<node name="a17_calendar01_week" pos="26, 11, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="day_of_the_week_disp" style="gen_a17_calendar01_week" pos="-72.00, -72.00, 0.00" pivot_enable="true" pivot_pos="72.00, 72.00, 0.00" rot="0.00, 0.00, 0.00">
+					<!--***↓曜日 ***-->
+					<node name="weekday" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="week0" pos="81.00, 76.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day"/>
+						<image name="week1" pos="86, 44, 0" rot="-0.00, -0.00, -72.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="1" pivot_enable="true" pivot_pos="14.00, 16.00, 0.00"/>
+						<image name="week2" pos="55, 29, -0" rot="-0.00, -0.00, -144.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="2" pivot_enable="true" pivot_pos="13.33, 16.00, 0.00"/>
+						<image name="week3" pos="30, 57, 0" rot="-0.00, -0.00, -216.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="3" pivot_enable="true" pivot_pos="13.33, 16.00, 0.00"/>
+						<image name="week4" pos="49.00, 83.00, 0.00" rot="0.00, 0.00, -288.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="4" pivot_enable="true" pivot_pos="13.33, 16.00, 0.00"/>
+					</node>
+				</image>
+			</node>
+			<!--***↓曜日のしめす用 ***-->
+			<node name="week_clockhand" pos="-18.00, -36.00, 0.00">
+				<image name="week_clockhand" style="gen_a17_calendar01_week_ch" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 3.00, 0.00"/>
+			</node>
+			<image name="a17_calendar01_clockframe" style="gen_a17_calendar01_clockframe" pos="-34.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="a17_calendar01_clockhand" pos="93.00, 71.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="clock_hand" style="gen_a17_calendar01_clockhand" pos="-42.00, -44.00, 0.00" pivot_enable="true" pivot_pos="44.00, 44.00, 0.00" rot="0.00, 0.00, 0.00"/>
+			</node>
+			<!--***↓時計の蓋 ***-->
+			<image name="cover" pos="21.00, 9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_cover" visible="false"/>
+		</node>
+	</node>
+</root>

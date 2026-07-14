@@ -1,0 +1,43 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_JUL_110.ebm",
+    "nb_messages": 0x4,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0xd,
+            "msg_id": 0x0,
+            "msg_string": "Okay, I need to do my best to Synthesize this for Nazarus."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "That's right. If we leave him in that condition, his life will be in danger as it saps his vitality."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "He shouldn't run out of strength anytime soon, but... We should still hurry."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0xd,
+            "msg_id": 0x3,
+            "msg_string": "Yeah, we can't relax right now."
+        }
+    ]
+}

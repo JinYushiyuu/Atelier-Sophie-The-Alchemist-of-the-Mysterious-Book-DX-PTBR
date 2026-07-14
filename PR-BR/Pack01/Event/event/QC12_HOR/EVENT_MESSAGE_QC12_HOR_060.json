@@ -1,0 +1,203 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_HOR_060.ebm",
+    "nb_messages": 0x16,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x118,
+            "name_id": 0x13,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Thank you very much, as always."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Thank you too, for always supporting my shop."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x118,
+            "name_id": 0x13,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "How's this year's selection?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "The flavors seem to be deeper and more complex than usual."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x118,
+            "name_id": 0x13,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Now that sounds enjoyable."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hello."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Ah, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x118,
+            "name_id": 0x13,
+            "extra_id": 0x42,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "Welcome, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Mr. Horst, are you delivering something today?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Yes. I was delivering alcohol as a courtesy gift."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "This year's turned out very well. It would seem God looked favorably upon us."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Alcohol, huh. What does it taste like, anyway?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Well... That's difficult to explain."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x118,
+            "name_id": 0x13,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hahaha. You'll understand when you're older, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Grr, adults are always like this, it's unfair..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "Adults have their own troubles to worry about. For some, alcohol helps wash away the weariness of the day."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Kids get tired, too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x118,
+            "name_id": 0x13,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Hahaha, Sophie's gotten pretty sharp."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "I suppose if doing proper work defines adulthood, then Sophie has already grown up."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "That's right. I'm working, too. So that means it's okay for me to drink too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x3f,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "No, you can't."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "I'm not saying that because I want to drink, anyway. It's fine."
+        }
+    ]
+}

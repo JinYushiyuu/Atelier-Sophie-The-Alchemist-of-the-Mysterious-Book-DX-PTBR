@@ -1,0 +1,105 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM09_130.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Sophie... You seem to have a relieved look on your face?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Ehehe, really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Yes. Lately, you always looked like you were worried about something."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "I thought that it wasn't like you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Huh? I was making a face like that?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Yes, you were. I've seen you ever since you were a little baby, I would know when something's wrong."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "But... It seems like you solved the problem?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Yes! I did!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "I see, that's good. Come back and buy vegetables anytime, okay?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "I'll give you a special discount."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Mrs. Marguerite... Thank you! I'll definitely come shopping again!"
+        }
+    ]
+}

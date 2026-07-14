@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="chara_frame" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="bg_frame">
+				<image name="phbg02" style="gen_a17_menustatus03_phbg02" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="photo_bg" style="gen_a17_sub_status01_photoback" pos="34.00, 46.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="markbg" style="gen_a17_menustatus01_markbg" pos="44.00, 55.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<image name="chara_image" style="gen_a17_sub_status01_ph01" pos="42.00, 56.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true"/>
+			<image name="lock" style="gen_a17_menustatus01_tag" pos="101.00, 19.00, 0.00" viewer_visible="false" visible="false"/>
+			<image name="cursor" style="gen_a17_win03_hl" pos="21.00, 32.00, -0.00" size_wh="208.00, 177.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<feed name="feed" pos="22, 25, 0"/>
+				<anim_ctrl name="blink" loop="true" play="true">
+					<bind_node anim="anm_common_cursor_blink" node="."/>
+				</anim_ctrl>
+			</image>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="formation">
+			<node name="bg">
+				<image name="line" style="gen_a17_menustatus01_line" pos="246, 373, 0" size_wh="202.00, 42.00, 0.00"/>
+				<image name="line_8" style="gen_a17_menustatus01_line" pos="349.00, 307.00, 0.00" size_wh="202.00, 42.00, 0.00" rot="0.00, 0.00, 90.00"/>
+				<image name="circlebg" style="gen_a17_recipe03_circlebg" pos="76.00, 148.00, 0.00"/>
+			</node>
+			<!--*** ↓隊列リスト ***-->
+			<node name="formation_list">
+				<node copy="chara_frame" clone_child_tree="chara_frame" name="chara_frame_triangle" pos="207.00, 100.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="chara_frame" clone_child_tree="chara_frame" name="chara_frame_square" pos="34.00, 267.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="chara_frame" clone_child_tree="chara_frame" name="chara_frame_circle" pos="389.00, 271.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="chara_frame" clone_child_tree="chara_frame" name="chara_frame_cross" pos="207.00, 439.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<command set_visible="true" target_node="lock"/>
+				</node>
+			</node>
+		</node>
+		<anim_ctrl name="get_in_formation" viewer_key_assign="1">
+			<bind_node anim="anm_common_fade_in" node="."/>
+		</anim_ctrl>
+	</node>
+</root>

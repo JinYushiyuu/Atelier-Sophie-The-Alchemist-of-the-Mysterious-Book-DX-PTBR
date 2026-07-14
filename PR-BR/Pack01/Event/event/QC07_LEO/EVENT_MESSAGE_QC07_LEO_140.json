@@ -1,0 +1,296 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_LEO_140.ebm",
+    "nb_messages": 0x1f,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Sophie, are you home...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Oh, Leon. Welcome. What's wrong?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "I wanted to apologize to you..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Apologize? For what?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "For asking Monika and Oskar about you behind your back."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oh, that? It's fine, I'm not mad about it or anything."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Although I'm still curious why you were asking them about me..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "So about that... It was to make this."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Are these... Clothes?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Yeah. You should try them on."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Is it really okay? Well then, I will..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x2,
+            "msg_string": "Wow... It's really cute! What are these for?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x2,
+            "msg_string": "I made those just for you, Sophie."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x2,
+            "msg_string": "Huh? For me...?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x2,
+            "msg_string": "You know, you said before how you wanted me to make some clothes for you, too."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x2,
+            "msg_string": "You've been helping me out a lot, so I thought I'd make you a little present in secret..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x2,
+            "msg_string": "Then that means you were talking to Monika and everyone about this...?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x2,
+            "msg_string": "I wanted to know more about you. I wanted to make the best clothes that I possibly could..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x2,
+            "msg_string": "I didn't know. But you could have just asked me about it..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x2,
+            "msg_string": "That would have ruined the surprise. And I was a little embarrassed about it, too..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x2,
+            "msg_string": "Ahaha! Thank you so much, Leon! I'm really happy about this!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "The best part about you is how cheerful and positive you always are. Both of them said that, and I think that too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Keeping that in mind, I tried applying it to your preferences... Do you like it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x17,
+            "msg_string": "Of course I do! I... I'll cherish these clothes forever!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Hehe, thanks. Anyway, I'll get going now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Okay! Thank you so much, Leon!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4a,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "New clothes, huh...? I feel like a new me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4b,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Ehehe, I'm really happy..."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Leon learned the skill \"<CLGR>Fashionable<CLNR>\"."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You can now change costumes in the Dressing Room."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You can access the Dressing Room from the System Menu at the atelier's desk, or the World Map."
+        }
+    ]
+}

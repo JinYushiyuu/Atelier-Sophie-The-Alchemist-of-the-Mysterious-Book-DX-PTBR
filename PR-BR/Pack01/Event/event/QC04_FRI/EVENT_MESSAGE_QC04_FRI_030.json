@@ -1,0 +1,319 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_FRI_030.ebm",
+    "nb_messages": 0x22,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "I don't really hear any strange voices..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "This is the place Mr. Horst was talking about..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2e,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "Hmm, it's night time, but I don't really hear any strange voices..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x5,
+            "name_id": 0x25,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x2,
+            "msg_string": "Heh heh heh heh heh..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Eeek!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "I-I heard it... I really heard it just now..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "I heard a strange voice from inside the cabin... Uu, I want to go home..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x51,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "But I need to complete the request... I can't just leave without checking..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Be brave, Sophie! Just look inside! ...Just a little peek."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x5,
+            "name_id": 0x25,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x2,
+            "msg_string": "Heh heh heh heh heh... Yes, it's fantastic... These curves... They really are marvelous..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x2,
+            "msg_string": "What's that...? A boy... And a girl?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x5,
+            "name_id": 0x25,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x2,
+            "msg_string": "...Hmm, I could have made the shoulder blades just a little more apparent."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x2,
+            "msg_string": "Oh, no. They're dolls..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x5,
+            "name_id": 0x25,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x2,
+            "msg_string": "...Well, I need to hurry and complete them. I suppose I'll start work on the lower parts tomorrow..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x2,
+            "msg_string": "I see... So that guy was just talking to himself... I was all scared for nothing..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x5,
+            "name_id": 0x25,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x2,
+            "msg_string": "...Huh? Who's there!?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x2,
+            "msg_string": "Eeeeek!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x25,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "A girl...? Who are you..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "U-um, I live in the town nearby. People were saying that they heard strange voices from here..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x25,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "...Hm, so you came here to investigate? I apologize for that, I assume it was me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "My name's Fritz. I'm a traveling doll maker."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "U-um... I'm Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Sophie, huh? I found this cabin during my travels and started making dolls here..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "I seem to have a bad habit of talking to myself while I make dolls. I didn't expect to cause such a problem..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Ahaha... I see..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "But Fritz, you're really close to town. Why did you decide to stay here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "Well... This is embarrassing to say, but I didn't even notice that there was a town nearby."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "A-ah, I see... Then should I tell you where the town is?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x1c,
+            "msg_string": "Sorry about that, it would really help."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Okay, I got it. Let's see, from here, the town is..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "I see. Then I'll head to the town once I make preparations."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Ah, okay. Please be careful on your way."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x20,
+            "msg_string": "(Uu, I'm so glad it wasn't a ghost...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x21,
+            "msg_string": "(Oh, I know, I should tell Mr. Horst about Fritz.)"
+        }
+    ]
+}

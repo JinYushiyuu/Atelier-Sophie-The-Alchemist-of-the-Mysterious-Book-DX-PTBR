@@ -1,0 +1,108 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC03_JUL_160.ebm",
+    "nb_messages": 0xb,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "Nazarus!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x2,
+            "msg_string": "GAAAAH..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "It's no good, he hasn't regained control. Is there some way we could force him to drink the medicine...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "That would be impossible. We need to calm him down first."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Damn. In the end, we need to fight him after all..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "What!? Is it really okay?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "He's in a condition like that. It appears his strength has been greatly enhanced. We should be careful."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x11a,
+            "name_id": 0x11,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x2,
+            "msg_string": "GAAAAAAH!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "Here he comes!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "Waaaah!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "Nazarus! I shall save you, I swear it!"
+        }
+    ]
+}

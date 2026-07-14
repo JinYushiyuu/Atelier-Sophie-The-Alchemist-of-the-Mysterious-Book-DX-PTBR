@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_common01_a" texture="ui/a17_common.g1t"  texture_index="0" prim_type="wrap" edge_margin="192,0,32,58" uvwh="0,64,384,58"/>
+	<image name="gen_a17_common01_help" texture="ui/a17_common.g1t"  texture_index="0" prim_type="wrap" edge_margin="192,0,40,1" uvwh="0,0,384,58"/>
+	<image_list name="gen_a17_common02_csr01">
+		<image name="gen_a17_common02_csr01__xLIST01" texture="ui/a17_common.g1t" texture_index="1" uvwh="0,0,80,96"/>
+		<image name="gen_a17_common02_csr01__xLIST02" texture="ui/a17_common.g1t" texture_index="1" uvwh="80,0,80,96"/>
+		<image name="gen_a17_common02_csr01__xLIST03" texture="ui/a17_common.g1t" texture_index="1" uvwh="160,0,80,96"/>
+		<image name="gen_a17_common02_csr01__xLIST04" texture="ui/a17_common.g1t" texture_index="1" uvwh="80,0,80,96"/>
+		<image name="gen_a17_common02_csr01__xLIST05" texture="ui/a17_common.g1t" texture_index="1" uvwh="0,0,80,96"/>
+		<image name="gen_a17_common02_csr01__xLIST06" texture="ui/a17_common.g1t" texture_index="1" uvwh="240,0,80,96"/>
+	</image_list>
+	<image_list name="gen_a17_common02_csr02">
+		<image name="gen_a17_common02_csr02__xLIST01" texture="ui/a17_common.g1t" texture_index="1" uvwh="342,0,42,70"/>
+		<image name="gen_a17_common02_csr02__xLIST02" texture="ui/a17_common.g1t" texture_index="1" uvwh="342,2,42,70"/>
+		<image name="gen_a17_common02_csr02__xLIST03" texture="ui/a17_common.g1t" texture_index="1" uvwh="342,0,42,70"/>
+		<image name="gen_a17_common02_csr02__xLIST04" texture="ui/a17_common.g1t" texture_index="1" uvwh="342,-2,42,70"/>
+	</image_list>
+</root>

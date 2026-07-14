@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!-- uil_mt_mix_espselの行のひな形 -->
+	<node name="lf_mix_espsel" viewer_visible="false">
+		<text name="text" drop_shadow="false" text="あいうえおかきくけこ" align="left" font_size="24.00" viewer_visible="false" pos="11, -5, 0" font_color="255.00, 255.00, 255.00, 255.00" color="53.00, 19.00, 0.00, 255.00"/>
+		<image name="check" style="gen_a17_win01_checkicon02" pos="-40, -10, 0" size_wh="53, 42"/>
+	</node>
+</root>

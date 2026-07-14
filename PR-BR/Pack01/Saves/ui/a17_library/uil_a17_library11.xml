@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="node_left" pos="71.00, 526.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<!--***↓モンスター詳細01,02の左側 ***-->
+			<node name="node_main" pos="-1.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="obi01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win02_obi01" pos="-19.00, -387.00, -0.00" size_wh="559.00, 73.00, 0.00">
+					<text text="あああああ" name="text_name" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" align="center" pos="275.00, 8.00, -0.00" font_size="26.00"/>
+				</image>
+				<node name="node_map" pos="11, -328, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library_map.xml"/>
+				<!--***↓説明会話用 ***-->
+				<node name="node" pos="-0.00, -34.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library_iconnote.xml"/>
+			</node>
+		</node>
+		<!--***↓採取地詳細01の右側 ***-->
+		<node name="node_right" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="662.00, 139.00, 0.00" viewer_visible="false">
+			<image name="w03" style="gen_a17_win02_w03" pos="17.00, 14.00, -0.00" size_wh="525.00, 510.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="node_page0" pos="19, 19, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<!--***↓採れるもの ***-->
+				<image name="obi02_1" style="gen_a17_item_info01_obi02" pos="7.00, -25.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="186.00, 42.00, 0.00">
+					<image name="text_1" style="gen_a17_library01_text" pos="30.00, 8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="3"/>
+				</image>
+				<node name="node_gatheritem0" pos="29.00, 15.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<image name="itembg" style="gen_a17_item_info01_itembg01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="167, 164"/>
+					<image name="img_item" style="etc_a17_item_l" pos="33.00, 38.00, -0.00" rot="-0.00, -0.00, -0.00" size_wh="86.00, 86.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="lvacce" style="gen_a17_item_info02_lvacce" pos="0.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="48.00, 48.00, 0.00">
+						<text text="99" name="text_level" font="A17_LV01" pos="17.00, 17.00, 0.00" word_space="-15.00" align="center" font_size="23.00"/>
+					</image>
+					<image name="img_color" style="gen_a17_item_info02_color" pos="102, 2, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="51.00, 51.00, 0.00"/>
+				</node>
+				<node copy="node_gatheritem0" clone_child_tree="node_gatheritem0" name="node_gatheritem1" pos="188.50, 15.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_gatheritem0" clone_child_tree="node_gatheritem0" name="node_gatheritem2" pos="348.00, 15.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_gatheritem0" clone_child_tree="node_gatheritem0" name="node_gatheritem3" pos="29.00, 175.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_gatheritem0" clone_child_tree="node_gatheritem0" name="node_gatheritem4" pos="188.50, 175.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_gatheritem0" clone_child_tree="node_gatheritem0" name="node_gatheritem5" pos="348.00, 175.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_gatheritem0" clone_child_tree="node_gatheritem0" name="node_gatheritem6" pos="29.00, 336.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_gatheritem0" clone_child_tree="node_gatheritem0" name="node_gatheritem7" pos="188.50, 336.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_gatheritem0" clone_child_tree="node_gatheritem0" name="node_gatheritem8" pos="348.00, 336.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<node name="node_item_etc" pos="203, 422, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+					<image name="obi02_2" style="gen_a17_item_info01_pagebg" rot="0.00, 0.00, -13.00" scale="1.00, 1.00, 1.00" pos="252, 70, -0">
+						<text text="Etc." name="text_etc" copy="TEXTCOLOR_BROWN" pos="25.56, -8.47, -0.00" align="left" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, 13.01" viewer_visible="false"/>
+					</image>
+				</node>
+			</node>
+			<node name="node_page1" pos="19.00, 19.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false">
+				<!--***↓生息するモンスター ***-->
+				<image name="obi02" style="gen_a17_item_info01_obi02" pos="7.00, -25.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="311, 43">
+					<image name="text" style="gen_a17_library01_textmon" pos="22.00, 8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<node name="node_monster0" pos="29.00, 15.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<image name="itembg" style="gen_a17_item_info01_itembg01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="167, 164" viewer_visible="false"/>
+					<image name="img_monster" style="etc_a17_monster_l" pos="11, 14, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="128.00, 128.00, 0.00"/>
+					<image name="lvacce" style="gen_a17_item_info02_lvacce" pos="0, 5, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="50.00, 50.00, 0.00" visible="false" viewer_visible="false">
+						<text text="99" name="text_level" font="A17_LV01" pos="17.00, 17.00, 0.00" word_space="-15.00" align="center" font_size="23.00"/>
+					</image>
+				</node>
+				<node copy="node_monster0" clone_child_tree="node_monster0" name="node_monster1" pos="188.50, 15.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_monster0" clone_child_tree="node_monster0" name="node_monster2" pos="348.00, 15.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_monster0" clone_child_tree="node_monster0" name="node_monster3" pos="29.00, 175.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_monster0" clone_child_tree="node_monster0" name="node_monster4" pos="188.50, 175.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_monster0" clone_child_tree="node_monster0" name="node_monster5" pos="348.00, 175.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_monster0" clone_child_tree="node_monster0" name="node_monster6" pos="29.00, 336.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_monster0" clone_child_tree="node_monster0" name="node_monster7" pos="188.50, 336.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="node_monster0" clone_child_tree="node_monster0" name="node_monster8" pos="348.00, 336.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="node_item_etc" pos="203, 422, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+					<image name="obi02_2" style="gen_a17_item_info01_pagebg" rot="0.00, 0.00, -13.00" scale="1.00, 1.00, 1.00" pos="252, 70, -0">
+						<text text="Etc." name="text_etc" copy="TEXTCOLOR_BROWN" pos="25.56, -8.47, -0.00" align="left" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, 13.01" viewer_visible="false"/>
+					</image>
+				</node>
+			</node>
+		</node>
+	</node>
+</root>

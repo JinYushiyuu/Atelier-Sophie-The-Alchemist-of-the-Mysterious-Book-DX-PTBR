@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<EventManagementGroup No="0" title="Important Events"/>
+	<EventManagementGroup No="1" title="Plachta's Memories"/>
+	<EventManagementGroup No="2" title="Monika"/>
+	<EventManagementGroup No="3" title="Oskar"/>
+	<EventManagementGroup No="4" title="Julio"/>
+	<EventManagementGroup No="5" title="Fritz"/>
+	<EventManagementGroup No="6" title="Cory"/>
+	<EventManagementGroup No="7" title="Harol"/>
+	<EventManagementGroup No="8" title="Leon"/>
+	<EventManagementGroup No="9" title="Logy"/>
+	<EventManagementGroup No="10" title="Pamela"/>
+	<EventManagementGroup No="11" title="Tess"/>
+	<EventManagementGroup No="12" title="Horst"/>
+	<EventManagementGroup No="13" title="Nazarus"/>
+	<EventManagementGroup No="14" title="About Plachta"/>
+	<EventManagementGroup No="15" title="The Curious Duo"/>
+	<EventManagementGroup No="16" title="Original Attire"/>
+</Root>

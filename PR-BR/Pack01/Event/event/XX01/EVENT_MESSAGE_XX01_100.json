@@ -1,0 +1,471 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_100.ebm",
+    "nb_messages": 0x34,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "My cleaning equipment is done! With this, I can clean any room, hehe..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Sophie!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "Uwah, Monika! And Cory! Wh-What are you doing here?!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Sorry, Sophie. We've been watching you for some time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xf,
+            "msg_id": 0x4,
+            "msg_string": "Watching me?! That sounds... scary."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "It's not scary at all. We've just been monitoring your every move, all day and all night..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "That much?! I-I didn't notice at all..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "But why would you be watching me? What's so interesting about me...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Well, Sophie... We've been seeing how much you've grown."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x6c,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "You even invented some equipment to clean your room, didn't you?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Uh, yes... How do you know?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "We've been watching you very, very closely... We know everything about you..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "That's what I mean about it being scary, Cory! Have you really been watching me that much?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "We have been watching you, but it's not like we know everything. But we've seen your ambition."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "We're very proud of you, Sophie! Your attitude does you credit!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1a,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Come now, show us what you've made. Your new cleaning equipment...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Oh, yes, of course. Here it is!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "This is... a broom."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Exactly! I call it, the \"Living Broom\"!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x13,
+            "msg_string": "You don't have to do anything, and it'll clean your room up for you all by itself!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "What? All by itself...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Yup! With this, there's no need to clean my room ever again!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Hehe, pretty impressive, huh? What do you think? Shall I make you one, Monika?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x3,
+            "msg_id": 0x17,
+            "msg_string": "I'm confiscating it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "...Huh? C-Confiscating it...? But why?! I worked hard to make that!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1c,
+            "expr_id": 0xd,
+            "msg_id": 0x19,
+            "msg_string": "You really don't know why I'm confiscating it?! I'm disappointed in you, Sophie!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x1a,
+            "msg_string": "I thought you were making something to make cleaning easier, not something to clean for you!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x1b,
+            "msg_string": "You have to actually do the work yourself, you know! So, like I say, it's confiscated!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "And I won't be coming here to clean for a while either. You need to think hard about what to do!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0xe,
+            "msg_id": 0x1d,
+            "msg_string": "Ah, Monika! Wait! Wait, Monika...! Oh, she's gone."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xe,
+            "msg_id": 0x1e,
+            "msg_string": "Cory... Where do you think I went wrong...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1f,
+            "msg_string": "Hmm... I'd say... The whole idea."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Ugh... Was it really that bad, to leave cleaning to my tools...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2e,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "Hmm... Well, most people wouldn't think of it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "I-I see... I guess I should apologize..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x23,
+            "msg_string": "But you know, there are some things I'm just not good at. I did my best, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "...It's okay not to be good at everything. Everyone has weaknesses..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "But perhaps you should ask for help with those things. Like I asked for your help just before..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x26,
+            "msg_string": "Oh, yeah... I guess you're right..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Everyone has their own strengths and weaknesses, but we all support each other..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "Yes... So you should help the rest of us with alchemy, which is what you're good at..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "...Yeah. Come to think of it, Grandma said something similar."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "She said to ask for help if you need it. But in return, you have to help friends in need, too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x2b,
+            "msg_string": "Thanks, Cory. I may have been trying too hard."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1a,
+            "expr_id": 0x2,
+            "msg_id": 0x2c,
+            "msg_string": "I guess recognizing my weaknesses and asking for help is a kind of growth in itself."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x2d,
+            "msg_string": "Yes! I'm sure Monika will forgive you if you apologize..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "Yeah! I'll go do that right now! And while I'm there, I'll ask for her help."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x48,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "I'll ask her to keep on cleaning up the atelier for me every two days!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x30,
+            "msg_string": "...I agree that's a good idea, Sophie. Good luck."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x31,
+            "msg_string": "Oh, but... There is one thing..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x32,
+            "msg_string": "I think every two days is a bit much. You need to stop creating such a mess."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0xe,
+            "msg_id": 0x33,
+            "msg_string": "Ugh! Y-You think so...? I-I'll do my best... Hahaha..."
+        }
+    ]
+}

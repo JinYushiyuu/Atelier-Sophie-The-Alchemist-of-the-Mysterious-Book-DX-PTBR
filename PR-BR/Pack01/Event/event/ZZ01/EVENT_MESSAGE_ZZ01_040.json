@@ -1,0 +1,52 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_ZZ01_040.ebm",
+    "nb_messages": 0x5,
+    "messages": [
+        {
+            "type": 0x3,
+            "voice_id": 0xe9,
+            "name_id": 0x2a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Thank you. I'll tell you where the dragon is, as promised."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xe9,
+            "name_id": 0x2a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "<CLGR>Tender Hill<CLNR>... The flower garden past the cave is its territory."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xe9,
+            "name_id": 0x2a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "If you have powerful explosives like <CLGR>Bombs<CLNR>, it could make your battle easier."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xe9,
+            "name_id": 0x2a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Anyway, do your best."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xe9,
+            "name_id": 0x2a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Oh, right. If you want, you can do more Requests too."
+        }
+    ]
+}

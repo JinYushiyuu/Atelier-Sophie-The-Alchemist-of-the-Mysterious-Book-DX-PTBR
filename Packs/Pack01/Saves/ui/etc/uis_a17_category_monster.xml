@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/CNN/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="etc_a17_category_monster">
+		<image name="etc_a17_category_monster_0000" texture="ui/a17_category_monster000.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--スラグ-->
+		<image name="etc_a17_category_monster_0001" texture="ui/a17_category_monster001.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--レアスラグ-->
+		<image name="etc_a17_category_monster_0002" texture="ui/a17_category_monster002.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--プラント-->
+		<image name="etc_a17_category_monster_0003" texture="ui/a17_category_monster003.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--エレメンタル-->
+		<image name="etc_a17_category_monster_0004" texture="ui/a17_category_monster004.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--動物-->
+		<image name="etc_a17_category_monster_0005" texture="ui/a17_category_monster005.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--猛獣-->
+		<image name="etc_a17_category_monster_0006" texture="ui/a17_category_monster006.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--ヒトガタ-->
+		<image name="etc_a17_category_monster_0007" texture="ui/a17_category_monster007.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--ドラゴン-->
+		<image name="etc_a17_category_monster_0008" texture="ui/a17_category_monster008.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--錬金体-->
+		<image name="etc_a17_category_monster_0009" texture="ui/a17_category_monster009.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--ぷにぷに-->
+		<image name="etc_a17_category_monster_0010" texture="ui/a17_category_monster010.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--魔法生物-->
+		<image name="etc_a17_category_monster_0011" texture="ui/a17_category_monster011.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--不死生物-->
+		<image name="etc_a17_category_monster_0012" texture="ui/a17_category_monster012.g1t" texture_index="0" uvwh=" 0, 0, 192, 192"/><!--魔族-->
+	</image_list>
+</root>

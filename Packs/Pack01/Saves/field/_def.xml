@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+
+<root>
+
+<!--カメラ関連-->
+	<!-- 
+		カメラ
+
+		<camera>
+			boundary_min,_max		カメラ視点の移動可能範囲。単位はメートル。Y値は無視します。
+			center_position			カメラの注視点をロックする座標です。
+			pivot_position			カメラの注視点を反転ロックする座標です。
+			
+				center_positionとpivot_positionを同時に設定することはできません。
+							
+			zoom_mode				どの方向に移動したときにズームアウトするかを指定します。
+									"Y" 	垂直移動時にズームアウトします。 
+									"XZ" 	水平移動時にズームアウトします。(省略値)
+									"XYZ" 	全方向移動時にズームアウトします。
+      bb_scale        カメラのバウンディングボックスの拡大率。
+                      影が描画されないときに調整する。
+                      デフォルトは1.0。大きくすると影の精度が落ちる。
+      
+		<area>
+			tag						補完方法。
+									CLOSELY_X, CLOSELY_Y, CLOSELY_Z, CLOSELY_XZ, VERTEX_LENGTHの何れかです。
+
+			※以下のパラメータもA12と同じ仕様で使えます。
+				tlPosition, brPosition, length, radian, lookRad, diffPosition, position
+			
+			フリーカメラradian制御
+			false(指定したradianに従う)
+			true(radianをプレイヤーが操作)
+			<camera boundary_min="-7.0, 0.0, -7.0" boundary_max="-7.0, 0.0, -7.0" center_position2="20,0,20" zoom_mode="XZ" free_camera="true">
+
+
+
+		<point>
+			bumper_follow_speed		注視対象に対するカメラの基準追従速度です。
+									実際の速度は注視対象と注視点との距離に比例して大きくなります。
+									負の値で機能が無効になります。省略時は-1.0です。
+			
+			bumper_max_distance		注視対象と注視点との最大距離(メートル単位)です。
+									これ以上離れることはありません。
+			
+			zoom_time				注視対象モデルの移動時に最大ズームアウトするまでの秒数です。
+			zoom_distance			最大ズームアウト時にカメラを引く距離です。単位はメートルです。
+									省略時は0.0です。
+	-->
+	
+	<camera boundary_min="-7.0, 0.0, -7.0" boundary_max="-7.0, 0.0, -7.0" center_position2="0,0,0" zoom_mode="XZ" bb_scale="6.0f">
+		<area tlPosition="-400.0, 0.0, -400.0" brPosition="400.0, 0.0, 400.0" tag="CLOSELY_X">
+			<point length=" 5.0" radian=" 0.0" lookRad="13.0" lookRadOffsetMin="-10.0" lookRadOffsetMax="10.0" diffPosition=" 0.0, 1.0, 0.0" position="-8.0, 0.0, 0.0" bumper_follow_speed="5.0" zoom_time="1.0" zoom_distance="0.0"/>
+			<point length="20.0" radian=" 0.0" lookRad="13.0" lookRadOffsetMin="-10.0" lookRadOffsetMax="10.0" diffPosition=" 0.0, 1.0, 0.0" position=" 8.0, 0.0, 0.0" bumper_follow_speed="5.0" zoom_time="1.0" zoom_distance="0.0"/>
+		</area>
+	</camera>
+
+<!--フォグ関連-->
+	<!-- 
+		フォグ
+
+		<fog>
+			start					フォグの開始距離.
+			end						フォグ係数が最大になる距離.
+			ambient					アンビエント散乱の強さ.
+			mieG					ミー散乱の離心率(指向性=0<=g<1)
+			rayleighPow				光源の強さ(全体的な散乱の強さ).
+			mieRGB					ミー錯乱の強さ
+			rayleighRGB				レイリー錯乱成分
+	-->
+	
+	<fog start="3000.0" end="20000.0" ambient="1.0" mieG="0.5" rayleighPow="11.0" mieRGB="0.67020196, 0.91922016, 1.0, 1.0" rayleighRGB="0.67020196, 0.91922016, 1.0, 1.0" />
+
+<!--ライト関連-->
+	<!-- 
+		ライト
+
+		<light>
+			ambient					ライトの環境光.
+			
+		<param>
+			type					ライトの種類
+									PARALLEL, POINT, SPOTの何れか、以下種類ごとに
+			
+		PARALLEL
+			rot						光のの入射方向の回転値（度）
+			color					ライトの色.
+			
+		POINT
+			pos						ワールド座標系における光源の位置.
+			color					ライトの色.
+			ambient					ライトの環境光(距離減衰付き)
+			att0					指数減衰係数.
+			att1					線形減衰係数.
+			att2					2次減衰係数.
+			range					ライトの有効距離の二乗.
+			
+		SPOT
+			pos						ワールド座標系における光源の位置.
+			rot						ワールド座標系における光源の向いている回転値.(度)
+			color					ライトの色.
+			ambient					ライトの環境光(距離減衰付き)
+			att0					指数減衰係数.
+			att1					線形減衰係数.
+			att2					2次減衰係数.
+			range					ライトの有効距離の二乗.
+			inner					スポットライトの半影角度(度)
+			outer					スポットライトの本影角度(度)
+	-->
+	
+	<light ambient="0.3, 0.3, 0.3, 0.3">
+		<param type="PARALLEL" rot="90.0, 0.0, 0.0" color="0.2, 0.2, 0.2, 1.0" />
+		<param type="POINT" pos="30.0, 2.0, 8.0" color="5.0, 0.2, 0.2, 1.0" ambient="1.0, 0.0, 0.0, 1.0" att0="1.0" att1="0.01" att2="0.2" range="5.0" />
+		<param type="SPOT"  pos="50.0, 8.0, 10.0" rot="90.0, 0.0, 0.0" color="0.2, 0.2, 10.0, 1.0" ambient="0.0, 0.0, 3.0, 1.0" att0="1.0" att1="0.0" att2="0.6" range="10.0" inner="10.0" outer="50.0" />
+	</light>
+
+	<!--HDR-->
+		<hdr threshold="0.85" glow_add_rate="1.0" />
+		
+	<!--CharaShader-->
+		<chara_shader light_dir="2.0, -1.0, -1.0" light_color="1.0, 1.0, 1.0, 0.2" rim_light_dir="2.56, -2.67, 1.0" rim_light_color="1.0, 1.0, 1.0, 0.14" />
+		
+	
+	<!--パターンマップ-->
+		<pattern_map speed_u="0.0777" speed_v="0.0333" area_width="50.0" area_height="50.0" />
+	
+	<!--カメラ前透過-->
+		<camera_ct trans_speed="0.2" camera_radius="1.5" box_size_offset="0.0, 0.0, 0.0" box_size_offset2="0.0, 0.0, 0.0" box_size_offset3="0.0, 0.0, 0.0"/>
+	
+	<!--ユーザーズーム関連-->
+		<user_zoom  relative_limit="8.2" />
+	
+	<!-- 
+		風揺れ関連
+	-->
+  <wind_root>
+    <!--
+			風パラメータ定義ブロック
+
+			dir				風の向き(ワールド座標) ベクトルは正規化されます。
+							ゲーム内ではY軸がUpベクトル。Y軸とZ軸が逆転してます。
+			
+			power			風の強さ
+			freq			風の強弱の周期。単位は秒。
+							1.0なら１秒間隔で風が最大/最小を繰り返します。
+			shift			風の強弱の位相。単位は秒。
+		-->
+    <!--
+		<wind dir="0.3, 0.5, -1.0" power="100.0" freq="10.0" shift="0.0"/>
+		<wind dir="1.0, 0.5, -0.3" power="100.0" freq="10.0" shift="5.0"/>
+		-->
+    <wind dir="1.0, 0.0, 0.0" power="50.0" freq="10.0" shift="0.0"/>
+    <wind dir="0.0, 0.0, -1.0" power="50.0" freq="10.0" shift="5.0"/>
+
+
+    <!--
+			ノード揺れの定義ブロック
+			木や多ポリゴン数の草を揺らすための定義ブロックです。
+
+			keyword			対象となるノード名の部分名
+							例えば "leaf"ならば以下のノード全てに適用されます。
+							leafA_xCNONE、leafB_xCNONE、test_xCNONE_leafC
+
+							複数の<n_shaker>で合致するときは、先に定義した<n_shaker>が優先されます。
+
+			weight			重さ。大きい値ほど風に吹かれやすくなります。
+							省略時は30.0です。
+
+			axis			揺れる軸ベクトル。ノードのローカル座標で指定します。
+							省略時は(0,0,1)です。
+
+			max_angle		傾きの最大角度です。省略時は10.0です。
+
+			axis_power		元の角度に戻ろうとする力です。省略時は500.0です。
+			
+			char_range		プレイヤーとの当たり判定の半径(m)。省略時は0.0です。
+			char_power		プレイヤーと当たったときに加わる力。省略時は10.0です。
+		-->
+    <n_shaker keyword="xN1_" weight="15.0" axis="0.0, 0.0, 1.0" max_angle="10.0" axis_power="50.0" char_range="1.0" char_power="11.0"/>
+    <n_shaker keyword="xN2_" weight="50.0" axis="1.0, 0.0, 1.0" max_angle="5.0" axis_power="10.0" char_range="1.0" char_power="11.0"/>
+
+    <!--
+			頂点揺れの定義ブロック
+			
+			低ポリゴンの草原を揺らすための定義ブロックです。
+			各頂点をsin関数で周期的に揺らします。
+
+			草のモデルはノード原点から+Z軸方向に草が生えるように作成してください。
+			揺れの向きと大きさは風の強さで決まります。
+
+			keyword			対象となるノード名の部分名。
+							例えば "_2flower"ならば以下のノード全てに適用されます。
+							_2flowerA_xCNONE、_2flowerB_xCNONE、test_xCNONE_2flower
+							複数の<v_shaker>で合致するときは、先に定義した<v_shaker>が優先されます。
+
+			weight			重さ。大きい値ほど風に吹かれにくくなります。
+							省略時は200.0です。
+
+			height			草の丈の高さ(m)です。
+			root_height		草の根元の高さです。
+							ローカルノードの原点よりも低い位置から草が生えているときに使用します。
+							例えば5m下にあるならば-5.0と指定します。省略時は0.0です。		
+		
+			shake_time		1回の揺れに掛かる時間(秒)です。2.0で2秒間に1回振幅します。
+
+			shift_x,_z		各頂点のワールド座標でのX,Z座標値による、揺れ波の位相の強さ。
+							省略時は0.0です。
+		-->
+    <v_shaker keyword="xV1_" weight="500.0" root_height="0.0" height="0.5" shake_time="4.0" shift_x="1.0" shift_z="1.0"/>
+  </wind_root>
+
+<!--表示範囲-->
+  <!--
+	<disp_range>  要素省略時は非表示にしない
+		"chara"     キャラが表示される視点を中心とした範囲(メートル)。範囲外は非表示。属性省略時は100.0
+		"obj1"	    "xT1"を指定したオブジェクトが表示される視点を中心とした範囲(メートル)。範囲外は非表示。属性省略時は100.0
+		"obj2"	    "xT2"を指定したオブジェクトが表示される視点を中心とした範囲(メートル)。範囲外は非表示。属性省略時は100.0
+		"shadow"	  フィールドオブジェクトの影が表示される視点を中心とした範囲(メートル)。範囲外は非表示。属性省略時は100.0
+		"eff"	      エフェクトが表示される視点を中心とした(メートル)。範囲外は非表示。属性省略時は100.0
+  -->
+  <disp_range chara="100.0" obj1="100.0" obj2="100.0" shadow="100.0" eff="100.0"/>
+  
+
+<!--遠景モデル関連-->
+	<sphere offset="0.0, -1.0, 0.0" scale="1.0, 1.0, 1.0" tracking_camera="true" />
+
+<!--ライトマップ関連-->
+	<light_map terrain_diffuse_scaler3="1.0, 1.0, 1.0, 1.0" object_diffuse_scaler3="1.0, 1.0, 1.0, 1.0" />
+
+</root>

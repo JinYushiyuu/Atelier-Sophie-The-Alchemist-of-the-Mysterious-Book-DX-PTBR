@@ -1,0 +1,150 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_PAM_170.ebm",
+    "nb_messages": 0x10,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "(Ah, it's Pamela...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Okay everyone, let's go."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xdf,
+            "name_id": 0x19,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x2,
+            "msg_string": "What are we going to play today!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "Now what should we do? Maybe we can play doctor?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xdf,
+            "name_id": 0x19,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x2,
+            "msg_string": "Whaaat, I'm tired of that!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Then maybe we can play tag?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe4,
+            "name_id": 0x1b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x2,
+            "msg_string": "No way... You're too fast..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "Oh dear... Then how about hide and seek?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe0,
+            "name_id": 0x1a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x2,
+            "msg_string": "We can never find you..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "You just need to try harder to find me."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe4,
+            "name_id": 0x1b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x2,
+            "msg_string": "Grr, okay then. Today we're doing a treasure hunt!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Hehe, that sounds fine. Oh, but don't wander off too far, okay?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe0,
+            "name_id": 0x1a,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x2,
+            "msg_string": "Okay!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Pamela's just Pamela."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "It doesn't matter if she's a ghost. But..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "That really was shocking..."
+        }
+    ]
+}

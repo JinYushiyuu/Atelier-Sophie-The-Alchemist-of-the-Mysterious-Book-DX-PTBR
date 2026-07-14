@@ -1,0 +1,256 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY03_090.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Haah... I asked around, but... I still can't make a decision..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "...Huh? Pamela?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "Oh, good. I thought you weren't home, so I was about to leave."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Ah, sorry about that. I had some things to do..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "But... Why did you come here?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "Oh right. I found something really nostalgic, so I came to show you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Nostalgic...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Yes, it's this."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Huh, what is this? Some sort of note...? Alchemist License... Ramizel...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Is this my grandma's...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "That's right. A long while back, Ramizel left this at the church."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "I was cleaning earlier, and happened to find it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4a,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "That sounds just like grandma... An alchemist license sounds really important, too..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4c,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "...Wait? Alchemist license!? Could this be what Sir Julio was talking about!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "Julio wouldn't know this, but... I think it was back around when Ramizel was still your age, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xf,
+            "msg_string": "She went to a city called Rei...something, to take an alchemy exam."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "She managed to pass, and brought this back."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "(There's no mistake... Grandma went to take the official license exam... I never knew...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "msg_string": "(In that case... I definitely want to try taking that alchemy exam, too!)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "msg_string": "(If grandma took it, then I will too...!)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Sophie? Are you thinking about something?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Oh, no, it's nothing. Sorry you had to come all the way out here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x9,
+            "msg_id": 0x16,
+            "msg_string": "Hehe, it's no problem. Anyway, I'll be going now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Yeah, see you!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "...Okay, I've decided."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "I'll go to Reisenberg, to take that exam. I want to catch up to grandma, in any little way I can...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x1a,
+            "msg_string": "I don't want to leave this town... But if I start to miss it too much, I can always come back."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "Yeah. With that decided, I should tell Plachta that I intend to go on a journey..."
+        }
+    ]
+}

@@ -1,0 +1,454 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_ZZ01_190.ebm",
+    "nb_messages": 0x33,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "ふんふ～ん"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "ソフィー！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "あ、オスカー。どうしたの？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1f,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "力を貸してほしいんだ！<CR>ソフィーしか頼れる人がいないんだよ！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "えぇ？　いきなりそんなこと言われても…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "この前知り合った花から聞いた話なんだけどさ"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "聞いてないし…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "近くにある丘に、<CR>見たこともない植物がいるらしいんだ！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "会いに行かないわけにはいかないじゃないか"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "そ、そうなの？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "当たり前だろ。<CR>とにかく、ソフィーにも一緒に来てほしいんだ！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "う～ん…。まぁ、新しい植物なら<CR>錬金術に使えるかもしれないし…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "だろ？<CR>よし、そうとなったら早速出発だ！ "
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0xf,
+            "msg_id": 0xd,
+            "msg_string": "あ、もう。<CR>強引だなぁ…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "植物さーん！　どこにいるんだー！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xf,
+            "msg_id": 0xf,
+            "msg_string": "ま、待って…。　歩くの早いって…！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "まったく。植物のこととなると、<CR>張り切っちゃうんだから"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "でも…ふふっ"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0xf,
+            "msg_id": 0x12,
+            "msg_string": "なんだよ、ソフィー。ニヤニヤしちゃってさ"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "ごめんごめん。ちっちゃいころのこと、<CR>思いだしちゃって"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "あの頃はどっちかって言うと、<CR>あたしが引っ張っていく方だったのにな、って"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "…たしかに、ソフィーのせいで<CR>色々と大変な目にあってた気がするな"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "そ、そんなことない…よ？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "いや、たしか、ソフィーがプニを捕まえて<CR>ペットにしたいって言いだしたことがあったろ"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "オイラ、おとりの役やらされて、<CR>一日中プニに追いかけまわされたんだぜ？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x19,
+            "msg_string": "うう…。覚えがある…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x3,
+            "msg_id": 0x1a,
+            "msg_string": "あ、そういえばあのとき…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x3,
+            "msg_id": 0x1b,
+            "msg_string": "モニカと３人で『このことは内緒ね！』って<CR>約束したじゃない？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "それなのに、オスカーがマルグリットさんに話しちゃっ<CR>たから、すっごい怒られたんだよ？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "オイラは昔っから正直者だからね！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x54,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "…調子良いんだから"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "ま、昔のことは置いておいて…。<CR>そろそろ行こうぜ。暗くなっちまう"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "あ、そうだね。<CR>そうしよっか"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x51,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "見つからないね…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x4,
+            "msg_id": 0x22,
+            "msg_string": "さ、さすがのオイラも、もう疲れた…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x23,
+            "msg_string": "ちょっと、こんなところで寝ちゃダメだよ？<CR>あたし一人じゃオスカーのこと運べないし…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0xf,
+            "msg_id": 0x24,
+            "msg_string": "うわぁ…！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x25,
+            "msg_string": "ど、どうしたの、急に"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0xc,
+            "msg_id": 0x26,
+            "msg_string": "ソフィー。空を見てみなよ"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x2,
+            "msg_id": 0x27,
+            "msg_string": "え？　わぁ…！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "きれいなお星様…！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "ああ。…新しい植物に会えなかったのは残念だけど、<CR>この景色が見られれば十分だよ"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "ふふっ、そうだね！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xf,
+            "msg_id": 0x2b,
+            "msg_string": "な、何、今の音…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1c,
+            "expr_id": 0x2,
+            "msg_id": 0x2c,
+            "msg_string": "うわっ！　プニだ！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x2d,
+            "msg_string": "ええっ、もうヘトヘトなのにぃ…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1e,
+            "expr_id": 0x2,
+            "msg_id": 0x2e,
+            "msg_string": "良いこと思いついた！　今度はオイラがアイツを<CR>ペットにしてやる！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x2f,
+            "msg_string": "え？　ちょっと？　オスカー？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "expr_id": 0xb,
+            "msg_id": 0x30,
+            "msg_string": "うおぉぉぉ！　待てぇぇぇ！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x31,
+            "msg_string": "ちょっ、待ってよ、オスカー！　"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x3,
+            "msg_id": 0x32,
+            "msg_string": "こ、これじゃ、昔とまるっきり逆だよ…！<CR>オスカー！　オスカーってばぁぁぁ！"
+        }
+    ]
+}

@@ -1,0 +1,353 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC10_TES_210.ebm",
+    "nb_messages": 0x24,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "So, is there anywhere you want to go, Sophie?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Somewhere I want to go... Oh, yeah. Actually there is..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Really? Then let's go there."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x2,
+            "msg_string": "Mm, this is great!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x2,
+            "msg_string": "Yeah! It's so delicious..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x2,
+            "msg_string": "...So you remembered this place, Sophie."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x2,
+            "msg_string": "You said that you wanted to come here before."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x2,
+            "msg_string": "Hehe, you're such a good girl. You score big points for that."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x8,
+            "unknown2": 0x2,
+            "msg_string": "P-points...?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x2,
+            "msg_string": "I was always curious every time I passed by. It always smells really good."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xa,
+            "unknown2": 0x2,
+            "msg_string": "Hehe, if it's this good, maybe I should bring my little brothers here sometime."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x2,
+            "msg_string": "Yeah, you should do that. I'm sure they would be really happy."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x2,
+            "msg_string": "You're right. Also... I want to do something to recreate this flavor at our cafe..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "unknown2": 0x2,
+            "msg_string": "Ahaha, you're always so serious about work."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x2,
+            "msg_string": "Huh? Why do you say that?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x2,
+            "msg_string": "Because even when we're out eating like this, you're still thinking about the shop."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x2,
+            "msg_string": "I don't know, isn't that normal? I mean, you're always thinking about alchemy too."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "unknown2": 0x2,
+            "msg_string": "Oh, huh. Now that you mention it... That might be true..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x2,
+            "msg_string": "Ahaha. See, I'm right... Everyone's like this. At least, people who are serious about doing something."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x13,
+            "unknown2": 0x2,
+            "msg_string": "You might be right about that."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x2,
+            "msg_string": "...Thanks, Sophie. I said I'd go on a date with you, but I'm the one who ended up satisfied."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x15,
+            "unknown2": 0x2,
+            "msg_string": "It's fine, I'm happy just seeing you smile, Tess."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "unknown2": 0x2,
+            "msg_string": "...Whoa there, you're starting to put moves on me like it's natural. Just don't say things like that to men, okay?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x17,
+            "unknown2": 0x2,
+            "msg_string": "Huh? Why not?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x18,
+            "unknown2": 0x2,
+            "msg_string": "Because they'll misunderstand you. You'll get it when you're a little older."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x2,
+            "msg_string": "Huh? Really?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1a,
+            "unknown2": 0x2,
+            "msg_string": "Yeah, you'll understand soon enough... Anyway, we should get back now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "I'm back."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "Me too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x1d,
+            "msg_string": "Ah, I was waiting for you, Tess. It's complete chaos here. Please, help me!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xe9,
+            "name_id": 0x17,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "unknown2": 0x2,
+            "msg_string": "ANOTHER DRINK! GIVE ME ANOTHER ONE!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xfd,
+            "name_id": 0x18,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1f,
+            "unknown2": 0x2,
+            "msg_string": "Tess! I love you Teeeeeess!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Oh, I see. I'll go get ready."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "Sorry, Sophie. Looks like it's kind of a mess here..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "I had a lot of fun. Do your best at work!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xb,
+            "name_id": 0xb,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "...Yeah! Tess is going to work hard today, too!"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="SHIFT-JIS"?>
+<Root>
+	<QuestPrizeItem No="1" Quality="50" Size="2" UseNum="1" ItemTag="ITEM_MAT_MAGIC_GRASS" ItemEff_00="ITEM_EFF_DAMAGE_PHY_1" ItemEff_01="ITEM_EFF_DAMAGE_PHY_2" ItemEff_02="ITEM_EFF_DAMAGE_PHY_3" ItemEff_03="ITEM_EFF_DAMAGE_PHY_EX_2" ItemPot_00="ITEM_POTENTIAL_PRICE_DOWN1" ItemPot_01="ITEM_POTENTIAL_PRICE_UP_1" ItemPot_02="ITEM_POTENTIAL_HIQUALITY_1"/>
+	<QuestPrizeItem No="2" Quality="70" Size="4" UseNum="1" ItemTag="ITEM_MAT_PUNIPUNI_BALL" ItemPot_00="ITEM_POTENTIAL_MAXHP_2"/>
+	<QuestPrizeItem No="3" Quality="40" Size="1" UseNum="1" ItemTag="ITEM_MAT_RAINBOW_PUNI_LIQUID" ItemPot_00="ITEM_POTENTIAL_YOBI_445" ItemPot_01="ITEM_POTENTIAL_CRITICAL_1"/>
+	<QuestPrizeItem No="4" Quality="90" Size="2" UseNum="1" ItemTag="ITEM_MAT_PENDEGRUN" ItemPot_00="ITEM_POTENTIAL_YOBI_455" ItemPot_01="ITEM_POTENTIAL_PRICE_UP_2"/>
+	<QuestPrizeItem No="5" Quality="60" Size="1" UseNum="1" ItemTag="ITEM_MAT_MUD_DUMPLING" ItemPot_00="ITEM_POTENTIAL_USE_COUNT_2"/>
+	<QuestPrizeItem No="6" Quality="70" Size="5" UseNum="1" ItemTag="ITEM_MAT_BURST_BERRY" ItemPot_00="ITEM_POTENTIAL_YOBI_450" ItemPot_01="ITEM_POTENTIAL_DMGPLUS_2"/>
+	<QuestPrizeItem No="7" Quality="100" Size="5" UseNum="1" ItemTag="ITEM_MAT_PEAK_COTTON" ItemPot_00="ITEM_POTENTIAL_USE_COUNT_1"/>
+	<QuestPrizeItem No="8" Quality="80" Size="2" UseNum="1" ItemTag="ITEM_MAT_BEAST_FUR" ItemPot_00="ITEM_POTENTIAL_PRICE_UP_2"/>
+	<QuestPrizeItem No="9" Quality="85" Size="3" UseNum="1" ItemTag="ITEM_MAT_EISEN_MINERAL" ItemPot_00="ITEM_POTENTIAL_ADD_WEAPON_DAMAGE_1"/>
+	<QuestPrizeItem No="10" Quality="50" Size="4" UseNum="1" ItemTag="ITEM_MIX_CLOTH" ItemPot_00="ITEM_POTENTIAL_DEF_3"/>
+	<QuestPrizeItem No="11" Quality="50" Size="4" UseNum="1" ItemTag="ITEM_MIX_INGOT" ItemPot_00="ITEM_POTENTIAL_ATK_3"/>
+	<QuestPrizeItem No="12" Quality="95" Size="3" UseNum="1" ItemTag="ITEM_MAT_HOLY_WATER" ItemPot_00="ITEM_POTENTIAL_YOBI_446"/>
+	<QuestPrizeItem No="13" Quality="70" Size="3" UseNum="1" ItemTag="ITEM_MAT_LITHOGRAPH" ItemPot_00="ITEM_POTENTIAL_YOBI_438"/>
+	<QuestPrizeItem No="14" Quality="100" Size="2" UseNum="1" ItemTag="ITEM_MAT_KIRUHEN_MILK" ItemPot_00="ITEM_POTENTIAL_YOBI_443"/>
+	<QuestPrizeItem No="15" Quality="80" Size="3" UseNum="1" ItemTag="ITEM_MAT_MYSTIC_HERB" ItemPot_00="ITEM_POTENTIAL_MAXHP_2"/>
+	<QuestPrizeItem No="16" Quality="120" Size="1" UseNum="1" ItemTag="ITEM_MAT_PUNIPUNI_BALL" ItemPot_00="ITEM_POTENTIAL_DRAIN_1"/>
+	<QuestPrizeItem No="17" Quality="80" Size="2" UseNum="1" ItemTag="ITEM_MIX_ZETTEL" ItemPot_00="ITEM_POTENTIAL_SKILLCOST_1"/>
+	<QuestPrizeItem No="18" Quality="70" Size="2" UseNum="1" ItemTag="ITEM_MAT_PENDEROCK" ItemPot_00="ITEM_POTENTIAL_MAXHP_1" ItemPot_01="ITEM_POTENTIAL_MAXLP_1"/>
+	<QuestPrizeItem No="19" Quality="55" Size="3" UseNum="1" ItemTag="ITEM_MAT_FAIRY_POISONOUS_GRASS" ItemPot_00="ITEM_POTENTIAL_YOBI_431"/>
+	<QuestPrizeItem No="20" Quality="80" Size="3" UseNum="1" ItemTag="ITEM_MAT_FADENRITE" ItemPot_00="ITEM_POTENTIAL_BALANCE_2"/>
+	<QuestPrizeItem No="21" Quality="85" Size="4" UseNum="1" ItemTag="ITEM_MAT_LAMER_WEIZEN" ItemPot_00="ITEM_POTENTIAL_CRITICAL_1_AND_2"/>
+	<QuestPrizeItem No="22" Quality="70" Size="3" UseNum="1" ItemTag="ITEM_MAT_ISLAND_FISH_FIN" ItemPot_00="ITEM_POTENTIAL_YOBI_440"/>
+	<QuestPrizeItem No="23" Quality="70" Size="3" UseNum="1" ItemTag="ITEM_MAT_HOLY_WATER" ItemPot_00="ITEM_POTENTIAL_YOBI_446"/>
+	<QuestPrizeItem No="24" Quality="75" Size="5" UseNum="1" ItemTag="ITEM_MAT_LUXURY_CHURCH_AMULETS" ItemPot_00="ITEM_POTENTIAL_HEALPLUS_2" ItemPot_01="ITEM_POTENTIAL_HEALPLUS_FIX_2"/>
+	<QuestPrizeItem No="25" Quality="55" Size="3" UseNum="1" ItemTag="ITEM_MAT_SILVER_POTATO" ItemPot_00="ITEM_POTENTIAL_YOBI_449"/>
+	<QuestPrizeItem No="26" Quality="70" Size="3" UseNum="1" ItemTag="ITEM_MAT_WEIZENMEHL" ItemPot_00="ITEM_POTENTIAL_YOBI_448"/>
+	<QuestPrizeItem No="27" Quality="80" Size="2" UseNum="1" ItemTag="ITEM_MAT_MUD_DUMPLING" ItemPot_00="ITEM_POTENTIAL_DMGPLUS_FIX_2"/>
+	<QuestPrizeItem No="28" Quality="75" Size="2" UseNum="1" ItemTag="ITEM_MAT_REIDEN_MINERAL" ItemPot_00="ITEM_POTENTIAL_YOBI_434"/>
+	<QuestPrizeItem No="29" Quality="100" Size="1" UseNum="1" ItemTag="ITEM_MAT_DELICIOUS_WATER" ItemPot_00="ITEM_POTENTIAL_ADD_POISON"/>
+	<QuestPrizeItem No="30" Quality="50" Size="5" UseNum="1" ItemTag="ITEM_MAT_SP_ITEM_002" ItemPot_00="ITEM_POTENTIAL_QUICK_USE_1" ItemPot_01="ITEM_POTENTIAL_YOBI_362" ItemPot_02="ITEM_POTENTIAL_FORCED_USE_1"/>
+	<QuestPrizeItem No="31" Quality="100" Size="1" UseNum="1" ItemTag="ITEM_MAT_KAREN_STONE" ItemPot_00="ITEM_POTENTIAL_YOBI_435"/>
+	<QuestPrizeItem No="32" Quality="85" Size="4" UseNum="1" ItemTag="ITEM_MAT_KUPFER_MINERAL" ItemPot_00="ITEM_POTENTIAL_SKILLEFF_3"/>
+	<QuestPrizeItem No="33" Quality="75" Size="2" UseNum="1" ItemTag="ITEM_MAT_DELICIOUS_WATER" ItemPot_00="ITEM_POTENTIAL_CRITICAL_3"/>
+	<QuestPrizeItem No="34" Quality="100" Size="1" UseNum="1" ItemTag="ITEM_MAT_RAINBOW_CRYSTAL_PIECES" ItemPot_00="ITEM_POTENTIAL_YOBI_454"/>
+	<QuestPrizeItem No="35" Quality="80" Size="2" UseNum="1" ItemTag="ITEM_MAT_NITRO_WATER" ItemPot_00="ITEM_POTENTIAL_DMGPLUS_2" ItemPot_01="ITEM_POTENTIAL_PRICE_DOWN2"/>
+	<QuestPrizeItem No="36" Quality="75" Size="2" UseNum="1" ItemTag="ITEM_MAT_MYSTIC_HERB" ItemPot_00="ITEM_POTENTIAL_DMGPLUS_FIX_3"/>
+	<QuestPrizeItem No="37" Quality="88" Size="2" UseNum="1" ItemTag="ITEM_MAT_BEAUTIFUL_SEASHELL" ItemPot_00="ITEM_POTENTIAL_ADD_MAXHP_MAXMP_1"/>
+	<QuestPrizeItem No="38" Quality="120" Size="5" UseNum="1" ItemTag="ITEM_MAT_UNI" ItemPot_00="ITEM_POTENTIAL_DMGPLUS_1" ItemPot_01="ITEM_POTENTIAL_DMGPLUS_FIX_1" ItemPot_02="ITEM_POTENTIAL_CRITICAL_1"/>
+	<QuestPrizeItem No="39" Quality="100" Size="2" UseNum="1" ItemTag="ITEM_MAT_MAGIC_GRASS" ItemPot_00="ITEM_POTENTIAL_HEALPLUS_FIX_2"/>
+	<QuestPrizeItem No="40" Quality="75" Size="4" UseNum="1" ItemTag="ITEM_MAT_MALLEABLE_MATERIA" ItemPot_00="ITEM_POTENTIAL_USE_COUNT_D_2" ItemPot_01="ITEM_POTENTIAL_MAXMP_1"/>
+	<QuestPrizeItem No="41" Quality="80" Size="2" UseNum="1" ItemTag="ITEM_MAT_HONEY_BEEHIVE" ItemPot_00="ITEM_POTENTIAL_SPECIAL_BEAST" ItemPot_01="ITEM_POTENTIAL_SPECIAL_DRAGON" ItemPot_02="ITEM_POTENTIAL_SPECIAL_PUNI"/>
+	<QuestPrizeItem No="42" Quality="100" Size="5" UseNum="1" ItemTag="ITEM_MAT_LAMER_WEIZEN" ItemPot_00="ITEM_POTENTIAL_SIZE_UP_2"/>
+	<QuestPrizeItem No="43" Quality="80" Size="3" UseNum="1" ItemTag="ITEM_MAT_BURST_BERRY" ItemPot_00="ITEM_POTENTIAL_YOBI_450"/>
+	<QuestPrizeItem No="44" Quality="75" Size="2" UseNum="1" ItemTag="ITEM_MAT_SILVER_POTATO" ItemPot_00="ITEM_POTENTIAL_YOBI_449" ItemPot_01="ITEM_POTENTIAL_ADD_WEAPON_DAMAGE_1"/>
+	<QuestPrizeItem No="45" Quality="65" Size="3" UseNum="1" ItemTag="ITEM_MAT_SEABED_SOIL" ItemPot_00="ITEM_POTENTIAL_BALANCE_2"/>
+	<QuestPrizeItem No="46" Quality="80" Size="1" UseNum="1" ItemTag="ITEM_MAT_BLACK_MASS" ItemPot_00="ITEM_POTENTIAL_YOBI_437"/>
+	<QuestPrizeItem No="47" Quality="100" Size="3" UseNum="1" ItemTag="ITEM_MAT_KIFA" ItemPot_00="ITEM_POTENTIAL_ADD_SLOW"/>
+	<QuestPrizeItem No="48" Quality="85" Size="2" UseNum="1" ItemTag="ITEM_MAT_HONEY_BEEHIVE" ItemPot_00="ITEM_POTENTIAL_STATUS_EVO_1_AND_2"/>
+	<QuestPrizeItem No="49" Quality="50" Size="1" UseNum="1" ItemTag="ITEM_MAT_SUN_POWDER" ItemPot_00="ITEM_POTENTIAL_USE_COUNT_SP"/>
+	<QuestPrizeItem No="50" Quality="60" Size="2" UseNum="1" ItemTag="ITEM_MAT_STAR_POWDER" ItemPot_00="ITEM_POTENTIAL_HIQUALITY_1_AND_2"/>
+	<QuestPrizeItem No="51" Quality="65" Size="3" UseNum="1" ItemTag="ITEM_MAT_PELREM_SHELL" ItemPot_00="ITEM_POTENTIAL_YOBI_453"/>
+	<QuestPrizeItem No="52" Quality="80" Size="1" UseNum="1" ItemTag="ITEM_MAT_BEAUTIFUL_PIECES" ItemPot_00="ITEM_POTENTIAL_ADD_MAXHP_MAXMP_1"/>
+	<QuestPrizeItem No="53" Quality="100" Size="3" UseNum="1" ItemTag="ITEM_MAT_NATURE_OIL" ItemPot_00="ITEM_POTENTIAL_SKILLEFF_1"/>
+	<QuestPrizeItem No="54" Quality="75" Size="2" UseNum="1" ItemTag="ITEM_MAT_BLUE_CRYSTAL" ItemPot_00="ITEM_POTENTIAL_ALL_PRM_1"/>
+	<QuestPrizeItem No="55" Quality="85" Size="3" UseNum="1" ItemTag="ITEM_MAT_FADENRITE" ItemPot_00="ITEM_POTENTIAL_ATK_2" ItemPot_01="ITEM_POTENTIAL_DEF_1" ItemPot_02="ITEM_POTENTIAL_ATK_AND_SPD_1"/>
+</Root>

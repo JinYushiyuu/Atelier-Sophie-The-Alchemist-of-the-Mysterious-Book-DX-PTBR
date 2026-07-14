@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<command load_anim="Saves/ui/a17_battle/uia_a17_battle.xml"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_white_image" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 255.00" size_wh="1280.00, 720.00, 0.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="true">
+		<node name="ComboFinish" visible="false" viewer_visible="true">
+			<node name="eff" pos="0, -47, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="eff_play_1" pos="640.00, 360.00, -0.00" rot="-0.00, -0.00, -0.00" scale="3.50, 3.50, 3.50" size_h="130.00" size_w="0.00" style="common_none_image" color="255.00, 200.00, 160.00, 255.00"/>
+				<image name="eff_play_2" pos="640.00, 360.00, -0.00" rot="-0.00, -0.00, -0.00" scale="3.00, 3.00, 3.00" size_h="249.00" size_w="0.00" style="common_none_image" color="255.00, 200.00, 160.00, 255.00"/>
+				<image name="eff_play_3" pos="640.00, 450.00, 0.00" rot="0.00, 0.00, 0.00" scale="5.00, 50.00, 5.00" size_h="757.00" size_w="1.00" style="common_none_image"/>
+			</node>
+			<image name="chara5" style="etc_a17_battle_characutin" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_enable="true" pivot_pos="415.00, 360.00, 0.00" pos="-1.00, -1.00, 0.00" color="96.00, 128.00, 255.00, 160.00" alpha_blend="add"/>
+			<image name="chara4" style="etc_a17_battle_characutin" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_enable="true" pivot_pos="415.00, 360.00, 0.00" pos="-1.00, -1.00, 0.00" color="160.00, 96.00, 255.00, 160.00" alpha_blend="add"/>
+			<image name="chara3" style="etc_a17_battle_characutin" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_enable="true" pivot_pos="415.00, 360.00, 0.00" pos="-1.00, -1.00, 0.00" color="255.00, 128.00, 128.00, 160.00" alpha_blend="add"/>
+			<image name="chara2" style="etc_a17_battle_characutin" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_enable="true" pivot_pos="415.00, 360.00, 0.00" pos="-1.00, -1.00, 0.00" color="0.00, 0.00, 0.00, 128.00" alpha_blend="add"/>
+			<image name="chara1" style="etc_a17_battle_characutin" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_enable="true" pivot_pos="415.00, 360.00, 0.00" pos="-1.00, -1.00, 0.00"/>
+			<node name="bg">
+				<image name="accessory01" style="gen_a17_battle07_accessory01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="accessory02" style="gen_a17_battle07_accessory02" pos="260.00, 405.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<!--***↓攻撃用のSpecial Attack ***-->
+				<node name="special_attack" pos="-352.00, -271.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node name="special" viewer_visible="false" rot="0.00, 0.00, -15.00" pos="7.00, 46.00, 0.00">
+						<image name="s" style="gen_a17_battle09_cutin_text01" pos="263, 378, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="pecial" style="gen_a17_battle09_cutin_text02" pos="344, 371, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+					<node name="attack" pos="-0.00, -0.00, -0.00" rot="0.00, 0.00, -15.00" scale="1.00, 1.00, 1.00">
+						<image name="a" style="gen_a17_battle09_cutin_text03" pos="569, 494, -0" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="ttack" style="gen_a17_battle09_cutin_text04" pos="652.00, 498.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+					<node name="guard" pos="-0.00, -0.00, -0.00" rot="0.00, 0.00, -15.00" scale="1.00, 1.00, 1.00">
+						<image name="g" style="gen_a17_battle09_cutin_text05" pos="569.00, 494.00, -0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="uard" style="gen_a17_battle09_cutin_text06" pos="652.00, 498.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+				</node>
+			</node>
+			<anim_ctrl name="enter" viewer_key_assign="7" start_visible="true">
+				<bind_node node="ComboFinish" anim="common_dummy" start_visible="true"/>
+				<bind_node node="accessory01" anim="cutin_acc_u_enter" speed="5.00" delay="0.30"/>
+				<bind_node node="accessory02" anim="cutin_acc_d_enter" speed="5.00" delay="0.30"/>
+				<bind_node anim="common_dummy" node="eff_play_1" delay="0.50"/>
+				<bind_node anim="common_dummy" node="eff_play_2" delay="0.50"/>
+				<bind_node anim="common_dummy" node="eff_play_3" delay="0.50"/>
+				<bind_node node="chara1" anim="cutin_chara_enter" delay="0.00" speed="10.00"/>
+				<bind_node node="chara2" anim="cutin_chara_enter" delay="0.05" speed="10.00"/>
+				<bind_node node="chara3" anim="cutin_chara_enter" delay="0.20" speed="10.00"/>
+				<bind_node node="chara4" anim="cutin_chara_enter" delay="0.30" speed="10.00"/>
+				<bind_node node="chara5" anim="cutin_chara_enter" delay="0.40" speed="10.00"/>
+				<bind_node node="s" anim="cutin_string_enter" delay="0.30" speed="5.00"/>
+				<bind_node node="pecial" anim="cutin_string_enter" delay="0.35" speed="5.00"/>
+				<bind_node node="a" anim="cutin_s_enter" delay="0.40" speed="5.00"/>
+				<bind_node node="ttack" anim="cutin_string_enter" delay="0.45" speed="5.00"/>
+				<bind_node node="g" anim="cutin_s_enter" delay="0.40" speed="5.00"/>
+				<bind_node node="uard" anim="cutin_string_enter" delay="0.45" speed="5.00"/>
+				<bind_node node="chara1" anim="combo_finish_chara_exit" speed="4.00" delay="1.50"/>
+				<bind_node node="chara2" anim="combo_finish_chara_exit" delay="1.55" speed="4.00"/>
+				<bind_node node="chara3" anim="combo_finish_chara_exit" delay="1.60" speed="4.00"/>
+				<bind_node node="chara4" anim="combo_finish_chara_exit" delay="1.65" speed="4.00"/>
+				<bind_node node="chara5" anim="combo_finish_chara_exit" delay="1.70" speed="4.00"/>
+				<bind_node node="bg" anim="common_fade_out" delay="1.70" speed="5.00"/>
+			</anim_ctrl>
+		</node>
+	</node>
+</root>

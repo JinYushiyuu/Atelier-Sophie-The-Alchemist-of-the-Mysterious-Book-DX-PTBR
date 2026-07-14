@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<dollmakeBgmData No="0" min_doll_num="0" bgm_tag="BGM_SONG_TRAIN01_LOOP01"/>
+	<dollmakeBgmData No="1" min_doll_num="3" bgm_tag="BGM_SONG_TRAIN01_LOOP02"/>
+	<dollmakeBgmData No="2" min_doll_num="6" bgm_tag="BGM_SONG_TRAIN01_LOOP03"/>
+	<dollmakeBgmData No="3" min_doll_num="99" bgm_tag="BGM_SONG_TRAIN01_LOOP04"/>
+</Root>

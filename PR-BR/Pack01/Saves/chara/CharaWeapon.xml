@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<CharaWeapon BaseTag="PC00A" WeaponNo="0" Node1="P_M_Wep_A_Stick1_xScAT"/>
+	<CharaWeapon BaseTag="PC00A" WeaponNo="1" Node1="P_M_Wep_A_Stick2_xScAT"/>
+	<CharaWeapon BaseTag="PC00A" WeaponNo="2" Node1="P_M_Wep_A_Stick5_xScAT"/>
+	<CharaWeapon BaseTag="PC00A" WeaponNo="3" Node1="P_M_Wep_A_Stick3_xScAT"/>
+	<CharaWeapon BaseTag="PC00A" WeaponNo="4" Node1="P_M_Wep_A_Stick4_xScAT"/>
+	<CharaWeapon BaseTag="PC00B" WeaponNo="0" Node1="P_M_Wep_A_Stick1_xScAT"/>
+	<CharaWeapon BaseTag="PC00B" WeaponNo="1" Node1="P_M_Wep_A_Stick2_xScAT"/>
+	<CharaWeapon BaseTag="PC00B" WeaponNo="2" Node1="P_M_Wep_A_Stick5_xScAT"/>
+	<CharaWeapon BaseTag="PC00B" WeaponNo="3" Node1="P_M_Wep_A_Stick3_xScAT"/>
+	<CharaWeapon BaseTag="PC00B" WeaponNo="4" Node1="P_M_Wep_A_Stick4_xScAT"/>
+	<CharaWeapon BaseTag="PC00C" WeaponNo="0" Node1="P_M_Wep_A_Stick1_xScAT"/>
+	<CharaWeapon BaseTag="PC00C" WeaponNo="1" Node1="P_M_Wep_A_Stick2_xScAT"/>
+	<CharaWeapon BaseTag="PC00C" WeaponNo="2" Node1="P_M_Wep_A_Stick5_xScAT"/>
+	<CharaWeapon BaseTag="PC00C" WeaponNo="3" Node1="P_M_Wep_A_Stick3_xScAT"/>
+	<CharaWeapon BaseTag="PC00C" WeaponNo="4" Node1="P_M_Wep_A_Stick4_xScAT"/>
+	<CharaWeapon BaseTag="PC01A" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01A" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01A" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01B" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01B" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01B" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01C" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01C" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01C" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01D" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01D" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01D" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01E" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01E" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01E" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01F" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01F" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01F" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01G" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01G" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01G" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01H" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01H" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01H" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01I" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01I" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01I" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01J" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01J" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01J" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01K" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01K" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01K" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01L" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01L" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01L" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01M" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01M" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01M" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC01N" WeaponNo="0" Node1="P_M_Wep_A_Sword1_R" Node2="P_M_Wep_A_Sword1_L" Node3="P_M_Wep_A_Arm1"/>
+	<CharaWeapon BaseTag="PC01N" WeaponNo="1" Node1="P_M_Wep_A_Sword3_R" Node2="P_M_Wep_A_Sword3_L" Node3="P_M_Wep_A_Arm3"/>
+	<CharaWeapon BaseTag="PC01N" WeaponNo="2" Node1="P_M_Wep_A_Sword2_R" Node2="P_M_Wep_A_Sword2_L" Node3="P_M_Wep_A_Arm2"/>
+	<CharaWeapon BaseTag="PC02A" WeaponNo="0" Node1="P_M_Wep_Sword01" Node2="P_M_Wep_Sword01Grip"/>
+	<CharaWeapon BaseTag="PC02A" WeaponNo="1" Node1="P_M_Wep_Sword02" Node2="P_M_Wep_Sword02Grip"/>
+	<CharaWeapon BaseTag="PC02A" WeaponNo="2" Node1="P_M_Wep_Sword05" Node2="P_M_Wep_Sword05Grip"/>
+	<CharaWeapon BaseTag="PC02A" WeaponNo="3" Node1="P_M_Wep_Sword03" Node2="P_M_Wep_Sword03Grip"/>
+	<CharaWeapon BaseTag="PC02A" WeaponNo="4" Node1="P_M_Wep_Sword04" Node2="P_M_Wep_Sword04Grip"/>
+	<CharaWeapon BaseTag="PC03A" WeaponNo="0" Node1="P_M_Wep_Scop"/>
+	<CharaWeapon BaseTag="PC03A" WeaponNo="1" Node1="P_M_Wep_A_Scoop2"/>
+	<CharaWeapon BaseTag="PC03A" WeaponNo="2" Node1="P_M_Wep_A_Scoop5"/>
+	<CharaWeapon BaseTag="PC03A" WeaponNo="3" Node1="P_M_Wep_A_Scoop3"/>
+	<CharaWeapon BaseTag="PC03A" WeaponNo="4" Node1="P_M_Wep_A_Scoop4"/>
+	<CharaWeapon BaseTag="PC04A" WeaponNo="0" Node1="P_M_Wep_A_Sword1"/>
+	<CharaWeapon BaseTag="PC04A" WeaponNo="1" Node1="P_M_Wep_A_Sword2"/>
+	<CharaWeapon BaseTag="PC04A" WeaponNo="2" Node1="P_M_Wep_A_Sword3"/>
+	<CharaWeapon BaseTag="PC05A" WeaponNo="0" Node1="P_M_Wep_A_L_sword1" Node2="P_M_Wep_A_R_sword1" Node3="P_M_Wep_A_grip_L1" Node4="P_M_Wep_A_grip_R1" Node5="P_M_Wep_A_Sheath_big" Node6="P_M_Wep_A_Sheath_sword"/>
+	<CharaWeapon BaseTag="PC05A" WeaponNo="1" Node1="P_M_Wep_A_L_sword2" Node2="P_M_Wep_A_R_sword2" Node3="P_M_Wep_A_grip_L2" Node4="P_M_Wep_A_grip_R2" Node5="P_M_Wep_A_Sheath_big" Node6="P_M_Wep_A_Sheath_katana"/>
+	<CharaWeapon BaseTag="PC05A" WeaponNo="2" Node1="P_M_Wep_A_L_sword3" Node2="P_M_Wep_A_R_sword3" Node3="P_M_Wep_A_grip_L3" Node4="P_M_Wep_A_grip_R3" Node5="P_M_Wep_A_Sheath_big" Node6="P_M_Wep_A_Sheath_katana"/>
+	<CharaWeapon BaseTag="PC08A" WeaponNo="0" Node1="P_M_Wep_A_Spear1"/>
+	<CharaWeapon BaseTag="PC08A" WeaponNo="1" Node1="P_M_Wep_A_Spear2"/>
+	<CharaWeapon BaseTag="PC08A" WeaponNo="2" Node1="P_M_Wep_A_Spear3"/>
+	<CharaWeapon BaseTag="MOB38A" WeaponNo="0" Node1="P_M_Opt_A_Pestle02"/>
+	<CharaWeapon BaseTag="MOB38A" WeaponNo="1" Node1="P_M_Opt_A_Pestle01"/>
+	<CharaWeapon BaseTag="MOB38B" WeaponNo="0" Node1="P_M_Opt_A_Pestle02"/>
+	<CharaWeapon BaseTag="MOB38B" WeaponNo="1" Node1="P_M_Opt_A_Pestle01"/>
+	<CharaWeapon BaseTag="PC00D" WeaponNo="0" Node1="P_M_Wep_A_Stick1_xScAT"/>
+	<CharaWeapon BaseTag="PC00D" WeaponNo="1" Node1="P_M_Wep_A_Stick2_xScAT"/>
+	<CharaWeapon BaseTag="PC00D" WeaponNo="2" Node1="P_M_Wep_A_Stick5_xScAT"/>
+	<CharaWeapon BaseTag="PC00D" WeaponNo="3" Node1="P_M_Wep_A_Stick3_xScAT"/>
+	<CharaWeapon BaseTag="PC00D" WeaponNo="4" Node1="P_M_Wep_A_Stick4_xScAT"/>
+</Root>

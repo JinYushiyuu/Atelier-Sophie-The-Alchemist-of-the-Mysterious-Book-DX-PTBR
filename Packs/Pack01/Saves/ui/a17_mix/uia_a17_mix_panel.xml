@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+  <!--■■■■■■■■■■■■■■背景液体回転アニメーション■■■■■■■■■■■■■■-->
+  <anim name="requid_rotate">
+    <curve attr="rot">
+      <key time="0.0" value="0.0,0.0,0.0"/>
+      <key time="300.0" value="0.0,0.0,360.0"/>
+    </curve>
+  </anim>
+  
+  
+  <!--■■■■■■■■■■■■■■触媒選択アニメーション■■■■■■■■■■■■■■-->
+
+  <!--触媒名入場-->
+  <anim name="catalyst_name_in">
+    <curve attr="rot">
+      <key time="0.0" value="80.0,0.0,0.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+    </curve>
+    <curve attr="color" >
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.25" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  <!--右移動-->
+  <anim name="catalyst_move_right">
+     <curve attr="pos">
+      <key time="0.0" value="-25.0,15.0,30.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+    </curve>
+  </anim>
+  <!--左移動-->
+  <anim name="catalyst_move_left">
+    <curve attr="pos">
+      <key time="0.0" value="25.0,-15.0,-30.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+    </curve>
+  </anim>
+  <!--右移動入場-->
+  <anim name="catalyst_right_in">
+    <curve attr="pos">
+      <key time="0.0" value="-50.0,30.0,60.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+    </curve>
+    <curve attr="color" >
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.125" value="255,255,255,0"/>
+      <key time="0.25" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  <!--左移動入場-->
+  <anim name="catalyst_left_in">
+    <curve attr="pos">
+      <key time="0.0" value="50.0,-30.0,-60.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.125" value="255,255,255,0"/>
+      <key time="0.25" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  <!--■■■■■■■■■■■■■■パネル(ブロック)入退場アニメーション■■■■■■■■■■■■■■-->
+   <anim name="block_in">
+    <curve attr="rot">
+      <key time="0.0" value="-70.0,-70.0,0.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.25" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  <!--全体のスケーリングと位置調整はプログラム制御-->
+  
+  <!--■■■■■■■■■■■■■■パネルアニメーション■■■■■■■■■■■■■■-->
+  
+  <!--調合ボーナスアイコン-->
+  <anim name="bonus_icon">
+    <curve attr="rot">
+      <key time="0.0" value="0,0,360"/>
+      <key time="12.0" value="0,0,0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="192,192,192,192"/>
+      <key time="3.0" value="128,128,128,128"/>
+      <key time="6.0" value="255,255,255,255"/>
+      <key time="9.0" value="128,128,128,128"/>
+      <key time="12.0" value="192,192,192,192"/>
+    </curve>
+  </anim>
+  <anim name="bonus_icon_add">
+    <curve attr="rot">
+      <key time="0.0" value="0,0,0"/>
+      <key time="12.0" value="0,0,360"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="2.0" value="192,192,192,192"/>
+      <key time="4.0" value="255,255,255,255"/>
+      <key time="6.0" value="192,192,192,192"/>
+      <key time="8.0" value="255,255,255,255"/>
+      <key time="10.0" value="192,192,192,192"/>
+      <key time="12.0" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  <!--選択点滅-->
+  <anim name="block_select_blink">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,224"/>
+      <key time="0.5" value="255,255,255,160"/>
+      <key time="1.0" value="255,255,255,224"/>
+    </curve>
+  </anim>
+
+  <!--■■■■■■■■■■■■■■調合ゲージアニメーション■■■■■■■■■■■■■■-->
+  
+  <!--ゲージ入場-->
+  <anim name="catalyst_gage_in">
+    <curve attr="rot">
+      <key time="0.0" value="-80.0,0.0,0.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+    </curve>
+    <curve attr="color" >
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.25" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  
+  
+  <!--■■■■■■■■■■■■■■調合ボーナスカットインアニメーション■■■■■■■■■■■■■■-->
+  
+  <anim name="bonus_cut_in">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0" value="0.0,160.0,0.0"/>
+      <key time="0.2" value="0.0,20.0,0.0"/>
+      <key time="0.8" value="0.0,-20.0,0.0"/>
+      <key time="1.0" value="0.0,-160.0,0.0"/>
+    </curve>
+    <curve attr="color" >
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.25" value="255,255,255,255"/>
+      <key time="0.75" value="255,255,255,255"/>
+      <key time="1.00" value="255,255,255,0"/>
+    </curve>
+  </anim>
+  
+  <!--■■■■■■■■■■■■■■調合アニメーション■■■■■■■■■■■■■■-->
+  
+  <!-- 全体 -->
+  <anim name="mix_mat_panel_root">
+    <curve attr="rot">
+      <key time="0.25" value="0,0,0"/>
+      <key time="2.5" value="0,0,180"/>
+    </curve>
+    <curve attr="scale">
+      <key time="0.25" value="1.0,1.0,1.0"/>
+      <key time="2.5" value="0.5,0.5,1.0"/>
+    </curve>
+  </anim>
+  
+  <!-- 先に消す -->
+  <anim name="mix_mat_pre_out">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="0.2" value="255,255,255,0"/>
+    </curve>
+  </anim>
+  <!-- アイテム画像 -->
+  <anim name="mix_mat_item_image">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="0.5" value="255,255,255,0"/>
+    </curve>
+    <curve attr="scale">
+      <key time="0.0" value="1.0,1.0,1.0"/>
+      <key time="0.5" value="0.1,0.1,1.0"/>
+    </curve>
+    <curve attr="rot">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.5" value="0,0,180"/>
+    </curve>
+  </anim>
+  <!-- 取得ボーナスアイコン -->
+  <anim name="mix_mat_get_bonus">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.25" value="255,255,255,255"/>
+      <key time="2.5" value="255,255,255,0"/>
+    </curve>
+  </anim>
+  <!-- 背景液体 -->
+  <anim name="mix_mat_liquid">
+    <curve attr="rot" interpolate="spline">
+      <key time="0.0" value="0,0,0"/>
+      <key time="4.0" value="0,0,270"/>
+    </curve>
+  </anim>
+  <!-- 完成画像 -->
+  <anim name="mix_mat_itemsheet">
+    <curve attr="rot">
+      <key time="2.5" value="-360,-720,0"/>
+      <key time="3.5" value="0,0,0"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.0" value="0.0,0.0,5000.0"/>
+      <key time="2.5" value="0.0,0.0,5000.0"/>
+      <key time="3.5" value="0.0,0.0,0.0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="2.5" value="255,255,255,0"/>
+      <key time="3.5" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  <!-- 時間経過 -->
+  <anim name="clock_mix_anim">
+    <curve attr="pos">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.5" value="247,-80,0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="3.3" value="255,255,255,255"/>
+      <key time="3.5" value="255,255,255,0"/>
+    </curve>
+  </anim>
+    <anim name="clock_mix_anim_direct">
+    <curve attr="pos">
+      <key time="0.0" value="247,-80,0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.2" value="255,255,255,255"/>
+      <key time="3.3" value="255,255,255,255"/>
+      <key time="3.5" value="255,255,255,0"/>
+    </curve>
+  </anim>
+  <anim name="clock_change_day0">
+    <curve attr="rot">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.2" value="0,0,72"/>
+    </curve>
+  </anim>
+    <anim name="clock_change_day1">
+    <curve attr="rot">
+      <key time="0.0" value="0,0,72"/>
+      <key time="0.2" value="0,0,144"/>
+    </curve>
+  </anim>
+    <anim name="clock_change_day2">
+    <curve attr="rot">
+      <key time="0.0" value="0,0,144"/>
+      <key time="0.2" value="0,0,216"/>
+    </curve>
+  </anim>
+    <anim name="clock_change_day3">
+    <curve attr="rot">
+      <key time="0.0" value="0,0,216"/>
+      <key time="0.2" value="0,0,288"/>
+    </curve>
+  </anim>
+    <anim name="clock_change_day4">
+    <curve attr="rot">
+      <key time="0.0" value="0,0,288"/>
+      <key time="0.2" value="0,0,360"/>
+    </curve>
+  </anim>
+
+
+  <!--■■■■■■■■■■■■■■アイテムブロックアニメーション■■■■■■■■■■■■■■-->
+  <anim name="circle_clockwise">
+    <curve attr="rot">
+      <key time="0.0" value="0,0,0"/>
+      <key time="3.0" value="0,0,360"/>
+    </curve>
+  </anim>
+  <anim name="circle_counterclockwise">
+    <curve attr="rot">
+      <key time="0.0" value="0,0,360"/>
+      <key time="2.5" value="0,0,0"/>
+    </curve>
+  </anim>
+  <anim name="joint_add">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,192"/>
+      <key time="1.0" value="0,0,0,64"/>
+      <key time="2.0" value="255,255,255,192"/>
+    </curve>
+  </anim>
+
+  <anim name="eff_blink">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="0.5" value="255,255,255,128"/>
+      <key time="1.0" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  <!--■■■■■■■■■■■■■■色割合アニメーション■■■■■■■■■■■■■■-->
+  <anim name="proportion_up">
+    <curve attr="scale">
+      <key time="0.0" value="1.0,1.0,1.0"/>
+      <key time="0.075" value="2.0,2.0,1.0"/>
+      <key time="0.225" value="1.0,1.0,1.0"/>
+    </curve>
+  </anim>
+  <anim name="proportion_blink">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.3" value="255,255,255,255"/>
+      <key time="0.6" value="255,255,255,0"/>
+      <key time="0.9" value="255,255,255,255"/>
+      <key time="1.2" value="255,255,255,0"/>
+    </curve>
+  </anim>
+  <anim name="proportion_bonus">
+    <curve attr="scale">
+      <key time="0.0" value="1.0,1.0,1.0"/>
+      <key time="0.3" value="1.1,1.1,1.0"/>
+      <key time="0.6" value="1.0,1.0,1.0"/>
+      <key time="0.9" value="1.1,1.1,1.0"/>
+      <key time="1.2" value="1.0,1.0,1.0"/>
+    </curve>
+  </anim>
+
+
+</root>
+

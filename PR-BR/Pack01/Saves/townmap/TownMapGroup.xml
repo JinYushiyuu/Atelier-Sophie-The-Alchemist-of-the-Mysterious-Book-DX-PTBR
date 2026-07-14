@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <TownMapGroup name="Atelier" tmTag="TOWN_MAP_TM0"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM1"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM2"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM3"/>
+    <TownMapGroup name="Nearby Forest" tmTag="TOWN_MAP_TM4"/>
+    <TownMapGroup name="Edge of Town" tmTag="TOWN_MAP_TM5"/>
+    <TownMapGroup name="Old Town" tmTag="TOWN_MAP_TM6"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM13"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM15"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM16"/>
+    <TownMapGroup name="Plaza" tmTag="TOWN_MAP_TM7"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM14"/>
+    <TownMapGroup name="Street" tmTag="TOWN_MAP_TM8"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM10"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM11"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM12"/>
+    <TownMapGroup name="Town Entrance" tmTag="TOWN_MAP_TM9"/>
+    <TownMapGroup name="To World Map" tmTag="TOWN_MAP_TM17"/>
+</Root>

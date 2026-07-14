@@ -1,0 +1,421 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM08_120.ebm",
+    "nb_messages": 0x2d,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Luard..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x2,
+            "msg_string": "So you've come, Plachta. Do you intend to kill me again?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "No, Luard. We're here to persuade you."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x2,
+            "msg_string": "Persuade me...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Luard. You need to stop using Ablation Alchemy right now."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x2,
+            "msg_string": "You've come all this way... Just to say that again?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x2,
+            "msg_string": "Do you still not understand the power of Ablation Alchemy?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "unknown2": 0x2,
+            "msg_string": "Ablation Alchemy is the supreme form of alchemy, allowing one to create anything they desire."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Luard, that power won't bring happiness to anyone."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "If you continue to use Ablation Alchemy, the power of nature will eventually be exhausted."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x24,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "Alchemy that sacrifices the future for temporary gains is wrong."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Just take a look at Sophie. Every day, she improves her skills with alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "If she continues to develop at this rate, I'm sure that she'll become an alchemist who helps countless people."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "The alchemy that you use smothers out people like Sophie. People who have a potential future."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "unknown2": 0x2,
+            "msg_string": "You would wait that long, for mere chance?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "unknown2": 0x2,
+            "msg_string": "Uncertain futures do not concern me. The most important time is the present, and mastering this magnificent power."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "unknown2": 0x2,
+            "msg_string": "My goal is mastery of this form of alchemy. That goal has never changed, since long ago."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "No, you're wrong, Luard. That wasn't your goal before."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x12,
+            "unknown2": 0x2,
+            "msg_string": "What...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Look at this!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "unknown2": 0x2,
+            "msg_string": "That's..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x15,
+            "msg_string": "It's the first item that you and Plachta made together. This is what started your dream, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "Was mastery of alchemy really your goal, Luard? That's wrong, isn't it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x17,
+            "msg_string": "Your real goal... Your real dream... Was to use alchemy to bring people happiness."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x18,
+            "msg_string": "You need to remember, Luard!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x19,
+            "unknown2": 0x2,
+            "msg_string": "...How annoying."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x1a,
+            "msg_string": "Huh...?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1b,
+            "unknown2": 0x2,
+            "msg_string": "I simply wish to master alchemy. The method I use is the shortest path to that goal."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x12,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "unknown2": 0x2,
+            "msg_string": "If you wish for my happiness, then leave me be. However, if you choose to interfere... I will show no mercy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x1d,
+            "msg_string": "Luard! Listen to us!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "Sophie... You've done enough."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x1f,
+            "msg_string": "Plachta...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x20,
+            "msg_string": "It seems 500 years was too long to wait."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x21,
+            "msg_string": "Just like how I lost my memories, it seems Luard has completely forgotten his original ideals."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x22,
+            "msg_string": "However, if Luard is going to continue using Ablation Alchemy, we cannot allow him to do as he pleases."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0x23,
+            "msg_string": "I'll kill Luard myself."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x3,
+            "msg_id": 0x24,
+            "msg_string": "But...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "If we don't stop Luard here and now, many people will know only misfortune."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Sophie... There's no need to include the two of us among the people you wish to make happy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x28,
+            "msg_string": "I'd like you to bring happiness to even more people in the future, in our place."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x3,
+            "msg_id": 0x29,
+            "msg_string": "Plachta..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x2a,
+            "msg_string": "Now, take up your staff."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x3,
+            "msg_id": 0x2b,
+            "msg_string": "Okay..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x2c,
+            "msg_string": "Here we come, Luard!"
+        }
+    ]
+}

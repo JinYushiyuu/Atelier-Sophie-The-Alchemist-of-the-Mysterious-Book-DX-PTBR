@@ -1,0 +1,346 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_030.ebm",
+    "nb_messages": 0x26,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x6d,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sophie, I'm here to do the cleaning. I figured your atelier would be in dire need by now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Monika! Don't you worry. Look, it's still perfectly clean."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "You think so...? It looks pretty bad to me..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "There are books lying everywhere, and candy wrappers..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "Uwah, what's this?! Why do you have dried up ingredients displayed on a shelf?!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oh, those... They're not on display, as such... I just put them there to use later..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Of course you did... I should be used to you by now..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "You sit down and have some tea, Sophie. I'll clean the place up for you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Sure, that'd be great... Thanks."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Okay, that's much better. I think it's time for a short break."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Yes, come on over here, Monika. I've made you some lovely tea."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "You look very relaxed there, I must say..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Oh, I meant to ask... What's with those clothes?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xd,
+            "msg_string": "I've been wondering when you were going to ask! I thought you might just ignore them."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "I'd never be so rude! I was just waiting for the right moment!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Haha, of course. Anyway, these clothes were my grandmother's. I found them in my container!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "We'll forget for a moment that you had clothes in your container... Those are Ramizel's?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Yup. I think she probably wore them when she was around my age!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Haha, with these clothes, I can become a truly great alchemist too!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Hmm... A great alchemist..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x14,
+            "msg_string": "Wh-What...? You don't think I can be great?!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "No, it's not that... It's just, you said something similar before."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x16,
+            "msg_string": "Before?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Yes. When you first started wearing that blue coat of yours."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "You only started wearing that to make yourself seem bigger, as I recall."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Changing your appearance won't change who you are. Have you grown at all since then, Sophie?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x1a,
+            "msg_string": "Wha-...?! Of course I have! I'm much taller for one... And I've got much better at alchemy!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Huh... Well, I guess you can claim anything you like."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x1c,
+            "msg_string": "Oh, you're being very mean today, Monika..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "No, no, not at all. I just want to see all this growing you've been doing for myself."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1e,
+            "msg_string": "Well, I'd love to show you... But how?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "Hehe, leave that to me. I have the perfect idea."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x20,
+            "msg_string": "I was going to wait until after I finished cleaning to tell you, but I have a job from Horst."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x21,
+            "msg_string": "He wants me to defeat a certain monster... But I was thinking you could take care of it instead."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x22,
+            "msg_string": "O-Okay. That sounds good. It'll be no problem for the new me!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "I figured as much. After all, you've grown so much, right, Sophie?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x24,
+            "msg_string": "So you should probably start getting ready. We should head off once I finish up here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "expr_id": 0xe,
+            "msg_id": 0x25,
+            "msg_string": "S-Sure... Just you wait and see, Monika. I'll show you just what I can do now!"
+        }
+    ]
+}

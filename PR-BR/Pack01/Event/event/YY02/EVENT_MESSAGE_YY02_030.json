@@ -1,0 +1,440 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY02_030.ebm",
+    "nb_messages": 0x31,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Are you two okay? Are you hurt?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, we're fine... To think you'd end up saving us."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "...Our bodies can't die. You could have just left us."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "No, I couldn't do that. It's only natural to help someone in trouble."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "...You're the same as always."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "I don't mind being this way... Anyway, could you tell us now?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Tell you what?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "It's no use feigning ignorance. We want to know the reason why you're here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "And not just here. The reason why you've been visiting various places... You're going to tell us everything."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Oh, it's fine if you don't tell us... But we'll keep chasing you around until you do."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "...What should we do?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "...Haah, let's just give up. If we try to give them the slip, she really will chase us to the ends of the earth."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "...Right. This is Sophie we're talking about, after all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "It's not that big of a deal. We just want to be able to use alchemy again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xe,
+            "msg_string": "Alchemy...! Don't tell me you still intend to use Ablation..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "I don't know, do we?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "...Anyway. We're searching various lands for a tool that can serve in place of the \"Cauldron of Knowledge\"."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "If we can't use alchemy, we can't even defeat monsters like earlier. It's quite inconvenient."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "But we haven't found anything. No matter where we go, we can't even find decent alchemy documents."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x6d,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Thus, as a final gleam of hope, we returned to our atelier."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x6d,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Yup. We thought Plachta might have left an interesting book lying around."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "I see... So that's what you were doing..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Hm? What is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "To be honest... In this archive, there should be a recipe memo that served as a model for the Cauldron of Knowledge."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "With that tool, it would be possible for them to use basic alchemy, at least."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Now that we know their objective, we should destroy it and..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "I see... Sorry, Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "What?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Um, you two? Plachta says there's a memo for a tool that served as the base for the Cauldron of Knowledge."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "If I find that memo, and make that tool... You two should be able to use alchemy again!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "So I want you to trust in me... And wait back in my atelier, okay?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x20,
+            "msg_string": "S-Sophie!? W-why would you tell them such a thing!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x21,
+            "msg_string": "If they're capable of using alchemy, they may start abusing Ablation Alchemy again...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "It's okay, Plachta. They'll be fine now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Besides... If they try using Ablation Alchemy again, I'll beat them up without any mercy!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x24,
+            "msg_string": "Haah... You're always like this..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x25,
+            "msg_string": "...I understand. I'll leave this matter entirely in your hands."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x26,
+            "msg_string": "...You're both hopelessly soft hearted. Is it really okay? We'll seriously be counting on you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x49,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Yeah, just leave it to me!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0xd,
+            "msg_id": 0x28,
+            "msg_string": "I really... Detest that part of you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Oh come now. Let's just accept her good will graciously."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Anyway... We'll be waiting back at your atelier. See you there, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "...Bye."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "Okay! Now, I need to go find the memo that you wrote, Plachta!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2d,
+            "msg_string": "I still have mixed feelings about this... But very well."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2e,
+            "msg_string": "The memo is in this archive... Hidden in a place called the \"Dusk Bookshelf\"."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2f,
+            "msg_string": "...I'm making an exception for you. Don't forget that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x47,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Yeah, I know... Thanks, Plachta."
+        }
+    ]
+}

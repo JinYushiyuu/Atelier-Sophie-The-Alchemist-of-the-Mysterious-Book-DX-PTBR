@@ -1,0 +1,1510 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+
+<!-- round -->
+	<anim name="anm_round_bg">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="anm_round_start2">
+		<curve attr="scale">
+			<key time="0.0"		value="0.0,0.1,1.0"/>
+			<key time="0.25"	value="2.5,0.1,1.0"/>
+			<key time="0.35"	value="1,1,1"/>
+			<key time="1.2"		value="1,1,1"/>
+			<key time="1.4"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.3"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="anm_round_start">
+		<curve attr="scale">
+			<key time="0.25"	value="1.5,1.5,1.5"/>
+			<key time="0.35"	value="1,1,1"/>
+			<key time="1.2"		value="1,1,1"/>
+			<key time="1.4"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.25"	value="255,255,255,0"/>
+			<key time="0.35"	value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="anm_round_end">
+		<curve attr="scale">
+			<key time="0.0"		value="1.5,1.5,1.5"/>
+			<key time="0.2"		value="1,1,1"/>
+			<key time="1.2"		value="1,1,1"/>
+			<key time="1.4"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,128"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+
+<!-- timeline -->
+	<anim name="anm_stance1">
+		<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="0,180,0"/>
+		</curve>
+	</anim>
+	<anim name="anm_stance2">
+		<curve attr="rot">
+			<key time="0.0"		value="0,180,0"/>
+			<key time="1.0"		value="0,360,0"/>
+		</curve>
+	</anim>
+	<anim name="chainlink_up">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,-186,0"/>
+			<key time="1.0"		value="0,0,0,0"/>
+		</curve>
+	</anim>
+
+<!-- cutin -->
+	<anim name="cutin_1_up">
+		<curve attr="pos">
+			<key time="0.0"		value="-190,800,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="cutin_1_down">
+		<curve attr="pos">
+			<key time="0.0"		value="190,-800,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="cutin_2_left">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="-300,0,0"/>
+		</curve>
+	</anim>
+	<anim name="cutin_2_right">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="300,0,0"/>
+		</curve>
+	</anim>
+	<anim name="cutin_3_center">
+		<curve attr="scale">
+			<key time="0.0"		value="0.8,0.8,0.8"/>
+			<key time="1.0"		value="1,1,1"/>
+			<key time="3.0"		value="1,1,1"/>
+			<key time="3.8"		value="1.5,1.5,1.5"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+			<key time="3.0"		value="255,255,255,255"/>
+			<key time="3.8"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="cutin_4_v">
+		<curve attr="pos">
+			<key time="0.0"		value="220,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="cutin_4_v_sub">
+		<curve attr="pos">
+			<key time="0.0"		value="-220,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="cutin_4_s">
+		<curve attr="pos">
+			<key time="0.0"		value="-100,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="cutin_4_s_sub">
+		<curve attr="pos">
+			<key time="0.0"		value="100,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="cutin_5_out">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="1.0"		value="1.5,1.5,1.5"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.8"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	
+	<anim name="cutin_acc_u_enter">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="0,-30,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	
+	<anim name="cutin_acc_d_enter">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="0,30,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	
+	<anim name="cutin_string_enter">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="-64,20,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+		
+	<anim name="cutin_s_enter">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="-64,20,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	
+	<anim name="cutin_chara_enter">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos" interpolate="spline">
+			<key time="0.0"		value="640,-256,0"/>
+			<key time="2.0"		value="160,-64,0"/>
+			<key time="3.0"		value="40,-16,0"/>
+			<key time="3.5"		value="10,-4,0"/>
+			<key time="3.75"	value="2.5,-1,0"/>
+			<key time="4.0"		value="0,0,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+		
+<!-- ComboFinish -->
+	<anim name="combo_finish_chara_enter">
+		<curve attr="scale">
+			<key time="0.0"		value="0.8,0.8,0.8"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="combo_finish_chara_exit">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="0.8"		value="1.5,1.5,1.5"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.8"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	
+<!-- ChainUp -->
+	<anim name="chain_up">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="0.5"		value="1.2,1.2,1.2"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+<!-- FieldBurst -->
+	<anim name="fb_enter_num">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.5"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="scale" interpolate="spline">
+			<key time="0.0"		value="5,5,5"/>
+			<key time="0.5"		value="3.5,3.5,3.5"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<anim name="fb_enter">
+		<curve attr="pos" interpolate="spline">
+			<key time="0.0"		value="0,-1000,0"/>
+			<key time="0.5"		value="0,-700,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="fb_enter_f">
+		<curve attr="pos" interpolate="spline">
+			<key time="0.0"		value="600,0,0"/>
+			<key time="0.5"		value="420,0,0"/>
+			<key time="1.0"		value="20,0,0"/>
+			<key time="4.0"		value="-40,0,0"/>
+			<key time="5.0"		value="-300,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.5"		value="255,255,255,255"/>
+			<key time="4.0"		value="255,255,255,255"/>
+			<key time="5.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="fb_enter_b">
+		<curve attr="pos" interpolate="spline">
+			<key time="0.0"		value="-600,0,0"/>
+			<key time="0.5"		value="-420,0,0"/>
+			<key time="1.0"		value="-20,0,0"/>
+			<key time="4.0"		value="40,0,0"/>
+			<key time="5.0"		value="300,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.5"		value="255,255,255,255"/>
+			<key time="4.0"		value="255,255,255,255"/>
+			<key time="5.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="fb_active">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.3"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="fb_active2">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="1.0"		value="1.2,1.2,1.2"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="fb_push_button">
+		<curve attr="color">
+			<key time="0.8"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="fb_push_button_add">
+		<curve attr="scale">
+			<key time="0.0"		value="2,2,2"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="0.8"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+
+
+<!-- main -->
+	<!-- card -->
+	<anim name="trigger_on_1">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="20,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="trigger_on_2">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="0,20,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="trigger_on_3">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="-100,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+		<curve attr="width">
+			<key time="0.0"		value="10,0,0"/>
+			<key time="0.5"		value="110,0,0"/>
+			<key time="1.0"		value="10,0,0"/>
+		</curve>
+	</anim>
+	<anim name="trigger_on_base">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="-100,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="card_exit">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="0.5"		value="0,1,1"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<anim name="field_act_enter">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="0,30,0"/>
+		</curve>
+	</anim>
+	<anim name="target_cursor">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.4"		value="0,0,0"/>
+			<key time="0.5"		value="2,0,0"/>
+			<key time="0.6"		value="0,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+
+	<!-- burst -->
+	<anim name="burst_stretch">
+		<curve attr="pos">
+			<key time="0.0"		value="170.0,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="170,0,-170,0"/>
+			<key time="1.0"		value="0,0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="burst_up_1">
+		<curve attr="pos">
+			<key time="0.0"		value="250,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+		<curve attr="width">
+			<key time="0.0"		value="22,0,0"/>
+			<key time="1.0"		value="272,0,0"/>
+		</curve>
+	</anim>
+	<anim name="burst_up_2">
+		<curve attr="pos">
+			<key time="0.0"		value="262,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="special_on_1">
+		<curve attr="pos">
+			<key time="0.0"		value="160,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+		<curve attr="width">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="160,0,0"/>
+		</curve>
+	</anim>
+	<anim name="special_on_2">
+		<curve attr="pos">
+			<key time="0.0"		value="153,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="special_max">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="0.5"		value="1.3,1.3,1.3"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<anim name="burst_add_up">
+		<curve attr="pos">
+			<key time="0.0"		value="261,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="burst_add_up_bar">
+		<curve attr="pos">
+			<key time="0.0"		value="261,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+		<curve attr="width">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="261,0,0"/>
+		</curve>
+	</anim>
+
+<!-- party -->
+	<anim name="gauge_move_f">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="0,0,-80,0"/>
+		</curve>
+	</anim>
+	<anim name="gauge_move_f_monster">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="0,0,-110,0"/>
+		</curve>
+	</anim>
+	<anim name="gauge_move_b">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="0,0,-68,0"/>
+		</curve>
+	</anim>
+	<anim name="gauge_move_sup">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,61,0,-61"/>
+			<key time="1.0"		value="0,0,0,0"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="0,61,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="party_change_out">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="0,100,0"/>
+		</curve>
+	</anim>
+	<anim name="party_change_in">
+		<curve attr="pos">
+			<key time="0.0"		value="0,100,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="support_enter_input">
+		<curve attr="pos" interpolate="spline">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="0,-23,0"/>
+			<key time="1.0"		value="0,-32,0"/>
+		</curve>
+	</anim>
+	<anim name="support_enter_command">
+		<curve attr="pos" interpolate="spline">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="0,-23,0"/>
+			<key time="1.0"		value="0,-32,0"/>
+		</curve>
+	</anim>
+	<anim name="support_enter_l">
+		<curve attr="pos" interpolate="spline">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="-23,0,0"/>
+			<key time="1.0"		value="-36,0,0"/>
+		</curve>
+	</anim>
+	<anim name="support_enter_c">
+		<curve attr="pos" interpolate="spline">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="0,-23,0"/>
+			<key time="1.0"		value="0,-32,0"/>
+		</curve>
+	</anim>
+	<anim name="support_enter_r">
+		<curve attr="pos" interpolate="spline">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="23,0,0"/>
+			<key time="1.0"		value="36,0,0"/>
+		</curve>
+	</anim>
+
+<!-- monster -->
+	<anim name="gauge_move_m">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="0,0,-283,0"/>
+		</curve>
+	</anim>
+
+<!-- message -->
+	<anim name="mess_enter1">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="36,0,0"/>
+		</curve>
+	</anim>
+	<anim name="mess_enter2">
+		<curve attr="width">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="460,0,0"/>
+		</curve>
+	</anim>
+	<anim name="mess_enter3">
+		<curve attr="width">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="580,0,0"/>
+		</curve>
+	</anim>
+<!-- common -->
+	<anim name="burst_in">
+		<curve attr="pos">
+			<key time="0.0"		value="1280,0,0"/>
+			<key time="0.2"		value="0,0,0"/>
+			<key time="1.2"		value="0,0,0"/>
+			<key time="1.4"		value="-1280,0,0"/>
+		</curve>
+	</anim>
+
+
+
+
+
+	<!-- result -->
+	<!-- ボーナスアップ -->
+	<anim name="result_bonus_up">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="0.25"	value="1.3,1.3,1.3"/>
+			<key time="0.5"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<anim name="result_rank_up_af">
+		<curve attr="scale">
+			<key time="0.0"		value="2,2,2"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="result_rank_up_be">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+<!--  -->
+
+<!-- target -->
+	<!-- ターゲット切り替え -->
+	<anim name="target_enter">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="0.6"		value="255,255,255,255"/>
+			<key time="0.8"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="target_rot">
+		<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="2.0"		value="0,0,360"/>
+		</curve>
+	</anim>
+
+<!-- damage -->
+	<!-- 通常ダメージ -->
+	<anim name="damage_prim1">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.1"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.25"	value="0,-17.3,0"/>
+			<key time="0.5"		value="0,-20,0"/>
+			<key time="0.75"	value="0,-17.3,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="damage_prim2">
+		<curve attr="scale">
+			<key time="0.0"		value="3,3,3"/>
+			<key time="0.5"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.1"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="damage_normal">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="0.8"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="damage_normal_">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="0.2"		value="1,1,1"/>
+			<key time="0.8"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="0.8"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="40,0,0"/>
+			<key time="0.3"		value="0,0,0"/>
+			<key time="0.7"		value="0,0,0"/>
+			<key time="1.0"	value="-40,0,0"/>
+		</curve>
+	</anim>
+	<anim name="damage_song">
+		<curve attr="scale">
+			<key time="0.0"		value="10,0,1"/>
+			<key time="0.1"		value="1,1,1"/>
+			<key time="0.4"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.1"		value="255,255,255,255"/>
+			<key time="0.4"		value="255,255,255,255"/>
+			<key time="0.6"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+<!-- tag -->
+	<anim name="tag_normal">
+		<curve attr="scale">
+			<key time="0.0"		value="1.5,1.5,1.5"/>
+			<key time="0.1"		value="1,1,1"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.1"		value="0,5,0"/>
+			<key time="0.15"	value="-5,-5,0"/>
+			<key time="0.2"		value="0,0,0"/>
+			<key time="0.25"	value="5,-5,0"/>
+			<key time="0.3"		value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+
+<!-- skill -->
+	<!-- アイコン表示 -->
+	<anim name="skill_icon_active_rl">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="-25,0,0"/>
+		</curve>
+	</anim>
+	<anim name="skill_icon_active_rr">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="25,0,0"/>
+		</curve>
+	</anim>
+	<!-- アイコン動作 -->
+	<anim name="skill_icon_loop_attack">
+		<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="0,0,360"/>
+		</curve>
+	</anim>
+	<anim name="skill_icon_loop_friend">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="1.0"		value="3,3,3"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,192"/>
+			<key time="0.5"		value="255,255,255,192"/>
+			<key time="1.0"		value="255,255,255,0"/>
+			<key time="1.5"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<!-- スキル入場 -->
+	<anim name="skill_enter">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<!-- スキルアクティブ -->
+	<anim name="skill_active">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="0.8"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="2,2,2"/>
+			<key time="0.2"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<!-- スキルパワーアップ -->
+	<anim name="skill_powerup">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,128"/>
+			<key time="0.5"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,128"/>
+		</curve>
+	</anim>
+
+<!-- burst -->
+	<!-- 波形スクロール -->
+	<anim name="burst_scroll">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="32,0,0,0"/>
+		</curve>
+	</anim>
+
+<!-- wave_one -->
+	<!-- WAVEひとつの切り替え動作 -->
+	<anim name="wave_one_exit">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.3"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="wave_one_right_move">
+   	<curve attr="pos">
+			<key time="0.0"		value="-90,0,0"/>
+			<key time="0.1"		value="-90,0,0"/>
+			<key time="0.3"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="wave_one_enter">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.3"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+
+<!-- wave -->
+	<!-- 詩貫通バー動作 -->
+	<anim name="wave_chase_move">
+    	<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="-890,0,0"/>
+		</curve>
+	</anim>
+	<anim name="wave_song_move">
+    	<curve attr="pos">
+			<key time="0.0"		value="910,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+    	<curve attr="width">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="910,0,0,0"/>
+		</curve>
+	</anim>
+	<!-- ライト明滅 -->
+	<anim name="wave_light">
+   	<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.3"		value="255,255,255,255"/>
+			<key time="0.5"		value="255,255,255,  0"/>
+			<key time="0.8"		value="255,255,255,  0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<!-- 波形スクロール -->
+	<anim name="wave_scroll">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="64,0,0,0"/>
+		</curve>
+	</anim>
+	<!-- 入場／退場 -->
+	<anim name="wave_enter">
+		<curve attr="pos">
+			<key time="0.0"		value="0,-100,0"/>
+			<key time="0.2"		value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+
+<!-- rt -->
+	<!-- HPゲージ -->
+	<anim name="rt_hp_move">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="0,0,-48,0"/>
+		</curve>
+	</anim>
+	<!-- 入場／退場 -->
+	<anim name="balloon_normal">
+		<curve attr="pos">
+			<key time="0.0"		value="20,0,0"/>
+			<key time="0.2"		value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="balloon_ki">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.05"	value="0,-30,0"/>
+			<key time="0.15"	value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="balloon_do">
+		<curve attr="scale">
+			<key time="0.0"		value="1.5,1.5,1.5"/>
+			<key time="0.1"		value="1,1,1"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.1"		value="0,5,0"/>
+			<key time="0.15"	value="-5,-5,0"/>
+			<key time="0.2"		value="0,0,0"/>
+			<key time="0.25"	value="5,-5,0"/>
+			<key time="0.3"		value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="balloon_ai">
+		<curve attr="pos">
+			<key time="0.0"		value="0,-20,0"/>
+			<key time="0.2"		value="0,0,0"/>
+			<key time="1.2"		value="0,0,0"/>
+			<key time="1.4"		value="0,20,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+
+<!-- synchro -->
+	<!-- シンクロ値動作 -->
+	<anim name="synchro_move">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,-304,0"/>
+			<key time="1.0"		value="0,0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="synchro_r1_icon_active">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="-20,0,0"/>
+		</curve>
+	</anim>
+
+<!-- chain -->
+	<!-- チェイン受付時間動作 -->
+	<anim name="chain_move">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="0,0,-84,0"/>
+		</curve>
+	</anim>
+	<!-- 入場／退場 -->
+	<anim name="chain_enter">
+		<curve attr="pos">
+			<key time="0.0"		value="-350,0,0"/>
+			<key time="0.2"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<!-- チェイン追加 -->
+	<anim name="chain_up_s_in">
+		<curve attr="pos">
+			<key time="0.0"		value="20,0,0"/>
+			<key time="0.2"		value="0,0,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="chain_up_s_out">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.2"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="chain_up_l_in1">
+		<curve attr="pos">
+			<key time="0.0"		value="0,-40,0"/>
+			<key time="0.2"		value="0,-40,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,192"/>
+			<key time="0.2"		value="255,255,255,192"/>
+			<key time="0.21"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="2,2,2"/>
+		</curve>
+	</anim>
+	<anim name="chain_up_l_in2">
+		<curve attr="pos">
+			<key time="0.0"		value="20,-60,0"/>
+			<key time="0.2"		value="0,-40,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,192"/>
+			<key time="0.2"		value="255,255,255,192"/>
+			<key time="0.21"		value="255,255,255,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="2,2,2"/>
+		</curve>
+	</anim>
+	<anim name="chain_up_l_in3">
+		<curve attr="pos">
+			<key time="0.0"		value="-10,-30,0"/>
+			<key time="0.2"		value="0,-40,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,192"/>
+			<key time="0.2"		value="255,255,255,192"/>
+			<key time="0.21"		value="255,255,255,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="2,2,2"/>
+		</curve>
+	</anim>
+	<anim name="chain_up_l_out">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.2"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<!-- ボーナスモード -->
+	<anim name="chain_bonus_in">
+		<curve attr="pos">
+			<key time="0.0"		value="-200,0,0"/>
+			<key time="0.2"		value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="chain_bonus_out">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.2"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+
+<!-- limit -->
+	<!-- リミット動作 -->
+	<anim name="limit_move">
+    	<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="-1,0,0"/>
+		</curve>
+   	<curve attr="scale">
+			<key time="0.0"		value="0,1,1"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+
+<!-- enemy_turn -->
+	<!-- 入場 -->
+	<anim name="turn_enter">
+		<curve attr="pos">
+			<key time="0.0"		value="1280,0,0"/>
+			<key time="0.2"		value="0,0,0"/>
+			<key time="1.2"		value="0,0,0"/>
+			<key time="1.4"		value="-1280,0,0"/>
+		</curve>
+	</anim>
+	<anim name="turn_bonus">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.8"		value="0,0,0"/>
+			<key time="1.0"		value="640,0,0"/>
+			<key time="1.2"		value="640,-320,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="2,2,2"/>
+			<key time="0.2"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.1"		value="255,255,255,255"/>
+			<key time="1.1"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="enemy_turn_enter">
+		<curve attr="pos">
+			<key time="0.0"		value="-1280,0,0"/>
+			<key time="0.2"		value="0,0,0"/>
+			<key time="1.2"		value="0,0,0"/>
+			<key time="1.4"		value="1280,0,0"/>
+		</curve>
+	</anim>
+	<anim name="enemy_turn_warning_u">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="2.0"		value="640,0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.5"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+			<key time="1.5"		value="255,255,255,255"/>
+			<key time="2.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="enemy_turn_warning_d">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="2.0"		value="-640,0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.5"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+			<key time="1.5"		value="255,255,255,255"/>
+			<key time="2.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="harmo_burst">
+		<curve attr="scale">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.2"		value="1,1,1"/>
+			<key time="1.2"		value="1,1,1"/>
+			<key time="1.4"		value="1.5,1.5,1.5"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="game_over_enter">
+		<curve attr="scale">
+			<key time="0.0"		value="1.5,1.5,1.5"/>
+			<key time="0.2"		value="1,1,1"/>
+			<key time="1.2"		value="1,1,1"/>
+			<key time="1.4"		value="1,0,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+			<key time="1.2"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+
+
+<!-- bonus -->
+	<!-- 入場 -->
+	<anim name="bonus_enter">
+		<curve attr="scale">
+			<key time="0.0"		value="3,3,3"/>
+			<key time="0.2"		value="1,1,1"/>
+			<key time="0.7"		value="1,1,1"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.2"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<!-- 退場 -->
+	<anim name="bonus_exit">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.2"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+<!-- defence -->
+	<!-- ディフェンスバー動作 -->
+	<anim name="defence_bar_move">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="1280,0,0"/>
+		</curve>
+	</anim>
+	<!-- 入場／退場（逆再生） -->
+	<anim name="defence_enter_t">
+		<curve attr="pos">
+			<key time="0.0"		value="0,30,0"/>
+			<key time="0.2"		value="0,30,0"/>
+			<key time="0.4"		value="0,0,0"/>
+		</curve>
+    	<curve attr="scale">
+			<key time="0.0"		value="0,1,1"/>
+			<key time="0.2"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<anim name="defence_enter_b">
+		<curve attr="pos">
+			<key time="0.0"		value="0,-30,0"/>
+			<key time="0.2"		value="0,-30,0"/>
+			<key time="0.4"		value="0,0,0"/>
+		</curve>
+    	<curve attr="scale">
+			<key time="0.0"		value="0,1,1"/>
+			<key time="0.2"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<anim name="defence_enter_m">
+    	<curve attr="scale">
+			<key time="0.0"		value="1,0,1"/>
+			<key time="0.2"		value="1,0,1"/>
+			<key time="0.4"		value="1,1,1"/>
+		</curve>
+	</anim>
+
+<!-- enemy -->
+	<!-- アクティブ時 -->
+	<anim name="enemy_active">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="5,5,5"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<!-- HPバー動作 -->
+	<anim name="enemy_hp_move">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="0,0,-87,0"/>
+		</curve>
+	</anim>
+	<anim name="party_hp_move">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="0,0,-159,0"/>
+		</curve>
+	</anim>
+
+<!-- song -->
+	<!-- イオンバースト追加文字 -->
+	<anim name="song_ion_add_burst">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.1"		value="255,255,255,255"/>
+			<key time="0.7"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="0.1"		value="1,1,1"/>
+			<key time="1.0"		value="2,2,2"/>
+		</curve>
+	</anim>
+	<!-- イオンバーストトータル -->
+	<anim name="song_ion_total_burst_move">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="1.4"		value="255,255,255,255"/>
+			<key time="1.6"		value="255,255,255,0"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.2"		value="0,300,0"/>
+			<key time="1.2"		value="0,300,0"/>
+			<key time="1.4"		value="450,0,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="0.2"		value="1.2,1.2,1.2"/>
+			<key time="1.2"		value="1.2,1.2,1.2"/>
+			<key time="1.4"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<!-- 白鷹特殊文字 -->
+	<anim name="song_shiro_in">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="0.1"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0"		value="2,2,2"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<!-- ねりこ -->
+	<anim name="song_nelico_neon">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,128"/>
+			<key time="0.5"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,128"/>
+		</curve>
+	</anim>
+	<anim name="song_nelico_spot_l">
+		<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="0,0,-45"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="song_nelico_spot_r">
+		<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.5"		value="0,0,45"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="song_nelico_card_move">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="-400,0,0"/>
+		</curve>
+	</anim>
+	<anim name="song_nelico_card_rot_omote">
+		<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="0,180,0"/>
+		</curve>
+		<curve attr="color" interpolate="constant">
+			<key time="0.0"	value="255,255,255,255"/>
+			<key time="0.5"	value="255,255,255,0"/>
+			<key time="1.5"	value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="song_nelico_card_rot_ura">
+		<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="0,180,0"/>
+		</curve>
+		<curve attr="color" interpolate="constant">
+			<key time="0.0"	value="255,255,255,0"/>
+			<key time="0.5"	value="255,255,255,255"/>
+		</curve>
+	</anim>
+<!-- song_select -->
+	<anim name="song_select_card_rot_omote">
+		<curve attr="rot">
+			<key time="0.0"		value="0,180,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+		<curve attr="color" interpolate="constant">
+			<key time="0.0"	value="255,255,255,0"/>
+			<key time="0.5"	value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="song_select_card_rot_ura">
+		<curve attr="rot">
+			<key time="0.0"		value="0,180,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+		<curve attr="color" interpolate="constant">
+			<key time="0.0"	value="255,255,255,255"/>
+			<key time="0.5"	value="255,255,255,0"/>
+			<key time="1.5"	value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="song_select_rot">
+		<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="0,360,0"/>
+		</curve>
+	</anim>
+
+<!-- ターンカード -->
+	<!-- バーストゲージ -->
+	<anim name="timeline_card_burst_stretch">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="85,0,-85,0"/>
+			<key time="1.0"		value="0,0,0,0"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="85,0,0,0"/>
+			<key time="1.0"		value="0,0,0,0"/>
+		</curve>
+	</anim>
+	
+	<!-- ブレイクゲージ -->
+	<anim name="timeline_card_break_stretch">
+		<curve attr="offset_uvwh">
+			<key time="0.0"		value="0,0,0,0"/>
+			<key time="1.0"		value="0,0,-85,0"/>
+		</curve>
+	</anim>
+	
+
+<!-- common -->
+	<!-- 表示切替用ダミー -->
+	<anim name="common_dummy">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="common_alpha_on">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="common_alpha_off">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="common_blink">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.5"		value="255,255,255,128"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="common_fade_in">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="common_fade_out">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+	</anim>
+	<anim name="common_r_in">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="10,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="common_r_out">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="10,0,0"/>
+		</curve>
+	</anim>
+	<anim name="common_l_in">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="-10,0,0"/>
+			<key time="1.0"		value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="common_l_out">
+		<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,0"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="-10,0,0"/>
+		</curve>
+	</anim>
+	<anim name="common_rot">
+		<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="0,0,360"/>
+		</curve>
+	</anim>
+	<anim name="common_scale_out_w">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="1.0"		value="0,1,1"/>
+		</curve>
+	</anim>
+	<anim name="common_scale_in_w">
+		<curve attr="scale">
+			<key time="0.0"		value="0,1,1"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+
+
+	<!-- サンプル -->
+	<anim name="anm_test_blink">
+    	<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.3"		value="255,255,255,255"/>
+			<key time="0.5"		value="255,255,255,  0"/>
+			<key time="0.8"		value="255,255,255,  0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	<anim name="anm_test_rotate">
+   	<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="0,0,360"/>
+		</curve>
+	</anim>
+	<anim name="anm_test_scale">
+   	<curve attr="scale">
+			<key time="0.0"		value="0,1,1"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+	<anim name="anm_test_scale_and_right">
+    	<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="-1,0,0"/>
+		</curve>
+    	<curve attr="scale">
+			<key time="0.0"		value="0,1,1"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+</root>
+

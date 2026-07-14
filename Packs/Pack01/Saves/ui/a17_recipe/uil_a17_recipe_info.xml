@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="true">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***固有アニメーション ***-->
+	<command load_anim="/Saves/ui/a17_recipe/uia_a17_recipe.xml"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false">
+		<node name="bonus_cell" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="line">
+				<image name="vertical" style="gen_a17_recipe01_line" pos="44.00, -18.00, 0.00" rot="-0.00, -0.00, 90.01" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false" size_wh="85.00, 32.00, 0.00">
+					<image name="flower_off" style="gen_a17_recipe02_f_off" pos="6.01, 48.00, -0.00" rot="-0.00, -0.00, -90.01" scale="1.00, 1.00, 1.00"/>
+					<image name="flower_on" style="gen_a17_recipe02_f_on" pos="6.01, 48.00, -0.00" rot="-0.00, -0.00, -90.01" scale="1.00, 1.00, 1.00">
+						<anim_ctrl name="fade_in" viewer_key_assign="6" start_visible="true">
+							<bind_node node="." anim="anm_common_fade_in"/>
+						</anim_ctrl>
+					</image>
+				</image>
+				<image name="horizon" style="gen_a17_recipe01_line" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-12.00, 10.00, -0.00" visible="false" viewer_visible="false">
+					<image name="flower_off" style="gen_a17_recipe02_f_off" pos="6.00, -17.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+					<image name="flower_on" style="gen_a17_recipe02_f_on" pos="6.00, -17.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<anim_ctrl name="fade_in" viewer_key_assign="6" start_visible="true">
+							<bind_node node="." anim="anm_common_fade_in"/>
+						</anim_ctrl>
+					</image>
+				</image>
+				<image name="right_up" style="gen_a17_recipe01_line_long" rot="-0.00, -0.00, -44.98" scale="1.00, 1.00, 1.00" viewer_visible="false" pos="-53.00, 79.00, -0.00" visible="false">
+					<image name="flower_off" style="gen_a17_recipe02_f_off" pos="101.11, -27.61, -0.00" rot="-0.00, -0.00, 44.98" scale="1.00, 1.00, 1.00"/>
+					<image name="flower_on" style="gen_a17_recipe02_f_on" pos="101.11, -27.61, -0.00" rot="-0.00, -0.00, 44.98" scale="1.00, 1.00, 1.00">
+						<anim_ctrl name="fade_in" viewer_key_assign="6" start_visible="true">
+							<bind_node node="." anim="anm_common_fade_in"/>
+						</anim_ctrl>
+					</image>
+				</image>
+				<image name="left_up" style="gen_a17_recipe01_line_long" pos="-18.00, -58.00, -0.00" rot="-0.00, -0.00, 44.98" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+					<image name="flower_off" style="gen_a17_recipe02_f_off" pos="50.90, 21.24, -0.00" rot="-0.00, -0.00, -44.98" scale="1.00, 1.00, 1.00"/>
+					<image name="flower_on" style="gen_a17_recipe02_f_on" pos="50.90, 21.24, -0.00" rot="-0.00, -0.00, -44.98" scale="1.00, 1.00, 1.00">
+						<anim_ctrl name="fade_in" viewer_key_assign="6" start_visible="true">
+							<bind_node node="." anim="anm_common_fade_in"/>
+						</anim_ctrl>
+					</image>
+				</image>
+			</node>
+			<node name="effect_pos" pos="31.00, 24.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="recipe_cell" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<node name="normal">
+				<image name="bg_black" style="gen_a17_recipe01_material_frame01" pos="5.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="50.00, 50.00, 50.00, 255.00"/>
+				<node name="open" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false" pos="3.00, -0.00, -0.00">
+					<image name="bg" style="gen_a17_recipe01_material_frame01" color="122.00, 122.00, 122.00, 255.00" pos="2, 0, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true"/>
+					<image name="question" style="gen_a17_recipe03_question" pos="40.00, 30.00, 0.00" rot="-0.00, -0.00, -0.00" size_wh="46.00, 68.00, 0.00" viewer_visible="false" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="learn" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false" pos="-0.00, -0.00, -0.00">
+					<image name="bg" style="gen_a17_recipe01_material_frame01" color="122.00, 122.00, 122.00, 255.00" pos="5.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true"/>
+					<image name="item" style="etc_a17_item_l" pos="24, 23, 0" scale="0.70, 0.70, 1.00" rot="-0.00, -0.00, -0.00" size_wh="114.00, 114.00, 0.00" color="191.00, 191.00, 191.00, 255.00" visible="true" mask_flag="true" image_no="0"/>
+					<anim_ctrl name="learn_anim" viewer_key_assign="5" speed="0.25">
+						<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+					</anim_ctrl>
+				</node>
+				<node name="master" viewer_visible="false" visible="false" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="bg" style="gen_a17_recipe01_material_frame01" color="180.00, 102.00, 102.00, 255.00" pos="5.00, 0.00, 0.00" visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="item" style="etc_a17_item_l" pos="24.00, 23.00, 0.00" scale="0.70, 0.70, 1.00" rot="-0.00, -0.00, -0.00" size_wh="114.00, 114.00, 0.00" viewer_visible="false"/>
+					<anim_ctrl name="master_anim" viewer_key_assign="5" speed="0.25">
+						<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+					</anim_ctrl>
+				</node>
+				<image name="material_frame" style="gen_a17_recipe01_material_frame02" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="false"/>
+				<node name="effect_pos" pos="64.00, 64.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="cursor" style="gen_a17_recipe01_material_light" pos="-2.00, -3.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="138.00, 138.00, 0.00" visible="false" viewer_visible="false">
+					<anim_ctrl name="blink" play="true" loop="true">
+						<bind_node anim="anm_common_cursor_blink" node="."/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<node name="scenario_lock" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-0.00, -0.00, -0.00" viewer_visible="false">
+				<!--***↓0812プラフタの記憶追加 ***-->
+				<image name="bg_black" style="gen_a17_recipe01_material_frame03" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="50.00, 50.00, 50.00, 255.00"/>
+				<node name="open" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false" pos="3.00, -1.00, 0.00">
+					<image name="bg" style="gen_a17_recipe01_material_frame03" color="122.00, 122.00, 122.00, 255.00" pos="-2, 2, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true"/>
+					<image name="question" style="gen_a17_recipe01_material_key" pos="31, 32, 0" rot="-0.00, -0.00, -0.00" viewer_visible="false" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="learn" viewer_visible="true" visible="false" pos="3.00, -1.00, 0.00">
+					<image name="bg" style="gen_a17_recipe01_material_frame03" color="180.00, 102.00, 102.00, 255.00" pos="-2.00, 2.00, 0.00" visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="item" style="etc_a17_item_l" pos="21.00, 22.00, 0.00" scale="0.70, 0.70, 1.00" rot="-0.00, -0.00, -0.00" size_wh="114.00, 114.00, 0.00" color="191.00, 191.00, 191.00, 255.00" visible="true" mask_flag="true"/>
+					<anim_ctrl name="learn_anim" viewer_key_assign="5" speed="0.25">
+						<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+					</anim_ctrl>
+				</node>
+				<node name="master" viewer_visible="true" visible="false" pos="3.00, -1.00, 0.00">
+					<image name="bg" style="gen_a17_recipe01_material_frame03" color="180.00, 102.00, 102.00, 255.00" pos="-2.00, 2.00, 0.00" visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="item" style="etc_a17_item_l" pos="21.00, 22.00, 0.00" scale="0.70, 0.70, 1.00" rot="-0.00, -0.00, -0.00" size_wh="114.00, 114.00, 0.00" viewer_visible="false"/>
+					<anim_ctrl name="master_anim" viewer_key_assign="6" speed="0.25">
+						<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+					</anim_ctrl>
+				</node>
+				<image name="material_frame" style="gen_a17_recipe01_material_frame04" pos="0.00, -1.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="false"/>
+				<node name="effect_pos" pos="64, 64, 0"/>
+				<image name="cursor" style="gen_a17_recipe01_material_light02" pos="-5.00, -5.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="138.00, 138.00, 0.00" visible="false" viewer_visible="true">
+					<anim_ctrl name="blink" play="true" loop="true">
+						<bind_node anim="anm_common_cursor_blink" node="."/>
+					</anim_ctrl>
+				</image>
+			</node>
+		</node>
+		<node name="list_pattern" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node copy="bonus_cell" clone_child_tree="bonus_cell" name="horizon_node" pos="135.00, 40.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="horizon" set_visible="true"/>
+			</node>
+			<node copy="bonus_cell" clone_child_tree="bonus_cell" name="vertical_node" pos="35.00, 140.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="vertical" set_visible="true"/>
+			</node>
+			<node copy="bonus_cell" clone_child_tree="bonus_cell" name="right_up_node" pos="135.00, -70.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="right_up" set_visible="true"/>
+			</node>
+			<node copy="bonus_cell" clone_child_tree="bonus_cell" name="right_down_node" pos="135.00, 140.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="left_up" set_visible="true"/>
+			</node>
+			<node copy="recipe_cell" clone_child_tree="recipe_cell" name="recipe_node" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-0.00, -0.00, -0.00"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="bg" load="/Saves/ui/a17_common/uil_a17_bg01_big.xml" visible="false" viewer_visible="false"/>
+		<node name="magic_circle" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="255.00, 255.00, 255.00, 80.00">
+			<node name="circle_1" pos="23.00, 97.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="circle" style="gen_a17_recipe03_circle01" pos="33.00, 34.00, 0.00" image_no="3" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="circle_2" style="gen_a17_recipe03_circle01" pos="431.00, 34.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="circle_2" pos="23.00, 97.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="circle_3" style="gen_a17_recipe03_circle02" pos="218.00, 224.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="circle_3" visible="true">
+				<image name="circle_6" style="gen_a17_recipe03_circle01" pos="56.00, 530.00, 0.00" image_no="2" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="circle_8" style="gen_a17_recipe03_circle01" pos="454.00, 530.00, 0.00" image_no="1" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<image name="circlebg" style="gen_a17_recipe03_circlebg" pos="54, 132, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" size_wh="561, 559"/>
+		</node>
+		<node name="recipe_menu" pos="70.00, 149.00, 0.00" alpha_mask="none">
+			<node name="map_for_info" pos="-200.00, 0.00, 0.00">
+				<node name="recipe_line" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node copy="list_pattern" clone_child_tree="list_pattern" name="clone_list_pattern"/>
+					<node copy="list_pattern" clone_child_tree="list_pattern" name="clone_list_pattern_1" pos="0.00, 200.00, 0.00"/>
+					<node copy="list_pattern" clone_child_tree="list_pattern" name="clone_list_pattern_2" pos="0.00, 400.00, 0.00"/>
+				</node>
+				<node copy="recipe_line" clone_child_tree="recipe_line" name="clone_recipe_line" viewer_visible="false" pos="200.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="recipe_line" clone_child_tree="recipe_line" name="clone_recipe_line" viewer_visible="false" pos="400.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="recipe_line" clone_child_tree="recipe_line" name="clone_recipe_line" viewer_visible="false" pos="600.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="recipe_line" clone_child_tree="recipe_line" name="clone_recipe_line" viewer_visible="false" pos="800.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<anim_ctrl name="move_left" viewer_key_assign="3">
+				<bind_node node="." anim="anm_recipe_move_left"/>
+			</anim_ctrl>
+			<anim_ctrl name="get_in_recipe_info_map" start_visible="true" viewer_key_assign="7">
+				<bind_node anim="anm_common_fade_in" node="./map_for_info"/>
+			</anim_ctrl>
+		</node>
+		<node name="alpha_dummy" viewer_visible="false">
+			<image name="page_left" style="gen_a17_bg02_a01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-37.00, -51.00, 0.00"/>
+			<image name="page_front" style="gen_a17_bg02_a02" pos="595.00, -53.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="info" pos="613.00, 40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="item_win" pos="78.00, 172.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<node name="label">
+					<image name="itembg" style="gen_a17_item_info01_itembg02" pos="-0.00, -7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="162.00, 163.00, 0.00"/>
+					<image name="countacce" style="gen_a17_item_info02_countacce" pos="-0.00, 103.00, -0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="50.00, 50.00, 0.00" visible="false"/>
+					<image name="lvacce" style="gen_a17_item_info02_lvacce" pos="-0.00, -7.00, -0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="50.00, 50.00, 0.00"/>
+				</node>
+				<image name="title" style="gen_a17_win02_obi01" pos="-32.00, -72.00, -0.00" size_wh="555.00, 73.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="Berg Medicine" name="text" copy="TEXTCOLOR_BROWN" pos="276.00, 7.00, -0.00" align="center" font_size="29.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<image name="item" style="etc_a17_item_l" pos="32.00, 28.00, -0.00" rot="-0.00, -0.00, -0.00" size_wh="96.00, 96.00, 0.00"/>
+				<!--***↓0725追加 ***-->
+				<image name="question" style="gen_a17_recipe03_question" pos="53.00, 28.00, -0.00" rot="-0.00, -0.00, -0.00"/>
+				<text text="99" name="level" font="A17_LV01" pos="18, 11, -0" word_space="-15.00" align="center" font_size="23.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="99" name="use_count" font="A17_NUMBER01_36PX" pos="18.00, 122.00, -0.00" word_space="-15.00" align="center" font_size="23.00" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+				<image name="color" style="gen_a17_item_info02_color" pos="109, -9, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="52.00, 52.00, 0.00"/>
+				<image name="rarity" style="gen_a17_item_info02_rarity" pos="107, 97, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="category_win" pos="232.00, 21.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node name="label">
+						<image name="w03" style="gen_a17_win02_w03" pos="-43.00, -17.00, -0.00" size_wh="325.00, 157.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="obi01" style="gen_a17_item_info01_obi01" pos="-32.00, -37.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true"/>
+						<image name="obi01_1" style="gen_a17_item_info01_text02" pos="-43.00, -33.00, -0.00" image_no="1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+					<node name="category_line" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<node name="category" pos="10.00, -4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+							<image name="line" style="gen_a17_win01_line03" pos="-18.00, 27.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="270.00, 0.00, 0.00"/>
+							<image name="icon" style="etc_a17_category_image" pos="-14.00, 1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="30.00, 30.00, 0.00" color="149.00, 98.00, 84.00, 255.00"/>
+							<text text="あいうえお" name="name" color="47.00, 23.00, 23.00, 255.00" align="left" viewer_visible="false" pos="39.00, 2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+							<text text="99" name="value" color="47.00, 23.00, 23.00, 255.00" align="center" viewer_visible="false" pos="221.00, 2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						</node>
+						<node copy="category" clone_child_tree="category" name="clone_category" pos="10.00, 27.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="category" clone_child_tree="category" name="clone_category_1" pos="10.00, 58.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="category" clone_child_tree="category" name="clone_category_2" pos="10.00, 90.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+				</node>
+			</node>
+			<!--***↓材料 ***-->
+			<node name="material_win" pos="111.00, 361.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<node name="label">
+					<image name="w03" style="gen_a17_win02_w03" pos="-43.00, -17.00, -0.00" size_wh="527.00, 283.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="obi01" style="gen_a17_item_info01_obi01" pos="-23.00, -30.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="obi01_1" style="gen_a17_item_info01_text01" pos="-5.00, -27.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="6"/>
+				</node>
+				<node name="recipe_material_line">
+					<node name="recipe_material" pos="57.00, 36.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="line" style="gen_a17_win01_line03" pos="-68.00, 28.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="453.00, 2.00, 0.00"/>
+						<image name="item_icon" style="etc_a17_item_l" pos="-39.00, -22.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="50.00, 50.00, 0.00"/>
+						<image name="category_icon" style="etc_a17_category_image" pos="-34.00, -17.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="46.00, 46.00, 0.00" color="149.00, 98.00, 84.00, 255.00"/>
+						<text text="あいうえおかきくけこ" name="name" color="47.00, 23.00, 23.00, 255.00" align="left" viewer_visible="false" pos="30.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<text text="x" name="cross" color="47.00, 23.00, 23.00, 255.00" align="center" viewer_visible="false" pos="289.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<text text="99" name="num" color="47.00, 23.00, 23.00, 255.00" align="center" viewer_visible="false" pos="331.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+					<node copy="recipe_material" clone_child_tree="recipe_material" name="clone_recipe_material" pos="57.00, 93.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="recipe_material" clone_child_tree="recipe_material" name="clone_recipe_material_1" pos="57.00, 150.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="recipe_material" clone_child_tree="recipe_material" name="clone_recipe_material_2" pos="57.00, 207.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+			<!--***↓取得条件 ***-->
+			<node name="learn_cond" pos="111.00, 361.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="false">
+				<node name="label">
+					<image name="w03" style="gen_a17_win02_w03" pos="-43.00, -17.00, -0.00" size_wh="527.00, 283.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="obi01" style="gen_a17_item_info01_obi01" pos="-23.00, -30.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="obi01_text" style="gen_a17_library01_text" pos="11.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="4"/>
+					</image>
+					<node name="line" pos="-3.00, 23.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="line_4" style="gen_a17_win01_line03" pos="-30.00, 69.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="510, 2"/>
+						<image name="line_8" style="gen_a17_win01_line03" pos="-30.00, 150.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="510, 2"/>
+					</node>
+				</node>
+				<image name="or_cond" style="gen_a17_mix02_not_bg" pos="96.00, -30.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="248.00, 42.00, 0.00">
+					<text name="text_5" text="Gained by completing one." pos="12.00, 6.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="20.00" word_space="1.00" color="203.00, 70.00, 73.00, 255.00"/>
+				</image>
+				<node name="cond_list">
+					<node name="cond_line" pos="60.00, 36.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<image name="checkbox_off" style="gen_a17_win01_checkbox" pos="-92, -1, 0"/>
+						<image name="checkbox_on" style="gen_a17_win01_checkbox" pos="-92.00, -1.00, 0.00" image_no="1" visible="false" viewer_visible="false">
+							<image name="checkicon" style="gen_a17_win01_checkicon02" pos="6.00, -5.00, -0.00" size_wh="41.00, 36.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						</image>
+						<node name="count" pos="318, 17, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+							<image name="countbg" style="gen_a17_win01_countbg" pos="-9.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="108.00, 39.00, 0.00"/>
+							<text text="100" name="now" pos="43, 5, 0" align="right" color="174.00, 98.00, 100.00, 255.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+							<text text="/" name="per" pos="45, 5, -0" align="center" word_space="-3.00" color="174.00, 98.00, 100.00, 255.00" font_size="20.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+							<text text="100" name="max" pos="48, 5, 0" align="left" color="174.00, 98.00, 100.00, 255.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						</node>
+						<text text="あいうえおかきくけこさしすせそあいうえおかきくけこさしすせそ" name="desc" align="left" viewer_visible="false" pos="-37.00, -13.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-1.50" line_char_length="15" line_space="9.00" copy="TEXTCOLOR_BROWN"/>
+					</node>
+					<node copy="cond_line" clone_child_tree="cond_line" name="clone_cond_line" pos="60.00, 118.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="cond_line" clone_child_tree="cond_line" name="clone_cond_line_1" pos="60.00, 200.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+			<node name="help" pos="207.00, 331.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="book_frame" style="gen_a17_recipe02_bookframe" pos="2.00, -15.91, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="book_icon" style="gen_a17_icon01_book" pos="2.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="64.00, 64.00, 0.00"/>
+				</image>
+				<image name="balloon" style="gen_a17_win01_bookserif01" pos="94.00, -11.00, 0.00" size_wh="341.00, 73.00, 0.00">
+					<image name="bookserif01_1" style="gen_a17_win01_bookserif01_acce01" pos="-25.00, 54.00, -0.00" rot="-0.00, -0.00, -90.01" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<text text="あいうえおかきくけこさし" name="desc" color="47.00, 23.00, 23.00, 255.00" align="left" pos="125.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-1.50"/>
+				<anim_ctrl name="flick" loop="true" play="true">
+					<bind_node anim="anm_help_flick" node="."/>
+				</anim_ctrl>
+			</node>
+			<node name="page" pos="515.00, 67.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+				<image name="pagebg" style="gen_a17_win01_pagebg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="9" name="now" pos="37.00, 5.00, -0.00" align="right" word_space="-3.00" color="174.00, 98.00, 100.00, 255.00" font_size="20.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="/" name="per" pos="46.00, 5.00, -0.00" align="center" word_space="-3.00" color="174.00, 98.00, 100.00, 255.00" font_size="20.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="9" name="max" pos="55.00, 5.00, -0.00" align="left" word_space="-3.00" color="174.00, 98.00, 100.00, 255.00" font_size="20.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<!--***↓未調合 ***-->
+			<image name="not_complete_icon" style="gen_a17_recipe02_nomix" pos="50, 288, 0" pivot_enable="true" pivot_pos="128.00, 64.00, 0.00"/>
+			<anim_ctrl name="get_in_info" viewer_key_assign="4">
+				<bind_node anim="anm_common_fade_in" node="."/>
+			</anim_ctrl>
+		</node>
+		<image name="level_up" style="gen_a17_mix01_levelup" pos="246, 227, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="853.00, 245.00, 0.00" visible="false" viewer_visible="false">
+			<anim_ctrl name="level_up_anim" viewer_key_assign="3" start_visible="true">
+				<bind_node anim="anm_level_up" node="."/>
+			</anim_ctrl>
+		</image>
+		<node name="level_up_eff_pos" pos="640.00, 384.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<!--レベルアップエフェクトの位置-->
+		</node>
+		<anim_ctrl name="get_in_recipe_info" viewer_key_assign="2">
+			<bind_node node="." anim="anm_common_fade_in" start_visible="true" speed="3.00"/>
+		</anim_ctrl>
+	</node>
+</root>

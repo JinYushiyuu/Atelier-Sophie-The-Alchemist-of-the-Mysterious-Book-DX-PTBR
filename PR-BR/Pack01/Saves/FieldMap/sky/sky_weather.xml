@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<sky_weather tag="T01_TOWN_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_06" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_07" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_08" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_09" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_10" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_11" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_12" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_13" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_14" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_15" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_16" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_17" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_18" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_19" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="T01_TOWN_20" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S01_PLAIN_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S01_PLAIN_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S01_PLAIN_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S01_PLAIN_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S01_PLAIN_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S02_WOOD_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S02_WOOD_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S02_WOOD_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S02_WOOD_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S02_WOOD_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S02_WOOD_06" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S03_FOREST_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.15" ratio_clear="0.7" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S03_FOREST_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S03_FOREST_03" ratio_cloudy="0" ratio_rain="0.7" ratio_thunder="0.3" ratio_clear="0" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S03_FOREST_04" ratio_cloudy="0" ratio_rain="0.7" ratio_thunder="0.3" ratio_clear="0" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S03_FOREST_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S03_FOREST_06" ratio_cloudy="0" ratio_rain="0" ratio_thunder="1" ratio_clear="0" begin_event="XG09_030" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S04_RIVERSIDE_01" ratio_cloudy="0.1" ratio_rain="0.15" ratio_thunder="0.15" ratio_clear="0.6" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S04_RIVERSIDE_02" ratio_cloudy="0.1" ratio_rain="0.15" ratio_thunder="0.15" ratio_clear="0.6" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S04_RIVERSIDE_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S04_RIVERSIDE_04" ratio_cloudy="0.1" ratio_rain="0.15" ratio_thunder="0.15" ratio_clear="0.6" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S04_RIVERSIDE_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S05_MOUNTAIN_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S05_MOUNTAIN_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S05_MOUNTAIN_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S05_MOUNTAIN_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S05_MOUNTAIN_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S06_CAVE_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S06_CAVE_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S06_CAVE_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S06_CAVE_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S06_CAVE_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S06_CAVE_06" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S07_RUIN_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S07_RUIN_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S07_RUIN_03" ratio_cloudy="0.1" ratio_rain="0.15" ratio_thunder="0.15" ratio_clear="0.6" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S07_RUIN_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S07_RUIN_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S07_RUIN_06" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="S07_RUIN_07" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L01_FAIRYWOOD_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L01_FAIRYWOOD_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L01_FAIRYWOOD_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L01_FAIRYWOOD_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L01_FAIRYWOOD_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L02_NURSERY_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L02_NURSERY_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L02_NURSERY_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L03_GUILTRIVER_01" ratio_cloudy="0.1" ratio_rain="0.15" ratio_thunder="0.15" ratio_clear="0.6" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L03_GUILTRIVER_02" ratio_cloudy="0.1" ratio_rain="0.15" ratio_thunder="0.15" ratio_clear="0.6" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L03_GUILTRIVER_03" ratio_cloudy="0.1" ratio_rain="0.15" ratio_thunder="0.15" ratio_clear="0.6" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L04_WASTELAND_01" ratio_cloudy="0" ratio_rain="0" ratio_thunder="0" ratio_clear="1" begin_event="XG11_160" ratio_cloudy2="0" ratio_rain2="1" ratio_thunder2="0" ratio_clear2="0"/>
+	<sky_weather tag="L04_WASTELAND_02" ratio_cloudy="0" ratio_rain="0" ratio_thunder="0" ratio_clear="1" begin_event="XG11_160" ratio_cloudy2="0" ratio_rain2="1" ratio_thunder2="0" ratio_clear2="0"/>
+	<sky_weather tag="L04_WASTELAND_03" ratio_cloudy="0" ratio_rain="0" ratio_thunder="0" ratio_clear="1" begin_event="XG11_160" ratio_cloudy2="0" ratio_rain2="1" ratio_thunder2="0" ratio_clear2="0"/>
+	<sky_weather tag="L05_MASFIELD_01" ratio_cloudy="0" ratio_rain="0" ratio_thunder="0" ratio_clear="1" begin_event="XG12_060" end_event="XG12_050" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="1" ratio_clear2="0"/>
+	<sky_weather tag="L05_MASFIELD_02" ratio_cloudy="0" ratio_rain="0" ratio_thunder="0" ratio_clear="1" begin_event="XG12_060" end_event="XG12_050" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="1" ratio_clear2="0"/>
+	<sky_weather tag="L05_MASFIELD_03" ratio_cloudy="0" ratio_rain="0" ratio_thunder="0" ratio_clear="1" begin_event="XG12_060" end_event="XG12_050" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="1" ratio_clear2="0"/>
+	<sky_weather tag="L06_FALLENPALACE_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L06_FALLENPALACE_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L06_FALLENPALACE_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L06_FALLENPALACE_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L07_HALLOFSOUL_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L07_HALLOFSOUL_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L07_HALLOFSOUL_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L07_HALLOFSOUL_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L07_HALLOFSOUL_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L08_SEALEDTEMPLE_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L08_SEALEDTEMPLE_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L08_SEALEDTEMPLE_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L08_SEALEDTEMPLE_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L09_UNDERGROUND_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L09_UNDERGROUND_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L09_UNDERGROUND_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L10_LASTDUNGEON_01" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L10_LASTDUNGEON_02" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L10_LASTDUNGEON_03" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L10_LASTDUNGEON_04" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L10_LASTDUNGEON_05" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L10_LASTDUNGEON_06" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="L10_LASTDUNGEON_07" ratio_cloudy="0.05" ratio_rain="0.1" ratio_thunder="0.1" ratio_clear="0.75" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+	<sky_weather tag="A17_WMAP" ratio_cloudy="0" ratio_rain="0" ratio_thunder="0" ratio_clear="1" ratio_cloudy2="0" ratio_rain2="0" ratio_thunder2="0" ratio_clear2="1"/>
+</Root>

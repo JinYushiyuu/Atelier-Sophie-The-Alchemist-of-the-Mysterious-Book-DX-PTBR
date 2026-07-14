@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="SHIFT-JIS"?>
+<Root>
+	<QuestEvent name="イベント発行依頼テスト" targetEv="EVENT_ZZ01_040"/>
+</Root>

@@ -1,0 +1,132 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_PAM_050.ebm",
+    "nb_messages": 0xe,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Pamela..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "msg_string": "(Waah, she has a really serious look on her face...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Oh, hello Sophie. Welcome."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "Pamela... Did something happen?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Yes, that's right... I need to apologize to God now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "W-what?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x22,
+            "expr_id": 0x4,
+            "msg_id": 0x6,
+            "msg_string": "Everybody makes mistakes as they live their lives..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x24,
+            "expr_id": 0x4,
+            "msg_id": 0x7,
+            "msg_string": "But... If you admit the error of your ways, and apologize to God, you shall be forgiven."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Pamela... What did you do...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x5b,
+            "expr_id": 0xe,
+            "msg_id": 0x9,
+            "msg_string": "Oh, Lord. I know that I need to show restraint and moderation..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x5b,
+            "expr_id": 0xe,
+            "msg_id": 0xa,
+            "msg_string": "But I ate far too many snacks, I couldn't help myself."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x5b,
+            "expr_id": 0xe,
+            "msg_id": 0xb,
+            "msg_string": "Also, I was sneaking little bites while preparing the meal..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x5b,
+            "expr_id": 0xe,
+            "msg_id": 0xc,
+            "msg_string": "Also also, I dozed off just a little bit during the sermon... Please forgive me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xd,
+            "msg_string": "(Uhh... Sounds just like Pamela...)"
+        }
+    ]
+}

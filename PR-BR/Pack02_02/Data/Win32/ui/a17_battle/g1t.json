@@ -1,0 +1,88 @@
+{
+    "json_version": 0x2,
+    "name": "a17_battle.g1t",
+    "version": 0x3c,
+    "platform": "Windows",
+    "textures": [
+        {
+            "name": "000.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "001.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "002.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "003.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "004.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "005.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "006.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "007.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "008.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        },
+        {
+            "name": "009.dds",
+            "type": 0x5b,
+            "flags": [
+                "STANDARD_FLAGS",
+                "EXTENDED_DATA"
+            ]
+        }
+    ]
+}

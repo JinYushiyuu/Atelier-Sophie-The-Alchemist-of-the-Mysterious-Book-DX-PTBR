@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_worldmap01_destinationbg" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="0,336,392,113"/>
+	<image_list name="gen_a17_worldmap01_icon">
+		<image name="gen_a17_worldmap01_icon__xLIST01" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="0,0,112,96"/>
+		<image name="gen_a17_worldmap01_icon__xLIST02" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="112,0,112,96"/>
+		<image name="gen_a17_worldmap01_icon__xLIST03" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="224,0,112,96"/>
+	</image_list>
+	<image name="gen_a17_worldmap01_nowarea" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="0,96,640,96"/>
+	<image name="gen_a17_worldmap01_nowspot" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="336,0,432,80"/>
+	<image name="gen_a17_worldmap01_point_cursor" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="640,79,64,117"/>
+	<image name="gen_a17_worldmap01_spot_c_d" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="336,192,128,96"/>
+	<image name="gen_a17_worldmap01_spot_c_l" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="0,192,96,128"/>
+	<image name="gen_a17_worldmap01_spot_c_r" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="96,192,112,128"/>
+	<image name="gen_a17_worldmap01_spot_c_u" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="208,192,128,96"/>
+	<image name="gen_a17_worldmap01_titleline" texture="ui/a17_worldmap.g1t" texture_index="0" uvwh="208,288,432,48"/>
+</root>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_08_people people_data="PLACHTA" chara_tag="PLACHTA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="PLACHTA_RNPC_A" chara_tag="PLACHTA_RNPC_A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="MONIKA" chara_tag="MONIKA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="OTTO" chara_tag="OTTO" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="JULIO" chara_tag="JULIO" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="FILON" chara_tag="FILON" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="CANARIA" chara_tag="CANARIA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="PAUL" chara_tag="PAUL" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="HENRI" chara_tag="HENRI" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="LOGIX" chara_tag="LOGIX" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="PAMELA" chara_tag="PAMELA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="TESS" chara_tag="TESS" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="ELISE" chara_tag="ELISE" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="HELLMUT" chara_tag="HELLMUT" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="MEKLET" chara_tag="MEKLET" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="ATOMINA" chara_tag="ATOMINA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="MARGRIT" chara_tag="MARGRIT" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="MONIKA_TALK" chara_tag="MONIKA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="OTTO_TALK" chara_tag="OTTO" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="JULIO_TALK" chara_tag="JULIO" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="FILON_TALK" chara_tag="FILON" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="LOGIX_TALK" chara_tag="LOGIX" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="PAMELA_TALK" chara_tag="PAMELA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="HELLMUT_TALK" chara_tag="HELLMUT" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="MARGRIT_TALK" chara_tag="MARGRIT" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC06A_TALK" chara_tag="NPC06A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC26A_TALK" chara_tag="NPC26A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC26B_TALK" chara_tag="NPC26B" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC27A_TALK" chara_tag="NPC27A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC20A" chara_tag="NPC20A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC20A_ACT_1" chara_tag="NPC20A" mot_idx="0" wait_mot="EV_ACT_1" talk_mot="EV_ACT_1" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC20A_ACT_2" chara_tag="NPC20A" mot_idx="0" wait_mot="EV_ACT_2" talk_mot="EV_ACT_2" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC20A_ACT_3" chara_tag="NPC20A" mot_idx="0" wait_mot="EV_ACT_3" talk_mot="EV_ACT_3" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC23A" chara_tag="NPC23A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC23A_ACT_0" chara_tag="NPC23A" mot_idx="0" wait_mot="EV_ACT_0" talk_mot="EV_ACT_0" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC23A_ACT_2" chara_tag="NPC23A" mot_idx="0" wait_mot="EV_ACT_2" talk_mot="EV_ACT_2" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC20B" chara_tag="NPC20B" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC20B_ACT_1" chara_tag="NPC20B" mot_idx="0" wait_mot="EV_ACT_2" talk_mot="EV_ACT_2" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC23B" chara_tag="NPC23B" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC23B_ACT_2" chara_tag="NPC23B" mot_idx="0" wait_mot="EV_ACT_2" talk_mot="EV_ACT_2" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC23B_ACT_0" chara_tag="NPC23B" mot_idx="0" wait_mot="EV_ACT_0" talk_mot="EV_ACT_0" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC25B" chara_tag="NPC25B" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC25B_ACT_3" chara_tag="NPC25B" mot_idx="0" wait_mot="EV_ACT_3" talk_mot="EV_ACT_3" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC22A" chara_tag="NPC22A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC22A_ACT_0" chara_tag="NPC22A" mot_idx="0" wait_mot="EV_ACT_0" talk_mot="EV_ACT_0" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC22A_ACT_1" chara_tag="NPC22A" mot_idx="0" wait_mot="EV_ACT_1" talk_mot="EV_ACT_1" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_08_people people_data="NPC22A_ACT_2" chara_tag="NPC22A" mot_idx="0" wait_mot="EV_ACT_2" talk_mot="EV_ACT_2" gravity="1" notTurn="1" talk="1"/>
+</Root>

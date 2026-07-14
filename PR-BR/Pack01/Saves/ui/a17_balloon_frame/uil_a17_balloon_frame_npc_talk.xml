@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root pos="136, 313, 0" visible="true">
+	<command load_anim="Saves/ui/a17_balloon_frame/uia_a17_balloon_frame.xml"/>
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓テンプレート(汎用メニューの行形式)の読み込み-->
+		<node name="menu_line_format" load="Saves/ui/_line_format/uil_lf_default.xml" viewer_visible="false"/>
+	</node>
+	<command load_style="Saves/ui/balloon_frame/uis_balloon_frame.xml"/>
+	<command load_anim="Saves/ui/balloon_frame/uia_balloon_frame.xml"/>
+	<!--パネル-->
+	<image name="panel" style="gen_a17_win01_subserif01" size_wh="571, 125" pos="50.00, 54.00, 0.00">
+		<!--メッセージ-->
+		<text name="msg_text" pos="44.00, 14.00, 0.00" drop_shadow="false" line_char_length="20" font_size="24.00" line_space="13.00" text="あいうえおかきくけこサシスセソたちつてとアイウエオかきくけこサシスセソたちつてとアイウエオかきくけこサシスセソたちつてと" copy="TEXTCOLOR_BROWN" align="left"/>
+		<!--名前表示欄-->
+		<image name="name_base" pos="10, -32, 0" style="gen_a17_win01_subserif_nameparts01">
+			<text name="name_text" pos="120.00, 9.00, 0.00" font_size="24.00" copy="TEXTCOLOR_BROWN" align="center" text="Marguerite"/>
+		</image>
+		<image name="prompt_icon" pos_ratio_x="1.00" pos_ratio_y="1.00" pos="-41, -50, 0" style="gen_a17_common02_csr02" flick_time="0.00">
+			<anim_ctrl name="anim_ctrl" play="true" loop="true">
+				<bind_node node="prompt_icon" anim="anm_bf_prompt"/>
+			</anim_ctrl>
+		</image>
+	</image>
+	<!--入場演出-->
+	<anim_ctrl name="anim_enter" start_visible="true" play="true" loop="false" reverse="false">
+		<bind_node node="panel" anim="anm_common_fade_in"/>
+	</anim_ctrl>
+</root>

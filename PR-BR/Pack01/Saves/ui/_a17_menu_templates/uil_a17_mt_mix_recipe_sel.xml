@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!-- スタイルの読み込み -->
+	<!-- アニメーションの読み込み -->
+	<command load_anim="Saves/ui/_menu_templates/uia_mt_common.xml"/>
+	<!-- 下地ウィンドウ -->
+	<node name="_uimenu_window">
+		<node name="FIX_image" pos="3.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="line02_1" style="gen_a17_win01_line02" pos="347.00, 19.00, 0.00" size_wh="0.00, 424.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line02_2" style="gen_a17_win01_line02" pos="75.00, 19.00, -0.00" size_wh="0.00, 424.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="line" viewer_visible="true" pos="-21.00, -187.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="line01" style="gen_a17_win01_line01" pos="53.00, 214.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+				<image name="line01_1" style="gen_a17_win01_line01" pos="53.00, 254.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+				<image name="line01_2" style="gen_a17_win01_line01" pos="53.00, 294.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+				<image name="line01_3" style="gen_a17_win01_line01" pos="53.00, 334.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+				<image name="line01_4" style="gen_a17_win01_line01" pos="53.00, 374.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+				<image name="line01_5" style="gen_a17_win01_line01" pos="53.00, 414.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+				<image name="line01_6" style="gen_a17_win01_line01" pos="53.00, 454.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+				<image name="line01_7" style="gen_a17_win01_line01" pos="53.00, 494.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+				<image name="line01_8" style="gen_a17_win01_line01" pos="53.00, 534.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+				<image name="line01_9" style="gen_a17_win01_line01" pos="53.00, 574.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+				<image name="line01_10" style="gen_a17_win01_line01" pos="53.00, 614.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="384.00, 0.00, 0.00"/>
+			</node>
+		</node>
+		<!--スクロールバー-->
+		<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1,0" pos="414.00, 15.00, -0.00" size_h="445" style="common_scroll_bar_no_base" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<!-- メニュー項目 -->
+		<node name="__uimenu_body" pos="20.00, 12.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<!-- メニューカーソル -->
+			<node name="__uimenu_cursor" pos="15, 0, 0">
+				<image name="__uimenu_cursor_inactive" pos="-8.00, 20.00, 0.00" parent_size_copy_w="true" size_copy_w_offset="-45.00" image_no="0" style="gen_a17_win01_hl" size_wh="315.00, 39.00, 0.00"/>
+				<image name="__uimenu_cursor_active" pos="-8.00, 20.00, 0.00" parent_size_copy_w="true" size_copy_w_offset="-45.00" image_no="0" style="gen_a17_win01_hl" size_wh="315.00, 39.00, 0.00">
+					<feed pos="5,20"/>
+				</image>
+				<!-- 明滅アニメーション -->
+				<anim_ctrl play="true" loop="true">
+					<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</node>
+			<!-- メニュー項目リスト(この下にMenuItemが連なる) -->
+			<node pos="0, 9" name="__uimenu_item_list"/>
+		</node>
+	</node>
+</root>

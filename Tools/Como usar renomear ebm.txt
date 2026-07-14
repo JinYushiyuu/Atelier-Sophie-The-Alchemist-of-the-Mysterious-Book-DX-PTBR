@@ -1,0 +1,4 @@
+execute isso no terminal: python.exe .\renomear_ebm.py
+
+Tenha Pyton instalado!
+Coloque o arquivo na pasta dos arquivos que deseja renomear!

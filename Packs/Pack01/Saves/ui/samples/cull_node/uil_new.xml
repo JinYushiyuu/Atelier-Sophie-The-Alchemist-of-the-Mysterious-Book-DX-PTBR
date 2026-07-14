@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="template_loader"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="node" pos="651.00, 206.00, 0.00" rot="0.00, 0.00, 0.00" cull="">
+			<image name="off" pos="-374.00, 97.00, -0.00" style="gen_common04_speechchara" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" cull="off">
+				<text text="CULL_OFF" name="text_1" pos="7, 166, 0"/>
+			</image>
+			<image name="cw" pos="-161.00, 97.00, -0.00" style="gen_common04_speechchara" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" cull="cw">
+				<text text="CULL_CW" name="text_3" pos="32.00, 161.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+			<image name="ccw" pos="52.00, 97.00, -0.00" style="gen_common04_speechchara" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" cull="ccw">
+				<text text="CULL_CCW" name="text_2" pos="3, 158, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+			<image name="cull_none" pos="265, 97, -0" style="gen_common04_speechchara" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" cull="">
+				<text text="cull_none" name="text_2" pos="3.00, 158.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+		</node>
+		<anim_ctrl play="true" speed="0.25" viewer_key_assign="0" viewer_visible="false" loop="true">
+			<bind_node node="node" anim="anm_common_rotateY360"/>
+		</anim_ctrl>
+	</node>
+</root>

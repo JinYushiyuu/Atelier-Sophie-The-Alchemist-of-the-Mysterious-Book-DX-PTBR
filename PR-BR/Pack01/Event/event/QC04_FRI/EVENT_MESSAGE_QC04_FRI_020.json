@@ -1,0 +1,58 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC04_FRI_020.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0xe,
+            "msg_id": 0x0,
+            "msg_string": "This is the place Mr. Horst was talking about..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0xe,
+            "msg_id": 0x1,
+            "msg_string": "Uu, I'm so scared, but...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xe,
+            "msg_id": 0x2,
+            "msg_string": "H-hello, is anyone home!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xe,
+            "msg_id": 0x3,
+            "msg_string": "There's no answer... I guess nobody's here..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xe,
+            "msg_id": 0x4,
+            "msg_string": "Huh, it's locked."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0xe,
+            "msg_id": 0x5,
+            "msg_string": "Uu, I guess I need to come at night... I don't want to... This is too scary..."
+        }
+    ]
+}

@@ -1,0 +1,442 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_070.ebm",
+    "nb_messages": 0x32,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "*Sigh*... I couldn't find any clues..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x51,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "I can't hit Plachta, and it's not like she can drink tea either."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "I guess my only choice is to keep writing lots of recipes into her..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Hello, Sophie. What a coincidence."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Ah... Meklet, Atomina..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "What's wrong? You seem a little down."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "It's just..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "(Oh right, these two know a lot of things. Maybe they can give me a clue.)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "Actually, there's something I want to ask both of you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "You have a question for us? That's unusual."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "We'll answer whatever we can."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Um... One of my customers has lost their memories."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "They can't remember anything about the past, so I was wondering if there was any way to help..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "...No memories? Let's see... There's one thing I can tell you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "You need to get them as close to their original state as possible."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Original state...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Just think about it, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Let's say you forgot what book you were planning to read next. Would you remember when you're in the kitchen?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Hm... Not really..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "If anything, you'd remember when you're standing in front of the bookcase."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "That's likely because you were in front of the bookcase when you made plans to read it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "The bookcase is closer to your original state than the kitchen, in that case."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "Ah, I see... Original state... Wait, original... State?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "I got it!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x47,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Thank you, Meklet, Atomina! I think I'll be able to do something thanks to you! See you later!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x19,
+            "msg_string": "Haha, sounds like we were able to help."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "Yes, that's good. Sophie's always helping us, so we need to help her once in a while."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x2,
+            "msg_id": 0x1b,
+            "msg_string": "Plachta! I think I know the reason why all your memories aren't coming back!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1c,
+            "msg_string": "Sophie, what's wrong? Why are you so out of breath?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1d,
+            "msg_string": "You really... Need to turn back into a person!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1e,
+            "msg_string": "I'm sorry, Sophie. I don't understand your reasoning."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "You were human before, right? But you're a book now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "There's probably a limit to how much you can remember while you're still a book."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "I think because you used to be human, there's some memories that won't come back unless you're human again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x22,
+            "msg_string": "...I see. You're saying there are memories that won't return unless I'm in my original state."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x40,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "Yes, that's it! Exactly!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x24,
+            "msg_string": "...I told you before that it wouldn't be impossible, in theory."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x25,
+            "msg_string": "I know! That's why..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x26,
+            "msg_string": "But I also told you that the chances of accomplishing it were close to nil."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x27,
+            "msg_string": "Turning a book into a human is easy to talk about. But talking about it and doing it are completely different."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x28,
+            "msg_string": "Sophie, achieving this would require far more advanced alchemy than you seem to believe."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x29,
+            "msg_string": "...Still, I need to do it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "Sophie...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x2b,
+            "msg_string": "I made a promise. I promised that I would help you regain your memories, Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2c,
+            "msg_string": "...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x20,
+            "expr_id": 0x3,
+            "msg_id": 0x2d,
+            "msg_string": "It doesn't matter how difficult it is. I'll do it, to reclaim your memories!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2e,
+            "msg_string": "...I understand. You're quite stubborn, after all. I won't try to discourage you anymore."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2f,
+            "msg_string": "And it's true that I made a promise as well... That I would trust you. I'll leave this up to you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0x30,
+            "msg_string": "Thank you, Plachta! Okay, now that that's decided... Time to get started on Operation Humanize Plachta!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x31,
+            "msg_string": "Sophie, could you do something about that name, at least..."
+        }
+    ]
+}

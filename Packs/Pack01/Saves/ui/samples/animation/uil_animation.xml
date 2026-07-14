@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="Saves/ui/samples/animation/uia_animation.xml"/>
+	<text text="playing" name="playing" pos="213.00, 63.00, 0.00" visible="false"/>
+	<node name="node" pos="203, 161, 0" scale="2.00, 2.00, 1.00">
+		<image name="image" style="common_white_image" size_wh="400.00, 10.00, 0.00" pos="0.00, 23.00, 0.00" color="128.00, 128.00, 128.00, 128.00"/>
+		<image name="A" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="10.00, 10.00, 0.00" style="common_white_image" color="255.00, 255.00, 255.00, 255.00" pos="0, 20, 0">
+			<text text="A" name="text" font_size="15.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="1, 12, 0"/>
+		</image>
+	</node>
+	<node name="node_1" pos="203.00, 308.00, 0.00" scale="2.00, 2.00, 1.00">
+		<image name="image" style="common_white_image" size_wh="400.00, 10.00, 0.00" pos="0.00, 23.00, 0.00" color="128.00, 128.00, 128.00, 128.00"/>
+		<image name="B" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="10.00, 10.00, 0.00" style="common_white_image" color="255.00, 255.00, 255.00, 255.00" pos="0, 20, 0">
+			<text text="B" name="text" font_size="15.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="1.00, 12.00, 0.00"/>
+		</image>
+	</node>
+	<anim_ctrl viewer_key_assign="0" loop="false" play="false">
+		<bind_node node="playing" start_visible="true" end_visible="false"/>
+		<bind_node node="A" anim="anm_linear_pos" speed="0.50"/>
+		<bind_node node="B" anim="anm_linear_pos" reverse="true" speed="0.50" delay="0.50"/>
+	</anim_ctrl>
+</root>

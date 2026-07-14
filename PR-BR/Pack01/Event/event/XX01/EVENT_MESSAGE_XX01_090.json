@@ -1,0 +1,222 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_090.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "I've done it! My synthesis is complete! And I'm pretty pleased with it, too!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "It look a long time, but I've finally completed the request..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x50,
+            "expr_id": 0x4,
+            "msg_id": 0x2,
+            "msg_string": "...This room's a mess."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x51,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "I've been doing nothing but synthesizing for so long... I never noticed...Oh..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x52,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "What should I do? Maybe I could ask Monika again, or... wait."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "She just cleaned up for me, and I did tell her how much I've grown..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "I can't go running to her again. Plus, I'm wearing these clothes now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "If I'm going to wear Grandma's clothes, I have to do her proud...! Hmm..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "That's it! I've got it! Alchemy's just the thing when you don't know what to do!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x9,
+            "msg_string": "I'll use alchemy to make myself some cleaning equipment! Pretty sharp thinking!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2a6,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "There's no time like the present! If I can pull this off, I'll be one step closer to being like Grandma!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Um... Monika. You don't want to go inside...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "I thought you came here to clean up the atelier..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "...I did. But I don't think I need to."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Sophie deciding to clean her atelier herself is a once-in-a-century event!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Ah... You mean, this is like... a miracle?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x11,
+            "msg_string": "Exactly! And I'm sure it will be a key event in Sophie's development."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x12,
+            "msg_string": "She really wants to show how much she's grown, and as her friend, I want to help her."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "Monika...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x14,
+            "msg_string": "So... Let's go home, Corneria. I'll come back and see how she's doing again later."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "Very well... If you say so, Monika. But..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x16,
+            "msg_string": "I'm not sure why... But I have a bad feeling, somehow..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x6,
+            "name_id": 0x6,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "I hope it's just me overthinking things... Hmm..."
+        }
+    ]
+}

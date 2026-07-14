@@ -1,0 +1,55 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_ZZ01_200.ebm",
+    "nb_messages": 0x6,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "I know of people who have lost their lives because of a tiny dent they didn't fix."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "It's only natural for a knight to lend them aid."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Still, a doll for Plachta... Heh heh heh... Time to put my skills to work... This is going to be great... Heh heh."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x5,
+            "name_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Puppet shows are wonderful things! The playwright accounts for every little detail to craft a moving story!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "You have someone right here who's saying they want to hear you sing. What's there to worry about?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Hehe. That's a secret. Anyway, thanks again for your help."
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC02_OSK_130.ebm",
+    "nb_messages": 0x14,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "I really recommend these vegetables! Just look at how lively they are."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x1,
+            "msg_string": "Um, I can't really tell that..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "I don't know about what my son's saying, but it's true that I can specially recommend today's vegetables."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Huh? Monika?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Hello, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Oh, Sophie! Welcome!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hey, you're in luck, Sophie! Today's vegetables are the best I've seen in a while!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Hm, really?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "You really are a grocer, Oskar, if you can see things like that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "It's less seeing, and more hearing. I'm just listening to the voices of the vegetables."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "The vegetables tell me that they grew under good weather, so they're really lively."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0xb,
+            "msg_string": "You're saying that again? There's no way vegetables could talk."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "How do you know that? There's even a talking book now. It wouldn't be weird for vegetables to talk."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xd,
+            "msg_string": "Uu... I can't really respond to that..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "If you listen carefully, you can hear them. You can hear the whispers of plants in all kinds of places."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "Oh, I can kind of understand that feeling."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Sometimes, I feel like I can understand the feelings of the materials I use."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x3,
+            "name_id": 0x3,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Sounds like you still have a ways to go. Once you get to my level, you can clearly hear what plants are saying."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Huh, that's really amazing. I need to work harder too!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "...Is that really how it works?"
+        }
+    ]
+}

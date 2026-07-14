@@ -1,0 +1,139 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC07_LEO_160.ebm",
+    "nb_messages": 0xf,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x0,
+            "msg_string": "I've received a request insisting that you make some clothes, Amelia..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "How many times do I have to tell you? I'm not Amelia, I'm Leon. You've got the wrong girl."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x1d,
+            "expr_id": 0x3,
+            "msg_id": 0x2,
+            "msg_string": "No, the client who made the request recognized you. They said you are most definitely Amelia."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x3,
+            "msg_string": "...Oh really? Then refuse them. I don't feel like working for them."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x1e,
+            "expr_id": 0x3,
+            "msg_id": 0x4,
+            "msg_string": "But..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "...Just leave."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Leon..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Ah, Sophie. Welcome. What do you need today?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "...Leon, is your real name Amelia?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "...Oh, you were watching? You're always there at the most inconvenient times."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0xa,
+            "msg_string": "That's right. My real name is Amelia Leonmeyer. I'm the amazing clothier who won the fashion show in Adalett."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Leon is just an alias. I don't want people to know who I am. Although in the end, it didn't really help."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "But why, Leon...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x8,
+            "name_id": 0x8,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "...Sorry, but I don't want to talk about it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xe,
+            "msg_string": "(...Maybe I shouldn't ask.)"
+        }
+    ]
+}

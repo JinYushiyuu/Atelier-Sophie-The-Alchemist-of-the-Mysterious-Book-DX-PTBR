@@ -1,0 +1,86 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY02_010.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x43,
+            "expr_id": 0xd,
+            "msg_id": 0x0,
+            "msg_string": "There they are!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x1,
+            "msg_string": "Huh, but... Doesn't it look like they're being attacked by monsters?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x11,
+            "expr_id": 0xd,
+            "msg_id": 0x2,
+            "msg_string": "How careless. To think we didn't notice these monsters until they were this close."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x11,
+            "expr_id": 0xd,
+            "msg_id": 0x3,
+            "msg_string": "Yeah, you're right... I screwed up big time."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x69,
+            "expr_id": 0xd,
+            "msg_id": 0x4,
+            "msg_string": "So... What shall we do? At this rate, we're both in trouble."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x69,
+            "expr_id": 0xd,
+            "msg_id": 0x5,
+            "msg_string": "Yeah... The only thing I can think of... Is to look for an opening, and run."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "...What do you want to do?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1c,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "There's no question about it... We need to help them!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0x2,
+            "msg_id": 0x8,
+            "msg_string": "Hehe... I figured you would say that."
+        }
+    ]
+}

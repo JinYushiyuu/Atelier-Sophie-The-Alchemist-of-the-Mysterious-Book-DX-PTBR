@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="top">
+		<image name="back" style="common_white_image" size_wh="1280.00, 724.00, 0.00" pos="-2.00, -2.00, 0.00" color="64.00, 96.00, 128.00, 255.00"/>
+		<text text="外字登録しているボタン一覧" name="text" pos="484, 39, 0" drop_shadow="true"/>
+		<text text="※過去のプログラムとの互換のため、同じボタンを重複登録しています" name="text_1" pos="338, 564, 0" drop_shadow="true" font_size="20.00" font_color="255.00, 200.00, 200.00, 255.00"/>
+		<node name="node_3" pos="282, 22, 0">
+			<node name="node" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="IM00:&lt;IM00&gt;" name="IM00" pos="125.00, 103.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM01:&lt;IM01&gt;" name="IM01" pos="125.00, 142.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM02:&lt;IM02&gt;" name="IM02" pos="125.00, 181.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM03:&lt;IM03&gt;" name="IM03" pos="125.00, 221.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM04:&lt;IM04&gt;" name="IM04" pos="125.00, 260.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM05:&lt;IM05&gt;" name="IM05" pos="125.00, 299.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM06:&lt;IM06&gt;" name="IM06" pos="125.00, 339.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM07:&lt;IM07&gt;" name="IM07" pos="125.00, 378.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM08:&lt;IM08&gt;" name="IM08" pos="125.00, 417.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM09:&lt;IM09&gt;" name="IM09" pos="125.00, 457.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="node_1" pos="186.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="IM10:&lt;IM10&gt;" name="IM10" pos="125.00, 103.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM11:&lt;IM11&gt;" name="IM11" pos="125.00, 142.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM12:&lt;IM12&gt;" name="IM12" pos="125.00, 181.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM13:&lt;IM13&gt;" name="IM13" pos="125.00, 221.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM14:&lt;IM14&gt;" name="IM14" pos="125.00, 260.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM15:&lt;IM15&gt;" name="IM15" pos="125.00, 299.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM16:&lt;IM16&gt;" name="IM16" pos="125.00, 339.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM17:&lt;IM17&gt;" name="IM17" pos="125.00, 378.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM18:&lt;IM18&gt;" name="IM18" pos="125.00, 417.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM19:&lt;IM19&gt;" name="IM19" pos="125.00, 457.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="node_2" pos="368.00, 3.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="IM20:&lt;IM20&gt;" name="IM20" pos="125.00, 103.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM21:&lt;IM21&gt;" name="IM21" pos="125.00, 142.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM22:&lt;IM22&gt;" name="IM22" pos="125.00, 181.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM23:&lt;IM23&gt;" name="IM23" pos="125.00, 221.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM24:&lt;IM24&gt;" name="IM24" pos="125.00, 260.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM25:&lt;IM25&gt;" name="IM25" pos="125.00, 299.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM26:&lt;IM26&gt;" name="IM26" pos="125.00, 339.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="IM27:&lt;IM27&gt;" name="IM27" pos="125.00, 378.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+	</node>
+</root>

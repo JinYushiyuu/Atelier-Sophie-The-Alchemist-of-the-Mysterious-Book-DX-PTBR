@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓アニメーションxmlの読み込み-->
+		<command load_anim="Saves/ui/uia_common.xml"/>
+		<command load_anim="Saves/ui/library/uia_library.xml"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false">
+		<text text="new_text0123456789+-/%" name="text_submenu"/>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="Root" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+		<node name="node_menu">
+			<menu name="menu_top" style="common_menu_balloon_select" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" disp_scroll_bar="false" size_w="226.00" disp_lines="3" viewer_visible="false" pos="-0.00, -0.00, -0.00">
+				<text text="Encyclopedia" name="text_up"/>
+			</menu>
+			<text text="Sort" name="text_title" pos="108.00, 6.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" align="center"/>
+		</node>
+	</node>
+	<!--***↓アニメーション ***-->
+</root>

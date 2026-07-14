@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="node_menus" pos="118.00, 172.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<menu name="menu_top" style="common_menu_atex_select" pos="-0.00, 2.00, -0.00" disp_scroll_bar="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="Recipe Idea" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Item" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Effect/Trait" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Monster" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Field" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Facility" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="Help" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</menu>
+			<node name="node_lines" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="menuline01_1" style="gen_a17_library01_menuline01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_2" style="gen_a17_library01_menuline01" pos="0.00, 58.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_3" style="gen_a17_library01_menuline01" pos="0.00, 116.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_4" style="gen_a17_library01_menuline01" pos="0.00, 174.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_5" style="gen_a17_library01_menuline01" pos="0.00, 232.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_6" style="gen_a17_library01_menuline01" pos="0.00, 290.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_7" style="gen_a17_library01_menuline01" pos="0.00, 348.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+		<node name="node_right">
+			<image name="bg01" style="gen_a17_library05_bg01" pos="684.00, 153.00, -0.00" size_wh="545, 516" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="node_hl" viewer_visible="true" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<!--***↓レシピ ***-->
+				<image name="Entry_0" pos="685, 162, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_library04_hl" size_wh="228, 331"/>
+				<!--***↓アイテム ***-->
+				<image name="Entry_1" pos="698.00, 507.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_library04_hl" size_wh="191, 161"/>
+				<!--***↓効果 ***-->
+				<image name="Entry_2" pos="881.00, 591.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_library04_hl" size_wh="123, 80"/>
+				<!--***↓モンスターハイライト ***-->
+				<image name="Entry_3" pos="1023.00, 398.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_library04_hl"/>
+				<!--***↓採取地 ***-->
+				<image name="Entry_4" pos="920, 150, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_library04_hl" size_wh="295, 103"/>
+				<!--***↓施設 ***-->
+				<image name="Entry_5" pos="1071, 551, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_library04_hl" size_wh="119, 107"/>
+				<!--***↓ヘルプ ***-->
+				<image name="Entry_6" pos="933.00, 293.00, -0.00" rot="-0.00, -0.00, -4.98" scale="1.00, 1.00, 1.00" style="gen_a17_library04_hl" size_wh="263, 103"/>
+			</node>
+		</node>
+		<anim_ctrl name="anim_ctrl" play="true" loop="true">
+			<bind_node node="node_hl" anim="anm_common_blink"/>
+		</anim_ctrl>
+	</node>
+</root>

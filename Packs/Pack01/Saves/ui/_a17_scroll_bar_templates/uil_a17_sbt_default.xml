@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--スクロールバー-->
+	<node name="__uiscrollbar_top">
+		<!-- 下地 -->
+		<image name="_base" size_h="100.00" style="gen_a17_win01_scr01_u"/>
+		<node pos="-2, 18">
+			<!-- つまみ (posはUIScrollBarが制御する。size_whは下地を占めるサイズにすること) -->
+			<image name="_slider" color="255.00, 255.00, 255.00, 255.00" style="gen_a17_win01_scr01_o" pos="11.00, 1.00, 0.00"/>
+		</node>
+	</node>
+</root>

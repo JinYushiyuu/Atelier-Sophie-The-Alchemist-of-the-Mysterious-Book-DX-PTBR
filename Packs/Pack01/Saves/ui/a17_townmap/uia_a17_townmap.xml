@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+  
+  <!-- メインメニュー -->
+  <!-- 開く -->
+  <anim name="anm_open_mm">
+    <curve attr="rot" interpolate="easing_inoutquad">
+      <key time="0.0" value="0,-180,0"/>
+      <key time="0.2" value="0,0,0"/>
+    </curve>
+    <curve attr="color" interpolate="easing_inoutquad">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.2" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  <!-- 閉じる -->
+  <anim name="anm_close_mm">
+    <curve attr="rot" interpolate="easing_inoutquad">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.2" value="0,180,0"/>
+    </curve>
+    <curve attr="color" interpolate="easing_inoutquad">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="0.2" value="255,255,255,0"/>
+    </curve>
+  </anim>
+  
+  <!-- サブメニュー -->
+  <!-- 開く -->
+  <anim name="anm_open_sm">
+    <curve attr="rot" interpolate="easing_inoutquad">
+      <key time="0.0" value="0,-180,0"/>
+      <key time="0.2" value="0,0,0"/>
+    </curve>
+    <curve attr="color" interpolate="easing_inoutquad">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.2" value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  <!-- 閉じる -->
+  <anim name="anm_close_sm">
+    <curve attr="rot" interpolate="easing_inoutquad">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.2" value="0,180,0"/>
+    </curve>
+    <curve attr="color" interpolate="easing_inoutquad">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="0.2" value="255,255,255,0"/>
+    </curve>
+  </anim>
+
+</root>

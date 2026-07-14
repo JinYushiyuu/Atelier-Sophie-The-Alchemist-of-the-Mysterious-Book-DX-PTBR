@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+<root>
+	<grp>
+	
+		<!-- SE_FX03 -->
+	    <eff timing="   0.3" se_no="21" vol="1.0" pitch="0.0"/>
+	    <eff timing="   1.8" se_no="21" vol="1.0" pitch="0.0"/>
+		<!-- SE_FX04 -->
+	    <eff timing="   0.85" se_no="22" vol="0.6" pitch="0.0"/>
+	    <eff timing="   2.35" se_no="22" vol="0.6" pitch="0.0"/>
+	</grp>
+</root>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="template_loader"/>
+	</node>
+	<image name="pointer_info_window" style="gen_map01_logo" pos="47.00, 169.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+		<node name="template" pos="624.00, -7.00, 0.00" visible="false" viewer_visible="true">
+			<node name="cell" viewer_visible="true">
+				<image name="high_light" style="gen_common01_ct_highlight" size_wh="234.00, 36.00, 0.00" image_no="0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-4.00, -7.00, -0.00" visible="false" viewer_visible="false">
+					<anim_ctrl name="anim_ctrl" loop="true" play="true">
+						<bind_node node="high_light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+					<feed name="feed" pos="2, 15, 0"/>
+				</image>
+				<anim_ctrl name="on_unselect" viewer_key_assign="8" exclusive_play="true">
+					<bind_node node="high_light" end_visible="false"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_select" viewer_key_assign="7" exclusive_play="true">
+					<bind_node node="high_light" start_visible="true"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_ok" viewer_key_assign="7" exclusive_play="true">
+					<bind_node node="high_light" start_visible="true" anim="anm_common_rotateZ360"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_cancel" viewer_key_assign="7" exclusive_play="true">
+					<bind_node node="high_light" start_visible="true" anim="anm_common_rotateZ360"/>
+				</anim_ctrl>
+				<text text="あいうえおかきくけこ" name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="22.00" copy="TEXTCOLOR_BROWN" pos="-0.00, -0.00, -0.00"/>
+			</node>
+		</node>
+		<anim_ctrl name="ac_info_window_fade_in" viewer_key_assign="3" exclusive_play="true">
+			<bind_node anim="anm_common_fade_in" start_visible="true" node="pointer_info_window"/>
+		</anim_ctrl>
+		<anim_ctrl name="ac_info_window_fade_out" viewer_key_assign="4" exclusive_play="true">
+			<bind_node anim="anm_common_fade_in" start_visible="true" reverse="true" node="pointer_info_window"/>
+		</anim_ctrl>
+		<node name="item_list" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="node">
+				<node copy="cell" clone_child_tree="cell" name="item_0" pos="26.00, 75.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="item_1" pos="26.00, 113.62, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="item_2" pos="26.00, 152.25, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="item_3" pos="26.00, 190.87, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="item_4" pos="26.00, 229.50, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="item_5" pos="26.00, 268.13, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="item_6" pos="26.00, 306.75, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="item_7" pos="26.00, 345.38, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="item_8" pos="26.00, 384.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<image name="label" style="gen_option01_window01" pos="28.00, 9.00, -0.00" size_wh="222, 43" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="採取可能アイテム" name="text" font_size="22.00" pos="14.00, 10.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_color="232.00, 232.00, 232.00, 255.00"/>
+			</image>
+			<node name="lines" pos="272.00, 10.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="line" style="gen_window01_winline01" pos="-247.00, 85.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" pos="-247.00, 125.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_window01_winline01" size_wh="230, 8"/>
+				<image name="line" pos="-247.00, 164.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_window01_winline01" size_wh="229, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-247.00, 202.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8" viewer_visible="true"/>
+				<image name="line" style="gen_window01_winline01" pos="-247.00, 239.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-247.00, 277.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-247.00, 316.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-247.00, 354.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-247.00, 393.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+			</node>
+		</node>
+		<node name="monster_list" pos="278.00, 77.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="label" pos="-6.00, -67.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_option01_window01" size_wh="225, 41" viewer_visible="false">
+				<text text="出現モンスター" name="text_1" font_size="22.00" pos="25.00, 9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_color="232.00, 232.00, 232.00, 255.00" viewer_visible="true"/>
+			</image>
+			<node name="node_1" pos="-28, -77, 0">
+				<node copy="cell" clone_child_tree="cell" name="monster_0" pos="26.00, 75.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="monster_1" pos="26.00, 113.62, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="monster_2" pos="26.00, 152.25, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="monster_3" pos="26.00, 190.87, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="monster_4" pos="26.00, 229.50, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="monster_5" pos="26.00, 268.13, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="monster_6" pos="26.00, 306.75, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="monster_7" pos="26.00, 345.38, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="cell" clone_child_tree="cell" name="monster_8" pos="26.00, 384.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<image name="lines" style="gen_window01_winline01" pos="-1.00, 19.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8">
+				<image name="line" style="gen_window01_winline01" pos="-3, 39, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-3, 77, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-3, 268, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-3, 307, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-3, 116, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-3, 230, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-3, 154, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+				<image name="line" style="gen_window01_winline01" pos="-3, 192, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 8"/>
+			</image>
+		</node>
+		<selector name="pointer_info_selector">
+			<option_list>
+				<option node="item_list/item_0"/>
+				<option node="item_list/item_1"/>
+				<option node="item_list/item_2"/>
+				<option node="item_list/item_3"/>
+				<option node="item_list/item_4"/>
+				<option node="item_list/item_5"/>
+				<option node="item_list/item_6"/>
+				<option node="item_list/item_7"/>
+				<option node="item_list/item_8"/>
+			</option_list>
+			<option_list>
+				<option node="monster_list/monster_0"/>
+				<option node="monster_list/monster_1"/>
+				<option node="monster_list/monster_2"/>
+				<option node="monster_list/monster_3"/>
+				<option node="monster_list/monster_4"/>
+				<option node="monster_list/monster_5"/>
+				<option node="monster_list/monster_6"/>
+				<option node="monster_list/monster_7"/>
+				<option node="monster_list/monster_8"/>
+			</option_list>
+		</selector>
+	</image>
+</root>

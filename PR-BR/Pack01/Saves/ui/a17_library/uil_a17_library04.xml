@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="recipe_monster01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<node name="win" viewer_visible="false">
+				<image name="win02_w01" style="gen_a17_win02_w01" pos="120.00, -3.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="422.00, 161.00, 0.00"/>
+				<node name="tag" pos="153.00, -15.00, -0.00" rot="-0.00, -0.00, 1.20" scale="1.00, 1.00, 1.00">
+					<image name="tag10" pos="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_recipe01_tag10" rot="-0.00, -0.00, -0.00" viewer_visible="true"/>
+					<text text="あいうえおかきくけこ" name="text_title" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, -1.20" pos="31.31, 14.35, -0.00" align="left" scale="1.00, 1.00, 1.00"/>
+					<image name="img_race" style="etc_a17_category_monster" image_no="0" size_wh="42.00, 42.00, 0.00" pos="319, 8, 0" color="186.00, 153.00, 144.00, 255.00"/>
+				</node>
+				<node name="node_page0" pos="0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node name="obi" pos="154, 33, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="obi02" style="gen_a17_item_info01_obi02" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="0.00, 0.00, 0.00" viewer_visible="false" size_wh="186, 42"/>
+						<image name="text" style="gen_a17_library01_text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="28, 9, -0" image_no="11"/>
+					</node>
+					<text text="あいうえおかきくけこ" name="text_mapname0" copy="TEXTCOLOR_BROWN" pos="193.00, 73.00, -0.00" align="left" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00"/>
+					<text text="あいうえおかきくけこ" name="text_mapname1" copy="TEXTCOLOR_BROWN" pos="193.00, 109.00, -0.00" align="left" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00"/>
+					<node name="node_etc" pos="192, 62, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="obi02_2" style="gen_a17_item_info01_pagebg" rot="0.00, 0.00, -13.00" scale="1.00, 1.00, 1.00" pos="252, 70, -0"/>
+						<text text="Etc." name="text_etc" copy="TEXTCOLOR_BROWN" pos="275, 56, -0" align="left" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00"/>
+					</node>
+				</node>
+				<node name="node_page1" visible="false" viewer_visible="false">
+					<node name="obi" pos="154, 33, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="obi02" style="gen_a17_item_info01_obi02" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="0.00, 0.00, 0.00" viewer_visible="false"/>
+						<image name="text" style="gen_a17_library01_text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="23.00, 8.00, -0.00" viewer_visible="false"/>
+					</node>
+					<node name="item" pos="168.00, 74.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="img_dropitem0" style="etc_a17_item_l" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-0.00, -0.00, -0.00" size_wh="64.00, 64.00, 0.00"/>
+						<image name="img_dropitem1" style="etc_a17_item_l" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="71.50, -0.00, -0.00" size_wh="64.00, 64.00, 0.00"/>
+						<image name="img_dropitem2" style="etc_a17_item_l" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="143.00, -0.00, -0.00" size_wh="64.00, 64.00, 0.00"/>
+					</node>
+				</node>
+			</node>
+			<node name="monster" pos="-2.00, -13.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="itembg" style="gen_a17_item_info01_itembg01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="180.00, 180.00, 0.00"/>
+				<image name="img_monster" style="etc_a17_monster_l" pos="19, 25, -0" rot="-0.00, -0.00, -0.00" size_wh="128.00, 128.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="lvacce" style="gen_a17_item_info02_lvacce" pos="2.00, 8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="50.00, 50.00, 0.00">
+					<text text="99" name="text_level" font="A17_LV01" pos="18.00, 18.00, 0.00" word_space="-14.00" align="center" font_size="23.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<image name="img_clip" style="gen_a17_win01_checkicon01" pos="4.00, 119.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="42.00, 42.00, 0.00"/>
+			</node>
+			<node name="node_hl" pos="-13, -16, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+				<image name="img_hl" style="gen_a17_win03_hl" pos="1, -4, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="556, 189" mask_flag="true">
+					<anim_ctrl name="anim_ctrl" loop="true" play="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="."/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="."/>
+				</anim_ctrl>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="true">
+		<node name="01" viewer_visible="false">
+			<node copy="recipe_monster01" clone_child_tree="recipe_monster01" name="node_item0" pos="72.00, 168.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="recipe_monster01" clone_child_tree="recipe_monster01" name="node_item1" pos="72.00, 337.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="recipe_monster01" clone_child_tree="recipe_monster01" name="node_item2" pos="72.00, 503.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="recipe_monster01" clone_child_tree="recipe_monster01" name="node_item3" pos="676.00, 168.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="recipe_monster01" clone_child_tree="recipe_monster01" name="node_item4" pos="676.00, 338.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="recipe_monster01" clone_child_tree="recipe_monster01" name="node_item5" pos="676.00, 503.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="node_page" pos="996.00, 104.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="pagebg_line" style="gen_a17_library03_pf" pos="-951.00, 37.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" size_wh="1191.00, 538.00, 0.00"/>
+			<image name="pagebg" style="gen_a17_library03_pfbg" pos="2.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="&lt;IM11&gt;" name="l1" font_size="18.00" pos="12.00, 15.00, 0.00" color="197.00, 172.00, 148.00, 255.00" bold_size="1.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="&lt;IM15&gt;" name="r1" font_size="18.00" pos="149.00, 15.00, 0.00" color="197.00, 172.00, 148.00, 255.00" bold_size="1.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+			<text text="99" name="text_page" pos="86.00, 8.00, 0.00" align="right" color="197.00, 172.00, 148.00, 255.00" font_size="24.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" bold_size="1.00"/>
+			<text name="text_maxpage" pos="105.00, 8.00, 0.00" align="left" color="197.00, 172.00, 148.00, 255.00" font_size="24.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" bold_size="1.00" text="99"/>
+			<text text="/" name="text_slash" pos="95.50, 8.00, 0.00" align="center" word_space="-3.00" color="197.00, 172.00, 148.00, 255.00" font_size="24.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" bold_size="1.00"/>
+		</node>
+		<selector name="selector_list">
+			<option_list>
+				<option node="node_item0"/>
+				<option node="node_item1"/>
+				<option node="node_item2"/>
+			</option_list>
+			<option_list>
+				<option node="node_item3"/>
+				<option node="node_item4"/>
+				<option node="node_item5"/>
+			</option_list>
+		</selector>
+	</node>
+</root>

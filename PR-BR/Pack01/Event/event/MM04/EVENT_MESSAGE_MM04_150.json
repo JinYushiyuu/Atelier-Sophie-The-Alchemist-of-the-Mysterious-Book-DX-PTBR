@@ -1,0 +1,35 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM04_150.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x36,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Soul Stone, Soul Stone... Hmm, I really can't find it anywhere..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xffffffff,
+            "name_id": 0x14,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x1,
+            "unknown2": 0x2,
+            "msg_string": "GRAAAAAAAAR!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0xe,
+            "msg_id": 0x2,
+            "msg_string": "Eeeek!? Them again!?"
+        }
+    ]
+}

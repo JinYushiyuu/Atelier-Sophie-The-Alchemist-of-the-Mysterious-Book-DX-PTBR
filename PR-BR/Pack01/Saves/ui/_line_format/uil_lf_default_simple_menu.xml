@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--SimpleMenuの既定用-->
+	<node name="lf_default_simple_menu">
+		<text name="text" text="アイウエオかきくけこ" font_size="26.00" pos="5.00, 0.00, 0.00"/>
+	</node>
+</root>

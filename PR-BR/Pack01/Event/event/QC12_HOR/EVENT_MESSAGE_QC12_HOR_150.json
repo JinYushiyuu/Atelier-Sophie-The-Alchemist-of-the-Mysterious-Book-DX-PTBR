@@ -1,0 +1,273 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC12_HOR_150.ebm",
+    "nb_messages": 0x1e,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Hello, Mr. Horst."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Welcome, Sophie."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xc1,
+            "name_id": 0x1e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "unknown2": 0x2,
+            "msg_string": "Whoa, I'm feeling kind of dizzy."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xc6,
+            "name_id": 0x1f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x3,
+            "unknown2": 0x2,
+            "msg_string": "You should stop now, you're going to pass out."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xc1,
+            "name_id": 0x1e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "unknown2": 0x2,
+            "msg_string": "What are you saying, we've only just started drinking. The real contest starts now!"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xc6,
+            "name_id": 0x1f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x5,
+            "unknown2": 0x2,
+            "msg_string": "This guy's hopeless. He forgot that we've been drinking for hours now..."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xc6,
+            "name_id": 0x1f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "unknown2": 0x2,
+            "msg_string": "Hey, Meister!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Yes, do you need anything?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Ah, please wait just a minute, Sophie."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xc6,
+            "name_id": 0x1f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x9,
+            "unknown2": 0x2,
+            "msg_string": "We're going to be leaving. Can you ring us up?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Yes, thank you very much."
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xc1,
+            "name_id": 0x1e,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xb,
+            "unknown2": 0x2,
+            "msg_string": "Who said you can decide that?"
+        },
+        {
+            "type": 0x5,
+            "voice_id": 0xc6,
+            "name_id": 0x1f,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xc,
+            "unknown2": 0x2,
+            "msg_string": "Yeah, yeah, I know. Let's go outside, come on."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Sorry for the wait, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0xe,
+            "msg_string": "...I'm kind of jealous."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "Oh? Now this is sudden. About what, exactly?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x10,
+            "msg_string": "Alcohol."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0x11,
+            "msg_string": "Didn't we have a similar conversation before?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "Maybe we did."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Are you really that interested in drinking?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x14,
+            "msg_string": "I'm a little curious."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Why?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "Because adults are always drinking until they're all dizzy and drunk."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Aren't they drinking that much because it tastes really good?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "Not all people drink because they enjoy the flavor."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "What do you mean...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1a,
+            "msg_string": "You'll understand when you're older."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "Argh, that line again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xd,
+            "name_id": 0xd,
+            "extra_id": 0x18,
+            "expr_id": 0x2,
+            "msg_id": 0x1c,
+            "msg_string": "Heh heh... Alcohol is the flavor of life."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x1d,
+            "msg_string": "Hmm, now that's kind of hard to understand."
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="Saves/ui/mix/uia_mix.xml"/>
+	<node name="template" load="Saves/ui/uil_template.xml" viewer_visible="false"/>
+	<node name="cursor_offset" pos="-60, -52, 0">
+		<image style="gen_a17_mix02_vector" name="cursor" image_no="0" pos="100.00, 100.00, 0.00" rot="0.00, 0.00, 45.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+		<anim_ctrl name="cursor_def_anime" play="true" loop="true" reverse="false" viewer_key_assign="2" exclusive_play="true">
+			<bind_node node="cursor" anim="lecture_cursor_anime"/>
+		</anim_ctrl>
+		<anim_ctrl name="cursor_in" play="false" loop="false" reverse="false" viewer_key_assign="0" start_visible="true">
+			<bind_node node="cursor" anim="lecture_cursor_in"/>
+		</anim_ctrl>
+		<anim_ctrl name="cursor_out" play="false" loop="false" reverse="true" viewer_key_assign="1" end_visible="false">
+			<bind_node node="cursor" anim="lecture_cursor_in"/>
+		</anim_ctrl>
+	</node>
+</root>

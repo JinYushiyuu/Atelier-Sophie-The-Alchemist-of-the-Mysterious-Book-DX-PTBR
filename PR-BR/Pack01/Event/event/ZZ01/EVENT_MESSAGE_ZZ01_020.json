@@ -1,0 +1,34 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_ZZ01_020.ebm",
+    "nb_messages": 0x3,
+    "messages": [
+        {
+            "type": 0x3,
+            "voice_id": 0xe9,
+            "name_id": 0x2a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You want to know where the dragon is?"
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xe9,
+            "name_id": 0x2a,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "I could tell you, but... I know, first you need to help complete a Request. It doesn't matter which one."
+        },
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "You can receive Requests by talking to people in town. <CLGR>Go and clear at least one Request!<CLNR>"
+        }
+    ]
+}

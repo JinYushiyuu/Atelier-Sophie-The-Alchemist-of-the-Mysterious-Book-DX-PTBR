@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="/Saves/ui/a17_mix/uia_a17_mix.xml"/>
+	<node name="template" load="Saves/ui/uil_template.xml" pos="30.00, 30.00, 0.00" viewer_visible="false"/>
+	<image name="ui_bg" style="etc_a17_bg" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 125.00"/>
+	<node name="caption" pos="23.00, 0.00, 0.00" viewer_visible="false">
+		<image name="caption_out" style="gen_a17_mix01_captiontag" visible="false" viewer_visible="false">
+			<image name="text_image" style="gen_a17_mix01_captiontext" pos="88.00, 44.00, -0.00" image_no="7" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="181.00, 37.00, 0.00" viewer_visible="false"/>
+		</image>
+		<image name="caption_main" style="gen_a17_mix01_captiontag">
+			<image name="text_image" style="gen_a17_mix01_captiontext" pos="78.00, 42.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</image>
+		<anim_ctrl name="caption_change" viewer_key_assign="0" loop="false" play="false">
+			<bind_node node="caption_out" anim="anm_mix_caption_change_out" start_visible="true" end_visible="false"/>
+			<bind_node node="caption_main" start_visible="true" anim="anm_mix_caption_change_in"/>
+		</anim_ctrl>
+		<anim_ctrl name="get_in" viewer_key_assign="2" loop="false" play="false">
+			<bind_node node="caption_main" start_visible="true" anim="anm_mix_caption_change_in"/>
+		</anim_ctrl>
+		<anim_ctrl name="get_out" viewer_key_assign="3" loop="false" play="false">
+			<bind_node node="caption_main" anim="anm_mix_caption_change_out" start_visible="true" end_visible="false"/>
+		</anim_ctrl>
+	</node>
+	<image name="caption_recipe" style="gen_a17_mix01_captag_center" pos="462, 0, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+		<text name="text" color="214.00, 214.00, 214.00, 255.00" align="center" text="うに袋の調合" pos="216, 16, 0" font_size="28.00" bold_size="2.00" bold_color="49.00, 48.00, 57.00, 255.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<anim_ctrl name="recipe_in" play="false" loop="false" start_visible="true" viewer_key_assign="1">
+			<bind_node node="caption_recipe" anim="anm_mix_caption_recipe_in"/>
+		</anim_ctrl>
+	</image>
+</root>

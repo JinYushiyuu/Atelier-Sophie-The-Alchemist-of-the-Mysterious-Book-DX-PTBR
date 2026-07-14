@@ -1,0 +1,16 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM01_010.ebm",
+    "nb_messages": 0x1,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x49,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Okay, break time's over!"
+        }
+    ]
+}

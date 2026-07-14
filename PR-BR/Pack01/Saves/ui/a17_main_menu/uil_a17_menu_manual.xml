@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<command load_anim="/Saves/ui_CMN/a22_main_menu/uia_a22_main_menu.xml"/>
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" visible="false" viewer_visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" pos="0.00, 0.00, 0.00">
+		<!--***↓BG参照用-->
+		<image name="bg" style="etc_a17_bg" image_no="2" pos="1.00, 0.00, 0.00"/>
+		<node name="balloon" pos="-0, -44, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="image" style="gen_a17_win01_w04" pos="134.00, 165.00, 0.00" size_wh="1000.00, 500.00, 0.00"/>
+		</node>
+		<node name="qr" pos="7, 43, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="qr_code" style="gen_a17_mainmenu03_qr00" pos="585.00, 267.00, 0.00" size_wh="98.00, 98.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="qr_code_eu" style="gen_a17_mainmenu03_qr01" pos="585.00, 267.00, 0.00" size_wh="98.00, 98.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+		</node>
+		<text name="manual" pos="639.00, 173.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font="MainFont00" font_size="21.00" align="center" line_char_length="30" line_space="17.00" copy="TEXTCOLOR_BROWN" text="マニュアル文言"/>
+		<text name="url" pos="634.00, 494.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font="MainFont00" font_size="18.00" align="center" line_space="10.00" copy="TEXTCOLOR_BEIGE" bold_size="1.00" bold_color="26.00, 0.00, 0.00, 255.00" text="URL"/>
+		<anim_ctrl name="anim_fade_in" viewer_key_assign="0">
+			<bind_node node="." anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+</root>

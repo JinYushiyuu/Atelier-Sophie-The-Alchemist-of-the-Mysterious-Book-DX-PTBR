@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="gen_a17_battle01_bar">
+		<image name="gen_a17_battle01_bar__xLIST01" texture="ui/a17_battle.g1t" texture_index="0" uvwh="560,69,128,16"/>
+		<image name="gen_a17_battle01_bar__xLIST02" texture="ui/a17_battle.g1t" texture_index="0" uvwh="560,94,128,16"/>
+	</image_list>
+	<image name="gen_a17_battle01_barframe" texture="ui/a17_battle.g1t" texture_index="0" uvwh="560,48,128,16"/>
+	<image name="gen_a17_battle01_break" texture="ui/a17_battle.g1t" texture_index="0" uvwh="560,0,144,34"/>
+	<image_list name="gen_a17_battle01_button">
+		<image name="gen_a17_battle01_button__xLIST01" texture="ui/a17_battle.g1t" texture_index="0" uvwh="272,352,48,48"/>
+		<image name="gen_a17_battle01_button__xLIST02" texture="ui/a17_battle.g1t" texture_index="0" uvwh="320,352,48,48"/>
+		<image name="gen_a17_battle01_button__xLIST03" texture="ui/a17_battle.g1t" texture_index="0" uvwh="368,352,48,48"/>
+		<image name="gen_a17_battle01_button__xLIST04" texture="ui/a17_battle.g1t" texture_index="0" uvwh="416,352,48,48"/>
+	</image_list>
+	<image name="gen_a17_battle01_cb" texture="ui/a17_battle.g1t"  texture_index="0" prim_type="wrap" edge_margin="88,280,152,101" uvwh="0,128,256,528"/>
+	<image name="gen_a17_battle01_circle" texture="ui/a17_battle.g1t" texture_index="0" uvwh="528,128,208,208"/>
+	<image name="gen_a17_battle01_cursor" texture="ui/a17_battle.g1t" texture_index="0" uvwh="720,0,48,32"/>
+	<image name="gen_a17_battle01_cursor_lv" texture="ui/a17_battle.g1t" texture_index="0" uvwh="656,544,48,48"/>
+	<image_list name="gen_a17_battle01_efm">
+		<image name="gen_a17_battle01_efm__xLIST01" texture="ui/a17_battle.g1t" texture_index="5" uvwh="228,620,84,144"/>
+		<image name="gen_a17_battle01_efm__xLIST02" texture="ui/a17_battle.g1t" texture_index="5" uvwh="314,620,84,144"/>
+		<image name="gen_a17_battle01_efm__xLIST03" texture="ui/a17_battle.g1t" texture_index="5" uvwh="400,620,84,144"/>
+		<image name="gen_a17_battle01_efm__xLIST04" texture="ui/a17_battle.g1t" texture_index="5" uvwh="486,620,84,144"/>
+		<image name="gen_a17_battle01_efm__xLIST05" texture="ui/a17_battle.g1t" texture_index="5" uvwh="574,620,84,144"/>
+	</image_list>
+	<image name="gen_a17_battle01_gauge_bighp" texture="ui/a17_battle.g1t" texture_index="0" uvwh="528,488,160,16"/>
+	<image name="gen_a17_battle01_gauge_bigmp" texture="ui/a17_battle.g1t" texture_index="0" uvwh="528,512,160,16"/>
+	<image name="gen_a17_battle01_gaugeframe" texture="ui/a17_battle.g1t" texture_index="0" uvwh="528,464,176,16"/>
+	<image name="gen_a17_battle01_hp" texture="ui/a17_battle.g1t" texture_index="0" uvwh="0,672,128,64"/>
+	<image_list name="gen_a17_battle01_hpframe">
+		<image name="gen_a17_battle01_hpframe__xLIST01" texture="ui/a17_battle.g1t" texture_index="0" uvwh="272,408,224,112"/>
+		<image name="gen_a17_battle01_hpframe__xLIST02" texture="ui/a17_battle.g1t" texture_index="0" uvwh="524,344,224,112"/>
+	</image_list>
+	<image name="gen_a17_battle01_hpframe_m" texture="ui/a17_battle.g1t" texture_index="0" uvwh="264,648,416,120"/>
+	<image name="gen_a17_battle01_light" texture="ui/a17_battle.g1t" texture_index="0" uvwh="272,128,240,148"/>
+	<image name="gen_a17_battle01_mp" texture="ui/a17_battle.g1t" texture_index="0" uvwh="131,672,129,64"/>
+	<image name="gen_a17_battle01_n" texture="ui/a17_battle.g1t"  texture_index="0" prim_type="wrap" edge_margin="62,9,70,16" uvwh="272,532,368,96"/>
+	<image name="gen_a17_battle01_peke" texture="ui/a17_battle.g1t" texture_index="0" uvwh="368,0,176,112"/>
+	<image name="gen_a17_battle01_target" texture="ui/a17_battle.g1t" texture_index="0" uvwh="272,288,192,48"/>
+	<image_list name="gen_a17_battle01_tcardf">
+		<image name="gen_a17_battle01_tcardf__xLIST01" texture="ui/a17_battle.g1t" texture_index="0" uvwh="0,0,176,114"/>
+		<image name="gen_a17_battle01_tcardf__xLIST02" texture="ui/a17_battle.g1t" texture_index="0" uvwh="189,0,176,114"/>
+	</image_list>
+	<image name="gen_a17_battle01_tf" texture="ui/a17_battle.g1t"  texture_index="7" prim_type="wrap" edge_margin="320,0,320,249" uvwh="584,7,952,249"/>
+	<image_list name="gen_a17_battle02_atk">
+		<image name="gen_a17_battle02_atk__xLIST01" texture="ui/a17_battle.g1t" texture_index="1" uvwh="640,512,128,128"/>
+		<image name="gen_a17_battle02_atk__xLIST02" texture="ui/a17_battle.g1t" texture_index="1" uvwh="640,640,128,128"/>
+	</image_list>
+	<image_list name="gen_a17_battle02_def">
+		<image name="gen_a17_battle02_def__xLIST01" texture="ui/a17_battle.g1t" texture_index="1" uvwh="0,512,128,128"/>
+		<image name="gen_a17_battle02_def__xLIST02" texture="ui/a17_battle.g1t" texture_index="1" uvwh="0,640,128,128"/>
+		<image name="gen_a17_battle02_def__xLIST03" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1370,114,128,128"/>
+	</image_list>
+	<image_list name="gen_a17_battle02_escape">
+		<image name="gen_a17_battle02_escape__xLIST01" texture="ui/a17_battle.g1t" texture_index="1" uvwh="128,512,128,128"/>
+		<image name="gen_a17_battle02_escape__xLIST02" texture="ui/a17_battle.g1t" texture_index="1" uvwh="128,640,128,128"/>
+		<image name="gen_a17_battle02_escape__xLIST03" texture="ui/a17_battle.g1t" texture_index="1" uvwh="256,512,128,128"/>
+	</image_list>
+	<image_list name="gen_a17_battle02_image_a">
+		<image name="gen_a17_battle02_image_a__xLIST01" texture="ui/a17_battle.g1t" texture_index="1" uvwh="-2,0,122,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST02" texture="ui/a17_battle.g1t" texture_index="1" uvwh="126,0,122,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST03" texture="ui/a17_battle.g1t" texture_index="1" uvwh="255,0,121,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST04" texture="ui/a17_battle.g1t" texture_index="1" uvwh="382,0,122,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST05" texture="ui/a17_battle.g1t" texture_index="1" uvwh="510,0,122,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST06" texture="ui/a17_battle.g1t" texture_index="1" uvwh="638,0,121,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST07" texture="ui/a17_battle.g1t" texture_index="1" uvwh="-2,128,122,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST08" texture="ui/a17_battle.g1t" texture_index="1" uvwh="126,128,122,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST09" texture="ui/a17_battle.g1t" texture_index="1" uvwh="255,128,121,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST10" texture="ui/a17_battle.g1t" texture_index="1" uvwh="382,128,122,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST11" texture="ui/a17_battle.g1t" texture_index="1" uvwh="510,128,122,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST12" texture="ui/a17_battle.g1t" texture_index="1" uvwh="638,128,121,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST13" texture="ui/a17_battle.g1t" texture_index="3" uvwh="1072,0,128,128"/>
+		<image name="gen_a17_battle02_image_a__xLIST14" texture="ui/a17_battle.g1t" texture_index="1" uvwh="765,128,121,128"/>
+	</image_list>
+	<image_list name="gen_a17_battle02_image_d">
+		<image name="gen_a17_battle02_image_d__xLIST01" texture="ui/a17_battle.g1t" texture_index="1" uvwh="-2,256,122,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST02" texture="ui/a17_battle.g1t" texture_index="1" uvwh="126,256,122,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST03" texture="ui/a17_battle.g1t" texture_index="1" uvwh="255,256,121,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST04" texture="ui/a17_battle.g1t" texture_index="1" uvwh="382,256,122,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST05" texture="ui/a17_battle.g1t" texture_index="1" uvwh="510,256,122,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST06" texture="ui/a17_battle.g1t" texture_index="1" uvwh="638,256,121,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST07" texture="ui/a17_battle.g1t" texture_index="1" uvwh="-2,384,122,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST08" texture="ui/a17_battle.g1t" texture_index="1" uvwh="126,384,122,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST09" texture="ui/a17_battle.g1t" texture_index="1" uvwh="255,384,121,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST10" texture="ui/a17_battle.g1t" texture_index="1" uvwh="382,384,122,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST11" texture="ui/a17_battle.g1t" texture_index="1" uvwh="510,384,122,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST12" texture="ui/a17_battle.g1t" texture_index="1" uvwh="638,384,121,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST13" texture="ui/a17_battle.g1t" texture_index="3" uvwh="1200,0,128,128"/>
+		<image name="gen_a17_battle02_image_d__xLIST14" texture="ui/a17_battle.g1t" texture_index="1" uvwh="765,384,121,128"/>
+	</image_list>
+	<image name="gen_a17_battle02_imageframe" texture="ui/a17_battle.g1t" texture_index="1" uvwh="256,640,122,121"/>
+	<image_list name="gen_a17_battle02_item">
+		<image name="gen_a17_battle02_item__xLIST01" texture="ui/a17_battle.g1t" texture_index="1" uvwh="512,512,128,128"/>
+		<image name="gen_a17_battle02_item__xLIST02" texture="ui/a17_battle.g1t" texture_index="1" uvwh="512,640,128,128"/>
+		<image name="gen_a17_battle02_item__xLIST03" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1345,636,128,128"/>
+	</image_list>
+	<image_list name="gen_a17_battle02_skill">
+		<image name="gen_a17_battle02_skill__xLIST01" texture="ui/a17_battle.g1t" texture_index="1" uvwh="384,512,128,128"/>
+		<image name="gen_a17_battle02_skill__xLIST02" texture="ui/a17_battle.g1t" texture_index="1" uvwh="384,640,128,128"/>
+		<image name="gen_a17_battle02_skill__xLIST03" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1217,636,128,128"/>
+	</image_list>
+	<image name="gen_a17_battle03_burst" texture="ui/a17_battle.g1t" texture_index="2" uvwh="544,112,144,48"/>
+	<image_list name="gen_a17_battle03_burst_g">
+		<image name="gen_a17_battle03_burst_g__xLIST01" texture="ui/a17_battle.g1t" texture_index="2" uvwh="0,0,352,112"/>
+		<image name="gen_a17_battle03_burst_g__xLIST02" texture="ui/a17_battle.g1t" texture_index="2" uvwh="400,400,352,112"/>
+	</image_list>
+	<image name="gen_a17_battle03_burstgaugebar" texture="ui/a17_battle.g1t" texture_index="2" uvwh="0,112,256,48"/>
+	<image name="gen_a17_battle03_burstgaugebg" texture="ui/a17_battle.g1t" texture_index="2" uvwh="368,0,352,112"/>
+	<image name="gen_a17_battle03_commando_sentence" texture="ui/a17_battle.g1t" texture_index="2" uvwh="0,608,416,64"/>
+	<image name="gen_a17_battle03_commandoname" texture="ui/a17_battle.g1t" texture_index="2" uvwh="400,512,288,96"/>
+	<image name="gen_a17_battle03_ok" texture="ui/a17_battle.g1t" texture_index="2" uvwh="304,696,112,72"/>
+	<image name="gen_a17_battle03_resultgauge_f" texture="ui/a17_battle.g1t" texture_index="2" uvwh="256,112,288,48"/>
+	<image name="gen_a17_battle03_resultgaugebar" texture="ui/a17_battle.g1t" texture_index="2" uvwh="256,160,256,32"/>
+	<image name="gen_a17_battle03_sl" texture="ui/a17_battle.g1t"  texture_index="2" prim_type="wrap" edge_margin="119,16,125,16" uvwh="400,208,352,176"/>
+	<image name="gen_a17_battle03_ss" texture="ui/a17_battle.g1t"  texture_index="2" prim_type="wrap" edge_margin="16,16,201,73" uvwh="416,608,272,146"/>
+	<image name="gen_a17_battle03_st" texture="ui/a17_battle.g1t"  texture_index="2" prim_type="wrap" edge_margin="121,137,132,100" uvwh="4,208,393,380"/>
+	<image name="gen_a17_battle03_stlin_long" texture="ui/a17_battle.g1t" texture_index="2" uvwh="-1,192,737,13"/>
+	<image name="gen_a17_battle03_stline" texture="ui/a17_battle.g1t" texture_index="2" uvwh="0,592,400,8"/>
+	<image name="gen_a17_battle04_chainlink" texture="ui/a17_battle.g1t" texture_index="5" uvwh="0,688,224,56"/>
+	<image name="gen_a17_battle04_coin" texture="ui/a17_battle.g1t" texture_index="3" uvwh="1008,0,64,64"/>
+	<image_list name="gen_a17_battle04_count">
+		<image name="gen_a17_battle04_count__xLIST01" texture="ui/a17_battle.g1t" texture_index="5" uvwh="76,616,28,36"/>
+		<image name="gen_a17_battle04_count__xLIST02" texture="ui/a17_battle.g1t" texture_index="5" uvwh="104,616,28,36"/>
+		<image name="gen_a17_battle04_count__xLIST03" texture="ui/a17_battle.g1t" texture_index="5" uvwh="132,616,28,36"/>
+		<image name="gen_a17_battle04_count__xLIST04" texture="ui/a17_battle.g1t" texture_index="5" uvwh="160,616,28,36"/>
+	</image_list>
+	<image_list name="gen_a17_battle04_cursor">
+		<image name="gen_a17_battle04_cursor__xLIST01" texture="ui/a17_battle.g1t" texture_index="5" uvwh="696,12,56,80"/>
+		<image name="gen_a17_battle04_cursor__xLIST02" texture="ui/a17_battle.g1t" texture_index="5" uvwh="694,15,56,80"/>
+		<image name="gen_a17_battle04_cursor__xLIST03" texture="ui/a17_battle.g1t" texture_index="5" uvwh="698,10,56,80"/>
+	</image_list>
+	<image name="gen_a17_battle04_l01" texture="ui/a17_battle.g1t"  texture_index="3" prim_type="wrap" edge_margin="0,32,50,38" uvwh="1478,187,64,88"/>
+	<image name="gen_a17_battle04_l02" texture="ui/a17_battle.g1t"  texture_index="3" prim_type="wrap" edge_margin="2,31,44,4" uvwh="1413,107,60,76"/>
+	<image name="gen_a17_battle04_l03" texture="ui/a17_battle.g1t"  texture_index="3" prim_type="wrap" edge_margin="1,30,45,30" uvwh="1478,107,60,76"/>
+	<image name="gen_a17_battle04_levelup" texture="ui/a17_battle.g1t" texture_index="3" uvwh="432,0,576,144"/>
+	<image name="gen_a17_battle04_moneyobi01" texture="ui/a17_battle.g1t" texture_index="3" uvwh="387,144,1024,96"/>
+	<image name="gen_a17_battle04_nametag01" texture="ui/a17_battle.g1t" texture_index="3" uvwh="0,128,384,96"/>
+	<image name="gen_a17_battle04_result" texture="ui/a17_battle.g1t" texture_index="3" uvwh="0,0,400,128"/>
+	<image name="gen_a17_battle04_resultbg" texture="ui/a17_battle.g1t" texture_index="3" uvwh="0,240,1024,148"/>
+	<image_list name="gen_a17_battle04_support">
+		<image name="gen_a17_battle04_support__xLIST01" texture="ui/a17_battle.g1t" texture_index="3" uvwh="1028,244,158,92"/>
+		<image name="gen_a17_battle04_support__xLIST02" texture="ui/a17_battle.g1t" texture_index="3" uvwh="1189,244,158,92"/>
+	</image_list>
+	<image_list name="gen_a17_battle04_support_l">
+		<image name="gen_a17_battle04_support_l__xLIST01" texture="ui/a17_battle.g1t" texture_index="3" uvwh="1350,278,168,104"/>
+		<image name="gen_a17_battle04_support_l__xLIST02" texture="ui/a17_battle.g1t" texture_index="3" uvwh="1330,2,168,104"/>
+	</image_list>
+	<image_list name="gen_a17_battle04_text01">
+		<image name="gen_a17_battle04_text01__xLIST01" texture="ui/a17_battle.g1t" texture_index="6" uvwh="1196,480,168,48"/>
+		<image name="gen_a17_battle04_text01__xLIST02" texture="ui/a17_battle.g1t" texture_index="6" uvwh="1196,528,168,48"/>
+		<image name="gen_a17_battle04_text01__xLIST03" texture="ui/a17_battle.g1t" texture_index="6" uvwh="1196,576,168,48"/>
+		<image name="gen_a17_battle04_text01__xLIST04" texture="ui/a17_battle.g1t" texture_index="6" uvwh="1196,624,168,48"/>
+		<image name="gen_a17_battle04_text01__xLIST05" texture="ui/a17_battle.g1t" texture_index="6" uvwh="1196,672,168,48"/>
+		<image name="gen_a17_battle04_text01__xLIST06" texture="ui/a17_battle.g1t" texture_index="6" uvwh="1364,480,168,48"/>
+		<image name="gen_a17_battle04_text01__xLIST07" texture="ui/a17_battle.g1t" texture_index="6" uvwh="1364,528,168,48"/>
+		<image name="gen_a17_battle04_text01__xLIST08" texture="ui/a17_battle.g1t" texture_index="6" uvwh="1364,576,168,48"/>
+	</image_list>
+	<image name="gen_a17_battle04_voidebg" texture="ui/a17_battle.g1t" texture_index="5" uvwh="176,434,208,60"/>
+	<image_list name="gen_a17_battle05_icon01">
+		<image name="gen_a17_battle05_icon01__xLIST01" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1216,260,48,48"/>
+		<image name="gen_a17_battle05_icon01__xLIST02" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1264,260,48,48"/>
+		<image name="gen_a17_battle05_icon01__xLIST03" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1312,260,48,48"/>
+		<image name="gen_a17_battle05_icon01__xLIST04" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1360,260,48,48"/>
+		<image name="gen_a17_battle05_icon01__xLIST05" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1408,260,48,48"/>
+		<image name="gen_a17_battle05_icon01__xLIST06" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1456,260,48,48"/>
+		<image name="gen_a17_battle05_icon01__xLIST07" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1216,308,48,48"/>
+		<image name="gen_a17_battle05_icon01__xLIST08" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1264,308,48,48"/>
+		<image name="gen_a17_battle05_icon01__xLIST09" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1312,308,48,48"/>
+	</image_list>
+	<image_list name="gen_a17_battle05_icon02">
+		<image name="gen_a17_battle05_icon02__xLIST01" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1216,360,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST02" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1264,360,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST03" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1312,360,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST04" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1360,360,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST05" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1408,360,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST06" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1456,360,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST07" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1216,408,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST08" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1264,408,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST09" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1312,408,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST10" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1360,408,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST11" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1408,408,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST12" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1456,408,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST13" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1216,456,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST14" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1264,456,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST15" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1312,456,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST16" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1360,456,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST17" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1408,456,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST18" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1456,456,48,48"/>
+		<image name="gen_a17_battle05_icon02__xLIST19" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1216,504,48,49"/>
+		<image name="gen_a17_battle05_icon02__xLIST20" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1264,504,48,49"/>
+		<image name="gen_a17_battle05_icon02__xLIST21" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1312,504,48,49"/>
+	</image_list>
+	<image_list name="gen_a17_battle05_resultim">
+		<image name="gen_a17_battle05_resultim__xLIST01" texture="ui/a17_battle.g1t" texture_index="4" uvwh="0,0,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST02" texture="ui/a17_battle.g1t" texture_index="4" uvwh="0,144,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST03" texture="ui/a17_battle.g1t" texture_index="4" uvwh="0,288,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST04" texture="ui/a17_battle.g1t" texture_index="4" uvwh="0,432,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST05" texture="ui/a17_battle.g1t" texture_index="4" uvwh="0,576,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST06" texture="ui/a17_battle.g1t" texture_index="4" uvwh="608,0,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST07" texture="ui/a17_battle.g1t" texture_index="4" uvwh="608,144,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST08" texture="ui/a17_battle.g1t" texture_index="4" uvwh="608,288,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST09" texture="ui/a17_battle.g1t" texture_index="4" uvwh="608,432,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST10" texture="ui/a17_battle.g1t" texture_index="4" uvwh="608,576,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST11" texture="ui/a17_battle.g1t" texture_index="5" uvwh="0,0,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST12" texture="ui/a17_battle.g1t" texture_index="5" uvwh="0,144,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST13" texture="ui/a17_battle.g1t" texture_index="5" uvwh="0,288,600,144"/>
+		<image name="gen_a17_battle05_resultim__xLIST14" texture="ui/a17_battle.g1t" texture_index="5" uvwh="0,768,600,144"/>
+	</image_list>
+	<image name="gen_a17_battle05_supportgage" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1216,112,144,144"/>
+	<image name="gen_a17_battle05_supportgage_f" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1216,0,160,96"/>
+	<image name="gen_a17_battle05_turn" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1216,556,316,36"/>
+	<image name="gen_a17_battle05_turn_text_no" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1288,596,104,36"/>
+	<image name="gen_a17_battle05_turn_text_yes" texture="ui/a17_battle.g1t" texture_index="4" uvwh="1216,596,68,36"/>
+	<image name="gen_a17_battle06_button" texture="ui/a17_battle.g1t" texture_index="5" uvwh="0,620,68,68"/>
+	<image name="gen_a17_battle06_chain" texture="ui/a17_battle.g1t" texture_index="5" uvwh="0,434,176,60"/>
+	<image name="gen_a17_battle06_maxdamage" texture="ui/a17_battle.g1t" texture_index="5" uvwh="0,494,360,68"/>
+	<image name="gen_a17_battle06_namebg" texture="ui/a17_battle.g1t" texture_index="5" uvwh="389,438,344,56"/>
+	<image name="gen_a17_battle07_accessory01" texture="ui/a17_battle.g1t" texture_index="6" uvwh="0,0,1536,474"/>
+	<image name="gen_a17_battle07_accessory02" texture="ui/a17_battle.g1t" texture_index="7" uvwh="0,294,1536,474"/>
+	<image_list name="gen_a17_battle07_f">
+		<image name="gen_a17_battle07_f__xLIST01" texture="ui/a17_battle.g1t" texture_index="7" uvwh="0,0,293,136"/>
+		<image name="gen_a17_battle07_f__xLIST02" texture="ui/a17_battle.g1t" texture_index="7" uvwh="0,140,293,136"/>
+	</image_list>
+	<image name="gen_a17_battle07_linkbg" texture="ui/a17_battle.g1t" texture_index="7" uvwh="298,136,280,64"/>
+	<image name="gen_a17_battle07_linkframe" texture="ui/a17_battle.g1t" texture_index="7" uvwh="298,0,280,64"/>
+	<image name="gen_a17_battle07_linkgage" texture="ui/a17_battle.g1t" texture_index="7" uvwh="298,68,280,64"/>
+	<image name="gen_a17_battle07_s_l" texture="ui/a17_battle.g1t" texture_index="6" uvwh="944,692,39,32"/>
+	<image name="gen_a17_battle07_s_l_nx" texture="ui/a17_battle.g1t" texture_index="6" uvwh="862,692,39,32"/>
+	<image name="gen_a17_battle07_s_l_pc" texture="ui/a17_battle.g1t" texture_index="6" uvwh="1026,692,39,32"/>
+	<image name="gen_a17_battle07_s_r" texture="ui/a17_battle.g1t" texture_index="6" uvwh="986,692,39,32"/>
+	<image name="gen_a17_battle07_s_r_nx" texture="ui/a17_battle.g1t" texture_index="6" uvwh="904,692,39,32"/>
+	<image name="gen_a17_battle07_s_r_pc" texture="ui/a17_battle.g1t" texture_index="6" uvwh="1068,692,39,32"/>
+	<image name="gen_a17_battle07_turnend01" texture="ui/a17_battle.g1t" texture_index="6" uvwh="0,476,404,212"/>
+	<image name="gen_a17_battle07_turnstart01" texture="ui/a17_battle.g1t" texture_index="6" uvwh="412,476,684,212"/>
+	<image name="gen_a17_battle09_cutin_text01" texture="ui/a17_battle.g1t" texture_index="8" uvwh="-2,-6,152,164"/>
+	<image name="gen_a17_battle09_cutin_text02" texture="ui/a17_battle.g1t" texture_index="8" uvwh="172,0,396,164"/>
+	<image name="gen_a17_battle09_cutin_text03" texture="ui/a17_battle.g1t" texture_index="8" uvwh="0,168,152,164"/>
+	<image name="gen_a17_battle09_cutin_text04" texture="ui/a17_battle.g1t" texture_index="8" uvwh="172,168,312,164"/>
+	<image name="gen_a17_battle09_cutin_text05" texture="ui/a17_battle.g1t" texture_index="8" uvwh="0,336,152,164"/>
+	<image name="gen_a17_battle09_cutin_text06" texture="ui/a17_battle.g1t" texture_index="8" uvwh="172,336,272,164"/>
+	<image name="gen_a17_battle10_L3" texture="ui/a17_battle.g1t" texture_index="9" uvwh="72,157,34,31"/>
+	<image name="gen_a17_battle10_speedUp" texture="ui/a17_battle.g1t" texture_index="9" uvwh="43,40,314,83"/>
+</root>

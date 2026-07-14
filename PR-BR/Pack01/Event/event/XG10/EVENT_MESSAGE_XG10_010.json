@@ -1,0 +1,16 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XG10_010.ebm",
+    "nb_messages": 0x1,
+    "messages": [
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "The scents of the town drift in the wind. The wind blowing down the hills tells the daily story of Kirchen Bell."
+        }
+    ]
+}

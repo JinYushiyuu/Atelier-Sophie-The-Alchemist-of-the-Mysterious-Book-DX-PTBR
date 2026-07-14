@@ -1,0 +1,42 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_200.ebm",
+    "nb_messages": 0x4,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2e,
+            "expr_id": 0x4,
+            "msg_id": 0x0,
+            "msg_string": "Okay, then. Clothes, underwear, handkerchiefs... check. Bombs, tools... check."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Yup, it looks like I've packed everything I need. I'm ready to go..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x4e,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Hahaha, I'm so forgetful. I forgot the most important thing of all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "...I've got to go say goodbye to Grandma!"
+        }
+    ]
+}

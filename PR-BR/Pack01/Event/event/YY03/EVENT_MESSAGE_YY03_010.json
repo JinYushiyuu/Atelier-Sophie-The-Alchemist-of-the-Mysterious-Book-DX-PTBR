@@ -1,0 +1,385 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY03_010.ebm",
+    "nb_messages": 0x2b,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "It's done! Hey, does this look okay?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "...Yes, I don't see any issues."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x2,
+            "msg_string": "That's a relief..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Looks like you managed to complete it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Very nice."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "Ah, you two. Here you go."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "So this is... The prototype for the \"Cauldron of Knowledge\"..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Yes. Although, its power is quite weak compared to the Cauldron..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Still, with this, anyone would be able to use basic alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "You're no exception."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "I see... So with this, we can use alchemy again..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "...Thank you, Sophie... And you too, Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xf,
+            "msg_id": 0xc,
+            "msg_string": "...!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "With this tool, we might be able to fulfill our dream."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Your dream...? What's that...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Hehe, that's a secret."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "It wouldn't be fun if we told you everything. We'll leave it to your imagination."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Whaaat, you could tell me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Nope. We won't tell you, no matter how much you beg."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x25,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "Uu, you're both mean..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Anyway, this might not be much of a reward, but... Sophie, there's something we want to tell you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x69,
+            "expr_id": 0xd,
+            "msg_id": 0x15,
+            "msg_string": "...Oh, hold on a second. Plachta, you go wait over there... You're in the way."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "In the way!? ...I understand. Excuse me..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "So... What did you want to tell me?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Right. It's about your concern from before. You still want to give Plachta a human body, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "Oh, yeah. I do, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "To put it simply... If you want to do it, you should."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "You seem to think it would be too hard for you... But we doubt that's the case."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0x1c,
+            "msg_string": "It hasn't been that long since you started seriously studying alchemy, right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x1d,
+            "msg_string": "Yet you've already gained skills that rival us, and Plachta."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x1e,
+            "msg_string": "You may not realize it yourself... But your speed of development is abnormally fast, to be blunt about it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1f,
+            "msg_string": "Is... That so...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "It is. That's why it would be a waste for you to give up."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "The most important thing in alchemy is insight. Free thinking is more helpful than anything in alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "Even if it seems difficult, don't give up. Keep thinking about it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x23,
+            "msg_string": "If you do, even if it's presently impossible... The day will come when it becomes possible."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x24,
+            "msg_string": "Anyway, that's about it... Think of it as a bit of advice from your senior alchemists."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x25,
+            "msg_string": "You two... Thanks! I'll try it!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x26,
+            "msg_string": "I'll definitely turn Plachta human some day!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "That's the spirit. Anyway, we're going to go test this tool now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "...See you again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x29,
+            "msg_string": "(Even if it seems difficult, don't give up... Keep thinking about it, huh...)"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2a,
+            "msg_string": "(That's right. If I give up, it's over. No matter how long it takes, I'll accomplish it for sure...!)"
+        }
+    ]
+}

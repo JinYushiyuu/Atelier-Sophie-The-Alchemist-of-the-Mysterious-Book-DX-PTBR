@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+
+<root>
+
+<!--カメラ関連-->
+	<camera boundary_min="-7.0, 0.0, -7.0" boundary_max="-7.0, 0.0, -7.0" center_position2="0,0,0" zoom_mode="XZ" free_camera="true" tracking_y_vector ="true">
+		<area tlPosition="-400.0, 0.0, -400.0" brPosition="400.0, 0.0, 400.0" tag="CLOSELY_Z">
+			<point length="5.5" radian="-146.0" lookRad=" 8.0" pitchMax ="12.0" pitchMin ="5.0" fov="35.0" diffPosition=" 0.0, 1.0, 0.0" position=" 0.0, 0.0,  9.0" bumper_follow_speed="5.0" zoom_time="1.0" zoom_distance="0.0"/>	
+		</area>
+	</camera>
+
+<!--カメラ関連-->
+	<cameraV boundary_min="-7.0, 0.0, -7.0" boundary_max="-7.0, 0.0, -7.0" center_position2="0,0,0" zoom_mode="XZ" free_camera="true" tracking_y_vector ="true">
+		<area tlPosition="-400.0, 0.0, -400.0" brPosition="400.0, 0.0, 400.0" tag="CLOSELY_Z">
+			<point length="5.5" radian="-146.0" lookRad=" 8.0" pitchMax ="12.0" pitchMin ="5.0" fov="35.0" diffPosition=" 0.0, 1.0, 0.0" position=" 0.0, 0.0,  9.0" bumper_follow_speed="5.0" zoom_time="1.0" zoom_distance="0.0"/>	
+		</area>
+	</cameraV>
+
+<!--ユーザーズーム関連-->
+<user_zoom  relative_limit="8.0" />
+
+<!--フォグ関連-->
+	<fog start="10.0" end="30" ambient="1.0" mieG="1.0" rayleighPow="5.0" mieRGB="0.2, 0.2, 0.2, 0.6" rayleighRGB="0.1, 0.1, 0.1, 0.5" />
+
+<!--ライト関連-->
+	<light ambient="0.7, 0.7, 0.7, 0.0">
+		<param type="PARALLEL" rot="120.0, 360.0, 0.0" color="0.4, 0.4, 0.4, 1.0" />
+	</light>
+<!--CharaShader-->
+	<chara_shader light_dir="2.0, -1.0, -1.0" light_color="0.65, 0.4, 0.3, 0.3" rim_light_dir="2.56, -2.67, 1.0" rim_light_color="0.7, 0.6, 0.6, 0.8" point_light_strength="0.1, 0.0, 0.0, 0.0" />
+
+<!--HDR-->
+	<hdr threshold="0.5" glow_add_rate="1.5" />
+
+<!--パターンマップ-->
+		<pattern_map speed_u="0.005" speed_v="0.005" area_width="140.0" area_height="140.0" />
+
+<!--遠景モデル関連-->
+	<sphere offset="0.0, -20.0, 0.0" scale="1.0, 1.0, 1.0" tracking_camera="true" />
+
+<!--カメラ前透過-->
+		<camera_ct trans_speed="0.2" camera_radius="0.5" box_size_offset="0.0, 0.0, 0.0" box_size_offset2="-0.2, -0.2, -0.2" box_size_offset3="-1.8, -1.8, -1.8"/>
+
+<!--表示範囲-->
+               <disp_range chara="80.0" obj1="50.0" obj2="80.0" shadow="80.0"/>
+
+<!--風パラメータ定義ブロック-->
+	<wind_root>
+		<wind dir="1.0, 0.0, 0.0" power="30.0" freq="10.0" shift="0.0" />
+		<wind dir="0.0, 0.0, -1.0" power="30.0" freq="10.0" shift="5.0" />
+
+		<!--ノード揺れの定義ブロック-->
+		<n_shaker keyword="xN1_" weight="50.0" axis="5.0, 5.0, 5.0" max_angle="10.0" axis_power="10.0" char_range="1.0" char_power="10.0" />
+
+		<!--頂点揺れの定義ブロック-->
+		<v_shaker keyword="xV1_" weight="800.0" root_height="0.0" height="0.5" shake_time="10.0" shift_x="2.0" shift_z="2.0" />
+		<v_shaker keyword="xV2_" weight="800.0" root_height="0.0" height="0.5" shake_time="10.0" shift_x="1.0" shift_z="1.0" />
+	</wind_root>
+</root>

@@ -1,0 +1,220 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM03_020.ebm",
+    "nb_messages": 0x18,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Oh, yes! Who could that be?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Hello Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Meklet, Atomina! Welcome, do you need something?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "There's something we want to ask you about alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Ask me? That's fine, but... I don't know if I would be able to answer?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "It's fine if you don't know. Anyway, Sophie... Do you know about the \"Cauldron of Knowledge\"?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x6,
+            "msg_string": "Huh!? T-the \"Cauldron of Knowledge\"...?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "Yes, apparently it's an amazing device that allows those without any natural abilities to use alchemy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "We've been researching alchemy, but we can't actually use it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x9,
+            "msg_string": "But if we had the \"Cauldron of Knowledge\", we might be able to use it ourselves."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "In fact, we might be able to do even more amazing things with it. Who knows?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "Like what? ...We might be able to take over the world?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0xc,
+            "msg_string": "Hm, that doesn't seem very nice. We should do something more fun."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Then... We could make a castle out of candy?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0xe,
+            "msg_string": "Haha, now that sounds like it would be fun to see. Not a bad idea, Atomina."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xf,
+            "msg_string": "Oh, we got kind of off topic."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Anyway Sophie, that's why we're searching for this \"Cauldron of Knowledge\"... Do you know anything?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x11,
+            "msg_string": "A-ahaha... I don't really know... I feel like I've heard of it, or maybe I haven't..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "...*Sigh*. We thought so. Besides, we only heard rumors about it, so we have no idea if it actually exists."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x13,
+            "msg_string": "That's right. It might be faster to earn enough money to buy a castle made of candy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "I suppose so. Thanks for listening, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x15,
+            "msg_string": "We'll see you again, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x16,
+            "msg_string": "T-that was shocking... I didn't expect them to suddenly ask about the \"Cauldron of Knowledge\"..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x32,
+            "expr_id": 0x0,
+            "msg_id": 0x17,
+            "msg_string": "Those two are a little strange, but they seem to know a lot about alchemy... I should ask them about it sometime."
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_speech_cinema" texture="ui/a17_speech_win.g1t"  texture_index="0" prim_type="wrap" edge_margin="65,32,64,32" uvwh="-1,288,1537,96"/>
+	<image name="gen_a17_speech_win01_namebg" texture="ui/a17_speech_win.g1t" texture_index="0" uvwh="960,0,391,69"/>
+	<image name="gen_a17_speech_win01_w01" texture="ui/a17_speech_win.g1t" texture_index="0" uvwh="0,0,944,213"/>
+</root>

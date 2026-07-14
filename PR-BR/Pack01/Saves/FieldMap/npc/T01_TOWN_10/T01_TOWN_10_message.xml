@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_10_message message_data="QC01_MON_015_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11695" message1="I checked outside town just in case, but they didn't come this way."/>
+    <T01_TOWN_10_message message_data="QC02_OSK_080_MONIKA_00" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11695" message1="I asked the townspeople, and nobody saw Oskar leave." next_message_tag="QC02_OSK_080_MONIKA_01"/>
+    <T01_TOWN_10_message message_data="QC02_OSK_080_MONIKA_01" chara_tag="SOPHIE" name_tag="SOPHIE" voice_no1="-1" message1="I got it. Just keep watch here in case he does try to leave." next_message_tag="QC02_OSK_080_MONIKA_02"/>
+    <T01_TOWN_10_message message_data="QC02_OSK_080_MONIKA_02" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="Yes, leave that to me."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_00" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Ah, it's morning..." next_message_tag="TOWN_10_NPC20A_01"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_01" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="I'm so busy preparing for my adventures, it's kind of troublesome. Hahaha."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_02" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Have you heard any rumors of amazing things around here?" next_message_tag="TOWN_10_NPC20A_03"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_03" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="...Maybe some strong Puni?"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_04" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Different monsters come out during the night." next_message_tag="TOWN_10_NPC20A_05"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_05" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="It's dangerous, so I try not to go outside at night."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_06" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Huh? You're asking why I'm not going on an adventure?" next_message_tag="TOWN_10_NPC20A_07"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_07" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="Today's a weekend. Adventurers need breaks too."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_10" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Ah, it's morning..." next_message_tag="TOWN_10_NPC20A_11"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_11" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="I went out on an adventure at night. I just got back."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_12" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Have you heard any rumors of amazing things around here?" next_message_tag="TOWN_10_NPC20A_13"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_13" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="...Maybe some strong Ardra?"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_14" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Different monsters come out during the night." next_message_tag="TOWN_10_NPC20A_15"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_15" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="I'm thinking about going out on an adventure soon, so I'm getting ready."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_16" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Huh? You're asking why I'm not going on an adventure?" next_message_tag="TOWN_10_NPC20A_17"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_17" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="Today's a weekend. Adventurers need breaks too."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_20" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Ah, it's morning..." next_message_tag="TOWN_10_NPC20A_21"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_21" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="Where should I go adventure today?"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_22" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Have you heard any rumors of amazing things around here?" next_message_tag="TOWN_10_NPC20A_23"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_23" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="...Maybe some strong dragons?"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_24" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Different monsters come out during the night." next_message_tag="TOWN_10_NPC20A_25"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_25" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="I'm getting ready to fight strong monsters."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_26" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="Huh? You're asking why I'm not going on an adventure?" next_message_tag="TOWN_10_NPC20A_27"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_27" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="Today's a weekend. Adventurers need breaks too."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_OP_0" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="11772" message1="Welcome to Kirchen Bell!" next_message_tag="TOWN_10_NPC23A_OP_1"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_OP_1" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="I can guide you if you need anything."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_00" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="11772" message1="Welcome to Kirchen Bell!" next_message_tag="TOWN_10_NPC23A_01"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_01" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="Yes, yes, you want to go to the church, right? I already know, I totally understand." next_message_tag="TOWN_10_NPC23A_02"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_02" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="You know, I actually really like the church here too..." next_message_tag="TOWN_10_NPC23A_03"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_03" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="I've never missed a single day of prayer. I go every day."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_10" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="11772" message1="Welcome to Kirchen Bell!" next_message_tag="TOWN_10_NPC23A_11"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_11" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="Hm, hm... You look like you want to go shopping. It's all over your face." next_message_tag="TOWN_10_NPC23A_12"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_12" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="I totally understand. I actually really like shopping too..." next_message_tag="TOWN_10_NPC23A_13"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_13" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="The grocery store on main street has a great reputation for always having super fresh vegetables..."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_20" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="11772" message1="Welcome to Kirchen Bell!" next_message_tag="TOWN_10_NPC23A_21"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_21" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="Hoho... You look like you want to live here." next_message_tag="TOWN_10_NPC23A_22"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_22" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="I totally understand. To tell the truth, I only moved here just recently..." next_message_tag="TOWN_10_NPC23A_23"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_23" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="It's a good town, and very nice to live in... I'm doing my best as the town guide, so other people understand how great the town is."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC25A_00" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="11813" message1="...I can't catch anything."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC25A_10" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="11813" message1="I tried using a different fishing pole, but... Still not catching anything."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC25A_20" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="11813" message1="I fish here quite a lot, but..." next_message_tag="TOWN_10_NPC25A_21"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC25A_21" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="-1" message1="...To tell the truth, I still haven't caught a single thing."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_00" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="11814" message1="I'm keeping watch to make sure monsters and suspicious people don't get in..." next_message_tag="TOWN_10_NPC21A_01"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_01" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="-1" message1="Luckily, we still haven't run into any big problems worth mentioning."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_10" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="11814" message1="I patrol the area three times a day." next_message_tag="TOWN_10_NPC21A_11"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_11" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="-1" message1="This is the only real entrance, but... There's no harm in keeping watch."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_20" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="11814" message1="I'm keeping watch to make sure children don't wander outside the town." next_message_tag="TOWN_10_NPC21A_21"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_21" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="-1" message1="We members of the town watch don't just patrol outside, we protect the town too..."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_00" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="11807" message1="Maybe I should go get some work done in the fields."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_01" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="-1" message1="..."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_10" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="11807" message1="The big ones are most popular, but the small ones have some demand too." next_message_tag="TOWN_10_NPC06A_11"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_11" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="-1" message1="It's cheaper to use them to make things like juice."/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_20" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="11807" message1="Have you ever heard the voices of plants? ...It's rather unfortunate..." next_message_tag="TOWN_10_NPC06A_21"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_21" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="-1" message1="I've worked with plants in the fields for decades, but I've never heard them. Not once..." next_message_tag="TOWN_10_NPC06A_22"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_22" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="-1" message1="When it comes down to it... Hearing them might be a matter of the heart."/>
+</Root>

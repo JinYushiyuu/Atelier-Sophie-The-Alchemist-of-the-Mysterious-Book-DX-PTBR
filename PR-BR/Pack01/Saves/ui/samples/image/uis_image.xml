@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root>
+	<image name="8colors_window" texture="ui/8colors.g1t" prim_type="stretch" edge_margin="8,0,8,0" tex_mag_linear="false" tex_min_linear="true" uvwh="0,0,32,10" />
+	<image name="8colors_window_v" texture="ui/8colorsV.g1t" prim_type="wrap" edge_margin="4,4,0,4" tex_mag_linear="true" tex_min_linear="true" uvwh="0,0,10,32" />
+</root>

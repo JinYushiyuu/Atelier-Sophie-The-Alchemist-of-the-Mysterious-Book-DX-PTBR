@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root ortho="true" pos="0, 2, 0">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00" pos="-1, 0, 0"/>
+	<!--***↓アニメーション ***-->
+	<command load_anim="Saves/ui/a17_quest/uia_a17_quest.xml"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<!--メニュー行の雛形-->
+		<node name="line_format" rot="-0.00, -0.00, -0.00" scale="1.01, 1.01, 1.00" viewer_visible="false">
+			<image name="bg" style="gen_a17_request01_ob" size_wh="466.00, 64.00, 0.00"/>
+			<image name="__uimenu_cursor_inactive" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request02_hl" visible="false" viewer_visible="false"/>
+			<image name="__uimenu_cursor_active" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request02_hl">
+				<feed name="feed"/>
+				<!-- 明滅アニメーション -->
+				<anim_ctrl loop="true" play="true">
+					<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+			<image name="icon" style="gen_a17_icon01_06" pos="15.00, 3.00, 0.00" color="182.00, 134.00, 117.00, 255.00" size_wh="56.00, 56.00, 0.00"/>
+			<image name="button" style="gen_a17_request01_button" pos="-8.00, -5.00, 0.00" visible="false" viewer_visible="true"/>
+			<node name="name" viewer_visible="false" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00">
+				<text text="あいうえおかきくけこあいうえお" name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="93.00, 5.00, 0.00" word_space="-2.00"/>
+			</node>
+			<node name="cost" pos="179, 15, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="icon" style="gen_a17_request01_coin" pos="106.00, 16.00, 0.00"/>
+				<text text="9999" name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="215.00, 18.00, 0.00" font="A17_MONEY01" align="right" word_space="-12.00"/>
+			</node>
+			<node name="deadline" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="130.00, 31.00, 0.00" word_space="-1.50"/>
+			</node>
+			<node name="quest" visible="false" viewer_visible="true">
+				<image name="report" style="gen_a17_request01_report" pos="5.00, 38.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+				<image name="ok" style="gen_a17_request01_ok" pos="18.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true"/>
+				<image name="clear" pos="105.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="0.99, 0.99, 1.00" style="gen_a17_request01_clear" visible="false" viewer_visible="false"/>
+				<image name="clear_add" pos="105.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="0.99, 0.99, 1.00" style="gen_a17_request01_clear" visible="false" viewer_visible="false" alpha_blend="add"/>
+				<image name="cancelled" style="gen_a17_request01_cancelled" scale="1.00, 1.00, 1.00" pos="107.00, 3.00, -0.00" rot="-0.00, -0.00, -3.50" viewer_visible="false" visible="false"/>
+				<image name="chara_icon" style="gen_a17_icon01_02on" pos="55.00, -1.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.70, 0.70, 1.00" viewer_visible="true" visible="false"/>
+				<anim_ctrl name="ac_clear" viewer_key_assign="1">
+					<bind_node anim="anim_clear" node="clear" start_visible="true"/>
+					<bind_node node="clear_add" delay="0.20" start_visible="true" anim="anim_clear_add"/>
+				</anim_ctrl>
+				<anim_ctrl name="ac_cancel" viewer_key_assign="2">
+					<bind_node anim="anim_cancel" node="cancelled" start_visible="true"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<node name="line_format_main_menu" rot="-0.00, -0.00, -0.00" scale="1.01, 1.01, 1.00" viewer_visible="false" visible="true">
+			<image name="__uimenu_cursor_inactive" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request02_hl" size_wh="410.00, 65.00, 0.00" visible="false" viewer_visible="false"/>
+			<image name="__uimenu_cursor_active" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request02_hl" size_wh="410.00, 65.00, 0.00">
+				<feed name="feed"/>
+				<!-- 明滅アニメーション -->
+				<anim_ctrl loop="true" play="true">
+					<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+			<image name="icon" style="gen_a17_icon01_06" size_wh="56.00, 56.00, 0.00" color="182.00, 134.00, 117.00, 255.00" pos="15.00, 3.00, 0.00"/>
+			<image name="button" style="gen_a17_request01_button" pos="-8.00, -5.00, 0.00" visible="false" viewer_visible="true"/>
+			<node name="name" viewer_visible="false" pos="-21, -1, -0" rot="-0.00, -0.00, -0.00" scale="0.99, 0.99, 1.00">
+				<text text="あいうえおかきくけこあいうえお" name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="116.00, 6.00, 0.00" word_space="-2.00"/>
+			</node>
+			<node name="cost" pos="178, 15, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="icon" style="gen_a17_request01_coin" pos="106.00, 16.00, 0.00"/>
+				<text text="9999" name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="215.00, 18.00, 0.00" font="A17_MONEY01" align="right" word_space="-12.00"/>
+			</node>
+			<node name="deadline" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="130.00, 31.00, 0.00" word_space="-1.50"/>
+			</node>
+			<node name="quest" visible="false" viewer_visible="true">
+				<image name="report" style="gen_a17_request01_report" pos="5.00, 38.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true"/>
+				<image name="chara_icon" style="gen_a17_icon01_02on" pos="55.00, -1.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.70, 0.70, 1.00" viewer_visible="true"/>
+			</node>
+		</node>
+		<node name="line_format_ok" rot="-0.00, -0.00, -0.00" scale="1.01, 1.01, 1.00" viewer_visible="false" visible="true">
+			<image name="bg_inactive" style="gen_a17_request01_ob" size_wh="466.00, 64.00, 0.00" color="155.00, 155.00, 155.00, 255.00" visible="false" viewer_visible="false"/>
+			<image name="bg_active" style="gen_a17_request01_ob" size_wh="466.00, 64.00, 0.00"/>
+			<image name="__uimenu_cursor_inactive" pos="1.00, 0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request02_hl" visible="false" viewer_visible="false"/>
+			<image name="__uimenu_cursor_active" pos="1, 0, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request02_hl" viewer_visible="false">
+				<feed name="feed" pos="-1.00, 0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<!-- 明滅アニメーション -->
+				<anim_ctrl loop="true" play="true" name="none">
+					<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+			<text text="This is OK" name="text" pos="160.19, 17.96, -0.00" rot="-0.00, -0.00, -0.00" scale="0.99, 0.99, 1.00" word_space="-1.00" viewer_visible="false"/>
+		</node>
+		<!--メニューレイアウトの雛形-->
+		<node name="menu_template" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false">
+			<node name="__uimenu_item_list" pos="-113, -91, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<node copy="line_format" clone_child_tree="line_format" name="clone_obi" pos="141.00, 211.00, 0.00" rot="0.00, -0.00, 0.00"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_obi_1" pos="141.00, 284.50, 0.00" rot="0.00, -0.00, 0.00"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_obi_2" pos="141.00, 358.00, 0.00" rot="0.00, -0.00, 0.00"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_obi_3" pos="141.00, 431.50, 0.00" rot="0.00, -0.00, 0.00"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_obi_4" pos="141.00, 505.00, 0.00" rot="0.00, -0.00, 0.00"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_obi_5" pos="141.00, 576.00, 0.00" rot="0.00, -0.00, 0.00"/>
+			</node>
+		</node>
+		<node name="menu_template_main_menu" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="true">
+			<node name="tab" pos="112.00, 136.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="bg" style="gen_a17_win03_tabbg" size_wh="478, 40" pos="0, -1, 0">
+					<text text="&lt;IM15&gt;" name="r1" font_size="18.00" pos="448.00, 13.00, 0.00" color="197.00, 172.00, 148.00, 255.00" bold_size="1.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="&lt;IM11&gt;" name="l1" font_size="18.00" pos="9.00, 13.00, 0.00" color="197.00, 172.00, 148.00, 255.00" bold_size="1.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<image name="quest" style="gen_a17_win03_tabquest_off" pos="40.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<image name="highlight" style="gen_a17_win03_tabquest_on" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+				</image>
+				<image name="rumor" style="gen_a17_win03_tabquest_off" pos="173.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1">
+					<image name="highlight" style="gen_a17_win03_tabquest_on" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+				</image>
+				<image name="past_rumor" style="gen_a17_win03_tabquest_off" pos="307.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="2">
+					<image name="highlight" style="gen_a17_win03_tabquest_on" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="2"/>
+				</image>
+			</node>
+			<image name="bg" style="gen_a17_win01_w04" pos="111, 171, 0" size_wh="478, 485"/>
+			<node name="line" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="line" style="gen_a17_win01_line01" pos="147.00, 197.00, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_1" style="gen_a17_win01_line01" pos="147.00, 266.50, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_2" style="gen_a17_win01_line01" pos="147.00, 336.00, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_3" style="gen_a17_win01_line01" pos="147.00, 405.50, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_4" style="gen_a17_win01_line01" pos="147.00, 475.00, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_5" style="gen_a17_win01_line01" pos="147.00, 544.50, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_6" style="gen_a17_win01_line01" pos="147.00, 614.00, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<scroll_bar name="__uimenu_scroll_bar" pos="553.00, 190.00, -0.00" size_h="448.00" visible="true" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="__uimenu_item_list" viewer_visible="false" pos="-17, 0, 0">
+				<node copy="line_format_main_menu" clone_child_tree="line_format_main_menu" name="clone_obi" pos="147.00, 204.00, 0.00" rot="0.00, -0.00, 0.00"/>
+				<node copy="line_format_main_menu" clone_child_tree="line_format_main_menu" name="clone_obi_1" pos="147.00, 273.20, 0.00" rot="0.00, -0.00, 0.00"/>
+				<node copy="line_format_main_menu" clone_child_tree="line_format_main_menu" name="clone_obi_2" pos="147.00, 342.40, 0.00" rot="0.00, -0.00, 0.00"/>
+				<node copy="line_format_main_menu" clone_child_tree="line_format_main_menu" name="clone_obi_3" pos="147.00, 411.60, 0.00" rot="0.00, -0.00, 0.00"/>
+				<node copy="line_format_main_menu" clone_child_tree="line_format_main_menu" name="clone_obi_4" pos="147.00, 480.80, 0.00" rot="0.00, -0.00, 0.00"/>
+				<node copy="line_format_main_menu" clone_child_tree="line_format_main_menu" name="clone_obi_5" pos="147.00, 550.00, 0.00" rot="0.00, -0.00, 0.00"/>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="group_list" visible="false" viewer_visible="false">
+			<image name="bg" style="gen_a17_request02_bg" pos="113.00, 111.00, -0.00" scale="1.01, 1.01, 1.00" size_wh="512.00, 563.00, 0.00" visible="true" viewer_visible="false" rot="-0.00, -0.00, -0.00"/>
+			<menu name="menu" pos="113.00, 111.00, -0.00" normal_font_color="53.00, 19.00, 0.00, 255.00" template_node="menu_template" disp_lines="8" selected_font_color="175.00, 115.00, 0.00, 255.00" decided_font_color="255.00, 174.00, 43.00, 255.00" visible="false" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<menu name="menu_main_menu" pos="-0.00, 17.00, -0.00" normal_font_color="53.00, 19.00, 0.00, 255.00" template_node="menu_template_main_menu" disp_lines="8" selected_font_color="175.00, 115.00, 0.00, 255.00" decided_font_color="255.00, 174.00, 43.00, 255.00" visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" disp_scroll_bar="false"/>
+			<anim_ctrl name="ac_fade_in">
+				<bind_node anim="anm_common_fade_in" start_visible="true" node="group_list"/>
+			</anim_ctrl>
+			<node name="list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false" pos="-0.00, 17.00, -0.00">
+				<menu name="menu_quest" pos="113.00, 94.00, -0.00" normal_font_color="53.00, 19.00, 0.00, 255.00" template_node="menu_template" disp_lines="8" selected_font_color="175.00, 115.00, 0.00, 255.00" decided_font_color="255.00, 174.00, 43.00, 255.00" visible="true" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="mission_complete" pos="380.00, 400.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="mission_complete_image" pos="-165.00, -85.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request01_missioncomp" visible="true" viewer_visible="false"/>
+				</node>
+				<anim_ctrl name="ac_complete" viewer_key_assign="2">
+					<bind_node node="mission_complete" start_visible="true" anim="anim_complete"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<node name="info" pos="982, 135, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="true">
+			<node name="page" visible="false" viewer_visible="true">
+				<node name="page_inner" pos="-185.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="bg" style="gen_a17_win02_w02" pos="-0.00, -0.00, -0.00" size_wh="369.00, 543.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!--***↓買う前(飾り込み) ***-->
+					<node name="unknown" pos="84.00, 62.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+						<image name="accessorybg" style="gen_a17_request01_accessory03" pos="-2, -15, 0"/>
+						<image name="question" style="gen_a17_request01_question" pos="72, 42, 0"/>
+						<node name="rumor" pos="-0.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="false">
+							<image name="frame" style="gen_a17_win01_fram01" pos="-54, 210, 0" size_wh="310, 254"/>
+							<node name="header" pos="-22.00, 211.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+								<image name="bg" style="gen_a17_item_info01_obi01" pos="-35.00, -17.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+								<image name="information" style="gen_a17_request01_text01" pos="-15.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="2"/>
+							</node>
+							<text text="現地に向かうにはあああ" name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="-30.00, 227.00, 0.00" line_char_length="12" font_size="22.00" line_space="4.00"/>
+						</node>
+					</node>
+					<!--***↓買った後 ***-->
+					<node name="known" pos="82.00, 48.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="false">
+						<node name="target">
+							<image name="accessory" style="gen_a17_request01_accessory03" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+							<image name="item" style="etc_a17_item_l" pos="7.00, 12.00, -0.00" visible="false" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+							<image name="monster" style="etc_a17_monster_l" pos="17.00, 19.00, -0.00" size_wh="168.00, 162.00, 0.00" visible="false" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+							<image name="place" style="gen_a17_request01_w" pos="-37.00, 22.00, -0.00" size_wh="277.00, 159.00, 0.00" visible="false" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+								<image name="image" style="etc_a17_request_image" pos="10.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+							</image>
+						</node>
+						<!--***↓情報 ***-->
+						<node name="rumor" pos="2, 16, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+							<image name="frame" style="gen_a17_win01_fram01" pos="-54, 210, 0" size_wh="310, 254"/>
+							<node name="header" pos="-22.00, 211.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+								<image name="bg" style="gen_a17_item_info01_obi01" pos="-35.00, -17.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+								<image name="information" style="gen_a17_request01_text01" pos="-15.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="2"/>
+							</node>
+							<text text="pq&lt;CR&gt;hG" name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="-30.00, 227.00, 0.00" line_char_length="12" font_size="22.00" line_space="4.00"/>
+						</node>
+						<node name="quest" pos="-64.00, -22.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="false">
+							<node name="bonus" visible="false" viewer_visible="true">
+								<image name="frame" style="gen_a17_win01_fram01" pos="12.00, 21.00, -0.00" size_wh="310.00, 200.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+								<node name="header" pos="43, 22, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+									<image name="bg" style="gen_a17_request01_text03" pos="-35.00, -17.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+									<image name="text_img" style="gen_a17_request01_text01" pos="-14.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+								</node>
+								<text name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="50.00, 63.00, -0.00" align="left" text="None"/>
+							</node>
+							<node name="detail">
+								<!--***↓要求数 ***-->
+								<node name="num" pos="66.00, 38.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+									<image name="bg" style="gen_a17_win01_fram01" pos="-22, 211, 0" size_wh="280, 62"/>
+									<node name="header" pos="-22.00, 211.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+										<image name="bg" style="gen_a17_item_info01_obi01" pos="-35.00, -17.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+										<image name="text" style="gen_a17_request01_text01" pos="-26.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.38, 1.00, 1.00"/>
+									</node>
+									<node name="contents" pos="-14, 211, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+										<text text="99" name="need" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="30, 19, -0" word_space="-2.00" align="left"/>
+										<text text="99" name="have" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="267.00, 19.00, 0.00" word_space="-2.00" align="right"/>
+									</node>
+								</node>
+								<!--***↓報酬 ***-->
+								<node name="reward" pos="66.00, 125.50, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+									<image name="bg" style="gen_a17_win01_fram01" pos="-22, 211, 0" size_wh="280, 62"/>
+									<node name="header" pos="-22.00, 211.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+										<image name="bg" style="gen_a17_item_info01_obi01" pos="-35.00, -17.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+										<image name="text" style="gen_a17_request01_text01" pos="-14.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+									</node>
+									<node name="contents" pos="-14, 211, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+										<image name="image" style="gen_a17_request01_coin" pos="106, 16, 0"/>
+										<text text="99999" name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="241.00, 18.00, 0.00" font="A17_MONEY01" align="right" word_space="-12.00"/>
+									</node>
+								</node>
+								<!--***↓特記事項：期限 ***-->
+								<node name="etc" pos="66.00, 213.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+									<image name="bg" style="gen_a17_win01_fram01" pos="-22, 211, 0" size_wh="280, 62"/>
+									<node name="header" pos="-22.00, 211.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+										<image name="bg" style="gen_a17_item_info01_obi02" pos="-38.00, -25.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="186.00, 42.00, 0.00" visible="false" viewer_visible="false"/>
+										<image name="text" style="gen_a17_request01_text02" pos="-35, -21, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+									</node>
+									<node name="contents" pos="-14, 211, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+										<text text="Blessed Forest" name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="241.00, 18.00, 0.00" align="right"/>
+									</node>
+								</node>
+							</node>
+							<node name="flavor" pos="66.00, 39.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+								<image name="frame" style="gen_a17_win01_fram01" pos="-54, 210, 0" size_wh="310, 254"/>
+								<node name="header" pos="-22.00, 211.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+									<image name="bg" style="gen_a17_item_info01_obi01" pos="-35.00, -17.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+									<image name="information" style="gen_a17_request01_text01" pos="-15.00, -12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="2"/>
+								</node>
+								<text text="現地に向かう時にはああ" name="text" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="-35.00, 227.00, 0.00" line_char_length="12" font_size="22.00" line_space="4.00"/>
+							</node>
+							<node name="icon" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+								<image name="icon_enable" pos="294.00, -21.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request01_icon02" image_no="1" visible="false" size_wh="53.00, 53.00, 0.00" viewer_visible="true"/>
+								<image name="icon_disable" pos="294.00, -21.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request01_icon02"/>
+							</node>
+						</node>
+					</node>
+					<node name="name" pos="2.00, -7.00, -0.00" rot="-0.00, -0.00, 1.20" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="false">
+						<image name="bg" pos="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_recipe01_tag10" rot="-0.00, -0.00, -0.00" viewer_visible="false"/>
+						<text text="あいうえおかきくけこ" name="text" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, -1.20" pos="31.31, 14.35, -0.00" align="left" scale="1.00, 1.00, 1.00"/>
+					</node>
+				</node>
+				<anim_ctrl name="ac_scroll_top" viewer_key_assign="3">
+					<bind_node node="page" anim="anim_scroll_top"/>
+				</anim_ctrl>
+				<anim_ctrl name="ac_scroll_mid" viewer_key_assign="1">
+					<bind_node anim="anim_scroll_mid" node="page"/>
+				</anim_ctrl>
+				<anim_ctrl name="ac_scroll_bot" viewer_key_assign="2" delay="0.10">
+					<bind_node anim="anim_scroll_bot" node="page" start_visible="true"/>
+				</anim_ctrl>
+				<anim_ctrl name="ac_turn_first" viewer_key_assign="4">
+					<bind_node node="page" anim="anim_turn_first"/>
+				</anim_ctrl>
+				<anim_ctrl name="ac_turn_second" viewer_key_assign="5">
+					<bind_node node="page" anim="anim_turn_second"/>
+				</anim_ctrl>
+			</node>
+			<anim_ctrl name="ac_fade_in">
+				<bind_node anim="anm_common_fade_in" start_visible="true" node="info"/>
+			</anim_ctrl>
+		</node>
+		<node name="money" viewer_visible="true" pos="7.00, -10.00, 0.00" visible="false">
+			<image name="moneybg" style="gen_a17_win01_moneybg" pos="1017.00, 20.00, 0.00" size_wh="234, 60">
+				<image name="moneyicon" style="gen_a17_win01_moneyicon" pos="20, 13, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+			<text text="99999999" name="text" pos="1223.00, 36.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font="A17_MONEY01" align="right" word_space="-12.50"/>
+			<anim_ctrl name="ac_fade_in">
+				<bind_node anim="anm_common_fade_in" start_visible="true" node="money"/>
+			</anim_ctrl>
+		</node>
+		<node name="ticket" viewer_visible="true" pos="7.00, 35.00, 0.00" visible="false">
+			<image name="ticketbg" style="gen_a17_win01_moneybg" pos="1017.00, 20.00, 0.00" size_wh="234, 60">
+				<image name="ticketicon" style="gen_a17_win01_moneyicon" pos="20.00, 13.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+			</image>
+			<text text="99999999" name="text" pos="1223.00, 36.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font="A17_MONEY01" align="right" word_space="-12.50"/>
+			<anim_ctrl name="ac_fade_in">
+				<bind_node anim="anm_common_fade_in" start_visible="true" node="ticket"/>
+			</anim_ctrl>
+		</node>
+		<node name="caption" pos="23.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+			<image name="captiontag" style="gen_a17_main_caption02"/>
+			<image name="captiontext" style="gen_a17_main_caption02_cap" pos="55.00, 44.00, 0.00" image_no="5" size_wh="234, 37"/>
+			<anim_ctrl name="ac_fade_in">
+				<bind_node anim="anm_common_fade_in" start_visible="true" node="caption"/>
+			</anim_ctrl>
+		</node>
+	</node>
+</root>

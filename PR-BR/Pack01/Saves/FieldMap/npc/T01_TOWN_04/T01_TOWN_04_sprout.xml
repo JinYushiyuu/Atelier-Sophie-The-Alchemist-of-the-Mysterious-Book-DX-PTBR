@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_00" day_time="morning" people_data="NPC25A" start_ev="MM01_010" end_ev="MM01_170" message_data="TOWN_04_NPC25A_OP_0"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_00" day_time="noon" people_data="NPC25A" start_ev="MM01_010" end_ev="MM01_170" message_data="TOWN_04_NPC25A_OP_0"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_00" day_time="evening" people_data="NPC25A" start_ev="MM01_010" end_ev="MM01_170" message_data="TOWN_04_NPC25A_OP_0"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_00" day_time="morning" people_data="NPC25A" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_04_NPC25A_00"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_01" day_time="noon" people_data="NPC25A_SLEEP" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_04_NPC25A_SLEEP"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_00" day_time="morning" people_data="NPC25A" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_04_NPC25A_10"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_01" day_time="noon" people_data="NPC25A_SLEEP" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_04_NPC25A_SLEEP"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_00" day_time="morning" people_data="NPC25A" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_04_NPC25A_20"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_01" day_time="noon" people_data="NPC25A_SLEEP" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_04_NPC25A_SLEEP"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_00" day_time="morning" people_data="NPC25A" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_04_NPC25A_30"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_01" day_time="noon" people_data="NPC25A_SLEEP" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_04_NPC25A_SLEEP"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_00" day_time="morning" people_data="NPC25A" start_ev="MM07_010" ex_weather="20" message_data="TOWN_04_NPC25A_40"/>
+	<T01_TOWN_04_sprout marker_data="POS_NPC25A_01" day_time="noon" people_data="NPC25A_SLEEP" start_ev="MM07_010" ex_weather="20" message_data="TOWN_04_NPC25A_SLEEP"/>
+</Root>

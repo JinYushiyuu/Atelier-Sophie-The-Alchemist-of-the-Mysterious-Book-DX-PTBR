@@ -1,0 +1,16 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XG10_190.ebm",
+    "nb_messages": 0x1,
+    "messages": [
+        {
+            "type": 0x3,
+            "voice_id": 0xffffffff,
+            "name_id": 0x26,
+            "extra_id": 0xffffffff,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xffffffff,
+            "msg_string": "Offering a prayer to the statue causes faint ideas to take clear form in your mind. Perhaps this is the grace of God."
+        }
+    ]
+}

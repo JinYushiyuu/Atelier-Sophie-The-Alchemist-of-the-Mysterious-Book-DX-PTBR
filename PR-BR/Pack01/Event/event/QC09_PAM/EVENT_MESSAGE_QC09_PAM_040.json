@@ -1,0 +1,255 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_QC09_PAM_040.ebm",
+    "nb_messages": 0x1c,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Sophie!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "Ah, Mrs. Marguerite. Hello."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Can I ask you to do something for me?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2f,
+            "expr_id": 0x4,
+            "msg_id": 0x3,
+            "msg_string": "What is it?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "Elise came here to shop earlier, but... She left and forgot this book."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "I need to look after the store. I'm sorry, but could you take it to her?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Yes, I don't mind."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0xf,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "I'm sorry, thank you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Oh my, if it isn't Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x30,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Hello, Pamela. Are you here to shop?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "That's right. I came to buy some vegetables. What about you?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x34,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "I actually have something to do right now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x42,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Oh, I see. See you later."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Hello, Elise... Wha-!?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "Oh my? Hello, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0xf,
+            "msg_string": "P-Pamela, why are you here!? I just met you over at Mrs. Marguerite's store..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2b,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Did we meet there?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x2d,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "Anyway, I'll be leaving now. See you two again."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "expr_id": 0x0,
+            "msg_id": 0x12,
+            "msg_string": "Thank you for coming."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "...Sophie, what's wrong?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x44,
+            "expr_id": 0x3,
+            "msg_id": 0x14,
+            "msg_string": "Um... Mrs. Marguerite said you forgot this at her store..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xc,
+            "name_id": 0xc,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x15,
+            "msg_string": "Ah, so that's where it was. That's good... Thank you, Sophie."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x3,
+            "msg_id": 0x16,
+            "msg_string": "No problem..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "Mrs. Marguerite, I delivered the book to Elise, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0xd,
+            "expr_id": 0x0,
+            "msg_id": 0x18,
+            "msg_string": "Thank you... Hm? Why the long face?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x19,
+            "msg_string": "Um... I met Pamela over there, too. Even though I had just seen her here..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x11b,
+            "name_id": 0x10,
+            "extra_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "Oh really? It didn't look like she was in a rush, and she walked off from here."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2c,
+            "expr_id": 0x4,
+            "msg_id": 0x1b,
+            "msg_string": "R-really... Hmm?"
+        }
+    ]
+}

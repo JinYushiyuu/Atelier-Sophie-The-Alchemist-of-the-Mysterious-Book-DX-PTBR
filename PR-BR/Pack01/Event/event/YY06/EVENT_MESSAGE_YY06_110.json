@@ -1,0 +1,164 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY06_110.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x0,
+            "msg_string": "（あれ、パメラとジュリオさんだ。<CR>何話してるんだろ…）"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "そういえば気になったんですが…<CR>パメラさんはシスターの研修、受けましたか？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "シスターの…研修？<CR>なぁに、それ"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "ああ、やっぱり…。実は、アダレットの教会が<CR>主催する、シスター向けの研修があってですね"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "国を問わず、教会に勤めるシスターは<CR>参加が義務づけられているんです"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x6d,
+            "expr_id": 0x0,
+            "msg_id": 0x5,
+            "msg_string": "え～？<CR>そんなの、聞いたことないわよ～？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "あはは…。<CR>パメラさんはそうかもしれませんが…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "でも、困りましたね。研修を受けないと、<CR>最悪シスターをやめさせられることも…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x8,
+            "msg_string": "ええええええ！？<CR>困る！それは困るわ～！"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x27,
+            "expr_id": 0x3,
+            "msg_id": 0x9,
+            "msg_string": "私がシスターじゃなくなっちゃったら、子供たちは！？<CR>神父様だって私がいなかったら困るはずよ～？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "な、なんとか！<CR>なんとか抜け道はないの～？"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0xb,
+            "msg_string": "シ、シスターが神の前で言う言葉ですか、それ…。<CR>でも、うーん、規則は規則なので…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0xc,
+            "msg_string": "アダレットに赴いて、<CR>研修を受けていただく以外にはないかと…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xa,
+            "name_id": 0xa,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "うう、そんなぁ…。<CR>ひどいわ、ひどすぎるわ…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x4,
+            "name_id": 0x4,
+            "extra_id": 0x7,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "すみません、お力になれず…"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0xf,
+            "msg_string": "（な、なんだか思ったより大変そうな話してるなぁ…）"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x10,
+            "msg_string": "（パメラがシスターじゃなくなっちゃったら…<CR>うーん、想像つかないなぁ）"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x11,
+            "msg_string": "（やっぱりパメラはシスターでこそだよね。<CR>なんとかなれば良いんだけど…）"
+        }
+    ]
+}

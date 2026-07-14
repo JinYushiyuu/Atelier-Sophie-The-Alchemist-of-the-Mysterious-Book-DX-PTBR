@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Marquee No.="0" FM_MARQUEE_TAG="EV_CLEAR" ENTRY_TAG="System" sEventTag="EVENT_NONE" fEventTag="EVENT_NONE" Num="30" Message="&quot;%s&quot; completed."/>
+	<Marquee No.="1" FM_MARQUEE_TAG="QUEST_CLEAR" ENTRY_TAG="System" sEventTag="EVENT_NONE" fEventTag="EVENT_NONE" Num="20" Message="&quot;%s&quot; can be reported."/>
+	<Marquee No.="2" FM_MARQUEE_TAG="RUMOR_END" ENTRY_TAG="System" sEventTag="EVENT_NONE" fEventTag="EVENT_NONE" Num="10" Message="&quot;%s&quot; ended."/>
+	<Marquee No.="3" FM_MARQUEE_TAG="LEARN_RECIPE" ENTRY_TAG="System" sEventTag="EVENT_NONE" fEventTag="EVENT_NONE" Num="5" Message="%s"/>
+	<Marquee No.="4" FM_MARQUEE_TAG="EM_EVENT_START" ENTRY_TAG="System" sEventTag="EVENT_NONE" fEventTag="EVENT_NONE" Num="30" Message="Event &quot;%s&quot; added."/>
+</Root>

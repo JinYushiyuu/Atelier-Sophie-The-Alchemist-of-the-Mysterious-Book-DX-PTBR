@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00" pos="-1, 0, 0"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="obi" rot="-0.00, -0.00, -0.00" scale="1.01, 1.01, 1.00" viewer_visible="false">
+			<image name="light" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_request02_hl" visible="false" viewer_visible="true" size_wh="410.00, 65.00, 0.00"/>
+			<image name="icon" style="gen_a17_request01_button" pos="4.00, 3.00, 0.00"/>
+			<node name="text" viewer_visible="false" pos="-21, -1, -0" rot="-0.00, -0.00, -0.00" scale="0.99, 0.99, 1.00">
+				<text text="あいうえおかきくけこあいうえお" name="text_off" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="82, 4, 0" word_space="-2.00">
+					<text text="あいうえおかきくけこあいうえお" name="text_on" pos="-0.00, -0.00, -0.00" word_space="-2.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE"/>
+				</text>
+			</node>
+			<node name="money_1" pos="156, 14, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="image_1" style="gen_a17_request01_coin" pos="106, 16, 0"/>
+				<text text="9999" name="count02" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="230, 18, 0" font="A17_MONEY01" align="right" word_space="-12.00"/>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<!--***↓依頼とウワサ一覧 ***-->
+		<node name="menu" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+			<node name="tab" pos="112, 136, 0">
+				<image name="tabbg" style="gen_a17_win03_tabbg" size_wh="478, 40" pos="0, -1, 0"/>
+				<image name="quest_off" style="gen_a17_win03_tabquest_off" pos="40, -1, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<image name="quest_on" style="gen_a17_win03_tabquest_on" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+				</image>
+				<image name="quest_off_1" style="gen_a17_win03_tabquest_off" pos="173.00, 1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1">
+					<image name="quest_on" style="gen_a17_win03_tabquest_on" pos="-1, 0, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+				</image>
+				<image name="quest_off_2" style="gen_a17_win03_tabquest_off" pos="307.00, 1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="2">
+					<image name="quest_on" style="gen_a17_win03_tabquest_on" pos="-1.00, 0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="2"/>
+				</image>
+			</node>
+			<image name="w04" style="gen_a17_win01_w04" pos="111, 171, 0" size_wh="481, 485">
+				<scroll_bar name="scroll_bar" pos="439, 15, 0" size_h="451"/>
+			</image>
+			<node name="line" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="line" style="gen_a17_win01_line01" pos="147.00, 197.00, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_1" style="gen_a17_win01_line01" pos="147.00, 266.50, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_2" style="gen_a17_win01_line01" pos="147.00, 336.00, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_3" style="gen_a17_win01_line01" pos="147.00, 405.50, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_4" style="gen_a17_win01_line01" pos="147.00, 475.00, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_5" style="gen_a17_win01_line01" pos="147.00, 544.50, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_6" style="gen_a17_win01_line01" pos="147.00, 614.00, 0.00" size_wh="391, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="request" viewer_visible="false">
+				<node copy="obi" clone_child_tree="obi" name="clone_obi" pos="141.00, 205.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.01, 1.01, 1.00"/>
+				<node copy="obi" clone_child_tree="obi" name="clone_obi_1" pos="141.00, 273.20, 0.00" rot="0.00, -0.00, 0.00" scale="1.01, 1.01, 1.00"/>
+				<node copy="obi" clone_child_tree="obi" name="clone_obi_2" pos="141.00, 342.40, 0.00" rot="0.00, -0.00, 0.00" scale="1.01, 1.01, 1.00"/>
+				<node copy="obi" clone_child_tree="obi" name="clone_obi_3" pos="141.00, 411.60, 0.00" rot="0.00, -0.00, 0.00" scale="1.01, 1.01, 1.00"/>
+				<node copy="obi" clone_child_tree="obi" name="clone_obi_4" pos="141.00, 480.80, 0.00" rot="0.00, -0.00, 0.00" scale="1.01, 1.01, 1.00"/>
+				<node copy="obi" clone_child_tree="obi" name="clone_obi_5" pos="141.00, 550.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.01, 1.01, 1.00"/>
+			</node>
+		</node>
+		<!--***↓シート ***-->
+		<node name="sheet" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="w01" style="gen_a17_win01_w03" pos="780.00, 136.00, 0.00" size_wh="344.00, 524.00, 0.00"/>
+			<node name="tag" pos="807, 120, -0" rot="-0.00, -0.00, 1.20" scale="1.00, 1.00, 1.00"/>
+			<!--***↓買った後 ***-->
+			<node name="item" pos="849, 169, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="accessory" style="gen_a17_request01_accessory03"/>
+				<image name="item" style="etc_a17_item_l" pos="7, 12, 0"/>
+				<image name="monster" style="etc_a17_monster_l" pos="17, 19, 0" size_wh="168, 162"/>
+				<!--***↓情報 ***-->
+				<node name="node" pos="0, 13, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true">
+					<image name="fram" style="gen_a17_win01_fram01" pos="-54, 210, 0" size_wh="310, 254"/>
+					<node name="obi" pos="-22.00, 211.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="obi" style="gen_a17_item_info01_obi01" pos="-35.00, -17.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="text" style="gen_a17_request01_text01" pos="-5, -12, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="2"/>
+					</node>
+					<node name="text" pos="-13.00, 231.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<text text="When traveling there" name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN"/>
+						<text text="please be careful." name="text_1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="-12, 28, 0"/>
+					</node>
+					<node name="text_2" pos="-13.00, 287.33, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<text text="When traveling there" name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN"/>
+						<text text="please be careful." name="text_1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="-12, 28, 0"/>
+					</node>
+					<node name="text_3" pos="-13.00, 343.67, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<text text="When traveling there" name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN"/>
+						<text text="please be careful." name="text_1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="-12, 28, 0"/>
+					</node>
+					<node name="text_4" pos="-13.00, 400.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<text text="When traveling there" name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN"/>
+						<text text="please be careful." name="text_1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="-12, 28, 0"/>
+					</node>
+				</node>
+			</node>
+		</node>
+	</node>
+</root>

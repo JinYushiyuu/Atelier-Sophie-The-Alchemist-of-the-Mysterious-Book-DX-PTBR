@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+	<!-- 明滅 -->
+	<anim name="anm_common_blink">
+    	<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="1.0"		value="255,255,255,  0"/>
+			<key time="2.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+
+    <anim name="anm_common_cursor_blink">
+        <curve attr="color">
+            <key time="0.0"		value="255,255,255,255"/>
+            <key time="1.6"		value="255,205,50,192"/>
+            <key time="3.2"		value="255,255,255,255"/>
+        </curve>
+    </anim>
+
+    <!-- 360度回転 -->
+    <anim name="anm_common_rotate">
+        <curve attr="rot">
+            <key time="0.0"		value="0,0,0"/>
+            <key time="1.0"		value="0,0,360"/>
+        </curve>
+    </anim>
+
+    <!-- X軸360度回転 -->
+    <anim name="anm_common_rotateX360">
+        <curve attr="rot">
+            <key time="0.0"		value="0,0,0"/>
+            <key time="1.0"		value="360,0,0"/>
+        </curve>
+    </anim>
+    <!-- Y軸360度回転 -->
+    <anim name="anm_common_rotateY360">
+        <curve attr="rot">
+            <key time="0.0"		value="0,0,0"/>
+            <key time="1.0"		value="0,360,0"/>
+        </curve>
+    </anim>
+    <!-- Z軸360度回転 -->
+    <anim name="anm_common_rotateZ360">
+        <curve attr="rot">
+            <key time="0.0"		value="0,0,0"/>
+            <key time="1.0"		value="0,0,360"/>
+        </curve>
+    </anim>
+    <!-- Y軸 -90度回転 -->
+    <anim name="anm_common_rotate_y90_minus">
+        <curve attr="rot">
+            <key time="0.0"		value="0,0,0"/>
+            <key time="1.0"		value="0,-90,0"/>
+        </curve>
+    </anim>
+    <!-- Y軸 +90度回転 -->
+    <anim name="anm_common_rotate_y90_plus">
+        <curve attr="rot">
+            <key time="0.0"		value="0,0,0"/>
+            <key time="1.0"		value="0,90,0"/>
+        </curve>
+    </anim>
+
+    <anim name="anm_common_fade_in">
+        <curve attr="color">
+            <key time="0.0"		value="255,255,255,  0"/>
+            <key time="0.25"	value="255,255,255,255"/>
+        </curve>
+    </anim>
+    <anim name="anm_common_alpha_off">
+        <curve attr="color">
+            <key time="0.0"		value="255,255,255,  0"/>
+        </curve>
+    </anim>
+    <anim name="anm_common_alpha_on">
+        <curve attr="color">
+            <key time="0.0"		value="255,255,255,255"/>
+        </curve>
+    </anim>
+
+    <!-- X軸 スクロール -->
+    <anim name="anm_common_translate_x_plus">
+        <curve attr="pos">
+            <key time="0.0"		value="0,0,0"/>
+            <key time="1.0"		value="-200,0,0"/>
+        </curve>
+    </anim>
+
+	<!-- X軸 スクロール -->
+	<anim name="anm_common_slide_x_offset">
+		<curve attr="slide_x_offset">
+			<key time="0.0"		value="0"/>
+			<key time="1.0"		value="250"/>
+		</curve>
+	</anim>
+</root>
+

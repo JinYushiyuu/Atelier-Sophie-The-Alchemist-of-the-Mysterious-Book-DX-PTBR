@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+	<node name="top">
+		<image name="image" style="etc_a17_sys_mouse_cursor"/>
+	</node>
+</root>

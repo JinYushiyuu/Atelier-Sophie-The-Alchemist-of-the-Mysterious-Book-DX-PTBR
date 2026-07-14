@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+<root>
+	<grp> <!-- 集中(調合アニメ中) -->
+    <eff timing="0.0" eff_no="239" pos_x="  0.0" pos_y=" 0.0" scale_x="25" scale_y="25" scale_z="25" emit_life="0,8" r="128" g="128" b="128" a="128" />
+    <eff timing="0.0" eff_no="-1" pos_x="  0.0" pos_y=" 0.0" scale_x="200" scale_y="200" scale_z="200" emit_life="1.0" r="128" g="50" b="128" a="128" />
+  </grp>
+	<grp> <!-- 成功(調合アニメ中) -->
+    <eff timing="0.0" eff_no="80" pos_x="  0.0" pos_y=" 0.0" scale_x="200" scale_y="200" scale_z="200" emit_life="   0.7" r="128" g="50" b="128" a="128" />
+
+  </grp>
+	<grp> <!-- 開始時(調合アニメ中) -->
+		<eff timing="0.0" eff_no="72" pos_x="  0.0" pos_y=" 0.0" scale_x="50" scale_y="50" scale_z="50" emit_life="-0.1" r="128" g="255" b="128" a="100" />
+  </grp>
+
+</root>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<node name="menu_line_format" load="Saves/ui/_a17_line_format/uil_a17_lf_item_container.xml" viewer_visible="true"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" pos="574, 190, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<!--***↓0806_タブ追加 ***-->
+		<node name="tab_count">
+			<image name="count" style="gen_a17_cabinet02_downtag02" pos="5.00, 407.00, 0.00"/>
+			<text text="8888" name="now_total_number" pos="102.00, 420.00, 0.00" font="A17_NUMBER01_40PX" word_space="-12.00" font_color="230.00, 211.00, 163.00, 255.00" bold_size="1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right">
+				<text text="/" name="slash" pos="-3.00, 0.00, 0.00" font="A17_NUMBER01_40PX" word_space="-12.00" font_color="230.00, 211.00, 163.00, 255.00" bold_size="1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="9999" name="max_total_number" pos="15.00, 0.00, 0.00" font="A17_NUMBER01_40PX" word_space="-12.00" font_color="230.00, 211.00, 163.00, 255.00" bold_size="1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="left"/>
+			</text>
+		</node>
+		<node name="tab_top" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="Saves/ui/a17_cabinet/uil_a17_item_tab.xml" viewer_visible="false">
+			<command target_node="tabon/tab0/bg" set_image_no="3"/>
+			<command target_node="tabon/tab1/bg" set_image_no="3"/>
+			<command target_node="tabon/tab2/bg" set_image_no="3"/>
+			<command target_node="tabon/tab3/bg" set_image_no="3"/>
+			<command target_node="tabon/tab4/bg" set_image_no="3"/>
+			<command target_node="taboff/tab0/bg" set_image_no="2"/>
+			<command target_node="taboff/tab1/bg" set_image_no="2"/>
+			<command target_node="taboff/tab2/bg" set_image_no="2"/>
+			<command target_node="taboff/tab3/bg" set_image_no="2"/>
+			<command target_node="taboff/tab4/bg" set_image_no="2"/>
+		</node>
+		<menu name="item_container_menu" style="common_menu_a17_item_container" disp_lines="10" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, -3.00, 0.00" selected_font_color="175.00, 115.00, 0.00, 255.00">
+			<node name="node_3" clone_tree="lf_item_container"/>
+			<node name="node_3_11" clone_tree="lf_item_container"/>
+			<node name="node_3_10" clone_tree="lf_item_container"/>
+			<node name="node_3_9" clone_tree="lf_item_container"/>
+			<node name="node_3_8" clone_tree="lf_item_container"/>
+			<node name="node_3_7" clone_tree="lf_item_container"/>
+			<node name="node_3_6" clone_tree="lf_item_container"/>
+			<node name="node_3_5" clone_tree="lf_item_container"/>
+			<node name="node_3_4" clone_tree="lf_item_container"/>
+			<node name="node_3_3" clone_tree="lf_item_container"/>
+			<node name="node_3_1" clone_tree="lf_item_container"/>
+			<node name="node_3_2" clone_tree="lf_item_container"/>
+		</menu>
+	</node>
+	<anim_ctrl name="fade_in" play="false" loop="false">
+		<bind_node node="top" anim="anm_common_fade_in"/>
+	</anim_ctrl>
+</root>

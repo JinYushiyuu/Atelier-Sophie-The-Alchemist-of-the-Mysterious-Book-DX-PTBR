@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+
+<root>
+
+<!--カメラ関連-->
+	<camera boundary_min="-7.0, 0.0, -7.0" boundary_max="-7.0, 0.0, -7.0" center_position2="0,0,0" zoom_mode="XZ" free_camera="true">
+		<area tlPosition="-400.0, 0.0, -400.0" brPosition="400.0, 0.0, 400.0" tag="CLOSELY_Z">
+			<point length="5.5" radian="0.0" lookRad=" 8.0" fov="45.0" diffPosition=" 0.0, 1.0, 0.0" position=" 0.0, 0.0,  9.0" bumper_follow_speed="5.0" zoom_time="1.0" zoom_distance="0.0"/>
+		</area>
+	</camera>
+
+<!--フォグ関連-->
+	<fog start="20.0" end="30" ambient="0.0" mieG="1.0" rayleighPow="0.0" mieRGB="0.0, 0.3, 0.0, 1.0" rayleighRGB="0.0, 0.0, 0.2, 1.0" />
+
+<!--ライト関連-->
+<light ambient="0.3, 0.5, 1.0, 0.0">
+		<param type="PARALLEL" rot="130.0, 180.0, 0.0" color="0.0, 1.0, 1.0, 1.0" />
+	</light>
+	
+<!--CharaShader-->
+	<chara_shader light_dir="2.0, -1.0, -1.0" light_color="0.6, 0.6, 0.7, 1.0" rim_light_dir="2.56, -2.67, 1.0" rim_light_color="0.7, 0.7, 0.7, 1.0" point_light_strength="0.3, 0.0, 0.0, 0.0" />
+
+<!--HDR-->
+	<hdr threshold="0.5" glow_add_rate="1.0" glow_limit="1.0" />
+
+<!--パターンマップ-->
+	<pattern_map speed_u="0.005" speed_v="0.005" area_width="140.0" area_height="140.0" />
+
+<!--遠景モデル関連-->
+	<sphere offset="0.0, 10.0, 0.0" scale="1.0, 1.0, 1.0" />
+
+<!--地形モデル関連-->
+	<terrain offset="-64.0, 0.0, -64.0" />
+
+<!--風パラメータ定義ブロック-->
+	<wind_root>
+		<wind dir="1.0, 0.0, 0.0" power="30.0" freq="10.0" shift="0.0" />
+		<wind dir="0.0, 0.0, -1.0" power="30.0" freq="10.0" shift="5.0" />
+
+		<!--ノード揺れの定義ブロック-->
+		<n_shaker keyword="xN1_" weight="50.0" axis="5.0, 5.0, 5.0" max_angle="10.0" axis_power="10.0" char_range="1.0" char_power="10.0" />
+
+		<!--頂点揺れの定義ブロック-->
+		<v_shaker keyword="xV1_" weight="800.0" root_height="0.0" height="0.5" shake_time="10.0" shift_x="2.0" shift_z="2.0" />
+		<v_shaker keyword="xV2_" weight="2000.0" root_height="3.0" height="10.0" shake_time="5.0" shift_x="0.0" shift_z="0.0" />
+	</wind_root>
+</root>

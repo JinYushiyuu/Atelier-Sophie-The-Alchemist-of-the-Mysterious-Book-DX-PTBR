@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="node">
+		<menu name="menu"/>
+		<image name="back_image" style="common_white_image" size_wh="1280.00, 720.00, 0.00" color="0.00, 0.00, 64.00, 255.00"/>
+		<node name="comment" pos="82, 45, 0">
+			<text text="アルファマスクは描画負荷が高く、&lt;CR&gt;テキストに太字や影を落とすと表示がおかしくなる" name="text_1" pos="48.00, 430.00, -0.00" font_size="20.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="ステンシルマスクは比較的に描画負荷が軽いが&lt;CR&gt;半透明領域が無視される" name="text_2" pos="48.00, 487.00, -0.00" font_size="20.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="alpha_mask_test1" pos="-228.00, -64.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+			<text text="アルファマスク" name="label_1" pos="330.00, 264.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_color="255.00, 255.00, 192.00, 255.00"/>
+			<image name="base_image" style="etc_a17_item_l" rot="-0.00, -0.00, -0.00" pos="332, 295, -0" scale="1.00, 1.00, 1.00"/>
+			<image name="create_mask_image" style="etc_a17_item_l" rot="-0.00, -0.00, -0.00" pos="332.00, 295.00, -0.00" scale="1.00, 1.00, 1.00" alpha_mask="create"/>
+			<image name="masked_image" pos="312.00, 304.00, 0.00" style="alpha_gradation" size_wh="213.00, 171.00, 0.00" alpha_mask="masked" alpha_blend="add">
+				<anim_ctrl name="anim_ctrl_1" loop="true" play="true">
+					<bind_node node="masked_image" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+		</node>
+		<node name="stencil_mask_test1" pos="16, -63, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+			<text text="ステンシルマスク" name="label_1" pos="330.00, 264.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_color="192.00, 255.00, 255.00, 255.00"/>
+			<image name="base_image" style="etc_a17_item_l" rot="-0.00, -0.00, -0.00" pos="332, 295, -0" scale="1.00, 1.00, 1.00"/>
+			<image name="create_mask_image" style="etc_a17_item_l" rot="-0.00, -0.00, -0.00" pos="332.00, 295.00, -0.00" scale="1.00, 1.00, 1.00" stencil_mask="create"/>
+			<image name="masked_image" pos="312, 304, 0" stencil_mask="masked" style="alpha_gradation" alpha_blend="add" size_wh="213, 171">
+				<anim_ctrl name="anim_ctrl_1" loop="true" play="true">
+					<bind_node node="masked_image" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+		</node>
+		<node name="alpha_mask_test2" pos="623.00, 230.00, 0.00" visible="true">
+			<text text="アルファマスク" name="label" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="56.00, -97.00, -0.00" font_color="255.00, 255.00, 192.00, 255.00"/>
+			<node name="alpha_mask_creator" alpha_mask="create">
+				<image name="for_mask_image" style="alpha_circle" rot="-0.00, -0.00, -0.00" pos="24, -35, 0" size_wh="233, 189"/>
+				<image name="for_mask_image2" style="alpha_circle" rot="-0.00, -0.00, -0.00" pos="21, 160, 0" size_wh="235, 186"/>
+			</node>
+			<node name="alpha_masked_images" alpha_mask="masked">
+				<image name="image" style="gen_a17_main_menu01_photoframe" scale="1.00, 1.00, 1.00" pos="-59, -59, -0" rot="-0.00, -0.00, -0.00">
+					<text text="アルファマスク サンプル" name="text" rot="-0.00, -0.00, -89.21" pos="189.00, 210.00, -0.00" scale="1.00, 1.00, 1.00" align="center" font_color="255.00, 128.00, 255.00, 255.00" alpha_masked_properly="false">
+						<anim_ctrl name="anim_ctrl" speed="0.10" loop="true" play="true">
+							<bind_node node="text" anim="anm_common_rotateZ360"/>
+						</anim_ctrl>
+					</text>
+				</image>
+			</node>
+		</node>
+		<node name="stencil_mask_test2" pos="891, 230, 0">
+			<text text="ステンシルマスク" name="label" pos="56.00, -97.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_color="192.00, 255.00, 255.00, 255.00"/>
+			<node name="stencil_mask_creator" stencil_mask="create">
+				<image name="for_mask_image" style="alpha_circle" rot="-0.00, -0.00, -0.00" pos="24.00, -35.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="233.00, 189.00, 0.00"/>
+				<image name="for_mask_image2" style="alpha_circle" rot="-0.00, -0.00, -0.00" pos="21.00, 160.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="235.00, 186.00, 0.00"/>
+			</node>
+			<node name="stencil_masked_images" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" stencil_mask="masked">
+				<image name="image" style="gen_a17_main_menu01_photoframe" scale="1.00, 1.00, 1.00" pos="-58, -56, -0" rot="-0.00, -0.00, -0.00">
+					<text text="ステンシルマスク サンプル" name="text" rot="-0.00, -0.00, -89.21" pos="201, 220, -0" scale="1.00, 1.00, 1.00" align="center" font_color="255.00, 128.00, 255.00, 255.00" drop_shadow="true">
+						<anim_ctrl name="anim_ctrl" speed="0.10" loop="true" play="true">
+							<bind_node node="text" anim="anm_common_rotateZ360"/>
+						</anim_ctrl>
+					</text>
+				</image>
+			</node>
+		</node>
+	</node>
+</root>

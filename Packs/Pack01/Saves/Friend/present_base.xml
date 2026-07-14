@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="SHIFT-JIS"?>
+<Root>
+	<present_base friend_tag="FRIEND_PLACHTA" attack="0.3" heal="0.2" support="0.2" field="0.2" mix="0.3" machine="0.3" weapon="0.2" armor="0.2" accessory="0.2" material="0.2"/>
+	<present_base friend_tag="FRIEND_MONIKA" attack="0.2" heal="0.3" support="0.2" field="0.2" mix="0.2" machine="0.2" weapon="0.3" armor="0.2" accessory="0.3" material="0.3"/>
+	<present_base friend_tag="FRIEND_OTTO" attack="0.2" heal="0.3" support="0.3" field="0.3" mix="0.2" machine="0.2" weapon="0.2" armor="0.2" accessory="0.2" material="0.2"/>
+	<present_base friend_tag="FRIEND_JULIO" attack="0.3" heal="0.2" support="0.2" field="0.2" mix="0.3" machine="0.2" weapon="0.3" armor="0.2" accessory="0.2" material="0.2"/>
+	<present_base friend_tag="FRIEND_FILON" attack="0.2" heal="0.3" support="0.2" field="0.3" mix="0.2" machine="0.2" weapon="0.3" armor="0.2" accessory="0.2" material="0.2"/>
+	<present_base friend_tag="FRIEND_CANARIA" attack="0.2" heal="0.2" support="0.3" field="0.3" mix="0.3" machine="0.2" weapon="0.2" armor="0.2" accessory="0.2" material="0.2"/>
+	<present_base friend_tag="FRIEND_PAUL" attack="0.2" heal="0.2" support="0.2" field="0.2" mix="0.2" machine="0.2" weapon="0.3" armor="0.3" accessory="0.3" material="0.3"/>
+	<present_base friend_tag="FRIEND_HENRI" attack="0.2" heal="0.2" support="0.3" field="0.2" mix="0.2" machine="0.2" weapon="0.2" armor="0.3" accessory="0.3" material="0.3"/>
+	<present_base friend_tag="FRIEND_LOGIX" attack="0.3" heal="0.2" support="0.2" field="0.2" mix="0.3" machine="0.2" weapon="0.3" armor="0.2" accessory="0.2" material="0.2"/>
+	<present_base friend_tag="FRIEND_PAMELA" attack="0.2" heal="0.3" support="0.3" field="0.2" mix="0.2" machine="0.2" weapon="0.2" armor="0.2" accessory="0.3" material="0.3"/>
+	<present_base friend_tag="FRIEND_TESS" attack="0.3" heal="0.2" support="0.2" field="0.2" mix="0.2" machine="0.2" weapon="0.2" armor="0.3" accessory="0.3" material="0.3"/>
+	<present_base friend_tag="FRIEND_ELISE" attack="0.2" heal="0.2" support="0.3" field="0.2" mix="0.2" machine="0.3" weapon="0.2" armor="0.2" accessory="0.3" material="0.3"/>
+	<present_base friend_tag="FRIEND_MARGRIT" attack="0.2" heal="0.3" support="0.2" field="0.2" mix="0.3" machine="0.2" weapon="0.2" armor="0.2" accessory="0.3" material="0.3"/>
+	<present_base friend_tag="FRIEND_HELLMUT" attack="0.2" heal="0.3" support="0.3" field="0.3" mix="0.2" machine="0.2" weapon="0.2" armor="0.2" accessory="0.2" material="0.2"/>
+</Root>

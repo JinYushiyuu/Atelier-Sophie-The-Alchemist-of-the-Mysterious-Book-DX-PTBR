@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_08_message message_data="JULIO_TOWN01_08_1" chara_tag="JULIO" name_tag="JULIO" voice_no1="11710" message1="This town is really peaceful. It must be thanks to strong faith and good education."/>
+    <T01_TOWN_08_message message_data="JULIO_TOWN01_08_2" chara_tag="JULIO" name_tag="JULIO" voice_no1="11710" message1="Hey, you seem to be doing well today too. How's your alchemy studies going?"/>
+    <T01_TOWN_08_message message_data="JULIO_TOWN01_08_3" chara_tag="JULIO" name_tag="JULIO" voice_no1="11710" message1="I make sure to train every day since I came to this town. I don't want my body to get soft."/>
+    <T01_TOWN_08_message message_data="JULIO_TOWN01_08_4" chara_tag="JULIO" name_tag="JULIO" voice_no1="11710" message1="Is there some sort of trick to using items? It seems like you can use any item well, so I was just curious."/>
+    <T01_TOWN_08_message message_data="JULIO_TOWN01_08_5" chara_tag="JULIO" name_tag="JULIO" voice_no1="11710" message1="I can protect you. Don't worry, I won't lose to any monster."/>
+    <T01_TOWN_08_message message_data="JULIO_TOWN01_08_E" chara_tag="JULIO" name_tag="JULIO" voice_no1="11710" message1="Now then, maybe I should take a walk... No, first I need to finish today's training."/>
+    <T01_TOWN_08_message message_data="MONIKA_TOWN01_08_1" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Oh, Sophie. Do you need something today?"/>
+    <T01_TOWN_08_message message_data="MONIKA_TOWN01_08_2" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="We're going outside a lot lately, right? That's why I'm making sure to practice my swordplay every day."/>
+    <T01_TOWN_08_message message_data="MONIKA_TOWN01_08_3" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Is your place turning into a mess again? I'll go and help you clean up sometime."/>
+    <T01_TOWN_08_message message_data="MONIKA_TOWN01_08_4" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Alchemy really is amazing... I didn't think you could turn Plachta into a doll..."/>
+    <T01_TOWN_08_message message_data="MONIKA_TOWN01_08_5" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Hey, Sophie? Do you mind if I visit your atelier sometime? ...I really want to eat some sweets."/>
+    <T01_TOWN_08_message message_data="MONIKA_TOWN01_08_E" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Maybe I'll take a little break. Should I go shopping, or have tea, or... Hmm, so many choices..."/>
+    <T01_TOWN_08_message message_data="QC01_MON_010_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Be careful not to trip and hurt yourself." next_message_tag="QC01_MON_010_PAMELA"/>
+    <T01_TOWN_08_message message_data="QC01_MON_010_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="Hehe, then let's play." next_message_tag="QC01_MON_010_BOY_A"/>
+    <T01_TOWN_08_message message_data="QC01_MON_010_BOY_A" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="-1" message1="Okay, I won't lose."/>
+    <T01_TOWN_08_message message_data="QC01_MON_010_BOY_B" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="I'm number one."/>
+    <T01_TOWN_08_message message_data="QC01_MON_010_GIRL_A" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="I'll do my best..."/>
+    <T01_TOWN_08_message message_data="QC01_MON_015_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="11715" message1="Come back by evening."/>
+    <T01_TOWN_08_message message_data="QC09_PAM_020_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="11702" message1="What should we do today?" next_message_tag="QC09_PAM_020_GIRL_A"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_020_GIRL_A" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="House!"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_020_BOY_A" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="-1" message1="Tag!"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_020_BOY_B" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="What should we play?"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_070_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="11702" message1="Please." next_message_tag="QC09_PAM_070_OTTO"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_070_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="No way."/>
+    <T01_TOWN_08_message message_data="QC09_PAM_090_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="11702" message1="That's a hard question." next_message_tag="QC09_PAM_090_HELLMUT"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_090_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="What should we do?" next_message_tag="QC09_PAM_090_MARGRIT"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_090_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="This is troublesome."/>
+    <T01_TOWN_08_message message_data="QC09_PAM_120_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="11715" message1="Have you gotten older?" next_message_tag="QC09_PAM_120_JIJI_A"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_120_JIJI_A" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="It's about time."/>
+    <T01_TOWN_08_message message_data="QC09_PAM_170_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="11702" message1="What should we do today?" next_message_tag="QC09_PAM_170_BOY_A"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_170_BOY_A" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="-1" message1="Tag!"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_170_BOY_B" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="Hide and seek!"/>
+    <T01_TOWN_08_message message_data="QC09_PAM_170_GIRL_A" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="...I want to talk sometimes!"/>
+    <T01_TOWN_08_message message_data="MS01_010_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="That'll help." next_message_tag="MS01_010_JULIO"/>
+    <T01_TOWN_08_message message_data="MS01_010_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="-1" message1="Not really."/>
+    <T01_TOWN_08_message message_data="MS01_050_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="11710" message1="I submit." next_message_tag="MS01_050_FILON"/>
+    <T01_TOWN_08_message message_data="MS01_050_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="-1" message1="No, you did well."/>
+    <T01_TOWN_08_message message_data="MS01_020_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="11697" message1="We need to be careful." next_message_tag="MS01_020_OTTO"/>
+    <T01_TOWN_08_message message_data="MS01_020_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="Hm, I don't know."/>
+    <T01_TOWN_08_message message_data="MS01_160_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="11715" message1="Thank you." next_message_tag="MS01_160_LOGIX"/>
+    <T01_TOWN_08_message message_data="MS01_160_LOGIX" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="-1" message1="No, this is just my job."/>
+    <T01_TOWN_08_message message_data="MM09_010_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="9026" message1="Done?"/>
+    <T01_TOWN_08_message message_data="QC03_JUL_060_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="That should do it." next_message_tag="QC03_JUL_060_JULIO"/>
+    <T01_TOWN_08_message message_data="QC03_JUL_060_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="-1" message1="I see, that's useful."/>
+    <T01_TOWN_08_message message_data="TOWN_08_JULIO_EV1" chara_tag="JULIO" name_tag="JULIO" voice_no1="-1" message1="..." quest_tag="QC03_JUL_100" voice_no2="-1" message2="Did you bring the medicine I asked for?"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC26A_00" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="-1" message1="What should we play today... Tag? Adventuring? Hm, this will be fun..."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC26A_01" chara_tag="NPC23B" name_tag="NPC23B" voice_no1="-1" message1="Ah, it's Sophie! Let's play! Hey, you have time, right?"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC20A_OP_0" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="11781" message1="I'm planning to go hunting outside after making preparations on main street." next_message_tag="TOWN_08_NPC20A_OP_1"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC20A_OP_1" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="Maybe I'll take a look at the requests over at Horst's shop too..."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC20A_00" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="11781" message1="Conditions to be considered a top class adventurer? Let's see..." next_message_tag="TOWN_08_NPC20A_01"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC20A_01" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="First of all, you need to be able to complete requests and make good money."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC20A_10" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="11781" message1="Have you been writing everything into your reference book?" next_message_tag="TOWN_08_NPC20A_11"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC20A_11" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="You'll be top class if you review it from time to time."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC20A_20" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="11781" message1="There's times when you just don't know what to do, right?" next_message_tag="TOWN_08_NPC20A_21"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC20A_21" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="In times like that, it might be a good idea to review recent &quot;events&quot;."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23A_00" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="11772" message1="Shopping is really fun." next_message_tag="TOWN_08_NPC23A_01"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23A_01" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="-1" message1="...I wonder if anyone will open new shops?"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23A_10" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="11772" message1="If you really examine the details of things for sale closely..." next_message_tag="TOWN_08_NPC23A_11"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23A_11" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="-1" message1="A lot of times you'll realize that you actually need it."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23A_20" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="11772" message1="Order made goods are great. They're perfectly fitting..." next_message_tag="TOWN_08_NPC23A_21"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23A_21" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="-1" message1="You can choose all kinds of options when ordering too... It's the most luxurious kind of shopping."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23B_00" chara_tag="NPC23B" name_tag="NPC23B" voice_no1="11739" message1="Hmm, I want to buy clothes, but... I don't know what color to choose." next_message_tag="TOWN_08_NPC23B_01"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23B_01" chara_tag="NPC20B" name_tag="NPC20B" voice_no1="11744" message1="They say colors reveal your inner nature... Then maybe this..."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23B_10" chara_tag="NPC23B" name_tag="NPC23B" voice_no1="11739" message1="Hmm, I want to buy gems, but... I don't know what size." next_message_tag="TOWN_08_NPC23B_11"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23B_11" chara_tag="NPC20B" name_tag="NPC20B" voice_no1="11744" message1="Let's see, if I want to wear it for any occasion... Then maybe this..."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23B_20" chara_tag="NPC23B" name_tag="NPC23B" voice_no1="11739" message1="Hmm, I want to buy a weapon for self defense, but I don't know what type." next_message_tag="TOWN_08_NPC23B_21"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC23B_21" chara_tag="NPC20B" name_tag="NPC20B" voice_no1="11744" message1="Short swords are a good option for girls to handle, and guns are another option lately."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC25B_00" chara_tag="NPC25B" name_tag="NPC25A_02" voice_no1="11813" message1="Praying in the morning is good for your health."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC25B_01" chara_tag="NPC25B" name_tag="NPC25A_02" voice_no1="11813" message1="Praying during the day is good for your health."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC25B_02" chara_tag="NPC25B" name_tag="NPC25A_02" voice_no1="11813" message1="Praying in the evening is good for your health."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC25B_10" chara_tag="NPC25B" name_tag="NPC25A_02" voice_no1="11813" message1="Let's pray... And give thanks for morning health."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC25B_11" chara_tag="NPC25B" name_tag="NPC25A_02" voice_no1="11813" message1="Let's pray... And give thanks for daytime health."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC25B_12" chara_tag="NPC25B" name_tag="NPC25A_02" voice_no1="11813" message1="Let's pray... And give thanks for evening health."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC25B_20" chara_tag="NPC25B" name_tag="NPC25A_02" voice_no1="11813" message1="I'm praying... For health during the day."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC25B_21" chara_tag="NPC25B" name_tag="NPC25A_02" voice_no1="11813" message1="I'm praying... For health during the evening."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC25B_22" chara_tag="NPC25B" name_tag="NPC25A_02" voice_no1="11813" message1="I'm praying... For health at night."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC22A_00" chara_tag="NPC22A" name_tag="NPC22A" voice_no1="11738" message1="I'm thinking about opening a business here in Kirchen Bell." next_message_tag="TOWN_08_NPC22A_01"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC22A_01" chara_tag="NPC22A" name_tag="NPC22A" voice_no1="-1" message1="I'm observing the town to see what kinds of people live here."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC22A_10" chara_tag="NPC22A" name_tag="NPC22A" voice_no1="11738" message1="Seeing how there's a big church, it's no surprise that there are a lot of pious people here." next_message_tag="TOWN_08_NPC22A_11"/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC22A_11" chara_tag="NPC22A" name_tag="NPC22A" voice_no1="-1" message1="...In that case, there should be demand for my wares. This is good to know."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC22A_20" chara_tag="NPC22A" name_tag="NPC22A" voice_no1="11738" message1="I've decided to open my business, but I still have a lot to get ready. I'm really busy every day."/>
+    <T01_TOWN_08_message message_data="TOWN_08_NPC22A_21" chara_tag="NPC22A" name_tag="NPC22A" voice_no1="-1" message1="..."/>
+</Root>

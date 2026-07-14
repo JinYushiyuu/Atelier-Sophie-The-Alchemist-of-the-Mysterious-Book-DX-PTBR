@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_item_info01_itembg01" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="0,0,337,337"/>
+	<image name="gen_a17_item_info01_itembg02" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="0,352,288,288"/>
+	<image name="gen_a17_item_info01_namebg01" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="288,373,480,90"/>
+	<image name="gen_a17_item_info01_namebg02" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="383,319,385,52"/>
+	<image_list name="gen_a17_item_info01_obi01">
+		<image name="gen_a17_item_info01_obi01__xLIST01" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="384,0,192,64"/>
+		<image name="gen_a17_item_info01_obi01__xLIST02" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="576,0,192,64"/>
+		<image name="gen_a17_item_info01_obi01__xLIST03" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="448,704,320,63"/>
+	</image_list>
+	<image name="gen_a17_item_info01_obi02" texture="ui/a17_item_info.g1t"  texture_index="0" prim_type="wrap" edge_margin="200,0,79,63" uvwh="448,704,320,63"/>
+	<image name="gen_a17_item_info01_obi03" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="594,244,173,75"/>
+	<image name="gen_a17_item_info01_pagebg" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="450,277,144,42"/>
+	<image name="gen_a17_item_info01_sizebg" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="672,64,85,86"/>
+	<image name="gen_a17_item_info01_sizeicon01" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="704,672,32,32"/>
+	<image_list name="gen_a17_item_info01_text01">
+		<image name="gen_a17_item_info01_text01__xLIST01" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="352,64,128,48"/>
+		<image name="gen_a17_item_info01_text01__xLIST02" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="352,112,128,48"/>
+		<image name="gen_a17_item_info01_text01__xLIST03" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="352,160,128,48"/>
+		<image name="gen_a17_item_info01_text01__xLIST04" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="352,208,128,48"/>
+		<image name="gen_a17_item_info01_text01__xLIST05" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="480,64,128,48"/>
+		<image name="gen_a17_item_info01_text01__xLIST06" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="480,112,128,48"/>
+		<image name="gen_a17_item_info01_text01__xLIST07" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="480,160,128,48"/>
+		<image name="gen_a17_item_info01_text01__xLIST08" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="480,208,128,48"/>
+	</image_list>
+	<image_list name="gen_a17_item_info01_text02">
+		<image name="gen_a17_item_info01_text02__xLIST01" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="0,656,224,48"/>
+		<image name="gen_a17_item_info01_text02__xLIST02" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="0,704,224,48"/>
+		<image name="gen_a17_item_info01_text02__xLIST03" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="224,656,224,48"/>
+		<image name="gen_a17_item_info01_text02__xLIST04" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="224,704,224,48"/>
+		<image name="gen_a17_item_info01_text02__xLIST05" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="448,656,224,48"/>
+		<image name="gen_a17_item_info01_text02__xLIST06" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="224,72,224,48"/>
+	</image_list>
+	<image_list name="gen_a17_item_info01_text03">
+		<image name="gen_a17_item_info01_text03__xLIST01" texture="ui/a17_item_info.g1t" texture_index="0" uvwh="608,160,160,48"/>
+	</image_list>
+	<image name="gen_a17_item_info01_w01" texture="ui/a17_item_info.g1t"  texture_index="0" prim_type="wrap" edge_margin="195,76,126,51" uvwh="320,464,448,191"/>
+	<image_list name="gen_a17_item_info02_color">
+		<image name="gen_a17_item_info02_color__xLIST01" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="0,192,96,96"/>
+		<image name="gen_a17_item_info02_color__xLIST02" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="95,192,96,96"/>
+		<image name="gen_a17_item_info02_color__xLIST03" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="96,288,96,96"/>
+		<image name="gen_a17_item_info02_color__xLIST04" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="191,288,96,96"/>
+		<image name="gen_a17_item_info02_color__xLIST05" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="0,288,96,96"/>
+	</image_list>
+	<image name="gen_a17_item_info02_countacce" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="112,0,96,96"/>
+	<image name="gen_a17_item_info02_kiraicon" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="652,232,115,115"/>
+	<image name="gen_a17_item_info02_line01" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="301,349,461,34"/>
+	<image name="gen_a17_item_info02_lvacce" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="0,0,96,96"/>
+	<image_list name="gen_a17_item_info02_rarity">
+		<image name="gen_a17_item_info02_rarity__xLIST01" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="224,0,76,72"/>
+		<image name="gen_a17_item_info02_rarity__xLIST02" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="300,0,76,72"/>
+		<image name="gen_a17_item_info02_rarity__xLIST03" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="376,0,76,72"/>
+		<image name="gen_a17_item_info02_rarity__xLIST04" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="452,0,76,72"/>
+		<image name="gen_a17_item_info02_rarity__xLIST05" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="528,0,76,72"/>
+		<image name="gen_a17_item_info02_rarity__xLIST06" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="604,0,76,72"/>
+	</image_list>
+	<image_list name="gen_a17_item_info02_wing">
+		<image name="gen_a17_item_info02_wing__xLIST01" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="439,232,71,115"/>
+		<image name="gen_a17_item_info02_wing__xLIST02" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="510,232,71,115"/>
+		<image name="gen_a17_item_info02_wing__xLIST03" texture="ui/a17_item_info.g1t" texture_index="1" uvwh="581,232,71,115"/>
+	</image_list>
+	<image name="gen_a17_item_info03_colorful" texture="ui/a17_item_info.g1t" texture_index="2" uvwh="0,0,300,300"/>
+	<image name="gen_a17_item_info04_red" texture="ui/a17_item_info.g1t" texture_index="3" uvwh="0,0,307,297"/>
+</root>

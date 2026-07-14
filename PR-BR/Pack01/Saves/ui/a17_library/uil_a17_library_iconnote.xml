@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<command load_anim="/Saves/ui/a17_library/uia_a17_library.xml"/>
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false">
+		<image name="img_talkchara" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_02on" size_wh="42.00, 42.00, 0.00" pos="-0.00, -0.00, -0.00" pivot_enable="true" pivot_pos="21.00, 21.00, 0.00"/>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="node_top" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<image name="win" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_library03_w1" size_wh="538.00, 170.00, 0.00" pos="-0.00, -0.00, -0.00">
+			<node name="text" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<text text="&quot;This is yellow. It&apos;s rare and only 3 exist in the world.&quot;&lt;CR&gt;&quot;This person is lying.&quot;&lt;CR&gt;&quot;They are all liars.&lt;CR&gt;WWWWWWWWWwWWWWWWWWWwWWWWWWWWWwWWWWW&quot;" name="text_note" copy="TEXTCOLOR_BROWN" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" align="left" line_space="28.00" pos="56.00, 18.00, 0.00" word_space="1.00" font_size="18.00" limit_width="458.00"/>
+				<node name="node_noteicon" pos="3, -2, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image copy="img_talkchara" clone_child_tree="img_talkchara" name="img_icon0" pos="15.00, 9.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image copy="img_talkchara" clone_child_tree="img_talkchara" name="img_icon1" pos="15.00, 46.33, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image copy="img_talkchara" clone_child_tree="img_talkchara" name="img_icon2" pos="15.00, 83.67, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image copy="img_talkchara" clone_child_tree="img_talkchara" name="img_icon3" pos="15.00, 121.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<anim_ctrl name="anim_icon0" play="true" loop="true">
+						<bind_node node="./img_icon0" anim="anim_library_icon"/>
+					</anim_ctrl>
+					<anim_ctrl name="anim_icon1" play="true" loop="true">
+						<bind_node node="./img_icon1" anim="anim_library_icon"/>
+					</anim_ctrl>
+					<anim_ctrl name="anim_icon2" play="true" loop="true">
+						<bind_node node="./img_icon2" anim="anim_library_icon"/>
+					</anim_ctrl>
+					<anim_ctrl name="anim_icon3" play="true" loop="true">
+						<bind_node node="./img_icon3" anim="anim_library_icon"/>
+					</anim_ctrl>
+				</node>
+			</node>
+			<node name="line" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="line" style="gen_a17_library03_l" pos="57.00, 43.00, 0.00" size_wh="447, 10" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_2" style="gen_a17_library03_l" pos="57.00, 81.00, 0.00" size_wh="447, 10" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_3" style="gen_a17_library03_l" pos="57.00, 119.00, 0.00" size_wh="447, 10" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</image>
+	</node>
+</root>

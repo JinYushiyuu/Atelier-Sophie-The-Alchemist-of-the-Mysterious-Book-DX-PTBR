@@ -1,0 +1,409 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_XX01_190.ebm",
+    "nb_messages": 0x2d,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x45,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Okay, I've done it! The \"Corneria Doll\"! A tool to replenish stocks of bombs and medicine!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x47,
+            "expr_id": 0x0,
+            "msg_id": 0x1,
+            "msg_string": "I tried to make it so all you need to power it is milk. I think it works. Excellent."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "I'm glad I didn't give up. It's important not to predetermine things to be impossible..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "Perhaps that's what doubting conventional wisdom really means."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x4,
+            "msg_string": "It doesn't actually look all that much like Cory... But we'll let that slide for now."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x5,
+            "msg_string": "With this in tow, I can have peace of mind no matter where I go!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Hehe, that's true. I'm sure it will be very useful on your travels."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x26,
+            "expr_id": 0x3,
+            "msg_id": 0x7,
+            "msg_string": "Huh, Monika?! Uh, I'm not sure what you mean by travels, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Sophie. You mustn't underestimate me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x6a,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "You really think I didn't know that you're about to head off on a trip?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x28,
+            "expr_id": 0x3,
+            "msg_id": 0xa,
+            "msg_string": "...Huh?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0xb,
+            "msg_string": "You've been asking everyone for travel advice. We've all worked it out."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x44,
+            "expr_id": 0x0,
+            "msg_id": 0xc,
+            "msg_string": "Don't worry; I'm not angry. I know why you felt you couldn't tell me..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0xd,
+            "msg_string": "Monika... I'm... I'm sorry. I wanted to tell you, but..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x23,
+            "expr_id": 0xe,
+            "msg_id": 0xe,
+            "msg_string": "I'm leaving Kirchen Bell, and taking a journey. I want to realize my dream..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "...Yes."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1,
+            "expr_id": 0xe,
+            "msg_id": 0x10,
+            "msg_string": "...And you're not going to come with me, are you?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "...No, I'm not."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x12,
+            "msg_string": "I have my own dreams I want to fulfill. If I go with you, I can't do that..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x13,
+            "msg_string": "That's why I'm going to stay here. I'm going to stay in town, and work on my singing."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3e,
+            "expr_id": 0x0,
+            "msg_id": 0x14,
+            "msg_string": "Yes. I figured you'd say that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x15,
+            "msg_string": "Hahaha, you know me too well. I guess you've known me all my life."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x16,
+            "msg_string": "But I want to go on a journey myself one day. I want to sing all over the world."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x21,
+            "expr_id": 0x4,
+            "msg_id": 0x17,
+            "msg_string": "I'm sorry I can't go with you... But it's for the sake of my own dreams that I have to stay."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x23,
+            "expr_id": 0x4,
+            "msg_id": 0x18,
+            "msg_string": "It's only thanks to you that I even have a chance to realize my dream. I won't let it go."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x19,
+            "msg_string": "..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x1a,
+            "msg_string": "You have to promise me, Sophie. You and I will both make our dreams come true."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x1b,
+            "msg_string": "We may not be together, but we must both keep running straight towards our goals."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1c,
+            "msg_string": "I'll be behind you all the way. I hope you'll support me, too."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1d,
+            "msg_string": "Monika...! Of course I will!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x1e,
+            "msg_string": "My alchemy will bring happiness to all, and you... your beautiful voice will do the same!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x1f,
+            "msg_string": "My beautiful voice... Hehe, wouldn't that be wonderful, to be a famous singer!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x20,
+            "msg_string": "Yes! You and I have to fight for our dreams, Monika!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x21,
+            "msg_string": "...Yes!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x43,
+            "expr_id": 0x0,
+            "msg_id": 0x22,
+            "msg_string": "...But once you do leave on your travels, you mustn't return until you realize your dream, okay?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x20,
+            "expr_id": 0xe,
+            "msg_id": 0x23,
+            "msg_string": "...Huh? Why?! Why can't I come back?!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x24,
+            "msg_string": "Because you're too naturally lazy. If you come back, you'll end up staying too long."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x2d,
+            "expr_id": 0x2,
+            "msg_id": 0x25,
+            "msg_string": "For your dream, you have to go out into the wide world. Then, once you've made it..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x2,
+            "msg_id": 0x26,
+            "msg_string": "...I can come back to town. Okay, I get it. It'll be a hard, lonely road, but I can do it."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x27,
+            "msg_string": "Hehe, that's a promise, okay? But, you know..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x28,
+            "msg_string": "I'll be lonely without you, too. So make sure you come back as soon as you can, all right?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0x29,
+            "msg_string": "Sure. I can promise that! ...Oh, and Monika..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "extra_id": 0x3,
+            "expr_id": 0x0,
+            "msg_id": 0x2a,
+            "msg_string": "Hm? What is it, Sophie?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x2b,
+            "msg_string": "...Thank you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x2,
+            "name_id": 0x2,
+            "expr_id": 0x0,
+            "msg_id": 0x2c,
+            "msg_string": "...Right back at you."
+        }
+    ]
+}

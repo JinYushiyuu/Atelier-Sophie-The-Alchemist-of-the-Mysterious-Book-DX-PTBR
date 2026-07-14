@@ -1,0 +1,164 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_YY02_100.ebm",
+    "nb_messages": 0x12,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x0,
+            "msg_string": "Still... You're pretty clumsy."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "expr_id": 0xf,
+            "msg_id": 0x1,
+            "msg_string": "W-what are you saying so suddenly? I don't recall doing anything to deserve being called clumsy..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x6d,
+            "expr_id": 0x0,
+            "msg_id": 0x2,
+            "msg_string": "Oh? ...You transferred your soul into a book, only to lose your memories and forget your goal. Sounds clumsy to me."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x1,
+            "expr_id": 0x0,
+            "msg_id": 0x3,
+            "msg_string": "That's... I didn't have any means to verify that. That wasn't clumsiness."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x4,
+            "msg_string": "Oh really... Well, I guess it still worked out for you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x2d,
+            "expr_id": 0x4,
+            "msg_id": 0x5,
+            "msg_string": "Because of that, you found yourself a cute little apprentice."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x69,
+            "expr_id": 0x0,
+            "msg_id": 0x6,
+            "msg_string": "Right. She's a hard worker, honest, and earnest. I think she's wasted on the likes of you."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x5,
+            "expr_id": 0x0,
+            "msg_id": 0x7,
+            "msg_string": "...I see. I crossed a vast amount of time, and met Sophie. I feel blessed about that."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "expr_id": 0x0,
+            "msg_id": 0x8,
+            "msg_string": "Heh... You probably know already, but she's going to turn monstrous."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x6b,
+            "expr_id": 0x0,
+            "msg_id": 0x9,
+            "msg_string": "Indeed. One day... She will become a great alchemist, far beyond you or us."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xa,
+            "msg_string": "Yes, of course she will... She's my apprentice, after all."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x17,
+            "expr_id": 0x9,
+            "msg_id": 0xb,
+            "msg_string": "Ahaha! Touche."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xe,
+            "name_id": 0xe,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0xc,
+            "msg_string": "...In that case, guide her down the right path. That's your duty as her master."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x11,
+            "expr_id": 0x0,
+            "msg_id": 0xd,
+            "msg_string": "Such brimming talent... Letting it go to waste would be a real shame."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x1,
+            "name_id": 0x1,
+            "extra_id": 0x3c,
+            "expr_id": 0x0,
+            "msg_id": 0xe,
+            "msg_string": "...Yes, I know."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0xf,
+            "msg_string": "I'm baaack! Huh, everyone's here... What were you talking about?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0xf,
+            "name_id": 0xf,
+            "extra_id": 0x3d,
+            "expr_id": 0x0,
+            "msg_id": 0x10,
+            "msg_string": "Oh, nothing much. Don't mind us."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "expr_id": 0x0,
+            "msg_id": 0x11,
+            "msg_string": "...? Okay...?"
+        }
+    ]
+}

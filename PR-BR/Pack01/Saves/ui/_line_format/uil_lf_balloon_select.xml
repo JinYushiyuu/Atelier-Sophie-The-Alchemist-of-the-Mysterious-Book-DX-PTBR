@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--BalloonSelectの行のひな形-->
+	<node name="lf_balloon_select">
+		<text name="text" drop_shadow="false" text="あいうえおかきくけこさしす" align="left" font_size="22"/>
+	</node>
+</root>

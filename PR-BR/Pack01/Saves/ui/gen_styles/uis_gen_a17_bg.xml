@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_bg01_accessory01" texture="ui/a17_bg01.g1t" texture_index="0" uvwh="1952,0,576,800"/>
+	<image name="gen_a17_bg02_a01" texture="ui/a17_bg02.g1t" texture_index="0" uvwh="2028,0,196,1276"/>
+	<image name="gen_a17_bg02_a02" texture="ui/a17_bg02.g1t" texture_index="0" uvwh="2228,-4,584,1196"/>
+	<image name="gen_a17_bg02_a02_02" texture="ui/a17_bg01.g1t" texture_index="0" uvwh="2540,0,153,1196"/>
+	<image name="gen_a17_bg02_a03" texture="ui/a17_bg02.g1t" texture_index="0" uvwh="2812,-2,260,1194"/>
+	<image name="gen_a17_bg05_potliquid" texture="ui/a17_bg05.g1t" texture_index="0" uvwh="1,-1,1247,1248"/>
+	<image name="gen_a17_bg05_potliquid_add" texture="ui/a17_bg05.g1t" texture_index="0" uvwh="1256,-1,1247,1248"/>
+</root>

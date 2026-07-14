@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_12_message message_data="LOGIX_TOWN01_12" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="-1" message1="..."/>
+    <T01_TOWN_12_message message_data="MS01_070_LOGIX" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="11716" message1="How's this?" next_message_tag="MS01_070_JULIO"/>
+    <T01_TOWN_12_message message_data="MS01_070_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="-1" message1="Thank you, you always do good work."/>
+    <T01_TOWN_12_message message_data="MM09_010_LOGIX" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="9055" message1="It's done."/>
+    <T01_TOWN_12_message message_data="TOWN_12_LOGIX_EV1" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="-1" message1="Thank you, that really helps." quest_tag="QC08_LOG_050" voice_no2="11716" message2="Did you prepare the item I requested?"/>
+    <T01_TOWN_12_message message_data="TOWN_12_LOGIX_EV2" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="-1" message1="Thank you, that really helps." quest_tag="QC08_LOG_080" voice_no2="11716" message2="Did you prepare the item I requested?"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_00" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="11741" message1="If it's just for general use, the weapons being sold are good enough."/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_01" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_10" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="11741" message1="If you're having a hard time fighting, you might want to have your weapons custom made." next_message_tag="TOWN_12_NPC06A_11"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_11" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="-1" message1="For example, the various &quot;Slayer&quot; traits are strong against different types of enemies."/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_20" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="11741" message1="A new weapon isn't always going to be stronger." next_message_tag="TOWN_12_NPC06A_21"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_21" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="-1" message1="Sometimes it's better to just enhance the weapons you're already used to using."/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_00" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="11742" message1="I'm thinking about what kind of weapon I want to use in the future..." next_message_tag="TOWN_12_NPC26B_01"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_01" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="Even among swords, there's long swords, great swords, rapiers, and more... It's hard to decide."/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_10" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="11742" message1="I thought spears wouldn't have different types to worry about..." next_message_tag="TOWN_12_NPC26B_11"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_11" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="But there's types for thrusting, slashing, and sweeping... It's hard to decide."/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_20" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="11742" message1="I thought guns wouldn't have different types to worry about..." next_message_tag="TOWN_12_NPC26B_21"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_21" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="But there are handguns, rifles, shotguns, and more... It's hard to decide."/>
+</Root>

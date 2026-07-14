@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<!--↓アニメーションxmlの読み込み-->
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="node_root" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<node name="node_bg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_common/uil_a17_bg01_big.xml" viewer_visible="false"/>
+		<node name="node_top" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library12.xml" viewer_visible="false" visible="false">
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_recipe_top" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_recipe/uil_a17_recipe_top_menu.xml" viewer_visible="false" visible="false">
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_recipe_item" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_recipe/uil_a17_recipe_map.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_recipe_info" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_recipe/uil_a17_recipe_info.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_item_kind" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/library/uil_a17_library_item_top.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_item_top" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library02.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_filter_window" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library_sort.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_item_root" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library08.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getOn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_alpha_on" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_effs_top" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/library/uil_a17_library_effs_top.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_eff_esp" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library06.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_monster_top" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library04.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_monster_root" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library10.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_map_top" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library05.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_map_root" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_library/uil_a17_library11.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_breadcrumbs" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_picturelist/uil_a17_picturelist.xml"/>
+		<node name="node_submenu" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/library/uil_a17_library_submenu.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="node_submenu2" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/library/uil_a17_library_submenu.xml" visible="false" viewer_visible="false">
+			<anim_ctrl name="getOut" viewer_key_assign="2">
+				<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="getIn" viewer_key_assign="1">
+				<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<anim_ctrl name="getRootOut" viewer_key_assign="2">
+			<bind_node node="." anim="anm_common_fade_in" reverse="true"/>
+		</anim_ctrl>
+		<anim_ctrl name="getRootIn" viewer_key_assign="1">
+			<bind_node node="." anim="anm_common_fade_in" start_visible="true"/>
+		</anim_ctrl>
+	</node>
+	<!--***↓アニメーション ***-->
+</root>
