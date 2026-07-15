@@ -10,7 +10,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0x0,
-            "msg_string": "Monika! Will you come gathering with me?"
+            "msg_string": "Monika! Você vem coletar comigo?"
         },
         {
             "type": 0x2,
@@ -19,7 +19,7 @@
             "extra_id": 0x2a,
             "expr_id": 0x3,
             "msg_id": 0x1,
-            "msg_string": "Hm? Why are you asking all of a sudden?"
+            "msg_string": "Hm? Por que está perguntando isso de repente?"
         },
         {
             "type": 0x2,
@@ -28,7 +28,7 @@
             "extra_id": 0x6,
             "expr_id": 0x0,
             "msg_id": 0x2,
-            "msg_string": "I don't have any materials for Synthesis. I want to go gather some, but I'm scared to go alone."
+            "msg_string": "Estou sem materiais para Síntese. Quero ir coletar alguns, mas tenho medo de ir sozinha."
         },
         {
             "type": 0x2,
@@ -37,7 +37,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0x3,
-            "msg_string": "Ah, I see. Of course I'll go."
+            "msg_string": "Ah, entendi. Claro que vou."
         },
         {
             "type": 0x2,
@@ -46,7 +46,7 @@
             "extra_id": 0x3,
             "expr_id": 0x0,
             "msg_id": 0x4,
-            "msg_string": "Besides, you helped me with Mr. Horst's request."
+            "msg_string": "Além disso, você me ajudou com o pedido do Sr. Horst."
         },
         {
             "type": 0x2,
@@ -55,7 +55,7 @@
             "extra_id": 0x1b,
             "expr_id": 0x2,
             "msg_id": 0x5,
-            "msg_string": "Alright! Thanks, Monika!"
+            "msg_string": "Beleza! Valeu, Monika!"
         },
         {
             "type": 0x2,
@@ -64,7 +64,7 @@
             "extra_id": 0x5,
             "expr_id": 0x0,
             "msg_id": 0x6,
-            "msg_string": "No problem. By the way, Sophie. Have you outfitted yourself properly?"
+            "msg_string": "Sem problemas. A propósito, Sophie. Você se equipou direito?"
         },
         {
             "type": 0x2,
@@ -73,7 +73,7 @@
             "extra_id": 0x2b,
             "expr_id": 0x4,
             "msg_id": 0x7,
-            "msg_string": "Huh? Yeah, I have my handkerchief, and snacks..."
+            "msg_string": "Hã? Sim, tenho meu lenço e lanches..."
         },
         {
             "type": 0x2,
@@ -82,7 +82,7 @@
             "extra_id": 0x3d,
             "expr_id": 0x0,
             "msg_id": 0x8,
-            "msg_string": "That's not what I meant... You need medicine and other supplies, right?"
+            "msg_string": "Não foi isso que eu quis dizer... Você precisa de remédios e outros suprimentos, certo?"
         },
         {
             "type": 0x2,
@@ -91,7 +91,7 @@
             "extra_id": 0x43,
             "expr_id": 0x0,
             "msg_id": 0x9,
-            "msg_string": "We're going to a place where monsters appear. You need to prepare properly."
+            "msg_string": "Vamos a um lugar onde monstros aparecem. Você precisa se preparar adequadamente."
         },
         {
             "type": 0x2,
@@ -100,7 +100,7 @@
             "extra_id": 0x2d,
             "expr_id": 0x4,
             "msg_id": 0xa,
-            "msg_string": "Oh, you're right. I'll be sure to bring some stuff."
+            "msg_string": "Ah, você tem razão. Vou trazer algumas coisas."
         },
         {
             "type": 0x3,
@@ -109,7 +109,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "\"<CLGR>Monika<CLNR>\" joined your party."
+            "msg_string": "\"<CLGR>Monika<CLNR>\" se juntou ao seu grupo."
         },
         {
             "type": 0x3,
@@ -118,7 +118,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "There are many items that can be equipped, such as bombs and medicine."
+            "msg_string": "Há muitos itens que podem ser equipados, como bombas e remédios."
         },
         {
             "type": 0x3,
@@ -127,7 +127,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "By equipping these items, you can take them outside of town and use them."
+            "msg_string": "Equipando esses itens, você pode levá-los para fora da cidade e usá-los."
         },
         {
             "type": 0x3,
@@ -136,7 +136,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Would you like to view the explanation for equipping items?"
+            "msg_string": "Gostaria de ver a explicação sobre equipar itens?"
         },
         {
             "type": 0x3,
@@ -145,7 +145,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Items can be equipped from \"Equipment\" in the \"Main Menu\"."
+            "msg_string": "Itens podem ser equipados em \"Equipamento\" no \"Menu Principal\"."
         },
         {
             "type": 0x3,
@@ -154,7 +154,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Sophie can equip all items, but the items equippable by other characters are limited."
+            "msg_string": "Sophie pode equipar todos os itens, mas os itens que outros personagens podem equipar são limitados."
         },
         {
             "type": 0x3,
@@ -163,7 +163,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "You can see if a character can equip an item or not by checking the 2nd page in item details."
+            "msg_string": "Você pode ver se um personagem pode equipar um item ou não checando a 2ª página nos detalhes do item."
         },
         {
             "type": 0x3,
@@ -172,7 +172,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "You can read more details about equipping items under Help in the Encyclopedia."
+            "msg_string": "Você pode ler mais detalhes sobre equipar itens em Ajuda na Enciclopédia."
         }
     ]
 }

@@ -10,7 +10,7 @@
             "extra_id": 0x45,
             "expr_id": 0x0,
             "msg_id": 0x0,
-            "msg_string": "Okay! Let's not waste any time. Can you teach me some stuff, Plachta?"
+            "msg_string": "Certo! Não vamos perder tempo. Pode me ensinar algumas coisas, Plachta?"
         },
         {
             "type": 0x2,
@@ -18,7 +18,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x1,
-            "msg_string": "You're quite enthusiastic."
+            "msg_string": "Você está bastante entusiasmada."
         },
         {
             "type": 0x2,
@@ -27,7 +27,7 @@
             "extra_id": 0x46,
             "expr_id": 0x0,
             "msg_id": 0x2,
-            "msg_string": "Yeah! I don't want to be a novice forever!"
+            "msg_string": "Sim! Não quero ser uma novata para sempre!"
         },
         {
             "type": 0x2,
@@ -35,7 +35,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x3,
-            "msg_string": "Hehe... Very well, try Synthesizing something first."
+            "msg_string": "Hehe... Muito bem, tente Sintetizar algo primeiro."
         },
         {
             "type": 0x2,
@@ -44,7 +44,7 @@
             "extra_id": 0x47,
             "expr_id": 0x0,
             "msg_id": 0x4,
-            "msg_string": "Synthesis? I can do that!"
+            "msg_string": "Síntese? Isso eu sei fazer!"
         },
         {
             "type": 0x2,
@@ -52,7 +52,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0x5,
-            "msg_string": "Let's see, materials, materials... Oh."
+            "msg_string": "Vamos ver, materiais, materiais... Oh."
         },
         {
             "type": 0x2,
@@ -60,7 +60,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x6,
-            "msg_string": "What's wrong?"
+            "msg_string": "O que foi?"
         },
         {
             "type": 0x2,
@@ -69,7 +69,7 @@
             "extra_id": 0x25,
             "expr_id": 0x4,
             "msg_id": 0x7,
-            "msg_string": "I used all my materials when I made that Berg Medicine... I have nothing left."
+            "msg_string": "Usei todos os meus materiais quando fiz aquele Remédio Berg... Não sobrou nada."
         },
         {
             "type": 0x2,
@@ -77,7 +77,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x8,
-            "msg_string": "Then it seems you need to gather some. Is there a place nearby where you can do that?"
+            "msg_string": "Então parece que você precisa coletar alguns. Há algum lugar próximo onde possa fazer isso?"
         },
         {
             "type": 0x2,
@@ -86,7 +86,7 @@
             "extra_id": 0x3c,
             "expr_id": 0x0,
             "msg_id": 0x9,
-            "msg_string": "Yeah, I know of a place, but... Puni appear there, so I'm scared to go alone..."
+            "msg_string": "Sim, conheço um lugar, mas... Puni aparecem lá, então tenho medo de ir sozinha..."
         },
         {
             "type": 0x2,
@@ -95,7 +95,7 @@
             "extra_id": 0x30,
             "expr_id": 0x0,
             "msg_id": 0xa,
-            "msg_string": "Oh, right. I can have Monika come with me."
+            "msg_string": "Ah, certo. Posso pedir para a Monika vir comigo."
         },
         {
             "type": 0x2,
@@ -103,7 +103,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0xb,
-            "msg_string": "Monika? Is that the girl who was with you yesterday?"
+            "msg_string": "Monika? É aquela garota que estava com você ontem?"
         },
         {
             "type": 0x2,
@@ -112,7 +112,7 @@
             "extra_id": 0x40,
             "expr_id": 0x0,
             "msg_id": 0xc,
-            "msg_string": "Yeah. She's actually really strong!"
+            "msg_string": "Sim. Na verdade, ela é bem forte!"
         },
         {
             "type": 0x2,
@@ -120,7 +120,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0xd,
-            "msg_string": "I see, then you should be safe. Very well, please be careful."
+            "msg_string": "Entendo, então você deve estar segura. Muito bem, por favor, tome cuidado."
         },
         {
             "type": 0x2,
@@ -129,7 +129,7 @@
             "extra_id": 0x34,
             "expr_id": 0x0,
             "msg_id": 0xe,
-            "msg_string": "Huh? You're not coming too?"
+            "msg_string": "Hã? Você não vem também?"
         },
         {
             "type": 0x2,
@@ -137,7 +137,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0xf,
-            "msg_string": "As you can see, even if I was to go, I wouldn't be able to fight. Seeing how I'm a book and all."
+            "msg_string": "Como pode ver, mesmo que eu fosse, não conseguiria lutar. Já que sou um livro, afinal."
         },
         {
             "type": 0x2,
@@ -146,7 +146,7 @@
             "extra_id": 0x3c,
             "expr_id": 0x0,
             "msg_id": 0x10,
-            "msg_string": "Oh, that's right. Okay, I'll be off then!"
+            "msg_string": "Ah, é mesmo. Certo, vou indo então!"
         },
         {
             "type": 0x2,
@@ -154,7 +154,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x11,
-            "msg_string": "Yes. Try to come back quickly. Time is finite, after all."
+            "msg_string": "Sim. Tente voltar rápido. O tempo é finito, afinal."
         },
         {
             "type": 0x2,
@@ -162,7 +162,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x12,
-            "msg_string": "If you take too long, I won't have as much time to teach you alchemy."
+            "msg_string": "Se demorar muito, não terei tanto tempo para lhe ensinar alquimia."
         },
         {
             "type": 0x2,
@@ -171,7 +171,7 @@
             "extra_id": 0x17,
             "expr_id": 0x2,
             "msg_id": 0x13,
-            "msg_string": "Ahaha, you're right. Okay, I'll try to hurry back!"
+            "msg_string": "Ahaha, você tem razão. Certo, vou tentar voltar depressa!"
         }
     ]
 }

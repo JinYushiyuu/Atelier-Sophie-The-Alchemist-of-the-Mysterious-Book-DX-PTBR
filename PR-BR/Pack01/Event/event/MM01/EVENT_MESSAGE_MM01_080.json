@@ -9,7 +9,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0x0,
-            "msg_string": "Whew, I worked hard today... Huh?"
+            "msg_string": "Ufa, trabalhei duro hoje... Hã?"
         },
         {
             "type": 0x5,
@@ -19,7 +19,7 @@
             "expr_id": 0xffffffff,
             "msg_id": 0x1,
             "unknown2": 0x2,
-            "msg_string": "Whaaaaaaat!? That book is floating!? I-I didn't think books could do that!"
+            "msg_string": "O quêêêêêêê!? Aquele livro está flutuando!? E-Eu não sabia que livros podiam fazer isso!"
         },
         {
             "type": 0x5,
@@ -29,7 +29,7 @@
             "expr_id": 0xffffffff,
             "msg_id": 0x2,
             "unknown2": 0x2,
-            "msg_string": "...You just got home, and you're already so loud."
+            "msg_string": "...Você acabou de chegar em casa, e já está fazendo tanto barulho."
         },
         {
             "type": 0x5,
@@ -39,7 +39,7 @@
             "expr_id": 0xffffffff,
             "msg_id": 0x3,
             "unknown2": 0x2,
-            "msg_string": "Oh, sorry! ...Wait, what? Did the book just... Talk?"
+            "msg_string": "Oh, desculpe! ...Espere, o quê? O livro acabou de... falar?"
         },
         {
             "type": 0x5,
@@ -49,7 +49,7 @@
             "expr_id": 0xffffffff,
             "msg_id": 0x4,
             "unknown2": 0x2,
-            "msg_string": "Yes, I talked."
+            "msg_string": "Sim, eu falei."
         },
         {
             "type": 0x5,
@@ -59,7 +59,7 @@
             "expr_id": 0xffffffff,
             "msg_id": 0x5,
             "unknown2": 0x2,
-            "msg_string": "Whaaaaat!? The book...! The book is talking!?"
+            "msg_string": "O quêêêêêê!? O livro...! O livro está falando!?"
         },
         {
             "type": 0x5,
@@ -69,7 +69,7 @@
             "expr_id": 0xffffffff,
             "msg_id": 0x6,
             "unknown2": 0x2,
-            "msg_string": "Please just calm down. People are able to talk. It's not strange for a book to talk too."
+            "msg_string": "Por favor, acalme-se. As pessoas conseguem falar. Não é estranho um livro falar também."
         },
         {
             "type": 0x5,
@@ -79,7 +79,7 @@
             "expr_id": 0xffffffff,
             "msg_id": 0x7,
             "unknown2": 0x2,
-            "msg_string": "Huh? U-um, I don't think that's how it works..."
+            "msg_string": "Hã? H-hum, acho que não é assim que funciona..."
         },
         {
             "type": 0x2,
@@ -88,7 +88,7 @@
             "extra_id": 0x2b,
             "expr_id": 0x4,
             "msg_id": 0x8,
-            "msg_string": "Um... So you're that reference book from earlier, right? The one I wrote in."
+            "msg_string": "Hum... Então você é aquele livro de referência de antes, certo? Aquele em que eu escrevi."
         },
         {
             "type": 0x2,
@@ -96,7 +96,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x9,
-            "msg_string": "Yes. I'm Plachta."
+            "msg_string": "Sim. Sou Plachta."
         },
         {
             "type": 0x2,
@@ -105,7 +105,7 @@
             "extra_id": 0x2d,
             "expr_id": 0x4,
             "msg_id": 0xa,
-            "msg_string": "Oh, you have a name... I'm Sophie."
+            "msg_string": "Ah, você tem um nome... Sou Sophie."
         },
         {
             "type": 0x2,
@@ -113,7 +113,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0xb,
-            "msg_string": "Sophie? I shall remember that."
+            "msg_string": "Sophie? Vou me lembrar disso."
         },
         {
             "type": 0x2,
@@ -122,7 +122,7 @@
             "extra_id": 0x30,
             "expr_id": 0x0,
             "msg_id": 0xc,
-            "msg_string": "Um... Miss Plachta?"
+            "msg_string": "Hum... Senhorita Plachta?"
         },
         {
             "type": 0x2,
@@ -130,7 +130,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0xd,
-            "msg_string": "Just call me Plachta."
+            "msg_string": "Pode me chamar de Plachta."
         },
         {
             "type": 0x2,
@@ -139,7 +139,7 @@
             "extra_id": 0x40,
             "expr_id": 0x0,
             "msg_id": 0xe,
-            "msg_string": "Uh, okay. Um, Plachta... What exactly are you?"
+            "msg_string": "Uh, certo. Hum, Plachta... O que exatamente você é?"
         },
         {
             "type": 0x2,
@@ -147,7 +147,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0xf,
-            "msg_string": "A book."
+            "msg_string": "Um livro."
         },
         {
             "type": 0x2,
@@ -156,7 +156,7 @@
             "extra_id": 0x35,
             "expr_id": 0x0,
             "msg_id": 0x10,
-            "msg_string": "I can see that, but... You're a book, yet you're flying, and talking... It's really strange..."
+            "msg_string": "Isso eu vejo, mas... Você é um livro, e ainda assim está voando e falando... É muito estranho..."
         },
         {
             "type": 0x2,
@@ -164,7 +164,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x11,
-            "msg_string": "It's true that I'm different from an ordinary book. That's because I..."
+            "msg_string": "É verdade que sou diferente de um livro comum. Isso porque eu..."
         },
         {
             "type": 0x2,
@@ -172,7 +172,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x12,
-            "msg_string": "I... That's strange, I can't remember. What exactly am I?"
+            "msg_string": "Eu... Isso é estranho, não consigo me lembrar. O que exatamente eu sou?"
         },
         {
             "type": 0x2,
@@ -180,7 +180,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0x13,
-            "msg_string": "Um, that's what I want to know..."
+            "msg_string": "Hum, é isso que eu quero saber..."
         },
         {
             "type": 0x2,
@@ -189,7 +189,7 @@
             "extra_id": 0x2f,
             "expr_id": 0x4,
             "msg_id": 0x14,
-            "msg_string": "Wait, Plachta... Do you not have any memories?"
+            "msg_string": "Espere, Plachta... Você não tem nenhuma memória?"
         },
         {
             "type": 0x2,
@@ -197,7 +197,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x15,
-            "msg_string": "It seems so. I can remember that I'm related to alchemy, though."
+            "msg_string": "Parece que sim. Mas eu me lembro que estou relacionada à alquimia."
         },
         {
             "type": 0x2,
@@ -206,7 +206,7 @@
             "extra_id": 0x1b,
             "expr_id": 0x2,
             "msg_id": 0x16,
-            "msg_string": "Alchemy!? Then I might be able to help! I'm actually an alchemist!"
+            "msg_string": "Alquimia!? Então talvez eu possa ajudar! Na verdade, sou alquimista!"
         },
         {
             "type": 0x2,
@@ -214,7 +214,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x17,
-            "msg_string": "Yes, I know. A novice alchemist who doesn't even know how to produce Berg Medicine."
+            "msg_string": "Sim, eu sei. Uma alquimista novata que nem sabe como produzir Remédio Berg."
         },
         {
             "type": 0x2,
@@ -223,7 +223,7 @@
             "extra_id": 0x26,
             "expr_id": 0x3,
             "msg_id": 0x18,
-            "msg_string": "Uu, so you saw that... B-but, I can make it now..."
+            "msg_string": "Uu, então você viu isso... M-mas, eu consigo fazer agora..."
         },
         {
             "type": 0x2,
@@ -231,7 +231,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x19,
-            "msg_string": "Even a child could make that if they studied a little bit."
+            "msg_string": "Até uma criança poderia fazer isso se estudasse um pouco."
         },
         {
             "type": 0x2,
@@ -240,7 +240,7 @@
             "extra_id": 0x27,
             "expr_id": 0x3,
             "msg_id": 0x1a,
-            "msg_string": "Gah! B-but, but! Mr. Horst praised me for it, saying it was really well made!"
+            "msg_string": "Gah! M-mas, mas! O Sr. Horst me elogiou por isso, dizendo que estava muito bem feito!"
         },
         {
             "type": 0x2,
@@ -248,7 +248,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x1b,
-            "msg_string": "From my point of view, it didn't appear particularly excellent in any way."
+            "msg_string": "Do meu ponto de vista, não pareceu particularmente excelente de forma alguma."
         },
         {
             "type": 0x2,
@@ -257,7 +257,7 @@
             "extra_id": 0x28,
             "expr_id": 0x3,
             "msg_id": 0x1c,
-            "msg_string": "... Yeah, I'm terrible at alchemy. I make lots of mistakes, and I can't make lots of things."
+            "msg_string": "... Sim, sou terrível em alquimia. Cometo muitos erros, e não consigo fazer muitas coisas."
         },
         {
             "type": 0x2,
@@ -266,7 +266,7 @@
             "extra_id": 0x21,
             "expr_id": 0x4,
             "msg_id": 0x1d,
-            "msg_string": "I can't help the people around town like my grandma was able to..."
+            "msg_string": "Não consigo ajudar as pessoas da cidade como minha avó conseguia..."
         },
         {
             "type": 0x2,
@@ -274,7 +274,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x1e,
-            "msg_string": "...Do you wish to become better?"
+            "msg_string": "...Você deseja se tornar melhor?"
         },
         {
             "type": 0x2,
@@ -283,7 +283,7 @@
             "extra_id": 0x23,
             "expr_id": 0x4,
             "msg_id": 0x1f,
-            "msg_string": "...Huh?"
+            "msg_string": "...Hã?"
         },
         {
             "type": 0x2,
@@ -291,7 +291,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x20,
-            "msg_string": "I'm asking you if you wish to become better at alchemy."
+            "msg_string": "Estou perguntando se você deseja se tornar melhor em alquimia."
         },
         {
             "type": 0x2,
@@ -300,7 +300,7 @@
             "extra_id": 0x3c,
             "expr_id": 0x0,
             "msg_id": 0x21,
-            "msg_string": "Of course I do. I would, if I could..."
+            "msg_string": "Claro que sim. Eu faria, se pudesse..."
         },
         {
             "type": 0x2,
@@ -308,7 +308,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x22,
-            "msg_string": "There is a device called the \"Cauldron of Knowledge\". It allows anyone to use the power of alchemy."
+            "msg_string": "Existe um dispositivo chamado \"Caldeirão do Conhecimento\". Ele permite que qualquer pessoa use o poder da alquimia."
         },
         {
             "type": 0x2,
@@ -316,7 +316,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x23,
-            "msg_string": "With that, you would be able to make free use of alchemy, as you so desire."
+            "msg_string": "Com ele, você seria capaz de usar livremente a alquimia, como deseja."
         },
         {
             "type": 0x2,
@@ -325,7 +325,7 @@
             "extra_id": 0x1c,
             "expr_id": 0x3,
             "msg_id": 0x24,
-            "msg_string": "There's an amazing device like that!? I want it! Where can I find it!?"
+            "msg_string": "Existe um dispositivo incrível assim!? Eu quero! Onde posso encontrá-lo!?"
         },
         {
             "type": 0x2,
@@ -333,7 +333,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x25,
-            "msg_string": "The \"Cauldron of Knowledge\" is... This is strange."
+            "msg_string": "O \"Caldeirão do Conhecimento\" é... Isso é estranho."
         },
         {
             "type": 0x2,
@@ -342,7 +342,7 @@
             "extra_id": 0x1e,
             "expr_id": 0x3,
             "msg_id": 0x26,
-            "msg_string": "...Oh no, don't tell me... Plachta, you forgot where the Cauldron is?"
+            "msg_string": "...Ah não, não me diga... Plachta, você esqueceu onde está o Caldeirão?"
         },
         {
             "type": 0x2,
@@ -350,7 +350,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x27,
-            "msg_string": "...It seems so."
+            "msg_string": "...Parece que sim."
         },
         {
             "type": 0x2,
@@ -359,7 +359,7 @@
             "extra_id": 0x26,
             "expr_id": 0x3,
             "msg_id": 0x28,
-            "msg_string": "Whaaaaat!? Are you serious!?"
+            "msg_string": "O quêêêêêê!? Você está falando sério!?"
         },
         {
             "type": 0x2,
@@ -368,7 +368,7 @@
             "extra_id": 0x29,
             "expr_id": 0x3,
             "msg_id": 0x29,
-            "msg_string": "That's terrible! You got my hopes up, only to crush them!"
+            "msg_string": "Isso é terrível! Você me encheu de esperança, só para destruí-las!"
         },
         {
             "type": 0x2,
@@ -376,7 +376,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x2a,
-            "msg_string": "...I'm very sorry. But I can't remember at all."
+            "msg_string": "...Sinto muito. Mas não consigo me lembrar de nada."
         },
         {
             "type": 0x2,
@@ -384,7 +384,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x2b,
-            "msg_string": "...As compensation, I can teach you alchemy myself."
+            "msg_string": "...Como compensação, posso eu mesma lhe ensinar alquimia."
         },
         {
             "type": 0x2,
@@ -392,7 +392,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x2c,
-            "msg_string": "I may have lost my memories, but I'm confident that my knowledge of alchemy exceeds yours."
+            "msg_string": "Posso ter perdido minhas memórias, mas estou confiante de que meu conhecimento de alquimia excede o seu."
         },
         {
             "type": 0x2,
@@ -401,7 +401,7 @@
             "extra_id": 0x2f,
             "expr_id": 0x4,
             "msg_id": 0x2d,
-            "msg_string": "Hmm, you do seem pretty smart, and you probably do know more about alchemy than me..."
+            "msg_string": "Hmm, você parece bem inteligente, e provavelmente sabe mais sobre alquimia do que eu..."
         },
         {
             "type": 0x2,
@@ -409,7 +409,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0x2e,
-            "msg_string": "If you'll teach me, I'll gladly accept..."
+            "msg_string": "Se você me ensinar, aceitarei com prazer..."
         },
         {
             "type": 0x2,
@@ -417,7 +417,7 @@
             "name_id": 0x1,
             "expr_id": 0xffffffff,
             "msg_id": 0x2f,
-            "msg_string": "Very well. We'll be working together starting now, Sophie."
+            "msg_string": "Muito bem. Trabalharemos juntas a partir de agora, Sophie."
         },
         {
             "type": 0x2,
@@ -426,7 +426,7 @@
             "extra_id": 0x3c,
             "expr_id": 0x0,
             "msg_id": 0x30,
-            "msg_string": "Yeah! I look forward to it, Plachta!"
+            "msg_string": "Sim! Estou ansiosa por isso, Plachta!"
         }
     ]
 }

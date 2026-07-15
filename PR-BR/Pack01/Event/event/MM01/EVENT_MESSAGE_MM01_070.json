@@ -10,7 +10,7 @@
             "extra_id": 0x49,
             "expr_id": 0x0,
             "msg_id": 0x0,
-            "msg_string": "Alright, done! Monika, it's ready!"
+            "msg_string": "Certo, pronto! Monika, está pronto!"
         },
         {
             "type": 0x2,
@@ -19,7 +19,7 @@
             "extra_id": 0x26,
             "expr_id": 0x3,
             "msg_id": 0x1,
-            "msg_string": "Hm... That's amazing, it really is Berg Medicine..."
+            "msg_string": "Hm... Isso é incrível, é realmente Remédio Berg..."
         },
         {
             "type": 0x2,
@@ -28,7 +28,7 @@
             "extra_id": 0x28,
             "expr_id": 0x2,
             "msg_id": 0x2,
-            "msg_string": "Thank you, Sophie. You really helped me out."
+            "msg_string": "Obrigada, Sophie. Você me ajudou muito."
         },
         {
             "type": 0x2,
@@ -36,7 +36,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0x3,
-            "msg_string": "Don't worry about it. We're friends, right?"
+            "msg_string": "Não se preocupe. Somos amigas, certo?"
         },
         {
             "type": 0x2,
@@ -45,7 +45,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0x4,
-            "msg_string": "Hehe, right. Anyway, I'll take this over to Mr. Horst now."
+            "msg_string": "Hehe, certo. De qualquer forma, vou levar isso ao Sr. Horst agora."
         },
         {
             "type": 0x2,
@@ -54,7 +54,7 @@
             "extra_id": 0x2b,
             "expr_id": 0x4,
             "msg_id": 0x5,
-            "msg_string": "...Hey Monika. Do you mind if I go along?"
+            "msg_string": "...Ei Monika. Você se importa se eu for junto?"
         },
         {
             "type": 0x2,
@@ -63,7 +63,7 @@
             "extra_id": 0x5,
             "expr_id": 0x0,
             "msg_id": 0x6,
-            "msg_string": "Huh? I don't mind... But why?"
+            "msg_string": "Hã? Não me importo... Mas por quê?"
         },
         {
             "type": 0x2,
@@ -72,7 +72,7 @@
             "extra_id": 0x2d,
             "expr_id": 0x4,
             "msg_id": 0x7,
-            "msg_string": "I'm the one who made this medicine. If it turned out to be no good, it would mean trouble..."
+            "msg_string": "Fui eu que fiz esse remédio. Se não ficar bom, pode dar problema..."
         },
         {
             "type": 0x2,
@@ -81,7 +81,7 @@
             "extra_id": 0x2f,
             "expr_id": 0x4,
             "msg_id": 0x8,
-            "msg_string": "Hmm, I think it's fine, but... Well, it couldn't hurt. Let's go."
+            "msg_string": "Hmm, acho que está bem, mas... Bem, não custa nada. Vamos."
         },
         {
             "type": 0x2,
@@ -90,7 +90,7 @@
             "extra_id": 0x3c,
             "expr_id": 0x0,
             "msg_id": 0x9,
-            "msg_string": "Yeah... Oh, just a minute!"
+            "msg_string": "Sim... Ah, só um minuto!"
         },
         {
             "type": 0x2,
@@ -98,7 +98,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0xa,
-            "msg_string": "I should write the recipe into the reference book, while it's still fresh in my mind."
+            "msg_string": "Devo escrever a receita no livro de referência, enquanto ainda está fresca na memória."
         },
         {
             "type": 0x2,
@@ -106,7 +106,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0xb,
-            "msg_string": "Sorry for the wait, Monika. Anyway, let's go see Mr. Horst!"
+            "msg_string": "Desculpe a demora, Monika. De qualquer forma, vamos ver o Sr. Horst!"
         },
         {
             "type": 0x2,
@@ -114,7 +114,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0xc,
-            "msg_string": "Mr. Horst!"
+            "msg_string": "Sr. Horst!"
         },
         {
             "type": 0x2,
@@ -123,7 +123,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0xd,
-            "msg_string": "Ah, you two. Do you need anything?"
+            "msg_string": "Ah, vocês duas. Precisam de algo?"
         },
         {
             "type": 0x2,
@@ -131,7 +131,7 @@
             "name_id": 0x2,
             "expr_id": 0x0,
             "msg_id": 0xe,
-            "msg_string": "Mr. Horst. I've brought the Berg Medicine you requested."
+            "msg_string": "Sr. Horst. Trouxe o Remédio Berg que o senhor pediu."
         },
         {
             "type": 0x2,
@@ -140,7 +140,7 @@
             "extra_id": 0x3e,
             "expr_id": 0x0,
             "msg_id": 0xf,
-            "msg_string": "Oh, thank you very much for bringing it so quickly, Monika."
+            "msg_string": "Oh, muito obrigado por trazer tão rápido, Monika."
         },
         {
             "type": 0x2,
@@ -149,7 +149,7 @@
             "extra_id": 0x3d,
             "expr_id": 0x0,
             "msg_id": 0x10,
-            "msg_string": "Well... Actually, Sophie made it. I couldn't find any Berg Medicine myself..."
+            "msg_string": "Bem... Na verdade, a Sophie que fez. Eu não consegui encontrar nenhum Remédio Berg..."
         },
         {
             "type": 0x2,
@@ -158,7 +158,7 @@
             "extra_id": 0x5,
             "expr_id": 0x0,
             "msg_id": 0x11,
-            "msg_string": "Sophie, you made this?"
+            "msg_string": "Sophie, você fez isso?"
         },
         {
             "type": 0x2,
@@ -167,7 +167,7 @@
             "extra_id": 0x3c,
             "expr_id": 0x0,
             "msg_id": 0x12,
-            "msg_string": "Yes. Um... Is there something wrong with it?"
+            "msg_string": "Sim. Hum... Tem algo errado com ele?"
         },
         {
             "type": 0x2,
@@ -176,7 +176,7 @@
             "extra_id": 0x3d,
             "expr_id": 0x0,
             "msg_id": 0x13,
-            "msg_string": "Not at all! In fact, it's quite rare to see Berg Medicine as fine as this!"
+            "msg_string": "De forma alguma! Na verdade, é muito raro ver um Remédio Berg tão bom quanto este!"
         },
         {
             "type": 0x2,
@@ -185,7 +185,7 @@
             "extra_id": 0x2b,
             "expr_id": 0x4,
             "msg_id": 0x14,
-            "msg_string": "It seems your skills with alchemy are improving quite a bit, Sophie."
+            "msg_string": "Parece que suas habilidades com alquimia estão melhorando bastante, Sophie."
         },
         {
             "type": 0x2,
@@ -203,7 +203,7 @@
             "extra_id": 0x2d,
             "expr_id": 0x4,
             "msg_id": 0x16,
-            "msg_string": "You two have been very helpful. Here's your payment."
+            "msg_string": "Vocês duas foram muito úteis. Aqui está o pagamento."
         },
         {
             "type": 0x3,
@@ -212,7 +212,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Received 200 Cole."
+            "msg_string": "Recebeu 200 Cole."
         },
         {
             "type": 0x2,
@@ -221,7 +221,7 @@
             "extra_id": 0x1b,
             "expr_id": 0x2,
             "msg_id": 0x18,
-            "msg_string": "Wow, thank you so much, Mr. Horst!"
+            "msg_string": "Uau, muito obrigada, Sr. Horst!"
         },
         {
             "type": 0x2,
@@ -230,7 +230,7 @@
             "extra_id": 0x21,
             "expr_id": 0x4,
             "msg_id": 0x19,
-            "msg_string": "Um... I didn't really do anything. I can't accept this..."
+            "msg_string": "Hum... Eu não fiz nada, na verdade. Não posso aceitar isso..."
         },
         {
             "type": 0x2,
@@ -239,7 +239,7 @@
             "extra_id": 0x3d,
             "expr_id": 0x0,
             "msg_id": 0x1a,
-            "msg_string": "No, no, I'm the one who made such a sudden request. Think of it as a payment for your time, I insist."
+            "msg_string": "Não, não, fui eu que fiz um pedido tão repentino. Considere como um pagamento pelo seu tempo, eu insisto."
         },
         {
             "type": 0x2,
@@ -248,7 +248,7 @@
             "extra_id": 0x23,
             "expr_id": 0x4,
             "msg_id": 0x1b,
-            "msg_string": "...Very well, I'll accept it gratefully."
+            "msg_string": "...Muito bem, aceitarei com gratidão."
         },
         {
             "type": 0x2,
@@ -257,7 +257,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0x1c,
-            "msg_string": "Thank you too, Sophie."
+            "msg_string": "Obrigada a você também, Sophie."
         },
         {
             "type": 0x2,
@@ -266,7 +266,7 @@
             "extra_id": 0x3,
             "expr_id": 0x0,
             "msg_id": 0x1d,
-            "msg_string": "If you're ever troubled by anything, just ask. I'll do whatever I can to help."
+            "msg_string": "Se algum dia tiver problemas com qualquer coisa, é só pedir. Farei o que puder para ajudar."
         },
         {
             "type": 0x2,
@@ -275,7 +275,7 @@
             "extra_id": 0x5,
             "expr_id": 0x0,
             "msg_id": 0x1e,
-            "msg_string": "Anyway, I'll get going now. Have a good day Mr. Horst, Sophie."
+            "msg_string": "De qualquer forma, vou indo agora. Tenha um bom dia, Sr. Horst, Sophie."
         },
         {
             "type": 0x2,
@@ -284,7 +284,7 @@
             "extra_id": 0x42,
             "expr_id": 0x0,
             "msg_id": 0x1f,
-            "msg_string": "Yes, have a good day."
+            "msg_string": "Sim, tenha um bom dia."
         }
     ]
 }

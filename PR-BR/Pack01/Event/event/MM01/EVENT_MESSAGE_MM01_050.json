@@ -10,7 +10,7 @@
             "extra_id": 0x2f,
             "expr_id": 0x4,
             "msg_id": 0x0,
-            "msg_string": "Hmm... I can't find it... Wait, what's this book?"
+            "msg_string": "Hmm... Não consigo encontrar... Espere, que livro é esse?"
         },
         {
             "type": 0x2,
@@ -18,7 +18,7 @@
             "name_id": 0x2,
             "expr_id": 0x0,
             "msg_id": 0x1,
-            "msg_string": "What's wrong?"
+            "msg_string": "O que foi?"
         },
         {
             "type": 0x2,
@@ -27,7 +27,7 @@
             "extra_id": 0x62,
             "expr_id": 0x3,
             "msg_id": 0x2,
-            "msg_string": "It's just that there's a book here that I don't recognize..."
+            "msg_string": "É que tem um livro aqui que eu não reconheço..."
         },
         {
             "type": 0x2,
@@ -36,7 +36,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0x3,
-            "msg_string": "It has a very elegant binding. I wonder what's inside?"
+            "msg_string": "Tem uma encadernação muito elegante. O que será que tem dentro?"
         },
         {
             "type": 0x2,
@@ -45,7 +45,7 @@
             "extra_id": 0x62,
             "expr_id": 0x0,
             "msg_id": 0x4,
-            "msg_string": "Let's take a look. Hmm..."
+            "msg_string": "Vamos dar uma olhada. Hmm..."
         },
         {
             "type": 0x2,
@@ -54,7 +54,7 @@
             "extra_id": 0x63,
             "expr_id": 0x0,
             "msg_id": 0x5,
-            "msg_string": "I see, I see. Ah, this is a reference book for alchemy."
+            "msg_string": "Entendo, entendo. Ah, este é um livro de referência para alquimia."
         },
         {
             "type": 0x2,
@@ -63,7 +63,7 @@
             "extra_id": 0x63,
             "expr_id": 0x0,
             "msg_id": 0x6,
-            "msg_string": "But only the beginning is... The rest of it is all blank pages. Maybe grandma was writing it?"
+            "msg_string": "Mas só o começo está... O resto são páginas em branco. Talvez a vovó estivesse escrevendo?"
         },
         {
             "type": 0x2,
@@ -72,7 +72,7 @@
             "extra_id": 0x5,
             "expr_id": 0x0,
             "msg_id": 0x7,
-            "msg_string": "Hm, I see..."
+            "msg_string": "Hm, entendo..."
         },
         {
             "type": 0x2,
@@ -81,7 +81,7 @@
             "extra_id": 0x63,
             "expr_id": 0x0,
             "msg_id": 0x8,
-            "msg_string": "Yeah. Anyway, Monika. After looking at this, I suddenly remembered!"
+            "msg_string": "Sim. De qualquer forma, Monika. Depois de olhar isso, de repente me lembrei!"
         },
         {
             "type": 0x2,
@@ -90,7 +90,7 @@
             "extra_id": 0x2b,
             "expr_id": 0x4,
             "msg_id": 0x9,
-            "msg_string": "Huh? Remembered what?"
+            "msg_string": "Hã? Lembrou do quê?"
         },
         {
             "type": 0x2,
@@ -99,7 +99,7 @@
             "extra_id": 0x17,
             "expr_id": 0x2,
             "msg_id": 0xa,
-            "msg_string": "How to make the Berg Medicine! The thing you were asking about!"
+            "msg_string": "Como fazer o Remédio Berg! Aquilo que você estava perguntando!"
         },
         {
             "type": 0x2,
@@ -108,7 +108,7 @@
             "extra_id": 0x2d,
             "expr_id": 0x4,
             "msg_id": 0xb,
-            "msg_string": "Really? You think you can make it?"
+            "msg_string": "Sério? Você acha que consegue fazer?"
         },
         {
             "type": 0x2,
@@ -117,7 +117,7 @@
             "extra_id": 0x19,
             "expr_id": 0x2,
             "msg_id": 0xc,
-            "msg_string": "Of course! I have enough materials, so I can mix it up real quick now!"
+            "msg_string": "Claro! Tenho materiais suficientes, então posso preparar rapidinho agora!"
         },
         {
             "type": 0x2,
@@ -126,7 +126,7 @@
             "extra_id": 0x3c,
             "expr_id": 0x0,
             "msg_id": 0xd,
-            "msg_string": "Yes, please do so... Just be careful not to make another mistake, okay?"
+            "msg_string": "Sim, por favor... Só tome cuidado para não errar de novo, ok?"
         },
         {
             "type": 0x2,
@@ -135,7 +135,7 @@
             "extra_id": 0x45,
             "expr_id": 0x0,
             "msg_id": 0xe,
-            "msg_string": "I'll be fine! Just leave it to me!"
+            "msg_string": "Vou ficar bem! Pode deixar comigo!"
         },
         {
             "type": 0x3,
@@ -144,7 +144,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "You can Synthesize items by accessing the Alchemy Cauldron."
+            "msg_string": "Você pode Sintetizar itens acessando o Caldeirão de Alquimia."
         },
         {
             "type": 0x3,
@@ -153,7 +153,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Accessing this desk allows you to save and load the game."
+            "msg_string": "Acessar esta mesa permite salvar e carregar o jogo."
         },
         {
             "type": 0x3,
@@ -162,7 +162,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "You can set the time to whenever you like by sleeping in the bed."
+            "msg_string": "Você pode ajustar o horário para quando quiser dormindo na cama."
         },
         {
             "type": 0x3,
@@ -171,7 +171,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "If you return to the atelier late at night, you will automatically rest until morning."
+            "msg_string": "Se você retornar ao ateliê tarde da noite, descansará automaticamente até de manhã."
         }
     ]
 }

@@ -10,7 +10,7 @@
             "extra_id": 0x17,
             "expr_id": 0x2,
             "msg_id": 0x0,
-            "msg_string": "Ahh, the fresh air is great. I feel like I haven't been outside of town in a long time."
+            "msg_string": "Ahh, o ar fresco é ótimo. Sinto que não saio da cidade há muito tempo."
         },
         {
             "type": 0x2,
@@ -19,7 +19,7 @@
             "extra_id": 0x20,
             "expr_id": 0x3,
             "msg_id": 0x1,
-            "msg_string": "Sophie, you need to be more careful. We have no idea when monsters could appear."
+            "msg_string": "Sophie, você precisa tomar mais cuidado. Não temos ideia de quando monstros podem aparecer."
         },
         {
             "type": 0x2,
@@ -28,7 +28,7 @@
             "extra_id": 0x19,
             "expr_id": 0x2,
             "msg_id": 0x2,
-            "msg_string": "I know... Wait? Is someone over there...?"
+            "msg_string": "Eu sei... Espere? Tem alguém ali...?"
         },
         {
             "type": 0x2,
@@ -36,7 +36,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0x3,
-            "msg_string": "That's... Heeey, Oskar!"
+            "msg_string": "Aquele é... Heeey, Oskar!"
         },
         {
             "type": 0x2,
@@ -45,7 +45,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0x4,
-            "msg_string": "Oh, Sophie and Monika. What are you doing out here?"
+            "msg_string": "Oh, Sophie e Monika. O que vocês estão fazendo aqui?"
         },
         {
             "type": 0x2,
@@ -54,7 +54,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0x5,
-            "msg_string": "We're here to gather alchemy materials. What about you?"
+            "msg_string": "Estamos aqui para coletar materiais de alquimia. E você?"
         },
         {
             "type": 0x2,
@@ -63,7 +63,7 @@
             "extra_id": 0x3,
             "expr_id": 0x0,
             "msg_id": 0x6,
-            "msg_string": "I came to observe the plants. The plants here tell some interesting stories."
+            "msg_string": "Vim observar as plantas. As plantas daqui contam histórias interessantes."
         },
         {
             "type": 0x2,
@@ -72,7 +72,7 @@
             "extra_id": 0x43,
             "expr_id": 0x3,
             "msg_id": 0x7,
-            "msg_string": "Oskar, don't tell me you were talking to plants again?"
+            "msg_string": "Oskar, não me diga que você estava falando com plantas de novo?"
         },
         {
             "type": 0x2,
@@ -81,7 +81,7 @@
             "extra_id": 0x3,
             "expr_id": 0x0,
             "msg_id": 0x8,
-            "msg_string": "That's exactly what I was doing. What's weird about that? To me, it's weirder not to be able to talk to plants."
+            "msg_string": "Exatamente o que eu estava fazendo. O que há de estranho nisso? Para mim, é mais estranho não conseguir falar com plantas."
         },
         {
             "type": 0x2,
@@ -89,7 +89,7 @@
             "name_id": 0x2,
             "expr_id": 0x3,
             "msg_id": 0x9,
-            "msg_string": "...Yeah, you were always like this. I don't really intend to argue after all this time."
+            "msg_string": "...Sim, você sempre foi assim. Não pretendo discutir depois de tanto tempo."
         },
         {
             "type": 0x2,
@@ -98,7 +98,7 @@
             "extra_id": 0x5,
             "expr_id": 0x3,
             "msg_id": 0xa,
-            "msg_string": "That sounded vaguely like an insult..."
+            "msg_string": "Isso soou vagamente como um insulto..."
         },
         {
             "type": 0x2,
@@ -107,7 +107,7 @@
             "extra_id": 0x5,
             "expr_id": 0x0,
             "msg_id": 0xb,
-            "msg_string": "Oh, right. Oskar, Mrs. Marguerite was looking for you."
+            "msg_string": "Ah, sim. Oskar, a Sra. Marguerite estava procurando por você."
         },
         {
             "type": 0x2,
@@ -116,7 +116,7 @@
             "extra_id": 0x2a,
             "expr_id": 0x3,
             "msg_id": 0xc,
-            "msg_string": "Gah, oh crap! I totally forgot about my delivery! Mom's going to scold me!"
+            "msg_string": "Gah, droga! Esqueci completamente da minha entrega! Minha mãe vai me dar uma bronca!"
         },
         {
             "type": 0x2,
@@ -125,7 +125,7 @@
             "extra_id": 0x2f,
             "expr_id": 0x4,
             "msg_id": 0xd,
-            "msg_string": "This is your own fault. Just accept it, Oskar."
+            "msg_string": "A culpa é sua. Apenas aceite, Oskar."
         },
         {
             "type": 0x2,
@@ -133,7 +133,7 @@
             "name_id": 0x3,
             "expr_id": 0x0,
             "msg_id": 0xe,
-            "msg_string": "Huh, what was that sound?"
+            "msg_string": "Huh, que som foi esse?"
         },
         {
             "type": 0x2,
@@ -151,7 +151,7 @@
             "extra_id": 0x1c,
             "expr_id": 0x3,
             "msg_id": 0x10,
-            "msg_string": "Sophie, stand back! Oskar, you can fight, right?"
+            "msg_string": "Sophie, fique atrás! Oskar, você sabe lutar, certo?"
         },
         {
             "type": 0x2,
@@ -160,7 +160,7 @@
             "extra_id": 0x26,
             "expr_id": 0x3,
             "msg_id": 0x11,
-            "msg_string": "W-what!? W-wait a second! I'm not prepared for this..."
+            "msg_string": "O-o quê!? E-espere um segundo! Não estou preparado para isso..."
         },
         {
             "type": 0x2,
@@ -169,7 +169,7 @@
             "extra_id": 0x1d,
             "expr_id": 0x3,
             "msg_id": 0x12,
-            "msg_string": "Here they come!"
+            "msg_string": "Lá vêm eles!"
         },
         {
             "type": 0x3,
@@ -178,7 +178,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Would you like to view the explanation for battles?"
+            "msg_string": "Gostaria de ver a explicação sobre batalhas?"
         },
         {
             "type": 0x3,
@@ -187,7 +187,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "In battle, enemies and allies will take turns performing actions."
+            "msg_string": "Na batalha, inimigos e aliados se revezarão realizando ações."
         },
         {
             "type": 0x3,
@@ -196,7 +196,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Once the enemy actions are determined, you will be able to select actions for your party."
+            "msg_string": "Uma vez determinadas as ações inimigas, você poderá selecionar ações para o seu grupo."
         },
         {
             "type": 0x3,
@@ -205,7 +205,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "You can use commands for various actions. Select with <IM10>, then press <IM00> to confirm."
+            "msg_string": "Você pode usar comandos para várias ações. Selecione com <IM10> e pressione <IM00> para confirmar."
         },
         {
             "type": 0x3,
@@ -214,7 +214,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "The action order is displayed on the left, and go in order from the top."
+            "msg_string": "A ordem de ação é exibida à esquerda, e segue na ordem de cima para baixo."
         },
         {
             "type": 0x3,
@@ -223,7 +223,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "The order can often change, depending on actions performed."
+            "msg_string": "A ordem pode mudar frequentemente, dependendo das ações realizadas."
         },
         {
             "type": 0x3,
@@ -232,7 +232,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Furthermore, an important factor in battle is \"Stance\"."
+            "msg_string": "Além disso, um fator importante na batalha é a \"Postura\"."
         },
         {
             "type": 0x3,
@@ -241,7 +241,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "There are two types of Stances, \"Offense\" and \"Defense\"."
+            "msg_string": "Existem dois tipos de Posturas, \"Ofensiva\" e \"Defensiva\"."
         },
         {
             "type": 0x3,
@@ -250,7 +250,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "\"Stance\" can be switched anytime while selecting commands by pressing <IM11><IM15>, with different perks."
+            "msg_string": "A \"Postura\" pode ser alterada a qualquer momento durante a seleção de comandos pressionando <IM11><IM15>, com diferentes benefícios."
         },
         {
             "type": 0x3,
@@ -259,7 +259,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Choosing \"Offense\" will increase your attack power."
+            "msg_string": "Escolher \"Ofensiva\" aumentará seu poder de ataque."
         },
         {
             "type": 0x3,
@@ -268,7 +268,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "It also allows you to perform \"Support Attacks\", following up with additional attacks from other allies."
+            "msg_string": "Também permite realizar \"Ataques de Suporte\", seguindo com ataques adicionais de outros aliados."
         },
         {
             "type": 0x3,
@@ -277,7 +277,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Choosing \"Defense\" will increase your defense."
+            "msg_string": "Escolher \"Defensiva\" aumentará sua defesa."
         },
         {
             "type": 0x3,
@@ -286,7 +286,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "It also allows you to use \"Support Guard\", letting allies protect each other when being attacked by enemies."
+            "msg_string": "Também permite usar \"Guarda de Suporte\", permitindo que os aliados protejam uns aos outros quando atacados por inimigos."
         },
         {
             "type": 0x3,
@@ -295,7 +295,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Each support action will automatically be used when the Chain Link gauge is filled to 100%."
+            "msg_string": "Cada ação de suporte será usada automaticamente quando a barra de Elo de Corrente estiver cheia em 100%."
         },
         {
             "type": 0x3,
@@ -304,7 +304,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "The type of support action is determined by your current Stance."
+            "msg_string": "O tipo de ação de suporte é determinado pela sua Postura atual."
         },
         {
             "type": 0x3,
@@ -313,7 +313,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "You can gain an advantage in battle by checking the enemy's actions, and choosing the appropriate Stance."
+            "msg_string": "Você pode obter vantagem na batalha verificando as ações inimigas e escolhendo a Postura adequada."
         },
         {
             "type": 0x3,
@@ -322,7 +322,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Make good use of the information displayed in the turn list."
+            "msg_string": "Faça bom uso das informações exibidas na lista de turnos."
         },
         {
             "type": 0x3,
@@ -331,7 +331,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "You can view more details about battle under Help in the Encyclopedia."
+            "msg_string": "Você pode ver mais detalhes sobre batalha em Ajuda na Enciclopédia."
         }
     ]
 }

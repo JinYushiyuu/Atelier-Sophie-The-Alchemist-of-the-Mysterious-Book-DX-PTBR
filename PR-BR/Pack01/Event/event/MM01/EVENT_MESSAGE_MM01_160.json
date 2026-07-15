@@ -10,7 +10,7 @@
             "extra_id": 0x3c,
             "expr_id": 0x0,
             "msg_id": 0x0,
-            "msg_string": "Alright! This should be plenty."
+            "msg_string": "Certo! Isso deve ser o suficiente."
         },
         {
             "type": 0x2,
@@ -19,7 +19,7 @@
             "extra_id": 0x25,
             "expr_id": 0x4,
             "msg_id": 0x1,
-            "msg_string": "*Cough* *Wheeze*... Talk about using people..."
+            "msg_string": "*Tosse* *Chiado*... Isso é que é usar os outros..."
         },
         {
             "type": 0x2,
@@ -28,7 +28,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0x2,
-            "msg_string": "What should we do, Sophie? Want to look around a little more?"
+            "msg_string": "O que devemos fazer, Sophie? Quer dar mais uma olhada por aí?"
         },
         {
             "type": 0x2,
@@ -37,7 +37,7 @@
             "extra_id": 0x1c,
             "expr_id": 0x3,
             "msg_id": 0x3,
-            "msg_string": "Huh!? No way, that's enough! I'm exhausted..."
+            "msg_string": "Hã!? De jeito nenhum, já chega! Estou exausto..."
         },
         {
             "type": 0x2,
@@ -46,7 +46,7 @@
             "extra_id": 0x1e,
             "expr_id": 0x3,
             "msg_id": 0x4,
-            "msg_string": "And if we stick around too long, some dangerous monsters could appear."
+            "msg_string": "E se ficarmos por aqui tempo demais, alguns monstros perigosos podem aparecer."
         },
         {
             "type": 0x2,
@@ -55,7 +55,7 @@
             "extra_id": 0x30,
             "expr_id": 0x0,
             "msg_id": 0x5,
-            "msg_string": "Hm, Oskar might be right..."
+            "msg_string": "Hm, o Oskar pode ter razão..."
         },
         {
             "type": 0x2,
@@ -64,7 +64,7 @@
             "extra_id": 0x3,
             "expr_id": 0x0,
             "msg_id": 0x6,
-            "msg_string": "Okay then, let's head back."
+            "msg_string": "Certo então, vamos voltar."
         },
         {
             "type": 0x2,
@@ -73,7 +73,7 @@
             "extra_id": 0x40,
             "expr_id": 0x0,
             "msg_id": 0x7,
-            "msg_string": "Yeah. Oh, both of you should drop by the atelier. I'll make tea for you."
+            "msg_string": "Sim. Ah, vocês dois deveriam passar no ateliê. Vou fazer chá para vocês."
         },
         {
             "type": 0x2,
@@ -82,7 +82,7 @@
             "extra_id": 0x3,
             "expr_id": 0x0,
             "msg_id": 0x8,
-            "msg_string": "Oh really? Then we'll take you up on that offer. Right, Oskar?"
+            "msg_string": "Ah é? Então aceitamos o convite. Né, Oskar?"
         },
         {
             "type": 0x2,
@@ -91,7 +91,7 @@
             "extra_id": 0x21,
             "expr_id": 0x4,
             "msg_id": 0x9,
-            "msg_string": "Y-yeah... But first, let me catch my breath..."
+            "msg_string": "S-sim... Mas primeiro, deixa eu recuperar o fôlego..."
         },
         {
             "type": 0x3,
@@ -100,7 +100,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Would you like to view the explanation for changes in gathering fields?"
+            "msg_string": "Gostaria de ver a explicação sobre mudanças nos campos de coleta?"
         },
         {
             "type": 0x3,
@@ -109,7 +109,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Taking actions outside of town consumes LP."
+            "msg_string": "Realizar ações fora da cidade consome PV."
         },
         {
             "type": 0x3,
@@ -118,7 +118,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Losing LP will reduce your abilities. Try to avoid battles while low on LP."
+            "msg_string": "Perder PV reduzirá suas habilidades. Tente evitar batalhas quando estiver com PV baixo."
         },
         {
             "type": 0x3,
@@ -127,7 +127,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Also, exploring the same field multiple times will allow you to gather better materials."
+            "msg_string": "Além disso, explorar o mesmo campo várias vezes permitirá coletar materiais melhores."
         },
         {
             "type": 0x3,
@@ -136,7 +136,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "However, the enemies will also grow stronger, so be careful."
+            "msg_string": "No entanto, os inimigos também ficarão mais fortes, então tome cuidado."
         },
         {
             "type": 0x3,
@@ -145,7 +145,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "The time and weather can also affect the materials you gather, and the monsters that appear."
+            "msg_string": "A hora e o clima também podem afetar os materiais que você coleta, e os monstros que aparecem."
         },
         {
             "type": 0x3,
@@ -154,7 +154,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "You can view more details about field changes under Help in the Encyclopedia."
+            "msg_string": "Você pode ver mais detalhes sobre mudanças de campo em Ajuda na Enciclopédia."
         }
     ]
 }

@@ -10,7 +10,7 @@
             "extra_id": 0x22,
             "expr_id": 0x4,
             "msg_id": 0x0,
-            "msg_string": "Haah, haah... I-I thought I was going to die..."
+            "msg_string": "Haah, haah... E-Eu pensei que fosse morrer..."
         },
         {
             "type": 0x2,
@@ -18,7 +18,7 @@
             "name_id": 0x2,
             "expr_id": 0x0,
             "msg_id": 0x1,
-            "msg_string": "You both appear uninjured."
+            "msg_string": "Vocês dois parecem ilesos."
         },
         {
             "type": 0x2,
@@ -27,7 +27,7 @@
             "extra_id": 0x3c,
             "expr_id": 0x0,
             "msg_id": 0x2,
-            "msg_string": "Yeah, somehow... I didn't think they'd attack all of a sudden like that..."
+            "msg_string": "Sim, de alguma forma... Não achei que eles atacariam tão de repente assim..."
         },
         {
             "type": 0x2,
@@ -36,7 +36,7 @@
             "extra_id": 0x23,
             "expr_id": 0x4,
             "msg_id": 0x3,
-            "msg_string": "Hey, Oskar. Do you want to come with us? It's dangerous to be alone, monsters could attack again."
+            "msg_string": "Ei, Oskar. Você quer vir conosco? É perigoso ficar sozinho, monstros podem atacar de novo."
         },
         {
             "type": 0x2,
@@ -45,7 +45,7 @@
             "extra_id": 0x69,
             "expr_id": 0x0,
             "msg_id": 0x4,
-            "msg_string": "You're probably right. Alright, I'll go with you. I wouldn't want to get hurt, after all."
+            "msg_string": "Você provavelmente está certo. Tudo bem, vou com vocês. Afinal, não quero me machucar."
         },
         {
             "type": 0x2,
@@ -54,7 +54,7 @@
             "extra_id": 0x30,
             "expr_id": 0x0,
             "msg_id": 0x5,
-            "msg_string": "In that case, let's get started with the gathering. Oh, you need to help too, Oskar."
+            "msg_string": "Nesse caso, vamos começar a coleta. Ah, você precisa ajudar também, Oskar."
         },
         {
             "type": 0x2,
@@ -63,7 +63,7 @@
             "extra_id": 0x6b,
             "expr_id": 0x4,
             "msg_id": 0x6,
-            "msg_string": "What!? I never said I'd do that..."
+            "msg_string": "O quê!? Eu nunca disse que faria isso..."
         },
         {
             "type": 0x2,
@@ -72,7 +72,7 @@
             "extra_id": 0x34,
             "expr_id": 0x0,
             "msg_id": 0x7,
-            "msg_string": "We won't tell Mrs. Marguerite we saw you here. Okay?"
+            "msg_string": "Não contaremos para a Sra. Marguerite que vimos você aqui. Tudo bem?"
         },
         {
             "type": 0x2,
@@ -81,7 +81,7 @@
             "extra_id": 0x21,
             "expr_id": 0x4,
             "msg_id": 0x8,
-            "msg_string": "Uu, fine, I got it..."
+            "msg_string": "Uu, tudo bem, entendi..."
         },
         {
             "type": 0x3,
@@ -90,7 +90,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "\"<CLGR>Oskar<CLNR>\" joined your party."
+            "msg_string": "\"<CLGR>Oskar<CLNR>\" entrou no seu grupo."
         },
         {
             "type": 0x3,
@@ -99,7 +99,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Would you like to view the explanation for Gathering Points and Enemy Symbols?"
+            "msg_string": "Gostaria de ver a explicação sobre Pontos de Coleta e Símbolos de Inimigos?"
         },
         {
             "type": 0x3,
@@ -108,7 +108,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Pressing <IM00> next to a Gathering Point in the field will allow you to gather items."
+            "msg_string": "Pressionar <IM00> perto de um Ponto de Coleta no campo permitirá que você colete itens."
         },
         {
             "type": 0x3,
@@ -117,7 +117,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "However, monsters also dwell in most areas."
+            "msg_string": "No entanto, monstros também habitam na maioria das áreas."
         },
         {
             "type": 0x3,
@@ -126,7 +126,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "Touching an enemy symbol will start a battle."
+            "msg_string": "Tocar em um símbolo de inimigo iniciará uma batalha."
         },
         {
             "type": 0x3,
@@ -135,7 +135,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "If you hit the enemy by swinging your staff first, you will start the battle with an advantage."
+            "msg_string": "Se você acertar o inimigo balançando seu cajado primeiro, começará a batalha com vantagem."
         },
         {
             "type": 0x3,
@@ -144,7 +144,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "You can Swing by pressing <IM04>. Make good use of this."
+            "msg_string": "Você pode Balançar pressionando <IM04>. Faça bom uso disso."
         },
         {
             "type": 0x3,
@@ -153,7 +153,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0xffffffff,
-            "msg_string": "You can view more details about Gathering Points and Enemy Symbols under Help in the Encyclopedia."
+            "msg_string": "Você pode ver mais detalhes sobre Pontos de Coleta e Símbolos de Inimigos em Ajuda na Enciclopédia."
         }
     ]
 }

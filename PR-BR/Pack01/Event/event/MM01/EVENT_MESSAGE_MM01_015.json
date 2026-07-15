@@ -9,7 +9,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0x0,
-            "msg_string": "Now, back to work."
+            "msg_string": "Agora, de volta ao trabalho."
         },
         {
             "type": 0x2,
@@ -17,7 +17,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0x1,
-            "msg_string": "I need to put in the Puniball, and then add the Uni after boiling it for a little while..."
+            "msg_string": "Preciso colocar a Puniball, e então adicionar a Uni depois de fervê-la um pouco..."
         },
         {
             "type": 0x2,
@@ -25,7 +25,7 @@
             "name_id": 0x0,
             "expr_id": 0xf,
             "msg_id": 0x2,
-            "msg_string": "Yeah, this is going well... Now I just have to mix it a little and..."
+            "msg_string": "Sim, isto está indo bem... Agora só preciso misturar um pouco e..."
         },
         {
             "type": 0x2,
@@ -33,7 +33,7 @@
             "name_id": 0x0,
             "expr_id": 0xf,
             "msg_id": 0x3,
-            "msg_string": "...Huh? This is weird. What's with this color!? ...Eww, it stinks! Oh no, wait-...!"
+            "msg_string": "...Hã? Isto é estranho. Que cor é essa!? ...Eca, está fedendo! Ah não, espera-...!"
         },
         {
             "type": 0x3,
@@ -42,7 +42,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0x4,
-            "msg_string": "This is Kirchen Bell... A small town brimming with greenery and the sounds of church bells."
+            "msg_string": "Esta é Kirchen Bell... Uma pequena cidade repleta de verde e dos sons dos sinos da igreja."
         },
         {
             "type": 0x3,
@@ -51,7 +51,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0x5,
-            "msg_string": "A certain girl lives alone in this town."
+            "msg_string": "Uma certa garota mora sozinha nesta cidade."
         },
         {
             "type": 0x3,
@@ -60,7 +60,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0x6,
-            "msg_string": "Her name is Sophie."
+            "msg_string": "O nome dela é Sophie."
         },
         {
             "type": 0x3,
@@ -69,7 +69,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0x7,
-            "msg_string": "Here, she runs an atelier, using the alchemy she learned from her late grandmother."
+            "msg_string": "Aqui, ela administra um ateliê, usando a alquimia que aprendeu com sua falecida avó."
         },
         {
             "type": 0x3,
@@ -78,7 +78,7 @@
             "extra_id": 0xffffffff,
             "expr_id": 0xffffffff,
             "msg_id": 0x8,
-            "msg_string": "Although she still has quite a lot of room for improvement..."
+            "msg_string": "Embora ela ainda tenha bastante espaço para melhorar..."
         },
         {
             "type": 0x2,
@@ -87,7 +87,7 @@
             "extra_id": 0x50,
             "expr_id": 0x4,
             "msg_id": 0x9,
-            "msg_string": "Uu, I messed up again..."
+            "msg_string": "Uu, eu errei de novo..."
         },
         {
             "type": 0x2,
@@ -96,7 +96,7 @@
             "extra_id": 0x51,
             "expr_id": 0x4,
             "msg_id": 0xa,
-            "msg_string": "*Sigh*... At this rate, I'll never be as good as grandma was..."
+            "msg_string": "*Suspiro*... Nesse ritmo, nunca serei tão boa quanto a vovó era..."
         },
         {
             "type": 0x2,
@@ -105,7 +105,7 @@
             "extra_id": 0x52,
             "expr_id": 0x4,
             "msg_id": 0xb,
-            "msg_string": "Aaah, if only there was a way to suddenly get really good at alchemy."
+            "msg_string": "Aaah, se ao menos houvesse um jeito de de repente ficar muito boa em alquimia."
         },
         {
             "type": 0x2,
@@ -114,7 +114,7 @@
             "extra_id": 0x17,
             "expr_id": 0x2,
             "msg_id": 0xc,
-            "msg_string": "Then I could make amazing medicine and stuff, and everyone in town would rely on me... Ehehe."
+            "msg_string": "Aí eu poderia fazer remédios incríveis e tal, e todos na cidade dependeriam de mim... Ehehe."
         },
         {
             "type": 0x2,
@@ -123,7 +123,7 @@
             "extra_id": 0x19,
             "expr_id": 0x2,
             "msg_id": 0xd,
-            "msg_string": "...I wouldn't have any problems if that was the case. *Sigh*... Guess I should clean up."
+            "msg_string": "...Eu não teria problemas se fosse o caso. *Suspiro*... Acho que devo limpar."
         },
         {
             "type": 0x2,
@@ -131,7 +131,7 @@
             "name_id": 0x0,
             "expr_id": 0x0,
             "msg_id": 0xe,
-            "msg_string": "Oh, yes! It's open!"
+            "msg_string": "Ah, sim! Está aberto!"
         },
         {
             "type": 0x2,
@@ -140,7 +140,7 @@
             "extra_id": 0x42,
             "expr_id": 0x0,
             "msg_id": 0xf,
-            "msg_string": "Hello, Sophie... What's that smell?"
+            "msg_string": "Olá, Sophie... Que cheiro é esse?"
         },
         {
             "type": 0x2,
@@ -149,7 +149,7 @@
             "extra_id": 0x21,
             "expr_id": 0x4,
             "msg_id": 0x10,
-            "msg_string": "Ahaha... I messed up again..."
+            "msg_string": "Ahaha... Eu errei de novo..."
         },
         {
             "type": 0x2,
@@ -158,7 +158,7 @@
             "extra_id": 0x23,
             "expr_id": 0x4,
             "msg_id": 0x11,
-            "msg_string": "More importantly, why are you here Monika? Do you need something?"
+            "msg_string": "Mais importante, por que você está aqui Monika? Precisa de algo?"
         },
         {
             "type": 0x2,
@@ -167,7 +167,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0x12,
-            "msg_string": "Yes. There's something I'd like to ask of you."
+            "msg_string": "Sim. Há algo que eu gostaria de pedir a você."
         },
         {
             "type": 0x2,
@@ -176,7 +176,7 @@
             "extra_id": 0x43,
             "expr_id": 0x0,
             "msg_id": 0x13,
-            "msg_string": "Huh, it's unusual for you to have a request. What do you need?"
+            "msg_string": "Hã, é incomum você ter um pedido. Do que você precisa?"
         },
         {
             "type": 0x2,
@@ -185,7 +185,7 @@
             "extra_id": 0x3,
             "expr_id": 0x0,
             "msg_id": 0x14,
-            "msg_string": "I just met with Mr. Horst. He was asking for some Berg Medicine, but..."
+            "msg_string": "Acabei de me encontrar com o Sr. Horst. Ele estava pedindo um pouco de Remédio Berg, mas..."
         },
         {
             "type": 0x2,
@@ -194,7 +194,7 @@
             "extra_id": 0x5,
             "expr_id": 0x0,
             "msg_id": 0x15,
-            "msg_string": "I've gone to every shop, and I can't find it anywhere. So I thought you might know something."
+            "msg_string": "Fui a todas as lojas, e não consigo encontrar em lugar nenhum. Então pensei que você poderia saber de algo."
         },
         {
             "type": 0x2,
@@ -203,7 +203,7 @@
             "extra_id": 0x2f,
             "expr_id": 0x4,
             "msg_id": 0x16,
-            "msg_string": "You know, you're kind of an alchemist, right? That's why I'm asking..."
+            "msg_string": "Sabe, você é meio que uma alquimista, né? É por isso que estou perguntando..."
         },
         {
             "type": 0x2,
@@ -212,7 +212,7 @@
             "extra_id": 0x1c,
             "expr_id": 0x3,
             "msg_id": 0x17,
-            "msg_string": "I'm not \"kind of\" one!"
+            "msg_string": "Eu não sou \"meio que\" uma!"
         },
         {
             "type": 0x2,
@@ -221,7 +221,7 @@
             "extra_id": 0x1e,
             "expr_id": 0x3,
             "msg_id": 0x18,
-            "msg_string": "But Berg Medicine, huh... I've never tried making that..."
+            "msg_string": "Mas Remédio Berg, hein... Nunca tentei fazer isso..."
         },
         {
             "type": 0x2,
@@ -230,7 +230,7 @@
             "extra_id": 0x2f,
             "expr_id": 0x4,
             "msg_id": 0x19,
-            "msg_string": "I saw grandma making it before, so I should be able to make it too..."
+            "msg_string": "Eu vi a vovó fazendo antes, então devo conseguir fazer também..."
         },
         {
             "type": 0x2,
@@ -239,7 +239,7 @@
             "extra_id": 0x2b,
             "expr_id": 0x4,
             "msg_id": 0x1a,
-            "msg_string": "It's a request I decided to accept. You don't have to force yourself if it'll be difficult."
+            "msg_string": "É um pedido que eu decidi aceitar. Você não precisa se forçar se for difícil."
         },
         {
             "type": 0x2,
@@ -248,7 +248,7 @@
             "extra_id": 0x3d,
             "expr_id": 0x0,
             "msg_id": 0x1b,
-            "msg_string": "No, it's fine! I can't just ignore someone in need! Leave it all to me!"
+            "msg_string": "Não, tudo bem! Não posso simplesmente ignorar alguém precisando! Deixe tudo comigo!"
         },
         {
             "type": 0x2,
@@ -257,7 +257,7 @@
             "extra_id": 0x1,
             "expr_id": 0x0,
             "msg_id": 0x1c,
-            "msg_string": "Oh, but... I'm still not confident about it, so I should look for grandma's book."
+            "msg_string": "Ah, mas... Ainda não estou confiante nisso, então devo procurar o livro da vovó."
         }
     ]
 }
