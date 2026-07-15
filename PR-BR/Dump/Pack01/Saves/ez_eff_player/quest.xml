@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+<root>
+	<grp> <!-- ウワサ（ひっくりかえったとき） -->
+		<eff timing="  0.0" eff_no=" 606" pos_x="980.0" pos_y="390.0" scale_x="300" scale_y="500" scale_z="100" emit_life="   0.1" r="255" g="255" b=" 255" a="255" />
+		<eff timing="  0.0" eff_no=" 602" pos_x="980.0" pos_y="390.0" scale_x="300" scale_y="500" scale_z="100" emit_life="   0.1" r="255" g="255" b=" 255" a="255" />
+		<eff timing="  0.4" eff_no=" 622" pos_x="980.0" pos_y="390.0" scale_x="170" scale_y="240" scale_z="100" emit_life="   0.3" r="160" g="160" b=" 160" a="150" />
+		<eff timing="  0.4" eff_no=" 602" pos_x="980.0" pos_y="390.0" scale_x="300" scale_y="500" scale_z="100" emit_life="   0.1" r="128" g="128" b=" 128" a="255" />
+		<eff timing="  0.4" eff_no=" 623" pos_x="960.0" pos_y="250.0" scale_x="170" scale_y="170" scale_z="100" emit_life="   0.3" r="128" g="128" b=" 128" a="70" />
+		<eff timing="  0.4" eff_no=" 623" pos_x="960.0" pos_y="480.0" scale_x="170" scale_y="170" scale_z="100" emit_life="   0.3" r="128" g="128" b=" 128" a="70" />
+		<eff timing="  0.4" eff_no=" 209" pos_x="980.0" pos_y="390.0" scale_x="180" scale_y="230" scale_z="100" emit_life="   0.1" r="128" g="128" b=" 128" a="100" />
+		<eff timing="0.4" se_no="260" vol="1.0" pitch="0.0"/>
+	</grp>
+	<grp> <!-- 依頼（クリア） -->
+		<eff timing="  0.2" eff_no=" 130" pos_x="230.0" pos_y="32.0" scale_x="100" scale_y="60" scale_z="1" emit_life="   0.1" p_life="   0.6" r="128" g="128" b=" 128" a="128" />
+		<eff timing="  0.2" eff_no=" 30" pos_x="230.0" pos_y="32.0" scale_x="100" scale_y="100" scale_z="1" emit_life="   0.1" r="128" g="128" b=" 255" a="128" />
+		<eff timing="  0.2" eff_no=" 601" pos_x="230.0" pos_y="32.0" scale_x="420" scale_y="60" scale_z="50" emit_life="   0.1" r="128" g="128" b=" 128" a="255" />
+		<eff timing="  0.2" eff_no=" 27" pos_x="230.0" pos_y="32.0" scale_x="140" scale_y="140" scale_z="1" emit_life="   0.1" p_life="   0.4" r="155" g="155" b=" 155" a="255" />
+		<eff timing="  0.2" eff_no=" 209" pos_x="230.0" pos_y="32.0" scale_x="200" scale_y="50" scale_z="100" emit_life="   0.1" r="128" g="128" b=" 128" a="70" />
+		<eff timing="0.2" se_no="302" vol="1.0" pitch="0.0"/>
+	</grp>
+	<grp> <!-- 依頼（キャンセル） -->
+		<eff timing="  0.2" eff_no=" 106" pos_x="230.0" pos_y="32.0" scale_x="100" scale_y="60" scale_z="1" emit_life="   0.1" r="128" g="128" b=" 128" a="128" />
+		<eff timing="  0.2" eff_no=" 38" pos_x="230.0" pos_y="32.0" scale_x="100" scale_y="100" scale_z="1" emit_life="   0.1" p_life="   0.6" r="100" g="100" b=" 100" a="80" />
+		<eff timing="  0.2" eff_no=" 261" pos_x="230.0" pos_y="32.0" scale_x="500" scale_y="500" scale_z="500" emit_life="   0.1" r="128" g="128" b=" 128" a="128" />
+		<eff timing="  0.2" eff_no=" 29" pos_x="230.0" pos_y="32.0" scale_x="140" scale_y="140" scale_z="1" emit_life="   0.1" p_life="   0.4" r="155" g="155" b=" 155" a="255" />
+		<eff timing="  0.2" eff_no=" 30" pos_x="230.0" pos_y="32.0" scale_x="100" scale_y="100" scale_z="1" emit_life="   0.1" r="30" g="30" b=" 255" a="128" />
+		<eff timing="0.3" se_no="258" vol="1.0" pitch="0.0"/>
+	</grp>
+	<grp> <!-- 依頼（コンプリート） -->
+		<eff timing="  0.2" eff_no=" 27" pos_x="380.0" pos_y="400.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   0.1" r="120" g="120" b=" 120" a="128" />
+		<eff timing="  0.2" eff_no=" 21" pos_x="380.0" pos_y="400.0" scale_x="140" scale_y="140" scale_z="140" emit_life="   0.1" p_life="   0.6" r="100" g="100" b=" 100" a="128" />
+		<eff timing="  0.2" eff_no=" 260" pos_x="380.0" pos_y="400.0" scale_x="500" scale_y="500" scale_z="500" emit_life="   0.1" r="128" g="128" b=" 128" a="64" />
+		<eff timing="  0.2" eff_no=" 130" pos_x="380.0" pos_y="400.0" scale_x="150" scale_y="150" scale_z="1" emit_life="   0.1" r="255" g="255" b=" 255" a="128" />
+		<eff timing="  0.2" eff_no=" 240" pos_x="380.0" pos_y="400.0" scale_x="180" scale_y="180" scale_z="100" emit_life="   0.3" r="0" g="0" b=" 0" a="128" />
+		<eff timing="  0.2" eff_no=" 121" pos_x="380.0" pos_y="400.0" scale_x="100" scale_y="100" scale_z="100" emit_life="   0.1" p_life="   0.6" r="255" g="255" b=" 255" a="255" />
+		<eff timing="  0.2" eff_no=" 209" pos_x="380.0" pos_y="400.0" scale_x="220" scale_y="220" scale_z="220" emit_life="   0.1" r="255" g="255" b=" 255" a="100" />
+		<eff timing="0.2" se_no="302" vol="1.0" pitch="0.0"/>
+	</grp>
+</root>

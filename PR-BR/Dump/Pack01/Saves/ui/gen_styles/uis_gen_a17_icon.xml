@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="gen_a17_icon01_01">
+		<image name="gen_a17_icon01_01__xLIST01" texture="ui/a17_icon.g1t" texture_index="0" uvwh="0,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST02" texture="ui/a17_icon.g1t" texture_index="0" uvwh="64,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST03" texture="ui/a17_icon.g1t" texture_index="0" uvwh="128,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST04" texture="ui/a17_icon.g1t" texture_index="0" uvwh="192,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST05" texture="ui/a17_icon.g1t" texture_index="0" uvwh="256,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST06" texture="ui/a17_icon.g1t" texture_index="0" uvwh="320,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST07" texture="ui/a17_icon.g1t" texture_index="0" uvwh="384,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST08" texture="ui/a17_icon.g1t" texture_index="0" uvwh="448,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST09" texture="ui/a17_icon.g1t" texture_index="0" uvwh="512,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST10" texture="ui/a17_icon.g1t" texture_index="0" uvwh="576,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST11" texture="ui/a17_icon.g1t" texture_index="0" uvwh="640,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST12" texture="ui/a17_icon.g1t" texture_index="0" uvwh="704,0,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST13" texture="ui/a17_icon.g1t" texture_index="0" uvwh="0,64,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST14" texture="ui/a17_icon.g1t" texture_index="0" uvwh="64,64,64,64"/>
+		<image name="gen_a17_icon01_01__xLIST15" texture="ui/a17_icon.g1t" texture_index="0" uvwh="128,64,64,64"/>
+	</image_list>
+	<image_list name="gen_a17_icon01_02off">
+		<image name="gen_a17_icon01_02off__xLIST01" texture="ui/a17_icon.g1t" texture_index="0" uvwh="0,296,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST02" texture="ui/a17_icon.g1t" texture_index="0" uvwh="80,296,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST03" texture="ui/a17_icon.g1t" texture_index="0" uvwh="160,296,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST04" texture="ui/a17_icon.g1t" texture_index="0" uvwh="240,296,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST05" texture="ui/a17_icon.g1t" texture_index="0" uvwh="320,296,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST06" texture="ui/a17_icon.g1t" texture_index="0" uvwh="400,296,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST07" texture="ui/a17_icon.g1t" texture_index="0" uvwh="480,296,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST08" texture="ui/a17_icon.g1t" texture_index="0" uvwh="560,296,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST09" texture="ui/a17_icon.g1t" texture_index="0" uvwh="640,296,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST10" texture="ui/a17_icon.g1t" texture_index="0" uvwh="0,377,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST11" texture="ui/a17_icon.g1t" texture_index="0" uvwh="80,377,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST12" texture="ui/a17_icon.g1t" texture_index="0" uvwh="160,377,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST13" texture="ui/a17_icon.g1t" texture_index="0" uvwh="240,377,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST14" texture="ui/a17_icon.g1t" texture_index="0" uvwh="320,377,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST15" texture="ui/a17_icon.g1t" texture_index="0" uvwh="400,377,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST16" texture="ui/a17_icon.g1t" texture_index="0" uvwh="480,377,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST17" texture="ui/a17_icon.g1t" texture_index="0" uvwh="560,377,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST18" texture="ui/a17_icon.g1t" texture_index="0" uvwh="640,377,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST19" texture="ui/a17_icon.g1t" texture_index="0" uvwh="644,558,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST20" texture="ui/a17_icon.g1t" texture_index="0" uvwh="644,640,80,80"/>
+		<image name="gen_a17_icon01_02off__xLIST21" texture="ui/a17_icon.g1t" texture_index="0" uvwh="99,755,80,80"/>
+	</image_list>
+	<image_list name="gen_a17_icon01_02on">
+		<image name="gen_a17_icon01_02on__xLIST01" texture="ui/a17_icon.g1t" texture_index="0" uvwh="0,132,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST02" texture="ui/a17_icon.g1t" texture_index="0" uvwh="80,132,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST03" texture="ui/a17_icon.g1t" texture_index="0" uvwh="160,132,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST04" texture="ui/a17_icon.g1t" texture_index="0" uvwh="240,132,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST05" texture="ui/a17_icon.g1t" texture_index="0" uvwh="320,132,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST06" texture="ui/a17_icon.g1t" texture_index="0" uvwh="400,132,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST07" texture="ui/a17_icon.g1t" texture_index="0" uvwh="480,132,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST08" texture="ui/a17_icon.g1t" texture_index="0" uvwh="560,132,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST09" texture="ui/a17_icon.g1t" texture_index="0" uvwh="640,132,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST10" texture="ui/a17_icon.g1t" texture_index="0" uvwh="0,213,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST11" texture="ui/a17_icon.g1t" texture_index="0" uvwh="80,213,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST12" texture="ui/a17_icon.g1t" texture_index="0" uvwh="160,213,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST13" texture="ui/a17_icon.g1t" texture_index="0" uvwh="240,213,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST14" texture="ui/a17_icon.g1t" texture_index="0" uvwh="320,213,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST15" texture="ui/a17_icon.g1t" texture_index="0" uvwh="400,213,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST16" texture="ui/a17_icon.g1t" texture_index="0" uvwh="480,213,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST17" texture="ui/a17_icon.g1t" texture_index="0" uvwh="560,213,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST18" texture="ui/a17_icon.g1t" texture_index="0" uvwh="640,213,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST19" texture="ui/a17_icon.g1t" texture_index="0" uvwh="559,558,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST20" texture="ui/a17_icon.g1t" texture_index="0" uvwh="559,640,80,80"/>
+		<image name="gen_a17_icon01_02on__xLIST21" texture="ui/a17_icon.g1t" texture_index="0" uvwh="7,755,80,80"/>
+	</image_list>
+	<image_list name="gen_a17_icon01_03">
+		<image name="gen_a17_icon01_03__xLIST01" texture="ui/a17_icon.g1t" texture_index="0" uvwh="0,460,92,96"/>
+		<image name="gen_a17_icon01_03__xLIST02" texture="ui/a17_icon.g1t" texture_index="0" uvwh="92,460,92,96"/>
+		<image name="gen_a17_icon01_03__xLIST03" texture="ui/a17_icon.g1t" texture_index="0" uvwh="184,460,92,96"/>
+		<image name="gen_a17_icon01_03__xLIST04" texture="ui/a17_icon.g1t" texture_index="0" uvwh="276,460,92,96"/>
+		<image name="gen_a17_icon01_03__xLIST05" texture="ui/a17_icon.g1t" texture_index="0" uvwh="368,460,92,96"/>
+		<image name="gen_a17_icon01_03__xLIST06" texture="ui/a17_icon.g1t" texture_index="0" uvwh="460,460,92,96"/>
+		<image name="gen_a17_icon01_03__xLIST07" texture="ui/a17_icon.g1t" texture_index="0" uvwh="552,460,92,96"/>
+		<image name="gen_a17_icon01_03__xLIST08" texture="ui/a17_icon.g1t" texture_index="0" uvwh="644,460,92,96"/>
+		<image name="gen_a17_icon01_03__xLIST09" texture="ui/a17_icon.g1t" texture_index="0" uvwh="0,556,92,96"/>
+		<image name="gen_a17_icon01_03__xLIST10" texture="ui/a17_icon.g1t" texture_index="0" uvwh="92,556,92,96"/>
+		<image name="gen_a17_icon01_03__xLIST11" texture="ui/a17_icon.g1t" texture_index="0" uvwh="184,556,92,96"/>
+	</image_list>
+	<image_list name="gen_a17_icon01_04">
+		<image name="gen_a17_icon01_04__xLIST01" texture="ui/a17_icon.g1t" texture_index="1" uvwh="0,0,96,96"/>
+		<image name="gen_a17_icon01_04__xLIST02" texture="ui/a17_icon.g1t" texture_index="1" uvwh="96,0,96,96"/>
+		<image name="gen_a17_icon01_04__xLIST03" texture="ui/a17_icon.g1t" texture_index="1" uvwh="192,0,96,96"/>
+		<image name="gen_a17_icon01_04__xLIST04" texture="ui/a17_icon.g1t" texture_index="1" uvwh="288,0,96,96"/>
+		<image name="gen_a17_icon01_04__xLIST05" texture="ui/a17_icon.g1t" texture_index="1" uvwh="384,0,96,96"/>
+		<image name="gen_a17_icon01_04__xLIST06" texture="ui/a17_icon.g1t" texture_index="1" uvwh="480,0,96,96"/>
+		<image name="gen_a17_icon01_04__xLIST07" texture="ui/a17_icon.g1t" texture_index="1" uvwh="576,0,96,96"/>
+		<image name="gen_a17_icon01_04__xLIST08" texture="ui/a17_icon.g1t" texture_index="1" uvwh="0,96,96,96"/>
+		<image name="gen_a17_icon01_04__xLIST09" texture="ui/a17_icon.g1t" texture_index="1" uvwh="96,96,96,96"/>
+	</image_list>
+	<image_list name="gen_a17_icon01_06">
+		<image name="gen_a17_icon01_06__xLIST01" texture="ui/a17_icon.g1t" texture_index="0" uvwh="277,556,92,96"/>
+		<image name="gen_a17_icon01_06__xLIST02" texture="ui/a17_icon.g1t" texture_index="0" uvwh="370,556,92,96"/>
+		<image name="gen_a17_icon01_06__xLIST03" texture="ui/a17_icon.g1t" texture_index="0" uvwh="464,556,92,96"/>
+		<image name="gen_a17_icon01_06__xLIST04" texture="ui/a17_icon.g1t" texture_index="0" uvwh="0,656,92,96"/>
+		<image name="gen_a17_icon01_06__xLIST05" texture="ui/a17_icon.g1t" texture_index="0" uvwh="93,656,92,96"/>
+		<image name="gen_a17_icon01_06__xLIST06" texture="ui/a17_icon.g1t" texture_index="0" uvwh="186,656,92,96"/>
+		<image name="gen_a17_icon01_06__xLIST07" texture="ui/a17_icon.g1t" texture_index="0" uvwh="279,656,92,96"/>
+		<image name="gen_a17_icon01_06__xLIST08" texture="ui/a17_icon.g1t" texture_index="0" uvwh="372,656,92,96"/>
+	</image_list>
+	<image_list name="gen_a17_icon01_book">
+		<image name="gen_a17_icon01_book__xLIST01" texture="ui/a17_icon.g1t" texture_index="1" uvwh="252,100,208,192"/>
+		<image name="gen_a17_icon01_book__xLIST02" texture="ui/a17_icon.g1t" texture_index="1" uvwh="464,100,208,192"/>
+	</image_list>
+</root>

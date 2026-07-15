@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_01_marker marker_data="T01_TOWN_010" pos_x="7.88" pos_y="0" pos_z="17.9" rotate_y="-135"/>
+	<T01_TOWN_01_marker marker_data="T01_TOWN_011" pos_x="7.88" pos_y="0.8" pos_z="17.9" rotate_y="-135"/>
+	<T01_TOWN_01_marker marker_data="T01_TOWN_012" pos_x="6.9" pos_y="0" pos_z="13.31" rotate_y="-45"/>
+	<T01_TOWN_01_marker marker_data="T01_TOWN_013" pos_x="6" pos_y="0" pos_z="18.77" rotate_y="180"/>
+	<T01_TOWN_01_marker marker_data="T01_TOWN_014" pos_x="6.66" pos_y="0.8" pos_z="17.77" rotate_y="-90"/>
+	<T01_TOWN_01_marker marker_data="T01_TOWN_015" pos_x="9.19" pos_y="0.1" pos_z="13.14" rotate_y="-50"/>
+	<T01_TOWN_01_marker marker_data="T01_TOWN_016" pos_x="10" pos_y="0.05" pos_z="17.5" rotate_y="-130"/>
+	<T01_TOWN_01_marker marker_data="T01_TOWN_017" pos_x="5.9" pos_y="0" pos_z="13.24" rotate_y="45"/>
+	<T01_TOWN_01_marker marker_data="T01_TOWN_018" pos_x="4.4" pos_y="0" pos_z="17.25" rotate_y="135"/>
+	<T01_TOWN_01_marker marker_data="T01_TOWN_999" pos_x="3.8" pos_y="0.7" pos_z="22.76" rotate_y="161"/>
+</Root>

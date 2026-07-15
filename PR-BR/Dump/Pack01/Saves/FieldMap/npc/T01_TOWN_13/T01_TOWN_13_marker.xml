@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_13_marker marker_data="T01_TOWN_13_PAUL" pos_x="7.8" pos_y="0" pos_z="13.7" rotate_y="180"/>
+	<T01_TOWN_13_marker marker_data="T01_TOWN_13_PAUL2" pos_x="12" pos_y="0" pos_z="12.5" rotate_y="180"/>
+	<T01_TOWN_13_marker marker_data="QC04_FRI_110_FILON" pos_x="13.56" pos_y="0" pos_z="10.39" rotate_y="13"/>
+	<T01_TOWN_13_marker marker_data="QC04_FRI_110_PAUL" pos_x="13.84" pos_y="0" pos_z="12.43" rotate_y="190"/>
+	<T01_TOWN_13_marker marker_data="QC01_MON_280_MONIKA" pos_x="11.34" pos_y="0" pos_z="10.79" rotate_y="26"/>
+	<T01_TOWN_13_marker marker_data="QC01_MON_280_PAUL" pos_x="12.01" pos_y="0" pos_z="12.61" rotate_y="191"/>
+	<T01_TOWN_13_marker marker_data="MS01_150_PAUL" pos_x="12.83" pos_y="0" pos_z="12.51" rotate_y="203"/>
+	<T01_TOWN_13_marker marker_data="MS01_150_HENRI" pos_x="12.54" pos_y="0" pos_z="10.68" rotate_y="0"/>
+	<T01_TOWN_13_marker marker_data="T01_TOWN_130" pos_x="5.788" pos_y="0" pos_z="5.888" rotate_y="-90"/>
+	<T01_TOWN_13_marker marker_data="T01_TOWN_131" pos_x="5.812" pos_y="0" pos_z="7.056" rotate_y="-180"/>
+	<T01_TOWN_13_marker marker_data="T01_TOWN_132" pos_x="17.817" pos_y="0" pos_z="10.453" rotate_y="90"/>
+</Root>

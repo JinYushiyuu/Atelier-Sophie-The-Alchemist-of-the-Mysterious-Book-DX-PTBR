@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="gen_a17_cabinet01_button">
+		<image name="gen_a17_cabinet01_button__xLIST01" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="0,0,48,32"/>
+		<image name="gen_a17_cabinet01_button__xLIST02" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="48,0,48,32"/>
+	</image_list>
+	<image name="gen_a17_cabinet01_kira" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="0,268,44,44"/>
+	<image_list name="gen_a17_cabinet01_like">
+		<image name="gen_a17_cabinet01_like__xLIST01" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="0,330,54,54"/>
+		<image name="gen_a17_cabinet01_like__xLIST02" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="64,330,54,54"/>
+		<image name="gen_a17_cabinet01_like__xLIST03" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="128,330,54,54"/>
+	</image_list>
+	<image name="gen_a17_cabinet01_new" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="194,289,74,33"/>
+	<image_list name="gen_a17_cabinet01_ok">
+		<image name="gen_a17_cabinet01_ok__xLIST01" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="0,32,96,48"/>
+		<image name="gen_a17_cabinet01_ok__xLIST02" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="0,80,96,48"/>
+	</image_list>
+	<image_list name="gen_a17_cabinet01_textoff">
+		<image name="gen_a17_cabinet01_textoff__xLIST01" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="96,0,96,48"/>
+		<image name="gen_a17_cabinet01_textoff__xLIST02" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="96,48,96,48"/>
+		<image name="gen_a17_cabinet01_textoff__xLIST03" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="96,96,96,48"/>
+		<image name="gen_a17_cabinet01_textoff__xLIST04" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="96,144,96,48"/>
+		<image name="gen_a17_cabinet01_textoff__xLIST05" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="96,192,96,48"/>
+		<image name="gen_a17_cabinet01_textoff__xLIST06" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="96,240,96,48"/>
+	</image_list>
+	<image_list name="gen_a17_cabinet01_texton">
+		<image name="gen_a17_cabinet01_texton__xLIST01" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="192,0,96,48"/>
+		<image name="gen_a17_cabinet01_texton__xLIST02" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="192,48,96,48"/>
+		<image name="gen_a17_cabinet01_texton__xLIST03" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="192,96,96,48"/>
+		<image name="gen_a17_cabinet01_texton__xLIST04" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="192,144,96,48"/>
+		<image name="gen_a17_cabinet01_texton__xLIST05" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="192,192,96,48"/>
+		<image name="gen_a17_cabinet01_texton__xLIST06" texture="ui/a17_cabinet.g1t" texture_index="0" uvwh="192,240,96,48"/>
+	</image_list>
+	<image name="gen_a17_cabinet02_bar" texture="ui/a17_cabinet.g1t"  texture_index="1" prim_type="wrap" edge_margin="0,7,1,4" uvwh="660,0,16,194"/>
+	<image name="gen_a17_cabinet02_barframe" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="592,0,64,592"/>
+	<image name="gen_a17_cabinet02_barframe02" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="1280,0,64,592"/>
+	<image name="gen_a17_cabinet02_downtag" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="0,704,272,64"/>
+	<image name="gen_a17_cabinet02_downtag02" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="576,688,336,80"/>
+	<image name="gen_a17_cabinet02_downtaglight" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="272,704,272,64"/>
+	<image name="gen_a17_cabinet02_frame" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="0,0,592,592"/>
+	<image name="gen_a17_cabinet02_frame02" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="688,0,592,592"/>
+	<image name="gen_a17_cabinet02_frame02light" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="912,688,400,64"/>
+	<image name="gen_a17_cabinet02_itemlight" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="1424,400,112,112"/>
+	<image name="gen_a17_cabinet02_itemlightnext" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="1424,512,112,112"/>
+	<image name="gen_a17_cabinet02_tagframe" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="0,624,576,80"/>
+	<image_list name="gen_a17_cabinet02_uptag">
+		<image name="gen_a17_cabinet02_uptag__xLIST01" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="1312,625,112,66"/>
+		<image name="gen_a17_cabinet02_uptag__xLIST02" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="1312,692,112,66"/>
+		<image name="gen_a17_cabinet02_uptag__xLIST03" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="1424,625,112,66"/>
+		<image name="gen_a17_cabinet02_uptag__xLIST04" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="1424,692,112,66"/>
+	</image_list>
+	<image name="gen_a17_cabinet_downtag_ok02" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="880,608,240,80"/>
+	<image name="gen_a17_cabinet_downtag_oklight02" texture="ui/a17_cabinet.g1t" texture_index="1" uvwh="640,608,240,80"/>
+</root>

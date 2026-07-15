@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="gen_a17_event_checkfram">
+		<image name="gen_a17_event_checkfram__xLIST01" texture="ui/a17_event.g1t" texture_index="0" uvwh="512,0,160,96"/>
+		<image name="gen_a17_event_checkfram__xLIST02" texture="ui/a17_event.g1t" texture_index="0" uvwh="512,96,160,96"/>
+	</image_list>
+	<image name="gen_a17_event_failed" texture="ui/a17_event.g1t" texture_index="0" uvwh="0,0,400,112"/>
+	<image name="gen_a17_event_tag" texture="ui/a17_event.g1t" texture_index="0" uvwh="0,128,448,96"/>
+	<image name="gen_a17_event_text" texture="ui/a17_event.g1t" texture_index="0" uvwh="416,0,80,48"/>
+</root>

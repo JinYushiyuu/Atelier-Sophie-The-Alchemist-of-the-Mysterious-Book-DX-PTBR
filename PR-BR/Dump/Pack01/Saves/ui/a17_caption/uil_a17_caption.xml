@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="true">
+		<command load_anim="/Saves/ui/a17_caption/uia_a17_caption.xml"/>
+	</node>
+	<node name="top" viewer_visible="true" visible="true">
+		<node name="caption" pos="-14.00, -60.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="true">
+			<image name="caption_bg" style="gen_a17_main_caption01" pos="5.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="494, 192"/>
+			<image name="caption1" style="gen_a17_main_caption02_cap" pos="180.00, 80.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_enable="true" pivot_pos="0.00, 19.00, 0.00" image_no="1"/>
+			<image name="caption2" style="gen_a17_main_caption02_cap" pos="180.00, 80.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" pivot_enable="true" pivot_pos="0.00, 19.00, 0.00"/>
+		</node>
+		<anim_ctrl name="caption_change" play="false" viewer_key_assign="0">
+			<bind_node node="caption1" anim="anm_caption_roll_in" reverse="true"/>
+			<bind_node node="caption2" anim="anm_caption_roll_in"/>
+		</anim_ctrl>
+	</node>
+	<anim_ctrl name="fade_in" start_visible="true" play="false" loop="false">
+		<bind_node node="top" anim="anm_common_fade_in"/>
+	</anim_ctrl>
+</root>

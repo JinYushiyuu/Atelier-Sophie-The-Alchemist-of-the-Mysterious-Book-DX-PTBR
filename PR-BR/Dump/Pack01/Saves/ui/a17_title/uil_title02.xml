@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root pos="0,0" visible="true">
+	<command load_anim="Saves/ui/title/uia_title.xml"/>
+	<!--全体画像-->
+	<image style="etc_a17_bg" pos="0.00, 0.00, 0.00" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 100.00"/>
+	<!--
+	<image style="common_bg_sample" color="255,192,192,128" visible="false" viewer_visible="true"/>
+	-->
+	<!--雲-->
+	<!--オブジェクト-->
+	<!--タイトルロゴ-->
+	<image pos="350.00, 35.00, 0.00" style="gen_a17_title01_logo" name="logo" size_wh="735.00, 306.00, 0.00" viewer_visible="false"/>
+	<!--コピーライト-->
+	<image pos="378, 667, 0" style="gen_a17_title01_copyright" viewer_visible="false" name="copyright"/>
+	<!--明滅ライト-->
+	<!--PRESS START-->
+	<node name="press_start" visible="false" viewer_visible="true" pos="-19, 0, 0">
+		<image name="press_start_image" pos="473.00, 446.00, 0.00" style="gen_a17_title01_anybutton" visible="false" viewer_visible="true"/>
+	</node>
+	<anim_ctrl name="getin_press_start">
+		<bind_node node="press_start" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+	<anim_ctrl play="true" loop="true">
+		<bind_node node="press_start_image" anim="anm_blink_50_100" start_visible="true"/>
+	</anim_ctrl>
+	<!--メニュー-->
+	<node name="title_menu" pos="514, 436, 0" visible="false" viewer_visible="true">
+		<node name="line_cusor">
+			<node name="node" pos="0, 5, 0">
+				<image name="line_cursor_bg" style="gen_a17_title02_hl" pos="-34.00, -101.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="255.00, 255.00, 255.00, 255.00"/>
+				<anim_ctrl loop="true" play="true">
+					<bind_node node="line_cursor_bg" anim="anm_blink_50_100"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<node name="menu" pos="-27.00, -52.00, 0.00">
+			<image name="new_game" pos="36.00, -50.00, 0.00" style="gen_a17_title02_newgame" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="load_game" pos="36.00, 4.60, 0.00" style="gen_a17_title02_loadgame" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="network_load" pos="36.00, 59.20, 0.00" style="gen_a17_title02_nkl" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="setting" pos="36.00, 113.80, 0.00" style="gen_a17_title02_setting" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="changingroom" pos="36.00, 168.40, 0.00" style="gen_a17_title02_changing" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="extra" pos="36.00, 223.00, 0.00" style="gen_a17_title02_extra" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="end_game" pos="36.00, 277.60, 0.00" style="gen_a17_title02_endgame" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+	</node>
+	<node name="version" pos="514.00, 436.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<text text="ver. 1.01" name="version" pos="729.00, 230.00, 0.00" align="right" bold_size="1.00"/>
+	</node>
+	<anim_ctrl name="getin_command_list" viewer_key_assign="1">
+		<bind_node node="title_menu" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+	<anim_ctrl name="fade_anim" viewer_key_assign="2">
+		<bind_node anim="anm_common_fade_in" node="copyright"/>
+		<bind_node anim="anm_common_fade_in" node="logo"/>
+		<bind_node node="title_menu" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<L08_SEALEDTEMPLE_04_sprout marker_data="L08_SEALEDTEMPLE_040" day_time="morning" people_data="RNPC02A" start_ev="QC03_JUL_190" end_ev="QC03_JUL_200" message_data="RNPC02A_QC03_JUL_190"/>
+	<L08_SEALEDTEMPLE_04_sprout marker_data="L08_SEALEDTEMPLE_040" day_time="noon" people_data="RNPC02A" start_ev="QC03_JUL_190" end_ev="QC03_JUL_200" message_data="RNPC02A_QC03_JUL_190"/>
+	<L08_SEALEDTEMPLE_04_sprout marker_data="L08_SEALEDTEMPLE_040" day_time="evening" people_data="RNPC02A" start_ev="QC03_JUL_190" end_ev="QC03_JUL_200" message_data="RNPC02A_QC03_JUL_190"/>
+	<L08_SEALEDTEMPLE_04_sprout marker_data="L08_SEALEDTEMPLE_040" day_time="night" people_data="RNPC02A" start_ev="QC03_JUL_190" end_ev="QC03_JUL_200" message_data="RNPC02A_QC03_JUL_190"/>
+</Root>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="shift_jis"?>
+<root>
+  <grp>
+    <!-- ★が点灯するとき -->
+    <eff timing="   0.0" eff_no="500" pos_x="21.0" pos_y="21.0"rot_x="0" rot_y="0" scale_x="10" scale_y="10" scale_z="10" emit_life="   0.1" r="255" g="255" b="255"></eff>
+    <eff timing="   0.0" eff_no="390" pos_x="21.0" pos_y="21.0"x="0" rot_y="0" scale_x="10" scale_y="10" scale_z="10" emit_life="   0.1" r="255" g="255" b="255"></eff>
+    <eff timing="   0.1" eff_no="350" pos_x="21.0" pos_y="21.0"x="0" rot_y="0"rot_z="0" scale_x="20" scale_y="20" scale_z="30" emit_life="   0.1" r="255" g="255" b="200"></eff>
+    <eff timing="0.0" se_no="95" vol="1.0" pitch="0.0"/>
+  </grp>
+  <grp>
+    <!-- クリアしたとき -->
+    <eff timing="  0.1" eff_no=" 352" pos_x="50.0" pos_y="67.0" scale_x="220" scale_y="220" scale_z="1" emit_life="   0.1" r="255" g="255" b=" 120" a_mode="1" />
+		<eff timing="  0.1" eff_no=" 352" pos_x="0.0" pos_y="0.0" scale_x="120" scale_y="120" scale_z="1" emit_life="   0.1" r="255" g="255" b=" 120" a_mode="1" />
+		<eff timing="  0.2" eff_no=" 352" pos_x="0.0" pos_y="0.0" scale_x="120" scale_y="120" scale_z="1" emit_life="   0.1" r="255" g="255" b=" 255" a_mode="1" />
+		<eff timing="  0.6" eff_no=" 228" pos_x="0.0" pos_y="0.0" scale_x="220" scale_y="220" scale_z="1" rot_z="-90" emit_life="   0.1" r="255" g="255" b=" 255" a_mode="1" />
+		<eff timing="  0.7" eff_no=" 228" pos_x="0.0" pos_y="0.0" scale_x="270" scale_y="270" scale_z="1" emit_life="   0.1" r="160" g="160" b=" 160" a_mode="1" />
+		<eff timing="  0.5" eff_no=" 374" pos_x="0.0" pos_y="0.0" scale_x="100" scale_y="100" scale_z="1" emit_life="   0.1" r="100" g="160" b=" 128" a_mode="1" />
+		<eff timing="  0.5" eff_no=" 130" pos_x="0.0" pos_y="0.0" scale_x="70" scale_y="70" scale_z="1" emit_life="   0.1" r="240" g="128" b=" 80" a_mode="1" />
+		<eff timing="  0.5" eff_no=" 99" pos_x="0.0" pos_y="0.0" scale_x="120" scale_y="120" scale_z="1" emit_life="   0.1" r="255" g="255" b=" 120" a_mode="1" />
+    <eff timing="0.5" se_no="97" vol="1.0" pitch="0.0"/>
+  </grp>
+</root>

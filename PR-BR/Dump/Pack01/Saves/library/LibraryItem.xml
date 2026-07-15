@@ -1,0 +1,950 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <LibraryItem note="&quot;What's so 'magic' about this plant?&quot;&lt;CR&gt;&quot;Hm, I heard that it's called that because it's useful for all kinds of medicine...&quot;&lt;CR&gt;&quot;I see, so I guess its wide usefulness is like magic.&quot;" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This is a pretty blue plant.&quot;&lt;CR&gt;&quot;Yeah, this is a type of herb. It contains a lot of water, so it's treasured as a water source in arid regions.&quot;" icon0="0" icon1="3" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;The color of this plant just screams that it's poisonous...&quot;&lt;CR&gt;&quot;Don't judge things by their looks. The poison isn't that strong.&quot;&lt;CR&gt;&quot;But it's still poisonous!&quot;" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is a strange plant. It's kind of glowing.&quot;&lt;CR&gt;&quot;That's right. It's a rare type that only grows in very specific places.&quot;&lt;CR&gt;&quot;I bet it's really pretty to see at night.&quot;" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This plant is like the color of a sunset.&quot;&lt;CR&gt;&quot;Yes, it is. This plant burns very easily, so it's treasured as fuel.&quot;&lt;CR&gt;&quot;A-are you serious!? Don't burn plants like that!&quot;" icon0="0" icon1="17" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;This is the vine of a certain plant. It grows very fast, and can mature in only five days.&quot;&lt;CR&gt;&quot;...I wonder if that's why it looks like it's wiggling.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is really fluffy.&quot;&lt;CR&gt;&quot;It's a type of cotton that grows in mountainous regions, so it can grow without much water. It also provides more fiber than normal cotton.&quot;" icon0="0" icon1="3" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Eww, this is all mossy and gross.&quot;&lt;CR&gt;&quot;Hey! It might look like this, but it's still alive, you know!?&quot;&lt;CR&gt;&quot;Uh, um... I'm sorry...?&quot;" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This was harvested from a tree in the forest. It has lots of uses, so you see these all over town, too.&quot;&lt;CR&gt;&quot;Sometimes they're too big, and really hard to fit in the cauldron...&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is a moss that only grows in specific regions. It seems to like humid places.&quot;&lt;CR&gt;&quot;Huh, you seem to know a lot about moss.&quot;&lt;CR&gt;&quot;Moss is a great plant, too!&quot;" icon0="3" icon1="-1" icon2="0" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;This plant grows in the water. I've never seen it before, but apparently it can grow in the ocean too.&quot;&lt;CR&gt;&quot;The ocean, huh... I've never seen the ocean, either. I want to go see it sometime.&quot;" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This plant grows in high mountains, where normal plants can't grow.&quot;&lt;CR&gt;&quot;I've seen this plant used in weddings. I wonder if it's because it looks cute?&quot;" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is a rare flower that can never bloom if it's exposed to sunlight, even once.&quot;&lt;CR&gt;&quot;I wonder why it doesn't like sunlight? Maybe something happened in the past.&quot;" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This flower is needed for high level Synthesis. It has the ability to stimulate the power of other materials added at the same time.&quot;&lt;CR&gt;&quot;These are really rare, aren't they...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;Hmm, this is a strange flower.&quot;&lt;CR&gt;&quot;It's a mutation of Dunkelheit. It wouldn't be exaggerating to say that the compounds in it are the exact opposite.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is a pretty common ore. But you can use it for all kinds of things, so it's convenient.&quot;&lt;CR&gt;&quot;I remember picking these up all the time when I was a kid.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;This is a really yellow ore.&quot;&lt;CR&gt;&quot;It has a unique characteristic. If it takes an impact, it makes a loud sound. Be careful not to step on it when out in the field, or you might attract monsters.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is a really hard ore. You need to be careful with it, or you could get hurt.&quot;&lt;CR&gt;&quot;It's actually several ores solidified together under specific environmental conditions. It's very valuable.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Is this a fire stone?&quot;&lt;CR&gt;&quot;No, it's a Kaen Stone. It's named after the person who first discovered it. Although it does seem to contain the power of fire.&quot;" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Wah, this is cold!&quot;&lt;CR&gt;&quot;Be careful. It's as cold as ice, so you might get frostbite if you touch it with your bare hands.&quot;" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is a type of ore. It's formed by petrification of spirits of living creatures.&quot;&lt;CR&gt;&quot;We should treat this with respect or we might get cursed.&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Wow, this is a really black lump.&quot;&lt;CR&gt;&quot;Sophie, be sure to keep that in a cool, dark place. It's a rare occurrence, but it can ignite at room temperature.&quot;&lt;CR&gt;&quot;Are you serious!? I'm glad it didn't start any fires...&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;No one makes these, but they appear out of nowhere, so it's rumored they are made by fairies.&quot;&lt;CR&gt;&quot;Actually, I was the one always putting these in front of your house.&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This soil is sticky and elastic. Adding a little water lets you mold it and stretch it into whatever shape you want.&quot;&lt;CR&gt;&quot;...It's useful, but it's also really stinky.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is similar to Lakebottom Soil, but after analysis of its components, it's actually soil from a seabed.&quot;&lt;CR&gt;&quot;Huh, that's strange, there's no ocean around here... Maybe this area was an ocean in the past?&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is an old stone tablet, but I have no idea from when. I wonder if it says something...&quot;&lt;CR&gt;&quot;...Yes, but it's probably better that you don't know.&quot;&lt;CR&gt;&quot;W-what exactly does it say!?&quot;" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;It's all broken to pieces... Is this even usable?&quot;&lt;CR&gt;&quot;Yeah. I'm always breaking big materials up to put them in the cauldron, anyway... I don't have to do it myself, so this is easier.&quot;" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Is this... A pillar from a building?&quot;&lt;CR&gt;&quot;Yes. Stone pillars like this can be taken from ruins that dot the region.&quot;&lt;CR&gt;&quot;...I wonder what was around here in the past?&quot;" icon0="2" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is a pretty strange material.&quot;&lt;CR&gt;&quot;You're right. The material is unknown, but it seems to hold quite a lot of heat.&quot;&lt;CR&gt;&quot;It's even smoking. I need to be careful not to get burned.&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is a fibrous mineral that's strong against heat. It's valuable when you want heat-resistant properties.&quot;&lt;CR&gt;&quot;The fibers are really thin, so failing when using it makes them go flying everywhere.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is a black and pretty crystal.&quot;&lt;CR&gt;&quot;Yes. According to one theory, it's a phantom crystal that can only be gathered at night.&quot;&lt;CR&gt;&quot;I wonder where they go during the day...&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is the raw ore for a certain gemstone. If you polish it properly, it becomes a beautiful jewel that can be used for accessories and more.&quot;&lt;CR&gt;&quot;Okay, I'll try secretly polishing one sometime...!&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is a silver crystal. It looks like a whole bunch of needles stuck together.&quot;&lt;CR&gt;&quot;It's as fragile as it appears, so be careful about impacts. It'll be completely ruined if you drop it.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This mineral is a transparent blue color. It's said that it's the materialization of the magical power of spirits.&quot;&lt;CR&gt;&quot;Gazing into it makes me feel like I'll be sucked in.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;These feathers have a pretty exaggerated name...&quot;&lt;CR&gt;&quot;Ahaha. It might say 'monster', but they aren't that rare or unusual. You can find them on the ground everywhere, and kids play with them a lot.&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Looks like a bone from a beast. It's pretty long, and it's really hard and strong, so it should have uses.&quot;&lt;CR&gt;&quot;Its properties can differ, depending on the beast it came from.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;This is the fin from an Island Fish. You can make a good soup base if you boil it in water.&quot;&lt;CR&gt;&quot;You never clean up after yourself, but you're good at cooking. I'm a little jealous of that.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This fur can be taken from animals. This is obvious, but less damage makes it worth more.&quot;&lt;CR&gt;&quot;But if you're going to use it for Synthesis, it doesn't matter how damaged it looks...&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This fur has a really showy color. Was it dyed by something?&quot;&lt;CR&gt;&quot;No, this is the original color. Besides the color, it's also really warm to the touch.&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;A spider web? Can't you just collect this in the atelier?&quot;&lt;CR&gt;&quot;That's rude! ...This is special spider silk from a spider that eats ores. It's really strong.&quot;" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is silk from a rare spider that eats gold. It's a spider web, so it's sticky, but it's also a pretty golden color.&quot;&lt;CR&gt;&quot;This spider web really is a work of art.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;It's a dragon scale. It's really big and strong. Ordinary weapons probably wouldn't even scratch it.&quot;&lt;CR&gt;&quot;I think this is bigger than my head...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is water you can draw from a well. It's good for drinking, and good for doing laundry... It's really useful.&quot;&lt;CR&gt;&quot;There's also a water spring nearby, so this town has no lack of water.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;...Is this different from normal water?&quot;&lt;CR&gt;&quot;Of course. It's 'good' water, after all.&quot;&lt;CR&gt;&quot;But the well water is pretty good too.&quot;&lt;CR&gt;&quot;I'm sure this is even more good.&quot;" icon0="0" icon1="2" icon2="0" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This is milk from Aule Cows.&quot;&lt;CR&gt;&quot;Fresh milk is really delicious, isn't it!&quot;&lt;CR&gt;&quot;It also contains a large amount of nutrition. You should drink it every morning for good health.&quot;" icon0="17" icon1="0" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;You wouldn't know unless you saw it in a dark place, but this water is faintly glowing.&quot;&lt;CR&gt;&quot;This might be unexpected, but it won't cause any harm to the body. Feel free to drink it.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;*Sniff sniff*... This seems different from normal water...&quot;&lt;CR&gt;&quot;It's hard to tell at a glance, but it contains different compounds than water. Be careful with it.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Wah, this liquid is smoking...&quot;&lt;CR&gt;&quot;Hey Oskar, try drinking it.&quot;&lt;CR&gt;&quot;Why me!? I don't want to!&quot;&lt;CR&gt;&quot;...It's poisonous, so I wouldn't recommend drinking it.&quot;" icon0="0" icon1="2" icon2="3" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;Puni Fluid...?&quot;&lt;CR&gt;&quot;It's the squishy part of a Puni. I don't know if fluid is the right word for it.&quot;&lt;CR&gt;&quot;What are you even going to use that for...?&quot;" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This is rainbow colored Puni fluid.&quot;&lt;CR&gt;&quot;This color doesn't seem natural...&quot;&lt;CR&gt;&quot;Yeah... I don't even want to touch it with bare hands...&quot;" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is the crystallization of dragon blood. It's toxic in this state, so the necessary compounds need to be extracted for use.&quot;&lt;CR&gt;&quot;It really stinks when extracting it...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This holy water is in an elegant bottle.&quot;&lt;CR&gt;&quot;It's made by putting water in the bottle, then saying a prayer.&quot;&lt;CR&gt;&quot;I see... Huh? Wait a second...&quot;" icon0="0" icon1="10" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is a Puni's... Wait, what is it? Its heart?&quot;&lt;CR&gt;&quot;It could be its lung, too.&quot;&lt;CR&gt;&quot;Anyway, it's a Puni's core, and its source of power. We don't know what part it is, but that's what it does.&quot;" icon0="0" icon1="2" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This Puniball is shining with a golden color. It's a super punipuni Puniball said to only be held by the most punipuni Puni among Puni.&quot;&lt;CR&gt;&quot;...That's not Puni, Sophie.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Uni!&quot;&lt;CR&gt;&quot;...What's wrong with you all of a sudden?&quot;&lt;CR&gt;&quot;You're so cold, Monika. We always shouted like this while throwing Uni when we were little.&quot;" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's a red Uni. I wonder why it's like this?&quot;&lt;CR&gt;&quot;When normal Uni ripen, they become hard and red. The thorns also seem to grow somewhat sharper.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is wheat cultivated around Kirchen Bell. It can grow with little water, and makes bountiful harvests, so it's treasured as a staple food source.&quot;&lt;CR&gt;&quot;I can't even imagine living without this.&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This flour is made from grain other than Ramel Wheat. I think this one is a little more flavorful.&quot;&lt;CR&gt;&quot;I agree. By the way, I make use of both flours when making my sweets.&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;You can boil it, bake it, put it in a stew... These potatoes can be eaten in all kinds of ways.&quot;&lt;CR&gt;&quot;The flavor isn't anything to rave about, but it's filling. I don't think they're bad.&quot;" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;These potatoes are all shiny and silver... They just look like metal.&quot;&lt;CR&gt;&quot;They're sweet and tasty, but they stink of metal unless you peel them properly...&quot;" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's a beehive. It looks like there's lots of honey inside.&quot;&lt;CR&gt;&quot;Sometimes there are bees left inside too, so you need to be careful or you might get hurt.&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This egg looks pretty tasty.&quot;&lt;CR&gt;&quot;...Really? We don't even know what kind of egg this is. It could even be from that one kind you don't like...&quot;&lt;CR&gt;&quot;Stop it! Uu, now I suddenly don't even want to look at it...&quot;" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Mmm, I got lucky! This one's really good!&quot;&lt;CR&gt;&quot;That's sour! Looks like I didn't get so lucky.&quot;&lt;CR&gt;&quot;The flavor of these strawberries is really hit or miss. I guess they're perfect for testing your luck, though.&quot;" icon0="0" icon1="3" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Eek! Uu, it exploded...&quot;&lt;CR&gt;&quot;They taste good, but the downside is that even a little too much force will make them burst.&quot;&lt;CR&gt;&quot;Because of that, there aren't many of them in stores, too.&quot;" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This paper is all torn up into little shreds.&quot;&lt;CR&gt;&quot;Still it's useful for writing short memos, wiping little bits of dirt... It has all kinds of uses. You shouldn't be too quick to throw things away.&quot;" icon0="0" icon1="2" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is oil from plants. If you use this for cooking, the food doesn't get too greasy.&quot;&lt;CR&gt;&quot;It's easy to obtain, and it can be used as fuel too. And of course, it's valuable for alchemy.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This oil has a vivid color. You need to be careful, since it burns easier than normal oil.&quot;&lt;CR&gt;&quot;Frying things in this oil makes them really crispy. It's important to use the right oil for each type of cooking.&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Prosperity in business, fulfillment of love, safe childbirth. These amazing talismans can do everything.&quot;&lt;CR&gt;&quot;I don't know if they really have any effect, but... I guess I'll hold onto them.&quot;" icon0="10" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;These are really amazing. They're made using more expensive paper and ink than the normal talismans.&quot;&lt;CR&gt;&quot;A-ahaha... So the effect isn't amazing, just the materials used to make them...&quot;" icon0="10" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;These are very expensive, but they're also very special talismans, with more divine blessing.&quot;&lt;CR&gt;&quot;I ended up buying this, but... I wonder if it's really okay. Was this really the best use of money...&quot;" icon0="10" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;These are the shells of shellfish that live by the waterside.&quot;&lt;CR&gt;&quot;There are all kinds of shapes and patterns, so it's fun to look for the one you like best.&quot;&lt;CR&gt;&quot;The glossier ones are more expensive.&quot;" icon0="17" icon1="0" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;These shells are really white and smooth, just like pearls. They're used for accessories and furniture decorations quite a bit.&quot;&lt;CR&gt;&quot;Mutations cause them to become this color.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;This is a blue lump of quartz. It takes many long years to grow into large crystals, so they are valuable materials.&quot;&lt;CR&gt;&quot;I want to decorate the atelier with them.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is the remnant of stars that fell from the sky and broke apart.&quot;&lt;CR&gt;&quot;This material is actually a type of powder that coats the scales of dragon wings.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This powder is like the color of the sun. It's pretty to put in a bottle.&quot;&lt;CR&gt;&quot;Just be aware that this material emits heat, so I don't recommend keeping too much of it in one place.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;These are broken crystals. I guess you can't use it for fortunetelling like this.&quot;&lt;CR&gt;&quot;These are relatively easy to obtain, so they're often used as materials for ornaments and accessories.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;These crystal shards glitter with the colors of the rainbow. They're used for accessories because they're so pretty.&quot;&lt;CR&gt;&quot;Actually, they only appear that way due to uneven surfaces refracting light at various angles.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This gemstone is strange... I kind of get the chills just holding it...&quot;&lt;CR&gt;&quot;There seems to be something faintly glowing inside, but it disappears when its broken, so nobody knows what it is.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This looks kind of like a Pendeloch, but... What is it?&quot;&lt;CR&gt;&quot;They seem to have originally been the same. Its properties change depending on the environment it's present in.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This gemstone feels really ominous...&quot;&lt;CR&gt;&quot;Yes. It seems powerful monsters possess these within their bodies. One theory says that these are the source of their power.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This amber gemstone is really pretty.&quot;&lt;CR&gt;&quot;This is no gemstone. It's a dragon's heart. It's said that these grow larger and more radiant the longer a dragon has lived.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;...What's this? It seems like a normal tree branch, but I sense amazing power from it...&quot;&lt;CR&gt;&quot;I do, too. It must have originally been from a powerful, great tree...&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;They look like gemstone shards, but... They're shiny and pretty.&quot;&lt;CR&gt;&quot;You're right. This is just my personal opinion, but it gives me a somewhat fleeting impression.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;I've never heard of ore like this...&quot;&lt;CR&gt;&quot;I'm not surprised. It was once a treasured, useful material that could be found easily... But nearly all veins of the ore were completely exhausted.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Is this... Some sort of part?&quot;&lt;CR&gt;&quot;It would appear so. Although I have no idea who created it, or for what purpose...&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;...Um, what exactly is this?&quot;&lt;CR&gt;&quot;...I'm sorry. I don't know, either. It seems to be the remnant of something, though...&quot;&lt;CR&gt;&quot;Hmm, I don't know what to do with it...&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;It's a lump of something burned totally black... What exactly is this...?&quot;&lt;CR&gt;&quot;It's ash.&quot;&lt;CR&gt;&quot;I know THAT already!&quot;" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;Ugh! Sophie! You smell terrible!&quot;&lt;CR&gt;&quot;Hey! That's a terrible thing to say! I'm not the one who stinks, it's this... Thing! I already took a bath today!&quot;" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Wow, this is a really pretty... Thing...&quot;&lt;CR&gt;&quot;You're right... I don't know what it is, but it really is pretty...&quot;&lt;CR&gt;&quot;Some things are pretty because they're a mystery, I guess...&quot;" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;...Sophie? Did you mess something up again?&quot;&lt;CR&gt;&quot;No. This is actually a really amazing material, you know?&quot;&lt;CR&gt;&quot;Be honest.&quot;&lt;CR&gt;&quot;Yes, I messed up...&quot;" icon0="2" icon1="0" icon2="2" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This flower only blooms when it has plentiful nutrition. It's rare to see it bloom, so people say it's a phantom plant. That's how it got its name.&quot;&lt;CR&gt;&quot;Thanks for sharing such a valuable plant.&quot;" icon0="3" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This scale is from a certain monster. It's said that it never decays, no matter how much time passes.&quot;&lt;CR&gt;&quot;I got this because of your help, Sir Julio. Thank you so much!&quot;" icon0="4" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Wow, this seems like it contains some amazing hidden power... What's wrong, Plachta?&quot;&lt;CR&gt;&quot;Whenever I see loose pages, my body feels like... I guess you could call it an occupational disease...&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This book seems like it has spells or something written in it. Although it's torn up all over the place.&quot;&lt;CR&gt;&quot;I can't forgive anyone who mistreats books...!&quot;&lt;CR&gt;&quot;P-Plachta...? You're really scary right now...?&quot;" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;It's said that this scrap contains knowledge only the writer knows.&quot;&lt;CR&gt;&quot;Hm... Something only the writer knows, huh... Maybe it was just a diary?&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's said that this scrap contains forbidden knowledge. Since it's torn to pieces, we have no idea what the original contents were, though...&quot;&lt;CR&gt;&quot;Forbidden...? Maybe it was a secret snack recipe?&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;It looks like you just stuffed some Uni into a bag. Is this really an alchemy item?&quot;&lt;CR&gt;&quot;Of course it is. It's really hard to get them into the bag inside the cauldron, you know?&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's a bomb that goes BOOM!&quot;&lt;CR&gt;&quot;Hey, it's dangerous to handle it like that.&quot;&lt;CR&gt;&quot;It's fine. It's made not to explode unless you light the fuse, so we're safe.&quot;" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's a bomb containing the power of ice. It freezes everything around it when it explodes.&quot;&lt;CR&gt;&quot;It's cool just holding it. It might be nice to put in your room when the weather's hot.&quot;" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;What's this? What a strange rock...&quot;&lt;CR&gt;&quot;Wait! If you hold it like that, you'll...!&quot;&lt;CR&gt;&quot;I-i-it's s-s-shocking...&quot;&lt;CR&gt;&quot;...It's a stone containing the power of lightning.&quot;" icon0="3" icon1="0" icon2="3" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;I made this so it'll shoot Uni thorns in all directions!&quot;&lt;CR&gt;&quot;Uni thorns hurt even when you just touch them... I'm sure this is pretty powerful.&quot;" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;I modified a Bomb to make this.&quot;&lt;CR&gt;&quot;I see. The chances of spontaneous explosions have increased, but its power is on an entirely different level.&quot;&lt;CR&gt;&quot;Huh? I was never told about spontaneous explosions...&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;I tried making an Ice Bomb even stronger.&quot;&lt;CR&gt;&quot;Be careful when using that. Its freezing power has been amplified. One wrong move, and you could end up frozen yourself.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;I compressed the power of a Lightning Bomb into a crystal. What do you think?&quot;&lt;CR&gt;&quot;It contains tremendous electrical power. Don't touch it carelessly and end up shocking yourself.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's a living missile. It won't stop chasing its target until it hits.&quot;&lt;CR&gt;&quot;It's kind of scary to think about it chasing you, never changing the expression on its face...&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's said that God in heaven dropped this crystal. If you throw it into the sky, all kinds of things will come raining down as thanks.&quot;&lt;CR&gt;&quot;You'd be hurt pretty badly if anything hits you...&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;It's said that this flame was the origin of all things.&quot;&lt;CR&gt;&quot;All things...? Like dirt, and the wind too?&quot;&lt;CR&gt;&quot;Yes. It's unknown if it's true, though.&quot;" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;It's said that magicians use this flute. The mysterious tone can call many types of monsters.&quot;&lt;CR&gt;&quot;It would be big trouble if someone blew it in town...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is a bag stuffed full of red Uni.&quot;&lt;CR&gt;&quot;How's it different from a regular Uni Bag?&quot;&lt;CR&gt;&quot;What are you talking about? It's using RED Uni. Those hurt more, you should know that?&quot;" icon0="0" icon1="2" icon2="0" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This Bomb's blue, unlike a regular Bomb. When it explodes, it sprays a pretty blue fire everywhere.&quot;&lt;CR&gt;&quot;It seems to be more powerful than a regular one, as well.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="false"/>
+    <LibraryItem note="&quot;W-what's this color? This Ice Bomb has turned violet?&quot;&lt;CR&gt;&quot;It looks like a poisonous color... But the freezing power inside is really amazing, you know?&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This bomb has more electricity in it than a regular Lightning Bomb. That makes it more powerful.&quot;&lt;CR&gt;&quot;It seems like it can discharge more times, too.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="false"/>
+    <LibraryItem note="&quot;It looks like an Uni Bag... But it's a Craft Bag! I used a ton of Uni to make this!&quot;&lt;CR&gt;&quot;With this many... I know they're just Uni, but its power would be no laughing matter...&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This is a modified Ori Bomb!&quot;&lt;CR&gt;&quot;Hey! That looks like it could explode at any time! W-what are you going to do about this!?&quot;&lt;CR&gt;&quot;I-I guess I'll just have to pray that it doesn't explode!&quot;" icon0="0" icon1="2" icon2="-1" icon3="0" permit="false"/>
+    <LibraryItem note="&quot;...Wow, what a gaudy color.&quot;&lt;CR&gt;&quot;It seems to have originally been a Stahl Ice Bomb. With this much freezing power, its target might not thaw out for all eternity.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This is a crystal sealing away the power of a Lightning Bomb. Countless lightning bolts strike the enemy, causing a huge shock.&quot;&lt;CR&gt;&quot;It's pretty when all that lightning comes flying out.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="false"/>
+    <LibraryItem note="&quot;It's a black Puni Missile. It's even more stubborn and indecent about chasing enemies than a regular Puni Missile.&quot;&lt;CR&gt;&quot;So its personality has turned black, too...&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="false"/>
+    <LibraryItem note="&quot;If you offer this, God will drop some really amazing things from the sky.&quot;&lt;CR&gt;&quot;Those 'amazing things' might not necessarily be that important to God.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's said that this flame will continue to grow, until it brings about the end of the world in the future.&quot;&lt;CR&gt;&quot;Is it really okay to use something like that?&quot;&lt;CR&gt;&quot;It's still only a spark, there shouldn't be a problem.&quot;" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;The scariest thing in the world... Ghosts. That's why this tool that can control ghosts is the scariest and strongest thing in the world... *Sniffle*&quot;&lt;CR&gt;&quot;You don't have to explain it if it's going to make you cry...&quot;" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This is very ordinary medicine. It got this name because hunters going up into the mountains often make it.&quot;&lt;CR&gt;&quot;Its effect isn't that strong, but it's easy to make. This is the first thing that comes to mind when someone says medicine.&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This medicine is really effective. It'll heal up any small wound or other injury real quick. But...&quot;&lt;CR&gt;&quot;It's really, really bitter...&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;Is this... An aroma candle?&quot;&lt;CR&gt;&quot;Yeah. If you light it, it makes a relaxing aroma that smells like a fresh breeze out in a meadow.&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This nectar-like water can stimulate the vitality of living creatures... Right?&quot;&lt;CR&gt;&quot;Yeah. It tastes close to honey, but it's, hm... The flavor makes you feel more lively, I guess&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is amazing medicine that can heal any wound, and cure any illness in an instant... But it's also really hard to make.&quot;&lt;CR&gt;&quot;Enough so that people call it a mystery...&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Ah, these are the sweets you make really often, Sophie.&quot;&lt;CR&gt;&quot;Yeah. The recipe's basic, but I'm usually doing some sort of arrangement. I use different ingredients pretty much every time.&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Tadah! This is my special deluxe tea...! I call it Sotea!!&quot;&lt;CR&gt;&quot;I hate to admit it, but the tea you make is really good, Sophie... Except for the name.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Om nom... Yes, this is really good.&quot;&lt;CR&gt;&quot;Waah... Monika, you're so cruel, eating that cute Puni in one bite...&quot;&lt;CR&gt;&quot;...It's a snack, not a Puni.&quot;" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Oh, this is delicious. Did you make this, Sophie?&quot;&lt;CR&gt;&quot;Yeah. I arranged a financier into my own recipe. That's why it's called a Sofinancier.&quot;&lt;CR&gt;&quot;...It's delicious, but the name ruins it.&quot;" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Evolution of my masterpiece, Sotea! And its name is Piro...&quot;&lt;CR&gt;&quot;I think it'll sell better if you don't put a name on it.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Are these... Candies?&quot;&lt;CR&gt;&quot;Yeah. They're candies made with alchemy. The flavor is hidden, but the ingredients are actually good for you, so eating them helps ease fatigue.&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;...Hm? This is just an ordinary waffle...?&quot;&lt;CR&gt;&quot;No! I just used alchemy to try and make it look as normal as possible! It was hard work! The flavor isn't much different, but it has amazing effects.&quot;" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;There are vegetables and meat sandwiched between a bagel. This would make a good light meal for picnics.&quot;&lt;CR&gt;&quot;It's especially good when eaten while gazing at the fountain in the plaza.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is an improvement of Berg Medicine. The smell is pretty bad, but the effect is so much higher, it isn't even comparable.&quot;&lt;CR&gt;&quot;But you can't walk around town with this on because of the smell.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="false"/>
+    <LibraryItem note="&quot;Plachta, you're always so nagging and picky!&quot;&lt;CR&gt;&quot;What's going on, a fight?&quot;&lt;CR&gt;&quot;Apparently, she drank this. It relieves fatigue, but it vents stress and frustration as well.&quot;" icon0="0" icon1="3" icon2="2" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;If you light this, you'll hear laughter.&quot;&lt;CR&gt;&quot;...Isn't that kind of scary?&quot;&lt;CR&gt;&quot;Nope. It's the laughter of fairies. It's not scary, in fact it relieves fatigue.&quot;" icon0="0" icon1="3" icon2="0" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;I know this is poison, but it's pretty...&quot;&lt;CR&gt;&quot;Please be careful. There are many people who were charmed by its beauty, only to touch it and die.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;It's said that this sacred elixir can save even those on the verge of death.&quot;&lt;CR&gt;&quot;With this, I'll be able to help lots of people. I need to memorize how to make it right.&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;Ow!? My teeth..&quot;&lt;CR&gt;&quot;Sorry... Looks like I baked it a little too long...&quot;&lt;CR&gt;&quot;...Oh, but if you just suck on it, it's pretty good. I like this flavor.&quot;" icon0="3" icon1="0" icon2="2" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;Yuuuck!? This is terrible! What the heck is this!?&quot;&lt;CR&gt;&quot;You shouldn't spit that out! It might taste bad, but it's really good for you!&quot;&lt;CR&gt;&quot;There's a limit to how much I can take! This tastes too terrible!&quot;" icon0="3" icon1="0" icon2="-1" icon3="3" permit="false"/>
+    <LibraryItem note="&quot;This is rainbow Puni Jelly! Each color is a different flavor!&quot;&lt;CR&gt;&quot;Strawberry, and orange... You're right.&quot;&lt;CR&gt;&quot;It's really hard to make it nice and neat like that, you know?&quot;" icon0="0" icon1="-1" icon2="2" icon3="0" permit="false"/>
+    <LibraryItem note="&quot;This is my super deluxe, eat and get healthy snack. It has low sugar, and lots of ingredients that are good for the body instead.&quot;&lt;CR&gt;&quot;There's no problem with the flavor, either! You did well, Sophie!&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="false"/>
+    <LibraryItem note="&quot;This is warm Kirchen Milk. Although that would be dull, so I changed the flavor just a little.&quot;&lt;CR&gt;&quot;This would be really nice on a cold day.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This medicine is sweet and easy to drink. It's actually highly effective as medicine.&quot;&lt;CR&gt;&quot;Yeah! This is what happens when Tess and Sophie work together!&quot;" icon0="0" icon1="-1" icon2="11" icon3="-1" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This is a really cute bell. The sound is also gentle and beautiful.&quot;&lt;CR&gt;&quot;Yeah. They say it's like an angel's whisper. It seems to have some sort of mystical power.&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This powerful incense purifies curses. It's actually because of a highly volatile medicine, and it can be made into a drink too.&quot;&lt;CR&gt;&quot;It's actually more effective if you just drink it.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;You can't even see inside this bottle. What exactly is in here?&quot;&lt;CR&gt;&quot;Who knows? It could be candy, it could be something weird. Nobody's ever seen the inside.&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's said that this cloth was woven from threads blessed by the power of spirits. It even has the power to repel fire.&quot;&lt;CR&gt;&quot;It's pretty, so it could be used for fashion too.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This medicine is so strong, it's said that it was created from the blood of fire dragons, which possess eternal life.&quot;&lt;CR&gt;&quot;Even those dieing will jump right up if they drink it. Its effect is too strong, so I don't recommend it.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's said that this book holds all the knowledge created so far in the world.&quot;&lt;CR&gt;&quot;Does it really contain ALL the knowledge?&quot;&lt;CR&gt;&quot;Unfortunately, there's no way to confirm that.&quot;" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;I'm Sophie! I'm hungry!&quot;&lt;CR&gt;&quot;I'm Oskar! I looove plants!&quot;&lt;CR&gt;&quot;This item causes appearances to change when used. Although it can't change personalities or voices.&quot;" icon0="0" icon1="3" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's said that drinking this medicine allows one to exhibit hero-like strength.&quot;&lt;CR&gt;&quot;Would even I get super strong?&quot;&lt;CR&gt;&quot;Yes. Although the effect is only temporary.&quot;" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;Ugh, stop that noise! It's giving me chills down my spine!&quot;&lt;CR&gt;&quot;Huh? I'm not doing anything...&quot;&lt;CR&gt;&quot;Wait, so this bell just rang on its own...?&quot;" icon0="3" icon1="-1" icon2="0" icon3="3" permit="false"/>
+    <LibraryItem note="&quot;This isn't enough to satisfy me at all! I want to eat more! Give me MORE!&quot;&lt;CR&gt;&quot;Smelling this incense causes your appetite to grow abnormally large... And you'll get fat. Definitely.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;Okay, let's all eat!&quot;&lt;CR&gt;&quot;Huh... I never thought that you could eat mist. And on top of that, it's sweet and delicious...&quot;&lt;CR&gt;&quot;Want to try eating normal mist sometime?&quot;" icon0="0" icon1="2" icon2="-1" icon3="3" permit="false"/>
+    <LibraryItem note="&quot;This magic veil causes the wearer to appear blurry, like a mirage.&quot;&lt;CR&gt;&quot;So that's why you looked all blurry. I thought I was just tired.&quot;" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;Nn! Nnn, nn! NNNN!!&quot;&lt;CR&gt;&quot;...This liquid is so spicy that it'll burn your throat. It was originally created to keep people awake, but... As you can see, drinking it will just make you faint in agony.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;The cover and pages in this book are all blank. Using this book allows one to seal the opponent's power inside the book.&quot;&lt;CR&gt;&quot;...If you opened it by mistake, it would be a huge disaster.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;You'd be in big trouble if this item was used on you... A terrible demon will pull every prank in the book on you... Like causing natural disasters.&quot;&lt;CR&gt;&quot;...I think that's beyond the realm of pranks.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="false"/>
+    <LibraryItem note="&quot;If you drink this medicine, it'll make you ridiculously strong for a short time. But...&quot;&lt;CR&gt;&quot;The burden it places on the body is also large. There's always a cost to gaining power.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This medicine can create materials and develop living things.&quot;&lt;CR&gt;&quot;So if I used this on myself, would I get taller and turn into a gorgeous adult woman...?&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Zzz, zzz...&quot;&lt;CR&gt;&quot;You'll catch a cold if you sleep in a place like this.&quot;&lt;CR&gt;&quot;It's okay... If I use this tent... It'll be really warm... And comfortable... Zzz...&quot;" icon0="0" icon1="2" icon2="0" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;I wonder what kind of paths fairies take?&quot;&lt;CR&gt;&quot;I imagine them flying through the sky...&quot;&lt;CR&gt;&quot;But then why would they need a guide sign...?&quot;&lt;CR&gt;&quot;That's... I've never seen them, so I wouldn't know!&quot;" icon0="0" icon1="2" icon2="0" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This cart returns to a set place by itself, as though it has its own will. Although it seems to take the scenic route sometimes.&quot;&lt;CR&gt;&quot;So even carts slack off...&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Watch this... Om!&quot;&lt;CR&gt;&quot;Whoa, Sophie just disappeared!&quot;&lt;CR&gt;&quot;These candies make you disappear while you're eating them. Although they're small, so they don't last very long.&quot;" icon0="0" icon1="3" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Watch this, Monika. Hup!&quot;&lt;CR&gt;&quot;You just lifted Oskar into the air...!?&quot;&lt;CR&gt;&quot;If you put this feather on, you become weightless. That's why even Oskar is super light.&quot;" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;With these shoes, even Oskar can run like that.&quot;&lt;CR&gt;&quot;Whoa, it's too fast! Someone stop me!&quot;&lt;CR&gt;&quot;It lets anyone run super fast.&quot;&lt;CR&gt;&quot;...Although he's asking for help stopping.&quot;" icon0="0" icon1="3" icon2="0" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;My special deluxe backpack! It's convenient, easy to carry, and cute!&quot;&lt;CR&gt;&quot;...It doesn't have to be cute.&quot;&lt;CR&gt;&quot;What!? That's the MOST important part!&quot;" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;There are some things that you never want to lose, right? If you put them in this bag, mysterious power will make it hard to lose them.&quot;&lt;CR&gt;&quot;...What if you lose the bag itself?&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;Wow, these are big gloves.&quot;&lt;CR&gt;&quot;Yeah. But these gloves aren't just big, they also have a good grip. They let you gather lots of stuff at once.&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is a charm of the god of war. It's said to bless those who continue to win.&quot;&lt;CR&gt;&quot;...What happens if you lose?&quot;&lt;CR&gt;&quot;Maybe you'll be abandoned, and misfortune happens.&quot;" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;This charm is really amazing. Just holding it causes the god of training to support you. It lets you train efficiently.&quot;&lt;CR&gt;&quot;But you still have to do the training yourself.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;This charm is full of magic. The magic inside makes monsters stay away from you.&quot;&lt;CR&gt;&quot;*Sniff sniff*... This charm smells really weird... Isn't that the real reason?&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's a cute pendant in the shape of a heart. It's said that wearing this helps you become more friendly with people.&quot;&lt;CR&gt;&quot;Huh... Does it work on plants?&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This is neutralizer, a basic among basics in alchemy. Making neutralizer can be said to be the first step towards becoming an alchemist.&quot;&lt;CR&gt;&quot;I see... I guess that's right.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;One property of neutralizer is that it changes color when it contains different components. Blue neutralizer can help stabilize medicinal compounds.&quot;&lt;CR&gt;&quot;That means it's best for making medicine.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is a type of neutralizer. Green means...&quot;&lt;CR&gt;&quot;I know this one. It was made from plants!&quot;&lt;CR&gt;&quot;That's correct. Maybe this one's too easy to guess?&quot;" icon0="17" icon1="0" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;This is one type of neutralizer. Yellow is derived by refining materials such as soil and clay.&quot;&lt;CR&gt;&quot;Hey, could I make this with dirt from outside?&quot;&lt;CR&gt;&quot;...It'll only result in a low quality product.&quot;" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;This water is purified by special means. Impurities have been removed to the utmost limit, making it valuable for Synthesis.&quot;&lt;CR&gt;&quot;If it's THIS pure, I wonder if it's any good to drink?&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This liquid has a powerful purifying effect. Even a single drop can turn polluted water into potable water.&quot;&lt;CR&gt;&quot;It would be wonderful if it really was the tears of spirits.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;Flavoring made from processed fruit. It's moderately sweet and sour, giving a nice aroma to snacks.&quot;&lt;CR&gt;&quot;So this is the secret ingredient in the sweets you make, Sophie.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This flour is made by grinding Ramel Wheat. It can be used in bread, snacks... I'm pretty sure we eat this every day in some form or another.&quot;&lt;CR&gt;&quot;It's a necessary ingredient that sustains every kitchen.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Mm, it's so sweet and delicious!&quot;&lt;CR&gt;&quot;Sophie, I can't commend you for snacking on ingredients. You'll discover that you don't have enough when you actually need it.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This yeast is used to raise or ferment bread and other things. It's made from natural ingredients, so it should be good for your health.&quot;&lt;CR&gt;&quot;Besides, the natural stuff tastes better.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;This material received this name because it can be used as the base for every type of medicine.&quot;&lt;CR&gt;&quot;So... It's not the base for a cure-all elixir, is it.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;How is this different from normal paper?&quot;&lt;CR&gt;&quot;It's more suitable for burning than ordinary paper, making disposal of confidential research documents very easy.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is clean oil, free from any impurities. Drinking it will remove toxins from the body.&quot;&lt;CR&gt;&quot;It's very fluid for oil. The amber color is also beautiful.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Achoo!&quot;&lt;CR&gt;&quot;Stop it, Oskar! If this powder goes flying, it can ignite.&quot;&lt;CR&gt;&quot;Don't leave something so dangerous sitting around!&quot;" icon0="3" icon1="0" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;This is thoroughly refined Raiden Ore. It doesn't look like much on the surface, but it actually has vast electrical power stored inside.&quot;&lt;CR&gt;&quot;It's always making crackling noises.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;It's black... What is this?&quot;&lt;CR&gt;&quot;It's metal... Or so I think, but I can't say for sure. Even Plachta said that she doesn't know exactly what this is.&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is clay made with alchemy. Heating it makes it turn as hard as iron.&quot;&lt;CR&gt;&quot;Still, it's easy to work with. It's an excellent material that has many uses.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This thread is really golden and shiny.&quot;&lt;CR&gt;&quot;It's used often in accessories and embroidery.&quot;&lt;CR&gt;&quot;If I work hard, I might be able to make cloth that's all gold using this.&quot;" icon0="0" icon1="17" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This wood material is made by processing Kifa. It's used for all kinds of familiar things, from buildings to daily goods.&quot;&lt;CR&gt;&quot;It's good that it's so easy to obtain.&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is a lump of metal extracted and refined from ore. It's a material for all kinds of metallic goods.&quot;&lt;CR&gt;&quot;I can't believe this turns into things like swords and spears...&quot;" icon0="9" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This metal features high strength and low melting point. The low melting point makes it easier to work with. It's often used in furniture and building materials.&quot;&lt;CR&gt;&quot;Huh... I didn't know that...&quot;" icon0="9" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is shiny and silver colored.&quot;&lt;CR&gt;&quot;Yeah. This metal's characteristic is that it grows more brilliant the more it's polished. However, low production yield makes it pretty expensive.&quot;" icon0="0" icon1="9" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is really red... Metal? Or not?&quot;&lt;CR&gt;&quot;It's genuine metal. It boasts enormous strength, but its melting point is also very high. It's very difficult to work with.&quot;" icon0="0" icon1="9" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's so golden!&quot;&lt;CR&gt;&quot;It's highly malleable... In other words, this metal is soft and stretches easily. It's also strong, so it's convenient to use, but... The downside is that it's really expensive.&quot;" icon0="0" icon1="9" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is known as the supreme metal. Hard to work with, but its strength is without equal.&quot;&lt;CR&gt;&quot;This is really amazing metal!&quot;&lt;CR&gt;&quot;Alchemy really is amazing.&quot;" icon0="9" icon1="-1" icon2="0" icon3="9" permit="true"/>
+    <LibraryItem note="&quot;It's cloth.&quot;&lt;CR&gt;&quot;...Is that all you have to say about it?&quot;&lt;CR&gt;&quot;It's made from various materials, and its characteristics depend on that, so I can't really generalize much more.&quot;" icon0="8" icon1="0" icon2="8" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This cloth is woven from thread made by processing animal fur. Its main feature is its soft and fluffy texture.&quot;&lt;CR&gt;&quot;It's also really warm to wear.&quot;" icon0="8" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is the latest cloth popular in Adalett. Main feature is its high elasticity. Doesn't matter what physique, clothes made with this will fit tightly.&quot;&lt;CR&gt;&quot;It stretches so much, it makes me question whether it's cloth or not.&quot;" icon0="8" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This cloth is so light and fluffy to the touch that it's also known as angel wings.&quot;&lt;CR&gt;&quot;Wow... This really does feel amazing... I just want to rub it against my cheek forever...&quot;" icon0="8" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is a high quality cloth that all the rich desire. It's hard to make, and the materials are expensive. It's valuable because not much of it can be produced.&quot;&lt;CR&gt;&quot;It's smooth and silky, it would probably be nice to wear...&quot;" icon0="8" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;Wow...! This is so pretty... And not just that, it's also really strong.&quot;&lt;CR&gt;&quot;This is the greatest cloth, combining beauty and practicality. It's extremely hard to work with, though.&quot;" icon0="0" icon1="-1" icon2="8" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's so pretty... It's shaped almost like a flower.&quot;&lt;CR&gt;&quot;Yeah. You have to adjust the temperature to make this crystal into a flower shape. Not managing the temperature right will make it turn out not so pretty.&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This purplish gem is very beautiful.&quot;&lt;CR&gt;&quot;It's made with ore that's rare in this region. Apparently, it's been used as a gift for people of high status since long ago.&quot;" icon0="17" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This looks poisonous...&quot;&lt;CR&gt;&quot;It has many properties and it's convenient.&quot;&lt;CR&gt;&quot;It might be convenient, but I wouldn't want to use it...&quot;" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This crystal ball is supposed to let you see the future when you gaze into it, but... I don't see anything.&quot;&lt;CR&gt;&quot;Doesn't that mean you have a dark future...&quot;&lt;CR&gt;&quot;Stop it, don't say unlucky things like that!&quot;" icon0="0" icon1="-1" icon2="3" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This item is for moving Plachta's soul from the book into the doll. I couldn't have made it if Cory hadn't duplicated the materials.&quot;&lt;CR&gt;&quot;No, it wasn't a big deal...&quot;" icon0="0" icon1="-1" icon2="-1" icon3="6" permit="true"/>
+    <LibraryItem note="&quot;This stone is really red...&quot;&lt;CR&gt;&quot;Yes. This stone requires very high level alchemic techniques. It cannot be created unless the material compounds are condensed perfectly.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;One of the final goals of alchemy, the pinnacle: that is the Philosopher's Stone.&quot;&lt;CR&gt;&quot;But this was more like a checkpoint for me. My goal is something else!&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This tear shaped jewel is said to contain the power of the sun.&quot;&lt;CR&gt;&quot;It really helped that you researched how to make this, Monika. Thanks.&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This fertilizer is made by thoroughly mixing nutrients that plants need. Using this, any plant will be full of energy, guaranteed!&quot;&lt;CR&gt;&quot;Sophie... I knew you were capable all along!&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;This soil contains compounds that'll make plants healthy. If you plants seeds in this, they'll be blooming flowers by the next day.&quot;&lt;CR&gt;&quot;...Is that really okay? Isn't that a little too powerful?&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Is this a part to fix my box...?&quot;&lt;CR&gt;&quot;Yeah, that's right. It's a really delicate part, so it was hard work... But it was for you, Cory. I did my best to make it!&quot;" icon0="6" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This is a cauldron for Synthesis. It's the same one that my grandma used, so it's pretty old and worn out.&quot;&lt;CR&gt;&quot;It's a memento of your grandmother.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Practice? But I'm a full fledged alchemist.&quot;&lt;CR&gt;&quot;Basics is the most important. Also, from my view, you're still a novice.&quot;&lt;CR&gt;&quot;Grr! I'll make you accept me, one day!&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This cauldron is kind of fancy.&quot;&lt;CR&gt;&quot;Yes, I believe so as well, from the bottom of my heart.&quot;&lt;CR&gt;&quot;...Are you sure? That sounded like a lie...&quot;&lt;CR&gt;&quot;It wasn't... This cauldron &quot;tunes&quot; sympathy, after all.&quot;" icon0="0" icon1="17" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;It's said that alchemy experts use this cauldron.&quot;&lt;CR&gt;&quot;Experts... How much of an expert? And what exactly makes them such an expert? Hm?&quot;&lt;CR&gt;&quot;I don't really know how to answer that...&quot;" icon0="17" icon1="0" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;It's said that fairies created this cauldron.&quot;&lt;CR&gt;&quot;Hm... Fairies, huh... Just hearing that makes me feel like I could make amazing things with this.&quot;&lt;CR&gt;&quot;Perhaps that's the power of assumption?&quot;" icon0="17" icon1="0" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;Wow... This cauldron seems really old fashioned.&quot;&lt;CR&gt;&quot;Now this is nostalgic. This model was the most popular cauldron back in my day.&quot;&lt;CR&gt;&quot;...Uu, I'm really feeling a generational barrier here.&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This cauldron is made from materials that make synthesis difficult, to help you grow as an alchemist.&quot;&lt;CR&gt;&quot;Ugh, what a mean-spirited cauldron.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This was used by a great alchemy master.&quot;&lt;CR&gt;&quot;A master... Did he know more than you?&quot;&lt;CR&gt;&quot;Sophie! Of course he did!&quot;&lt;CR&gt;&quot;Really?! That's amazing!&quot;" icon0="17" icon1="0" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This cauldron allows miraculous synthesis.&quot;&lt;CR&gt;&quot;Miraculous? It is easy to use, but it doesn't seem that special.&quot;&lt;CR&gt;&quot;(That just shows how much you've grown.)&quot;" icon0="17" icon1="0" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="This alchemy catalyst represents purity and integrity. It restrains the appearance of impurities during Synthesis, maintaining a purer than normal state." icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="This alchemy catalyst represents succession. It makes traits and characteristics of materials used in Synthesis easier to transfer to the end product." icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="This alchemy catalyst represents growth. It stimulates development of materials used during Synthesis, resulting in a better end product." icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="This alchemy catalyst represents propagation. Using this during Synthesis can increase the number of end products. However, oftentimes this increase results in quality being split as well." icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;Ah, this meat is starting to rot. Hm, this one looks like it's still edible.&quot;&lt;CR&gt;&quot;...Sophie. That's a rare device used to examine the condition of materials. Don't use it to inspect food.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is a glass tool for use during Synthesis. It allows one to accurately measure material quantities, increasing precision of Synthesis.&quot;&lt;CR&gt;&quot;...Wait, you're supposed to measure materials?&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="false"/>
+    <LibraryItem note="&quot;Wah, this is shaking really violently!?&quot;&lt;CR&gt;&quot;It's a tool to stimulate materials with vibration. It allows one to mix them faster and more accurately than by hand.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This is my deluxe mixing rod! I designed it so that it's easier for me to use.&quot;&lt;CR&gt;&quot;A mixing rod is like a part of the body for an alchemist. It's good to be particular about it.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This is the staff I use. It's nothing special, just a normal staff you can buy in town.&quot;&lt;CR&gt;&quot;There's a custom in this town of buying this staff as a gift for those traveling, as a prayer for good luck.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This cute staff has a moon shaped ornament on the end.&quot;&lt;CR&gt;&quot;It's cute, but... Is this even usable in battle?&quot;&lt;CR&gt;&quot;Heh heh heh, the ornament is actually a blade. That makes it pretty strong.&quot;" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Travelers who wander various lands carry this staff as a charm for good luck.&quot;&lt;CR&gt;&quot;Holding this staff is enough to calm you down. It's like you're being protected by something.&quot;" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;It's said that this is a staff of prosperity. Swinging this staff just once is enough to turn a wasteland into a flower garden...&quot;&lt;CR&gt;&quot;There's no way a staff like that exists outside of dreams.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;All things exist in an eternal cycle. This staff represents the innermost teachings of alchemy.&quot;&lt;CR&gt;&quot;I don't really understand, but... I'm guessing that means everything is cycling around in circles... I think?&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This bracelet has a pretty gem set in it.&quot;&lt;CR&gt;&quot;Yes. This gem's radiance changes as the moon waxes and wanes.&quot;&lt;CR&gt;&quot;Ahaha. That's really suitable on you, Plachta.&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;Wearing this bracelet allows one to exhibit more strength.&quot;&lt;CR&gt;&quot;Is that thanks to alchemy?&quot;&lt;CR&gt;&quot;The protrusion on the inside presses a vital point for strength.&quot;" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;This bracelet is said to contain the power a place far beyond this land... The cosmos. Wearing it bestows the blessing of a greater being.&quot;&lt;CR&gt;&quot;T-the scale is so big that I don't really understand...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This bracelet has a spell engraved on the inside that amplifies the wearer's physical abilities.&quot;&lt;CR&gt;&quot;If a spell like that really exists, you could just engrave it on all kinds of things to get super strong...&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Story says this bracelet was gifted by a princess a knight she trusted most.&quot;&lt;CR&gt;&quot;Wow, there must have been a wonderful love story between them... I really admire that.&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is Monika's sword. The end is pretty sharp, it looks really strong!&quot;&lt;CR&gt;&quot;...This is a false sword for training. It can be used for battle, but it's not really designed for it.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Oh, I know this sword. It was used by the hero in a certain play... Right?&quot;&lt;CR&gt;&quot;Yes, that's right. A moving story about a brave fencer fighting for his own beliefs... I really like that play.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This sword is used by high ranking knights in a certain country. It's stronger than ordinary swords, and won't break easily.&quot;&lt;CR&gt;&quot;You look like a real knight when you hold it, Monika.&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;It's said that this sword was used by a mighty hero in the past. That hero's swordplay was like a dance, and was said to be quite elegant.&quot;&lt;CR&gt;&quot;I want to look really cool while fighting, too...&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This was made in your image, Monika. It's elegant, and graceful, and pretty, and stylish.&quot;&lt;CR&gt;&quot;Hey, what are you talking about, Sophie? ...But I'm really happy. Thank you.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This shovel's kind of special. If you have this shovel, you can transplant withering plants the moment you see them.&quot;&lt;CR&gt;&quot;Are these decorations according to your taste or something...?&quot;" icon0="3" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;How do you dig hard dirt easily? By putting in a bit of effort to make this improved shovel.&quot;&lt;CR&gt;&quot;You always think everything's bothersome, except when it comes to plants...&quot;" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This shovel has the ability to absorb sunlight. Any earth tilled with this shovel makes plants grow faster.&quot;&lt;CR&gt;&quot;The sun is really warm and grand...&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;The tip of this shovel is made with a special material that doesn't harm the roots of plants. You can gently transplant any kind of plant with this.&quot;&lt;CR&gt;&quot;Although it's heavy, so it looks really hard to use...&quot;" icon0="3" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This shovel is full of love towards plants. I could split the earth itself with this shovel!&quot;&lt;CR&gt;&quot;...If you split the earth, plants won't grow anymore, you know?&quot;" icon0="3" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This sword is distributed to priest-knights in my country. It's made so that anyone can handle it easily.&quot;&lt;CR&gt;&quot;This sword seems really knight-like! It's big, and looks strong.&quot;" icon0="4" icon1="-1" icon2="0" icon3="-1" permit="true" startEv="EVENT_MM02_080"/>
+    <LibraryItem note="&quot;This sword looks really heavy.&quot;&lt;CR&gt;&quot;That's right. It has significant weight. On the other hand, the edge isn't very sharp, so it's more suited for crushing than cutting.&quot;" icon0="0" icon1="4" icon2="-1" icon3="-1" permit="true" startEv="EVENT_MM02_080"/>
+    <LibraryItem note="&quot;This sword is bestowed to high ranking priest-knights. Only noble individuals who understand the true way of the knight are permitted to wield it.&quot;&lt;CR&gt;&quot;That sounds perfect for you, Sir Julio!&quot;" icon0="4" icon1="-1" icon2="-1" icon3="0" permit="true" startEv="EVENT_MM02_080"/>
+    <LibraryItem note="&quot;Apparently, in ancient times, this sword was used to execute the wicked.&quot;&lt;CR&gt;&quot;It would be way better not to do bad things, if it meant getting chased around by someone with this...&quot;" icon0="4" icon1="-1" icon2="0" icon3="-1" permit="true" startEv="EVENT_MM02_080"/>
+    <LibraryItem note="&quot;This sword seems kind of... Divine...&quot;&lt;CR&gt;&quot;In my country, there's a legend of an order of knights who served God. Some say that they carried swords such as this.&quot;" icon0="0" icon1="4" icon2="-1" icon3="-1" permit="true" startEv="EVENT_MM02_080"/>
+    <LibraryItem note="&quot;These swords seem kind of brutal and scary...&quot;&lt;CR&gt;&quot;You think so? They're actually lighter than they look, and not as sharp as you might expect. I suppose they're weapons more for intimidating the enemy out of fighting.&quot;" icon0="0" icon1="5" icon2="-1" icon3="-1" permit="true" startEv="EVENT_QC04_FRI_080"/>
+    <LibraryItem note="&quot;Look at this. The level of light makes the color of the blade appear differently.&quot;&lt;CR&gt;&quot;Wow, you're right! It's silver, then it's black... What a mysterious weapon...&quot;" icon0="5" icon1="-1" icon2="0" icon3="-1" permit="true" startEv="EVENT_QC04_FRI_080"/>
+    <LibraryItem note="&quot;These swords are...&quot;&lt;CR&gt;&quot;Wow, it cut that paper so easily!&quot;&lt;CR&gt;&quot;...To think you'd use a famed sword said to be so sharp that it can slay demon gods, to cut mere paper...&quot;" icon0="5" icon1="0" icon2="5" icon3="-1" permit="true" startEv="EVENT_QC04_FRI_080"/>
+    <LibraryItem note="&quot;Wow, these swords are cool!&quot;&lt;CR&gt;&quot;It's an improvement over Dark Light. The blades are thinner and sharper, able to send any who oppose you to the grave.&quot;" icon0="0" icon1="5" icon2="-1" icon3="-1" permit="true" startEv="EVENT_QC04_FRI_080"/>
+    <LibraryItem note="&quot;It's said that swords forged to the utmost limit are capable of cutting even water and light. I never expected to obtain such a weapon in my lifetime.&quot;&lt;CR&gt;&quot;I didn't think it was possible to cut water or light...&quot;" icon0="5" icon1="-1" icon2="-1" icon3="0" permit="true" startEv="EVENT_QC04_FRI_080"/>
+    <LibraryItem note="&quot;These are the gauntlets that I use...&quot;&lt;CR&gt;&quot;Whoa, they're heavy! Cory, are you always fighting using these!?&quot;&lt;CR&gt;&quot;Heavy...? How are they heavy...?&quot;" icon0="6" icon1="0" icon2="-1" icon3="6" permit="true" startEv="EVENT_QC05_COR_090"/>
+    <LibraryItem note="&quot;This is the mysterious and wonderful combination of my alchemy, your weapon, and Logy's blacksmithing! We put the power of lightning in your gauntlets!&quot;&lt;CR&gt;&quot;...Using these makes my hands feel tingly.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="6" permit="true" startEv="EVENT_QC05_COR_090"/>
+    <LibraryItem note="&quot;Cory, are those... Squirming around?&quot;&lt;CR&gt;&quot;Yes. These gauntlets have Puni inside.&quot;&lt;CR&gt;&quot;You put Puni in gauntlets!? Why would you do that!?&quot;&lt;CR&gt;&quot;...They're all squishy... And feel nice...&quot;" icon0="0" icon1="6" icon2="0" icon3="6" permit="true" startEv="EVENT_QC05_COR_090"/>
+    <LibraryItem note="&quot;How is it, Cory? We tried putting cold materials inside your gauntlets...&quot;&lt;CR&gt;&quot;It was really nice at first, but... Now it's so cold... I'm getting the shivers... Brrr.&quot;" icon0="0" icon1="-1" icon2="6" icon3="-1" permit="true" startEv="EVENT_QC05_COR_090"/>
+    <LibraryItem note="&quot;Weapons really need some explosive power. And that's why I tried putting bombs in your gauntlets this time. Try them out, Cory!&quot;&lt;CR&gt;&quot;...Um, I'm not in any danger using these, am I?&quot;" icon0="0" icon1="-1" icon2="-1" icon3="6" permit="true" startEv="EVENT_QC05_COR_090"/>
+    <LibraryItem note="&quot;Are these bullets for a gun...?&quot;&lt;CR&gt;&quot;Yeah. They use low quality metal and damp powder, so the only redeeming quality is how cheap they are... I'm lucky that they even fire.&quot;" icon0="0" icon1="7" icon2="-1" icon3="-1" permit="true" startEv="EVENT_QC06_HAR_090"/>
+    <LibraryItem note="&quot;The tips of these bullets are pointed.&quot;&lt;CR&gt;&quot;Yeah. The diameter is larger than your average bullets, and the tips are sharpened. They're made to pierce solid armor and hides.&quot;" icon0="0" icon1="7" icon2="-1" icon3="-1" permit="true" startEv="EVENT_QC06_HAR_090"/>
+    <LibraryItem note="&quot;These bullets are made out of crystals.&quot;&lt;CR&gt;&quot;Crystals...? Wouldn't they just break?&quot;&lt;CR&gt;&quot;They're actually made to shatter on impact. They burst, causing deeper and more severe wounds.&quot;" icon0="7" icon1="0" icon2="7" icon3="-1" permit="true" startEv="EVENT_QC06_HAR_090"/>
+    <LibraryItem note="&quot;The tips of these bullets contain a very hard metal to improve their piercing capability. It can easily shoot straight through your average rock.&quot;&lt;CR&gt;&quot;A rock!? ...Guns really are amazing.&quot;" icon0="7" icon1="-1" icon2="-1" icon3="0" permit="true" startEv="EVENT_QC06_HAR_090"/>
+    <LibraryItem note="&quot;These bullets are made one by one, using carefully selected materials by master craftsmen.&quot;&lt;CR&gt;&quot;Isn't it wasteful to use them?&quot;&lt;CR&gt;&quot;Things are meant to be used...&quot;" icon0="7" icon1="-1" icon2="0" icon3="7" permit="true" startEv="EVENT_QC06_HAR_090"/>
+    <LibraryItem note="&quot;This is Leon's spear. Why did you decide to use spears, Leon?&quot;&lt;CR&gt;&quot;It's because handling a spear is similar to handling a needle.&quot;&lt;CR&gt;&quot;R-really...?&quot;" icon0="0" icon1="-1" icon2="8" icon3="0" permit="true" startEv="EVENT_QC06_HAR_080"/>
+    <LibraryItem note="&quot;This spear is made with really light metal. It doesn't have much power, but it's very easy to handle.&quot;&lt;CR&gt;&quot;That means you can move around as quickly as a cat!&quot;" icon0="8" icon1="-1" icon2="-1" icon3="0" permit="true" startEv="EVENT_QC06_HAR_080"/>
+    <LibraryItem note="&quot;I feel like ladies don't really swing spears around...&quot;&lt;CR&gt;&quot;You're too naive. A true lady needs to be able to fight with all her strength, at times. This spear was made for that purpose.&quot;" icon0="0" icon1="8" icon2="-1" icon3="-1" permit="true" startEv="EVENT_QC06_HAR_080"/>
+    <LibraryItem note="&quot;Panthers are really great. They're beautiful, sleek and graceful... This spear was made with the image of a panther in mind.&quot;&lt;CR&gt;&quot;...You're kind of like a panther yourself, Leon.&quot;" icon0="8" icon1="-1" icon2="-1" icon3="0" permit="true" startEv="EVENT_QC06_HAR_080"/>
+    <LibraryItem note="&quot;Hmm, this is a fashionable spear, just how I like it.&quot;&lt;CR&gt;&quot;It has a really complex shape...&quot;&lt;CR&gt;&quot;It can slash and thrust. It was designed to maximize all the appeals of a spear.&quot;" icon0="8" icon1="0" icon2="8" icon3="-1" permit="true" startEv="EVENT_QC06_HAR_080"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;A lot of adventurers wear this vest.&quot;&lt;CR&gt;&quot;It's reasonably priced, and decently tough. It also helps keep you from dehydrating, and protects against the cold.&quot;&lt;CR&gt;&quot;This seems like a must-have for traveling.&quot;" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This vest contains a network of metal. Its far tougher than a normal vest, so it's more useful in battle. It just has one flaw...&quot;&lt;CR&gt;&quot;...It's really heavy.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Tadah! It's a sparkling golden jacket! Amazing, isn't it!&quot;&lt;CR&gt;&quot;It looks like it provides high defense, but... I don't think I could ever wear this around town.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This vest is rather... Colorful...&quot;&lt;CR&gt;&quot;Yeah... But it's actually really good in battle...&quot;&lt;CR&gt;&quot;Wouldn't it make you stand out and be attacked more?&quot;" icon0="3" icon1="0" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;Want more defense, but don't want to be weighed down by heavy armor? Then this light and hardened jacket solves all your problems!&quot;&lt;CR&gt;&quot;It does look tougher than most armors.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="&quot;This vest uses alchemic techniques. The moment it receives an impact, the cloth becomes harder.&quot;&lt;CR&gt;&quot;Alchemy can even do something like that...?&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This is an ordinary coat that you see around everywhere.&quot;&lt;CR&gt;&quot;Yeah. It doesn't have any decorations, and the color is plain, but that actually makes it kind of relaxing.&quot;&lt;CR&gt;&quot;It's an item that you can rely on.&quot;" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This coat has been reinforced in various places to protect human vital points and weaknesses.&quot;&lt;CR&gt;&quot;The joints and stuff are pretty bulky though, so it's a little hard to move around in...&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This coat is made using Fardenlite. It's warm, and won't burn even if you throw it in a fire. It's just that fire resistant.&quot;&lt;CR&gt;&quot;But you'd regret wearing this on a hot day.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;When this coat receives an impact, the surface is made to flake off.&quot;&lt;CR&gt;&quot;You're right, it keeps falling off... Wait, wouldn't this end up full of holes eventually?&quot;" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This coat was made using dragon scales!&quot;&lt;CR&gt;&quot;This is unusual... I see. It looks like the rumors that it's stronger than metal, yet lighter than cloth, were true. Magnificent.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This coat was made using ore from a really old rock layer.&quot;&lt;CR&gt;&quot;Huh. Since it's using such old materials, that must mean this coat has a long history too.&quot;" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is the first shirt.&quot;&lt;CR&gt;&quot;...I might be misremembering, but... Have you never worn a shirt before, Sophie?&quot;&lt;CR&gt;&quot;I mean this is the first shirt used by travelers!&quot;" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This shirt was woven together using fur from all kinds of creatures. It's a little stiff, but it's really warm.&quot;&lt;CR&gt;&quot;...You haven't used fur from any weird creatures, have you?&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This shirt was made for travelers who wander to all kinds of places. Dirt washes off easily, and it doesn't really retain smells.&quot;&lt;CR&gt;&quot;I wouldn't want to travel for THAT long...&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This shirt is super light. You'd even worry that you might not actually be wearing it.&quot;&lt;CR&gt;&quot;That's amazing and all, but try not to actually forget to wear a shirt.&quot;" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;These clothes are meant to blend in with plants and trees. You'd definitely win at hide and seek.&quot;&lt;CR&gt;&quot;But it doesn't hide your scent, so it's not very effective against monsters.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This shirt was made really hard using metal. It's harder than even your average armor!&quot;&lt;CR&gt;&quot;...This isn't even a shirt anymore. It's just armor.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;M-Monika... About these clothes...&quot;&lt;CR&gt;&quot;H-hey! You can see right through this!&quot;&lt;CR&gt;&quot;It bends light to make your position hard to track, but... It's not really easy to wear around, is it...&quot;" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This cloak was made using alchemic techniques. The power of alchemy makes it really comfortable, and it keeps you warm. It's a great item!&quot;&lt;CR&gt;&quot;Sounds like alchemy can do anything...&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Ah... This is wonderful... It's so relaxing...&quot;&lt;CR&gt;&quot;It's true that this armor made with soft materials that absorb impacts is comfortable, but... I never expected Monika to act like this too...&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Wow, this is really tight...&quot;&lt;CR&gt;&quot;This shirt emphasizes ease of movement, so it's made to fit tightly to the body... But it's kind of outrageous when you wear it, Oskar.&quot;" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Oh, what a cute blouse.&quot;&lt;CR&gt;&quot;Yeah. I referred to wedding dresses while making it. It's specially made with alchemy, so it's thin yet strong. It's the perfect thing to protect a maiden's skin!&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;The inside of these clothes is soaked with medicine. Just wearing it makes your wounds slowly heal.&quot;&lt;CR&gt;&quot;This could be used for medical care in the future.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This bangle strengthens the wearer's vitality.&quot;&lt;CR&gt;&quot;It's a pretty stylish design, too.&quot;&lt;CR&gt;&quot;Really? Maybe I can sell it as an accessory...&quot;" icon0="0" icon1="-1" icon2="2" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;Putting this headband on lifts your spirits, making you feel like you could do anything.&quot;&lt;CR&gt;&quot;The cloth actually contains a compound that stimulates people.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;What do you think? It's said that angels wear these ribbons. If you put this on, it'll protect you from disasters.&quot;&lt;CR&gt;&quot;You look like a kid when you wear it, Sophie.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;This ornament was made with bird feathers. It has the image of birds that fly as fast as the wind.&quot;&lt;CR&gt;&quot;Wearing this makes me feel lighter. I feel like I could move quicker than normal.&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Wow, these earrings have pretty gems set in them.&quot;&lt;CR&gt;&quot;Yeah. Those gems are filled with the power of nature. It's said that wearing them makes nature itself protect you.&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Ah, this is a garland. We made these all the time when we were kids.&quot;&lt;CR&gt;&quot;Yeah. But this isn't an ordinary garland. It has the power to protect anyone who wears it.&quot;" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;These are mittens fit for an artisan! You can hold freshly baked bread without getting burned if you have these on!&quot;&lt;CR&gt;&quot;...Is this really something that we can use in battle?&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;Ah, Monika. You're hungry right now, aren't you?&quot;&lt;CR&gt;&quot;Huh? How did you know?&quot;&lt;CR&gt;&quot;Heh heh heh. With this monocle, I can clearly see the state of your body, and your weaknesses!&quot;" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Black and white... These glasses have a strange design.&quot;&lt;CR&gt;&quot;Yeah. They reveal chaos and order, and can even make events you witness as though they didn't happen.&quot;&lt;CR&gt;&quot;You couldn't carelessly look at things with this...&quot;" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;It's said that this charm brings good fortune. Apparently the pattern on it has the effect.&quot;&lt;CR&gt;&quot;Hm, the pattern, huh... Maybe I could draw it somewhere on my shield...&quot;" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;That hourglass can control time.&quot;&lt;CR&gt;&quot;Can I try turning it over? Let's see.&quot;&lt;CR&gt;&quot;That hourglass can control time.&quot;&lt;CR&gt;&quot;I don't know if I went back in time, or if I'm being tricked.&quot;" icon0="0" icon1="3" icon2="0" icon3="3" permit="true"/>
+    <LibraryItem note="&quot;BOO! How's that, Sophie?&quot;&lt;CR&gt;&quot;Wah, you scared me! That mask is smiling so much it's creepy! Stop it!&quot;&lt;CR&gt;&quot;It looks like an item some tribe would use for rituals.&quot;" icon0="3" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;ALRIIIGHT! I'M ALL FIRED UP!&quot;&lt;CR&gt;&quot;...O-Oskar? What's going on?&quot;&lt;CR&gt;&quot;Wearing this belt causes your strength to overflow, so it makes you want to shout like that...&quot;" icon0="3" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This shield is blessed by spirits. It can protect you from flames and blizzards and stuff.&quot;&lt;CR&gt;&quot;How did it get blessed by spirits?&quot;&lt;CR&gt;&quot;...I just prayed and asked nicely.&quot;" icon0="0" icon1="-1" icon2="3" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;The magic runes engraved in this ring can raise the wearer's various abilities.&quot;&lt;CR&gt;&quot;If I wear this, I wonder if I could split an Uni with my bare hands...&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This is the power source Harol made for Plachta.&quot;&lt;CR&gt;&quot;It wasn't going to be used for a clock, so it's a bit different. It was pretty hard work to make it...&quot;" icon0="0" icon1="-1" icon2="7" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;These clothes are made with special materials, so they can stretch and shrink.&quot;&lt;CR&gt;&quot;It's a very cute design. I'd like to try wearing it too...&quot;" icon0="8" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Apparently this is a rare stone that can only be found once every 20 years.&quot;&lt;CR&gt;&quot;It's a mysterious ore, round and smooth in shape, almost like a soul.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This item is always necessary when making devices related to souls.&quot;&lt;CR&gt;&quot;Souls are faint, immaterial things, after all. Something to guide the way is necessary.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is the key to open the Gates of Wisdom, where the Cauldron of Knowledge is located. It's called a key, but it's more like an orb filled with power...&quot;&lt;CR&gt;&quot;Only Plachta can use the key to unlock it.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is the Alchemic Drive Weapon I designed in the past. It's made to move according to my will.&quot;&lt;CR&gt;&quot;...I don't get how it works, but I do know you're really amazing to invent this, Plachta.&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;I did my best to come with a brooch that suits Leon.&quot;&lt;CR&gt;&quot;Considering the color and shape... I'm sure that it'll be perfectly suited for her.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;I created this doll for Plachta, with plans to use her in my future puppet show.&quot;&lt;CR&gt;&quot;Ehehe, it's really cute.&quot;&lt;CR&gt;&quot;I know, right! Especially this part here...&quot;" icon0="5" icon1="-1" icon2="0" icon3="5" permit="true"/>
+    <LibraryItem note="&quot;This is a music box from my home land... Maybe...&quot;&lt;CR&gt;&quot;It plays wonderful music when it's open. Cory and I both love it.&quot;" icon0="6" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is string for use in puppet shows. It's not very commonly found.&quot;&lt;CR&gt;&quot;I'm glad I was able to make it. Now you can perform puppet shows whenever you want!&quot;" icon0="5" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This clay has better durability than Alchemic Clay, and it also looks better when dry.&quot;&lt;CR&gt;&quot;Maybe a really amazing alchemist invented it...&quot;" icon0="5" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is nostalgic... This is the first alchemy item that Luard and I made.&quot;&lt;CR&gt;&quot;You two must have worked really hard to make something like this as your first item...&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This is a ticket to go on a date with me. If it had a market price, it would go for at least 10 million Cole!&quot;&lt;CR&gt;&quot;...Oh?&quot;&lt;CR&gt;&quot;Uu, don't look at me like that, Sophie...&quot;" icon0="11" icon1="-1" icon2="0" icon3="11" permit="true"/>
+    <LibraryItem note="&quot;Is this a rare plant?&quot;&lt;CR&gt;&quot;No, in fact it's extremely common. So common, in fact, that any proper, self respecting alchemist would never even think about using it.&quot;" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;Wow! Monika's glasses turned into sunglasses!&quot;&lt;CR&gt;&quot;I can't see in front of me. Ow!&quot;&lt;CR&gt;&quot;Hehe. Using alchemy for pranks.&quot;&lt;CR&gt;&quot;Haha! It's really peaceful, isn't it?&quot;" icon0="3" icon1="2" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;It's a portable atelier made with alchemy! It's really big inside, so 1000 Oskars could fit no problem.&quot;&lt;CR&gt;&quot;...That sounds like it would be really... Sweaty.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="&quot;The certificate for a licensed alchemist. To think she forgot this at the church. Grandma was really scatterbrained.&quot;&lt;CR&gt;&quot;Hehe, just like a certain someone else.&quot;" icon0="0" icon1="-1" icon2="-1" icon3="10" permit="true"/>
+    <LibraryItem note="&quot;I think these are Grandma's old clothes. I don't know why they're in my container...&quot;&lt;CR&gt;&quot;Maybe they were to be used in alchemy...&quot;&lt;CR&gt;&quot;Hmm... It's possible.&quot;" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;Grandma's clothes, restored by alchemy! Just perfect for fighting monsters!&quot;&lt;CR&gt;&quot;...Um, do we have to?&quot;&lt;CR&gt;&quot;Well, I am an alchemist, you know... Huh?&quot;" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This item will clean your room for you, sustaining itself by eating garbage!&quot;&lt;CR&gt;&quot;You've finally made it: the ultimate alchemist's cleaning tool...&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;I based this on Cory's duplication ability. But don't tell her, okay?&quot;&lt;CR&gt;&quot;Why not, Sophie?&quot;&lt;CR&gt;&quot;Well, it doesn't look much like her...&quot;" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="&quot;This says how to make the item requested by Meklet and Atomina.&quot;&lt;CR&gt;&quot;This is a very useful tool. It greatly increases gathering efficiency.&quot;" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;I found this book while searching around for materials to make a better doll.&quot;&lt;CR&gt;&quot;Was it really okay to take something like this?&quot;&lt;CR&gt;&quot;Yes. I can't use it, after all.&quot;" icon0="5" icon1="-1" icon2="0" icon3="5" permit="true"/>
+    <LibraryItem note="&quot;This book describes a device that's related to souls. I received it from a certain alchemist in the past.&quot;&lt;CR&gt;&quot;You seem like you know a lot of stuff I don't know, Sir Julio... That's really amazing...&quot;" icon0="4" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;T-this is hard... What is this...&quot;&lt;CR&gt;&quot;It's one of the alchemic theories I created... I wrote it as simply as possible, though.&quot;&lt;CR&gt;&quot;Uu, I can feel the difference in our power level...&quot;" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This book shows how to produce Sun Drops. It was in my grandfather's library... I'm sorry it's so dusty.&quot;&lt;CR&gt;&quot;That's not a problem, it really helps. Thanks, Monika.&quot;" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="&quot;This is the recipe for the alchemy item that we... Luard and I, first created.&quot;&lt;CR&gt;&quot;This was the reason you two started using alchemy... I can feel the thoughts that went into this recipe.&quot;" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This document describes tools for maintaining dolls, and items needed for puppet shows.&quot;&lt;CR&gt;&quot;Hm, hm... Taking a closer look, it seems like you need a lot of items... This is good to know.&quot;" icon0="5" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="&quot;This book describes the ultimate clay, invented by a certain alchemist.&quot;&lt;CR&gt;&quot;W-where did you find something like this...&quot;&lt;CR&gt;&quot;Hahaha. I spare no efforts for the sake of dolls.&quot;" icon0="5" icon1="-1" icon2="0" icon3="5" permit="true"/>
+    <LibraryItem note="&quot;This is a note left by a certain alchemist. It describes their research in great detail.&quot;&lt;CR&gt;&quot;Maybe I should start writing notes, too.&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="false"/>
+    <LibraryItem note="&quot;This book is said to contain the knowledge of all creation. However, part of it is damaged.&quot;&lt;CR&gt;&quot;I see... That's a little unfortunate...&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+</Root>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="MM09_010" end_ev="MM09_140" message_data="MM09_010_JULIO"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="MM09_010" end_ev="MM09_140" message_data="MM09_010_JULIO"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="MM09_010" end_ev="MM09_140" message_data="MM09_010_JULIO"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="night" people_data="JULIO" start_ev="MM09_010" end_ev="MM09_140" message_data="MM09_010_JULIO"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="QC03_JUL_100" end_ev="QC03_JUL_130" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="TOWN_08_JULIO_EV1"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="QC03_JUL_100" end_ev="QC03_JUL_130" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="TOWN_08_JULIO_EV1"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="QC03_JUL_100" end_ev="QC03_JUL_130" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="TOWN_08_JULIO_EV1"/>
+	<T01_TOWN_08_bud marker_data="MS01_050_FILON" day_time="morning" people_data="FILON" start_ev="MM03_090" end_ev="MM03_110" message_data="MS01_050_FILON"/>
+	<T01_TOWN_08_bud marker_data="MS01_050_FILON" day_time="noon" people_data="FILON" start_ev="MM03_090" end_ev="MM03_110" message_data="MS01_050_FILON"/>
+	<T01_TOWN_08_bud marker_data="MS01_050_FILON" day_time="evening" people_data="FILON" start_ev="MM03_090" end_ev="MM03_110" message_data="MS01_050_FILON"/>
+	<T01_TOWN_08_bud marker_data="MS01_050_FILON" day_time="night" people_data="FILON" start_ev="MM03_090" end_ev="MM03_110" message_data="MS01_050_FILON"/>
+	<T01_TOWN_08_bud marker_data="MS01_010_JULIO" day_time="morning" people_data="JULIO" start_ev="XF05_010" end_ev="MS01_010" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_010_JULIO"/>
+	<T01_TOWN_08_bud marker_data="MS01_010_JULIO" day_time="noon" people_data="JULIO" start_ev="XF05_010" end_ev="MS01_010" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_010_JULIO"/>
+	<T01_TOWN_08_bud marker_data="MS01_010_JULIO" day_time="evening" people_data="JULIO" start_ev="XF05_010" end_ev="MS01_010" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_010_JULIO"/>
+	<T01_TOWN_08_bud marker_data="MS01_010_MONIKA" day_time="morning" people_data="MONIKA" start_ev="XF05_010" end_ev="MS01_010" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_010_MONIKA"/>
+	<T01_TOWN_08_bud marker_data="MS01_010_MONIKA" day_time="noon" people_data="MONIKA" start_ev="XF05_010" end_ev="MS01_010" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_010_MONIKA"/>
+	<T01_TOWN_08_bud marker_data="MS01_010_MONIKA" day_time="evening" people_data="MONIKA" start_ev="XF05_010" end_ev="MS01_010" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_010_MONIKA"/>
+	<T01_TOWN_08_bud marker_data="MS01_050_JULIO" day_time="morning" people_data="JULIO" start_ev="XF05_050" end_ev="MS01_050" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_050_JULIO"/>
+	<T01_TOWN_08_bud marker_data="MS01_050_JULIO" day_time="noon" people_data="JULIO" start_ev="XF05_050" end_ev="MS01_050" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_050_JULIO"/>
+	<T01_TOWN_08_bud marker_data="MS01_050_JULIO" day_time="evening" people_data="JULIO" start_ev="XF05_050" end_ev="MS01_050" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_050_JULIO"/>
+	<T01_TOWN_08_bud marker_data="MS01_050_FILON" day_time="morning" people_data="FILON" start_ev="XF05_050" end_ev="MS01_050" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_050_FILON"/>
+	<T01_TOWN_08_bud marker_data="MS01_050_FILON" day_time="noon" people_data="FILON" start_ev="XF05_050" end_ev="MS01_050" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_050_FILON"/>
+	<T01_TOWN_08_bud marker_data="MS01_050_FILON" day_time="evening" people_data="FILON" start_ev="XF05_050" end_ev="MS01_050" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_050_FILON"/>
+	<T01_TOWN_08_bud marker_data="MS01_020_JULIO" day_time="morning" people_data="JULIO" start_ev="XF05_020" end_ev="MS01_020" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_020_JULIO"/>
+	<T01_TOWN_08_bud marker_data="MS01_020_JULIO" day_time="noon" people_data="JULIO" start_ev="XF05_020" end_ev="MS01_020" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_020_JULIO"/>
+	<T01_TOWN_08_bud marker_data="MS01_020_JULIO" day_time="evening" people_data="JULIO" start_ev="XF05_020" end_ev="MS01_020" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_020_JULIO"/>
+	<T01_TOWN_08_bud marker_data="MS01_020_OTTO" day_time="morning" people_data="OTTO" start_ev="XF05_020" end_ev="MS01_020" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_020_OTTO"/>
+	<T01_TOWN_08_bud marker_data="MS01_020_OTTO" day_time="noon" people_data="OTTO" start_ev="XF05_020" end_ev="MS01_020" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_020_OTTO"/>
+	<T01_TOWN_08_bud marker_data="MS01_020_OTTO" day_time="evening" people_data="OTTO" start_ev="XF05_020" end_ev="MS01_020" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_020_OTTO"/>
+	<T01_TOWN_08_bud marker_data="MS01_160_PAMELA" day_time="morning" people_data="PAMELA" start_ev="XF05_160" end_ev="MS01_160" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_160_PAMELA"/>
+	<T01_TOWN_08_bud marker_data="MS01_160_PAMELA" day_time="noon" people_data="PAMELA" start_ev="XF05_160" end_ev="MS01_160" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_160_PAMELA"/>
+	<T01_TOWN_08_bud marker_data="MS01_160_PAMELA" day_time="evening" people_data="PAMELA" start_ev="XF05_160" end_ev="MS01_160" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" target_chara="E3D_COMMON_ITEM_DUMMY_01" sense_range="5" message_data="MS01_160_PAMELA"/>
+	<T01_TOWN_08_bud marker_data="MS01_160_LOGIX" day_time="morning" people_data="LOGIX" start_ev="XF05_160" end_ev="MS01_160" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_160_LOGIX"/>
+	<T01_TOWN_08_bud marker_data="MS01_160_LOGIX" day_time="noon" people_data="LOGIX" start_ev="XF05_160" end_ev="MS01_160" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_160_LOGIX"/>
+	<T01_TOWN_08_bud marker_data="MS01_160_LOGIX" day_time="evening" people_data="LOGIX" start_ev="XF05_160" end_ev="MS01_160" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MS01_160_LOGIX"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_MONIKA" day_time="morning" people_data="MONIKA" start_ev="XF04_040" end_ev="QC09_PAM_010" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MONIKA_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_MONIKA" day_time="noon" people_data="MONIKA" start_ev="XF04_040" end_ev="QC09_PAM_010" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MONIKA_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_MONIKA" day_time="evening" people_data="MONIKA" start_ev="XF04_040" end_ev="QC09_PAM_010" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="MONIKA_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="QC03_JUL_080" end_ev="QC03_JUL_100" message_data="JULIO_TOWN01_08_5"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="QC03_JUL_080" end_ev="QC03_JUL_100" message_data="JULIO_TOWN01_08_5"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="QC03_JUL_080" end_ev="QC03_JUL_100" message_data="JULIO_TOWN01_08_5"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="XG09_230" end_ev="QC03_JUL_060" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="XG09_230" end_ev="QC03_JUL_060" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="XG09_230" end_ev="QC03_JUL_060" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="XF03_140" end_ev="QC03_JUL_020" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="XF03_140" end_ev="QC03_JUL_020" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="XF03_140" end_ev="QC03_JUL_020" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="XF03_150" end_ev="QC03_JUL_030" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="XF03_150" end_ev="QC03_JUL_030" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="XF03_150" end_ev="QC03_JUL_030" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="XF04_220" end_ev="QC12_HOR_220" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="XF04_220" end_ev="QC12_HOR_220" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="XF04_220" end_ev="QC12_HOR_220" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="XF03_160" end_ev="QC03_JUL_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="XF03_160" end_ev="QC03_JUL_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="XF03_160" end_ev="QC03_JUL_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="XF03_170" end_ev="QC03_JUL_050" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="XF03_170" end_ev="QC03_JUL_050" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="XF03_170" end_ev="QC03_JUL_050" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_E"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="MM01_010" end_ev="MM02_130" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_1"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="MM01_010" end_ev="MM02_130" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_1"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="MM01_010" end_ev="MM02_130" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_1"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="MM02_130" end_ev="MM02_210" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_2"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="MM02_130" end_ev="MM02_210" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_2"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="MM02_130" end_ev="MM02_210" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_2"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="MM02_210" end_ev="MM06_020" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_3"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="MM02_210" end_ev="MM06_020" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_3"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="MM02_210" end_ev="MM06_020" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_3"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="MM06_020" end_ev="MM07_010" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_4"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="MM06_020" end_ev="MM07_010" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_4"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="MM06_020" end_ev="MM07_010" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_4"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="morning" people_data="JULIO" start_ev="MM07_010" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_5"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="noon" people_data="JULIO" start_ev="MM07_010" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_5"/>
+	<T01_TOWN_08_bud marker_data="TOWN01_08_JULIO" day_time="evening" people_data="JULIO" start_ev="MM07_010" ex1_start_ev="MM01_010" ex1_end_ev="XF01_040" ex2_start_ev="MM09_010" ex2_end_ev="MM09_140" message_data="JULIO_TOWN01_08_5"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_OP" day_time="morning" people_data="NPC20A" start_ev="MM01_010" end_ev="MM01_170" message_data="TOWN_08_NPC20A_OP_0"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_OP" day_time="noon" people_data="NPC20A" start_ev="MM01_010" end_ev="MM01_170" message_data="TOWN_08_NPC20A_OP_0"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_OP" day_time="evening" people_data="NPC20A" start_ev="MM01_010" end_ev="MM01_170" message_data="TOWN_08_NPC20A_OP_0"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="morning" people_data="NPC20A_ACT_2" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="noon" people_data="NPC20A_ACT_2" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="evening" people_data="NPC20A_ACT_2" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="morning" people_data="NPC23A_ACT_0" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="noon" people_data="NPC23A_ACT_0" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="evening" people_data="NPC23A_ACT_0" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="morning" people_data="NPC25B" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC25B_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="noon" people_data="NPC25B" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC25B_01"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="evening" people_data="NPC25B" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC25B_02"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="morning" people_data="NPC22A_ACT_0" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="noon" people_data="NPC22A_ACT_0" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="evening" people_data="NPC22A_ACT_0" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="night" people_data="NPC22A_ACT_1" start_ev="MM01_170" end_ev="MM02_130" ex_weather="20" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="morning" people_data="NPC20A_ACT_3" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="noon" people_data="NPC20A_ACT_3" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="evening" people_data="NPC20A_ACT_3" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="morning" people_data="NPC23A_ACT_2" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="noon" people_data="NPC23A_ACT_2" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="evening" people_data="NPC23A_ACT_2" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="morning" people_data="NPC25B" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC25B_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="noon" people_data="NPC25B" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC25B_01"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="evening" people_data="NPC25B" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC25B_02"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="morning" people_data="NPC22A_ACT_2" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="noon" people_data="NPC22A_ACT_2" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="evening" people_data="NPC22A_ACT_2" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="night" people_data="NPC22A_ACT_1" start_ev="MM01_170" end_ev="MM02_130" ex_weather="43" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="morning" people_data="NPC20A_ACT_2" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="noon" people_data="NPC20A_ACT_2" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="evening" people_data="NPC20A_ACT_2" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="morning" people_data="NPC23A_ACT_0" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="noon" people_data="NPC23A_ACT_0" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="evening" people_data="NPC23A_ACT_0" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="morning" people_data="NPC25B" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC25B_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="noon" people_data="NPC25B" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC25B_01"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="evening" people_data="NPC25B" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC25B_02"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="morning" people_data="NPC22A_ACT_0" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="noon" people_data="NPC22A_ACT_0" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="evening" people_data="NPC22A_ACT_0" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="night" people_data="NPC22A_ACT_1" start_ev="MM02_130" end_ev="MM02_210" ex_weather="20" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="morning" people_data="NPC20A_ACT_3" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="noon" people_data="NPC20A_ACT_3" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="evening" people_data="NPC20A_ACT_3" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC20A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="morning" people_data="NPC23A_ACT_2" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="noon" people_data="NPC23A_ACT_2" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="evening" people_data="NPC23A_ACT_2" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC23A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="morning" people_data="NPC25B" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC25B_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="noon" people_data="NPC25B" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC25B_01"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="evening" people_data="NPC25B" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC25B_02"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="morning" people_data="NPC22A_ACT_2" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="noon" people_data="NPC22A_ACT_2" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="evening" people_data="NPC22A_ACT_2" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="night" people_data="NPC22A_ACT_1" start_ev="MM02_130" end_ev="MM02_210" ex_weather="43" message_data="TOWN_08_NPC22A_00"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="morning" people_data="NPC20A_ACT_2" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="noon" people_data="NPC20A_ACT_2" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="evening" people_data="NPC20A_ACT_2" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="morning" people_data="NPC23A_ACT_0" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="noon" people_data="NPC23A_ACT_0" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="evening" people_data="NPC23A_ACT_0" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="morning" people_data="NPC25B" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC25B_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="noon" people_data="NPC25B" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC25B_11"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="evening" people_data="NPC25B" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC25B_12"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="morning" people_data="NPC22A_ACT_0" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="noon" people_data="NPC22A_ACT_0" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="evening" people_data="NPC22A_ACT_0" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="night" people_data="NPC22A_ACT_1" start_ev="MM02_210" end_ev="MM06_020" ex_weather="20" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="morning" people_data="NPC20A_ACT_3" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="noon" people_data="NPC20A_ACT_3" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="evening" people_data="NPC20A_ACT_3" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="morning" people_data="NPC23A_ACT_2" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="noon" people_data="NPC23A_ACT_2" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="evening" people_data="NPC23A_ACT_2" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="morning" people_data="NPC25B" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC25B_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="noon" people_data="NPC25B" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC25B_11"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="evening" people_data="NPC25B" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC25B_12"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="morning" people_data="NPC22A_ACT_2" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="noon" people_data="NPC22A_ACT_2" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="evening" people_data="NPC22A_ACT_2" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="night" people_data="NPC22A_ACT_1" start_ev="MM02_210" end_ev="MM06_020" ex_weather="43" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="morning" people_data="NPC20A_ACT_2" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="noon" people_data="NPC20A_ACT_2" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="evening" people_data="NPC20A_ACT_2" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="morning" people_data="NPC23A_ACT_0" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="noon" people_data="NPC23A_ACT_0" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="evening" people_data="NPC23A_ACT_0" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="morning" people_data="NPC25B" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC25B_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="noon" people_data="NPC25B" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC25B_11"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="evening" people_data="NPC25B" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC25B_12"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="morning" people_data="NPC22A_ACT_0" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="noon" people_data="NPC22A_ACT_0" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="evening" people_data="NPC22A_ACT_0" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="night" people_data="NPC22A_ACT_1" start_ev="MM06_020" end_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="morning" people_data="NPC20A_ACT_3" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="noon" people_data="NPC20A_ACT_3" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="evening" people_data="NPC20A_ACT_3" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC20A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="morning" people_data="NPC23A_ACT_2" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="noon" people_data="NPC23A_ACT_2" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="evening" people_data="NPC23A_ACT_2" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC23A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="morning" people_data="NPC25B" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC25B_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="noon" people_data="NPC25B" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC25B_11"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="evening" people_data="NPC25B" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC25B_12"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="morning" people_data="NPC22A_ACT_2" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="noon" people_data="NPC22A_ACT_2" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="evening" people_data="NPC22A_ACT_2" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="night" people_data="NPC22A_ACT_1" start_ev="MM06_020" end_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC22A_10"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="morning" people_data="NPC20A_ACT_2" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC20A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="noon" people_data="NPC20A_ACT_2" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC20A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00" day_time="evening" people_data="NPC20A_ACT_2" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC20A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="morning" people_data="NPC23A_ACT_0" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC23A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="noon" people_data="NPC23A_ACT_0" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC23A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00" day_time="evening" people_data="NPC23A_ACT_0" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC23A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="morning" people_data="NPC25B" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC25B_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="noon" people_data="NPC25B" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC25B_21"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00" day_time="evening" people_data="NPC25B" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC25B_22"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="morning" people_data="NPC22A_ACT_0" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC22A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="noon" people_data="NPC22A_ACT_0" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC22A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="evening" people_data="NPC22A_ACT_0" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC22A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00" day_time="night" people_data="NPC22A_ACT_1" start_ev="MM07_010" ex_weather="20" message_data="TOWN_08_NPC22A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="morning" people_data="NPC20A_ACT_3" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC20A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="noon" people_data="NPC20A_ACT_3" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC20A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC20A_00_RAIN" day_time="evening" people_data="NPC20A_ACT_3" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC20A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="morning" people_data="NPC23A_ACT_2" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC23A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="noon" people_data="NPC23A_ACT_2" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC23A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC23A_00_RAIN" day_time="evening" people_data="NPC23A_ACT_2" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC23A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="morning" people_data="NPC25B" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC25B_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="noon" people_data="NPC25B" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC25B_21"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC25B_00_RAIN" day_time="evening" people_data="NPC25B" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC25B_22"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="morning" people_data="NPC22A_ACT_2" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC22A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="noon" people_data="NPC22A_ACT_2" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC22A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="evening" people_data="NPC22A_ACT_2" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC22A_20"/>
+	<T01_TOWN_08_bud marker_data="POS_NPC22B_00_RAIN" day_time="night" people_data="NPC22A_ACT_1" start_ev="MM07_010" ex_weather="43" message_data="TOWN_08_NPC22A_20"/>
+</Root>

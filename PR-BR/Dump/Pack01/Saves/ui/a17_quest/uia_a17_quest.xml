@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+
+  <anim name="anm_open_left">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.5" value="255,255,255,255"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.0" value="0,-100,0"/>
+      <key time="0.42" value="0,5,0"/>
+      <key time="0.45" value="0,-10,0"/>
+      <key time="0.47" value="0,1,0"/>
+      <key time="0.5" value="0,0,0"/>
+    </curve>
+    <curve attr="rot">
+      <key time="0.44" value="0,0,0"/>
+      <key time="0.47" value="0,0,-1.5"/>
+      <key time="0.5" value="0,0,0"/>
+    </curve>
+  </anim>
+  <anim name="anm_close_left">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="0.5" value="255,255,255,0"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.2" value="0,0,0"/>
+      <key time="0.5" value="0,-30,0"/>
+    </curve>
+  </anim>
+
+	<anim name="anm_open_right">
+		<curve attr="color">
+			<key time="0.0" value="255,255,255,0"/>
+			<key time="0.5" value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0" value="50,0,0"/>
+			<key time="0.5" value="0,0,0"/>
+		</curve>
+	</anim>
+	<anim name="anm_close_right">
+		<curve attr="color">
+			<key time="0.0" value="255,255,255,255"/>
+			<key time="0.5" value="255,255,255,0"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.2" value="0,0,0"/>
+			<key time="0.5" value="50,0,0"/>
+		</curve>
+	</anim>
+	<anim name="anm_close_ticket">
+		<curve attr="rot">
+			<key time="0.0" value="0,0,0"/>
+			<key time="0.25" value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0" value="255,255,255,255"/>
+			<key time="0.25" value="255,255,255,0"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0" value="0,0,0"/>
+			<key time="0.25" value="0,10,0"/>
+		</curve>
+	</anim>
+
+
+  <!-- mainmenu側 -->
+  <anim name="anm_open_left_mainmenu">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.5" value="255,255,255,255"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.0" value="-50,-0,0"/>
+      <key time="0.5" value="0,0,0"/>
+    </curve>
+    <curve attr="rot">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.5" value="0,0,0"/>
+    </curve>
+  </anim>
+
+  <anim name="anm_close_left_mainmenu">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="0.5" value="255,255,255,0"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.3" value="-50,0,0"/>
+    </curve>
+  </anim>  
+  
+	<!-- スタンプ系 -->
+	<anim name="anm_complete_stamp">
+		<curve attr="rot">
+			<key time="0.0" value="60,-720,120"/>
+			<key time="0.9" value="0,0,0"/>
+			<key time="1.0" value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0" value="255,255,255,0"/>
+			<key time="1.0" value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0" value="-600,0,0"/>
+			<key time="1.0" value="0,0,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0" value="10,10,1"/>
+			<key time="1.0" value="1,1,1"/>
+		</curve>
+	</anim>
+	<anim name="anm_cancel_stamp">
+		<curve attr="rot">
+			<key time="0.0" value="0,0,0"/>
+			<key time="1.0" value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0" value="255,255,255,0"/>
+			<key time="1.0" value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0" value="0,0,0"/>
+			<key time="1.0" value="0,0,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0" value="2,2,1"/>
+			<key time="1.0" value="1,1,1"/>
+		</curve>
+	</anim>
+	<anim name="anm_quake_right">
+		<curve attr="rot">
+			<key time="0.0" value="0,0,0"/>
+			<key time="1.0" value="0,0,0"/>
+		</curve>
+		<curve attr="color">
+			<key time="0.0" value="255,255,255,255"/>
+			<key time="1.0" value="255,255,255,255"/>
+		</curve>
+		<curve attr="pos">
+			<key time="0.0" value="0,0,0"/>
+			<key time="0.2" value="0,-4,0"/>
+			<key time="0.4" value="0,4,0"/>
+			<key time="0.6" value="0,-2,0"/>
+			<key time="0.8" value="0,2,0"/>
+			<key time="1.0" value="0,0,0"/>
+		</curve>
+		<curve attr="scale">
+			<key time="0.0" value="1,1,1"/>
+			<key time="1.0" value="1,1,1"/>
+		</curve>
+	</anim>
+
+  <!-- グループ依頼情報ページ切替 -->
+  <anim name="anim_scroll_mid">
+    <curve attr="pos">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.2" value="-35,-11,0"/>
+    </curve>
+  </anim>
+  <anim name="anim_scroll_top">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.1" value="-35,-11,0"/>
+    </curve>
+    <curve attr="color" interpolate="spline">
+      <key time="0.0" value="255,255,255,255"/>
+      <key time="0.1" value="255,255,255,0"/>
+    </curve>
+  </anim>
+  <anim name="anim_scroll_bot" interpolate="spline">
+    <curve attr="pos">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.1" value="-35,-11,0"/>
+    </curve>
+    <curve attr="color" interpolate="spline">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.1" value="255,255,255,255"/>
+    </curve>
+  </anim>
+
+  <!-- グループ依頼情報開示 -->
+  <anim name="anim_turn_first">
+    <curve attr="rot">
+      <key time="0.0" value="0,0,0"/>
+      <key time="0.2" value="0,90,0"/>
+    </curve>
+  </anim>
+  <anim name="anim_turn_second">
+    <curve attr="rot">
+      <key time="0.0" value="0,-90,0"/>
+      <key time="0.2" value="0,0,0"/>
+    </curve>
+  </anim>
+
+
+  <!-- 依頼破棄演出 -->
+  <anim name="anim_cancel">
+    <curve attr="pos">
+      <key time="0.0" value="-20,0,0"/>
+      <key time="0.2" value="0,0,0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.2" value="255,255,255,255"/>
+    </curve>
+  </anim>
+
+  <!-- 依頼達成演出 -->
+  <anim name="anim_clear">
+    <curve attr="pos">
+      <key time="0.0" value="-20,0,0"/>
+      <key time="0.2" value="0,0,0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.2" value="255,255,255,255"/>
+    </curve>
+  </anim>
+
+  <anim name="anim_clear_add">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.1" value="255,255,255,255"/>
+      <key time="0.4" value="255,255,255,0"/>
+    </curve>
+  </anim>
+  
+  <!-- グループ依頼達成演出 -->
+  <anim name="anim_complete">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,0"/>
+      <key time="0.2" value="255,255,255,255"/>
+    </curve>
+    <curve attr="scale">
+      <key time="0.0" value="2.0,2.0,0"/>
+      <key time="0.2" value="1.0,1.0,0"/>
+    </curve>
+  </anim>
+
+</root>

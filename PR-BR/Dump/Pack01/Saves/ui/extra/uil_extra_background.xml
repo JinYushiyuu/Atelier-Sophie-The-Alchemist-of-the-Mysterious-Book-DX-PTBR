@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<!--↓アニメーションxmlの読み込み-->
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 96.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="BackgroundRoot" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="/Saves/ui/a17_main_menu/uil_a17_main_menu_bg.xml"/>
+</root>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+  <anim name="anim_switch_part_off01">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.3"		value="1,7,0"/>
+		</curve>
+    	<curve attr="color">
+    	  <key time="0.0"		value="255, 255, 255, 255"/>
+    	  <key time="0.3"		value="255, 255, 255, 0"/>
+    	</curve>
+	</anim>
+	<anim name="anim_switch_part_on01">
+		<curve attr="pos">
+      <key time="0.0"		value="-1,-7,0"/>
+      <key time="0.3"		value="0,0,0"/>
+		</curve>
+    	<curve attr="color">
+        <key time="0.0"		value="255, 255, 255, 0"/>
+        <key time="0.3"		value="255, 255, 255, 255"/>
+    	</curve>
+	</anim>
+  <anim name="anim_switch_part_on_light01">
+    <curve attr="pos">
+      <key time="0.0"		value="-1,-7,0"/>
+      <key time="0.3"		value="0,0,0"/>
+		</curve>
+    <curve attr="color">
+      <key time="0.25"		value="255, 255, 255, 0"/>
+      <key time="0.55"		value="255, 255, 255, 255"/>
+    </curve>
+  </anim>
+    
+  <anim name="anim_switch_part_off02">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.3"		value="3,7,0"/>
+		</curve>
+    	<curve attr="color">
+    	  <key time="0.0"		value="255, 255, 255, 255"/>
+    	  <key time="0.3"		value="255, 255, 255, 0"/>
+    	</curve>
+	</anim>
+	<anim name="anim_switch_part_on02">
+		<curve attr="pos">
+      <key time="0.0"		value="-3,-7,0"/>
+      <key time="0.3"		value="0,0,0"/>
+		</curve>
+    	<curve attr="color">
+        <key time="0.0"		value="255, 255, 255, 0"/>
+        <key time="0.3"		value="255, 255, 255, 255"/>
+    	</curve>
+	</anim>
+  <anim name="anim_switch_part_on_light02">
+    <curve attr="pos">
+      <key time="0.0"		value="-3,-7,0"/>
+      <key time="0.3"		value="0,0,0"/>
+		</curve>
+    <curve attr="color">
+      <key time="0.25"		value="255, 255, 255, 0"/>
+      <key time="0.55"		value="255, 255, 255, 255"/>
+    </curve>
+  </anim>
+    
+  <anim name="anim_switch_part_off03">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.3"		value="4,7,0"/>
+		</curve>
+    	<curve attr="color">
+    	  <key time="0.0"		value="255, 255, 255, 255"/>
+    	  <key time="0.3"		value="255, 255, 255, 0"/>
+    	</curve>
+	</anim>
+	<anim name="anim_switch_part_on03">
+		<curve attr="pos">
+      <key time="0.0"		value="-4,-7,0"/>
+      <key time="0.3"		value="0,0,0"/>
+		</curve>
+    	<curve attr="color">
+        <key time="0.0"		value="255, 255, 255, 0"/>
+        <key time="0.3"		value="255, 255, 255, 255"/>
+    	</curve>
+	</anim>
+  <anim name="anim_switch_part_on_light03">
+    <curve attr="pos">
+      <key time="0.0"		value="-4,-7,0"/>
+      <key time="0.3"		value="0,0,0"/>
+		</curve>
+    <curve attr="color">
+      <key time="0.25"		value="255, 255, 255, 0"/>
+      <key time="0.55"		value="255, 255, 255, 255"/>
+    </curve>
+  </anim>
+    
+  <anim name="anim_switch_part_off04">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.3"		value="7,6,0"/>
+		</curve>
+    	<curve attr="color">
+    	  <key time="0.0"		value="255, 255, 255, 255"/>
+    	  <key time="0.3"		value="255, 255, 255, 0"/>
+    	</curve>
+	</anim>
+	<anim name="anim_switch_part_on04">
+		<curve attr="pos">
+      <key time="0.0"		value="-7,-6,0"/>
+      <key time="0.3"		value="0,0,0"/>
+		</curve>
+    	<curve attr="color">
+        <key time="0.0"		value="255, 255, 255, 0"/>
+        <key time="0.3"		value="255, 255, 255, 255"/>
+    	</curve>
+	</anim>
+  <anim name="anim_switch_part_on_light04">
+    <curve attr="pos">
+      <key time="0.0"		value="-7,-6,0"/>
+      <key time="0.3"		value="0,0,0"/>
+		</curve>
+    <curve attr="color">
+      <key time="0.25"		value="255, 255, 255, 0"/>
+      <key time="0.55"		value="255, 255, 255, 255"/>
+    </curve>
+  </anim>
+    
+	<anim name="anim_switch_part_off05">
+		<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="0.3"		value="11,4,0"/>
+		</curve>
+    	<curve attr="color">
+    	  <key time="0.0"		value="255, 255, 255, 255"/>
+    	  <key time="0.3"		value="255, 255, 255, 0"/>
+    	</curve>
+	</anim>
+	<anim name="anim_switch_part_on05">
+		<curve attr="pos">
+      <key time="0.0"		value="-11,-4,0"/>
+      <key time="0.3"		value="0,0,0"/>
+		</curve>
+    	<curve attr="color">
+        <key time="0.0"		value="255, 255, 255, 0"/>
+        <key time="0.3"		value="255, 255, 255, 255"/>
+    	</curve>
+	</anim>
+  <anim name="anim_switch_part_on_light05">
+    <curve attr="pos">
+      <key time="0.0"		value="-11,-4,0"/>
+      <key time="0.3"		value="0,0,0"/>
+		</curve>
+    <curve attr="color">
+      <key time="0.25"		value="255, 255, 255, 0"/>
+      <key time="0.55"		value="255, 255, 255, 255"/>
+    </curve>
+  </anim>
+</root>
+

@@ -1,0 +1,84 @@
+{
+    "json_version": 0x2,
+    "name": "EVENT_MESSAGE_MM02_010.ebm",
+    "nb_messages": 0x9,
+    "messages": [
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x1b,
+            "expr_id": 0x2,
+            "msg_id": 0x0,
+            "msg_string": "It's done! Okay, now I'll write down the recipe!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x17,
+            "expr_id": 0x2,
+            "msg_id": 0x1,
+            "msg_string": "Done! So Plachta, do you remember anything?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x2,
+            "msg_string": "No... Not really..."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x19,
+            "expr_id": 0x2,
+            "msg_id": 0x3,
+            "msg_string": "What... Hm, I guess this won't work."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x4,
+            "msg_string": "Sophie. Wasn't this recipe written into me before?"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2a,
+            "expr_id": 0x3,
+            "msg_id": 0x5,
+            "msg_string": "What!? No way, let's see... Oh no, you're right!"
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x6,
+            "msg_string": "It seems the first recipe you wrote in me hadn't been recorded yet."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x116,
+            "name_id": 0x1,
+            "expr_id": 0xffffffff,
+            "msg_id": 0x7,
+            "msg_string": "That may be the key."
+        },
+        {
+            "type": 0x2,
+            "voice_id": 0x0,
+            "name_id": 0x0,
+            "extra_id": 0x2b,
+            "expr_id": 0x4,
+            "msg_id": 0x8,
+            "msg_string": "In other words, I need to write new recipes into you, or it's no good..."
+        }
+    ]
+}

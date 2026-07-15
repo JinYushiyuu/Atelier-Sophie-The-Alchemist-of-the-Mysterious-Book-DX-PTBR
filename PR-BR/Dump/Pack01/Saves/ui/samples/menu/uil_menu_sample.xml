@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!-- スタイルの読み込み -->
+	<command load_style="Saves/ui/samples/menu/uis_menu_sample.xml" />
+
+	<node visible="false">
+	</node>
+
+	<menu pos="400,100" disp_lines="9" size_w="500">
+		<text name="item_text" text="あいうえお" font_color="90,40,26,255" align="left" font_size="22" />
+		<text copy="item_text" text="あいうえお"  />
+		<text copy="item_text" />
+		<text copy="item_text" />
+		<node>
+			<image pos="-10,-10" scale="0.20,0.20,1" style="style_image_monster000"/>		
+			<image pos="10,-10" scale="0.20,0.20,1" style="style_image_monster000"/>		
+			<image pos="30,-10" scale="0.20,0.20,1" style="style_image_monster000"/>		
+			<image pos="50,-10" scale="0.20,0.20,1" style="style_image_monster000"/>		
+		</node>
+		<text copy="item_text" />
+		<text copy="item_text" />
+		<text copy="item_text" text="かきくけこ"/>
+		<text copy="item_text" />
+		<text copy="item_text" />
+		<text copy="item_text" />
+		<text copy="item_text" />
+		<text text="*****" align="right" font_size="22" />
+	</menu>
+</root>
+

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root>
+	<!-- モンスターの絵 -->
+	<image name="style_image_monster" texture="ui/a15_dict_mons000.g1t" uvwh="0,0,256,256" />
+	<!-- 白テクスチャ -->
+	<image name="style_image_white" texture="ui/white.g1t" uvwh="0,0,1,1" />
+
+</root>
+

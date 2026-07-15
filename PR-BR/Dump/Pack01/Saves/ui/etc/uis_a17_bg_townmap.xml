@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/CNN/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="etc_a17_bg_townmap">
+		<image name="etc_a17_bg_townmap_0000" texture="ui/a17_bg_townmap01.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!---->
+		<image name="etc_a17_bg_townmap_0001" texture="ui/a17_bg_townmap02.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!---->
+		<image name="etc_a17_bg_townmap_0002" texture="ui/a17_bg_townmap03.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!---->
+		<image name="etc_a17_bg_townmap_0003" texture="ui/a17_bg_townmap04.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!---->
+	</image_list>
+</root>

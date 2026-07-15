@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_15_message message_data="PAMELA_TOWN01_15" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="RNPC01A_TOWN01_15" chara_tag="RNPC01A" name_tag="RNPC01A" voice_no1="11819" message1="God is always watching over you."/>
+    <T01_TOWN_15_message message_data="QC01_MON_090_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="QC01_MON_120_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9015" message1="That's all for today." next_message_tag="QC01_MON_130_PAMELA"/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="Thank you very much."/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_NPC26A" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_NPC26B" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_NPC27A" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_RNPC01A" chara_tag="RNPC01A" name_tag="RNPC01A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="QC12_HOR_060_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="9066" message1="This is the item you ordered." next_message_tag="QC12_HOR_060_RNPC01A"/>
+    <T01_TOWN_15_message message_data="QC12_HOR_060_RNPC01A" chara_tag="RNPC01A" name_tag="RNPC01A" voice_no1="-1" message1="I see, thank you."/>
+    <T01_TOWN_15_message message_data="MS01_090_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="MS01_090_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="MS01_120_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="MS01_120_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="MS01_190_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="..."/>
+    <T01_TOWN_15_message message_data="QC03_JUL_050_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="9027" message1="That should just about do it." next_message_tag="QC03_JUL_050_RNPC01A"/>
+    <T01_TOWN_15_message message_data="QC03_JUL_050_RNPC01A" chara_tag="RNPC01A" name_tag="RNPC01A" voice_no1="-1" message1="I see, that was very useful."/>
+    <T01_TOWN_15_message message_data="MM09_010_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="9051" message1="Thank you."/>
+    <T01_TOWN_15_message message_data="TOWN_15_PAMELA_EV1" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="..." quest_tag="QC09_PAM_100" voice_no2="-1" message2="..."/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26A_00" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="11742" message1="What should I study..."/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26A_10" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="11742" message1="This question is hard... Maybe I should research it at the book store."/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26A_20" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="11742" message1="God's word is difficult to understand." next_message_tag="TOWN_15_NPC26A_21"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26A_21" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="-1" message1="Well, I guess it's easy if you just interpret it for yourself, like a lot of people do, but that seems wrong..."/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_00" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="11808" message1="Whoa, don't talk to me right now." next_message_tag="TOWN_15_NPC26B_01"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_01" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="I'm playing hide and seek by myself. I don't want anyone to find me."/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_10" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="11808" message1="Whoa, don't talk to me right now." next_message_tag="TOWN_15_NPC26B_11"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_11" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="I'm playing hide and seek by myself, but 3 people found me already. I only have 2 lives left."/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_20" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="11808" message1="I'm playing hide and seek by myself, but for some reason people keep complimenting me for it." next_message_tag="TOWN_15_NPC26B_21"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_21" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="They talk about how I'm hiding myself, and trying to find my true self, and how profound that is..." next_message_tag="TOWN_15_NPC26B_22"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_22" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="I don't get what smart people are talking about most of the time."/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_00" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="11743" message1="I really like praying." next_message_tag="TOWN_15_NPC27A_01"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_01" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="I can spend the whole day with my hands together and eyes closed like this."/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_10" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="11743" message1="I really like the church." next_message_tag="TOWN_15_NPC27A_11"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_11" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="Nobody gets mad at you for praying all day, every day."/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_20" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="11743" message1="I really like the priest here." next_message_tag="TOWN_15_NPC27A_21"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_21" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="I'm just behaving myself and praying, but he compliments me for it."/>
+</Root>

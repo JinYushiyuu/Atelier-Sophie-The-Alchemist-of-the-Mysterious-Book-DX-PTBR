@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<dollmake_reaction No="0" dollmake_reaction_tag="DOLLMAKE_REACTION_NORMAL" voice_no="11325" message="I see."/>
+	<dollmake_reaction No="1" dollmake_reaction_tag="DOLLMAKE_REACTION_NORMAL" voice_no="11326" message="This is..."/>
+	<dollmake_reaction No="2" dollmake_reaction_tag="DOLLMAKE_REACTION_NORMAL" voice_no="11327" message="I agree."/>
+	<dollmake_reaction No="3" dollmake_reaction_tag="DOLLMAKE_REACTION_NORMAL" voice_no="11328" message="So you chose that..."/>
+	<dollmake_reaction No="4" dollmake_reaction_tag="DOLLMAKE_REACTION_NORMAL" voice_no="11329" message="It's not bad."/>
+	<dollmake_reaction No="5" dollmake_reaction_tag="DOLLMAKE_REACTION_GOOD" voice_no="11330" message="This is good."/>
+	<dollmake_reaction No="6" dollmake_reaction_tag="DOLLMAKE_REACTION_GOOD" voice_no="11331" message="Wonderful."/>
+	<dollmake_reaction No="7" dollmake_reaction_tag="DOLLMAKE_REACTION_GOOD" voice_no="11332" message="I'm glad I left this to you."/>
+	<dollmake_reaction No="8" dollmake_reaction_tag="DOLLMAKE_REACTION_GOOD" voice_no="11333" message="A superb choice."/>
+	<dollmake_reaction No="9" dollmake_reaction_tag="DOLLMAKE_REACTION_GOOD" voice_no="11334" message="This seems to be going well."/>
+	<dollmake_reaction No="10" dollmake_reaction_tag="DOLLMAKE_REACTION_BAD" voice_no="11335" message="This isn't really to my liking..."/>
+	<dollmake_reaction No="11" dollmake_reaction_tag="DOLLMAKE_REACTION_BAD" voice_no="11336" message="*Sigh*..."/>
+	<dollmake_reaction No="12" dollmake_reaction_tag="DOLLMAKE_REACTION_BAD" voice_no="11337" message="I don't even know how to react..."/>
+	<dollmake_reaction No="13" dollmake_reaction_tag="DOLLMAKE_REACTION_BAD" voice_no="11338" message="This is troublesome..."/>
+	<dollmake_reaction No="14" dollmake_reaction_tag="DOLLMAKE_REACTION_BAD" voice_no="11339" message="That may be a bad choice..."/>
+	<dollmake_reaction No="15" dollmake_reaction_tag="DOLLMAKE_REACTION_WORST" voice_no="11340" message="Uu... This is too much..."/>
+	<dollmake_reaction No="16" dollmake_reaction_tag="DOLLMAKE_REACTION_WORST" voice_no="11341" message="Are you serious, Sophie!?"/>
+	<dollmake_reaction No="17" dollmake_reaction_tag="DOLLMAKE_REACTION_WORST" voice_no="11342" message="Are you trying to make me mad?"/>
+	<dollmake_reaction No="18" dollmake_reaction_tag="DOLLMAKE_REACTION_WORST" voice_no="11343" message="Sophie... I'll resent you for this..."/>
+	<dollmake_reaction No="19" dollmake_reaction_tag="DOLLMAKE_REACTION_WORST" voice_no="11344" message="Do you even have a conscience!?"/>
+	<dollmake_reaction No="20" dollmake_reaction_tag="DOLLMAKE_REVIEW_GOOD" voice_no="11345" message="Hehe, I like this. Thank you very much, Sophie."/>
+	<dollmake_reaction No="21" dollmake_reaction_tag="DOLLMAKE_REVIEW_NORMAL" voice_no="11346" message="Well, I guess it's acceptable. It's not a bad choice."/>
+	<dollmake_reaction No="22" dollmake_reaction_tag="DOLLMAKE_REVIEW_BAD" voice_no="11347" message="...Did you seriously think this was okay? This is going too far..."/>
+</Root>

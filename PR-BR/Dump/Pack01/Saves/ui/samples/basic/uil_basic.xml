@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<text text="「煤」と「楚」®あいうえお&lt;IM26&gt;あいうえお&lt;IM27&gt;あいうえお" pos="342, 213, 0" viewer_visible="false">
+		<text text="「煤」と「楚」®あいうえお&lt;IM26&gt;あいうえお&lt;IM27&gt;あいうえお" pos="-263.00, -29.00, -0.00" viewer_visible="false" name="none_1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</text>
+	<text copy="none" clone_child_tree="none" name="clone_none" pos="380, 423, 0"/>
+	<text text="「煤」と「楚」®あいうえお&lt;IM26&gt;あいうえお&lt;IM27&gt;あいうえお" pos="30.00, 30.00, 0.00" viewer_visible="false" name="none_2">
+		<text text="「煤」と「楚」®あいうえお&lt;IM26&gt;あいうえお&lt;IM27&gt;あいうえお" pos="-263.00, -29.00, -0.00" viewer_visible="false" name="none_1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</text>
+</root>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+	<anim name="anm_image_width">
+		<curve attr="width">
+			<key time="0.0"		value="200, 0, 0, 0"/>
+			<key time="3.0"		value="300, 0, 0, 0"/>
+		</curve>
+	</anim>
+	<anim name="anm_image_height">
+		<curve attr="height">
+			<key time="0.0"		value="100, 0, 0, 0"/>
+			<key time="3.0"		value="200, 0, 0, 0"/>
+		</curve>
+	</anim>
+	<anim name="anm_image_scale_width">
+		<curve attr="scale_width">
+			<key time="0.0"		value="1.0"/>
+			<key time="3.0"		value="2.0"/>
+		</curve>
+	</anim>
+	<anim name="anm_image_scale_height">
+		<curve attr="scale_height">
+			<key time="0.0"		value="1.0"/>
+			<key time="3.0"		value="1.5"/>
+		</curve>
+	</anim>
+	<anim name="anm_image_scale_tex_width">
+		<curve attr="scale_tex_width">
+			<key time="0.0"		value="1.0"/>
+			<key time="3.0"		value="0.0"/>
+			<key time="6.0"		value="1.0"/>
+		</curve>
+	</anim>
+	<anim name="anm_image_scale_tex_height">
+		<curve attr="scale_tex_height">
+			<key time="0.0"		value="1.0"/>
+			<key time="3.0"		value="0.0"/>
+			<key time="6.0"		value="1.0"/>
+		</curve>
+	</anim>
+	<anim name="anm_image_scale_tex_width_rev">
+		<curve attr="scale_tex_width_rev">
+			<key time="0.0"		value="1.0"/>
+			<key time="3.0"		value="0.0"/>
+			<key time="6.0"		value="1.0"/>
+		</curve>
+	</anim>
+	<anim name="anm_image_scale_tex_height_rev">
+		<curve attr="scale_tex_height_rev">
+			<key time="0.0"		value="1.0"/>
+			<key time="3.0"		value="0.0"/>
+			<key time="6.0"		value="1.0"/>
+		</curve>
+	</anim>
+</root>
+

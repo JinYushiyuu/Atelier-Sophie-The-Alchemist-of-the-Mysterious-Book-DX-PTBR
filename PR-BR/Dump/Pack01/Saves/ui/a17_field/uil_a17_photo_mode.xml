@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<root>
+	<image name="image_1" style="etc_a17_bg" image_no="5" visible="false"/>
+	<command load_anim="/Saves/ui/a17_field/uia_a17_photo_mode.xml"/>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="true">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<!--<node load="/Saves/ui_CMN/uil_template.xml" name="font_template"/>-->
+		<text name="MENU_TEXT" font="MainFont00" font_size="17.00" font_color="41.00, 25.00, 0.00, 255.00"/>
+		<text name="HELP_TEXT" font="MainFont00" font_size="16.00" font_color="255.00, 255.00, 255.00, 230.00"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<image name="gray_bg" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="255.00, 255.00, 255.00, 120.00" style="common_white_image" visible="false" size_wh="1280.00, 720.00, 0.00" viewer_visible="true"/>
+	<node name="clone_targets" visible="false" viewer_visible="true">
+		<!--***カメラモードの切り替えウインドウ***-->
+		<node name="camera_mode_template">
+			<image name="__uimenu_window" style="gen_a17_win02_w02" size_wh="427, 206" color="255.00, 255.00, 255.00, 192.00">
+				<node name="__uimenu_body" pos="-5, 10, 0">
+					<node name="__uimenu_cursor">
+						<image name="__uimenu_cursor_inactive" pos="21.00, 5.00, -10.00" parent_size_copy_w="true" size_copy_w_offset="-30.00" image_no="0" style="gen_a17_win01_hl"/>
+						<image name="__uimenu_cursor_active" pos="21.00, 5.00, -10.00" parent_size_copy_w="true" size_copy_w_offset="-30.00" image_no="0" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+							<feed name="feed"/>
+						</image>
+						<!-- 明滅アニメーション -->
+						<anim_ctrl play="true" loop="true">
+							<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+						</anim_ctrl>
+					</node>
+					<node name="__uimenu_item_list">
+						<node name="switch_item_copy">
+							<text name="list_text" font="MainFont00" font_color="41.00, 25.00, 0.00, 255.00" font_size="18.00" pos="21.00, 13.00, 0.00" line_char_length="10" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+							<image name="line" pos="17, 40, -0" style="gen_a17_win01_line03" size_w="400.00" size_wh="400, 7"/>
+						</node>
+						<node copy="switch_item_copy" clone_child_tree="switch_item_copy" name="clone_switch_item_copy" pos="0.00, 42.67, 0.00"/>
+						<node copy="switch_item_copy" clone_child_tree="switch_item_copy" name="clone_switch_item_copy_1" pos="0.00, 85.33, 0.00"/>
+						<node copy="switch_item_copy" clone_child_tree="switch_item_copy" name="clone_switch_item_copy_2" pos="0.00, 128.00, 0.00"/>
+					</node>
+				</node>
+			</image>
+		</node>
+		<!--***カメラモード設定用リストパーツテンプレート***-->
+		<node name="camera_mode_list_temp_1">
+			<image name="mouse_area" pos="17.00, 10.00, 0.00" style="common_none_image" size_w="395.00" size_h="38.00" visible="true" mouse_event="true"/>
+			<text name="text_title" pos="21, 14, -0" font_color="41.00, 25.00, 0.00, 255.00" font="MainFont00" font_size="18.00" align="left" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+			<text name="text_choice" align="center" font_color="41.00, 25.00, 0.00, 255.00" font="MainFont00" font_size="18.00" pos="325.00, 14.00, 0.00" line_char_length="7" string_id="STR_UI_0181" text="①②③④⑤⑥⑦"/>
+			<image name="arrow_4" style="gen_a17_system01_dk_l" pos="243.00, 7.00, -0.00" flick_time="0.30" size_wh="21.00, 32.00, 0.00" mouse_event="true"/>
+			<image name="arrow_5" style="gen_a17_system01_dk_r" pos="390.00, 7.00, -0.00" flick_time="0.30" mouse_event="true"/>
+			<image name="line_1" pos="17.00, 40.00, 0.00" style="gen_a17_win01_line03" size_w="395.00"/>
+			<image name="disable" color="0.00, 0.00, 0.00, 127.00" style="common_black_image" size_wh="400.00, 40.00, 0.00" pos="15.00, 5.00, -0.00" visible="false" viewer_visible="true">
+				<!--***選択できない際に使用***-->
+			</image>
+		</node>
+		<node name="camera_mode_list_temp_2" pos="0.00, 0.00, 0.00">
+			<text name="text_title" pos="21.00, 16.00, 0.00" font_color="41.00, 25.00, 0.00, 255.00" font="MainFont00" font_size="18.00" align="left" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+			<image name="gauage_base" pos="200.00, 11.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gagebg"/>
+			<image name="gauage" pos="207.00, 16.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gage"/>
+			<image name="line_1" pos="15, 39, -0" style="gen_a17_win01_line03" size_w="395.00"/>
+			<image name="disable" color="0.00, 0.00, 0.00, 127.00" style="common_black_image" size_wh="400.00, 40.00, 0.00" pos="16.00, 5.00, -0.00" visible="false" viewer_visible="true"/>
+			<node name="voice" pos="141.00, 286.25, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<!--*** 左右入力で選択するタイプ ***-->
+		<node name="switch_item" pos="884, 25, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="select">
+				<image name="cursor" pos="21.00, 5.00, -10.00" parent_size_copy_w="true" size_copy_w_offset="-53.00" image_no="0" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed"/>
+				</image>
+				<image name="base" image_no="0" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" size_w="350.00" pos="21.00, 5.00, -10.00" visible="false"/>
+				<image name="add" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" alpha_blend="add" size_w="350.00" pos="21.00, 5.00, -10.00" visible="false" viewer_visible="false"/>
+				<image name="arrow_0" style="gen_a17_system01_dk_l" pos="149.00, 7.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30"/>
+				<image name="arrow_1" style="gen_a17_system01_dk_r" pos="362.00, 7.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" flick_time="0.30"/>
+				<anim_ctrl loop="true" play="true">
+					<bind_node node="base" anim="anm_common_cursor_base"/>
+					<bind_node node="add" anim="anm_common_cursor_add_75"/>
+				</anim_ctrl>
+			</node>
+			<text name="text_choice" pos="261, 15, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" copy="MENU_TEXT" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+		</node>
+		<node name="chara_select_template" pos="450, 22, 0" viewer_visible="false">
+			<image name="__uimenu_window" style="gen_a17_win02_w02" size_wh="300.00, 404.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-20.00, -20.00, 0.00" color="255.00, 255.00, 255.00, 192.00">
+				<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1.00, 0.00, 0.00" pos="-34, 26, -0" size_h="350.00"/>
+				<!-- メニュー項目 -->
+				<node name="__uimenu_body" pos="20, 21, 0">
+					<!-- メニューカーソル -->
+					<node name="__uimenu_cursor" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 0.00, 0.00">
+						<image name="__uimenu_cursor_inactive" pos="0.00, -5.00, -10.00" parent_size_copy_w="true" size_copy_w_offset="-53.00" image_no="0" style="gen_a17_win01_hl"/>
+						<image name="__uimenu_cursor_active" pos="0.00, -5.00, -10.00" parent_size_copy_w="true" size_copy_w_offset="-53.00" image_no="0" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+							<feed name="feed"/>
+						</image>
+						<!-- 明滅アニメーション -->
+						<anim_ctrl play="true" loop="true">
+							<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+						</anim_ctrl>
+					</node>
+					<!-- メニュー項目リスト(この下にMenuItemが連なる) -->
+					<node name="__uimenu_item_list" pos="9, 3, 0">
+						<text name="text_14" copy="MENU_TEXT" pos="7.00, 5.00, 0.00" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+						<text name="text_15" copy="MENU_TEXT" pos="7.00, 47.00, 0.00" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+						<text name="text_19" copy="MENU_TEXT" pos="7.00, 85.00, 0.00" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+						<text name="text_20" copy="MENU_TEXT" pos="7.00, 123.00, 0.00" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+						<text name="text_21" copy="MENU_TEXT" pos="7.00, 161.00, 0.00" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+						<text name="text_22" copy="MENU_TEXT" pos="7.00, 199.00, 0.00" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+						<text name="text_2" copy="MENU_TEXT" pos="7.00, 237.00, 0.00" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+						<text name="text_3" copy="MENU_TEXT" pos="7.00, 275.00, 0.00" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+						<text name="text_16" copy="MENU_TEXT" pos="7.00, 313.00, 0.00" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+					</node>
+				</node>
+			</image>
+		</node>
+		<!--***表示・ポーズ・表情項目用ウインドウ***-->
+		<node name="chara_option_template" pos="275, 482, 0">
+			<image name="__uimenu_window" style="gen_a17_win02_w02" size_wh="436, 178" color="255.00, 255.00, 255.00, 192.00">
+				<node name="__uimenu_body" viewer_visible="true" pos="0, -2, 0">
+					<node name="__uimenu_cursor">
+						<image name="__uimenu_cursor_active" pos="13.00, 12.00, -10.00" parent_size_copy_w="true" size_copy_w_offset="-30.00" image_no="0" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+							<feed name="feed"/>
+							<anim_ctrl play="true" loop="true" name="none">
+								<bind_node node="." anim="anm_common_cursor_blink"/>
+							</anim_ctrl>
+						</image>
+					</node>
+					<node name="__uimenu_item_list" pos="14, 21, 0">
+						<node name="MenuItem" pos="0.00, 0.00, 0.00">
+							<image name="mouse_area" style="common_none_image" pos="0.00, -10.00, 0.00" size_w="400.00" size_h="38.00" mouse_event="true" visible="true"/>
+							<image name="line" style="gen_a17_win01_line03" pos="0.00, 25.00, 0.00" size_w="400.00"/>
+							<image name="arrow_2" style="gen_a17_system01_dk_l" pos="149.00, -2.00, -0.00" flick_time="0.30" mouse_event="true"/>
+							<image name="arrow_3" style="gen_a17_system01_dk_r" pos="362.00, -2.00, 0.00" flick_time="0.30" mouse_event="true"/>
+							<text name="text_choice" pos="261.00, 5.00, 0.00" align="center" copy="MENU_TEXT" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+							<image name="disable" color="0.00, 0.00, 0.00, 127.00" style="common_black_image" size_wh="394.00, 38.00, 0.00" pos="4.00, -8.00, 0.00" visible="false" viewer_visible="true">
+								<!--***選択できない際に使用***-->
+							</image>
+						</node>
+						<node name="MenuItem2" clone_tree="MenuItem" pos="0.00, 38.00, 0.00"/>
+						<node name="MenuItem3" clone_tree="MenuItem" pos="0.00, 76.00, 0.00"/>
+						<node name="MenuItem4" clone_tree="MenuItem" pos="0.00, 114.00, 0.00"/>
+					</node>
+				</node>
+			</image>
+		</node>
+	</node>
+	<!--***↓フレーム画像0717追加（Image no 17/18/19の3種) ***-->
+	<image name="photo_frame" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="255.00, 255.00, 255.00, 255.00" style="etc_a17_bg" visible="false" viewer_color="#FF0000" viewer_visible="false" image_no="7"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="camera_mode" pos="280.00, -228.00, 0.00">
+			<menu name="menu" template_node="camera_mode_template" pos="-245, 688, 0" visible="false" viewer_visible="true">
+				<node name="list" clone_tree="camera_mode_list_temp_1">
+					<command set_string_id="STR_UI_0108" target_node="text_title" set_text="Filter"/>
+				</node>
+				<node name="list" clone_tree="camera_mode_list_temp_1">
+					<command set_string_id="STR_UI_0109" target_node="text_title" set_text="Frame"/>
+				</node>
+				<node name="list" clone_tree="camera_mode_list_temp_1">
+					<command set_string_id="STR_UI_0110" target_node="text_title" set_text="Time of Day"/>
+				</node>
+				<node name="list" clone_tree="camera_mode_list_temp_1">
+					<command set_string_id="STR_UI_0112" target_node="text_title" set_text="NPC/Enemy"/>
+				</node>
+			</menu>
+			<node name="button_help" pos="705.00, 522.00, 0.00" viewer_visible="true" visible="false">
+				<image name="help_bg" color="0.00, 0.00, 0.00, 127.00" style="common_black_image" size_wh="270.00, 348.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 6.00, 0.00"/>
+				<node name="help_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-1, -1, 0">
+					<text name="text_4" copy="HELP_TEXT" pos="15.00, 17.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0113" text="&lt;IM04&gt;：Character Control Mode"/>
+					<text name="text_5" copy="HELP_TEXT" pos="15.00, 47.90, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0114" text="&lt;IM09&gt;：Select Item"/>
+					<text name="text_6" copy="HELP_TEXT" pos="15.00, 78.80, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0115" text="&lt;IM08&gt;：Toggle Item"/>
+					<text name="text_9" copy="HELP_TEXT" pos="15.00, 109.70, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0116" text="&lt;IM26&gt;：Move Camera"/>
+					<text name="text_10" copy="HELP_TEXT" pos="15.00, 140.60, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0117" text="&lt;IM27&gt;：Rotate Camera"/>
+					<text name="text_8" copy="HELP_TEXT" pos="15.00, 171.50, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0118" text="&lt;IM11&gt;&lt;IM15&gt;：Roll"/>
+					<text name="text_7" copy="HELP_TEXT" pos="15.00, 202.40, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0119" text="&lt;IM13&gt;&lt;IM17&gt;：Zoom"/>
+					<text name="text_11" copy="HELP_TEXT" pos="15.00, 233.30, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0120" text="&lt;IM28&gt;：Reset Camera Position"/>
+					<text name="text_12" copy="HELP_TEXT" pos="15.00, 264.20, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0121" text="&lt;IM06&gt;：Toggle Movement Speed"/>
+					<text name="text_13" copy="HELP_TEXT" pos="15.00, 295.10, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0122" text="&lt;IM19&gt;：Toggle UI"/>
+					<text name="text_17" copy="HELP_TEXT" pos="15, 326, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0123" text="&lt;IM02&gt;：End"/>
+				</node>
+			</node>
+			<anim_ctrl name="fade_in" play="false" start_visible="true" viewer_key_assign="0">
+				<bind_node node="menu" anim="anm_photo_slide_in_left" start_visible="true"/>
+				<bind_node node="button_help" anim="anm_photo_slide_in_right" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="chara_mode">
+			<node name="template" visible="false" pos="530, 169, 0" viewer_visible="false">
+				<node name="select_item">
+					<text name="text" copy="MENU_TEXT" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" pos="18, -0, -0" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+					<image name="line" style="gen_a17_win01_line03" pos="-21.00, 21.00, 0.00" size_w="270.00"/>
+					<node name="icon" visible="false" pos="-15.00, -9.00, 0.00" viewer_visible="true">
+						<image name="image" style="gen_a17_icon01_02on" size_wh="32.00, 32.00, 0.00"/>
+					</node>
+				</node>
+				<node name="select_item_mob">
+					<text name="text" copy="MENU_TEXT" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" pos="18, -0, -0" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+					<image name="line" style="gen_a17_win01_line03" pos="-21.00, 21.00, 0.00" size_w="270.00"/>
+					<node name="icon" pos="-45.00, -6.00, 0.00">
+						<image name="image" style="etc_a17_monster_l" pos="27, -1, 0" size_wh="32.00, 32.00, 0.00" visible="false" viewer_visible="true"/>
+						<image name="check" pos="33, 8, 0" style="gen_a17_mix02_check" visible="false" viewer_visible="true" size_wh="20.00, 20.00, 0.00"/>
+					</node>
+				</node>
+				<node name="select_item_mob_type">
+					<text name="text" copy="MENU_TEXT" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" pos="7, 1, -0" string_id="STR_UI_0006" text="①②③④⑤⑥⑦⑧⑨⑩"/>
+					<image name="line" style="gen_a17_win01_line03" pos="-21.00, 21.00, 0.00" size_w="270.00"/>
+				</node>
+			</node>
+			<node name="chara_select" pos="56.00, 297.00, 0.00" viewer_visible="false" visible="false">
+				<menu name="menu" template_node="chara_select_template" disp_scroll_bar="false">
+					<node copy="select_item" clone_child_tree="select_item" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item" name="clone_select_item"/>
+				</menu>
+				<anim_ctrl name="fade_in" play="false" start_visible="true" viewer_key_assign="1">
+					<bind_node node="." anim="anm_photo_slide_in_left" start_visible="true"/>
+				</anim_ctrl>
+			</node>
+			<node name="select_help" pos="986.00, 492.00, 0.00" viewer_visible="false" visible="false">
+				<image name="help_bg" color="0.00, 0.00, 0.00, 127.00" style="common_black_image" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 4.00, 0.00" size_wh="270.00, 152.00, 0.00" viewer_visible="false"/>
+				<node name="help_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text name="text_to_mob" copy="HELP_TEXT" pos="15.00, 17.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="16.00" font="MainFont00" string_id="STR_UI_0439" text="&lt;IM08&gt;：NPC/Enemy Controls"/>
+					<text name="text_to_party" copy="HELP_TEXT" pos="15.00, 17.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="16.00" font="MainFont00" visible="false" string_id="STR_UI_0440" text="&lt;IM08&gt;：Party Controls" viewer_visible="false"/>
+					<text name="text_5" copy="HELP_TEXT" pos="15.00, 44.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="16.00" font="MainFont00" string_id="STR_UI_0124" text="&lt;IM09&gt;：Change Character"/>
+					<text name="text_6" copy="HELP_TEXT" pos="15.00, 71.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="16.00" font="MainFont00" string_id="STR_UI_0125" text="&lt;IM00&gt;：Confirm"/>
+					<text name="text_12" copy="HELP_TEXT" pos="15.00, 98.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font="MainFont00" font_size="16.00" string_id="STR_UI_0122" text="&lt;IM19&gt;：Toggle UI"/>
+					<text name="text_4" copy="HELP_TEXT" pos="15.00, 125.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="16.00" font="MainFont00" string_id="STR_UI_0126" text="&lt;IM02&gt;：Camera Control Mode"/>
+				</node>
+				<anim_ctrl name="fade_in" play="false" start_visible="true" viewer_key_assign="1">
+					<bind_node node="." anim="anm_photo_slide_in_right" start_visible="true"/>
+				</anim_ctrl>
+				<anim_ctrl name="entry_to_party" play="false" viewer_key_assign="8">
+					<bind_node node="text_to_mob" anim="anm_photo_alpha_off"/>
+					<bind_node node="text_to_party" start_visible="false" anim="anm_photo_alpha_on" end_visible="true"/>
+				</anim_ctrl>
+			</node>
+			<node name="Chara_option_list" pos="276.00, 518.00, -0.00" viewer_visible="false" visible="false">
+				<menu name="menu" template_node="chara_option_template">
+					<node name="node" clone_tree="MenuItem">
+						<text name="text_1" font="MainFont00" font_color="41.00, 25.00, 0.00, 255.00" font_size="18.00" pos="26.00, 5.00, 0.00" string_id="STR_UI_0127" text="Show"/>
+					</node>
+					<node name="node" clone_tree="MenuItem">
+						<text name="text_1" font="MainFont00" font_color="41.00, 25.00, 0.00, 255.00" font_size="18.00" pos="26.00, 5.00, 0.00" string_id="STR_UI_0399" text="Pose"/>
+					</node>
+					<node name="node" clone_tree="MenuItem">
+						<text name="text_1" font="MainFont00" font_color="41.00, 25.00, 0.00, 255.00" font_size="18.00" pos="26.00, 5.00, 0.00" string_id="STR_UI_0400" text="Expression"/>
+					</node>
+				</menu>
+				<command target_node="menu/__uimenu_window" set_size_h="140.00"/>
+				<anim_ctrl name="fade_in" play="false" start_visible="true" viewer_key_assign="2">
+					<bind_node node="." anim="anm_photo_slide_in_right" start_visible="true"/>
+				</anim_ctrl>
+			</node>
+			<node name="option_help" pos="987.00, 344.00, 0.00" viewer_visible="false" visible="false">
+				<image name="help_bg" color="0.00, 0.00, 0.00, 127.00" style="common_black_image" size_wh="270.00, 298.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 6.00, 0.00" viewer_visible="false"/>
+				<node name="help_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" pos="-1, 13, 0">
+					<text name="text_5" copy="HELP_TEXT" pos="15.00, 17.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0114" text="&lt;IM09&gt;：Select Item"/>
+					<text name="text_select" copy="HELP_TEXT" pos="15.00, 47.75, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0115" text="&lt;IM08&gt;：Toggle Item"/>
+					<text name="text_type_select" copy="HELP_TEXT" pos="15.00, 47.75, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" string_id="STR_UI_0441" text="&lt;IM00&gt;：Change Character" viewer_visible="false"/>
+					<text name="text_9" copy="HELP_TEXT" pos="15.00, 78.50, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0128" text="&lt;IM26&gt;：Horizontal Movement"/>
+					<text name="text_10" copy="HELP_TEXT" pos="15.00, 109.25, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0129" text="&lt;IM27&gt;：Rotate"/>
+					<text name="text_8" copy="HELP_TEXT" pos="15.00, 140.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0130" text="&lt;IM11&gt;&lt;IM15&gt;：Vertical Movement"/>
+					<text name="text_11" copy="HELP_TEXT" pos="15.00, 170.75, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0131" text="&lt;IM28&gt;：Match with Focus"/>
+					<text name="text_12" copy="HELP_TEXT" pos="15.00, 201.50, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0121" text="&lt;IM06&gt;：Toggle Movement Speed"/>
+					<text name="text_13" copy="HELP_TEXT" pos="15.00, 232.25, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0122" text="&lt;IM19&gt;：Toggle UI"/>
+					<text name="text_18" copy="HELP_TEXT" pos="15, 263, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" string_id="STR_UI_0132" text="&lt;IM02&gt;：Return to Char. Selection"/>
+				</node>
+				<anim_ctrl name="fade_in" play="false" start_visible="true" viewer_key_assign="2">
+					<bind_node node="." anim="anm_photo_slide_in_right" start_visible="true"/>
+				</anim_ctrl>
+				<anim_ctrl name="entry_type_select" play="false" viewer_key_assign="8">
+					<bind_node node="text_select" anim="anm_photo_alpha_off"/>
+					<bind_node node="text_type_select" start_visible="false" end_visible="true" anim="anm_photo_alpha_on"/>
+				</anim_ctrl>
+			</node>
+			<!--*** DLC追加 NPC・敵用 ***-->
+			<node name="mob_select" pos="57.00, 417.00, 0.00" viewer_visible="false" visible="false">
+				<menu name="menu" template_node="chara_select_template" disp_scroll_bar="false" pos="0, 44, 0">
+					<node copy="select_item_mob" clone_child_tree="select_item_mob" name="clone_select_item"/>
+					<node copy="select_item_mob" clone_child_tree="select_item_mob" name="clone_select_item"/>
+					<node copy="select_item_mob" clone_child_tree="select_item_mob" name="clone_select_item"/>
+					<node copy="select_item_mob" clone_child_tree="select_item_mob" name="clone_select_item"/>
+					<node copy="select_item_mob" clone_child_tree="select_item_mob" name="clone_select_item"/>
+				</menu>
+				<command target_node="menu/__uimenu_window" set_size_h="240.00"/>
+				<anim_ctrl name="fade_in" play="false" start_visible="true" viewer_key_assign="1">
+					<bind_node node="." anim="anm_photo_slide_in_left" start_visible="true"/>
+				</anim_ctrl>
+			</node>
+			<node name="Mob_option_list" pos="282.00, 481.00, 0.00" viewer_visible="false" visible="false">
+				<menu name="menu" template_node="chara_option_template">
+					<node name="node" clone_tree="MenuItem">
+						<text name="text_1" font="MainFont00" font_color="41.00, 25.00, 0.00, 255.00" font_size="18.00" pos="26.00, 5.00, 0.00" string_id="STR_UI_0442" text="Character"/>
+						<command target_node="arrow_2" set_visible="false"/>
+						<command target_node="arrow_3" set_visible="false"/>
+					</node>
+					<node name="node" clone_tree="MenuItem">
+						<text name="text_1" font="MainFont00" font_color="41.00, 25.00, 0.00, 255.00" font_size="18.00" pos="26.00, 5.00, 0.00" string_id="STR_UI_0127" text="Show"/>
+					</node>
+					<node name="node" clone_tree="MenuItem">
+						<text name="text_1" font="MainFont00" font_color="41.00, 25.00, 0.00, 255.00" font_size="18.00" pos="26.00, 5.00, 0.00" string_id="STR_UI_0399" text="Pose"/>
+					</node>
+					<node name="node" clone_tree="MenuItem">
+						<text name="text_1" font="MainFont00" font_color="41.00, 25.00, 0.00, 255.00" font_size="18.00" pos="26.00, 5.00, 0.00" string_id="STR_UI_0400" text="Expression"/>
+					</node>
+				</menu>
+				<anim_ctrl name="fade_in" play="false" start_visible="true" viewer_key_assign="5">
+					<bind_node node="." anim="anm_photo_slide_in_left" start_visible="true"/>
+				</anim_ctrl>
+			</node>
+			<node name="mob_type_select" pos="56.00, 297.00, 0.00" viewer_visible="false" visible="false">
+				<menu name="menu" template_node="chara_select_template">
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+					<node copy="select_item" clone_child_tree="select_item_mob_type" name="clone_select_item"/>
+				</menu>
+				<anim_ctrl name="fade_in" play="false" start_visible="true" viewer_key_assign="1">
+					<bind_node node="." anim="anm_photo_slide_in_left" start_visible="true"/>
+				</anim_ctrl>
+			</node>
+			<node name="mob_type_help" pos="986.00, 490.00, 0.00" viewer_visible="false" visible="false">
+				<image name="help_bg" color="0.00, 0.00, 0.00, 127.00" style="common_black_image" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 33.00, 0.00" size_wh="270.00, 125.00, 0.00"/>
+				<node name="help_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 3.00, 0.00">
+					<text name="text_5" copy="HELP_TEXT" pos="15.00, 44.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="16.00" font="MainFont00" string_id="STR_UI_0443" text="&lt;IM10&gt;：Select Displayed Character"/>
+					<text name="text_6" copy="HELP_TEXT" pos="15.00, 71.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="16.00" font="MainFont00" string_id="STR_UI_0125" text="&lt;IM00&gt;：Confirm"/>
+					<text name="text_12" copy="HELP_TEXT" pos="15.00, 98.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font="MainFont00" font_size="16.00" string_id="STR_UI_0122" text="&lt;IM19&gt;：Toggle UI"/>
+					<text name="text_4" copy="HELP_TEXT" pos="15.00, 125.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="16.00" font="MainFont00" string_id="STR_UI_0444" text="&lt;IM02&gt;：Return"/>
+				</node>
+			</node>
+			<anim_ctrl name="fade_in_mob_type" play="false" start_visible="true" viewer_key_assign="7">
+				<bind_node node="mob_type_select" anim="anm_photo_slide_in_right" start_visible="true"/>
+				<bind_node node="mob_type_help" anim="anm_photo_slide_in_right" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="camera_finder" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="finder" style="gen_a17_photomode_finder" pos="607.00, 291.00, 0.00" color="255.00, 255.00, 255.00, 200.00" pivot_pos="37.83, 37.83, 0.00" pivot_enable="true" visible="true"/>
+			<anim_ctrl name="anim_finder_FIFO" pos="607.00, 291.00, -0.00" viewer_key_assign="9" start_visible="true">
+				<bind_node node="finder" anim="anm_photo_finder_inout"/>
+			</anim_ctrl>
+		</node>
+	</node>
+</root>

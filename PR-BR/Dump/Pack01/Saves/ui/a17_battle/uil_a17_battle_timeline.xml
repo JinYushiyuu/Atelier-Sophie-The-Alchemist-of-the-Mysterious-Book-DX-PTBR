@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root ortho="true">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓アニメーションの読込み ***-->
+	<command load_anim="Saves/ui/a17_battle/uia_a17_battle.xml"/>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 255.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="timeline_card_format" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00">
+			<image name="timeline_card_bg" style="gen_a17_battle01_tcardf" pos="-64.00, -32.00, 0.00" size_wh="117, 74"/>
+			<node name="contents" pos="-64.00, -32.00, 0.00">
+				<image name="timeline_card_chara" style="etc_a17_battle_timecard" pos="11.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="timeline_card_highlight" style="gen_a17_battle01_light" pos="-5.00, -4.00, -0.00" scale="0.80, 0.80, 1.00" rot="-0.00, -0.00, -0.00"/>
+				<node name="timeline_card_bar" pos="-1.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00" viewer_visible="false">
+					<node name="timeline_card_bar_yellow" pos="-72.00, -166.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<image name="bar_frame" style="gen_a17_battle01_barframe" pos="88, 230, 0"/>
+						<image name="bar_yellow" style="gen_a17_battle01_bar" pos="88.00, 230.00, 0.00" image_no="1" size_wh="85, 10"/>
+						<anim_ctrl name="timeline_card_break_move">
+							<bind_node name="bind_node" node="bar_yellow" anim="timeline_card_break_stretch"/>
+						</anim_ctrl>
+					</node>
+					<image name="effectmark" pos="106.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle01_efm" visible="false" viewer_visible="false"/>
+				</node>
+				<node name="timeline_card_break" pos="-152.00, -289.00, -0.00" rot="-0.00, -0.00, -0.00" viewer_visible="false" visible="false" scale="0.80, 0.80, 1.00">
+					<image name="timeline_card_cross_img" style="gen_a17_battle01_peke" pos="205.00, 375.00, 0.00"/>
+					<image name="timeline_card_break_img" style="gen_a17_battle01_break" pos="231.00, 412.00, 0.00"/>
+				</node>
+			</node>
+			<node name="action" pos="48, -3, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+				<image name="action_bg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle04_voidebg"/>
+				<image name="action_tag" pos="25.00, 2.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle04_text01" image_no="5"/>
+			</node>
+			<!--***↓0916_ターンカウント追加 ***-->
+			<text name="count" pos="24.00, 8.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font="A17_BURST01" bold_size="0.50" text="8" visible="false" viewer_visible="false" font_width_scale="1.00"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="true" visible="true">
+		<node name="timeline">
+			<node name="bg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="black_image" style="common_black_image" size_wh="1280.00, 720.00, 0.00" color="255.00, 255.00, 255.00, 128.00" visible="false" viewer_visible="false"/>
+				<anim_ctrl name="bg_fade_in" viewer_key_assign="1" exclusive_play="true" start_visible="true">
+					<bind_node node="black_image" anim="anm_common_fade_in"/>
+				</anim_ctrl>
+				<anim_ctrl name="bg_fade_out" viewer_key_assign="2" exclusive_play="true" end_visible="false" reverse="true">
+					<bind_node node="black_image" anim="anm_common_fade_in"/>
+				</anim_ctrl>
+			</node>
+			<node name="timeline_bar" viewer_visible="false" visible="true" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="timeline_bar_img" style="gen_a17_battle01_cb" pos="-4, -4, 0" size_wh="170, 656"/>
+			</node>
+			<node name="timeline_card" viewer_visible="false" pos="-0.00, 10.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_15" pos="100.00, 570.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_14" pos="100.00, 535.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_13" pos="100.00, 500.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_12" pos="100.00, 465.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_11" pos="100.00, 430.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_10" pos="100.00, 395.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_09" pos="100.00, 360.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_08" pos="100.00, 325.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_07" pos="100.00, 290.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_06" pos="100.00, 255.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_05" pos="100.00, 220.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_04" pos="100.00, 185.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_03" pos="100.00, 150.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_02" pos="100.00, 115.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_01" pos="100.00, 80.00, 0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00"/>
+				<node copy="timeline_card_format" clone_child_tree="timeline_card_format" name="timeline_card_00" scale="0.80, 0.80, 1.00" pos="100.00, 45.00, 0.00" rot="-0.00, -0.00, -0.00"/>
+			</node>
+			<image name="timeline_target_cursor" style="gen_a17_battle01_target" pos="136, 185, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<anim_ctrl name="anim_ctrl" loop="true" play="true">
+					<bind_node node="timeline_target_cursor" anim="target_cursor"/>
+				</anim_ctrl>
+			</image>
+			<image name="timeline_next_cursor" style="gen_a17_battle01_cursor" pos="143.00, 323.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+			<node name="chainlink" pos="21.00, 18.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="chainlink_bg" style="gen_a17_battle07_linkbg" pos="11, 596, 0"/>
+				<image name="chainlink_gauge" style="gen_a17_battle07_linkgage" pos="11.00, 596.00, 0.00" size_wh="186, 42"/>
+				<anim_ctrl name="chainlink_up" viewer_key_assign="3">
+					<bind_node node="chainlink_gauge" anim="chainlink_up"/>
+				</anim_ctrl>
+				<image name="chainlink_frame" style="gen_a17_battle07_linkframe" pos="11.00, 596.00, 0.00" size_wh="186, 42"/>
+				<text name="text_link" pos="183.00, 603.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="1.00" align="right" text="300" bold_size="1.00" font_width_scale="1.00"/>
+				<text name="text_1" pos="184.00, 615.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" text="%" bold_size="1.00" font_width_scale="1.00"/>
+			</node>
+			<node name="link" pos="35.00, 46.00, -20.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<!--***↓0618追加 ***-->
+				<image name="link04" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle04_l03" size_wh="40.00, 50.00, 0.00" visible="false" viewer_visible="false"/>
+				<image name="link03" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle04_l01" size_wh="42.00, 60.00, 0.00"/>
+				<image name="link02" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle04_l01" size_wh="42.00, 60.00, 0.00"/>
+				<image name="link01" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle04_l01" size_wh="42.00, 60.00, 0.00"/>
+			</node>
+			<image name="turn_cursor" pos="154.00, 13.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle04_cursor" flick_time="0.30" size_wh="35.00, 50.00, 0.00"/>
+		</node>
+	</node>
+</root>

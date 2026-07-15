@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="shade" pos="0,0" visible="true">
+		<image name="base" pos="1024, 658, 0" style="gen_a17_common01_help" viewer_visible="true"/>
+	</node>
+</root>

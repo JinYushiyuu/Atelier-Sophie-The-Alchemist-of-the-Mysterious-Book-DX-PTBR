@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_14_message message_data="ELISE_TOWN01_14" chara_tag="ELISE" name_tag="ELISE" voice_no1="-1" message1="..."/>
+    <T01_TOWN_14_message message_data="QC01_MON_260_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="What book do you need today?" next_message_tag="QC01_MON_260_MONIKA"/>
+    <T01_TOWN_14_message message_data="QC01_MON_260_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="Let's see..."/>
+    <T01_TOWN_14_message message_data="QC01_MON_330_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="How about this?" next_message_tag="QC01_MON_330_MONIKA"/>
+    <T01_TOWN_14_message message_data="QC01_MON_330_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="Let me take a look."/>
+    <T01_TOWN_14_message message_data="QC03_JUL_040_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="Popular ones lately would be..." next_message_tag="QC03_JUL_040_JULIO"/>
+    <T01_TOWN_14_message message_data="QC03_JUL_040_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="-1" message1="You have things like that too?"/>
+    <T01_TOWN_14_message message_data="QC06_HAR_120_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="How about something like this?" next_message_tag="QC06_HAR_120_PAUL"/>
+    <T01_TOWN_14_message message_data="QC06_HAR_120_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="Hm..."/>
+    <T01_TOWN_14_message message_data="QC12_HOR_070_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="How's this?" next_message_tag="QC12_HOR_070_HELLMUT"/>
+    <T01_TOWN_14_message message_data="QC12_HOR_070_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="Hm, this is..."/>
+    <T01_TOWN_14_message message_data="MS01_130_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="-1" message1="..." next_message_tag="MS01_130_PAUL"/>
+    <T01_TOWN_14_message message_data="MS01_130_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="..."/>
+    <T01_TOWN_14_message message_data="MM09_010_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="9071" message1="Thank you."/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_00" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="11772" message1="It's said that some books are fun to read from end to beginning, but..." next_message_tag="TOWN_14_NPC23A_01"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_01" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="-1" message1="I like mixing up all the pages, and arranging them into my own story."/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_10" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="11772" message1="I want to read as many books as possible during my life, so I'm learning how to speed read." next_message_tag="TOWN_14_NPC23A_11"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_11" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="-1" message1="But I don't seem to be getting any better. It might be easier for me to just live longer instead."/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_20" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="11772" message1="I'm always afraid of finishing a really good book, so I start from the beginning over and over again." next_message_tag="TOWN_14_NPC23A_21"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_21" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="-1" message1="Because of that, I end up reading the first page more than a hundred times."/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_00" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="11739" message1="I'm researching the ecology of monsters." next_message_tag="TOWN_14_NPC23B_01"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_01" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="-1" message1="If you have questions, come ask me anytime."/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_10" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="11739" message1="It seems many monsters are affected by the current time and weather." next_message_tag="TOWN_14_NPC23B_11"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_11" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="-1" message1="Rain and night are good examples. You should be a little more careful during times like this."/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_20" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="11739" message1="It's well known that most monsters have some sort of weakness." next_message_tag="TOWN_14_NPC23B_21"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_21" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="-1" message1="They also have some patterns to their actions. For example, when their strength is low, or a certain time passes after starting combat..."/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_SP" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="11739" message1="Are you researching monsters? I'm doing that too..." next_message_tag="TOWN_14_NPC23B_SP_00"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_SP_00" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="-1" message1="Would you like to trade information?" next_message_tag="TOWN_14_NPC23B_SP_01"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_SP_01" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="-1" message1="...&lt;CR&gt;..." next_message_tag="TOWN_14_NPC23B_SP_02"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_SP_02" chara_tag="NPC23B" voice_no1="-1" message1="&lt;CLGR&gt;Learned more about monsters.&lt;CLNR&gt;"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC27A_00" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="11743" message1="I'm checking to see if there's a new book out."/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC27A_10" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="11743" message1="I like to read a whole series at once, so I buy them all first."/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC27A_20" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="11743" message1="I like novels with illustrations. I find them very easy to read."/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC27A_21" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="-1" message1="..."/>
+</Root>

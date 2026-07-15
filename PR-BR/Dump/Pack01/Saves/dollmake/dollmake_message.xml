@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<dollmake_message No="0" dollmake_message_tag="DOLLMAKE_MESSAGE_START" voice_no="11317" message="Alright. I'm going to make Plachta's body even better!"/>
+	<dollmake_message No="1" dollmake_message_tag="DOLLMAKE_MESSAGE_SELECT" voice_no="11318" message="What should I use?"/>
+	<dollmake_message No="2" dollmake_message_tag="DOLLMAKE_MESSAGE_CHECK" voice_no="11319" message="Is this really okay?"/>
+	<dollmake_message No="3" dollmake_message_tag="DOLLMAKE_MESSAGE_COMPLETE" voice_no="11320" message="I did it, it's done!"/>
+	<dollmake_message No="4" dollmake_message_tag="DOLLMAKE_MESSAGE_PREDICTION_GOOD" voice_no="11321" message="Okay! This should turn out really amazing!"/>
+	<dollmake_message No="5" dollmake_message_tag="DOLLMAKE_MESSAGE_PREDICTION_NORMAL" voice_no="11322" message="Yeah, I don't see any problems."/>
+	<dollmake_message No="6" dollmake_message_tag="DOLLMAKE_MESSAGE_PREDICTION_BAD" voice_no="11323" message="Uu... I kind of have a bad feeling about this..."/>
+	<dollmake_message No="7" dollmake_message_tag="DOLLMAKE_MESSAGE_PREDICTION_NEW" voice_no="11324" message="Huh, I think this will result in something new..."/>
+	<dollmake_message No="8" dollmake_message_tag="DOLLMAKE_MESSAGE_NO_RESOURCE" voice_no="9075" message="(Sophie) There's nothing left... &lt;CR&gt;(Plachta) Yes..."/>
+	<dollmake_message No="9" dollmake_message_tag="DOLLMAKE_MESSAGE_NO_RESOURCE" voice_no="9076" message="(Sophie) I wonder if I have anything good. &lt;CR&gt;(Plachta) Sophie..."/>
+	<dollmake_message No="10" dollmake_message_tag="DOLLMAKE_MESSAGE_NO_RESOURCE" voice_no="9077" message="(Plachta)Sophie...? &lt;CR&gt;(Sophie) ...Huh?"/>
+	<dollmake_message No="11" dollmake_message_tag="DOLLMAKE_MESSAGE_NO_RESOURCE" voice_no="9078" message="There's nothing left..."/>
+</Root>

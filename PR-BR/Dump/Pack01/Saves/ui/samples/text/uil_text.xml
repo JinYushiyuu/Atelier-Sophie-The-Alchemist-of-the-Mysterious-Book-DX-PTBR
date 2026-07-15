@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root camera_fov="30" proj_to_near="1" proj_to_far="10000">
+	<!--テンプレートを読み込む-->
+	<node load="Saves/ui/uil_template.xml"/>
+	<node name="node">
+		<text pos="16, 38, -0" text="A17_NUMBER01_48PX " font_size="24.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="13, 76, -0" color="255,255,255,255" text="1234567890+-*/:%" font="A17_NUMBER01_48PX" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="9, 112, -0" text="A17_NUMBER01_42PX " rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="7, 148, -0" text="1234567890+-*/:%" font="A17_NUMBER01_42PX" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="13, 172, -0" text="A17_NUMBER01_36PX " rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="13, 209, -0" text="1234567890+-*/:%" font="A17_NUMBER01_36PX" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="400,60" text="A17_NUMBER01_46PX "/>
+		<text pos="400,100" color="255,255,192,255" text="1234567890+-*/:%" font="A17_NUMBER01_46PX"/>
+		<text pos="400,160" text="A17_NUMBER01_40PX "/>
+		<text pos="400,200" color="255,192,192,255" text="1234567890+-*/:%" font="A17_NUMBER01_40PX"/>
+		<text pos="400,260" text="A17_NUMBER01_34PX "/>
+		<text pos="400,300" color="192,255,192,255" text="1234567890+-*/:%" font="A17_NUMBER01_34PX"/>
+		<text pos="12, 318, -0" text="A17_MONEY01 " rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="13, 356, -0" text="1234567890+-*/:%" font="A17_MONEY01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="19, 394, -0" text="A17_MONEY02 "/>
+		<text pos="18, 430, -0" text="1234567890+-*/:%" font="A17_MONEY02"/>
+		<text pos="18, 455, -0" text="A17_ITEM01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="20, 494, -0" text="1234567890" font="A17_ITEM01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="329, 345, -0" text="A17_NUMBER01_30PX" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="305, 384, -0" text="1234567890+-*/:%" font="A17_NUMBER01_30PX" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="322, 456, -0" text="A17_GAGE01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="305, 482, -0" text="1234567890+-*/:%" font="A17_GAGE01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="317, 537, -0" text="A17_BATTLE_ST_HP" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="306, 569, -0" text="1234567890+-*/:%" font="A17_BATTLE_ST_HP" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="318, 624, -0" text="A17_BATTLE_ST_MP" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="305, 657, -0" text="1234567890+-%/" font="A17_BATTLE_ST_MP" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 60.00, -0.00" text="A17_BATTLE_HP" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 100, -0.00" text="1234567890+-%/" font="A17_BATTLE_HP" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 160, -0.00" text="A17_BATTLE_MP" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 200.00, -0.00" text="1234567890+-%/" font="A17_BATTLE_MP" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 260-0.00" text="A17_BURST01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 300,00,-0.00" text="1234567890+-%/" font="A17_BURST01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 360-0.00" text="A17_CHAIN_MAXDAMAGE" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 400,00,-0.00" text="1234567890+-/*" font="A17_CHAIN_MAXDAMAGE" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 460-0.00" text="A17_LV01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 500,00,-0.00" text="1234567890/" font="A17_LV01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 660-0.00" text="A17_BATTLE_MONSTER_LV" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text pos="910.00, 700,00,-0.00" text="1234567890" font="A17_BATTLE_MONSTER_LV" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+    <text pos="910.00, 760-0.00" text="A17_WEEK_COUNT" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+    <text pos="910.00, 800,00,-0.00" text="1234567890" font="A17_WEEK_COUNT" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+    <text pos="1210.00, 60-0.00" text="BATTLE_C_ST" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+    <text pos="1210.00, 160,00,-0.00" text="1234567890+-%/" font="BATTLE_C_ST" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+
+
+
+  </node>
+</root>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_06_marker marker_data="T01_TOWN_06_MONIKA" pos_x="143.15" pos_y="0.16" pos_z="128.2" rotate_y="90"/>
+	<T01_TOWN_06_marker marker_data="QC01_MON_010_NPC26B" pos_x="156.9" pos_y="0.16" pos_z="130" rotate_y="-90"/>
+	<T01_TOWN_06_marker marker_data="QC07_LEO_110_HENRI" pos_x="144.72" pos_y="0.2" pos_z="126.48" rotate_y="-30"/>
+	<T01_TOWN_06_marker marker_data="QC07_LEO_110_MONIKA" pos_x="144.24" pos_y="0.14" pos_z="127.48" rotate_y="150"/>
+	<T01_TOWN_06_marker marker_data="QC09_PAM_060_PAMELA" pos_x="148.52" pos_y="0" pos_z="132.11" rotate_y="-34"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC21A_00" pos_x="116.5" pos_y="-5.2" pos_z="164" rotate_y="15"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC21A_01" pos_x="153.4" pos_y="0" pos_z="149.9" rotate_y="40"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC21A_02" pos_x="115.3" pos_y="-5.2" pos_z="160.8" rotate_y="6"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC26A_00" pos_x="115.3" pos_y="-5.2" pos_z="160.8" rotate_y="6"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC26A_01" pos_x="113.6" pos_y="-5.2" pos_z="163.9" rotate_y="-140"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC26A_02" pos_x="148" pos_y="0.46" pos_z="142.1" rotate_y="40"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC26A_03" pos_x="116.5" pos_y="-5.2" pos_z="164" rotate_y="15"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC26A_04" pos_x="115.3" pos_y="-5.2" pos_z="164.7" rotate_y="110"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC04A_00" pos_x="107.7" pos_y="-5.2" pos_z="156.5" rotate_y="30"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC04A_00_RAIN" pos_x="107.7" pos_y="-5.2" pos_z="162.8" rotate_y="170"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC24A_00" pos_x="153.6" pos_y="0.1" pos_z="138" rotate_y="-120"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC24A_00_RAIN" pos_x="154" pos_y="0.17" pos_z="122.3" rotate_y="-90"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC24B_00" pos_x="145.9" pos_y="0.15" pos_z="118.4" rotate_y="90"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC24B_OP" pos_x="146.2" pos_y="0.15" pos_z="130.8" rotate_y="150"/>
+	<T01_TOWN_06_marker marker_data="POS_NPC24B_00_RAIN" pos_x="143.6" pos_y="0.15" pos_z="110.9" rotate_y="90"/>
+</Root>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_picture01_listdown" texture="ui/a17_picturelist.g1t" texture_index="0" uvwh="0,80,752,48"/>
+	<image name="gen_a17_picture01_listup" texture="ui/a17_picturelist.g1t" texture_index="0" uvwh="0,0,752,80"/>
+</root>

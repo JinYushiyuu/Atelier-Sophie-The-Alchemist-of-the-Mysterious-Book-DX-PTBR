@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="true">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="template_loader"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false" pos="-8, 150, 0">
+		<node name="tab" pos="35, -105, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<!--***↓off***-->
+			<node name="taboff0" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="bg" style="gen_a17_cabinet02_uptag" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="text" style="gen_a17_cabinet01_textoff" image_no="2" pos="5.00, 5.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<!--***↓on ***-->
+			<node name="tabon0" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="bg" style="gen_a17_cabinet02_uptag" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+				<image name="text" style="gen_a17_cabinet01_texton" pos="5.00, 5.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="tab_ui_top" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-3, 0, 0" viewer_visible="false">
+		<image name="tagframe" style="gen_a17_cabinet02_tagframe" pos="8.00, -41.00, 0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="392.00, 53.00, 0.00">
+			<text text="&lt;IM11&gt;" name="l1" font_size="18.00" pos="8.00, 15.00, 0.00" color="197.00, 172.00, 148.00, 255.00" bold_size="1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="&lt;IM15&gt;" name="r1" font_size="18.00" pos="351.00, 15.00, 0.00" color="197.00, 172.00, 148.00, 255.00" bold_size="1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		</image>
+		<node name="taboff" pos="7.00, 1.00, 0.00">
+			<node copy="taboff0" clone_child_tree="taboff0" name="tab0" pos="35.00, -39.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="taboff0" clone_child_tree="taboff0" name="tab1" pos="94.75, -39.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="text" set_image_no="1"/>
+			</node>
+			<node copy="taboff0" clone_child_tree="taboff0" name="tab2" pos="154.50, -39.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="text" set_image_no="2"/>
+			</node>
+			<node copy="taboff0" clone_child_tree="taboff0" name="tab3" pos="214.25, -39.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="text" set_image_no="3"/>
+			</node>
+			<node copy="taboff0" clone_child_tree="taboff0" name="tab4" pos="274.00, -39.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="text" set_image_no="4"/>
+			</node>
+		</node>
+		<node name="tabon" pos="7.00, 1.00, 0.00" viewer_visible="false">
+			<node copy="tabon0" clone_child_tree="tabon0" name="tab0" pos="35.00, -39.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="tabon0" clone_child_tree="tabon0" name="tab1" pos="94.75, -39.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="text" set_image_no="1"/>
+			</node>
+			<node copy="tabon0" clone_child_tree="tabon0" name="tab2" pos="154.50, -39.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="text" set_image_no="2"/>
+			</node>
+			<node copy="tabon0" clone_child_tree="tabon0" name="tab3" pos="214.25, -39.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="text" set_image_no="3"/>
+			</node>
+			<node copy="tabon0" clone_child_tree="tabon0" name="tab4" pos="274.00, -39.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<command target_node="text" set_image_no="4"/>
+			</node>
+		</node>
+	</node>
+</root>

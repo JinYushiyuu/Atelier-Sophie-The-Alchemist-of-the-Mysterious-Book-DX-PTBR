@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root>
+	<!-- モンスターの絵 -->
+	<image name="style_image_monster" texture="ui/a15_dict_mons000.g1t" uvwh="0,0,256,256" />
+	<!-- 白テクスチャ -->
+	<image name="style_image_white" texture="ui/white.g1t" uvwh="0,0,1,1" />
+
+	<image name="style_a15_common_parts01_window02" texture="ui/a15_common_parts01.g1t" uvwh="288,224,112,96" prim_type="wrap" edge_margin="32,32,48,32" />
+
+	<image name="style_a15_common_parts01_win02scr01" texture="ui/a15_common_parts01.g1t" uvwh="418,224,24,96" prim_type="wrap" edge_margin="0,32,0,32" />
+	
+	<image name="style_a15_common_parts01_win02scr02" texture="ui/a15_common_parts01.g1t" uvwh="448,224,10,6" prim_type="wrap" edge_margin="0,2,0,2" />
+
+	<image name="style_a15_common_parts03_cursor04_bright" texture="ui/a15_common_parts08.g1t" uvwh="0,320,352,30"/>
+	<image name="style_a15_common_parts03_cursor04_dark" texture="ui/a15_common_parts08.g1t" uvwh="0,352,352,30"/>
+</root>
+

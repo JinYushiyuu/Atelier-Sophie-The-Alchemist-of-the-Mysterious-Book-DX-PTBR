@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="true" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="template" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true">
+			<image name="text_mask_area" style="common_white_image" size_wh="400.00, 35.00, 0.00" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" alpha_mask="create"/>
+			<text_slider pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" slide_area_width="400.00">
+				<text text="あいうえおかきくけこあいうえおあいうえおかきくけこ" name="text" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-0.00, -0.00, -0.00" visible="true" align="left" copy="TEXTCOLOR_BROWN" alpha_mask="masked" slide_area_width="400.00"/>
+			</text_slider>
+			<image name="line" pos="-12, 26, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_line03" size_wh="464, 7" viewer_visible="false"/>
+			<node name="icon" pos="405.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="playicon" pos="13, 0, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_extra01_icon01"/>
+				<image name="repeaticon" pos="11, -2, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_extra01_icon01" image_no="1"/>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<!--***↓BGM変更場所選び ***-->
+		<node name="page01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="bgm_select_menu01_template" visible="false" viewer_visible="false">
+				<!--メニュー行の雛形-->
+				<node name="row_template" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<!--↓line_formatのposは(0,0,0)にしておいてください-->
+					<node name="line_format01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<!-- メニューカーソル -->
+						<image name="__uimenu_cursor_inactive" pos="0.00, -8.00, -10.00" image_no="0" style="gen_a17_win01_hl" size_wh="250.00, 35.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<image name="__uimenu_cursor_active" pos="-8, -7, 0" image_no="0" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="428, 39">
+							<feed name="feed"/>
+							<!-- 明滅アニメーション -->
+							<anim_ctrl loop="true" play="true">
+								<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+							</anim_ctrl>
+						</image>
+						<text text="場所選びおさしすせそたちつてと" name="category_text" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0, -1, 0" visible="true" align="left"/>
+						<image name="checked" pos="-40, -5, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_note"/>
+					</node>
+				</node>
+				<!--メニューレイアウトの雛形-->
+				<node name="menu_template" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 0.00, 0.00" viewer_visible="false">
+					<image name="bg" size_wh="521.00, 458.00, 0.00" style="gen_a17_win01_w02" pos="-36.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!--スクロールバー-->
+					<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1,0" pos="446, 21, -0" size_h="417" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- メニュー行のリスト(行以外は入れないこと)-->
+					<node name="__uimenu_item_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01" pos="18, 48, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_1" pos="21.00, 90.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_2" pos="21.00, 132.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_3" pos="21.00, 175.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_4" pos="21.00, 214.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_5" pos="21.00, 257.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_6" pos="21.00, 298.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_7" pos="21.00, 340.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_8" pos="21.00, 381.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+				</node>
+			</node>
+			<menu name="menu" pos="72, 163, 0" normal_font_color="53.00, 19.00, 0.00, 255.00" template_node="bgm_select_menu01_template/menu_template" disp_lines="8" selected_font_color="255.00, 174.00, 43.00, 255.00" decided_font_color="255.00, 174.00, 43.00, 255.00">
+				<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_9" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_9" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_9" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_9" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_9" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_9" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_9" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_9" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format01" clone_child_tree="line_format01" name="clone_line_format01_9" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</menu>
+			<anim_ctrl name="enter" start_visible="true" exclusive_play="true">
+				<bind_node anim="anm_common_fade_in" node="page01"/>
+			</anim_ctrl>
+			<anim_ctrl name="exit" start_visible="true" reverse="true" exclusive_play="true">
+				<bind_node anim="anm_common_fade_in" node="page01"/>
+			</anim_ctrl>
+		</node>
+		<!--***↓パック選び ***-->
+		<node name="page02" pos="-23, -2, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false">
+			<node name="bgm_select_menu02_template" visible="false" viewer_visible="false">
+				<!--メニュー行の雛形-->
+				<node name="row_template" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<!--↓line_formatのposは(0,0,0)にしておいてください-->
+					<node name="line_format02" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<!-- メニューカーソル -->
+						<image name="__uimenu_cursor_inactive" pos="0.00, -8.00, -10.00" image_no="0" style="gen_a17_win01_hl" size_wh="250.00, 35.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<image name="__uimenu_cursor_active" pos="0, -5, 0" image_no="0" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="431, 39">
+							<feed name="feed"/>
+							<!-- 明滅アニメーション -->
+							<anim_ctrl loop="true" play="true">
+								<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+							</anim_ctrl>
+						</image>
+						<text text="パック選びさしすせそたちつてと" name="source_text" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="9, 1, 0" visible="true" align="left"/>
+						<image name="checked" pos="-30, -4, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_note"/>
+					</node>
+				</node>
+				<!--メニューレイアウトの雛形-->
+				<node name="menu_template" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 0.00, 0.00" viewer_visible="false">
+					<image name="bg" size_wh="521.00, 458.00, 0.00" style="gen_a17_win01_w02" pos="-29.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!--スクロールバー-->
+					<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1,0" pos="455, 14, -0" size_h="417" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- メニュー行のリスト(行以外は入れないこと)-->
+					<node name="__uimenu_item_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02" pos="20, 47, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_1" pos="20.00, 89.62, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_2" pos="20.00, 131.25, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_3" pos="20.00, 172.87, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_4" pos="20.00, 214.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_5" pos="20.00, 256.12, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_6" pos="20.00, 297.75, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_7" pos="20.00, 339.37, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_8" pos="20.00, 381.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+				</node>
+			</node>
+			<menu name="menu" pos="100, 178, 0" normal_font_color="53.00, 19.00, 0.00, 255.00" template_node="bgm_select_menu02_template/menu_template" disp_lines="8" selected_font_color="255.00, 174.00, 43.00, 255.00" decided_font_color="255.00, 174.00, 43.00, 255.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_9" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_9" pos="0.00, -0.25, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_9" pos="0.00, -0.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_9" pos="0.00, -0.75, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_9" pos="0.00, -1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_9" pos="0.00, -1.25, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_9" pos="0.00, -1.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_9" pos="0.00, -1.75, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_9" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</menu>
+			<anim_ctrl name="enter" start_visible="true" exclusive_play="true">
+				<bind_node anim="anm_common_fade_in" node="page02"/>
+			</anim_ctrl>
+			<anim_ctrl name="exit" start_visible="true" reverse="true" exclusive_play="true">
+				<bind_node anim="anm_common_fade_in" node="page02"/>
+			</anim_ctrl>
+		</node>
+		<!--***↓曲選び ***-->
+		<node name="page03" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+			<node name="bgm_select_menu03_template" visible="false" viewer_visible="true">
+				<!--メニュー行の雛形-->
+				<node name="row_template" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true">
+					<!--↓line_formatのposは(0,0,0)にしておいてください-->
+					<node name="line_format03" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true">
+						<!-- メニューカーソル -->
+						<image name="__uimenu_cursor_inactive" pos="0.00, -8.00, -10.00" image_no="0" style="gen_a17_win01_hl" size_wh="250.00, 35.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<image name="__uimenu_cursor_active" pos="0, -2, 0" image_no="0" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="387, 39">
+							<feed name="feed"/>
+							<!-- 明滅アニメーション -->
+							<anim_ctrl loop="true" play="true">
+								<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+							</anim_ctrl>
+						</image>
+						<image name="text_mask_area_2" style="common_white_image" size_wh="370.00, 35.00, 0.00" pos="10.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" alpha_mask="create"/>
+						<text_slider pos="10.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" slide_area_width="370.00">
+							<text text="曲選びえおさしすせそたちつてと124" name="music_text" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-0.00, -0.00, -0.00" visible="true" align="left" alpha_mask="masked"/>
+						</text_slider>
+						<image name="checked" pos="-32, -1, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_note"/>
+						<image name="playicon" pos="398, 5, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_extra01_icon01"/>
+						<image name="repeaticon" pos="398, 3, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_extra01_icon01" image_no="1" size_wh="42, 32"/>
+					</node>
+				</node>
+				<!--メニューレイアウトの雛形-->
+				<node name="menu_template" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 0.00, 0.00" viewer_visible="false" visible="false">
+					<image name="bg" size_wh="521, 458" style="gen_a17_win01_w02" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!--スクロールバー-->
+					<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1,0" pos="485, 21, -0" size_h="418" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- メニュー行のリスト(行以外は入れないこと)-->
+					<node name="__uimenu_item_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03" pos="46, 43, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_1" pos="44.00, 89.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_2" pos="44.00, 131.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_3" pos="44.00, 172.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_4" pos="44.00, 214.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_5" pos="44.00, 255.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_6" pos="44.00, 297.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_7" pos="44.00, 338.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_8" pos="44.00, 380.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+					<image name="line_1" pos="430, 23, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_line02" size_wh="7, 412"/>
+				</node>
+			</node>
+			<menu name="menu" pos="62, 193, 0" normal_font_color="53.00, 19.00, 0.00, 255.00" template_node="bgm_select_menu03_template/menu_template" disp_lines="8" selected_font_color="255.00, 174.00, 43.00, 255.00" decided_font_color="255.00, 174.00, 43.00, 255.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="true">
+				<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_9"/>
+				<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_9"/>
+				<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_9"/>
+				<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_9"/>
+				<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_9"/>
+				<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_9"/>
+				<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_9"/>
+				<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_9"/>
+				<node copy="line_format03" clone_child_tree="line_format03" name="clone_line_format03_9"/>
+			</menu>
+			<anim_ctrl name="enter" start_visible="true" exclusive_play="true">
+				<bind_node anim="anm_common_fade_in" node="page03"/>
+			</anim_ctrl>
+			<anim_ctrl name="exit" start_visible="true" reverse="true" exclusive_play="true">
+				<bind_node anim="anm_common_fade_in" node="page03"/>
+			</anim_ctrl>
+		</node>
+		<node name="Info">
+			<!--***↓原曲と設定曲 ***-->
+			<node name="InfoTop" pos="31, -1, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="false">
+				<node name="list" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="667.00, 78.00, 0.00">
+					<image name="win" style="gen_a17_win02_w02" pos="1.00, -0.00, -0.00" size_wh="530.00, 584.00, 0.00" visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="frame" pos="15.00, 27.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="505, 73"/>
+					<image name="obi" pos="21.00, 11.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi02" size_wh="213, 42"/>
+					<image name="obi_name" pos="42.00, 19.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_text02" image_no="2"/>
+					<image name="line" pos="39.00, 79.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_line03" size_wh="464, 7"/>
+					<image name="line_1" pos="445, 42, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_line02" size_wh="7, 51"/>
+					<image name="text_mask_area_1" style="common_white_image" size_wh="400.00, 35.00, 0.00" pos="45, 51, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" alpha_mask="create"/>
+					<text_slider pos="45.00, 51.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" slide_area_width="400.00">
+						<text text="あいうえおかきくけこあいうえおかきくけこあいうえお" name="default_text" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 2.00, 0.00" visible="true" align="left" copy="TEXTCOLOR_BROWN" alpha_mask="masked" slide_area_width="400.00"/>
+					</text_slider>
+					<node name="icon" pos="459.00, 53.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<image name="playicon" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_extra01_icon01"/>
+						<image name="repeaticon" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_extra01_icon01" image_no="1"/>
+					</node>
+				</node>
+				<node name="random" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="667.00, 169.00, 0.00">
+					<image name="frame" pos="15.00, 27.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="505.00, 453.00, 0.00"/>
+					<image name="obi" pos="21, 11, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi02" size_wh="213, 42"/>
+					<image name="obi_name" pos="42, 19, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_text02" image_no="1"/>
+					<image name="line_1" pos="445, 42, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_line02" size_wh="7, 425" viewer_visible="false"/>
+					<node name="music_name" pos="54.00, 53.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<node copy="template" clone_child_tree="template" name="clone_name_0" pos="-10.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="template" clone_child_tree="template" name="clone_name_1" pos="-10.00, 41.56, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="template" clone_child_tree="template" name="clone_name_2" pos="-10.00, 83.11, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="template" clone_child_tree="template" name="clone_name_3" pos="-10.00, 124.67, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="template" clone_child_tree="template" name="clone_name_4" pos="-10.00, 166.22, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="template" clone_child_tree="template" name="clone_name_5" pos="-10.00, 207.78, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="template" clone_child_tree="template" name="clone_name_6" pos="-10.00, 249.33, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="template" clone_child_tree="template" name="clone_name_7" pos="-10.00, 290.89, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="template" clone_child_tree="template" name="clone_name_8" pos="-10.00, 332.44, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="template" clone_child_tree="template" name="clone_name_9" pos="-10.00, 374.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+				</node>
+			</node>
+			<!--***↓パック名 ***-->
+			<node name="pack" pos="31, 1, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+				<image name="win" style="gen_a17_win02_w02" pos="667.00, 145.00, 0.00" size_wh="534.00, 517.00, 0.00"/>
+				<image name="package_image" style="etc_a17_package_image" pos="678.00, 154.00, 0.00" scale="1.17, 1.17, 1.00"/>
+				<node name="name" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="667, 463, 0">
+					<image name="frame" pos="15.00, 27.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="505, 116"/>
+					<image name="obi" pos="21.00, 11.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi01"/>
+					<image name="obi_name" pos="46, 17, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_text02" image_no="3"/>
+					<image name="line" pos="25, 103, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_line03" size_wh="484, 7"/>
+					<text text="アトリエシリーズスペシャルBGMパック" name="pack_text" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="30.00, 79.00, 0.00" visible="true" align="left" copy="TEXTCOLOR_BROWN"/>
+				</node>
+			</node>
+		</node>
+		<anim_ctrl name="info_enter" viewer_key_assign="0" start_visible="true" exclusive_play="true">
+			<bind_node anim="anm_common_fade_in" node="top"/>
+		</anim_ctrl>
+		<anim_ctrl name="info_exit" viewer_key_assign="1" exclusive_play="true" reverse="true" start_visible="true">
+			<bind_node node="top" anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+	<node name="top_1" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+		<image name="BG" style="gen_common08_bg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<node name="caption" load="/Saves/ui/caption/uil_caption01.xml">
+			<command target_node="top" set_visible="true"/>
+			<command target_node="caption1" set_image_no="17"/>
+		</node>
+		<node name="Common" pos="100, 119, -0" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node load="Saves/ui/extra/uil_extra_common.xml" name="LoadedMenu" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="Info" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="true" pos="-0.00, -0.00, -0.00">
+			<image name="info_window" pos="652, 100, 0" style="gen_window01_infowin01" size_wh="580, 487" visible="true" viewer_visible="false">
+				<image name="image" style="etc_a16_music_image" pos="32, 28, 0">
+					<image name="image_1" style="gen_chapterresult01_acce01" pos="-18, -19, 0"/>
+					<image name="image_2" style="gen_chapterresult01_acce02" pos="481, 257, 0"/>
+				</image>
+				<node name="node" pos="93, 328, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node name="title" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<text text="Title" name="label" pos="-0.00, -0.00, -0.00" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE" font_size="22.00"/>
+						<text text=":" name="colon" pos="58.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE" font_size="22.00"/>
+						<text text="あいうえお" name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="74.00, 2.00, 0.00" copy="TEXTCOLOR_BEIGE" font_size="20.00" word_space="-1.00"/>
+						<image name="line" pos="-62, 23, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_window01_win_accebar" size_wh="513, 0"/>
+					</node>
+					<node copy="title" clone_child_tree="title" name="source" pos="-0.33, 30.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<command target_node="label" set_text="出典"/>
+					</node>
+					<node copy="title" clone_child_tree="title" name="category" pos="-0.67, 61.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<command target_node="label" set_text="カテゴリ"/>
+					</node>
+					<node copy="title" clone_child_tree="title" name="pack" pos="-1.00, 92.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<command target_node="label" set_text="パック"/>
+					</node>
+				</node>
+			</image>
+		</node>
+		<!--***↓アニメーションデータ ***-->
+		<anim_ctrl name="info_enter" play="false" loop="false" reverse="false" viewer_key_assign="0" start_visible="true">
+			<bind_node node="Info" anim="extra_common_fade_in"/>
+			<bind_node node="Info" anim="extra_common_slide_left_to"/>
+			<bind_node anim="anm_common_fade_in" reverse="false" node="top"/>
+		</anim_ctrl>
+		<anim_ctrl name="info_exit" play="false" loop="false" viewer_key_assign="1" end_visible="false">
+			<bind_node node="top" anim="anm_common_fade_in" reverse="true"/>
+			<bind_node node="Info" anim="extra_common_fade_in" reverse="true"/>
+			<bind_node node="Info" anim="extra_common_slide_left_to" reverse="true"/>
+		</anim_ctrl>
+	</node>
+</root>

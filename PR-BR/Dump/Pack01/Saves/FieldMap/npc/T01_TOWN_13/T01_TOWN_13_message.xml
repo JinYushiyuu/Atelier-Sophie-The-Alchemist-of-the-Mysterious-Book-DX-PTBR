@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_1" chara_tag="PAUL" name_tag="PAUL" voice_no1="9037" message1="I'm bored... Why are you standing around? I'm not going to serve you tea or anything."/>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_2" chara_tag="PAUL" name_tag="PAUL" voice_no1="9037" message1="I'm so bored I'm getting depressed... I guess I'll just tinker with another gun..."/>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_3" chara_tag="PAUL" name_tag="PAUL" voice_no1="9037" message1="I don't get customers. And even if I did, they just want clocks fixed."/>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_4" chara_tag="PAUL" name_tag="PAUL" voice_no1="9037" message1="Why do clocks have to be so complicated? It's a pain to make them and to fix them..."/>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_5" chara_tag="PAUL" name_tag="PAUL" voice_no1="9035" message1="Oh, Sophie. Are you here to have a clock fixed too? I can give you a discount."/>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_E" chara_tag="PAUL" name_tag="PAUL" voice_no1="9035" message1="Hm, maybe I'll go outside for a change of pace... But then again, a customer might visit..."/>
+    <T01_TOWN_13_message message_data="QC04_FRI_110_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="9040" message1="I think I got the gist of it." next_message_tag="QC04_FRI_110_PAUL"/>
+    <T01_TOWN_13_message message_data="QC04_FRI_110_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="...I see."/>
+    <T01_TOWN_13_message message_data="QC01_MON_280_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9015" message1="Thank you as always." next_message_tag="QC01_MON_280_PAUL"/>
+    <T01_TOWN_13_message message_data="QC01_MON_280_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="That's just my job."/>
+    <T01_TOWN_13_message message_data="MS01_150_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="9046" message1="Do you think you can fix it?" next_message_tag="MS01_150_PAUL"/>
+    <T01_TOWN_13_message message_data="MS01_150_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="That really is interesting."/>
+    <T01_TOWN_13_message message_data="MM09_010_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="9036" message1="It's done..."/>
+    <T01_TOWN_13_message message_data="TOWN_13_PAUL_EV1" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="Hm... It should be fine." quest_tag="MM04_220" voice_no2="9035" message2="Did you bring the item I asked for?"/>
+    <T01_TOWN_13_message message_data="TOWN_13_PAUL_EV2" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="Hm... It should be fine." quest_tag="QC05_COR_170" voice_no2="9035" message2="Did you bring the item I asked for?"/>
+    <T01_TOWN_13_message message_data="TOWN_13_PAUL_EV3" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="Hm... It should be fine." quest_tag="QC06_HAR_070" voice_no2="9035" message2="Did you bring the item I asked for?"/>
+    <T01_TOWN_13_message message_data="TOWN_13_PAUL_EV4" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="Hm... It should be fine." quest_tag="QC06_HAR_190" voice_no2="9035" message2="Did you bring the item I asked for?"/>
+    <T01_TOWN_13_message message_data="T01_TOWN_130" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="Wow, what a weird clock."/>
+    <T01_TOWN_13_message message_data="T01_TOWN_131" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="Wow, what a weird clock."/>
+    <T01_TOWN_13_message message_data="T01_TOWN_132" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="Wow, what a weird clock."/>
+</Root>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root proj_to_near="500">
+	<image style="common_bg_sample" color="128,128,128,255"/>
+	<text text="あいうえおabcde四文字熟語(24px)" color="255,255,0,255" font_size="24" pos="50, 76, 0"/>
+	<text text="あいうえおabcde四文字熟語(30px)" color="255,255,0,255" font_size="30" pos="47, 137, 0"/>
+</root>

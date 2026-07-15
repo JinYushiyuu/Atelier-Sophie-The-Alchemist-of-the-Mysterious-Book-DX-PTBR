@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_09_message message_data="QC01_MON_015_BOY_A" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="-1" message1="..."/>
+    <T01_TOWN_09_message message_data="QC01_MON_270_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9017" message1="Which vegetables are best?" next_message_tag="QC01_MON_270_OTTO"/>
+    <T01_TOWN_09_message message_data="QC01_MON_270_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="Of course I recommend all of them."/>
+    <T01_TOWN_09_message message_data="QC01_MON_270_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="..."/>
+    <T01_TOWN_09_message message_data="QC02_OSK_080_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9018" message1="Again...?" next_message_tag="QC02_OSK_080_MARGRIT"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_080_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="That's right..."/>
+    <T01_TOWN_09_message message_data="QC02_OSK_130_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9017" message1="Which vegetables are best?" next_message_tag="QC02_OSK_130_OTTO"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_130_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="It's definitely this one!"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_130_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="..."/>
+    <T01_TOWN_09_message message_data="QC04_FRI_100_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="9047" message1="Hmm, that's a surprise." next_message_tag="QC04_FRI_100_FILON"/>
+    <T01_TOWN_09_message message_data="QC04_FRI_100_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="-1" message1="Really?"/>
+    <T01_TOWN_09_message message_data="QC07_LEO_160_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="9067" message1="But still..." next_message_tag="QC07_LEO_160_HENRI"/>
+    <T01_TOWN_09_message message_data="QC07_LEO_160_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="...Please, just leave."/>
+    <T01_TOWN_09_message message_data="QC09_PAM_040_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="..."/>
+    <T01_TOWN_09_message message_data="QC09_PAM_040_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="..."/>
+    <T01_TOWN_09_message message_data="QC10_TES_020_TESS" chara_tag="TESS" name_tag="TESS" voice_no1="9062" message1="What should I do..."/>
+    <T01_TOWN_09_message message_data="QC12_HOR_080_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="11718" message1="What about this?" next_message_tag="QC12_HOR_080_HELLMUT"/>
+    <T01_TOWN_09_message message_data="QC12_HOR_080_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="Let's see..."/>
+    <T01_TOWN_09_message message_data="MS01_030_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="9031" message1="How is it...?" next_message_tag="MS01_030_OTTO"/>
+    <T01_TOWN_09_message message_data="MS01_030_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="It's perfect."/>
+    <T01_TOWN_09_message message_data="MS01_060_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="9048" message1="This is no good." next_message_tag="MS01_060_JULIO"/>
+    <T01_TOWN_09_message message_data="MS01_060_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="-1" message1="I'm sorry..."/>
+    <T01_TOWN_09_message message_data="MS01_080_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="9030" message1="How is it...?" next_message_tag="MS01_080_FILON"/>
+    <T01_TOWN_09_message message_data="MS01_080_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="-1" message1="It's good, no problems."/>
+    <T01_TOWN_09_message message_data="MS01_100_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="9033" message1="Do you have a secret?" next_message_tag="MS01_100_MONIKA"/>
+    <T01_TOWN_09_message message_data="MS01_100_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="Well..."/>
+    <T01_TOWN_09_message message_data="MS01_140_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="9046" message1="Thank you." next_message_tag="MS01_140_OTTO"/>
+    <T01_TOWN_09_message message_data="MS01_140_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="No problem at all."/>
+    <T01_TOWN_09_message message_data="MS01_180_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="..."/>
+    <T01_TOWN_09_message message_data="MS01_180_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="..."/>
+    <T01_TOWN_09_message message_data="MS01_200_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="11718" message1="That should do it."/>
+    <T01_TOWN_09_message message_data="QC02_OSK_010_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="9023" message1="Give me a break!" next_message_tag="QC02_OSK_010_MARGRIT"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_010_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="Just go already!"/>
+    <T01_TOWN_09_message message_data="MM09_010_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="9031" message1="It's done."/>
+    <T01_TOWN_09_message message_data="MM09_010_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="9046" message1="It's done."/>
+    <T01_TOWN_09_message message_data="MM09_010_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="11718" message1="Good work, Sophie."/>
+    <T01_TOWN_09_message message_data="TOWN_09_OTTO_EV1" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="..." quest_tag="MM07_040" voice_no2="11709" message2="Did you bring the item I requested?"/>
+    <T01_TOWN_09_message message_data="TOWN_09_OTTO_EV2" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="..." quest_tag="QC02_OSK_140" voice_no2="11709" message2="Did you bring the item I requested?"/>
+    <T01_TOWN_09_message message_data="TOWN_09_CANARIA_EV1" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="-1" message1="..." quest_tag="MM04_170" voice_no2="11698" message2="Ah, I really want to drink some milk."/>
+    <T01_TOWN_09_message message_data="TOWN_09_HENRI_EV1" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="..." quest_tag="QC07_LEO_020" voice_no2="11714" message2="Did you prepare the item I requested?"/>
+    <T01_TOWN_09_message message_data="TOWN_09_HENRI_EV2" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="..." quest_tag="QC07_LEO_200" voice_no2="11714" message2="Did you prepare the item I requested?"/>
+    <T01_TOWN_09_message message_data="TOWN_09_HENRI_EV3" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="..." quest_tag="MM04_300" voice_no2="11714" message2="Did you prepare the item I requested?"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="11718" message1="I've got lots of delicious vegetables."/>
+    <T01_TOWN_09_message message_data="TOWN01_09_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="11714" message1="Take a look."/>
+    <T01_TOWN_09_message message_data="TOWN01_09_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="11711" message1="Please buy something..."/>
+    <T01_TOWN_09_message message_data="MARGRIT_00" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="11718" message1="Sorry, I'm still getting ready to open shop. Can you come back later?"/>
+    <T01_TOWN_09_message message_data="HENRI_00" chara_tag="HENRI" name_tag="HENRI" voice_no1="9046" message1="The church is pretty, and the food is great. This is a nice town."/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_1" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="Hey, Sophie. Blow anything up again today?"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_2" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="Hey, can you maybe watch the store for me someti-... No?"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_3" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="Where should I go to observe plants today... Heh heh, I'm excited for this!"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_4" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="Treat the plants you use for alchemy with care and respect. I'll get mad if you don't."/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_5" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="There are still plants that I haven't seen, somewhere in this world... Gah, I really want to talk to them!"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_E" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="Alright, time to get goin-... Oh, crap! I totally forgot that mom asked me to do some work...!"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_00" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="I need to reforge the weapon I'm always using." next_message_tag="TOWN_09_NPC20A_01"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_01" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="Or it might be a good opportunity to get a brand new weapon..."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_10" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="It sounds like the materials used to craft it can change the result." next_message_tag="TOWN_09_NPC20A_11"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_11" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="I've got some good materials, maybe I should ask to have it made."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_20" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="When crafting weapons, you need to pay attention to the traits you transfer, too." next_message_tag="TOWN_09_NPC20A_21"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_21" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="Good traits will cost more money, but they're also more valuable to have."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23A_00" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="11772" message1="Shopping is really fun." next_message_tag="TOWN_09_NPC23A_01"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23A_01" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="-1" message1="I come shopping around here a lot on Fruit and Seed day."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23A_10" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="11772" message1="Um, I also need to buy that... Oh, and I need to buy this too." next_message_tag="TOWN_09_NPC23A_11"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23A_11" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="-1" message1="Hm, I wonder if it'll all fit..."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23A_20" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="11772" message1="My basket's all full from buying so much... But I want to buy other stuff... Maybe I should sell something."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_00" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="11739" message1="Oh my... This tea isn't bad at all." next_message_tag="TOWN_09_NPC23C_01"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_01" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="-1" message1="I wonder if some of the tea leaves picked this morning were blended in..."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_10" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="11739" message1="Yes, the blended proportions of different tea leaves... They aren't bad at all." next_message_tag="TOWN_09_NPC23C_11"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_11" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="-1" message1="...The temperature isn't optimal. The aroma is a little weak."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_20" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="11739" message1="I change the blend of my tea leaves every time, to match my mood and feeling." next_message_tag="TOWN_09_NPC23C_21"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_21" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="-1" message1="I always want it to taste best, no matter what the conditions are."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_00" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="11815" message1="I don't have any customers now... Maybe I'll predict tomorrow's weather."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_10" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="11815" message1="I don't have any customers now... Maybe I'll predict how many customers I'll have tomorrow."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_11" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="-1" message1="..."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_20" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="11815" message1="*Sigh*... I'm almost always right, but I'm still not building a reputation..." next_message_tag="TOWN_09_NPC23B_21"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_21" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="-1" message1="Maybe I really need to dress like a stereotypical fortuneteller, too."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_SP" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="11815" message1="When predicting the future, the first thing that comes to mind is a crystal ball." next_message_tag="TOWN_09_NPC23B_SP_00"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_SP_00" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="-1" message1="...&lt;CR&gt;..." next_message_tag="TOWN_09_NPC23B_SP_01"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_SP_01" chara_tag="NPC23B" voice_no1="-1" message1="&lt;CLGR&gt;Learned a way to see the future.&lt;CLNR&gt;"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC24A_00" chara_tag="NPC24A" name_tag="NPC24A_02" voice_no1="-1" message1="I need to buy ingredients while they're still fresh..."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC24A_01" chara_tag="NPC24A" name_tag="NPC24A_02" voice_no1="-1" message1="Some ingredients are more about quantity over quality..." next_message_tag="TOWN_09_NPC24A_02"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC24A_02" chara_tag="NPC24A" name_tag="NPC24A_02" voice_no1="-1" message1="It's best to buy those ingredients when they're cheapest."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_00" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="11774" message1="Just taking a quick look, this seems like it's really good quality."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_01" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="-1" message1="..."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_10" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="11774" message1="Hm... I want it to have this trait, and also that trait..." next_message_tag="TOWN_09_NPC06A_11"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_11" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="-1" message1="First I need to get the required materials."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_20" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="11774" message1="Good work also requires good payment..." next_message_tag="TOWN_09_NPC06A_21"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_21" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="-1" message1="Now, maybe I'll pick up a monster slaying request to make some money."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_00" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="11771" message1="Sometimes you run across rumors while running a business." next_message_tag="TOWN_09_NPC22A_01"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_01" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="-1" message1="Popular items sell well, too... It's a decent source of extra money."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_10" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="11771" message1="You don't always get the same kinds of rumors, either..." next_message_tag="TOWN_09_NPC22A_11"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_11" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="-1" message1="If there's a rumor you're really interested in, you can try going there over and over."/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_20" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="11771" message1="Rumors relating to monsters don't sell very well." next_message_tag="TOWN_09_NPC22A_21"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_21" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="-1" message1="Well, the only people who want to go fight are adventurers, really."/>
+</Root>

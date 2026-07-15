@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="/Saves/ui/a17_mix/uia_a17_mix_panel.xml"/>
+	<node name="template" load="Saves/ui/uil_template.xml" viewer_visible="false"/>
+	<node name="background_root">
+		<node name="liquid" pos="256.00, -36.00, 0.00" pivot_pos="416.00, 416.00, 0.00" pivot_enable="true">
+			<node name="liquid_list" pivot_pos="416.00, 416.00, 0.00" pivot_enable="true" rot="-0.00, -0.00, 5.73" scale="1.00, 1.00, 1.00">
+				<image name="base" style="gen_a17_bg05_potliquid" size_wh="832.00, 832.00, 0.00" pivot_enable="true" rot="-0.00, -0.00, -5.73" scale="1.00, 1.00, 1.00" pos="-39.46, 43.61, -0.00"/>
+				<image name="sub" style="gen_a17_bg05_potliquid_add" size_wh="832.00, 832.00, 0.00" alpha_blend="sub" color="100.00, 50.00, 20.00, 255.00" rot="-0.00, -0.00, 33.80" scale="1.00, 1.00, 1.00" pivot_pos="416.00, 416.00, 0.00" pivot_enable="true">
+					<anim_ctrl name="anim_ctrl_1" loop="true" play="false">
+						<bind_node node="sub" anim="requid_rotate"/>
+					</anim_ctrl>
+				</image>
+				<image name="add" style="gen_a17_bg05_potliquid" size_wh="832.00, 832.00, 0.00" pivot_enable="true" rot="-0.00, -0.00, -5.73" scale="1.00, 1.00, 1.00" alpha_blend="add" color="20.00, 150.00, 200.00, 255.00" pivot_pos="416.00, 416.00, 0.00">
+					<anim_ctrl name="anim_ctrl_2" loop="true" play="false" speed="2.00">
+						<bind_node node="add" anim="requid_rotate"/>
+					</anim_ctrl>
+				</image>
+				<anim_ctrl name="anim_normal" loop="true" play="true">
+					<bind_node node="liquid_list" anim="requid_rotate"/>
+					<bind_node node="sub" anim="requid_rotate"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<node name="kettle">
+			<image name="pot" style="etc_a17_bg" image_no="3" scale="1.01, 1.01, 1.00"/>
+		</node>
+		<anim_ctrl name="anim_mix_mat" viewer_key_assign="0">
+			<bind_node node="liquid" anim="mix_mat_liquid"/>
+		</anim_ctrl>
+	</node>
+</root>

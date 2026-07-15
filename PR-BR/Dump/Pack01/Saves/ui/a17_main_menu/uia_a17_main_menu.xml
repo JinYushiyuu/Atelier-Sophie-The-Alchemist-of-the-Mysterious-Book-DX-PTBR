@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+  <anim name="anm_menu_slide_in">
+    <curve attr="color" >
+      <key time="0.0"	value="255,255,255,0"/>
+      <key time="0.3"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+  <anim name="anm_chara_name_fade">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,  0"/>
+      <key time="0.25"	value="255,255,255,0"/>
+      <key time="0.5"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+  <anim name="anm_party_slide_in">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,  0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.0"	value="110,0,0"/>
+      <key time="0.25"	value="0,0,0"/>
+    </curve>
+  </anim>
+  <anim name="anm_chara_slide_in_0">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,  0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.0"	value="30,0,0"/>
+      <key time="0.25"	value="0,0,0"/>
+    </curve>
+  </anim>
+  <anim name="anm_chara_slide_in_1">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,  0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.0"	value="-575,0,0"/>
+      <key time="0.25"	value="-605,0,0"/>
+    </curve>
+  </anim>
+  <anim name="anm_chara_slide_in_2">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,  0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+    </curve>
+    <curve attr="pos">
+      <key time="0.0"	value="190,0,0"/>
+      <key time="0.25"	value="160,0,0"/>
+    </curve>
+  </anim>
+  <anim name="anm_chara_move_0">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0"	value="0,0,0"/>
+      <key time="0.25"	value="-302.5,0,0"/>
+      <key time="0.5"	value="-605,0,0"/>
+    </curve>
+  </anim>
+  <anim name="anm_chara_move_1">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0"	value="-430,0,0"/>
+      <key time="0.2"	value="-517.5,0,0"/>
+      <key time="0.4"	value="-605,0,0"/>
+    </curve>
+  </anim>
+  <anim name="anm_status_slide_in">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0"	value="100,0,0"/>
+      <key time="0.25"	value="0,0,0"/>
+    </curve>
+    <curve attr="color" >
+      <key time="0.0"	value="255,255,255,0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+  <anim name="anm_status_move">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0"	value="175,0,0"/>
+      <key time="0.2"	value="87.5,0,0"/>
+      <key time="0.4" value="0,0,0"/>
+    </curve>
+  </anim>
+  <anim name="anm_skill_slide_in">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0"	value="630,0,0"/>
+      <key time="0.2"	value="315,0,0"/>
+      <key time="0.4"	value="0,0,0"/>
+    </curve>
+    <curve attr="color" >
+      <key time="0.0"	value="255,255,255,0"/>
+      <key time="0.4"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+  <anim name="anm_recover_status">
+    <curve attr="pos" interpolate="spline" >
+      <key time="0.00" value="0.0,5.0,0.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+      <key time="0.50" value="0.0,-5.0,0.0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.00"	value="255,255,255,0"/>
+      <key time="0.10"	value="255,255,255,255"/>
+      <key time="0.40"	value="255,255,255,255"/>
+      <key time="0.50"	value="255,255,255,0"/>
+    </curve>
+  </anim>
+</root>
+

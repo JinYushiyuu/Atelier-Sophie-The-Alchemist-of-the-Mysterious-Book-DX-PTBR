@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+<root>
+
+  <grp>
+    <!-- 回復アイテム使用 -->	
+    	<eff timing="  0.0" eff_no=" 622" scale_x="120" scale_y="70" scale_z="100" emit_life="   0.1" r="255" g="255" b=" 255" a="180" />
+		<eff timing="  0.0" eff_no=" 28" scale_x="70" scale_y="70" scale_z="10" emit_life="   0.1" p_life="   0.6" r="255" g="255" b=" 255" a="128" />
+		<eff timing="  0.0" eff_no=" 130" scale_x="100" scale_y="60" scale_z="1" emit_life="   0.1" p_life="   0.6" r="128" g="128" b=" 255" a="70" />
+		<eff timing="  0.0" eff_no=" 35" scale_x="100" scale_y="100" scale_z="100" emit_life="   0.3" r="80" g="10" b=" 128" a="128" />
+		<eff timing="  0.0" eff_no=" 209" scale_x="150" scale_y="80" scale_z="10" emit_life="   0.1" r="128" g="128" b=" 128" a="70" />
+    <eff timing="  0.0" se_no="332" vol="1.0" pitch="0.0"/>
+  </grp>
+</root>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<costume name="いつもの服装" tag="COSTUME_PC40" charaTag="CHARA_SHALLISTERA" charaBaseTag="CHARA_BASE_PC40"/>
+	<costume name="いつもの服装" tag="COSTUME_PC41" charaTag="CHARA_SHALLOTTE" charaBaseTag="CHARA_BASE_PC41"/>
+	<costume name="いつもの服装" tag="COSTUME_PC43" charaTag="CHARA_WILBELL" charaBaseTag="CHARA_BASE_PC43"/>
+	<costume name="いつもの服装" tag="COSTUME_PC44" charaTag="CHARA_JURIE" charaBaseTag="CHARA_BASE_PC44"/>
+	<costume name="いつもの服装" tag="COSTUME_PC45" charaTag="CHARA_MIRUCA" charaBaseTag="CHARA_BASE_PC45"/>
+	<costume name="いつもの服装" tag="COSTUME_PC48" charaTag="CHARA_ESCHA" charaBaseTag="CHARA_BASE_PC48"/>
+	<costume name="いつもの服装" tag="COSTUME_PC52" charaTag="CHARA_KATLA" charaBaseTag="CHARA_BASE_PC52"/>
+	<costume name="いつもの服装" tag="COSTUME_PC55" charaTag="CHARA_LINCA" charaBaseTag="CHARA_BASE_PC55"/>
+	<costume name="リリークラシカル" tag="COSTUME_PC40B" charaTag="CHARA_SHALLISTERA" charaBaseTag="CHARA_BASE_PC40B" dlcTag="DLC_COSTUME0SHALL0WS"/>
+	<costume name="グラマラスター" tag="COSTUME_PC41B" charaTag="CHARA_SHALLOTTE" charaBaseTag="CHARA_BASE_PC41B" dlcTag="DLC_COSTUME0SHALL0WS"/>
+	<costume name="マジカルリボン" tag="COSTUME_PC43B" charaTag="CHARA_WILBELL" charaBaseTag="CHARA_BASE_PC43B" dlcTag="DLC_COSTUME0WILBE0WS"/>
+	<costume name="ワイルドビキニ" tag="COSTUME_PC44B" charaTag="CHARA_JURIE" charaBaseTag="CHARA_BASE_PC44B" dlcTag="DLC_COSTUME0JURIE0WS"/>
+	<costume name="ネイチャーフリル" tag="COSTUME_PC45B" charaTag="CHARA_MIRUCA" charaBaseTag="CHARA_BASE_PC45B" dlcTag="DLC_COSTUME0MIRUC0WS"/>
+	<costume name="スカイバカンス" tag="COSTUME_PC48B" charaTag="CHARA_ESCHA" charaBaseTag="CHARA_BASE_PC48B" dlcTag="DLC_COSTUME0ESCHA0WS"/>
+	<costume name="パッションドレス" tag="COSTUME_PC52B" charaTag="CHARA_KATLA" charaBaseTag="CHARA_BASE_PC52B" dlcTag="DLC_COSTUME0KATLA0WS"/>
+	<costume name="フローラルパレオ" tag="COSTUME_PC55B" charaTag="CHARA_LINCA" charaBaseTag="CHARA_BASE_PC55B" dlcTag="DLC_COSTUME0LINCA0WS"/>
+	<costume name="コルセイトユニ" tag="COSTUME_PC48C" charaTag="CHARA_ESCHA" charaBaseTag="CHARA_BASE_PC48C" dlcTag="DLC_COSTUME0ESCHA0AM"/>
+</Root>

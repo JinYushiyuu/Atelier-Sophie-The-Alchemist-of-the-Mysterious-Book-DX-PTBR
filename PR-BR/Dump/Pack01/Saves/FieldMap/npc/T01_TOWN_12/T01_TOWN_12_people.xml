@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_12_people people_data="JULIO" chara_tag="JULIO" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_12_people people_data="LOGIX" chara_tag="LOGIX" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_12_people people_data="LOGIX_SHOP" chara_tag="LOGIX" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_12_people people_data="NPC06A" chara_tag="NPC06A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_12_people people_data="NPC26B" chara_tag="NPC26B" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_12_people people_data="NPC26B_ACT_3" chara_tag="NPC26B" mot_idx="0" wait_mot="EV_ACT_3" talk_mot="EV_ACT_3" gravity="1" notTurn="1" talk="1"/>
+</Root>

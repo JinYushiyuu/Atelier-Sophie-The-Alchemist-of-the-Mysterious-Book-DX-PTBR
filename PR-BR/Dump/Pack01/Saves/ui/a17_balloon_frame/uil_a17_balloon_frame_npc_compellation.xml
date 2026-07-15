@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root pos="136, 313, 0" visible="true">
+	<command load_anim="Saves/ui/a17_balloon_frame/uia_a17_balloon_frame.xml"/>
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓テンプレート(汎用メニューの行形式)の読み込み-->
+		<node name="menu_line_format" load="Saves/ui/_line_format/uil_lf_default.xml" viewer_visible="false"/>
+	</node>
+	<command load_style="Saves/ui/balloon_frame/uis_balloon_frame.xml"/>
+	<command load_anim="Saves/ui/balloon_frame/uia_balloon_frame.xml"/>
+	<!--パネル-->
+	<node name="compellate" viewer_visible="true" visible="false" pos="48, -86, 0">
+		<image name="panel" style="gen_a17_field04_tweet" pos="0.00, 0.00, 0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="407, 94">
+			<text text="あいうえおかきくけこあいうえおあいうえおかきくけこあいうえお" name="msg_text" pos="31.00, 7.00, 0.00" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="53.00, 19.00, 0.00, 255.00" line_char_length="15" font_size="24.00" line_space="10.00" viewer_visible="false"/>
+		</image>
+	</node>
+	<!--入場演出-->
+	<anim_ctrl name="anim_enter" start_visible="true" play="true" loop="false" reverse="false">
+		<bind_node node="compellate" anim="anm_common_fade_in"/>
+	</anim_ctrl>
+</root>

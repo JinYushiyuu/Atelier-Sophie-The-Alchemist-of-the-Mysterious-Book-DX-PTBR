@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<command load_anim="/Saves/ui/a17_mix/uia_a17_mix_panel.xml"/>
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<image name="mixtime" style="gen_a17_win01_w01" size_wh="363, 132" pos="459.00, 240.00, -0.00" viewer_visible="true" visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<text text="Synthesis Time:" name="caption" color="53.00, 19.00, 0.00, 255.00" pos="41, 24, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left" font_size="30.00"/>
+			<node name="total" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="174.00, 25.00, -0.00">
+				<text text="Hours" name="text" color="53.00, 19.00, 0.00, 255.00" pos="85.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left" font_size="30.00"/>
+				<text text="11" name="value" color="173.00, 100.00, 91.00, 255.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="30.00" align="right" word_space="2.00" pos="85.00, 0.00, 0.00"/>
+			</node>
+			<node name="start" viewer_visible="false" pos="30, 64, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="day_icon" style="gen_a17_calendar01_day" pos="1.00, 6.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="12" name="hour" color="173.00, 100.00, 91.00, 255.00" pos="70.00, 4.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="30.00" align="right" word_space="2.00"/>
+				<text text="Time" name="hour_text" color="53.00, 19.00, 0.00, 255.00" pos="74.00, 4.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left" font_size="30.00"/>
+			</node>
+			<node copy="start" clone_child_tree="start" name="end" pos="206, 64, -0"/>
+			<image name="vector" style="gen_a17_mix02_vector" pos="165.00, 71.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</image>
+		<node name="calender" pos="327.00, 166.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+			<image name="week_count" style="gen_a17_calendar01_week_bg" pos="152.00, -7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="99" name="text" font="A17_WEEK_COUNT" word_space="-13.00" pos="53.00, 31.00, -0.00" align="right" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+			<image name="clockface" style="gen_a17_calendar01_clockface" pos="33.00, 9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="time_view" style="gen_a17_calendar01_time" pos="30.00, 28.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" image_no="0"/>
+			<node name="week" pos="26, 11, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="week_disp" style="gen_a17_calendar01_week" pos="-72.00, -72.00, 0.00" pivot_enable="true" pivot_pos="72.00, 72.00, 0.00" rot="0.00, 0.00, 0.00">
+					<!--***↓曜日 ***-->
+					<node name="weekday" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="week0" pos="81.00, 76.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day"/>
+						<image name="week1" pos="83.00, 42.00, 0.00" rot="-0.00, -0.00, -72.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="1" pivot_enable="true" pivot_pos="14.00, 16.00, 0.00"/>
+						<image name="week2" pos="53.00, 28.00, 0.00" rot="-0.00, -0.00, -144.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="2" pivot_enable="true" pivot_pos="13.33, 16.00, 0.00"/>
+						<image name="week3" pos="32.00, 53.00, 0.00" rot="-0.00, -0.00, -216.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="3" pivot_enable="true" pivot_pos="13.33, 16.00, 0.00"/>
+						<image name="week4" pos="45.00, 84.00, 0.00" rot="0.00, 0.00, -288.00" scale="1.00, 1.00, 1.00" style="gen_a17_calendar01_day" image_no="4" pivot_enable="true" pivot_pos="13.33, 16.00, 0.00"/>
+					</node>
+				</image>
+				<image name="week_clockhand" style="gen_a17_calendar01_week_ch" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-44.00, -44.00, -0.00" viewer_visible="false"/>
+				<anim_ctrl name="change_day_0" viewer_key_assign="0" exclusive_play="true">
+					<bind_node anim="clock_change_day0" node="week_disp"/>
+				</anim_ctrl>
+				<anim_ctrl name="change_day_1" viewer_key_assign="1" exclusive_play="true">
+					<bind_node anim="clock_change_day1" node="week_disp"/>
+				</anim_ctrl>
+				<anim_ctrl name="change_day_2" viewer_key_assign="2" exclusive_play="true">
+					<bind_node anim="clock_change_day2" node="week_disp"/>
+				</anim_ctrl>
+				<anim_ctrl name="change_day_3" viewer_key_assign="3" exclusive_play="true">
+					<bind_node anim="clock_change_day3" node="week_disp"/>
+				</anim_ctrl>
+				<anim_ctrl name="change_day_4" viewer_key_assign="4" exclusive_play="true">
+					<bind_node anim="clock_change_day4" node="week_disp"/>
+				</anim_ctrl>
+			</node>
+			<image name="clockframe" style="gen_a17_calendar01_clockframe" pos="-34.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="clock_hand" style="gen_a17_calendar01_clockhand" pos="51.00, 27.00, -0.00" pivot_enable="true" pivot_pos="44.00, 44.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<anim_ctrl name="mix_anim" viewer_key_assign="5">
+			<bind_node node="mixtime" anim="anm_common_fade_in" reverse="true"/>
+			<bind_node node="calender" anim="clock_mix_anim"/>
+		</anim_ctrl>
+		<anim_ctrl name="mix_anim_direct" viewer_key_assign="6" exclusive_play="true">
+			<bind_node node="calender" anim="clock_mix_anim_direct" start_visible="true"/>
+		</anim_ctrl>
+		<anim_ctrl name="get_in" viewer_key_assign="7" start_visible="true">
+			<bind_node node="mixtime" anim="anm_common_fade_in"/>
+			<bind_node anim="anm_common_fade_in" node="calender"/>
+		</anim_ctrl>
+	</node>
+</root>

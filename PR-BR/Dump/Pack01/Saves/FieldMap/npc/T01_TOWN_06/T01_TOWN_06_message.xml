@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_06_message message_data="MONIKA_TOWN01_06_1" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Oh, Sophie. Do you need something today?"/>
+    <T01_TOWN_06_message message_data="MONIKA_TOWN01_06_2" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="We're going outside a lot lately, right? That's why I'm making sure to practice my swordplay every day."/>
+    <T01_TOWN_06_message message_data="MONIKA_TOWN01_06_3" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Is your place turning into a mess again? I'll go and help you clean up sometime."/>
+    <T01_TOWN_06_message message_data="MONIKA_TOWN01_06_4" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Alchemy really is amazing... I didn't think you could turn Plachta into a doll..."/>
+    <T01_TOWN_06_message message_data="MONIKA_TOWN01_06_5" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Hey, Sophie? Do you mind if I visit your atelier sometime? ...I really want to eat some sweets."/>
+    <T01_TOWN_06_message message_data="MONIKA_TOWN01_06_E" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11708" message1="Maybe I'll take a little break. Should I go shopping, or have tea, or... Hmm, so many choices..."/>
+    <T01_TOWN_06_message message_data="QC01_MON_015_BOY_B" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="..."/>
+    <T01_TOWN_06_message message_data="QC07_LEO_110_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11695" message1="Um, well..." next_message_tag="QC07_LEO_110_HENRI"/>
+    <T01_TOWN_06_message message_data="QC07_LEO_110_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="I see, I see."/>
+    <T01_TOWN_06_message message_data="QC09_PAM_060_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="11715" message1="Ah, Sophie. Nice night, isn't it?"/>
+    <T01_TOWN_06_message message_data="TOWN_06_MONIKA_EV1" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="..." quest_tag="QC01_MON_150" voice_no2="11708" message2="Make sweets. Lots of them."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC21A_00" chara_tag="NPC21A" name_tag="NPC21A_02" voice_no1="11770" message1="First, you need to learn how to make the props for the performance." next_message_tag="TOWN_06_NPC26A_00"/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC26A_00" chara_tag="NPC26A" name_tag="NPC26A_03" voice_no1="11742" message1="No problem. I'll learn before you know it."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC26A_10" chara_tag="NPC26A" name_tag="NPC26A_03" voice_no1="11742" message1="Hmm, this is harder than I thought." next_message_tag="TOWN_06_NPC26A_11"/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC26A_11" chara_tag="NPC26A" name_tag="NPC26A_03" voice_no1="-1" message1="And my teacher only taught me that one time."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC26A_20" chara_tag="NPC26A" name_tag="NPC26A_03" voice_no1="11742" message1="I've finally got the hang of making these. But I'm still no match at all for my teacher..." next_message_tag="TOWN_06_NPC26A_21"/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC26A_21" chara_tag="NPC21A" name_tag="NPC21A_02" voice_no1="11770" message1="You've got a knack for this. I'll teach you everything I know about my art."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC04A_00" chara_tag="NPC04A" name_tag="NPC04A_01" voice_no1="11778" message1="Do you like shopping? I really love it. Hahaha."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC04A_10" chara_tag="NPC04A" name_tag="NPC04A_01" voice_no1="11778" message1="I especially love limited stock goods. I usually end up buying too much." next_message_tag="TOWN_06_NPC04A_11"/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC04A_11" chara_tag="NPC04A" name_tag="NPC04A_01" voice_no1="-1" message1="Looks like mom's going to be mad at me again... Hahaha."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC04A_20" chara_tag="NPC04A" name_tag="NPC04A_01" voice_no1="11778" message1="I bought some sweets from a neighboring country for the kids around here, but..." next_message_tag="TOWN_06_NPC04A_21"/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC04A_21" chara_tag="NPC04A" name_tag="NPC04A_01" voice_no1="-1" message1="I wanted them to be really happy, so I ended up buying way too much... Hahaha."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24A_00" chara_tag="NPC24A" name_tag="NPC24A_01" voice_no1="11740" message1="Dad collects too many weird things..." next_message_tag="TOWN_06_NPC24A_01"/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24A_01" chara_tag="NPC24A" name_tag="NPC24A_01" voice_no1="-1" message1="It takes up too much space... I try to sell anything that we don't need."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24A_10" chara_tag="NPC24A" name_tag="NPC24A_01" voice_no1="11740" message1="Dad really likes limited edition items..." next_message_tag="TOWN_06_NPC24A_11"/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24A_11" chara_tag="NPC24A" name_tag="NPC24A_01" voice_no1="-1" message1="Luckily you can't buy many of them, so it doesn't cost too much money..."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24A_20" chara_tag="NPC24A" name_tag="NPC24A_01" voice_no1="11740" message1="Dad's actually really good at spending money wisely, somehow..." next_message_tag="TOWN_06_NPC24A_21"/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24A_21" chara_tag="NPC24A" name_tag="NPC24A_01" voice_no1="-1" message1="People say that the path to happiness is knowing how to use your money wisely."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_OP_0" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="11773" message1="Now then, I guess I'll head to the main street to go shopping..." next_message_tag="TOWN_06_NPC24B_OP_1"/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_OP_1" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="-1" message1="But first, I need to go visit the church in the plaza and pray."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_00" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="11773" message1="After doing laundry, I need to work on flower arrangement."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_01" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="11773" message1="After going shopping, I need to work on knitting."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_02" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="11773" message1="After making dinner, I need to start packing boxes."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_10" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="11773" message1="After doing laundry, I need to go make deliveries."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_11" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="11773" message1="After going shopping, I need to make sweets."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_12" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="11773" message1="After making dinner, I need to make side dishes."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_20" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="11773" message1="After doing laundry, I need to start cleaning."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_21" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="11773" message1="After going shopping, I need to bake bread."/>
+    <T01_TOWN_06_message message_data="TOWN_06_NPC24B_22" chara_tag="NPC24B" name_tag="NPC24B" voice_no1="11773" message1="After making dinner... I'm going to take a little trip with my family."/>
+</Root>

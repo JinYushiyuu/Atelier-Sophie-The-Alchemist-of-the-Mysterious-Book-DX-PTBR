@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="/Saves/ui/a17_main_menu/uia_a17_main_menu.xml"/>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 255.00" image_no="2"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="updown">
+			<node name="up" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="icon" style="gen_a17_menustatus01_up" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="+" name="plus" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="28.00, 6.00, 0.00" align="left" font_size="20.00" color="162.00, 0.00, 0.00, 255.00"/>
+				<text text="999" name="value" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="44.00, 6.00, 0.00" align="left" font_size="20.00" color="162.00, 0.00, 0.00, 255.00"/>
+			</node>
+			<node name="down" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="icon" style="gen_a17_menustatus01_down" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="-" name="minus" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="31.00, 6.00, 0.00" align="left" font_size="20.00" color="0.00, 0.00, 162.00, 255.00"/>
+				<text text="999" name="value" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="44.00, 6.00, 0.00" align="left" font_size="20.00" color="0.00, 0.00, 162.00, 255.00"/>
+			</node>
+		</node>
+		<node name="item" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" pos="-0.00, -0.00, -0.00">
+			<image name="iconbg" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_iconbg" pos="-7, 1, 0"/>
+			<image name="item_s" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="etc_a17_item_s" pos="-3.00, 4.00, 0.00" size_wh="32.00, 32.00, 0.00"/>
+		</node>
+		<node name="label_list" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="label" style="gen_a17_menustatus01_t" pos="44.00, 33.00, -0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="label" style="gen_a17_menustatus01_t" pos="44.00, 74.00, -0.00" image_no="1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="label" style="gen_a17_menustatus01_t" pos="44.00, 105.00, 0.00" image_no="2" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="label" style="gen_a17_menustatus01_t" pos="44.00, 136.00, 0.00" image_no="3" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+			<image name="label" style="gen_a17_menustatus01_t_dmg01" pos="44.00, 166.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="label" style="gen_a17_menustatus01_t_dmg02" pos="44.00, 197.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="label" style="gen_a17_menustatus01_t" pos="44.00, 229.00, 0.00" image_no="4" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="label" style="gen_a17_menustatus01_t" pos="44.00, 259.00, 0.00" image_no="5" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="label" style="gen_a17_menustatus01_t" pos="44.00, 290.00, 0.00" image_no="6" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="label" style="gen_a17_menustatus01_t" pos="44.00, 319.00, 0.00" image_no="7" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="parameter_org" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0, -21, 0">
+			<node name="lv" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<text text="99" name="value" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="196.00, 57.00, 0.00" align="center" font_size="20.00"/>
+				<node copy="updown" clone_child_tree="updown" name="updown_node" pos="260.00, 52.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="hp" pos="0.00, 41.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<text text="/" name="slash" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="215.00, 55.00, 0.00" align="center" font_size="20.00"/>
+				<text text="999" name="now" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="210.00, 55.00, 0.00" align="right" font_size="20.00"/>
+				<text text="999" name="max" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="262.00, 55.00, 0.00" align="right" font_size="20.00"/>
+				<node copy="updown" clone_child_tree="updown" name="updown_node" pos="260.00, 50.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="mp" pos="0.00, 69.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<text text="/" name="slash" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="215.00, 57.00, 0.00" align="center" font_size="20.00"/>
+				<text text="999" name="now" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="210.00, 57.00, 0.00" align="right" font_size="20.00"/>
+				<text text="999" name="max" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="262.00, 57.00, 0.00" align="right" font_size="20.00"/>
+				<node copy="updown" clone_child_tree="updown" name="updown_node" pos="260.00, 52.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="lp" pos="0.00, 101.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<text text="/" name="slash" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="215.00, 57.00, 0.00" align="center" font_size="20.00"/>
+				<text text="999" name="now" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="210.00, 57.00, 0.00" align="right" font_size="20.00"/>
+				<text text="999" name="max" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="262.00, 57.00, 0.00" align="right" font_size="20.00"/>
+				<node copy="updown" clone_child_tree="updown" name="updown_node" pos="260.00, 50.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="dmg" pos="0.00, 133.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<text text="999" name="min" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="262.00, 56.00, 0.00" font_size="20.00" align="right"/>
+				<text text="～" name="tilde" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="205.00, 92.00, 0.00" font_size="20.00" align="center" visible="false"/>
+				<text text="999" name="max" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="262.00, 85.00, 0.00" font_size="20.00" align="right"/>
+				<node name="updown_min">
+					<node copy="updown" clone_child_tree="updown" name="updown_node" pos="260.00, 50.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="updown_max" pos="0, 30, 0">
+					<node copy="updown" clone_child_tree="updown" name="updown_node" pos="260.00, 50.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+			<node name="atk" pos="0.00, 195.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<text text="999" name="value" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="262.00, 56.00, 0.00" font_size="20.00" align="right"/>
+				<node copy="updown" clone_child_tree="updown" name="updown_node" pos="260.00, 50.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="def" pos="0.00, 224.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<text text="999" name="value" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="262.00, 57.00, 0.00" font_size="20.00" align="right"/>
+				<node copy="updown" clone_child_tree="updown" name="updown_node" pos="260.00, 52.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="spd" pos="0.00, 254.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<text text="999" name="value" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="262.00, 57.00, 0.00" font_size="20.00" align="right"/>
+				<node copy="updown" clone_child_tree="updown" name="updown_node" pos="260.00, 52.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="res" pos="-0.00, 243.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node name="icon" pos="-32.00, 65.00, 0.00">
+					<image name="regcolor" pos="108.00, 69.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_01" size_wh="38.00, 38.00, 0.00">
+						<anim_ctrl name="anim_ctrl" loop="true">
+							<bind_node node="." anim="anm_common_blink"/>
+						</anim_ctrl>
+					</image>
+					<image name="regcolor_1" pos="148.00, 69.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_01" size_wh="38.00, 38.00, 0.00" image_no="1">
+						<anim_ctrl name="anim_ctrl_1" loop="true">
+							<bind_node node="." anim="anm_common_blink"/>
+						</anim_ctrl>
+					</image>
+					<image name="regcolor_2" pos="188.00, 69.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_01" image_no="2" size_wh="38.00, 38.00, 0.00">
+						<anim_ctrl name="anim_ctrl_2" loop="true">
+							<bind_node node="." anim="anm_common_blink"/>
+						</anim_ctrl>
+					</image>
+					<image name="regcolor_3" pos="228.00, 69.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_01" image_no="3" size_wh="38.00, 38.00, 0.00">
+						<anim_ctrl name="anim_ctrl_3" loop="true">
+							<bind_node node="." anim="anm_common_blink"/>
+						</anim_ctrl>
+					</image>
+					<image name="regcolor_4" pos="269.00, 69.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_01" size_wh="38.00, 38.00, 0.00" image_no="4">
+						<anim_ctrl name="anim_ctrl_4" loop="true">
+							<bind_node node="." anim="anm_common_blink"/>
+						</anim_ctrl>
+					</image>
+				</node>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="true">
+		<node name="large" viewer_visible="true">
+			<node name="status" pos="51, 0, 0">
+				<image name="bg" style="gen_a17_win02_w02" size_wh="380.00, 516.00, 0.00" pos="767.00, 139.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="bg_frame" style="gen_a17_win01_fram01" pos="786.00, 161.00, -0.00" size_wh="342.00, 459.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node copy="label_list" clone_child_tree="label_list" name="clone_label_list"/>
+					<node name="line" pos="-14.00, -24.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="line" style="gen_a17_win01_line03" pos="42, 79, 0" size_wh="297, 7" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_1" style="gen_a17_win01_line03" pos="42.00, 116.00, 0.00" size_wh="297.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_2" style="gen_a17_win01_line03" pos="42.17, 147.00, 0.00" size_wh="297.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_3" style="gen_a17_win01_line03" pos="42.33, 178.00, 0.00" size_wh="297.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_4" style="gen_a17_win01_line03" pos="42.50, 245.00, 0.00" size_wh="297.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_5" style="gen_a17_win01_line03" pos="42.67, 273.00, 0.00" size_wh="297.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_6" style="gen_a17_win01_line03" pos="42.83, 303.00, 0.00" size_wh="297.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_7" style="gen_a17_win01_line03" pos="43.00, 333.00, 0.00" size_wh="297.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_9" style="gen_a17_win01_line03" pos="43.00, 428.00, 0.00" size_wh="297.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+				</image>
+				<image name="ribbon" style="gen_a17_win03_obi01" pos="835.00, 138.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="ハロルロル" name="chara_name" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="116.00, 2.00, 0.00" align="center"/>
+				</image>
+				<node copy="parameter_org" clone_child_tree="parameter_org" name="parameter" pos="826.00, 137.00, 0.00"/>
+				<node name="item" pos="798, 142, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node copy="item" clone_child_tree="item" name="clone_item" pos="52.00, 432.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="item" clone_child_tree="item" name="clone_item_1" pos="101.00, 432.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="item" clone_child_tree="item" name="clone_item_2" pos="150.00, 432.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="item" clone_child_tree="item" name="clone_item_3" pos="199.00, 432.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="item" clone_child_tree="item" name="clone_item_4" pos="248.00, 432.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+		</node>
+		<node name="small" visible="false" viewer_visible="true">
+			<node name="status" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="899.00, 138.00, -0.00" color="255.00, 255.00, 255.00, 255.00">
+				<image name="bg" style="gen_a17_win02_w02" size_wh="302.00, 519.00, 0.00"/>
+				<image name="bg_frame" style="gen_a17_win01_fram01" pos="18.00, 24.00, 0.00" size_wh="266.00, 459.00, 0.00">
+					<node name="line" pos="-18.00, -24.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="line" style="gen_a17_win01_line03" pos="42.00, 79.00, 0.00" size_wh="220, 7" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_1" style="gen_a17_win01_line03" pos="42.00, 116.00, 0.00" size_wh="220, 7" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_2" style="gen_a17_win01_line03" pos="42.00, 147.00, 0.00" size_wh="220, 7" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_3" style="gen_a17_win01_line03" pos="42.00, 178.00, 0.00" size_wh="220, 7" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_4" style="gen_a17_win01_line03" pos="43.33, 242.00, 0.00" size_wh="220.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_5" style="gen_a17_win01_line03" pos="44.00, 273.00, 0.00" size_wh="220.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_6" style="gen_a17_win01_line03" pos="46, 303, 0" size_wh="220, 7" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_7" style="gen_a17_win01_line03" pos="43, 333, 0" size_wh="220.00, 7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<image name="line_8" style="gen_a17_win01_line03" pos="42.00, 430.00, 0.00" size_wh="220, 7" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+					<node copy="label_list" clone_child_tree="label_list" name="clone_label_list_1" pos="-15.00, 0.00, 0.00"/>
+				</image>
+				<image name="ribbon" style="gen_a17_win03_obi01" pos="33.00, 1.00, 0.00" size_wh="234.00, 52.00, 0.00">
+					<text text="ハハロルロル" name="chara_name" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="116.00, 2.00, 0.00" align="center"/>
+				</image>
+				<node copy="parameter_org" clone_child_tree="parameter_org" name="parameter" pos="-10.00, 0.00, 0.00"/>
+				<node name="friend" pos="-1.00, 380.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="label" style="gen_a17_menustatus01_t_Friend" pos="49.00, 57.00, 0.00"/>
+					<image name="under_line" style="gen_a17_win01_line03" pos="44.00, 80.00, -0.00" size_wh="223.00, 7.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="value" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="250.00, 57.00, 0.00" font_size="20.00" align="right"/>
+				</node>
+			</node>
+			<node name="exp" pos="899.00, 138.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="bg" style="gen_a17_menustatus01_expwin01" pos="-4.00, -111.00, 0.00" offset_uvwh="0.00, 0.00, 0.00, -10.00"/>
+				<node name="label">
+					<image name="next" style="gen_a17_menustatus01_t" pos="31.00, -80.00, -0.00" image_no="9" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="exp" style="gen_a17_menustatus01_t" pos="53, 1, -0" image_no="8" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					</image>
+					<image name="adv" style="gen_a17_menustatus01_t" pos="31.00, -80.00, -0.00" image_no="10" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="next_1" style="gen_a17_menustatus01_t" pos="47.00, 1.00, -0.00" image_no="9" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+							<image name="exp_1" style="gen_a17_menustatus01_t" pos="53.00, 1.00, -0.00" image_no="8" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						</image>
+					</image>
+				</node>
+				<text text="999999" name="value" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="268.00, -80.00, -0.00" align="right" font_size="20.00"/>
+				<image name="gauge_bg" style="gen_a17_menustatus01_gagebg" pos="93.00, -48.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="gauge" style="gen_a17_menustatus01_gage" pos="8.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="171.00, 22.00, 0.00"/>
+				</image>
+			</node>
+		</node>
+		<anim_ctrl name="get_in_status" viewer_key_assign="1">
+			<bind_node anim="anm_status_slide_in" node="."/>
+		</anim_ctrl>
+	</node>
+</root>

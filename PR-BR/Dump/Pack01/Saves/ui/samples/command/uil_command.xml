@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="command_template" pos="100,100" visible="true">
+		<image name="label_on" pos="3.00, 3.00, 0.00" image_no="0" style="gen_common04_speechchara"/>
+	</node>
+	<node name="command_menu" pos="500,150">
+		<node name="item" pos="80.00, -107.00, 0.00" clone_child_tree="command_template" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node name="equipment" pos="182.40, -14.80, 0.00" clone_child_tree="command_template" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node name="status" pos="284.80, 77.40, 0.00" clone_child_tree="command_template" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node name="genomi_link" pos="387.20, 169.60, 0.00" clone_child_tree="command_template" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node name="glossary" pos="489.60, 261.80, 0.00" clone_child_tree="command_template" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node name="system" pos="592.00, 354.00, 0.00" clone_child_tree="command_template" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<command target_node="item/label_on" set_image_no="0"/>
+		<command target_node="equipment/label_on" set_image_no="1"/>
+		<command target_node="status/label_on" set_image_no="2"/>
+		<command target_node="genomi_link/label_on" set_image_no="3"/>
+		<command target_node="glossary/label_on" set_image_no="4"/>
+		<command target_node="system/label_on" set_image_no="5"/>
+	</node>
+</root>

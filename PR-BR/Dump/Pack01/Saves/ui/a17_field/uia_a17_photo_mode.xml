@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://gust-st01/project/Juvenile/_Programmer/ui/uia.dtd">
+<root>
+  <!--共通インアウトのシンプルなアニメ-->
+  <anim name="anm_photo_slide_in_left">
+    <curve attr="color" interpolate="easing_outcubic">
+      <key time="0.0"   value="255, 255, 255, 0" />
+      <key time="0.25"  value="255, 255, 255, 255" />
+    </curve>
+    <curve attr="pos" interpolate="easing_outcubic">
+      <key time="0.0"   value="-40, 0, 0" />
+      <key time="0.25"  value="0, 0, 0" />
+    </curve>
+  </anim>
+  <anim name="anm_photo_slide_in_right">
+    <curve attr="color" interpolate="easing_outcubic">
+      <key time="0.0"   value="255, 255, 255, 0" />
+      <key time="0.25"  value="255, 255, 255, 255" />
+    </curve>
+    <curve attr="pos" interpolate="easing_outcubic">
+      <key time="0.0"   value="40, 0, 0" />
+      <key time="0.25"  value="0, 0, 0" />
+    </curve>
+  </anim>
+  <anim name="anm_photo_slide_in_top">
+    <curve attr="color" interpolate="easing_outcubic">
+      <key time="0.0"   value="255, 255, 255, 0" />
+      <key time="0.5"   value="255, 255, 255, 255" />
+    </curve>
+    <curve attr="pos" interpolate="easing_outcubic">
+      <key time="0.0"   value="0, -30, 0" />
+      <key time="0.5"   value="0, 0, 0" />
+    </curve>
+  </anim>
+  <anim name="anm_photo_slide_in_bottom">
+    <curve attr="color" interpolate="easing_outcubic">
+      <key time="0.0"   value="255, 255, 255, 0" />
+      <key time="0.5"   value="255, 255, 255, 255" />
+    </curve>
+    <curve attr="pos" interpolate="easing_outcubic">
+      <key time="0.0"   value="0, 30, 0" />
+      <key time="0.5"   value="0, 0, 0" />
+    </curve>
+  </anim>
+  <anim name="anm_photo_finder_inout">
+    <curve attr="pos">
+      <key time="0.0"  value="0, 0, -2000" />
+      <key frame60="0.02" value="0, 0, 0" />
+    </curve>
+    <curve attr="color">
+      <key time="0.0" value="255, 255, 255, 0" />
+      <key time="0.2" value="255, 255, 255, 255" />
+    </curve>
+  </anim>
+  <anim name="anm_photo_alpha_off">
+    <curve attr="color">
+      <key time="0.00"		value="255,255,255,255"/>
+      <key time="0.01"		value="255,255,255,  0"/>
+    </curve>
+  </anim>
+  <anim name="anm_photo_alpha_on">
+    <curve attr="color">
+      <key time="0.00"		value="255,255,255,  0"/>
+      <key time="0.01"		value="255,255,255,255"/>
+    </curve>
+  </anim>
+</root>

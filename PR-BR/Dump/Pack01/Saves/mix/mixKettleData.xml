@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <mixKettleData ItemName="Grandma's Cauldron" itemTag="ITEM_MIX_TIMEWORN_ALCHEMY_KETTLE" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE" description="The cauldron used by Sophie's grandmother. While it's easy for novice alchemists to use, it's hard to create high quality items."/>
+    <mixKettleData ItemName="Practice Cauldron" itemTag="ITEM_MIX_SP_KETTLE_001" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="Tuned Cauldron" itemTag="ITEM_MIX_SP_KETTLE_002" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="Expert Cauldron" itemTag="ITEM_MIX_SP_KETTLE_003" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="Fairy Cauldron" itemTag="ITEM_MIX_BEGINNERS_ALCHEMY_KETTLE" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE" description="Materials with the same color cannot be placed next to each other. Item is further enhanced when all conditions are fulfilled."/>
+    <mixKettleData ItemName="Ancient Cauldron" itemTag="ITEM_MIX_ALCHEMYST_KETTLE" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="Teacher's Cauldron" itemTag="ITEM_MIX_GURU_ALCHEMY_KETTLE" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="Hermit's Cauldron" itemTag="ITEM_MIX_SOPIE_ALCHEMY_KETTLE" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="Miraculous Cauldron" itemTag="ITEM_MIX_AUS_JEM" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+</Root>

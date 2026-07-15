@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="SHIFT-JIS"?>
+<Root>
+	<CharaShaderSampler Name="sEnv" TexFile="Shader/texture/defaultref.g1t"/>
+	<CharaShaderSampler Name="sOutline" TexFile="Shader/texture/outline.g1t"/>
+	<CharaShaderSampler Name="sToon" TexFile="Shader/texture/toon.g1t"/>
+	<CharaShaderSampler Name="sReflection" TexFile="Shader/texture/defaultmask.g1t"/>
+</Root>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="/Saves/ui/a17_worldmap/uia_a17_map.xml"/>
+	<node name="node" visible="false" viewer_visible="true">
+		<node name="top" pos="476.00, 245.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="icon" style="gen_a17_worldmap01_icon" pos="-35.00, -75.00, 0.00" image_no="0">
+				<anim_ctrl name="anim_ctrl" play="true" loop="true">
+					<bind_node node="icon" anim="anm_gimmick_icon"/>
+				</anim_ctrl>
+			</image>
+		</node>
+	</node>
+</root>

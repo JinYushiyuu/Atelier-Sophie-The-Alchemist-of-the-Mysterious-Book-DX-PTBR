@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!-- スタイルの読み込み -->
+	<!-- アニメーションの読み込み -->
+	<command load_anim="Saves/ui/_menu_templates/uia_mt_common.xml"/>
+	<!-- 下地ウィンドウ -->
+	<image name="__uimenu_window" style="gen_a17_cabinet02_frame02" size_wh="404.00, 424.00, 0.00">
+		<!--スクロールバー-->
+		<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1.00, 0.00, 0.00" size_h="424.00" style="common_scroll_bar_a17_container" pos="-8.00, 2.00, 0.00"/>
+		<!-- メニュー項目 -->
+		<node name="__uimenu_body" pos="20.00, 13.00, 0.00">
+			<!-- メニューカーソル -->
+			<node name="__uimenu_cursor">
+				<image name="__uimenu_cursor_inactive" style="gen_a17_cabinet02_frame02light" pos="14, 10, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="266, 42"/>
+				<image name="__uimenu_cursor_active" style="gen_a17_cabinet02_frame02light" pos="14, 10, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="266.00, 42.00, 0.00">
+					<feed pos="2, 15, 0" name="none" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<!-- 明滅アニメーション -->
+				<anim_ctrl play="true" loop="true">
+					<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</node>
+			<!-- メニュー項目リスト(この下にMenuItemが連なる) -->
+			<node pos="0, 7" name="__uimenu_item_list"/>
+		</node>
+	</image>
+</root>

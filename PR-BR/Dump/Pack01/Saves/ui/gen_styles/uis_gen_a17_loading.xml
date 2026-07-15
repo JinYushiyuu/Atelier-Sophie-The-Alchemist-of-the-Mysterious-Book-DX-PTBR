@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="gen_a17_loading01_book">
+		<image name="gen_a17_loading01_book__xLIST01" texture="ui/a17_loading.g1t" texture_index="0" uvwh="0,0,224,148"/>
+		<image name="gen_a17_loading01_book__xLIST02" texture="ui/a17_loading.g1t" texture_index="0" uvwh="224,0,224,148"/>
+		<image name="gen_a17_loading01_book__xLIST03" texture="ui/a17_loading.g1t" texture_index="0" uvwh="448,0,224,148"/>
+		<image name="gen_a17_loading01_book__xLIST04" texture="ui/a17_loading.g1t" texture_index="0" uvwh="0,147,224,148"/>
+		<image name="gen_a17_loading01_book__xLIST05" texture="ui/a17_loading.g1t" texture_index="0" uvwh="224,147,224,148"/>
+		<image name="gen_a17_loading01_book__xLIST06" texture="ui/a17_loading.g1t" texture_index="0" uvwh="448,147,224,148"/>
+		<image name="gen_a17_loading01_book__xLIST07" texture="ui/a17_loading.g1t" texture_index="0" uvwh="0,295,224,148"/>
+		<image name="gen_a17_loading01_book__xLIST08" texture="ui/a17_loading.g1t" texture_index="0" uvwh="224,295,224,148"/>
+	</image_list>
+	<image name="gen_a17_loading01_bookbg" texture="ui/a17_loading.g1t" texture_index="0" uvwh="0,680,232,88"/>
+	<image_list name="gen_a17_loading01_chara">
+		<image name="gen_a17_loading01_chara__xLIST01" texture="ui/a17_loading.g1t" texture_index="0" uvwh="0,443,296,228"/>
+		<image name="gen_a17_loading01_chara__xLIST02" texture="ui/a17_loading.g1t" texture_index="0" uvwh="448,295,296,228"/>
+		<image name="gen_a17_loading01_chara__xLIST03" texture="ui/a17_loading.g1t" texture_index="0" uvwh="472,523,296,228"/>
+		<image name="gen_a17_loading01_chara__xLIST04" texture="ui/a17_loading.g1t" texture_index="1" uvwh="0,0,296,228"/>
+		<image name="gen_a17_loading01_chara__xLIST05" texture="ui/a17_loading.g1t" texture_index="1" uvwh="296,0,296,228"/>
+		<image name="gen_a17_loading01_chara__xLIST06" texture="ui/a17_loading.g1t" texture_index="1" uvwh="0,238,296,228"/>
+		<image name="gen_a17_loading01_chara__xLIST07" texture="ui/a17_loading.g1t" texture_index="1" uvwh="296,238,296,228"/>
+		<image name="gen_a17_loading01_chara__xLIST08" texture="ui/a17_loading.g1t" texture_index="1" uvwh="0,492,296,228"/>
+		<image name="gen_a17_loading01_chara__xLIST09" texture="ui/a17_loading.g1t" texture_index="1" uvwh="296,492,296,228"/>
+		<image name="gen_a17_loading01_chara__xLIST10" texture="ui/a17_loading.g1t" texture_index="2" uvwh="0,0,296,228"/>
+		<image name="gen_a17_loading01_chara__xLIST11" texture="ui/a17_loading.g1t" texture_index="2" uvwh="0,265,296,228"/>
+	</image_list>
+	<image name="gen_a17_loading01_item" texture="ui/a17_loading.g1t" texture_index="0" uvwh="684,64,84,92"/>
+	<image name="gen_a17_loading01_light01" texture="ui/a17_loading.g1t" texture_index="2" uvwh="584,0,169,88"/>
+	<image name="gen_a17_loading01_light02_back" texture="ui/a17_loading.g1t" texture_index="2" uvwh="296,148,264,100"/>
+	<image name="gen_a17_loading01_light02_front" texture="ui/a17_loading.g1t" texture_index="2" uvwh="296,0,288,148"/>
+	<image name="gen_a17_loading01_monster" texture="ui/a17_loading.g1t" texture_index="0" uvwh="684,160,84,116"/>
+	<image name="gen_a17_loading01_text01" texture="ui/a17_loading.g1t" texture_index="2" uvwh="0,228,248,36"/>
+	<image_list name="gen_a17_loading01_text02">
+		<image name="gen_a17_loading01_text02__xLIST01" texture="ui/a17_loading.g1t" texture_index="0" uvwh="684,4,32,12"/>
+		<image name="gen_a17_loading01_text02__xLIST014" texture="ui/a17_loading.g1t" texture_index="0" uvwh="724,4,32,12"/>
+		<image name="gen_a17_loading01_text02__xLIST02" texture="ui/a17_loading.g1t" texture_index="0" uvwh="724,20,32,12"/>
+		<image name="gen_a17_loading01_text02__xLIST03" texture="ui/a17_loading.g1t" texture_index="0" uvwh="724,36,32,12"/>
+	</image_list>
+</root>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_01_message message_data="MM01_010_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9016" message1="Should I help too?" next_message_tag="MM01_010_SOPHIE"/>
+    <T01_TOWN_01_message message_data="MM01_010_SOPHIE" chara_tag="SOPHIE" name_tag="SOPHIE" voice_no1="-1" message1="It's okay, I'll finish this quick. Just wait right there."/>
+    <T01_TOWN_01_message message_data="MM05_010_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9018" message1="Shouldn't you be talking to Plachta instead of me right now?"/>
+    <T01_TOWN_01_message message_data="MM05_010_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="9023" message1="If you've got time to talk to me, you should be turning Plachta into a doll."/>
+    <T01_TOWN_01_message message_data="MM05_010_MEKLET" chara_tag="MEKLET" name_tag="MEKLET" voice_no1="-1" message1="It seems we're quite lucky, being able to witness such an important moment in history."/>
+    <T01_TOWN_01_message message_data="MM05_010_ATOMINA" chara_tag="ATOMINA" name_tag="ATOMINA" voice_no1="-1" message1="Hehe, I'm excited about this... Very excited..."/>
+    <T01_TOWN_01_message message_data="TOWN_01_PLACHTA_RNPC_A_EV1" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="-1" message1="..." quest_tag="MM05_010" voice_no2="11755" message2="Sophie, please begin."/>
+    <T01_TOWN_01_message message_data="TOWN_01_PLACHTA_EV1" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="-1" message1="..." quest_tag="MM06_050" voice_no2="11755" message2="Is your work going well?"/>
+    <T01_TOWN_01_message message_data="PLACHTA_SYS" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="-1" message1="For Doll Making."/>
+    <T01_TOWN_01_message message_data="PLACHTA_TOWN01_01_1" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="9012" message1="Moving my body is still a little awkward. Maybe because I was a book for so long..."/>
+    <T01_TOWN_01_message message_data="PLACHTA_TOWN01_01_E" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="9012" message1="Maybe we should go outside... Although... I could have sworn I needed to tell you something..."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_1" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9010" message1="There's no time to play around. There's still a lot that I need to teach you."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_2" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="Regardless of the contents, it's true that my memories returned. Just keep it up."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_3" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="The accumulation of knowledge is my true purpose. Your growth is connected to my goal."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_4" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9012" message1="500 years... It's already been that long..."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_5" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="You're looking much more like an alchemist lately, Sophie... Although you still have much to learn."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_6" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="I don't know if I can turn back into a human, but I do look forward to going places with you."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_7" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9012" message1="If my memories return, I'll likely remember more about the &quot;Cauldron of Knowledge&quot;. Continue your alchemy studies."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_8" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="Teaching brings a good feeling too... Watching your growth makes me feel that way."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_9" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9013" message1="Could you at least come up with a better name than &quot;Operation Humanize Plachta&quot;..."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_10" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9010" message1="...I really will get mad if you act without thinking again."/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_11" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="Transfer my soul into a doll... Your ideas really do surprise me at times."/>
+</Root>

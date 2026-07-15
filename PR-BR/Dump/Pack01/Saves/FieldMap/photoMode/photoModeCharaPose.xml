@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="SHIFT-JIS"?>
+<Root>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_031" motion_no="3" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_032" motion_no="7" frame="51" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_033" motion_no="50" frame="30" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_034" motion_no="51" frame="31" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_035" motion_no="52" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_036" motion_no="53" frame="52" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_037" motion_no="54" frame="53" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_038" motion_no="62" frame="54" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_039" motion_no="68" frame="55" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_040" motion_no="69" frame="56" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_041" motion_no="2" frame="1" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_042" motion_no="15" frame="105" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_043" motion_no="16" frame="104" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_044" motion_no="18" frame="40" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_045" motion_no="29" frame="80" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_SOPHIE" name="STR_FM_PHOTO_MODE_046" motion_no="21" frame="37" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_031" motion_no="4" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_032" motion_no="6" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_033" motion_no="34" frame="108" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_034" motion_no="35" frame="108" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_035" motion_no="36" frame="106" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_036" motion_no="37" frame="105" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_037" motion_no="38" frame="106" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_038" motion_no="41" frame="107" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_039" motion_no="48" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_040" motion_no="49" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_041" motion_no="2" frame="1" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_042" motion_no="14" frame="70" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_043" motion_no="15" frame="90" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_044" motion_no="18" frame="110" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_045" motion_no="17" frame="111" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA" name="STR_FM_PHOTO_MODE_046" motion_no="20" frame="30" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_031" motion_no="4" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_032" motion_no="6" frame="31" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_033" motion_no="35" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_034" motion_no="36" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_035" motion_no="37" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_036" motion_no="38" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_037" motion_no="39" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_038" motion_no="45" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_039" motion_no="46" frame="70" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_040" motion_no="49" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_041" motion_no="2" frame="1" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_042" motion_no="14" frame="100" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_043" motion_no="15" frame="110" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_044" motion_no="16" frame="120" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_045" motion_no="17" frame="50" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MONIKA" name="STR_FM_PHOTO_MODE_046" motion_no="23" frame="70" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_031" motion_no="4" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_032" motion_no="6" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_033" motion_no="35" frame="100" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_034" motion_no="36" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_035" motion_no="37" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_036" motion_no="38" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_037" motion_no="39" frame="70" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_038" motion_no="45" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_039" motion_no="46" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_040" motion_no="49" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_041" motion_no="2" frame="1" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_042" motion_no="14" frame="60" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_043" motion_no="15" frame="70" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_044" motion_no="16" frame="58" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_045" motion_no="17" frame="60" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_OTTO" name="STR_FM_PHOTO_MODE_046" motion_no="21" frame="70" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_031" motion_no="4" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_032" motion_no="6" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_033" motion_no="34" frame="30" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_034" motion_no="35" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_035" motion_no="36" frame="41" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_036" motion_no="37" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_037" motion_no="38" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_038" motion_no="44" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_039" motion_no="45" frame="70" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_040" motion_no="48" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_041" motion_no="2" frame="1" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_042" motion_no="14" frame="120" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_043" motion_no="15" frame="80" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_044" motion_no="16" frame="140" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_045" motion_no="18" frame="60" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_JULIO" name="STR_FM_PHOTO_MODE_046" motion_no="21" frame="70" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_031" motion_no="4" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_032" motion_no="6" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_033" motion_no="34" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_034" motion_no="35" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_035" motion_no="36" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_036" motion_no="37" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_037" motion_no="38" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_038" motion_no="43" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_039" motion_no="44" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_040" motion_no="45" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_041" motion_no="2" frame="1" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_042" motion_no="14" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_043" motion_no="15" frame="70" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_044" motion_no="17" frame="53" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_045" motion_no="21" frame="40" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_FILON" name="STR_FM_PHOTO_MODE_046" motion_no="25" frame="40" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_031" motion_no="4" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_032" motion_no="6" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_033" motion_no="34" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_034" motion_no="35" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_035" motion_no="36" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_036" motion_no="37" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_037" motion_no="38" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_038" motion_no="3" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_039" motion_no="44" frame="70" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_040" motion_no="45" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_041" motion_no="2" frame="1" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_042" motion_no="14" frame="20" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_043" motion_no="15" frame="120" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_044" motion_no="16" frame="75" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_045" motion_no="18" frame="110" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_CANARIA" name="STR_FM_PHOTO_MODE_046" motion_no="24" frame="220" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_031" motion_no="4" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_032" motion_no="6" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_033" motion_no="34" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_034" motion_no="35" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_035" motion_no="36" frame="70" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_036" motion_no="37" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_037" motion_no="38" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_038" motion_no="44" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_039" motion_no="45" frame="70" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_040" motion_no="6" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_041" motion_no="2" frame="1" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_042" motion_no="14" frame="90" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_043" motion_no="15" frame="100" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_044" motion_no="16" frame="30" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_045" motion_no="19" frame="80" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAUL" name="STR_FM_PHOTO_MODE_046" motion_no="26" frame="77" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_031" motion_no="4" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_032" motion_no="6" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_033" motion_no="34" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_034" motion_no="35" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_035" motion_no="36" frame="70" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_036" motion_no="37" frame="30" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_037" motion_no="38" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_038" motion_no="44" frame="20" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_039" motion_no="45" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_040" motion_no="48" frame="10" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_041" motion_no="2" frame="1" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_042" motion_no="14" frame="90" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_043" motion_no="15" frame="100" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_044" motion_no="16" frame="100" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_045" motion_no="17" frame="30" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HENRI" name="STR_FM_PHOTO_MODE_046" motion_no="18" frame="40" enable_face="-1" weapon="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_031" motion_no="1" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_032" motion_no="2" frame="100" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_033" motion_no="8" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_034" motion_no="9" frame="10" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_035" motion_no="10" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_036" motion_no="11" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_037" motion_no="12" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_038" motion_no="7" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_039" motion_no="18" frame="70" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_LOGIX" name="STR_FM_PHOTO_MODE_040" motion_no="19" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_031" motion_no="1" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_032" motion_no="2" frame="100" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_033" motion_no="9" frame="100" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_034" motion_no="10" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_035" motion_no="11" frame="70" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_036" motion_no="12" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_037" motion_no="13" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_038" motion_no="8" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_039" motion_no="19" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PAMELA" name="STR_FM_PHOTO_MODE_040" motion_no="20" frame="80" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_031" motion_no="1" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_032" motion_no="2" frame="150" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_033" motion_no="8" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_034" motion_no="9" frame="20" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_035" motion_no="10" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_036" motion_no="11" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_037" motion_no="12" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_038" motion_no="18" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_039" motion_no="19" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_TESS" name="STR_FM_PHOTO_MODE_040" motion_no="22" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_031" motion_no="1" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_032" motion_no="2" frame="120" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_033" motion_no="8" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_034" motion_no="9" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_035" motion_no="10" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_036" motion_no="11" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_037" motion_no="12" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_038" motion_no="18" frame="22" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_039" motion_no="19" frame="30" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELISE" name="STR_FM_PHOTO_MODE_040" motion_no="0" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_031" motion_no="1" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_032" motion_no="2" frame="90" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_033" motion_no="8" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_034" motion_no="9" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_035" motion_no="10" frame="30" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_036" motion_no="11" frame="30" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_037" motion_no="12" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_038" motion_no="18" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_039" motion_no="19" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_HELLMUT" name="STR_FM_PHOTO_MODE_040" motion_no="0" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_031" motion_no="0" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_032" motion_no="1" frame="20" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_033" motion_no="7" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_037" motion_no="8" frame="30" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_038" motion_no="4" frame="30" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_039" motion_no="11" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MEKLET" name="STR_FM_PHOTO_MODE_040" motion_no="15" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_031" motion_no="0" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_032" motion_no="1" frame="20" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_033" motion_no="7" frame="175" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_037" motion_no="8" frame="40" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_038" motion_no="6" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_039" motion_no="11" frame="25" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_ATOMINA" name="STR_FM_PHOTO_MODE_040" motion_no="15" frame="50" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA_RNPC_A" name="STR_FM_PHOTO_MODE_031" motion_no="0" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA_RNPC_A" name="STR_FM_PHOTO_MODE_038" motion_no="1" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA_RNPC_A" name="STR_FM_PHOTO_MODE_039" motion_no="2" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_PLACHTA_RNPC_A" name="STR_FM_PHOTO_MODE_040" motion_no="3" frame="60"/>
+	<photoModeCharaPose chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_031" motion_no="0" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_032" motion_no="6" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_035" motion_no="7" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_037" motion_no="8" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_038" motion_no="11" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_039" motion_no="12" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_RNPC02A" name="STR_FM_PHOTO_MODE_040" motion_no="13" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_031" motion_no="0" frame="1" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_032" motion_no="4" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_033" motion_no="8" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_034" motion_no="9" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_035" motion_no="10" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_038" motion_no="1" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_039" motion_no="7" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_MARGRIT" name="STR_FM_PHOTO_MODE_040" motion_no="13" frame="60" enable_face="-1"/>
+	<photoModeCharaPose chara_tag="CHARA_PUNI_00" name="STR_FM_PHOTO_MODE_031" motion_no="5" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_PUNI_00" name="STR_FM_PHOTO_MODE_038" motion_no="1" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_PUNI_00" name="STR_FM_PHOTO_MODE_039" motion_no="2" frame="16"/>
+	<photoModeCharaPose chara_tag="CHARA_PUNI_00" name="STR_FM_PHOTO_MODE_040" motion_no="3" frame="8"/>
+	<photoModeCharaPose chara_tag="CHARA_BOOK_00" name="STR_FM_PHOTO_MODE_031" motion_no="5" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_BOOK_00" name="STR_FM_PHOTO_MODE_038" motion_no="0" frame="10"/>
+	<photoModeCharaPose chara_tag="CHARA_BOOK_00" name="STR_FM_PHOTO_MODE_039" motion_no="2" frame="60"/>
+	<photoModeCharaPose chara_tag="CHARA_BOOK_00" name="STR_FM_PHOTO_MODE_040" motion_no="6" frame="30"/>
+	<photoModeCharaPose chara_tag="CHARA_GHOST_00" name="STR_FM_PHOTO_MODE_031" motion_no="5" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_GHOST_00" name="STR_FM_PHOTO_MODE_038" motion_no="0" frame="118"/>
+	<photoModeCharaPose chara_tag="CHARA_GHOST_00" name="STR_FM_PHOTO_MODE_039" motion_no="2" frame="68"/>
+	<photoModeCharaPose chara_tag="CHARA_GHOST_00" name="STR_FM_PHOTO_MODE_040" motion_no="4" frame="20"/>
+	<photoModeCharaPose chara_tag="CHARA_MANDRAKE_00" name="STR_FM_PHOTO_MODE_031" motion_no="5" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_MANDRAKE_00" name="STR_FM_PHOTO_MODE_038" motion_no="1" frame="22"/>
+	<photoModeCharaPose chara_tag="CHARA_MANDRAKE_00" name="STR_FM_PHOTO_MODE_039" motion_no="3" frame="50"/>
+	<photoModeCharaPose chara_tag="CHARA_MANDRAKE_00" name="STR_FM_PHOTO_MODE_040" motion_no="4" frame="30"/>
+	<photoModeCharaPose chara_tag="CHARA_APOSTEL_00" name="STR_FM_PHOTO_MODE_031" motion_no="5" frame="28"/>
+	<photoModeCharaPose chara_tag="CHARA_APOSTEL_00" name="STR_FM_PHOTO_MODE_038" motion_no="3" frame="60"/>
+	<photoModeCharaPose chara_tag="CHARA_APOSTEL_00" name="STR_FM_PHOTO_MODE_039" motion_no="4" frame="100"/>
+	<photoModeCharaPose chara_tag="CHARA_APOSTEL_00" name="STR_FM_PHOTO_MODE_040" motion_no="6" frame="60"/>
+	<photoModeCharaPose chara_tag="CHARA_ARDRA_00" name="STR_FM_PHOTO_MODE_031" motion_no="5" frame="38"/>
+	<photoModeCharaPose chara_tag="CHARA_ARDRA_00" name="STR_FM_PHOTO_MODE_038" motion_no="0" frame="60"/>
+	<photoModeCharaPose chara_tag="CHARA_ARDRA_00" name="STR_FM_PHOTO_MODE_039" motion_no="1" frame="20"/>
+	<photoModeCharaPose chara_tag="CHARA_ARDRA_00" name="STR_FM_PHOTO_MODE_040" motion_no="3" frame="40"/>
+	<photoModeCharaPose chara_tag="CHARA_CHIMERA_00" name="STR_FM_PHOTO_MODE_031" motion_no="5" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_CHIMERA_00" name="STR_FM_PHOTO_MODE_038" motion_no="4" frame="100"/>
+	<photoModeCharaPose chara_tag="CHARA_CHIMERA_00" name="STR_FM_PHOTO_MODE_039" motion_no="6" frame="60"/>
+	<photoModeCharaPose chara_tag="CHARA_CHIMERA_00" name="STR_FM_PHOTO_MODE_040" motion_no="7" frame="30"/>
+	<photoModeCharaPose chara_tag="CHARA_LANDFISH_00" name="STR_FM_PHOTO_MODE_031" motion_no="5" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_LANDFISH_00" name="STR_FM_PHOTO_MODE_038" motion_no="0" frame="70"/>
+	<photoModeCharaPose chara_tag="CHARA_LANDFISH_00" name="STR_FM_PHOTO_MODE_039" motion_no="3" frame="60"/>
+	<photoModeCharaPose chara_tag="CHARA_LANDFISH_00" name="STR_FM_PHOTO_MODE_040" motion_no="4" frame="100"/>
+	<photoModeCharaPose chara_tag="CHARA_LICH_00" name="STR_FM_PHOTO_MODE_031" motion_no="5" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_LICH_00" name="STR_FM_PHOTO_MODE_038" motion_no="0" frame="100"/>
+	<photoModeCharaPose chara_tag="CHARA_LICH_00" name="STR_FM_PHOTO_MODE_039" motion_no="2" frame="110"/>
+	<photoModeCharaPose chara_tag="CHARA_LICH_00" name="STR_FM_PHOTO_MODE_040" motion_no="7" frame="50"/>
+	<photoModeCharaPose chara_tag="CHARA_DEMON_00" name="STR_FM_PHOTO_MODE_031" motion_no="5" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_DEMON_00" name="STR_FM_PHOTO_MODE_038" motion_no="0" frame="54"/>
+	<photoModeCharaPose chara_tag="CHARA_DEMON_00" name="STR_FM_PHOTO_MODE_039" motion_no="2" frame="100"/>
+	<photoModeCharaPose chara_tag="CHARA_DEMON_00" name="STR_FM_PHOTO_MODE_040" motion_no="3" frame="60"/>
+	<photoModeCharaPose chara_tag="CHARA_DRAGONARE_00" name="STR_FM_PHOTO_MODE_031" motion_no="8" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_DRAGONARE_00" name="STR_FM_PHOTO_MODE_038" motion_no="0" frame="140"/>
+	<photoModeCharaPose chara_tag="CHARA_DRAGONARE_00" name="STR_FM_PHOTO_MODE_039" motion_no="6" frame="100"/>
+	<photoModeCharaPose chara_tag="CHARA_DRAGONARE_00" name="STR_FM_PHOTO_MODE_040" motion_no="10" frame="30"/>
+	<photoModeCharaPose chara_tag="CHARA_DRAGONARE_00" name="STR_FM_PHOTO_MODE_093" motion_no="3" frame="130"/>
+	<photoModeCharaPose chara_tag="CHARA_DRAGONARE_00" name="STR_FM_PHOTO_MODE_094" motion_no="7" frame="140"/>
+	<photoModeCharaPose chara_tag="CHARA_ELEMENTAL_00" name="STR_FM_PHOTO_MODE_031" motion_no="8" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_ELEMENTAL_00" name="STR_FM_PHOTO_MODE_038" motion_no="1" frame="90"/>
+	<photoModeCharaPose chara_tag="CHARA_ELEMENTAL_00" name="STR_FM_PHOTO_MODE_039" motion_no="6" frame="100"/>
+	<photoModeCharaPose chara_tag="CHARA_ELEMENTAL_00" name="STR_FM_PHOTO_MODE_040" motion_no="10" frame="60"/>
+	<photoModeCharaPose chara_tag="CHARA_ELEMENTAL_00" name="STR_FM_PHOTO_MODE_093" motion_no="3" frame="90"/>
+	<photoModeCharaPose chara_tag="CHARA_ELEMENTAL_00" name="STR_FM_PHOTO_MODE_094" motion_no="7" frame="220"/>
+	<photoModeCharaPose chara_tag="CHARA_DEMONLORD_00" name="STR_FM_PHOTO_MODE_031" motion_no="8" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_DEMONLORD_00" name="STR_FM_PHOTO_MODE_038" motion_no="0" frame="210"/>
+	<photoModeCharaPose chara_tag="CHARA_DEMONLORD_00" name="STR_FM_PHOTO_MODE_039" motion_no="4" frame="100"/>
+	<photoModeCharaPose chara_tag="CHARA_DEMONLORD_00" name="STR_FM_PHOTO_MODE_040" motion_no="10" frame="30"/>
+	<photoModeCharaPose chara_tag="CHARA_DEMONLORD_00" name="STR_FM_PHOTO_MODE_093" motion_no="3" frame="170"/>
+	<photoModeCharaPose chara_tag="CHARA_DEMONLORD_00" name="STR_FM_PHOTO_MODE_094" motion_no="6" frame="75"/>
+	<photoModeCharaPose chara_tag="CHARA_NUAZA_00" name="STR_FM_PHOTO_MODE_031" motion_no="8" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_NUAZA_00" name="STR_FM_PHOTO_MODE_038" motion_no="0" frame="100"/>
+	<photoModeCharaPose chara_tag="CHARA_NUAZA_00" name="STR_FM_PHOTO_MODE_039" motion_no="1" frame="80"/>
+	<photoModeCharaPose chara_tag="CHARA_NUAZA_00" name="STR_FM_PHOTO_MODE_040" motion_no="10" frame="10"/>
+	<photoModeCharaPose chara_tag="CHARA_NUAZA_00" name="STR_FM_PHOTO_MODE_093" motion_no="3" frame="210"/>
+	<photoModeCharaPose chara_tag="CHARA_NUAZA_00" name="STR_FM_PHOTO_MODE_094" motion_no="5" frame="151"/>
+	<photoModeCharaPose chara_tag="CHARA_LASTBOSS_00" name="STR_FM_PHOTO_MODE_031" motion_no="8" frame="1"/>
+	<photoModeCharaPose chara_tag="CHARA_LASTBOSS_00" name="STR_FM_PHOTO_MODE_038" motion_no="0" frame="100"/>
+	<photoModeCharaPose chara_tag="CHARA_LASTBOSS_00" name="STR_FM_PHOTO_MODE_039" motion_no="4" frame="270"/>
+	<photoModeCharaPose chara_tag="CHARA_LASTBOSS_00" name="STR_FM_PHOTO_MODE_040" motion_no="10" frame="50"/>
+	<photoModeCharaPose chara_tag="CHARA_LASTBOSS_00" name="STR_FM_PHOTO_MODE_093" motion_no="3" frame="240"/>
+	<photoModeCharaPose chara_tag="CHARA_LASTBOSS_00" name="STR_FM_PHOTO_MODE_094" motion_no="0" frame="60"/>
+</Root>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00"/>
+	<command load_anim="/Saves/ui/a17_main_menu/uia_a17_main_menu.xml"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="item_use_menu_template" visible="true" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<!--メニュー行の雛形-->
+			<node name="row_template" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<!--↓line_formatのposは(0,0,0)にしておいてください-->
+				<node name="line_format" pos="-1, 8, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true">
+					<image name="chara_image" style="gen_a17_sub_status01_ph02" pos="1.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="オットー" name="chara_name" copy="TEXTCOLOR_BROWN" pos="82.00, -4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- メニューカーソル -->
+					<image name="__uimenu_cursor_inactive" style="gen_a17_win03_hl" size_wh="284.00, 166.00, 0.00" pos="-20.00, -28.00, 0.00">
+						<!-- 明滅アニメーション -->
+						<anim_ctrl loop="true" play="true" name="blink">
+							<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+						</anim_ctrl>
+					</image>
+					<image name="__uimenu_cursor_active" style="gen_a17_win03_hl" size_wh="284.00, 166.00, 0.00" pos="-20, -28, 0">
+						<feed name="feed" pos="15, 22, 0"/>
+						<!-- 明滅アニメーション -->
+						<anim_ctrl loop="true" play="true" name="blink">
+							<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+						</anim_ctrl>
+					</image>
+					<image name="hp" pos="84.00, 33.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_t" image_no="1">
+						<text text="999" name="now" copy="TEXTCOLOR_BROWN" pos="98.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right" font_size="20.00" menu_item_color_cancel="true"/>
+						<text text="/" name="slash" copy="TEXTCOLOR_BROWN" pos="103.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="center" font_size="20.00" menu_item_color_cancel="true"/>
+						<text text="999" name="max" copy="TEXTCOLOR_BROWN" pos="109.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" font_size="20.00" align="left" menu_item_color_cancel="true"/>
+						<text text="+999" name="plus" pos="211.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right" font_size="20.00" color="19.00, 130.00, 19.00, 255.00" menu_item_color_cancel="true">
+							<anim_ctrl name="recovery" play="false" viewer_key_assign="2" start_visible="true">
+								<bind_node anim="anm_recover_status" node="."/>
+							</anim_ctrl>
+						</text>
+					</image>
+					<image name="mp" pos="84.00, 64.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_t" image_no="2">
+						<text text="999" name="now" copy="TEXTCOLOR_BROWN" pos="98.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right" font_size="20.00" menu_item_color_cancel="true"/>
+						<text text="/" name="slash" copy="TEXTCOLOR_BROWN" pos="103.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="center" font_size="20.00" menu_item_color_cancel="true"/>
+						<text text="999" name="max" copy="TEXTCOLOR_BROWN" pos="109.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" font_size="20.00" align="left" menu_item_color_cancel="true"/>
+						<text text="+999" name="plus" pos="211.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right" font_size="20.00" color="19.00, 130.00, 19.00, 255.00" menu_item_color_cancel="true">
+							<anim_ctrl name="recovery" viewer_key_assign="2" start_visible="true">
+								<bind_node anim="anm_recover_status" node="."/>
+							</anim_ctrl>
+						</text>
+					</image>
+					<image name="lp" pos="84.00, 95.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_t" image_no="3">
+						<text text="999" name="now" copy="TEXTCOLOR_BROWN" pos="98.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right" font_size="20.00" viewer_visible="false" menu_item_color_cancel="true"/>
+						<text text="/" name="slash" copy="TEXTCOLOR_BROWN" pos="103.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="center" font_size="20.00" menu_item_color_cancel="true"/>
+						<text text="999" name="max" copy="TEXTCOLOR_BROWN" pos="109.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" font_size="20.00" align="left" menu_item_color_cancel="true"/>
+						<text text="+999" name="plus" pos="211.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right" font_size="20.00" color="19.00, 130.00, 19.00, 255.00" menu_item_color_cancel="true">
+							<anim_ctrl name="recovery" start_visible="true" viewer_key_assign="2">
+								<bind_node anim="anm_recover_status" node="."/>
+							</anim_ctrl>
+						</text>
+					</image>
+					<node name="effect_pos" pos="120, 61, 0"/>
+				</node>
+			</node>
+			<!--メニューレイアウトの雛形-->
+			<node name="menu_template" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="bg" style="gen_a17_win01_w03" pos="106, 10, -0" size_wh="311.00, 603.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node name="line" pos="-9.00, -5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="line" style="gen_a17_win01_line01" pos="28.00, 23.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="258, 8"/>
+						<image name="line_1" style="gen_a17_win01_line01" pos="28.00, 161.25, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="258, 8"/>
+						<image name="line_2" style="gen_a17_win01_line01" pos="28.00, 299.50, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="258, 8"/>
+						<image name="line_3" style="gen_a17_win01_line01" pos="28.00, 437.75, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="258, 8"/>
+						<image name="line_4" style="gen_a17_win01_line01" pos="28.00, 576.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="258, 8"/>
+					</node>
+				</image>
+				<!--スクロールバー-->
+				<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1,0" pos="383, 40, -0" size_h="543" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<!-- メニュー行のリスト(行以外は入れないこと)-->
+				<node name="__uimenu_item_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0, -4, 0">
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format" pos="132.00, 43.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_1" pos="130.67, 181.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_2" pos="129.33, 319.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_3" pos="128.00, 457.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" visible="false" viewer_visible="true">
+		<node name="item_status" pos="877, 41, 0">
+			<menu name="menu" template_node="item_use_menu_template/menu_template" pos="-89.00, 4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" normal_font_color="53.00, 19.00, 0.00, 255.00" selected_font_color="175.00, 115.00, 0.00, 255.00">
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_4"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_6"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_7"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_7"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_7"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_7"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_7"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_7"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_7"/>
+			</menu>
+		</node>
+		<anim_ctrl name="get_in_item_status" viewer_key_assign="1" start_visible="true">
+			<bind_node node="." anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+</root>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/CNN/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="etc_a17_charabig_image">
+		<image name="etc_a17_charabig_image_0000" texture="ui/a17_charabig_image00.g1t" texture_index="0" uvwh=" 0, 0, 1024, 1408"/><!--ソフィー-->
+		<image name="etc_a17_charabig_image_0001" texture="ui/a17_charabig_image00.g1t" texture_index="0" uvwh=" 1024, 0, 1024, 1408"/><!--プラフタ人体-->
+		<image name="etc_a17_charabig_image_0002" texture="ui/a17_charabig_image00.g1t" texture_index="0" uvwh=" 2048, 0, 1024, 1408"/><!--モニカ-->
+		<image name="etc_a17_charabig_image_0003" texture="ui/a17_charabig_image01.g1t" texture_index="0" uvwh=" 0, 0, 1024, 1408"/><!--オスカー-->
+		<image name="etc_a17_charabig_image_0004" texture="ui/a17_charabig_image01.g1t" texture_index="0" uvwh=" 1024, 0, 1024, 1408"/><!--ジュリオ-->
+		<image name="etc_a17_charabig_image_0005" texture="ui/a17_charabig_image01.g1t" texture_index="0" uvwh=" 2048, 0, 1024, 1408"/><!--フリッツ-->
+		<image name="etc_a17_charabig_image_0006" texture="ui/a17_charabig_image02.g1t" texture_index="0" uvwh=" 0, 0, 1024, 1408"/><!--コルネリア-->
+		<image name="etc_a17_charabig_image_0007" texture="ui/a17_charabig_image02.g1t" texture_index="0" uvwh=" 1024, 0, 1024, 1408"/><!--ハロル-->
+		<image name="etc_a17_charabig_image_0008" texture="ui/a17_charabig_image02.g1t" texture_index="0" uvwh=" 2048, 0, 1024, 1408"/><!--アメリア-->
+		<image name="etc_a17_charabig_image_0009" texture="ui/a17_charabig_image03.g1t" texture_index="0" uvwh=" 0, 0, 1024, 1408"/><!--ロジーヌ-->
+		<image name="etc_a17_charabig_image_0010" texture="ui/a17_charabig_image03.g1t" texture_index="0" uvwh=" 1024, 0, 1024, 1408"/><!--パメラ-->
+		<image name="etc_a17_charabig_image_0011" texture="ui/a17_charabig_image03.g1t" texture_index="0" uvwh=" 2048, 0, 1024, 1408"/><!--テス-->
+		<image name="etc_a17_charabig_image_0012" texture="ui/a17_charabig_image04.g1t" texture_index="0" uvwh=" 0, 0, 1024, 1408"/><!--主人公変身-->
+		<image name="etc_a17_charabig_image_0013" texture="ui/a17_charabig_image05.g1t" texture_index="0" uvwh=" 0, 0, 1024, 1408"/><!--主人公追加（新衣装）-->
+	</image_list>
+</root>

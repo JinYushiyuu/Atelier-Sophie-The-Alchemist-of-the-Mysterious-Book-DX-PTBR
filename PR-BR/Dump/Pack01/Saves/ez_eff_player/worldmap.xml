@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="shift_jis"?>
+<root>
+  <grp>
+    <!-- ★が点灯するとき -->
+    <eff timing="   0.0" eff_no="8" pos_x="650.0" pos_y="350.0" scale_x="100" scale_y="100" emit_life="   0.1" r="255" g="255" b=" 255" se_no="13"></eff>
+    <eff timing="   0.0" eff_no="99" pos_x="650.0" pos_y="350.0" scale_x="100" scale_y="100" emit_life="   0.1" r="255" g="255" b=" 255"></eff>
+    <eff timing="   0.0" eff_no="237" pos_x="650.0" pos_y="350.0" scale_x="100" scale_y="100" emit_life="   0.1" r="255" g="255" b=" 255"></eff>
+    <eff timing="0.0" se_no="108" vol="0.5" pitch="0.0"/>
+  </grp>
+</root>

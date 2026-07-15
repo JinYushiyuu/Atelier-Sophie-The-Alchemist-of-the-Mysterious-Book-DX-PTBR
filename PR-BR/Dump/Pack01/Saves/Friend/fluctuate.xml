@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="SHIFT-JIS"?>
+<Root>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_MOSTGOOD" lower_limit="4.9" upper_limit="5"/>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_VERYGOOD" lower_limit="2" upper_limit="4.9"/>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_GOOD" lower_limit="1.5" upper_limit="2"/>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_SOGOOD" lower_limit="1" upper_limit="1.5"/>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_LITTLEGOOD" lower_limit="0.5" upper_limit="1"/>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_NORMAL" lower_limit="0" upper_limit="0.5"/>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_LITTLEBAD" lower_limit="-0.5" upper_limit="0"/>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_SOBAD" lower_limit="-1" upper_limit="-0.5"/>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_BAD" lower_limit="-1.5" upper_limit="-1"/>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_VERYBAD" lower_limit="-4.9" upper_limit="-1.5"/>
+	<fluctuate fluctuate_tag="FRIENDSHIP_FLUCTUATE_MOSTBAD" lower_limit="-5" upper_limit="-4.9"/>
+</Root>

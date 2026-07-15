@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_main_menu01_complete" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="0,736,88,32"/>
+	<image name="gen_a17_main_menu01_gauge01" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="72,432,352,44"/>
+	<image name="gen_a17_main_menu01_gauge02" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="72,476,352,44"/>
+	<image name="gen_a17_main_menu01_gauge_bg" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="72,524,376,60"/>
+	<image name="gen_a17_main_menu01_gauge_f" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="72,320,432,108"/>
+	<image_list name="gen_a17_main_menu01_i01">
+		<image name="gen_a17_main_menu01_i01__xLIST01" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="2,2,62,62"/>
+		<image name="gen_a17_main_menu01_i01__xLIST02" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="2,66,62,62"/>
+		<image name="gen_a17_main_menu01_i01__xLIST03" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="2,130,62,62"/>
+		<image name="gen_a17_main_menu01_i01__xLIST04" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="2,194,62,62"/>
+		<image name="gen_a17_main_menu01_i01__xLIST05" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="2,258,62,62"/>
+		<image name="gen_a17_main_menu01_i01__xLIST06" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="2,322,62,62"/>
+		<image name="gen_a17_main_menu01_i01__xLIST07" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="2,386,62,62"/>
+		<image name="gen_a17_main_menu01_i01__xLIST08" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="2,450,62,62"/>
+		<image name="gen_a17_main_menu01_i01__xLIST09" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="2,514,62,62"/>
+		<image name="gen_a17_main_menu01_i01__xLIST10" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="2,578,62,62"/>
+	</image_list>
+	<image name="gen_a17_main_menu01_photoframe01" texture="ui/a17_main_menu.g1t" texture_index="1" uvwh="940,-1,544,609"/>
+	<image name="gen_a17_main_menu01_photoframe02" texture="ui/a17_main_menu.g1t" texture_index="1" uvwh="224,572,548,196"/>
+	<image_list name="gen_a17_main_menu01_t_off">
+		<image name="gen_a17_main_menu01_t_off__xLIST01" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="560,0,208,64"/>
+		<image name="gen_a17_main_menu01_t_off__xLIST02" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="560,64,208,64"/>
+		<image name="gen_a17_main_menu01_t_off__xLIST03" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="560,128,208,64"/>
+		<image name="gen_a17_main_menu01_t_off__xLIST04" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="560,192,208,64"/>
+		<image name="gen_a17_main_menu01_t_off__xLIST05" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="560,256,208,64"/>
+		<image name="gen_a17_main_menu01_t_off__xLIST06" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="560,320,208,64"/>
+		<image name="gen_a17_main_menu01_t_off__xLIST07" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="560,384,208,64"/>
+		<image name="gen_a17_main_menu01_t_off__xLIST08" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="560,448,208,64"/>
+		<image name="gen_a17_main_menu01_t_off__xLIST09" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="560,512,208,64"/>
+		<image name="gen_a17_main_menu01_t_off__xLIST10" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="72,256,208,64"/>
+	</image_list>
+	<image_list name="gen_a17_main_menu01_t_on">
+		<image name="gen_a17_main_menu01_t_on__xLIST01" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="72,0,208,64"/>
+		<image name="gen_a17_main_menu01_t_on__xLIST02" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="72,64,208,64"/>
+		<image name="gen_a17_main_menu01_t_on__xLIST03" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="72,128,208,64"/>
+		<image name="gen_a17_main_menu01_t_on__xLIST04" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="72,192,208,64"/>
+		<image name="gen_a17_main_menu01_t_on__xLIST05" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="284,0,208,64"/>
+		<image name="gen_a17_main_menu01_t_on__xLIST06" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="284,64,208,64"/>
+		<image name="gen_a17_main_menu01_t_on__xLIST07" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="284,128,208,64"/>
+		<image name="gen_a17_main_menu01_t_on__xLIST08" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="284,192,208,64"/>
+		<image name="gen_a17_main_menu01_t_on__xLIST09" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="284,256,208,64"/>
+		<image name="gen_a17_main_menu01_t_on__xLIST10" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="72,590,208,64"/>
+	</image_list>
+	<image_list name="gen_a17_main_menu01_tag">
+		<image name="gen_a17_main_menu01_tag__xLIST01" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="464,576,304,96"/>
+		<image name="gen_a17_main_menu01_tag__xLIST02" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="464,672,304,96"/>
+	</image_list>
+	<image name="gen_a17_main_menu01_taglight" texture="ui/a17_main_menu.g1t" texture_index="0" uvwh="156,672,304,96"/>
+	<image_list name="gen_a17_main_menu02_ph01">
+		<image name="gen_a17_main_menu02_ph01__xLIST01" texture="ui/a17_main_menu.g1t" texture_index="1" uvwh="0,0,456,556"/>
+		<image name="gen_a17_main_menu02_ph01__xLIST02" texture="ui/a17_main_menu.g1t" texture_index="1" uvwh="480,0,456,556"/>
+		<image name="gen_a17_main_menu02_ph01__xLIST03" texture="ui/a17_main_menu.g1t" texture_index="1" uvwh="0,781,456,556"/>
+	</image_list>
+	<image_list name="gen_a17_mainmenu03_qr00">
+		<image name="gen_a17_mainmenu03_qr00__xLIST00" texture="ui/a17_main_menu.g1t" texture_index="2" uvwh="0,1,256,256"/>
+		<image name="gen_a17_mainmenu03_qr00__xLIST01" texture="ui/a17_main_menu.g1t" texture_index="2" uvwh="0,258,256,256"/>
+		<image name="gen_a17_mainmenu03_qr00__xLIST02" texture="ui/a17_main_menu.g1t" texture_index="2" uvwh="256,1,256,256"/>
+	</image_list>
+	<image_list name="gen_a17_mainmenu03_qr01">
+		<image name="gen_a17_mainmenu03_qr01__xLIST00" texture="ui/a17_main_menu.g1t" texture_index="3" uvwh="0,1,256,256"/>
+		<image name="gen_a17_mainmenu03_qr01__xLIST01" texture="ui/a17_main_menu.g1t" texture_index="3" uvwh="0,258,256,256"/>
+		<image name="gen_a17_mainmenu03_qr01__xLIST02" texture="ui/a17_main_menu.g1t" texture_index="3" uvwh="256,1,256,256"/>
+	</image_list>
+</root>

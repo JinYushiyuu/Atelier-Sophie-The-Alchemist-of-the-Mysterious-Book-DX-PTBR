@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+  <!-- レシピ開示 -->
+  <anim name="anm_open_recipe">
+    <curve attr="scale" interpolate="spline" >
+      <key time="0.0" value="1.2,1.2,1.2"/>
+      <key time="0.4" value="1.0,1.0,1.0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.00"	value="255,255,255,0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+
+  <!-- レシピ修得 -->
+  <anim name="anm_get_recipe">
+    <curve attr="color">
+      <key time="0.00"	value="255,255,255,0"/>
+      <key time="0.50"	value="255,255,255,255"/>
+      <key time="1.00"	value="255,255,255,255"/>
+      <key time="2.00"	value="255,255,255,0"/>
+    </curve>
+  </anim>
+  
+  <!-- 経験値取得 -->
+  <anim name="anm_get_exp">
+    <curve attr="pos" interpolate="spline" >
+      <key time="0.00" value="0.0,0.0,0.0"/>
+      <key time="0.50" value="0.0,-10.0,0.0"/>
+    </curve>
+    <curve attr="color">
+      <key time="0.00"	value="255,255,255,0"/>
+      <key time="0.10"	value="255,255,255,255"/>
+      <key time="0.80"	value="255,255,255,255"/>
+      <key time="1.00"	value="255,255,255,0"/>
+    </curve>
+  </anim>
+
+  <!-- レベルアップ -->
+  <anim name="anm_level_up">
+    <curve attr="pos" interpolate="spline" >
+      <key time="0.00" value="0.0,150.0,0.0"/>
+      <key time="0.25" value="0.0,0.0,0.0"/>
+      <key time="1.25" value="0.0,0.0,0.0"/>
+      <key time="1.75" value="0.0,-200.0,0.0"/>
+      
+    </curve>
+    <curve attr="color">
+      <key time="0.00"	value="255,255,255,0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+      <key time="1.25"	value="255,255,255,255"/>
+      <key time="1.75"	value="255,255,255,0"/>
+    </curve>
+  </anim>
+
+
+  <!-- プラフタヘルプ　フリック -->
+  <anim name="anm_help_flick">
+    <curve attr="pos" interpolate="spline" >
+      <key time="0.00" value="0.0,0.0,0.0"/>
+      <key time="0.50" value="0.0,-5.0,0.0"/>
+      <key time="1.00" value="0.0,0.0,0.0"/>
+      <key time="1.25" value="0.0,0.0,0.0"/>
+    </curve>
+  </anim>
+  
+  <!-- レシピマップ移動　左 -->
+  <anim name="anm_recipe_move_left">
+    <curve attr="pos" interpolate="spline" >
+      <key time="0.00" value="0.0,0.0,0.0"/>
+      <key time="0.09" value="-200.0,0.0,0.0"/>
+      <key time="0.09" value="0.0,0.0,0.0"/>
+    </curve>
+  </anim>
+  
+  <!-- レシピフェードイン 左 -->
+  <anim name="anm_recipe_move_fade_in_left">
+    <curve attr="color" interpolate="spline" >
+      <key time="0.00"	value="255,255,255,128"/>
+      <key time="0.40"	value="255,255,255,255"/>
+      <key time="0.40"	value="255,255,255,128"/>
+    </curve>
+  </anim>
+ 
+  <!-- レシピフェードイン 左 ダミー用 -->
+  <anim name="anm_recipe_move_fade_in_left_dummy">
+    <curve attr="color" interpolate="spline" >
+      <key time="0.00"	value="255,255,255,0"/>
+      <key time="0.40"	value="255,255,255,128"/>
+      <key time="0.40"	value="255,255,255,0"/>
+    </curve>
+  </anim>
+  
+  
+  <!-- レシピフェードアウト 左 -->
+  <anim name="anm_recipe_move_fade_out_left">
+    <curve attr="color" interpolate="spline" >
+      <key time="0.00"	value="255,255,255,255"/>
+      <key time="0.40"	value="255,255,255,128"/>
+      <key time="0.40"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  <!-- レシピフェードアウト 左 ダミー用 -->
+  <anim name="anm_recipe_move_fade_out_left_dummy">
+    <curve attr="color" interpolate="spline" >
+      <key time="0.00"	value="255,255,255,128"/>
+      <key time="0.40"	value="255,255,255,0"/>
+      <key time="0.40"	value="255,255,255,128"/>
+    </curve>
+  </anim>
+ 
+</root>
+

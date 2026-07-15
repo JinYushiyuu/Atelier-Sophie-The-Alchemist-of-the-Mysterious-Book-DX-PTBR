@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<text text="アニメーションのスプライン補間サンプル" name="title" pos="66.00, 59.00, 0.00"/>
+	<text text="・灰色領域の四隅を通るようにキーフレームを打ってある&lt;CR&gt;&lt;CR&gt;・Aは線形補間&lt;CR&gt;&lt;CR&gt;・Bはスプライン補間&lt;CR&gt;&lt;CR&gt;・Cはスプライン補間(edging=0.5)&lt;CR&gt;　edgingの値は(0.0～1.0)。値が大きいほど線形補間に近くなる&lt;CR&gt;　スプライン補間で暴れる値を抑えるときに使う。&lt;CR&gt;&lt;CR&gt;・Dはスプライン補間(easing=1.0)&lt;CR&gt;　easingの値は(0.0～1.0)。既定値は0.5。&lt;CR&gt;　0.0で前半はゆっくり、後半は早めに移動する。&lt;CR&gt;　1.0で前半は早め、後半はゆっくりに移動する。&lt;CR&gt;" name="text_1" pos="583.00, 151.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="20.00"/>
+	<command load_anim="Saves/ui/samples/spline_animation/uia_spline_animation.xml"/>
+	<node name="node" pos="255, 403, 0" scale="2.00, 2.00, 1.00">
+		<image name="image" style="common_white_image" size_wh="210.00, 210.00, 0.00" pos="-100.00, -100.00, 0.00" color="128.00, 128.00, 128.00, 128.00"/>
+		<image name="A" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="10.00, 10.00, 0.00" style="common_white_image" color="255.00, 255.00, 255.00, 255.00">
+			<text text="A" name="text" font_size="15.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="11.00, 0.00, 0.00"/>
+		</image>
+		<image name="B" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="10.00, 10.00, 0.00" style="common_white_image" color="255.00, 0.00, 0.00, 255.00">
+			<text text="B" name="text" font_size="15.00" pos="11.00, 0.00, 0.00"/>
+		</image>
+		<image name="C" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="10.00, 10.00, 0.00" style="common_white_image" color="0.00, 255.00, 0.00, 255.00">
+			<text text="C" name="text" font_size="15.00" pos="11.00, 0.00, 0.00"/>
+		</image>
+		<image name="D" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="10.00, 10.00, 0.00" style="common_white_image" color="64.00, 64.00, 255.00, 255.00">
+			<text text="D" name="text" font_size="15.00" pos="11.00, 0.00, 0.00"/>
+		</image>
+	</node>
+	<anim_ctrl viewer_key_assign="0" loop="true" play="true">
+		<bind_node node="A" anim="anm_linear_pos"/>
+		<bind_node node="B" anim="anm_spline_pos" delay="0.50"/>
+		<bind_node node="C" anim="anm_spline_pos_edging" delay="1.00"/>
+		<bind_node node="D" anim="anm_spline_pos_easing" delay="1.50"/>
+	</anim_ctrl>
+</root>

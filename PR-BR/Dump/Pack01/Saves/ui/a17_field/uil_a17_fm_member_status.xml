@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" visible="false" color="255.00, 255.00, 255.00, 128.00" viewer_visible="true" image_no="1"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<!--***↓アニメーション ***-->
+	<node name="top" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<!--***↓0922_伸縮できるように＊**-->
+		<image name="lpbg" style="gen_a17_field04_lpbg" pos="1139.00, 181.00, -0.00" rot="-0.00, -0.00, -0.00" size_wh="99.00, 390.00, 0.00"/>
+		<node name="lp_list">
+			<node name="LP" pos="1183.00, 255.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="image" pos="-38.00, -1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_02on"/>
+				<text text="LP" name="lp_label" font_size="20.00" bold_size="2.00" font_color="255.00, 255.00, 255.00, 255.00" bold_color="111.00, 111.00, 111.00, 255.00"/>
+				<text text="100" name="count" font_size="24.00" bold_size="2.00" font_color="255.00, 255.00, 255.00, 255.00" bold_color="111.00, 111.00, 111.00, 255.00" align="right" pos="50.00, 21.00, 0.00"/>
+			</node>
+			<node name="LP_1" pos="1183.00, 316.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="image" pos="-38.00, -1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_02on"/>
+				<text text="LP" name="lp_label" font_size="20.00" bold_size="2.00" font_color="255.00, 255.00, 255.00, 255.00" bold_color="145.00, 124.00, 5.00, 255.00" color="248.00, 255.00, 45.00, 255.00"/>
+				<text text="50" name="count" font_size="24.00" bold_size="2.00" font_color="255.00, 255.00, 255.00, 255.00" bold_color="145.00, 124.00, 5.00, 255.00" align="right" pos="50.00, 21.00, 0.00" color="248.00, 255.00, 45.00, 255.00"/>
+			</node>
+			<node name="LP_2" pos="1183.00, 378.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="image" pos="-38.00, -1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_02on"/>
+				<text text="LP" name="lp_label" font_size="20.00" bold_size="2.00" font_color="255.00, 255.00, 255.00, 255.00" bold_color="149.00, 0.00, 0.00, 255.00" color="227.00, 72.00, 41.00, 255.00"/>
+				<text text="5" name="count" font_size="24.00" bold_size="2.00" font_color="255.00, 255.00, 255.00, 255.00" bold_color="149.00, 0.00, 0.00, 255.00" align="right" pos="50.00, 21.00, 0.00" color="227.00, 72.00, 41.00, 255.00"/>
+			</node>
+			<node name="LP_3" pos="1183.00, 440.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="image" pos="-38.00, -1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_icon01_02on"/>
+				<text text="LP" name="lp_label" font_size="20.00" bold_size="2.00" font_color="255.00, 255.00, 255.00, 255.00" bold_color="100.00, 100.00, 100.00, 255.00"/>
+				<text text="100" name="count" font_size="24.00" bold_size="2.00" font_color="255.00, 255.00, 255.00, 255.00" bold_color="100.00, 100.00, 100.00, 255.00" align="right" pos="50.00, 21.00, 0.00"/>
+			</node>
+		</node>
+	</node>
+</root>

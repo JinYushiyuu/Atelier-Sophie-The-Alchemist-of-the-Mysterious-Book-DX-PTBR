@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<mixBonus bonusName="赤：Lv.1" bonusTag="MIX_BONUS_RED_LEVEL_1" imageNo="0" point="2" level="0" color="ITEM_MAT_COLOR_RED" next_level_bonus="MIX_BONUS_RED_LEVEL_2"/>
+	<mixBonus bonusName="赤：Lv.2" bonusTag="MIX_BONUS_RED_LEVEL_2" imageNo="2" point="4" level="1" color="ITEM_MAT_COLOR_RED" next_level_bonus="MIX_BONUS_RED_LEVEL_3"/>
+	<mixBonus bonusName="赤：Lv.3" bonusTag="MIX_BONUS_RED_LEVEL_3" imageNo="4" point="6" level="2" color="ITEM_MAT_COLOR_RED"/>
+	<mixBonus bonusName="赤：Lv.4" bonusTag="MIX_BONUS_RED_LEVEL_4" imageNo="3" point="16" level="3" color="ITEM_MAT_COLOR_RED"/>
+	<mixBonus bonusName="赤：Lv.5" bonusTag="MIX_BONUS_RED_LEVEL_5" imageNo="4" point="32" level="4" color="ITEM_MAT_COLOR_RED"/>
+	<mixBonus bonusName="青：Lv.1" bonusTag="MIX_BONUS_BLUE_LEVEL_1" imageNo="5" point="2" level="0" color="ITEM_MAT_COLOR_BLUE" next_level_bonus="MIX_BONUS_BLUE_LEVEL_2"/>
+	<mixBonus bonusName="青：Lv.2" bonusTag="MIX_BONUS_BLUE_LEVEL_2" imageNo="7" point="4" level="1" color="ITEM_MAT_COLOR_BLUE" next_level_bonus="MIX_BONUS_BLUE_LEVEL_3"/>
+	<mixBonus bonusName="青：Lv.3" bonusTag="MIX_BONUS_BLUE_LEVEL_3" imageNo="9" point="6" level="2" color="ITEM_MAT_COLOR_BLUE"/>
+	<mixBonus bonusName="青：Lv.4" bonusTag="MIX_BONUS_BLUE_LEVEL_4" imageNo="8" point="16" level="3" color="ITEM_MAT_COLOR_BLUE"/>
+	<mixBonus bonusName="青：Lv.5" bonusTag="MIX_BONUS_BLUE_LEVEL_5" imageNo="9" point="32" level="4" color="ITEM_MAT_COLOR_BLUE"/>
+	<mixBonus bonusName="緑：Lv.1" bonusTag="MIX_BONUS_GREEN_LEVEL_1" imageNo="10" point="2" level="0" color="ITEM_MAT_COLOR_GREEN" next_level_bonus="MIX_BONUS_GREEN_LEVEL_2"/>
+	<mixBonus bonusName="緑：Lv.2" bonusTag="MIX_BONUS_GREEN_LEVEL_2" imageNo="12" point="4" level="1" color="ITEM_MAT_COLOR_GREEN" next_level_bonus="MIX_BONUS_GREEN_LEVEL_3"/>
+	<mixBonus bonusName="緑：Lv.3" bonusTag="MIX_BONUS_GREEN_LEVEL_3" imageNo="14" point="6" level="2" color="ITEM_MAT_COLOR_GREEN" next_level_bonus="MIX_BONUS_GREEN_LEVEL_4"/>
+	<mixBonus bonusName="緑：Lv.4" bonusTag="MIX_BONUS_GREEN_LEVEL_4" imageNo="13" point="16" level="3" color="ITEM_MAT_COLOR_GREEN" next_level_bonus="MIX_BONUS_GREEN_LEVEL_5"/>
+	<mixBonus bonusName="緑：Lv.5" bonusTag="MIX_BONUS_GREEN_LEVEL_5" imageNo="14" point="32" level="4" color="ITEM_MAT_COLOR_GREEN"/>
+	<mixBonus bonusName="黄：Lv.1" bonusTag="MIX_BONUS_YELLOW_LEVEL_1" imageNo="15" point="2" level="0" color="ITEM_MAT_COLOR_YELLOW" next_level_bonus="MIX_BONUS_YELLOW_LEVEL_2"/>
+	<mixBonus bonusName="黄：Lv.2" bonusTag="MIX_BONUS_YELLOW_LEVEL_2" imageNo="17" point="4" level="1" color="ITEM_MAT_COLOR_YELLOW" next_level_bonus="MIX_BONUS_YELLOW_LEVEL_3"/>
+	<mixBonus bonusName="黄：Lv.3" bonusTag="MIX_BONUS_YELLOW_LEVEL_3" imageNo="19" point="6" level="2" color="ITEM_MAT_COLOR_YELLOW"/>
+	<mixBonus bonusName="黄：Lv.4" bonusTag="MIX_BONUS_YELLOW_LEVEL_4" imageNo="18" point="16" level="3" color="ITEM_MAT_COLOR_YELLOW"/>
+	<mixBonus bonusName="黄：Lv.5" bonusTag="MIX_BONUS_YELLOW_LEVEL_5" imageNo="19" point="32" level="4" color="ITEM_MAT_COLOR_YELLOW"/>
+	<mixBonus bonusName="白：Lv.1" bonusTag="MIX_BONUS_WHITE_LEVEL_1" imageNo="20" point="2" level="0" color="ITEM_MAT_COLOR_WHITE" next_level_bonus="MIX_BONUS_WHITE_LEVEL_2"/>
+	<mixBonus bonusName="白：Lv.2" bonusTag="MIX_BONUS_WHITE_LEVEL_2" imageNo="22" point="4" level="1" color="ITEM_MAT_COLOR_WHITE" next_level_bonus="MIX_BONUS_WHITE_LEVEL_3"/>
+	<mixBonus bonusName="白：Lv.3" bonusTag="MIX_BONUS_WHITE_LEVEL_3" imageNo="24" point="6" level="2" color="ITEM_MAT_COLOR_WHITE"/>
+	<mixBonus bonusName="白：Lv.4" bonusTag="MIX_BONUS_WHITE_LEVEL_4" imageNo="23" point="16" level="3" color="ITEM_MAT_COLOR_WHITE"/>
+	<mixBonus bonusName="白：Lv.5" bonusTag="MIX_BONUS_WHITE_LEVEL_5" imageNo="24" point="32" level="4" color="ITEM_MAT_COLOR_WHITE"/>
+	<mixBonus bonusName="なし" bonusTag="MIX_BONUS_BLANK" imageNo="0" color="ITEM_MAT_COLOR_WHITE"/>
+</Root>

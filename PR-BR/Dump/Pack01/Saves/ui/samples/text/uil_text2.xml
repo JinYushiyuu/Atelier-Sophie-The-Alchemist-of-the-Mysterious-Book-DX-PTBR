@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root camera_fov="30" proj_to_near="1" proj_to_far="10000">
+  <!--テンプレートを読み込む-->
+	<node load="Saves/ui/uil_template.xml"/>
+	<text pos="10,60" text="BATTLE_SPECIAL" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<text pos="10,100" text="1234567890+-%/" font="BATTLE_SPECIAL" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<text pos="10,160" text="1234567890+-%/" font="BATTLE_BURST" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<text pos="10,260" text="STATUS_RECOVERY" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<text pos="10,300" text="1234567890+-%/" font="STATUS_RECOVERY" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<text pos="10,360" text="FIELD_EVENTGAUGE" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<text pos="10,400" text="1234567890+-%/" font="FIELD_EVENTGAUGE" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<text pos="10,460" text="REQUEST_TAKE" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<text pos="11, 501, 0" text="1234567890+-%*" font="REQUEST_TAKE" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<text pos="10,560" text="REQUEST_OK" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	<text pos="10,600" text="1234567890+-%*" font="REQUEST_OK" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+  <text pos="10,660" text="STATUS_GROW" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+  <text pos="10,700" text="1234567890+-%/" font="STATUS_GROW" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+  <text pos="300,60" text="MIX_COSTLV" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+  <text pos="300,100" text="1234567890+-%/" font="MIX_COSTLV" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+  <text pos="300,160" text="MIX_CHAIN" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+  <text pos="300,200" text="1234567890+-%*" font="MIX_CHAIN" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+</root>

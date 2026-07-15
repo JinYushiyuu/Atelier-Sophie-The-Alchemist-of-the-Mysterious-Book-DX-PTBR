@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_townmap01_01" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="432,0,304,224"/>
+	<image name="gen_a17_townmap01_02" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="320,224,368,192"/>
+	<image name="gen_a17_townmap01_03" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="736,0,368,240"/>
+	<image name="gen_a17_townmap01_04" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="688,240,384,256"/>
+	<image name="gen_a17_townmap01_05" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="672,496,416,192"/>
+	<image name="gen_a17_townmap01_06" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="1120,0,384,400"/>
+	<image name="gen_a17_townmap01_07" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="1088,400,448,304"/>
+	<image_list name="gen_a17_townmap01_icon">
+		<image name="gen_a17_townmap01_icon__xLIST01" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="0,316,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST02" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="80,316,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST03" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="160,316,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST04" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="240,316,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST05" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="0,396,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST06" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="80,396,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST07" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="160,396,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST08" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="240,396,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST09" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="0,476,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST10" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="80,476,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST11" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="160,476,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST12" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="240,476,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST13" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="0,556,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST14" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="80,556,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST15" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="160,556,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST16" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="240,556,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST17" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="320,0,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST18" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="320,80,80,80"/>
+		<image name="gen_a17_townmap01_icon__xLIST19" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="592,608,80,80"/>
+	</image_list>
+	<image name="gen_a17_townmap01_next" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="652,420,28,40"/>
+	<image name="gen_a17_townmap01_nexttag" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="445,688,400,80"/>
+	<image name="gen_a17_townmap01_nexttaglight" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="0,640,432,128"/>
+	<image_list name="gen_a17_townmap01_tag">
+		<image name="gen_a17_townmap01_tag__xLIST01" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="0,0,320,64"/>
+		<image name="gen_a17_townmap01_tag__xLIST02" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="0,64,320,64"/>
+	</image_list>
+	<image_list name="gen_a17_townmap01_tagfr01">
+		<image name="gen_a17_townmap01_tagfr01__xLIST01" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="0,192,272,119"/>
+		<image name="gen_a17_townmap01_tagfr01__xLIST02" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="320,491,272,119"/>
+	</image_list>
+	<image name="gen_a17_townmap01_tagfr02" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="1109,704,272,60"/>
+	<image name="gen_a17_townmap01_tagframebar" texture="ui/a17_townmap.g1t" texture_index="1" uvwh="0,0,48,886"/>
+	<image name="gen_a17_townmap01_tagframebg" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="320,416,328,75"/>
+	<image name="gen_a17_townmap01_taglight" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="0,128,320,64"/>
+	<image name="gen_a17_townmap01_worldmap" texture="ui/a17_townmap.g1t" texture_index="0" uvwh="849,704,256,64"/>
+</root>

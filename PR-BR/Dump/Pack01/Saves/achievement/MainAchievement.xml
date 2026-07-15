@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<MainAchievement Name="テスト0" cntStera="1" endEv="EVENT_XH03_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM00_OP2A_010" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト1" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト2" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト3" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="3" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト4" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="4" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト5" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト6" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="6" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト7" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="7" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト8" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="8" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト9" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="9" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト10" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="10" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト11" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="11" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト12" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="12" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト13" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="13" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト14" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="14" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト15" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_ITEM_001" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト16" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_ITEM_001" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト17" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_ITEM_001" Prm2="3" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="テスト18" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_ITEM_001" Prm2="4" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather 5 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather 10 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="10" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather 20 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="20" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather 50 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="50" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather 3 Magic Grass" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_MAGIC_GRASS" Prm2="3" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather 3 Kaen Stone" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_KAREN_STONE" Prm2="3" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather 3 Uni" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_UNI" Prm2="3" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Battle 5 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Battle 10 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="10" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Battle 20 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="20" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Battle 50 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="50" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize 5 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize 10 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="10" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize 20 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="20" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize 50 Times" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="50" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Kaen Stone" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_KAREN_STONE" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Neutralizer R" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_RED_NEUTLIZER" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Battle" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Ramel Wheat" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_LAMER_WEIZEN" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Ramel Flour" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_LAMER_WEIZENMEHL" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather (Ingredient)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_FOODSTUFF" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Cobalt Grass" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_COBALT_GRASS" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Well Water" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_WELL_WATER" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Neutralizer R" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_RED_NEUTLIZER" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Nitro Water" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_NITRO_WATER"/>
+	<MainAchievement Name="Gather Bursting Berry" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_BURST_BERRY"/>
+	<MainAchievement Name="Slay Red Puni" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_02" Prm2="30"/>
+	<MainAchievement Name="Gather Nitro Water" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_NITRO_WATER"/>
+	<MainAchievement Name="Slay Flare Demon" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DEMON_00" Prm2="30"/>
+	<MainAchievement Name="Slay Ifritter" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DEMON_SP" Prm2="1"/>
+	<MainAchievement Name="Gather Aizen Ore" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_EISEN_MINERAL"/>
+	<MainAchievement Name="Gather Pretty Shell" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_BEAUTIFUL_SEASHELL"/>
+	<MainAchievement Name="Gather Silver Web" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_SILVER_THREAD"/>
+	<MainAchievement Name="Gather (Liquid)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LIQUID" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Good Water" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_DELICIOUS_WATER" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Berg Medicine" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_GUILT_MEDICINE" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather (Liquid)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LIQUID" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather (Ingredient)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_FOODSTUFF" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Slay Mini Slag" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_MINISLUG_00" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather (Liquid)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LIQUID" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Magic Grass" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_MAGIC_GRASS" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize (Ingredient)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_FOODSTUFF" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Hakurei Stone" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_HAKUREI_STONE" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Bomb" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_FRAMME" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Battle" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Puni Jelly" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_PUNI_JELLY" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Neutralizer B" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_BLUE_NEUTLIZER" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Battle" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Silver Crystal" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_SILVER_SPIRIT_CRYSTAL"/>
+	<MainAchievement Name="Gather Spirit Crystal" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_ELEMENT_CRYSTAL"/>
+	<MainAchievement Name="Gather Island Fish Fin" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_ISLAND_FISH_FIN"/>
+	<MainAchievement Name="Gather Lakebottom Soil" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_BOTTOM_SOIL"/>
+	<MainAchievement Name="Slay Single Horn" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LANDFISH_01" Prm2="30"/>
+	<MainAchievement Name="Slay Star Fish" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LANDFISH_02" Prm2="1"/>
+	<MainAchievement Name="Gather Fairy Poison Grass" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_FAIRY_POISONOUS_GRASS"/>
+	<MainAchievement Name="Slay Kimmoch" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_MANDRAKE_03" Prm2="30"/>
+	<MainAchievement Name="Slay Deadly Spirit" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_MANDRAKE_SP" Prm2="1"/>
+	<MainAchievement Name="Gather (Liquid)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LIQUID" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather (Plant)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_PLANT" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Simple Sweets" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_BAKED_GOODS" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather (Medicine Mat)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_MEDICAL" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather (Plant)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_PLANT" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Ramel Flour" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_LAMER_WEIZENMEHL" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Raiden Ore" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_REIDEN_MINERAL" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Ice Bomb" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_REFERN" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Battle" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Farlite" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_FADENRITE"/>
+	<MainAchievement Name="Slay Archlich" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LICH_03" Prm2="30"/>
+	<MainAchievement Name="Slay Sorcerer Titus" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LICH_SP" Prm2="1"/>
+	<MainAchievement Name="Gather Dunkelheit" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_DUNKELHEIT"/>
+	<MainAchievement Name="Slay Wind Elemental" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ELEMENTAL_01" Prm2="30"/>
+	<MainAchievement Name="Slay Light Elemental" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ELEMENTAL_02" Prm2="1"/>
+	<MainAchievement Name="Gather Altare" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_ARUTARU"/>
+	<MainAchievement Name="Slay Gustaf" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ARDRA_03" Prm2="30"/>
+	<MainAchievement Name="Slay Rok" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ARDRA_SP" Prm2="1"/>
+	<MainAchievement Name="Gather Uni" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_UNI" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Soil Potato" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_SOIL_POTATO" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Simple Sweets" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_BAKED_GOODS" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Beehive" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_HONEY_BEEHIVE" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Plain Waffle" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_PLAIN_WAFFLE" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize Bagel Sandwich" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_BAGEL_SAND" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather (Clay)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LOAM" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Raiden Ore" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_REIDEN_MINERAL" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize (Neutralizer)" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_NEUTRALIZE" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Red Uni" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_RED_UNI"/>
+	<MainAchievement Name="Slay Red Puni" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_02" Prm2="30"/>
+	<MainAchievement Name="Slay Flare Demon" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DEMON_00" Prm2="1"/>
+	<MainAchievement Name="Gather Zafloa Oil" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_SAFLOR_OIL"/>
+	<MainAchievement Name="Slay Gold Puni" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_03" Prm2="30"/>
+	<MainAchievement Name="Slay Black Puni" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_04" Prm2="1"/>
+	<MainAchievement Name="Gather Red Uni" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_RED_UNI"/>
+	<MainAchievement Name="Slay Twin Header" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_CHIMERA_03" Prm2="30"/>
+	<MainAchievement Name="Slay Silent Beast" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_CHIMERA_SP" Prm2="1"/>
+	<MainAchievement Name="Gather" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Battle" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Rainbow Crystal" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_RAINBOW_CRYSTAL_PIECES" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Synthesize" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="10" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Slay Dragonaire" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DRAGONARE_00" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Gather Holy Water" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_HOLY_WATER"/>
+	<MainAchievement Name="Gather Pendeloch" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_PENDEROCK"/>
+	<MainAchievement Name="Slay Unliving King" cntStera="1" map="　" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LICH_BOSS" Prm2="1"/>
+	<MainAchievement Name="Gather Pendeloch" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_PENDEROCK"/>
+	<MainAchievement Name="Gather Pelem Shell" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_PELREM_SHELL"/>
+	<MainAchievement Name="Slay Dark Maiden" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_GHOST_BOSS" Prm2="1"/>
+	<MainAchievement Name="Gather" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="200"/>
+	<MainAchievement Name="Synthesize" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="100"/>
+	<MainAchievement Name="Battle" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="150"/>
+	<MainAchievement Name="Dummy" cntStera="1" Prm1="100" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="Learn more alchemy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_020"/>
+	<MainAchievement Name="Reclaim Plachta's memories" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_020"/>
+	<MainAchievement Name="Learn more alchemy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_160"/>
+	<MainAchievement Name="Reclaim Plachta's memories" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_160"/>
+	<MainAchievement Name="Learn more alchemy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_030"/>
+	<MainAchievement Name="Reclaim Plachta's memories" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_030"/>
+	<MainAchievement Name="Learn more alchemy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_010"/>
+	<MainAchievement Name="Reclaim Plachta's memories" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_010"/>
+	<MainAchievement Name="Learn more alchemy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_010"/>
+	<MainAchievement Name="Reclaim Plachta's memories" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_010"/>
+	<MainAchievement Name="Think up new recipes" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_090"/>
+	<MainAchievement Name="Try all kinds of things" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_090"/>
+	<MainAchievement Name="Gather information" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_010"/>
+	<MainAchievement Name="Make the &quot;Key of Truth&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_110"/>
+	<MainAchievement Name="Go to &quot;Gates of Wisdom&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_120"/>
+	<MainAchievement Name="Look for grandma's book" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_050"/>
+	<MainAchievement Name="Synthesize Berg Medicine" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_070"/>
+	<MainAchievement Name="Try Synthesis" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_090"/>
+	<MainAchievement Name="Go gather materials" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_170"/>
+	<MainAchievement Name="Try Synthesis again" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS05_020"/>
+	<MainAchievement Name="Invite Monika" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_100"/>
+	<MainAchievement Name="Go gather at &quot;Chick Woods&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_130"/>
+	<MainAchievement Name="Gather materials" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_160"/>
+	<MainAchievement Name="Return to the atelier" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_170"/>
+	<MainAchievement Name="Go to &quot;Forgotten Nursery&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_070"/>
+	<MainAchievement Name="Defeat monsters" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_070"/>
+	<MainAchievement Name="Synthesize &quot;Gathering Gloves&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_180"/>
+	<MainAchievement Name="Ask Monika" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_040"/>
+	<MainAchievement Name="Ask Elise" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_060"/>
+	<MainAchievement Name="Ask Pamela" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_050"/>
+	<MainAchievement Name="Take time to think" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_080"/>
+	<MainAchievement Name="Take time to think" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_090"/>
+	<MainAchievement Name="Take a walk for a change of pace" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_110"/>
+	<MainAchievement Name="Return to the atelier" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_120"/>
+	<MainAchievement Name="Collect required items" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM05_010"/>
+	<MainAchievement Name="Move Plachta's soul into the doll" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM05_070"/>
+	<MainAchievement Name="Talk to Fritz" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_010"/>
+	<MainAchievement Name="Have blueprints made" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_020"/>
+	<MainAchievement Name="Bring &quot;Alchemic Clay&quot; to Fritz" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_030"/>
+	<MainAchievement Name="Have doll body made" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_040"/>
+	<MainAchievement Name="Talk to Leon" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_300"/>
+	<MainAchievement Name="Bring &quot;Adal Cloth&quot; to Leon" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_310"/>
+	<MainAchievement Name="Have doll's clothes made" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_330"/>
+	<MainAchievement Name="Talk to Harol" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_200"/>
+	<MainAchievement Name="Talk to Harol again" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_220"/>
+	<MainAchievement Name="Bring &quot;Silvalia&quot; to Harol" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_230"/>
+	<MainAchievement Name="Have the springs made" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_250"/>
+	<MainAchievement Name="Talk to Julio" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_100"/>
+	<MainAchievement Name="Look at the recipe" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_110"/>
+	<MainAchievement Name="Talk to Logy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_120"/>
+	<MainAchievement Name="Go to &quot;Prospector's Strand&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_140"/>
+	<MainAchievement Name="Synthesize &quot;Spirit Needle&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_160"/>
+	<MainAchievement Name="Talk to Cory" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_170"/>
+	<MainAchievement Name="Bring &quot;Kirchen Milk&quot; to Cory" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_180"/>
+	<MainAchievement Name="Have &quot;Spirit Needle&quot; duplicated" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_190"/>
+	<MainAchievement Name="Synthesize &quot;Compass of Hades&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS08_110"/>
+	<MainAchievement Name="Go to &quot;Scar of the Land&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_030"/>
+	<MainAchievement Name="Give &quot;Hexe Auris&quot; to Plachta" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_060"/>
+	<MainAchievement Name="Take time to think" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_080"/>
+	<MainAchievement Name="Take time to think" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_090"/>
+	<MainAchievement Name="Obtain &quot;Haze Grass Petal&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_060"/>
+	<MainAchievement Name="Obtain &quot;Sun Drop&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XF02_130"/>
+	<MainAchievement Name="Obtain &quot;Eternity Scale&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_100"/>
+	<MainAchievement Name="Synthesize the &quot;Key of Truth&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_110"/>
+	<MainAchievement Name="Talk to Oskar" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_040"/>
+	<MainAchievement Name="Bring &quot;Fertile Soil&quot; to Oskar" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_050"/>
+	<MainAchievement Name="Wait for Haze Grass to flower" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_060"/>
+	<MainAchievement Name="Talk to Monika" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_020"/>
+	<MainAchievement Name="Take time to think" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_030"/>
+	<MainAchievement Name="Synthesize &quot;Sun Drop&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XF02_130"/>
+	<MainAchievement Name="Talk to Julio" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_070"/>
+	<MainAchievement Name="Go defeat the &quot;Dragonaire&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_100"/>
+	<MainAchievement Name="Hurry into the &quot;Gates of Wisdom&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_130"/>
+	<MainAchievement Name="Find Boy B" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_030"/>
+	<MainAchievement Name="Find Boy A" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_050"/>
+	<MainAchievement Name="Find Girl A" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_040"/>
+	<MainAchievement Name="Go take orders at the church" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_030"/>
+	<MainAchievement Name="Go take orders at the book store" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_040"/>
+	<MainAchievement Name="Go take orders at the café" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_050"/>
+	<MainAchievement Name="Report to Marguerite" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_060"/>
+	<MainAchievement Name="Look for Oskar in the north part of town" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_120"/>
+	<MainAchievement Name="Bring &quot;Mineral Extract&quot; to Oskar" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_150"/>
+	<MainAchievement Name="Go to &quot;Prospector's Strand&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_180"/>
+	<MainAchievement Name="Go to &quot;Sealed Temple&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_100"/>
+	<MainAchievement Name="Synthesize &quot;Warding Incense&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_120"/>
+	<MainAchievement Name="Report to Julio" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_130"/>
+	<MainAchievement Name="Hurry to Nazarus at the &quot;Sealed Temple&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_140"/>
+	<MainAchievement Name="Check the cabin at &quot;Pilgrim Road&quot; at night" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_030"/>
+	<MainAchievement Name="Report to Horst" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_040"/>
+	<MainAchievement Name="Bring &quot;Puppeteer String&quot; to Fritz" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_060"/>
+	<MainAchievement Name="Talk to Fritz" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_200"/>
+	<MainAchievement Name="Look for someone who might know about the &quot;Machine Box&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_170"/>
+	<MainAchievement Name="Bring &quot;Precise Parts&quot; to Harol" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_180"/>
+	<MainAchievement Name="Wait for Harol's report" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_190"/>
+	<MainAchievement Name="Bring 10 &quot;Kaen Stone&quot; to Harol" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_080"/>
+	<MainAchievement Name="Bring 10 &quot;Kupulf Ore&quot; to Harol" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_200"/>
+	<MainAchievement Name="Bring &quot;Cloth&quot; to Leon" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_030"/>
+	<MainAchievement Name="Talk to Leon" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_130"/>
+	<MainAchievement Name="Talk to Leon" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_190"/>
+	<MainAchievement Name="Bring &quot;Ingot&quot; to Logy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC08_LOG_060"/>
+	<MainAchievement Name="Bring &quot;Flame Powder&quot; to Logy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC08_LOG_090"/>
+	<MainAchievement Name="Bring some &quot;Forgotten&quot; materials to Logy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC08_LOG_170"/>
+	<MainAchievement Name="Deliver ore to Logy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC08_LOG_160"/>
+	<MainAchievement Name="Deliver stone to Logy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="Bring &quot;Spruce&quot; to Pamela" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC09_PAM_110"/>
+	<MainAchievement Name="Talk to Marguerite" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC09_PAM_130"/>
+	<MainAchievement Name="Talk to Horst" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC09_PAM_140"/>
+	<MainAchievement Name="Talk to Harol" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC09_PAM_150"/>
+	<MainAchievement Name="Bring &quot;Bomb&quot; to Tess" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_040"/>
+	<MainAchievement Name="Bring &quot;Spruce&quot; to Tess" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_060"/>
+	<MainAchievement Name="Bring &quot;Bottled Misfortune&quot; to Tess" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_080"/>
+	<MainAchievement Name="Bring &quot;Wonder Stimulant&quot; to Tess" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_100"/>
+	<MainAchievement Name="Bring &quot;Honey Syrup&quot; to Tess" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_130"/>
+	<MainAchievement Name="Bring &quot;Fire Dragon Medicine&quot; to Horst" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC12_HOR_180"/>
+	<MainAchievement Name="Return to the atelier" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_140"/>
+	<MainAchievement Name="Go to Marguerite's store" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_040"/>
+	<MainAchievement Name="Return to the atelier" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_050"/>
+	<MainAchievement Name="Take time to think" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_080"/>
+	<MainAchievement Name="Synthesize &quot;Prototype Fertilizer&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_090"/>
+	<MainAchievement Name="Go meet Luard at the &quot;Library of All Creation&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_140"/>
+	<MainAchievement Name="Return to the atelier!!" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM09_140"/>
+	<MainAchievement Name="Learn more alchemy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_090"/>
+	<MainAchievement Name="Reclaim Plachta's memories" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_090"/>
+	<MainAchievement Name="Think up new recipes" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XF02_150"/>
+	<MainAchievement Name="Try all kinds of things" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="Go pray at church next weekend" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_090"/>
+	<MainAchievement Name="Hurry and bring 15 &quot;Simple Sweets&quot; to Monika" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_160"/>
+	<MainAchievement Name="Go listen to the concert at the café" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_210"/>
+	<MainAchievement Name="Go to the Underground Lake" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_190"/>
+	<MainAchievement Name="Go to the Moon Sun Moor" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_200"/>
+	<MainAchievement Name="Return to Kirchen Bell" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_210"/>
+	<MainAchievement Name="Eternal Blossom" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_230"/>
+	<MainAchievement Name="Go to the &quot;Forest of Fairies&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_240"/>
+	<MainAchievement Name="Follow after Oskar" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_250"/>
+	<MainAchievement Name="Go to Oskar" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_270"/>
+	<MainAchievement Name="Go to the plant in the &quot;Forest of Fairies&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_280"/>
+	<MainAchievement Name="Go deeper into the forest" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_290"/>
+	<MainAchievement Name="Defeat the monster" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_310"/>
+	<MainAchievement Name="Search for Nazarus" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_180"/>
+	<MainAchievement Name="Bring 5 &quot;Warding Incense&quot; to Nazarus" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_200"/>
+	<MainAchievement Name="Bring &quot;Sage's Soil&quot; to Fritz" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_220"/>
+	<MainAchievement Name="Return to the atelier" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_200"/>
+	<MainAchievement Name="Synthesize &quot;Ares Brooch&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XF02_180"/>
+	<MainAchievement Name="Bring the &quot;Ares Brooch&quot; to Leon" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_210"/>
+	<MainAchievement Name="Go to &quot;Prospector's Strand&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_230"/>
+	<MainAchievement Name="Think up the recipe for &quot;Bomb&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_010"/>
+	<MainAchievement Name="Think up the recipe for &quot;Ingot&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_020"/>
+	<MainAchievement Name="Think up the recipe for &quot;Ice Bomb&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_030"/>
+	<MainAchievement Name="Think up the recipe for &quot;Friendly Persona&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_040"/>
+	<MainAchievement Name="Think up the recipe for &quot;Stahl Metal&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_050"/>
+	<MainAchievement Name="Think up the recipe for &quot;Silvalia&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_060"/>
+	<MainAchievement Name="Think up the recipe for &quot;Codex of Creation&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_070"/>
+	<MainAchievement Name="Think up the recipe for &quot;Rubilium&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_080"/>
+	<MainAchievement Name="Think up the recipe for &quot;Angel's Whisper&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_090"/>
+	<MainAchievement Name="Think up the recipe for &quot;Flame of Origin&quot;" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_100"/>
+	<MainAchievement Name="Study lots of alchemy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_030"/>
+	<MainAchievement Name="Return to the atelier" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_070"/>
+	<MainAchievement Name="Go see the town with Plachta" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM05_080"/>
+	<MainAchievement Name="Relax a little" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_010"/>
+	<MainAchievement Name="Study lots of alchemy" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_070"/>
+	<MainAchievement Name="Voice in the Night" cntStera="1" Bonus="BONUS_QC04_FRI_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_010"/>
+	<MainAchievement Name="Empty Cabin" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_020"/>
+	<MainAchievement Name="Puppeteer in the Cabin" cntStera="1" Bonus="BONUS_QC04_FRI_030" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_030"/>
+	<MainAchievement Name="Puppeteer Comes to Town" cntStera="1" Bonus="BONUS_QC04_FRI_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_040"/>
+	<MainAchievement Name="Puppeteer's Request" cntStera="1" Bonus="BONUS_QC04_FRI_050" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_050"/>
+	<MainAchievement Name="Fritz's Passion" cntStera="1" Bonus="BONUS_QC04_FRI_060" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_060"/>
+	<MainAchievement Name="New in Town" cntStera="1" Bonus="BONUS_QC05_COR_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_010"/>
+	<MainAchievement Name="Exotic Girl" cntStera="1" Bonus="BONUS_QC05_COR_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_020"/>
+	<MainAchievement Name="I'll Open Shop Too" cntStera="1" Bonus="BONUS_QC05_COR_030" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_030"/>
+	<MainAchievement Name="Duplication Shop Opens" cntStera="1" Bonus="BONUS_QC05_COR_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_040"/>
+	<MainAchievement Name="Duplication Shop Sales" cntStera="1" Bonus="BONUS_QC05_COR_050" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_050"/>
+	<MainAchievement Name="Corneria's Power" cntStera="1" Bonus="BONUS_QC05_COR_060" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_060"/>
+	<MainAchievement Name="Delinquent Shopkeeper" cntStera="1" Bonus="BONUS_QC06_HAR_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_010"/>
+	<MainAchievement Name="Want to be a Gunsmith?" cntStera="1" Bonus="BONUS_QC06_HAR_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_020"/>
+	<MainAchievement Name="Clockshop Cuckoo" cntStera="1" Bonus="BONUS_QC06_HAR_030" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_030"/>
+	<MainAchievement Name="Clockshop Inspection" cntStera="1" Bonus="BONUS_QC06_HAR_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_040"/>
+	<MainAchievement Name="Left Spring Key" cntStera="1" Bonus="BONUS_QC06_HAR_050" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_050"/>
+	<MainAchievement Name="Harol's Reputation" cntStera="1" Bonus="BONUS_QC06_HAR_060" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_060"/>
+	<MainAchievement Name="Mysterious Girl" cntStera="1" Bonus="BONUS_QC07_LEO_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_010"/>
+	<MainAchievement Name="Leon's Request" cntStera="1" Bonus="BONUS_QC07_LEO_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_020"/>
+	<MainAchievement Name="Leon's Shop Opens" cntStera="1" Bonus="BONUS_QC07_LEO_030" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_030"/>
+	<MainAchievement Name="Sophie's Clothes" cntStera="1" Bonus="BONUS_QC07_LEO_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_040"/>
+	<MainAchievement Name="I Like Alchemy" cntStera="1" Bonus="BONUS_QC07_LEO_050" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_050"/>
+	<MainAchievement Name="Leon's Secret" cntStera="1" Bonus="BONUS_QC07_LEO_060" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_060"/>
+	<MainAchievement Name="Think carefully about Plachta." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_020"/>
+	<MainAchievement Name="Try thinking of ways to turn Plachta into a human." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_030"/>
+	<MainAchievement Name="Go to the &quot;Sealed Temple&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_040"/>
+	<MainAchievement Name="Go deep into &quot;Sealed Temple&quot; to find Meklet and Atomina." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_050"/>
+	<MainAchievement Name="Return to the atelier." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_060"/>
+	<MainAchievement Name="Go to the &quot;Fallen Palace&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_070"/>
+	<MainAchievement Name="Go deep into &quot;Fallen Palace&quot; to find Meklet and Atomina." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_080"/>
+	<MainAchievement Name="Return to the atelier." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_090"/>
+	<MainAchievement Name="Go to the &quot;Forgotten Nursery&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_100"/>
+	<MainAchievement Name="Go to the &quot;Moon Sun Moor&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_110"/>
+	<MainAchievement Name="Go to the &quot;Library of All Creation&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_120"/>
+	<MainAchievement Name="Follow Meklet and Atomina into the &quot;Library of All Creation&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_030"/>
+	<MainAchievement Name="Find Plachta's recipe memo at the &quot;Dusk Bookshelf&quot; in the &quot;Library of All Creation&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_040"/>
+	<MainAchievement Name="Return to the atelier." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_050"/>
+	<MainAchievement Name="Spend time thinking of the recipe." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_120"/>
+	<MainAchievement Name="Walk around town to kill some time." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_070"/>
+	<MainAchievement Name="Think for a while longer." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_080"/>
+	<MainAchievement Name="Think about how to complete the recipe." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_120"/>
+	<MainAchievement Name="Synthesize the &quot;Sage's Emblem&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_010"/>
+	<MainAchievement Name="Study more to live up to Meklet and Atomina." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_020"/>
+	<MainAchievement Name="Work hard studying alchemy." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="Spend time to think." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_050"/>
+	<MainAchievement Name="Spend time to think." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_050"/>
+	<MainAchievement Name="Try asking Oskar." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_060"/>
+	<MainAchievement Name="Try asking Logy." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_070"/>
+	<MainAchievement Name="Try asking Julio." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_080"/>
+	<MainAchievement Name="After listening to others, return to the atelier and think." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_090"/>
+	<MainAchievement Name="After listening to others, return to the atelier and think." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_090"/>
+	<MainAchievement Name="After listening to others, return to the atelier and think." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_090"/>
+	<MainAchievement Name="Return to the atelier to consult with Plachta." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_100"/>
+	<MainAchievement Name="Spend time to think." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_110"/>
+	<MainAchievement Name="Try asking Fritz." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_120"/>
+	<MainAchievement Name="Return to the atelier." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS12_090"/>
+	<MainAchievement Name="Synthesize the &quot;Atelier Tent&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS12_100"/>
+	<MainAchievement Name="I am looking forward to my journey. What kinds of people will I meet...?" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="Help Meklet and Atomina!" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_030"/>
+	<MainAchievement Name="Synthesize an item to replace the &quot;Cauldron of Knowledge&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_010"/>
+	<MainAchievement Name="Spend more time thinking about the recipe." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_080"/>
+	<MainAchievement Name="Spend even more time thinking about the recipe." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_120"/>
+	<MainAchievement Name="Synthesize &quot;Grandma's Clothes&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_020"/>
+	<MainAchievement Name="Defeat monsters at the &quot;Gathering of Beasts&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_060"/>
+	<MainAchievement Name="Let's go to &quot;Prospector's Strand&quot; to collect materials." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_080"/>
+	<MainAchievement Name="Synthesize &quot;Living Broom&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_100"/>
+	<MainAchievement Name="Let's get rid of the ghosts at &quot;Moon Sun Moor&quot;!" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_120"/>
+	<MainAchievement Name="Synthesize &quot;Puni Jelly&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_160"/>
+	<MainAchievement Name="Let's visit Cory's shop!" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_180"/>
+	<MainAchievement Name="Synthesize &quot;Corneria Doll&quot;." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_190"/>
+	<MainAchievement Name="Let's visit Grandma's grave." cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_210"/>
+	<MainAchievement Name="ダミー１１９" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１２０" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１２１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１２２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１２３" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１２４" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１２５" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１２６" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１２７" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１２８" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１２９" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１３０" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１３１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１３２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１３３" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１３４" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１３５" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１３６" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１３７" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１３８" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１３９" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１４０" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１４１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１４２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１４３" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１４４" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１４５" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１４６" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１４７" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１４８" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１４９" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="ダミー１５０" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="Idea from Event" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_050"/>
+	<MainAchievement Name="None" cntStera="1"/>
+	<MainAchievement Name="None" cntStera="1"/>
+	<MainAchievement Name="Obtain: Well Water" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_WELL_WATER" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="Obtain: Uni" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_UNI" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="Obtain: Ramel Wheat" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_LAMER_WEIZEN" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="To Next Memory..." cntStera="1" startEv="EVENT_MS05_030" Bonus="BONUS_XG11_010" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_RED_03_01" Prm2="ACHIEVEMENT_RED_03_02"/>
+	<MainAchievement Name="Battle: 25 Enemies" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="25"/>
+	<MainAchievement Name="Request: 7 Times" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_QUEST_CLEAR_TOTAL_COUNT" Prm1="7"/>
+	<MainAchievement Name="Merbert Farm" cntStera="1" startEv="EVENT_MM02_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_060"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="Obtain: Red Uni" cntStera="1" startEv="EVENT_MM02_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_RED_UNI" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="Book Store" cntStera="1" startEv="EVENT_MM02_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_050"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="To Next Memory..." cntStera="1" startEv="EVENT_MM02_020" Bonus="BONUS_XG11_020" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_RED_06_01" Prm2="ACHIEVEMENT_RED_06_02"/>
+	<MainAchievement Name="Slay: Chimera Beast" cntStera="1" startEv="EVENT_MM02_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_CHIMERA_00" Prm2="2"/>
+	<MainAchievement Name="Request: 12 Times" cntStera="1" startEv="EVENT_MM02_020" WorkCond="ACHIEVEMENT_WORK_COND_QUEST_CLEAR_TOTAL_COUNT" Prm1="12"/>
+	<MainAchievement Name="Gather Whimsy Strawberry" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_WHIM_STRAWBERRY" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="Obtain: Beehive" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_HONEY_BEEHIVE" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="Check Plaza" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="Obtain: Animal Fur" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_BEAST_FUR" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="Synthesis: Simple Sweets (Salty)" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_BAKED_GOODS" Prm2="ITEM_EFF_TASTE_SALTY"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="Obtain: Silver Web" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_SILVER_THREAD" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="To Next Memory..." cntStera="1" startEv="EVENT_MM02_050" Bonus="BONUS_XG11_030" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_BLUE_10_01" Prm2="ACHIEVEMENT_BLUE_10_02"/>
+	<MainAchievement Name="Synthesis: 20 Times" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="20"/>
+	<MainAchievement Name="Obtain: (Water) x50" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LIQUID" Prm2="50"/>
+	<MainAchievement Name="Synthesis: Ramel Flour" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_LAMER_WEIZENMEHL" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="Obtain: Raiden Ore" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_REIDEN_MINERAL" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="Battle: Win with low HP" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_PINCH_COUNT" Prm1="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="Slay: Kaiser Pigeon" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ARDRA_01" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="Obtain: Pious Talisman" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_PIOUS_CHURCH_AMULETS" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="Obtain from Event" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS05_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="Gain from Event" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_050"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="Obtain: Kifa" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_KIFA" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="To Next Memory..." cntStera="1" startEv="EVENT_MM02_110" Bonus="BONUS_XG11_040" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_GREEN_02_01" Prm2="ACHIEVEMENT_GREEN_02_02" Prm3="ACHIEVEMENT_RED_26_00" Prm4="ACHIEVEMENT_RED_26_01"/>
+	<MainAchievement Name="Slay: Silent Beast" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_CHIMERA_SP" Prm2="1"/>
+	<MainAchievement Name="Request: 25 Times" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_QUEST_CLEAR_TOTAL_COUNT" Prm1="25"/>
+	<MainAchievement Name="Battle: 300 Times" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="300"/>
+	<MainAchievement Name="Synthesis: 150 Times" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="150"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="赤予備枠０１" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_COBALT_GRASS"/>
+	<MainAchievement Name="赤予備枠０２" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_LAMER_WEIZEN"/>
+	<MainAchievement Name="赤予備枠０３" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="Open Map: Pure Waterside" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_01_00" Prm2="ACHIEVEMENT_RED_01_01" Prm3="ACHIEVEMENT_RED_01_02"/>
+	<MainAchievement Name="Open Map: Pure Waterside" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_07_00" Prm2="ACHIEVEMENT_RED_07_01" Prm3="ACHIEVEMENT_RED_07_02"/>
+	<MainAchievement Name="Open Map: Scar of the Land" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_12_00" Prm2="ACHIEVEMENT_RED_12_01"/>
+	<MainAchievement Name="Open Map: Scar of the Land" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_11_00" Prm2="ACHIEVEMENT_RED_11_01"/>
+	<MainAchievement Name="Open Map: Scar of the Land" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_16_00"/>
+	<MainAchievement Name="赤予備枠９"/>
+	<MainAchievement Name="赤予備枠１０"/>
+	<MainAchievement Name="赤予備枠１１"/>
+	<MainAchievement Name="赤予備枠１２"/>
+	<MainAchievement Name="赤予備枠１３"/>
+	<MainAchievement Name="赤予備枠１４"/>
+	<MainAchievement Name="赤予備枠１５"/>
+	<MainAchievement Name="赤予備枠１６"/>
+	<MainAchievement Name="赤予備枠１７"/>
+	<MainAchievement Name="赤予備枠１８"/>
+	<MainAchievement Name="赤予備枠１９"/>
+	<MainAchievement Name="赤予備枠２０"/>
+	<MainAchievement Name="赤予備枠２１"/>
+	<MainAchievement Name="赤予備枠２２"/>
+	<MainAchievement Name="赤予備枠２３"/>
+	<MainAchievement Name="赤予備枠２４"/>
+	<MainAchievement Name="赤予備枠２５"/>
+	<MainAchievement Name="赤予備枠２６"/>
+	<MainAchievement Name="赤予備枠２７"/>
+	<MainAchievement Name="赤予備枠２８"/>
+	<MainAchievement Name="赤予備枠２９"/>
+	<MainAchievement Name="赤予備枠３０"/>
+	<MainAchievement Name="Buy: 300 Cole" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BOUGHT_MONEY" Prm1="300"/>
+	<MainAchievement Name="Sell: 300 Cole" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_SOLD_MONEY" Prm1="300"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="Battle Defeat" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_LOSE_COUNT" Prm1="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="Forgotten Nursery" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_080"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="Synthesis: Honey (Kirchen Bell Specialty)" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_HONEY" Prm2="ITEM_POTENTIAL_YOBI_443"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="Learn when Obtained" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_SP_KETTLE_001" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="Synthesis: Uni Bag (Explosive)" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_UNI_BAG" Prm2="ITEM_EFF_DMG_SPLIT_2"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="Skill: Brave Heart" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR" Prm1="ACHIEVEMENT_BLUE_YOBI_07" Prm2="ACHIEVEMENT_BLUE_YOBI_08"/>
+	<MainAchievement Name="Skill: Light Edge" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR" Prm1="ACHIEVEMENT_BLUE_YOBI_09" Prm2="ACHIEVEMENT_BLUE_YOBI_10"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="To Next Memory..." cntStera="1" startEv="EVENT_MM02_130" Bonus="BONUS_XG11_050" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_RED_07_01" Prm2="ACHIEVEMENT_RED_07_02"/>
+	<MainAchievement Name="Synthesis: 30 Times" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="30"/>
+	<MainAchievement Name="Use: 15 Times" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_ITEM_EX_COUNT" Prm5="15"/>
+	<MainAchievement Name="Slay: Green Puni" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_01" Prm2="1"/>
+	<MainAchievement Name="Slay: Red Puni" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_02" Prm2="1"/>
+	<MainAchievement Name="Slay: Black Puni" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_04" Prm2="1"/>
+	<MainAchievement Name="Synthesis: Cloth (Heating)" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_CLOTH" Prm2="ITEM_POTENTIAL_YOBI_435"/>
+	<MainAchievement Name="Hint: Ingot → Gold Thread → ???" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_YELLOW_10_00"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="Event:" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_170"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="Synthesis: Berg Medicine (Size+)" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_GUILT_MEDICINE" Prm2="ITEM_POTENTIAL_SIZE_UP_1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="Exploration: Total" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_YELLOW_03_01" Prm2="ACHIEVEMENT_YELLOW_03_02"/>
+	<MainAchievement Name="Exploration: Jump" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_FIRST_ATTACK" Prm1="25"/>
+	<MainAchievement Name="Exploration: Swing" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="100"/>
+	<MainAchievement Name="Learn when Obtained" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_SP_KETTLE_003" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Gather: 10 Times" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="10"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="To Next Memory..." cntStera="1" startEv="EVENT_MM02_160" Bonus="BONUS_XG11_060" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_RED_08_01" Prm2="ACHIEVEMENT_RED_08_02"/>
+	<MainAchievement Name="Slay: 60 Enemies" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="60"/>
+	<MainAchievement Name="Craft Weapon: 5 Times" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_MIX_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_WEAPON" Prm2="5"/>
+	<MainAchievement Name="Enemy Drop: Chest" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GIMMICK_EFFECT_COUNT" Prm1="FIELDMAP_GIMMICK_EFFECT_ITEM_BOX_WITH_OBJ_DROP" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Skill: Puni Press" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_ENEMY_PUNI_SKILL_03_B" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Slay: Saber Claw" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ARDRA_02" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Obtain from Event" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Obtain: Event" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_300"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Obtain: Good Water" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_DELICIOUS_WATER" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Ancient Kitchen" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_070"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="NPC Chat: Fortuneteller" cntStera="1" startEv="EVENT_MM02_190" Bonus="BONUS_XG11_140" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_NPC_TALK_KIND" Prm1="FIELDMAP_NPC_MESSAGE_TOWN_09_NPC23B_SP"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Synthesis: Spruce (Flickering Light)" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_SPRUCE" Prm2="ITEM_POTENTIAL_YOBI_444"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="To Next Memory..." cntStera="1" startEv="EVENT_MM02_190" Bonus="BONUS_XG11_070" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_BLUE_21_02"/>
+	<MainAchievement Name="Slay: Deadly Spirit" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_MANDRAKE_SP" Prm2="1"/>
+	<MainAchievement Name="Synthesis: (Paper) x25" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_CATEGORY_EX_COUNT" Prm3="ITEM_CATEGORY_PAPER" Prm5="25"/>
+	<MainAchievement Name="Obtain from Event" cntStera="1" startEv="EVENT_MM02_190" map="FIELDMAP_T01_TOWN_01" Bonus="BONUS_MM04_100_EVENT" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_100"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Obtain from Event" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_160"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Battle: 300 Enemies" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="300"/>
+	<MainAchievement Name="Synthesis: 150 Times" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="150"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_FLAG_VALUE_COUNT" Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Prm2="23"/>
+	<MainAchievement Name="Learned on acquisition" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_GURU_ALCHEMY_KETTLE" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="Learned during an event." cntStera="1" startEv="EVENT_XX01_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="青予備枠０１" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_09_00"/>
+	<MainAchievement Name="青予備枠０２" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_11_00"/>
+	<MainAchievement Name="青予備枠０３" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_03_00"/>
+	<MainAchievement Name="青予備枠０４" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_05_00"/>
+	<MainAchievement Name="青予備枠０５" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_10_00" Prm2="ACHIEVEMENT_BLUE_10_01"/>
+	<MainAchievement Name="青予備枠０６" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_02_00" Prm2="ACHIEVEMENT_BLUE_02_01"/>
+	<MainAchievement Name="青予備枠０７"/>
+	<MainAchievement Name="Monochrome Glass 1" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_PT_MONIKA_SKILL2" Prm2="1"/>
+	<MainAchievement Name="Monochrome Glass 2" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_PT_MONIKA_SKILL2_ADV" Prm2="1"/>
+	<MainAchievement Name="Monochrome Glass 3" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_PT_MONIKA_SKILL1" Prm2="1"/>
+	<MainAchievement Name="Monochrome Glass 4" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_PT_MONIKA_SKILL1_ADV" Prm2="1"/>
+	<MainAchievement Name="青予備枠１２"/>
+	<MainAchievement Name="青予備枠１３"/>
+	<MainAchievement Name="青予備枠１４"/>
+	<MainAchievement Name="青予備枠１５"/>
+	<MainAchievement Name="青予備枠１６"/>
+	<MainAchievement Name="青予備枠１７"/>
+	<MainAchievement Name="青予備枠１８"/>
+	<MainAchievement Name="青予備枠１９"/>
+	<MainAchievement Name="青予備枠２０"/>
+	<MainAchievement Name="青予備枠２１"/>
+	<MainAchievement Name="青予備枠２２"/>
+	<MainAchievement Name="青予備枠２３"/>
+	<MainAchievement Name="青予備枠２４"/>
+	<MainAchievement Name="青予備枠２５"/>
+	<MainAchievement Name="青予備枠２６"/>
+	<MainAchievement Name="青予備枠２７"/>
+	<MainAchievement Name="青予備枠２８"/>
+	<MainAchievement Name="青予備枠２９"/>
+	<MainAchievement Name="青予備枠３０"/>
+	<MainAchievement Name="Obtain: Kirchen Milk (can buy from NPC)" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_KIRUHEN_MILK" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="Synthesis: Anything" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="1"/>
+	<MainAchievement Name="Level: Synthesis" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_GE_MASTER_MIXLV" Prm1="25"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="Synthesis: Alchemy Drops (Cure Ailments)" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_ALCHEMY_DROP" Prm2="ITEM_EFF_TASTE_SWEET_2"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="Exploration: Travel the Area" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_GREEN_YOBI_00" Prm2="ACHIEVEMENT_GREEN_YOBI_01" Prm3="ACHIEVEMENT_GREEN_YOBI_02" Prm4="ACHIEVEMENT_GREEN_YOBI_03" Prm5="ACHIEVEMENT_GREEN_YOBI_04"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="Obtain: Luminous Water" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_NIGHT_GLOW_WATER" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="Synthesis: (Accessory)" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_ACCESSORY" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="Check: Blacksmith" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="Synthesis: Gold Thread (Purifying Water)" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_BUNDLED_GOLD" Prm2="ITEM_POTENTIAL_YOBI_446"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="Synthesis: Bomb (Blue Flame)" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_FRAMME" Prm2="ITEM_EFF_DMG_BLUE_FRAME"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="Obtain: Black Orb" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_BLACK_MASS" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="To Next Memory..." cntStera="1" startEv="EVENT_MM06_010" Bonus="BONUS_XG11_080" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_RED_19_01" Prm2="ACHIEVEMENT_RED_19_02"/>
+	<MainAchievement Name="Synthesis: 30 Times" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="30"/>
+	<MainAchievement Name="Thank You Gift: 4 Times" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_FLAG_VALUE_COUNT" Prm1="EVENT_FLAG_PRESENT_COUNT" Prm2="4"/>
+	<MainAchievement Name="Synthesis: Supreme Hot Milk (Hot)" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_FINEST_HOT_MILK" Prm2="ITEM_EFF_TASTE_TEMPERATURE_3"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Enemy Skill: Lightning" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_COMMON_THUNDER_SKILL_01" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Consume LP: To 0" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_LP_ZERO_COUNT" Prm1="PARTY_SOPHIE" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Use: Ice Bomb" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_ITEM_EX_COUNT" Prm3="ITEM_MIX_REFERN" Prm5="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Synthesis: Puni Jelly (Activate Split)" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_PUNI_JELLY" Prm2="ITEM_EFF_YOBI_256"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Check: Scar of the Land" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_150"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Obtain: Gunade Ring" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_ACC_GUNADE_RING" Prm2="1"/>
+	<MainAchievement Name="Synthesis: Training Charm (Training Mastery)" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_DISCIPLINE_TALISMAN" Prm2="ITEM_EFF_GET_EXP_UP_3"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Learned when Obtained" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_SP_KETTLE_002" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Synthesis: Bagel Sandwich (Fluffy)" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_BAGEL_SAND" Prm2="ITEM_EFF_TASTE_ELASTICITY_2"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Obtain: Silver Crystal" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_SILVER_SPIRIT_CRYSTAL" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="To Next Memory..." cntStera="1" startEv="EVENT_MM06_040" Bonus="BONUS_XG11_090" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_WHITE_14_01" Prm2="ACHIEVEMENT_WHITE_14_02" Prm3="ACHIEVEMENT_GREEN_24_00" Prm4="ACHIEVEMENT_GREEN_24_01"/>
+	<MainAchievement Name="Slay: Unliving King" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LICH_BOSS" Prm2="1"/>
+	<MainAchievement Name="Donate: 8000 Cole" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BOUGHT_MONEY_SHOP_KIND" Prm1="SHOP_CHURCH" Prm2="8000"/>
+	<MainAchievement Name="Obtain from Event" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_200"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Obtain from Event" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_210"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Learn from Event" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_050"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Obtain from Event" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_120"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Obtain from Event" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_100"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Synthesize Elixir Base with trait" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_UNIVERSAL_MEDICINE" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="Battle: 300 Times" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="300"/>
+	<MainAchievement Name="Synthesis: 150 Times" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="150"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="Learned on acquisition" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_SOPIE_ALCHEMY_KETTLE" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Learned during an event." cntStera="1" startEv="EVENT_XX01_090" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_090"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="Exploration: Rumored Land" cntStera="1" startEv="EVENT_MM06_010" area="FIELDAREA_LASTDUNGEON" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_ENTER" Prm1="1"/>
+	<MainAchievement Name="Exploration: Endless Spring" cntStera="1" startEv="EVENT_MM06_010" area="FIELDAREA_GUILTRIVER" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_ENTER" Prm1="1"/>
+	<MainAchievement Name="Exploration: Steep Land" cntStera="1" startEv="EVENT_MM06_010" area="FIELDAREA_WASTELAND" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_ENTER" Prm1="1"/>
+	<MainAchievement Name="Exploration: Windy Fields" cntStera="1" startEv="EVENT_MM06_010" area="FIELDAREA_MASFIELD" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_ENTER" Prm1="1"/>
+	<MainAchievement Name="Exploration: Near Town" cntStera="1" startEv="EVENT_MM06_010" area="FIELDAREA_NEARTOWN" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_ENTER" Prm1="1"/>
+	<MainAchievement Name="Buy: Church Talisman" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_CHURCH_AMULETS" Prm2="200"/>
+	<MainAchievement Name="Buy: High Class Talisman" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_LUXURY_CHURCH_AMULETS" Prm2="100"/>
+	<MainAchievement Name="Buy: Pious Talisman" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_PIOUS_CHURCH_AMULETS" Prm2="8"/>
+	<MainAchievement Name="Buy: Holy Water" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_HOLY_WATER" Prm2="100"/>
+	<MainAchievement Name="Buy: Pendeloch" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_PENDEROCK" Prm2="16"/>
+	<MainAchievement Name="緑予備枠１１"/>
+	<MainAchievement Name="緑予備枠１２"/>
+	<MainAchievement Name="緑予備枠１３"/>
+	<MainAchievement Name="緑予備枠１４"/>
+	<MainAchievement Name="緑予備枠１５"/>
+	<MainAchievement Name="緑予備枠１６"/>
+	<MainAchievement Name="緑予備枠１７"/>
+	<MainAchievement Name="緑予備枠１８"/>
+	<MainAchievement Name="緑予備枠１９"/>
+	<MainAchievement Name="緑予備枠２０"/>
+	<MainAchievement Name="緑予備枠２１"/>
+	<MainAchievement Name="緑予備枠２２"/>
+	<MainAchievement Name="緑予備枠２３"/>
+	<MainAchievement Name="緑予備枠２４"/>
+	<MainAchievement Name="緑予備枠２５"/>
+	<MainAchievement Name="緑予備枠２６"/>
+	<MainAchievement Name="緑予備枠２７"/>
+	<MainAchievement Name="緑予備枠２８"/>
+	<MainAchievement Name="緑予備枠２９"/>
+	<MainAchievement Name="緑予備枠３０"/>
+	<MainAchievement Name="Use: (Bomb)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_CATEGORY_EX_COUNT" Prm3="ITEM_CATEGORY_BOMB" Prm5="1"/>
+	<MainAchievement Name="Use: (Magic Item)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_CATEGORY_EX_COUNT" Prm3="ITEM_CATEGORY_MAGICITEM" Prm5="1"/>
+	<MainAchievement Name="Use: (Medicine)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_CATEGORY_EX_COUNT" Prm3="ITEM_CATEGORY_MEDICINE" Prm5="1"/>
+	<MainAchievement Name="Check: Waterside Ruins" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_130"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Synthesis: Angel's Whisper (Soul Awakening)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_ANGEL_WHISPER" Prm2="ITEM_EFF_REVIVAL_SOUND_2"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Check: Prayerless Altar" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_140"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Synthesis: Ingot (Golden Radiance)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_INGOT" Prm2="ITEM_POTENTIAL_YOBI_447"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Learned when Obtained" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_BEGINNERS_ALCHEMY_KETTLE" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Synthesis: Pure Water (Secret of Health)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_PURE_WATER" Prm2="ITEM_POTENTIAL_YOBI_451"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Synthesis: Adal Cloth (High Class)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_ITEM_KUPTAL_CLOTH" Prm2="ITEM_POTENTIAL_PRICE_UP_1_AND_2"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Obtain: Dragon Crystal" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_DRAGON_BLOOD_CRYSTAL" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Synthesis: Natural Yeast (Sunny Scent)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_NATURAL_YEAST" Prm2="ITEM_POTENTIAL_YOBI_441"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Check: Silent Bedroom" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_190"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Consume LP: 100" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_LP_USE_COUNT" Prm1="PARTY_SOPHIE" Prm2="100" Prm5="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Synthesis: Noble Sapphire (Ancient Seal)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_NOBLE_SAPPHIRE" Prm2="ITEM_POTENTIAL_YOBI_438"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Battle: Run" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_ESCAPE_COUNT" Prm1="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Battle: Weakness Damage" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_WEAK_COUNT" Prm1="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Talk: Scholar" cntStera="1" startEv="EVENT_MM06_020" Bonus="BONUS_XG10_240" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_NPC_TALK_KIND" Prm1="FIELDMAP_NPC_MESSAGE_TOWN_14_NPC23B_SP"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Battle: Break" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_BREAK_COUNT" Prm1="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Weather: Prospector's Strand Night Thunder" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR" Prm1="ACHIEVEMENT_GREEN_26_00" Prm2="ACHIEVEMENT_GREEN_26_01" Prm3="ACHIEVEMENT_GREEN_26_02"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="To Next Memory..." cntStera="1" startEv="EVENT_MM06_020" Bonus="BONUS_XG11_100" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_WHITE_22_01" Prm2="ACHIEVEMENT_WHITE_22_02" Prm3="ACHIEVEMENT_YELLOW_27_00" Prm4="ACHIEVEMENT_YELLOW_27_01"/>
+	<MainAchievement Name="Battle: Deal 10000 Damage" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_DAMAGE_TOTAL_COUNT" Prm1="10000"/>
+	<MainAchievement Name="Battle: Take 2000 Damage" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_DAMAGE_PARTY_TOTAL_COUNT" Prm1="2000"/>
+	<MainAchievement Name="Battle: 300 Times" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="300"/>
+	<MainAchievement Name="Synthesis: 150 Times" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="150"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="Weather: Prospector's Hunt" cntStera="1" startEv="EVENT_MM06_020" map="FIELDMAP_L03_GUILTRIVER_01" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_SKY_COUNT" Prm1="FM_SKY_NIGHT_THUNDER_STORM" Prm2="1"/>
+	<MainAchievement Name="Weather: Shore of Treasure" cntStera="1" startEv="EVENT_MM06_020" map="FIELDMAP_L03_GUILTRIVER_02" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_SKY_COUNT" Prm1="FM_SKY_NIGHT_THUNDER_STORM" Prm2="1"/>
+	<MainAchievement Name="Weather: Beach of Meetings" cntStera="1" startEv="EVENT_MM06_020" map="FIELDMAP_L03_GUILTRIVER_03" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_SKY_COUNT" Prm1="FM_SKY_NIGHT_THUNDER_STORM" Prm2="1"/>
+	<MainAchievement Name="Event: Corneria" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_170"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="Open: Merbert Farm" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_YELLOW_02_00"/>
+	<MainAchievement Name="Open: Merbert Farm" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_YELLOW_04_00"/>
+	<MainAchievement Name="Open: Merbert Farm" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_YELLOW_09_00" Prm2="ACHIEVEMENT_YELLOW_09_01"/>
+	<MainAchievement Name="黄予備枠０４"/>
+	<MainAchievement Name="黄予備枠０５"/>
+	<MainAchievement Name="黄予備枠０６"/>
+	<MainAchievement Name="黄予備枠０７"/>
+	<MainAchievement Name="黄予備枠０８"/>
+	<MainAchievement Name="黄予備枠０９"/>
+	<MainAchievement Name="黄予備枠１０"/>
+	<MainAchievement Name="黄予備枠１１"/>
+	<MainAchievement Name="黄予備枠１２"/>
+	<MainAchievement Name="黄予備枠１３"/>
+	<MainAchievement Name="黄予備枠１４"/>
+	<MainAchievement Name="黄予備枠１５"/>
+	<MainAchievement Name="黄予備枠１６"/>
+	<MainAchievement Name="黄予備枠１７"/>
+	<MainAchievement Name="黄予備枠１８"/>
+	<MainAchievement Name="黄予備枠１９"/>
+	<MainAchievement Name="黄予備枠２０"/>
+	<MainAchievement Name="黄予備枠２１"/>
+	<MainAchievement Name="黄予備枠２２"/>
+	<MainAchievement Name="黄予備枠２３"/>
+	<MainAchievement Name="黄予備枠２４"/>
+	<MainAchievement Name="黄予備枠２５"/>
+	<MainAchievement Name="黄予備枠２６"/>
+	<MainAchievement Name="黄予備枠２７"/>
+	<MainAchievement Name="黄予備枠２８"/>
+	<MainAchievement Name="黄予備枠２９"/>
+	<MainAchievement Name="黄予備枠３０"/>
+	<MainAchievement Name="Synthesis: Refuel Bottle (Auto Activate 50%)" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_REFUEL_BOTTLE" Prm2="ITEM_EFF_YOBI_259"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Slay: Yasuk" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DRAGONARE_SP01" Prm2="1"/>
+	<MainAchievement Name="Slay: Dorak" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DRAGONARE_SP02" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Check: Small Islet" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_120"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Skill: Life Powder (Kimmoch)" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_ENEMY_MANDRAKE_SKILL_01_D" Prm2="1"/>
+	<MainAchievement Name="Check: Forest of Fairies" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_FAIRY_POISONOUS_GRASS" Prm2="ITEM_MAT_MYSTIC_HERB" Prm3="ITEM_MAT_VINES_TWINE" Prm4="ITEM_MAT_KIFA" Prm5="ITEM_MAT_SOIL_POTATO"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Learned when Obtained" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_ALCHEMYST_KETTLE" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Synthesis: Codex of Creation (Steal Much Life)" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_ALL_THINGS_MANUSCRIPT" Prm2="ITEM_EFF_DRAIN_HP_3"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="NPC: Nearby Forest" cntStera="1" startEv="EVENT_MM07_010" Bonus="BONUS_XG11_130" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_NPC_TALK_KIND" Prm1="FIELDMAP_NPC_MESSAGE_T01_TOWN_05_NPC27A_SP_00"/>
+	<MainAchievement Name="Slay: Lich" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_KIND" Prm1="MONSTER_LICH_00"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Slay: Light Elemental" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ELEMENTAL_02" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Request: Abandon" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_QUEST_FAILED_TOTAL_COUNT" Prm1="5"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Check: Atelier Front" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Check: Blue Sky Altar" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_200"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Obtain: Spirit Crystal" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_ELEMENT_CRYSTAL" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Obtain: Rainbow Puni Fluid" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_RAINBOW_PUNI_LIQUID" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Obtain from Event" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Slay: Magmacius" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DRAGONARE_01" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Slay: Dark Maiden" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_GHOST_BOSS" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Check: Clock Shop" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Obtain: Dunkelheit" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_DUNKELHEIT" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Skill: Positive Release" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_PT_SOPHIE_SUPPORT_SPECIAL_GUARD" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Synthesis: Level 50" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_GE_MASTER_MIXLV" Prm1="45"/>
+	<MainAchievement Name="Synthesis: Learn All" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_RECIPE_TOTAL" Prm1="119"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Obtain from Event" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_080"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Event: Oskar" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_040"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Learn from Event" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="Learned when Obtained" cntStera="1" startEv="EVENT_MS05_040" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_ALCHEMYST_KETTLE" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1"/>
+	<MainAchievement Name="None" cntStera="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_YY02_120" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_120"/>
+	<MainAchievement Name="None" cntStera="1"/>
+	<MainAchievement Name="None" cntStera="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS12_090" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS12_090"/>
+	<MainAchievement Name="None" cntStera="1"/>
+	<MainAchievement Name="None" cntStera="1"/>
+	<MainAchievement Name="Learned on acquisition" cntStera="1" startEv="EVENT_MM09_140" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_AUS_JEM" Prm2="1"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM09_140"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MM09_140"/>
+	<MainAchievement Name="Learned during an event." cntStera="1" startEv="EVENT_XX01_180" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_180"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="None" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="フラム条件１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_03_00"/>
+	<MainAchievement Name="フラム条件２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_03_00"/>
+	<MainAchievement Name="白予備枠０３" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_06_00"/>
+	<MainAchievement Name="白予備枠０４" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_06_00"/>
+	<MainAchievement Name="白予備枠０５" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_10_00"/>
+	<MainAchievement Name="白予備枠０６" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_10_00"/>
+	<MainAchievement Name="白予備枠０７" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_GREEN_02_00"/>
+	<MainAchievement Name="白予備枠０８" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_GREEN_02_00"/>
+	<MainAchievement Name="白予備枠０９" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_07_00"/>
+	<MainAchievement Name="白予備枠１０" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_07_00"/>
+	<MainAchievement Name="白予備枠１１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_08_00"/>
+	<MainAchievement Name="白予備枠１２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_08_00"/>
+	<MainAchievement Name="白予備枠１３" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_20_00"/>
+	<MainAchievement Name="白予備枠１４" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_20_00"/>
+	<MainAchievement Name="白予備枠１５" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_19_00"/>
+	<MainAchievement Name="白予備枠１６" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_19_00"/>
+	<MainAchievement Name="白予備枠１７" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_14_00"/>
+	<MainAchievement Name="白予備枠１８" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_14_00"/>
+	<MainAchievement Name="白予備枠１９" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_22_00"/>
+	<MainAchievement Name="白予備枠２０" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_22_00"/>
+	<MainAchievement Name="白予備枠２１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_22_00"/>
+	<MainAchievement Name="白予備枠２２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_22_00"/>
+	<MainAchievement Name="白予備枠２３"/>
+	<MainAchievement Name="白予備枠２４"/>
+	<MainAchievement Name="白予備枠２５"/>
+	<MainAchievement Name="白予備枠２６"/>
+	<MainAchievement Name="白予備枠２７"/>
+	<MainAchievement Name="白予備枠２８"/>
+	<MainAchievement Name="白予備枠２９"/>
+	<MainAchievement Name="白予備枠３０"/>
+	<MainAchievement Name="レシピロック・１" cntStera="1" Bonus="BONUS_LOCK_00" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_020"/>
+	<MainAchievement Name="レシピロック・２" cntStera="1" Bonus="BONUS_LOCK_01" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_050"/>
+	<MainAchievement Name="レシピロック・３" cntStera="1" Bonus="BONUS_LOCK_02" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_110"/>
+	<MainAchievement Name="レシピロック・４" cntStera="1" Bonus="BONUS_LOCK_03" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_130"/>
+	<MainAchievement Name="レシピロック・５" cntStera="1" Bonus="BONUS_LOCK_04" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_160"/>
+	<MainAchievement Name="レシピロック・６" cntStera="1" Bonus="BONUS_LOCK_05" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_190"/>
+	<MainAchievement Name="レシピロック・７" cntStera="1" Bonus="BONUS_LOCK_06" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_210"/>
+	<MainAchievement Name="レシピロック・８" cntStera="1" Bonus="BONUS_LOCK_07" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_040"/>
+	<MainAchievement Name="レシピロック・９" cntStera="1" Bonus="BONUS_LOCK_08" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_020"/>
+	<MainAchievement Name="レシピロック・１０" cntStera="1" Bonus="BONUS_LOCK_09" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_010"/>
+	<MainAchievement Name="レシピロック・１１" cntStera="1"/>
+	<MainAchievement Name="レシピロック・１２" cntStera="1"/>
+	<MainAchievement Name="レシピロック・１３" cntStera="1"/>
+	<MainAchievement Name="レシピロック・１４" cntStera="1"/>
+	<MainAchievement Name="レシピロック・１５" cntStera="1"/>
+</Root>

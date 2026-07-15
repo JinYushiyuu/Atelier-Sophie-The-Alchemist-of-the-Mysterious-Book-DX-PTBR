@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<T01_TOWN_10_people people_data="MONIKA" chara_tag="MONIKA" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_10_people people_data="NPC20A" chara_tag="NPC20A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_10_people people_data="NPC20A_ACT_3" chara_tag="NPC20A" mot_idx="0" wait_mot="EV_ACT_3" talk_mot="EV_ACT_3" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_10_people people_data="NPC23A" chara_tag="NPC23A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_10_people people_data="NPC23A_ACT_2" chara_tag="NPC23A" mot_idx="0" wait_mot="EV_ACT_2" talk_mot="EV_ACT_2" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_10_people people_data="NPC25A" chara_tag="NPC25A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_10_people people_data="NPC25A_ACT_2" chara_tag="NPC25A" mot_idx="0" wait_mot="EV_ACT_2" talk_mot="EV_ACT_2" gravity="1" notTurn="1" talk="1"/>
+	<T01_TOWN_10_people people_data="NPC21A" chara_tag="NPC21A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+	<T01_TOWN_10_people people_data="NPC06A" chara_tag="NPC06A" mot_idx="0" wait_mot="F_WAIT" talk_mot="TALK" gravity="1" talk="1"/>
+</Root>

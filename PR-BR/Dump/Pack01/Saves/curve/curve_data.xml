@@ -1,0 +1,1443 @@
+﻿<?xml version="1.0" encoding="SHIFT-JIS"?>
+<root>
+	<CurveData id="curve_obj_000">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="2" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_001">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.757062" frame="29" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_002">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="2" bLoop="1" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_003">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.203390" frame="30" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_004">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="5" bLoop="1" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.158192" frame="8" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="30" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.169492" frame="52" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_005">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="6" bLoop="1" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.903955" frame="3" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="5" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="20" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="23" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_006">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="5" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.598870" frame="9" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.423729" frame="29" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.581921" frame="49" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="59" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_007">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.502825" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_008">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="5" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.711864" frame="11" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.598870" frame="28" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.694915" frame="45" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_009">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="6" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.768362" frame="12" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.632768" frame="33" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.661017" frame="48" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.779661" frame="56" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_010">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="6" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.824859" frame="2" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.700565" frame="9" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.638418" frame="24" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.762712" frame="45" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_011">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="5" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.101695" frame="22" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.338983" frame="41" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.706215" frame="54" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_012">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="5" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.519774" frame="4" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.293785" frame="15" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.457627" frame="38" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_013">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="6" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.672316" frame="14" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.903955" frame="28" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.977401" frame="41" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.994350" frame="51" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_014">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="8" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.016949" frame="8" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.039548" frame="18" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.096045" frame="30" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.248588" frame="44" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.576271" frame="54" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.790960" frame="58" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_015">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="4" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.598870" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.661017" frame="28" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.768362" frame="44" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_016">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="4" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.451977" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.491525" frame="26" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.728814" frame="50" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_017">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.762712" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.621469" frame="29" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.723164" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_018">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="5" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.672316" frame="4" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.474576" frame="15" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.587571" frame="34" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_019">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="4" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.525424" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.463277" frame="24" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.531073" frame="48" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.644068" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.169492" frame="35" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.960452" frame="41" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.169492" frame="51" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_020">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.519774" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.519774" frame="29" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.519774" frame="59" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_021">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="4" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.587571" frame="16" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.350282" frame="40" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.355932" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_022">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="28" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_023">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="8" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.197740" frame="4" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.531073" frame="12" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.932203" frame="24" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.926554" frame="35" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.514124" frame="48" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.169492" frame="56" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_024">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="6" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.661017" frame="5" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.519774" frame="15" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.598870" frame="34" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.824859" frame="52" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_025">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.322034" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.322034" frame="31" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.327684" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_026">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="6" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.429379" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.480226" frame="16" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.627119" frame="36" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.751412" frame="46" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.864407" frame="53" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_027">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="8" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.457627" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.553672" frame="8" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.282486" frame="14" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.536723" frame="24" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.265537" frame="34" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.598870" frame="44" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.299435" frame="53" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.610169" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_028">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="6" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.491525" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.536723" frame="11" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.412429" frame="28" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.480226" frame="42" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.677966" frame="51" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.615819" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_029">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="7" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.949153" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.892655" frame="2" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.881356" frame="10" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.881356" frame="42" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.909605" frame="50" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.954802" frame="55" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_030">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.474576" frame="29" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.271186" frame="53" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.745763" frame="58" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_031">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="4" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.644068" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.689266" frame="19" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.847458" frame="46" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_032">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="5" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.073446" frame="18" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.158192" frame="29" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.316384" frame="37" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.350282" frame="42" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_033">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="6" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.062147" frame="13" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.288136" frame="26" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.700565" frame="34" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.937853" frame="46" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_034">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="4" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.112994" frame="14" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.864407" frame="45" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_035">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="5" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.079096" frame="14" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.468927" frame="34" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.932203" frame="45" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_036">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_037">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_038">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_039">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_040">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_041">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_042">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_043">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_044">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_045">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_046">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_047">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_048">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_049">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_050">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_051">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_052">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_053">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_054">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_055">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_056">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_057">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_058">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_059">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_060">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.502825" frame="29" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_061">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_062">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_063">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_064">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_065">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_066">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_067">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_068">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_069">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="3" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.500000" frame="30" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_070">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="4" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.151638" frame="15" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.853559" frame="45" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+	<CurveData id="curve_obj_071">
+		<CURVE_ENVELOPE_LINKER_DATA initData="0.000000" num="4" bLoop="0" offset="0">
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="0" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.779661" frame="20" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.435028" frame="41" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="1.000000" frame="60" liner="0"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+			<CURVE_ENVELOPE_DATA point="0.000000" frame="-1" liner="1"/>
+		</CURVE_ENVELOPE_LINKER_DATA>
+	</CurveData>
+</root>

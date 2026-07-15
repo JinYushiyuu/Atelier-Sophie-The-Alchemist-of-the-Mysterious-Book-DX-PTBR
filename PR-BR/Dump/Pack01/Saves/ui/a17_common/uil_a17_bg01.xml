@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="top">
+		<node name="book_bg">
+			<image name="bg01" style="etc_a17_bg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="bg02" style="etc_a17_bg" image_no="1" pos="-36.00, -51.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="1346.00, 854.00, 0.00"/>
+		</node>
+	</node>
+	<anim_ctrl name="get_in" start_visible="true" viewer_key_assign="1" play="false">
+		<bind_node node="top" anim="anm_common_fade_in"/>
+	</anim_ctrl>
+</root>

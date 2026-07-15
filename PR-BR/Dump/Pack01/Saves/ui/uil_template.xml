@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--文字色:茶色-->
+	<text name="TEXTCOLOR_BROWN" font_color="53,19,0,255"/>
+	<!--文字色:ベージュ-->
+	<text name="TEXTCOLOR_BEIGE" font_color="175, 115, 0, 255"/>
+</root>

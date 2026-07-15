@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+	<S07_RUIN_07 tag="FM_SKY_MORNING_CLEAR" parLit_rotX="30" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_MORNING_CLOUDY" parLit_rotX="30" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_MORNING_RAIN" parLit_rotX="30" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_MORNING_THUNDER_CLOUD" parLit_rotX="30" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_MORNING_THUNDER_STORM" parLit_rotX="30" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_MORNING_AFTER_RAIN" parLit_rotX="30" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_DAY_CLEAR" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_DAY_CLOUDY" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_DAY_RAIN" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_DAY_THUNDER_CLOUD" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_DAY_THUNDER_STORM" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_DAY_AFTER_RAIN" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_EVENING_CLEAR" parLit_rotX="150" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_EVENING_CLOUDY" parLit_rotX="150" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_EVENING_RAIN" parLit_rotX="150" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_EVENING_THUNDER_CLOUD" parLit_rotX="150" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_EVENING_THUNDER_STORM" parLit_rotX="150" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_EVENING_AFTER_RAIN" parLit_rotX="150" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_NIGHT_CLEAR" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_NIGHT_CLOUDY" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_NIGHT_RAIN" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_NIGHT_THUNDER_CLOUD" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_NIGHT_THUNDER_STORM" parLit_rotX="40" parLit_rotY="330"/>
+	<S07_RUIN_07 tag="FM_SKY_NIGHT_AFTER_RAIN" parLit_rotX="40" parLit_rotY="330"/>
+</Root>

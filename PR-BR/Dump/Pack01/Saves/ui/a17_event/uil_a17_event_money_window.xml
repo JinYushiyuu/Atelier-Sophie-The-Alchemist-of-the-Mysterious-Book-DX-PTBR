@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<node name="top" pos="1016, 20, 0" viewer_visible="false">
+		<node name="PocketMoney">
+			<image name="PocketMoneyBaseImage" style="gen_a17_win01_moneybg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="moneyicon" style="gen_a17_win01_moneyicon" pos="21.00, 11.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+			<text text="99999999" name="PocketMoneyValueText" pos="209.00, 16.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="-12.00" font="A17_MONEY01" align="right"/>
+		</node>
+	</node>
+</root>

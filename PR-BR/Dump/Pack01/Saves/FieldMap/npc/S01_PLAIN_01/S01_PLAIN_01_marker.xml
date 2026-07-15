@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<S01_PLAIN_01_marker marker_data="S01_PLAIN_011" pos_x="254" pos_y="0.11" pos_z="255.4" rotate_y="-210"/>
+	<S01_PLAIN_01_marker marker_data="S01_PLAIN_012" pos_x="257" pos_y="0.11" pos_z="255.4" rotate_y="210"/>
+	<S01_PLAIN_01_marker marker_data="S01_PLAIN_013" pos_x="252.7" pos_y="0.11" pos_z="253.5" rotate_y="100"/>
+	<S01_PLAIN_01_marker marker_data="S01_PLAIN_014" pos_x="258.6" pos_y="0.11" pos_z="253.4" rotate_y="-100"/>
+	<S01_PLAIN_01_marker marker_data="S01_PLAIN_015" pos_x="253.5" pos_y="0.11" pos_z="250.9" rotate_y="50"/>
+	<S01_PLAIN_01_marker marker_data="S01_PLAIN_016" pos_x="257.8" pos_y="0.11" pos_z="250.9" rotate_y="-40"/>
+	<S01_PLAIN_01_marker marker_data="S01_PLAIN_017" pos_x="255.7" pos_y="0.11" pos_z="249.7" rotate_y="0"/>
+	<S01_PLAIN_01_marker marker_data="S01_PLAIN_010" pos_x="255.695" pos_y="0.11" pos_z="252.631" rotate_y="0"/>
+</Root>

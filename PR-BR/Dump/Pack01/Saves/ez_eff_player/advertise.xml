@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="SHIFT_JIS" ?>
+<root>
+	<grp> <!-- チェックボックス -->
+	    <eff timing="   0.4" eff_no="601" pos_x="234.0" pos_y="281.0" rot_x="0" rot_y="0"rot_z="0" scale_x="33" scale_y="33" scale_z="33" emit_life="   0.1" r="255" g="255" b="255"></eff>
+	    <eff timing="   0.4" eff_no="209" pos_x="234.0" pos_y="281.0" rot_x="0" rot_y="0"rot_z="0" scale_x="33" scale_y="33" scale_z="33" emit_life="   0.1" r="255" g="255" b="255" a="80"></eff>
+	    <eff timing="   0.4" se_no="287" vol="1.0" pitch="0.0"/>
+	</grp>
+
+	<grp> <!-- クリア演出 -->
+		<eff timing="  0.0" eff_no=" 352" pos_x="383.0" pos_y="284.0" scale_x="80" scale_y="80" scale_z="80" emit_life="   0.3" r="255" g="255" b=" 120" a="128" />
+		<eff timing="  0.5" eff_no=" 228" pos_x="383.0" pos_y="284.0" scale_x="120" scale_y="120" scale_z="1" emit_life="   0.1" r="255" g="255" b=" 255" a="255" />
+		<eff timing="  0.5" eff_no=" 27" pos_x="383.0" pos_y="284.0" scale_x="50" scale_y="50" scale_z="50" emit_life="   0.1" r="240" g="128" b=" 80" a="128" />
+		<eff timing="  0.5" eff_no=" 130" pos_x="383.0" pos_y="284.0" scale_x="50" scale_y="50" scale_z="50" emit_life="   0.1" r="240" g="128" b=" 80" a="128" />
+		<eff timing="  0.5" eff_no=" 99" pos_x="383.0" pos_y="284.0" scale_x="100" scale_y="100" scale_z="1" emit_life="   0.1" r="255" g="255" b=" 120" a="128" />
+		<eff timing="  0.0" se_no="96" vol="1.0" pitch="0.0"/>
+		<eff timing="  0.55" se_no="97" vol="1.0" pitch="0.0"/>
+  </grp>
+	<grp> <!-- ボーナス発生 -->
+	    <eff timing="   0.0" eff_no="503" pos_x="220.0" pos_y="246.0" scale_x="45" scale_y="40" scale_z="40" emit_life="   0.1" r="255" g="255" b="255" a="200"></eff>
+	    <eff timing="   0.0" eff_no="446" pos_x="120.0" pos_y="240.0" scale_x="55" scale_y="55" scale_z="55" emit_life="   0.1" r="120" g="80" b="255" a="200"></eff>
+	    <eff timing="   0.0" eff_no="27" pos_x="120.0" pos_y="240.0" scale_x="33" scale_y="33" scale_z="33" emit_life="   0.1" r="255" g="255" b="255" a="200"></eff>
+	    <eff timing="   0.0" eff_no="130" pos_x="120.0" pos_y="240.0" scale_x="26" scale_y="26" scale_z="26" emit_life="   0.1" p_life="   0.6" r="60" g="60" b="255" a="150"></eff>
+	</grp>
+
+	<grp> <!-- ステラ -->
+	    <eff timing="   0.0" eff_no="28" pos_x="100.0" pos_y="81.0" scale_x="41" scale_y="41" scale_z="1" emit_life="1" p_life=" 1.2" r="255" g="255" b="255" a="200"></eff>
+	    <eff timing="   0.1" eff_no="364" pos_x="100.0" pos_y="81.0" scale_x="75" scale_y="75" scale_z="1" emit_life="0.3" r="128" g="128" b="128" a="128"></eff>
+	    <eff timing="   0.0" eff_no="334" pos_x="100.0" pos_y="81.0" scale_x="60" scale_y="60" scale_z="1" emit_life="0.25" r="130" g="100" b="0" a="255"></eff>
+	</grp>
+	<grp> <!-- ロッテ r 0, g 255, b 255-->
+    <eff timing="   0.0" eff_no="28" pos_x="100.0" pos_y="81.0" scale_x="41" scale_y="41" scale_z="1" emit_life="1" p_life=" 1.2" r="0" g="255" b="160" a="230"></eff>
+    <eff timing="   0.1" eff_no="364" pos_x="100.0" pos_y="81.0" scale_x="75" scale_y="75" scale_z="1" emit_life="0.3" r="128" g="128" b="128" a="128"></eff>
+    <eff timing="   0.0" eff_no="334" pos_x="100.0" pos_y="81.0" scale_x="60" scale_y="60" scale_z="1" emit_life="0.25" r="130" g="100" b="0" a="255"></eff>
+  </grp>
+	
+	
+	
+</root>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="Saves/ui/samples/cull/uia_cull.xml"/>
+	<text text="CULL=non" pos="600,50"/>
+	<image name="test_image_non" cull="non" pos="600.00, 100.00, 0.00" style="gen_common04_speechchara" rot="0.00, 0.00, 0.00"/>
+	<text text="CULL=ccw" pos="600,250"/>
+	<image name="test_image_ccw" cull="ccw" pos="600.00, 300.00, 0.00" style="gen_common04_speechchara" rot="0.00, 0.00, 0.00"/>
+	<text text="CULL=cw" pos="600,450"/>
+	<image name="test_image_cw" cull="cw" pos="600.00, 500.00, 0.00" style="gen_common04_speechchara" rot="0.00, 0.00, 0.00"/>
+	<anim_ctrl play="true" loop="true">
+		<bind_node node="test_image_non" anim="anm_cull_rot"/>
+		<bind_node node="test_image_ccw" anim="anm_cull_rot"/>
+		<bind_node node="test_image_cw" anim="anm_cull_rot"/>
+	</anim_ctrl>
+</root>

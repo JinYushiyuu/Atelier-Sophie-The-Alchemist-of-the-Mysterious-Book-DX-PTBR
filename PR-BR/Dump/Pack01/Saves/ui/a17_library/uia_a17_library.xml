@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+	<anim name="anim_library_icon">
+		<curve attr="scale">
+			<key time="0.0"		value="1,1,1"/>
+			<key time="0.1"		value="1.1,1.1,1.1"/>
+			<key time="0.2"		value="0.9,0.9,0.9"/>
+			<key time="0.3"		value="1.1,1.1,1.1"/>
+			<key time="0.4"		value="1,1,1"/>
+			<key time="3.4"		value="1,1,1"/>
+		</curve>
+	</anim>
+</root>
+
