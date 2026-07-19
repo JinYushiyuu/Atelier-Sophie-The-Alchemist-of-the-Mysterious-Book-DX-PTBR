@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Bonus Name="L01古老妖精之森（古老妖精之森）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_010"/>
+	<Bonus Name="L02忘却的苗圃（忘却的苗圃）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_020"/>
+	<Bonus Name="L03山师水畔（山师水畔）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_030"/>
+	<Bonus Name="L04大地伤痕（大地伤痕）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_040"/>
+	<Bonus Name="L05月亮与太阳的原野（月亮与太阳的原野）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_050"/>
+	<Bonus Name="L06坠落的宫殿（坠落的宫殿）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_060"/>
+	<Bonus Name="L07反魂之间（反魂之间）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_070"/>
+	<Bonus Name="L08被封锁的寺院（被封锁的寺院）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_080"/>
+	<Bonus Name="L09地底湖（地底湖）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_090"/>
+	<Bonus Name="L10无限书库（无限书库）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_100"/>
+	<Bonus Name="P15巡礼街道（平原01）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_110"/>
+	<Bonus Name="P13麦伯特农场（平原02）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_120"/>
+	<Bonus Name="P16彩花园（平原03）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_130"/>
+	<Bonus Name="P22柴房（平原04）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_140"/>
+	<Bonus Name="P20原野遗迹（平原05）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_150"/>
+	<Bonus Name="P14雏鸟林（小森林01）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_160"/>
+	<Bonus Name="P26恩惠森林（小森林02）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_170"/>
+	<Bonus Name="P09有闲广场（小森林03）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_180"/>
+	<Bonus Name="P07菌丝乐园（小森林04）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_190"/>
+	<Bonus Name="P19岩山口（小森林05）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_200"/>
+	<Bonus Name="P04绿色旧址（小森林06）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_210"/>
+	<Bonus Name="P29野兽们的集会处（深邃森林01）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_220"/>
+	<Bonus Name="P23岩地杂木林（深邃森林02）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_230"/>
+	<Bonus Name="P06困惑迷宫（深邃森林03）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_240"/>
+	<Bonus Name="P03连理树门（深邃森林04）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_010"/>
+	<Bonus Name="P28枯河湿原（深邃森林05）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_020"/>
+	<Bonus Name="P01常雾树海（深邃森林06）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_030"/>
+	<Bonus Name="P11三子桥之泉（水边01）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_040"/>
+	<Bonus Name="P12晨间无风之畔（水边02）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_050"/>
+	<Bonus Name="P08静寂湖畔（水边03）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_060"/>
+	<Bonus Name="P02澄清水边（水边04）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_070"/>
+	<Bonus Name="P25丰饶湖滨（水边05）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_080"/>
+	<Bonus Name="P17凹凸山麓（山地01）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_090"/>
+	<Bonus Name="P10青叶山丘（山地02）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_100"/>
+	<Bonus Name="P27境界山脚（山地03）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_110"/>
+	<Bonus Name="P24枯木荒野（山地04）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_120"/>
+	<Bonus Name="P18骸骨森林（山地05）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_130"/>
+	<Bonus Name="P05水滨古迹（遗迹03）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_140"/>
+	<Bonus Name="P21逝者之都（遗迹05）" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_150"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_010"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_020"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_030"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_040"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_050"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_060"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_070"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_080"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_090"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_100"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_110"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_120"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_170" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG02_090" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG01_120"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_220" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG02_040"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_230" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG01_130" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG02_050"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_110" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG01_140" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG01_180" BonusEntry4="BonusEntry_Event_Tag_On" Entry4Prm1="EVENT_XG01_030"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_100" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG02_060"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG01_190" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG01_200"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_130" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG01_210" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG01_240"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_140" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG02_030"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_080" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG01_150" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG02_020" BonusEntry4="BonusEntry_Event_Tag_On" Entry4Prm1="EVENT_XG02_010"/>
+	<Bonus BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG02_150" BonusEntry2="BonusEntry_Event_Tag_On" Entry2Prm1="EVENT_XG02_120" BonusEntry3="BonusEntry_Event_Tag_On" Entry3Prm1="EVENT_XG02_150" BonusEntry4="BonusEntry_Event_Tag_On" Entry4Prm1="EVENT_XG02_070"/>
+	<Bonus/>
+	<Bonus/>
+	<Bonus/>
+	<Bonus Name="书店：学者配置" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG10_240"/>
+	<Bonus Name="附近的森林：少女配置" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_130"/>
+	<Bonus Name="夜晚的街道：占卜师" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_140"/>
+	<Bonus Name="夜里响起的声音" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="空无一人的小屋" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="小屋中的人偶师" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="人偶师来到城镇" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="来自人偶师的委托" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="弗利兹的热情" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="新来的城镇居民" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="异国风情的少女" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="我也要开店" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="量贩店开张" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="量贩店的销路" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="柯尔涅莉雅的力量" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="不良店员" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="向往枪匠？" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="门可罗雀的钟表店" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="钟表店老板的视察" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="被留置的发条" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="哈罗尔的评价" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="神秘大姐姐" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="蕾昂的委托" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="蕾昂的店，开张" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="苏菲的服装" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="很在意炼金术" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="蕾昂的秘密" BonusEntry1="BonusEntry_Event_Flag_Add" Entry1Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Entry1Prm2="1"/>
+	<Bonus Name="灵魂的技法" BonusEntry1="BonusEntry_Event_Tag_On" Entry1Prm1="EVENT_XG11_110"/>
+</Root>

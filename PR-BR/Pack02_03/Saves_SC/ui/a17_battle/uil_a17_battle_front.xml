@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓アニメーションの読込み ***-->
+	<command load_anim="Saves/ui/a17_battle/uia_a17_battle.xml"/>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 255.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="true" visible="true">
+		<node name="round" viewer_visible="false">
+			<node name="YesNo" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+				<image name="w01" style="gen_a17_win01_w03" pos="449.00, 316.00, 0.00" size_wh="405.00, 164.00, 0.00"/>
+				<text name="turn" copy="TEXTCOLOR_BROWN" text="开始回合。" pos="542.00, 346.00, 0.00"/>
+				<node name="yes" pos="481.00, 390.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="yes_on" style="gen_a17_battle01_hpframe" pos="-0.00, -0.00, -0.00" size_wh="149.00, 74.00, 0.00" image_no="1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<text name="yes_on" copy="TEXTCOLOR_BEIGE" text="是" pos="40.00, 15.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					</image>
+					<image name="yes_off" style="gen_a17_battle01_hpframe" pos="-0.00, -0.00, -0.00" size_wh="149.00, 74.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<text name="yes_off" copy="TEXTCOLOR_BROWN" text="是" pos="40.00, 15.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</image>
+					<text text="&lt;IM00&gt;" name="yse_button" pos="96.00, 24.00, -0.00" rot="-0.00, -0.00, -0.00" scale="0.90, 0.90, 0.90"/>
+				</node>
+				<node name="no" pos="481.00, 390.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="no_on" style="gen_a17_battle01_hpframe" pos="201.00, -0.00, -0.00" size_wh="149.00, 74.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1">
+						<text name="no_on" copy="TEXTCOLOR_BEIGE" text="否" pos="25.00, 15.00, 0.00"/>
+					</image>
+					<image name="no_off" style="gen_a17_battle01_hpframe" pos="201.00, -0.00, -0.00" size_wh="149.00, 74.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<text name="no_off" copy="TEXTCOLOR_BROWN" text="否" pos="25.00, 15.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</image>
+					<text text="&lt;IM02&gt;" name="no_button" pos="298.00, 24.00, -0.00" rot="-0.00, -0.00, -0.00" scale="0.90, 0.90, 0.90"/>
+				</node>
+				<anim_ctrl name="exit" end_visible="false" viewer_key_assign="4">
+					<bind_node node="YesNo" anim="anm_common_fade_in" start_visible="true" reverse="true"/>
+				</anim_ctrl>
+				<anim_ctrl name="enter" viewer_key_assign="3">
+					<bind_node node="YesNo" anim="anm_common_fade_in" start_visible="true"/>
+				</anim_ctrl>
+			</node>
+			<node name="RoundStart" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="bg" style="common_black_image" size_wh="1280.00, 720.00, 0.00" color="255.00, 255.00, 255.00, 128.00" visible="false" viewer_visible="false"/>
+				<image name="commando_sentence" style="gen_a17_battle01_tf" pos="183.00, 220.00, -0.00" size_wh="922.00, 191.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_pos="461.00, 110.00, 0.00" visible="false" pivot_enable="true" viewer_visible="false"/>
+				<image name="commando_sentence_2" style="gen_a17_battle07_turnstart01" pos="407.00, 256.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_pos="228.00, 71.00, 0.00" visible="false" viewer_visible="false" pivot_enable="true"/>
+				<anim_ctrl name="enter" viewer_key_assign="1" start_visible="true" end_visible="false">
+					<bind_node node="bg" anim="anm_round_bg"/>
+					<bind_node node="commando_sentence" anim="anm_round_start2"/>
+					<bind_node node="commando_sentence_2" anim="anm_round_start"/>
+				</anim_ctrl>
+			</node>
+			<node name="RoundEnd">
+				<image name="bg" style="common_black_image" size_wh="1280.00, 720.00, 0.00" color="255.00, 255.00, 255.00, 128.00" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<image name="commando_sentence" style="gen_a17_battle01_tf" pos="183.00, 220.00, -0.00" size_wh="922.00, 191.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_pos="461.00, 110.00, 0.00" pivot_enable="true" visible="false"/>
+				<image name="commando_sentence_2" style="gen_a17_battle07_turnend01" pos="504.00, 259.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_pos="228.00, 71.00, 0.00" pivot_enable="true" visible="false"/>
+				<anim_ctrl name="enter" viewer_key_assign="2" start_visible="true" end_visible="false">
+					<bind_node node="bg" anim="anm_round_bg"/>
+					<bind_node node="commando_sentence_2" anim="anm_round_start"/>
+					<bind_node node="commando_sentence" anim="anm_round_start2"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<!--***↓0629追加ターン開始YESorNO ***-->
+	</node>
+</root>

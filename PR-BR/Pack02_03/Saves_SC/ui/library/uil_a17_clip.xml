@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template" viewer_visible="false"/>
+		<!--↓アニメーションxmlの読み込み-->
+		<command load_anim="Saves/ui/uia_common.xml"/>
+		<command load_anim="Saves/ui/library/uia_library.xml"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="node_clip" viewer_visible="false">
+			<image name="img_icon" pos="-4.00, -4.00, 0.00" rot="-0.00, -0.00, -0.00" style="gen_a17_icon01_04" size_wh="36.00, 36.00, 0.00" color="149.00, 98.00, 84.00, 255.00"/>
+			<text name="text_name" pos="45.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" line_space="18.00"/>
+		</node>
+		<text name="text_submenu" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_WHITE" viewer_visible="false"/>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="Root" pos="35, 34, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+		<menu name="menu_clip" pos="171.00, 119.00, -0.00" style="common_menu_balloon_select" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" disp_scroll_bar="false" size_w="366.00" viewer_visible="false" disp_lines="10"/>
+		<image name="img_tag" pos="171, 51, -0" rot="-0.00, -0.00, -0.00" style="gen_a17_win04_titlebg" size_wh="366, 72">
+			<text text="快取" name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" pos_ratio_x="0.50" pos="-59.00, 40.00, -0.00" viewer_visible="false" color="200.00, 172.00, 148.00, 255.00" drop_shadow="true"/>
+			<image name="img_tag_1" pos="242, 54, -0" rot="-0.00, -0.00, -0.00" style="gen_a17_item_info01_obi01" scale="1.00, 1.00, 1.00" size_wh="140.00, 50.00, 0.00">
+				<text text="&lt;IM20&gt;图鉴" name="text" rot="0.00, 0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_WHITE" align="center" pos_ratio_x="0.50" pos="-5.00, 6.00, 0.00" viewer_visible="false"/>
+			</image>
+		</image>
+		<menu name="menu_submenu" pos="484.00, 156.00, -0.00" style="common_menu_balloon_select" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" disp_scroll_bar="false" size_w="235.00" disp_lines="3" viewer_visible="false" visible="false"/>
+		<anim_ctrl name="getIn" start_visible="true" viewer_key_assign="1">
+			<bind_node node="." start_visible="true" anim="anm_common_fade_in"/>
+		</anim_ctrl>
+		<anim_ctrl name="getOut" end_visible="false" reverse="true" viewer_key_assign="2">
+			<bind_node node="." anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+	<!--***↓アニメーション ***-->
+</root>
+
+<anim_ctrl copy="getIn" clone_child_tree="getIn" name="clone_getIn"/>
+
+<anim_ctrl copy="getIn" clone_child_tree="getIn" name="clone_getIn"/>

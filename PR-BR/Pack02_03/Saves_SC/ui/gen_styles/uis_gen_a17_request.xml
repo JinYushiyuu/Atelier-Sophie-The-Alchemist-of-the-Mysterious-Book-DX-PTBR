@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_request01_accessory01" texture="ui/a17_request.g1t" texture_index="0" uvwh="304,179,160,192"/>
+	<image name="gen_a17_request01_accessory02" texture="ui/a17_request.g1t" texture_index="0" uvwh="608,576,160,192"/>
+	<image name="gen_a17_request01_accessory03" texture="ui/a17_request.g1t" texture_index="0" uvwh="464,139,304,304"/>
+	<image name="gen_a17_request01_button" texture="ui/a17_request.g1t" texture_index="0" uvwh="592,59,64,64"/>
+	<image name="gen_a17_request01_cancelled" texture="ui/a17_request.g1t" texture_index="0" uvwh="0,400,320,112"/>
+	<image name="gen_a17_request01_clear" texture="ui/a17_request.g1t" texture_index="0" uvwh="0,0,336,80"/>
+	<image name="gen_a17_request01_coin" texture="ui/a17_request.g1t" texture_index="0" uvwh="660,59,64,64"/>
+	<image_list name="gen_a17_request01_icon02">
+		<image name="gen_a17_request01_icon02__xLIST01" texture="ui/a17_request.g1t" texture_index="0" uvwh="352,59,80,80"/>
+		<image name="gen_a17_request01_icon02__xLIST02" texture="ui/a17_request.g1t" texture_index="0" uvwh="432,59,80,80"/>
+		<image name="gen_a17_request01_icon02__xLIST03" texture="ui/a17_request.g1t" texture_index="0" uvwh="512,59,80,80"/>
+	</image_list>
+	<image name="gen_a17_request01_missioncomp" texture="ui/a17_request.g1t" texture_index="0" uvwh="96,512,496,256"/>
+	<image name="gen_a17_request01_ob" texture="ui/a17_request.g1t"  texture_index="0" prim_type="wrap" edge_margin="16,0,48,96" uvwh="592,464,176,96"/>
+	<image name="gen_a17_request01_ok" texture="ui/a17_request.g1t" texture_index="0" uvwh="0,128,80,32"/>
+	<image name="gen_a17_request01_question" texture="ui/a17_request.g1t" texture_index="0" uvwh="0,624,80,144"/>
+	<image name="gen_a17_request01_report" texture="ui/a17_request.g1t" texture_index="0" uvwh="224,80,128,48"/>
+	<image name="gen_a17_request01_term" texture="ui/a17_request.g1t" texture_index="0" uvwh="0,80,224,48"/>
+	<image_list name="gen_a17_request01_text01">
+		<image name="gen_a17_request01_text01__xLIST01" texture="ui/a17_request.g1t" texture_index="0" uvwh="80,128,112,40"/>
+		<image name="gen_a17_request01_text01__xLIST02" texture="ui/a17_request.g1t" texture_index="0" uvwh="192,128,112,40"/>
+		<image name="gen_a17_request01_text01__xLIST03" texture="ui/a17_request.g1t" texture_index="0" uvwh="352,139,112,40"/>
+		<image name="gen_a17_request01_text01__xLIST04" texture="ui/a17_request.g1t" texture_index="0" uvwh="80,229,112,40"/>
+	</image_list>
+	<image_list name="gen_a17_request01_text02">
+		<image name="gen_a17_request01_text02__xLIST01" texture="ui/a17_request.g1t" texture_index="0" uvwh="0,169,261,57"/>
+		<image name="gen_a17_request01_text02__xLIST02" texture="ui/a17_request.g1t" texture_index="0" uvwh="321,446,175,57"/>
+	</image_list>
+	<image name="gen_a17_request01_text03" texture="ui/a17_request.g1t" texture_index="0" uvwh="336,0,419,57"/>
+	<image name="gen_a17_request01_w" texture="ui/a17_request.g1t"  texture_index="0" prim_type="wrap" edge_margin="79,18,46,20" uvwh="0,272,304,128"/>
+	<image name="gen_a17_request02_bg" texture="ui/a17_request.g1t"  texture_index="1" prim_type="wrap" edge_margin="0,441,768,60" uvwh="0,128,768,640"/>
+	<image name="gen_a17_request02_hl" texture="ui/a17_request.g1t" texture_index="1" uvwh="0,0,672,96"/>
+</root>

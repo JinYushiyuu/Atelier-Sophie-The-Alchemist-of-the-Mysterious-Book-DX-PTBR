@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="cell" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="mouse_area" style="common_none_image" pos="2.00, -1.00, 0.00" size_wh="65.00, 65.00, 0.00" visible="true"/>
+			<image name="itemlightnext" style="gen_a17_cabinet02_itemlightnext" pos="-1.00, -4.00, 0.00" visible="false" viewer_visible="false"/>
+			<image name="highlight" style="gen_a17_cabinet02_itemlight" pos="-1.00, -4.00, 0.00">
+				<anim_ctrl name="anim_ctrl" play="true" loop="true">
+					<bind_node node="highlight" anim="anm_common_cursor_blink" speed="1.50"/>
+				</anim_ctrl>
+				<feed name="screen_pointer_feed" pos="11.00, 14.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+			<image name="item_unknow" style="etc_a17_item_s" visible="false" viewer_visible="false" pos="4.00, 0.00, 0.00"/>
+			<image name="item_image" style="etc_a17_item_s" pos="4, 0, 0"/>
+			<image name="check" style="gen_a17_win01_checkicon02" pos="7, 6, 0"/>
+			<text text="99" name="number_green" font="A17_ITEM01" pos="54.00, 34.00, 0.00" word_space="-15.00" align="right"/>
+			<text text="99" name="number_yellow" font="A17_ITEM01" pos="54, 34, -0" word_space="-15.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right"/>
+			<image name="lock_image" style="gen_a17_cabinet02_itemlight" pos="-1.00, -4.00, 0.00" color="255.00, 255.00, 255.00, 50.00" alpha_blend="sub"/>
+			<image name="like" style="gen_a17_cabinet01_like" pos="32.00, 30.00, -0.00" rot="-0.00, -0.00, -0.00" viewer_visible="false" scale="1.00, 1.00, 1.00" visible="false"/>
+			<!--***↓0731_顔アイコン追加***-->
+			<image name="icon" style="gen_a17_icon01_02on" pos="31, 28, -0" rot="-0.00, -0.00, -0.00" viewer_visible="true" scale="1.00, 1.00, 1.00" visible="false" size_wh="36.00, 36.00, 0.00"/>
+			<image name="icon_use_item" style="gen_a17_icon01_02on" pos="-2.00, 28.00, 0.00" rot="-0.00, -0.00, -0.00" viewer_visible="false" scale="1.00, 1.00, 1.00" visible="false" size_wh="36.00, 36.00, 0.00"/>
+			<!--***↓0817_カテゴリ値追加 色はプログラム上で指定-->
+			<text text="99" name="category_point" pos="62.00, 34.00, -0.00" bold_size="2.00" bold_color="255.00, 255.00, 255.00, 255.00" font_color="150.00, 150.00, 150.00, 255.00" align="right" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+			<!--***↓0924_採取満タンの時に出すnew-->
+			<image name="new" pos="3, 0, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_cabinet01_new" visible="false" viewer_visible="false"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" pos="75.00, 216.00, 0.00">
+		<feed name="feed" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<node name="tab_top" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" load="Saves/ui/a17_cabinet/uil_a17_item_tab.xml" pos="-6, 1, 0"/>
+		<node name="under_confirm_window" pos="186.00, 387.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="downtag" style="gen_a17_cabinet02_downtag"/>
+			<image name="confirm_highlight" style="gen_a17_cabinet02_downtaglight">
+				<feed name="screen_pointer_feed" pos="32, 17, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="anim_ctrl" play="true" loop="true">
+					<bind_node node="confirm_highlight" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+			<image name="okon" pos="57.00, 2.00, 0.00" style="gen_a17_cabinet01_ok"/>
+			<image name="okoff" style="gen_a17_cabinet01_ok" image_no="1" pos="57, 2, 0" viewer_visible="false"/>
+			<text text="&lt;IM19&gt;" name="ok_button" pos="18.00, 4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="0.90, 0.90, 0.90"/>
+		</node>
+		<node name="under_count_window" pos="10.00, 387.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="downtag" style="gen_a17_cabinet02_downtag" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="888" name="now_total_number" pos="80, 5, 0" font_color="230.00, 211.00, 163.00, 255.00" bold_size="1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+			<text text="/" name="slash" pos="86, 5, 0" font_color="230.00, 211.00, 163.00, 255.00" bold_size="1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="999" name="max_total_number" pos="99, 5, 0" font_color="230.00, 211.00, 163.00, 255.00" bold_size="1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="left"/>
+		</node>
+		<node name="frame" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="a17_cabinet_frame" style="gen_a17_cabinet02_frame" pos="-4.00, -1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+			<scroll_bar name="scroll_bar" style="common_scroll_bar_a17_cabinet" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_h="396.00" pos="384.00, 1.00, -0.00"/>
+			<node name="sheet" pos="17.00, 24.00, -0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<node copy="cell" clone_child_tree="cell" name="col00" pos="0.00, 0.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col01" pos="70.00, 0.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col02" pos="140.00, 0.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col03" pos="210.00, 0.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col04" pos="280.00, 0.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col10" pos="0.00, 70.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col11" pos="70.00, 70.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col12" pos="140.00, 70.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col13" pos="210.00, 70.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col14" pos="280.00, 70.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col20" pos="0.00, 140.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col21" pos="70.00, 140.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col22" pos="140.00, 140.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col23" pos="210.00, 140.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col24" pos="280.00, 140.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col30" pos="0.00, 210.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col31" pos="70.00, 210.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col32" pos="140.00, 210.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col33" pos="210.00, 210.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col34" pos="280.00, 210.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col40" pos="0.00, 280.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col41" pos="70.00, 280.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col42" pos="140.00, 280.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col43" pos="210.00, 280.00, 0.00"/>
+				<node copy="cell" clone_child_tree="cell" name="col44" pos="280.00, 280.00, 0.00"/>
+			</node>
+		</node>
+	</node>
+	<anim_ctrl name="fade_in" play="false" loop="false">
+		<bind_node node="top" anim="anm_common_fade_in"/>
+	</anim_ctrl>
+</root>

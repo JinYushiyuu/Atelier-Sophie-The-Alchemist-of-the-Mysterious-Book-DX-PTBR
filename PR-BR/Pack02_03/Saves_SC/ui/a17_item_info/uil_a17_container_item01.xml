@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" pos="654, 140, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<node name="item" pos="164, 72, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="itembg" style="gen_a17_library01_itembg" pos="-37, 1, 0"/>
+			<image name="item_image" style="etc_a17_item_l" pos="10.00, 40.00, 0.00"/>
+		</node>
+		<image name="obi01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win02_obi01" pos="-2.00, 3.00, -0.00" size_wh="559.00, 73.00, 0.00">
+			<text text="あいうえおかきくけこ" name="item_text" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" align="center" pos="275.00, 11.00, -0.00" font_size="26.00"/>
+		</image>
+		<image name="win" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win02_w01" pos="15.00, 367.00, -0.00" size_wh="548.00, 158.00, 0.00" visible="false">
+			<text text="あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこ" name="message_text" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" align="left" line_char_length="20" line_space="9.00" pos="45.00, 14.00, -0.00" word_space="-2.00"/>
+		</image>
+		<anim_ctrl name="fade_in" play="false" start_visible="true">
+			<bind_node node="top" anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+</root>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="bg" load="/Saves/ui/a17_common/uil_a17_bg01.xml">
+			<command target_node="book_bg/bg02" set_visible="false"/>
+		</node>
+		<anim_ctrl name="get_in" play="false" start_visible="true" viewer_key_assign="1">
+			<bind_node node="." anim="anm_common_fade_in"/>
+		</anim_ctrl>
+		<anim_ctrl name="get_in_large_book" viewer_key_assign="2">
+			<bind_node node="./bg/bg02" anim="anm_common_fade_in" start_visible="true"/>
+		</anim_ctrl>
+	</node>
+</root>

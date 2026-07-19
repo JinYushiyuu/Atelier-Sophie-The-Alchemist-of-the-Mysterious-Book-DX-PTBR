@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root ortho="true">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node viewer_visible="false" visible="false" name="usuals">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node name="font_template" load="Saves/ui/uil_template.xml"/>
+	</node>
+	<!--***↓アニメーション ***-->
+	<command load_anim="Saves/ui/a17_townmap/uia_a17_townmap.xml"/>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image viewer_visible="false" visible="false" name="ui_bg" color="255.00, 255.00, 255.00, 128.00" style="common_bg_sample"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node viewer_visible="true" visible="false" name="clone_targets">
+		<node viewer_visible="true" name="tag" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="-0.00, -0.00, -0.00">
+			<node name="img" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="-44.00, -9.00, -0.00">
+				<image viewer_visible="false" name="img_bg_disable" style="gen_a17_townmap01_tag" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" image_no="1" pos="40.00, 6.00, -0.00"/>
+				<image viewer_visible="false" name="img_bg_enable" style="gen_a17_townmap01_tag" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" image_no="0" pos="40.00, 6.00, -0.00"/>
+				<image viewer_visible="false" visible="false" name="taglight" style="gen_a17_townmap01_taglight" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="39.00, 5.00, -0.00"/>
+				<!--***↓小項目が出る場合に限り出す ***-->
+				<image name="next" style="gen_a17_townmap01_next" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="222, 14, -0"/>
+			</node>
+			<text viewer_visible="false" visible="false" name="text_select" color="175.00, 115.00, 0.00, 255.00" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="99.00, 5.00, -0.00" align="center" word_space="-1.00" font_size="26.00" bold_size="0.00" text="工房"/>
+			<node viewer_visible="false" name="node_unselect" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="-44.00, -9.00, -0.00">
+				<text viewer_visible="false" visible="true" name="text_unselect" color="78.00, 17.00, 16.00, 255.00" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="143.00, 14.00, 0.00" align="center" word_space="-1.00" font_size="26.00" bold_size="0.00" text="工房"/>
+				<text viewer_visible="false" visible="false" name="text_disable" color="49.00, 49.00, 47.00, 255.00" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="143.00, 14.00, 0.00" align="center" word_space="-1.00" font_size="26.00" bold_size="0.00" text="工房"/>
+			</node>
+			<anim_ctrl name="on_unselect" exclusive_play="true" viewer_key_assign="8">
+				<bind_node start_visible="true" node="node_unselect"/>
+				<bind_node start_visible="false" node="text_select"/>
+				<bind_node start_visible="false" node="img_frame_select"/>
+				<bind_node start_visible="true" node="img_frame_unselect"/>
+				<bind_node start_visible="false" node="taglight"/>
+			</anim_ctrl>
+			<anim_ctrl name="on_select" exclusive_play="true" viewer_key_assign="7">
+				<bind_node start_visible="false" node="node_unselect"/>
+				<bind_node start_visible="true" node="text_select"/>
+				<bind_node start_visible="false" node="img_frame_select"/>
+				<bind_node start_visible="true" node="img_frame_unselect"/>
+				<bind_node start_visible="true" node="taglight"/>
+			</anim_ctrl>
+			<anim_ctrl name="on_disable_input" exclusive_play="true" viewer_key_assign="7">
+				<bind_node start_visible="false" node="node_unselect"/>
+				<bind_node start_visible="true" node="text_select"/>
+				<bind_node start_visible="true" node="img_frame_select"/>
+				<bind_node start_visible="false" node="img_frame_unselect"/>
+				<bind_node start_visible="false" node="taglight"/>
+			</anim_ctrl>
+			<anim_ctrl name="on_ok" exclusive_play="true" viewer_key_assign="7">
+				<bind_node start_visible="true" node="taglight"/>
+			</anim_ctrl>
+			<anim_ctrl name="blink" loop="true" play="true">
+				<bind_node node="taglight" anim="anm_common_blink"/>
+			</anim_ctrl>
+		</node>
+		<node name="chara_icon" viewer_visible="true">
+			<image name="chara_icon_image" style="gen_a17_icon01_02on" pos="-21.00, -21.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node viewer_visible="false" visible="true" name="top">
+		<node viewer_visible="false" name="tm">
+			<node name="tm_bg" visible="true" viewer_visible="false" pos="0.00, 0.00, -100.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="tm_bg_image" style="etc_a17_bg_townmap" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="tm_point" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<node name="tm_point_00" pos="893.00, 143.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="tm_point_00_highlight" style="gen_a17_townmap01_01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+						<node name="tm_point_icon" pos="101, 120, 0"/>
+						<anim_ctrl name="tm_point_blink" loop="true" play="true">
+							<bind_node node="tm_point_00_highlight" anim="anm_common_blink"/>
+						</anim_ctrl>
+					</node>
+					<node name="tm_point_01" pos="409.00, 121.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="tm_point_01_highlight" style="gen_a17_townmap01_05" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<node name="tm_point_icon" pos="139, 85, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<anim_ctrl name="tm_point_blink" loop="true" play="true">
+							<bind_node node="tm_point_01_highlight" anim="anm_common_blink"/>
+						</anim_ctrl>
+					</node>
+					<node name="tm_point_02" pos="960.00, 286.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="tm_point_02_highlight" style="gen_a17_townmap01_03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<node name="tm_point_icon" pos="113, 116, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<anim_ctrl name="tm_point_blink" loop="true" play="true">
+							<bind_node node="tm_point_02_highlight" anim="anm_common_blink"/>
+						</anim_ctrl>
+					</node>
+					<node name="tm_point_03" pos="419.00, 237.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="tm_point_03_highlight" style="gen_a17_townmap01_04" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<node name="tm_point_icon" pos="121, 132, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<anim_ctrl name="tm_point_blink" loop="true" play="true">
+							<bind_node node="tm_point_03_highlight" anim="anm_common_blink"/>
+						</anim_ctrl>
+					</node>
+					<node name="tm_point_04" pos="651.00, 132.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="tm_point_04_highlight" style="gen_a17_townmap01_06" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<node name="tm_point_icon" pos="132, 220, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<anim_ctrl name="tm_point_blink" loop="true" play="true">
+							<bind_node node="tm_point_04_highlight" anim="anm_common_blink"/>
+						</anim_ctrl>
+					</node>
+					<node name="tm_point_05" pos="677.00, 379.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="tm_point_05_highlight" style="gen_a17_townmap01_07" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<node name="tm_point_icon" pos="155, 158, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<anim_ctrl name="tm_point_blink" loop="true" play="true">
+							<bind_node node="tm_point_05_highlight" anim="anm_common_blink"/>
+						</anim_ctrl>
+					</node>
+					<node name="tm_point_06" pos="724.00, 565.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="tm_point_06_highlight" style="gen_a17_townmap01_02" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<node name="tm_point_icon" pos="123, 69, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+						<anim_ctrl name="tm_point_blink" loop="true" play="true">
+							<bind_node node="tm_point_06_highlight" anim="anm_common_blink"/>
+						</anim_ctrl>
+					</node>
+					<node name="tm_point_07" pos="998.00, 608.00, 0.00" visible="false">
+						<image name="tm_point_07_bg" style="gen_a17_townmap01_nexttag" size_wh="266.00, 53.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+						<image name="tm_point_07_text" style="gen_a17_townmap01_worldmap" pos="37.00, 5.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+						<image name="tm_point_07_highlight" style="gen_a17_townmap01_nexttaglight" pos="-14.00, -17.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true"/>
+						<anim_ctrl name="tm_point_blink" loop="true" play="true">
+							<bind_node node="tm_point_07_highlight" anim="anm_common_blink"/>
+						</anim_ctrl>
+					</node>
+				</node>
+			</node>
+			<node name="tm_menu" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="-0.00, -0.00, -0.00">
+				<image name="tm_menu_bar" style="gen_a17_townmap01_tagframebar" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="22.00, 131.00, -0.00"/>
+				<node name="tm_main_menu" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="39.00, 0.00, 0.00">
+					<selector viewer_visible="false" name="menu" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="-10.00, -0.00, -0.00">
+						<option_list viewer_visible="false">
+							<option node="main_tag_0"/>
+							<option node="main_tag_1"/>
+							<option node="main_tag_2"/>
+							<option node="main_tag_3"/>
+							<option node="main_tag_4"/>
+							<option node="main_tag_5"/>
+							<option node="main_tag_6"/>
+							<option node="main_tag_7"/>
+						</option_list>
+						<node viewer_visible="false" visible="true" name="main_tag" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="0.00, 0.00, 0.00">
+							<node visible="false" name="main_tag_0" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="50.00, 214.00, -0.00" copy="tag" clone_child_tree="tag"/>
+							<node visible="false" name="main_tag_1" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="50.00, 253.57, -0.00" copy="tag" clone_child_tree="tag"/>
+							<node visible="false" name="main_tag_2" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="50.00, 293.14, -0.00" copy="tag" clone_child_tree="tag"/>
+							<node visible="false" name="main_tag_3" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="50.00, 332.71, -0.00" copy="tag" clone_child_tree="tag"/>
+							<node visible="false" name="main_tag_4" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="50.00, 372.29, -0.00" copy="tag" clone_child_tree="tag"/>
+							<node visible="false" name="main_tag_5" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="50.00, 411.86, -0.00" copy="tag" clone_child_tree="tag"/>
+							<node visible="false" name="main_tag_6" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="50.00, 451.43, -0.00" copy="tag" clone_child_tree="tag"/>
+							<node visible="false" name="main_tag_7" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="50.00, 491.00, -0.00" copy="tag" clone_child_tree="tag"/>
+						</node>
+					</selector>
+					<image name="tm_menu_under_frame" style="gen_a17_townmap01_tagfr01" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" image_no="1" pos="-10.00, 520.00, -0.00"/>
+					<image name="tm_menu_over_frame" style="gen_a17_townmap01_tagfr01" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="-10.00, 155.00, -0.00"/>
+					<anim_ctrl name="ac_out" viewer_key_assign="2">
+						<bind_node start_visible="true" node="tm_main_menu" anim="anm_close_mm"/>
+					</anim_ctrl>
+					<anim_ctrl name="ac_in" viewer_key_assign="1">
+						<bind_node start_visible="true" node="tm_main_menu" anim="anm_open_mm"/>
+					</anim_ctrl>
+				</node>
+				<node name="tm_sub_menu" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="39.00, -0.00, -0.00">
+					<selector viewer_visible="false" visible="true" name="sub_menu" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="-39.00, -0.00, -0.00">
+						<option_list viewer_visible="false">
+							<option node="sub_tag_0"/>
+							<option node="sub_tag_1"/>
+							<option node="sub_tag_2"/>
+							<option node="sub_tag_3"/>
+						</option_list>
+						<node viewer_visible="false" visible="true" name="sub_tag" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="-2.00, 1.00, -0.00">
+							<node name="sub_tag_0" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="79.00, 254.00, -0.00" copy="tag" clone_child_tree="tag" viewer_visible="false"/>
+							<node viewer_visible="false" name="sub_tag_1" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="79.00, 293.67, -0.00" copy="tag" clone_child_tree="tag"/>
+							<node name="sub_tag_2" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="79.00, 333.33, -0.00" copy="tag" clone_child_tree="tag"/>
+							<node name="sub_tag_3" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="79.00, 373.00, -0.00" copy="tag" clone_child_tree="tag"/>
+						</node>
+					</selector>
+					<image name="fm_menu_header" style="gen_a17_townmap01_tagframebg" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="34.00, 211.00, -0.00">
+						<text name="text" color="255.00, 201.00, 142.00, 255.00" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="112.00, 11.00, -0.00" align="center" word_space="-4.00" font_size="20.00" bold_size="2.00" text="街道" bold_color="75.00, 39.00, 30.00, 255.00"/>
+					</image>
+					<image viewer_visible="false" name="tm_menu_under_frame" style="gen_a17_townmap01_tagfr02" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="-8.00, 406.00, -0.00"/>
+					<image name="tm_menu_over_frame" style="gen_a17_townmap01_tagfr01" scale="1.00, 1.00, 1.00" rot="-0.00, -0.00, -0.00" pos="-8.00, 158.00, -0.00"/>
+					<anim_ctrl name="ac_in" viewer_key_assign="2">
+						<bind_node start_visible="true" node="tm_sub_menu" anim="anm_open_sm"/>
+					</anim_ctrl>
+					<anim_ctrl name="ac_out" viewer_key_assign="1">
+						<bind_node start_visible="true" node="tm_sub_menu" anim="anm_close_sm"/>
+					</anim_ctrl>
+				</node>
+			</node>
+		</node>
+		<anim_ctrl name="ac_open">
+			<bind_node node="tm" anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+</root>

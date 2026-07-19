@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓アニメーションxmlの読み込み-->
+		<command load_anim="Saves/ui/uia_common.xml"/>
+		<command load_anim="Saves/ui/a17_shop/uia_a17_store.xml"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample_2" visible="false" color="255.00, 255.00, 255.00, 128.00" viewer_visible="false"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false">
+		<image name="CoinImage_Original" style="gen_common10_moneyicon" visible="false" viewer_visible="true"/>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="Top" viewer_visible="true" visible="false">
+		<image name="w03" style="gen_a17_win01_w03" pos="562.00, 217.00, 0.00" size_wh="321.00, 366.00, 0.00"/>
+		<image name="QuantityValueSelectedImage" style="gen_a17_shop01_buylight" pos="645.00, 384.00, -0.00" image_no="1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+		<image name="QuantityValueSelectImage" style="gen_a17_shop01_buylight" pos="645.00, 384.00, 0.00">
+			<feed name="QuantityValueSelectFeed" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="30, 17, 0"/>
+		</image>
+		<image name="fram" style="gen_a17_win01_fram01" pos="645.00, 384.00, 0.00" size_wh="149.00, 83.00, 0.00"/>
+		<image name="QuantityValueUpArrow" style="gen_a17_win01_directionkey_up" pos="705.00, 361.00, 0.00"/>
+		<image name="QuantityValueDownArrow" style="gen_a17_win01_directionkey_down" pos="705.00, 469.00, 0.00"/>
+		<node name="line" pos="562.00, 217.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="line" style="gen_a17_win01_line03" pos="27.00, 47.00, 0.00" size_wh="265.00, 6.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+			<image name="line_1" style="gen_a17_win01_line03" pos="27.00, 81.00, 0.00" size_wh="265.00, 6.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_2" style="gen_a17_win01_line03" pos="27.00, 129.00, 0.00" size_wh="265.00, 6.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_3" style="gen_a17_win01_line03" pos="27.00, 282.00, 0.00" size_wh="265.00, 6.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_8" style="gen_a17_win01_line03" pos="27.00, 318.00, 0.00" size_wh="265.00, 6.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="text" pos="591, 228, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<node name="text" viewer_visible="false">
+				<text text="要买几个呢？" name="text" pos="132.00, 10.00, -0.00" color="43.00, 22.00, 23.00, 255.00" align="center" word_space="-2.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="(目前共持有　　 个)" name="text" pos="32.00, 44.00, -0.00" color="43.00, 22.00, 23.00, 255.00" word_space="-2.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="1个" name="text" pos="11.00, 91.00, -0.00" color="43.00, 22.00, 23.00, 255.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="moneyicon" pos="58.00, 88.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_moneyicon"/>
+				<text text=":" name="text" pos="99.00, 90.00, -0.00" color="43.00, 22.00, 23.00, 255.00" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="个" name="text" pos="220, 209, -0" color="43.00, 22.00, 23.00, 255.00" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="剩下" name="text" pos="12.00, 281.00, -0.00" color="43.00, 22.00, 23.00, 255.00" word_space="-2.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="moneyicon_1" pos="58.00, 276.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_moneyicon"/>
+				<text text=":" name="text" pos="98.00, 280.00, -0.00" color="43.00, 22.00, 23.00, 255.00" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<text text="999" name="HaveText" pos="180.00, 44.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="center"/>
+			<text text="99999" name="ValueText" pos="247.00, 92.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="right"/>
+			<text text="99" name="QuantityValueOrderText" pos="156, 172, 0" color="175.00, 115.00, 0.00, 255.00" align="right" font_size="50.00"/>
+			<text text="99999999" name="RemainingMoneyValueText" pos="246.00, 282.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="right"/>
+		</node>
+	</node>
+	<!--***↓アニメーションデータ ***-->
+	<anim_ctrl name="fade_in" viewer_key_assign="0" exclusive_play="true">
+		<bind_node node="Top" anim="store_common_fade_in"/>
+	</anim_ctrl>
+	<anim_ctrl name="fade_out" viewer_key_assign="1" exclusive_play="true">
+		<bind_node node="Top" anim="store_common_fade_out"/>
+	</anim_ctrl>
+	<anim_ctrl name="select_cursor_in" play="true" loop="true" reverse="false" viewer_key_assign="2">
+		<bind_node node="QuantityValueSelectImage" anim="store_cursor_flash"/>
+	</anim_ctrl>
+</root>

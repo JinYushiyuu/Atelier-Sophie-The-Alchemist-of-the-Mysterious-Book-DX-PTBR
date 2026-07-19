@@ -1,0 +1,15 @@
+{
+    "json_version": 0x2,
+    "name": "MainFontHD1080_0.g1t",
+    "version": 0x3c,
+    "platform": "PS2",
+    "textures": [
+        {
+            "name": "000.dds",
+            "type": 0x8,
+            "flags": [
+                "STANDARD_FLAGS"
+            ]
+        }
+    ]
+}

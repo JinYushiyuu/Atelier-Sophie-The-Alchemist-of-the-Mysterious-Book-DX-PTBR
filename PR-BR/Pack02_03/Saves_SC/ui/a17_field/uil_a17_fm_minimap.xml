@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<command load_anim="/Saves/ui/a17_field/uia_a17_fm_minimap.xml"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false" pos="-43, 13, 0">
+		<node name="icon_player" pos="1154.00, 137.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="icon_player_img" style="gen_a17_field02_icon_one" image_no="0"/>
+		</node>
+		<node name="icon_npc" pos="1142.00, 90.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="icon_npc_img" style="gen_a17_field02_icon"/>
+		</node>
+		<node name="icon_shop" pos="1155.00, 59.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="icon_shop_img" style="gen_a17_field02_icon" image_no="1"/>
+		</node>
+		<node name="icon_monster" pos="1116.00, 56.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="icon_monster_img" style="gen_a17_field02_icon" image_no="2"/>
+		</node>
+		<node name="icon_event" pos="1179.00, 139.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="icon_event_img" style="gen_a17_field02_icon" image_no="3"/>
+		</node>
+		<node name="icon_collect" pos="1182.00, 121.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="icon_collect_img" style="gen_a17_field02_icon_event" image_no="1"/>
+		</node>
+		<node name="icon_event" pos="1182.00, 93.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="icon_event" style="gen_a17_field02_icon_event"/>
+		</node>
+		<node name="icon_fm_change" pos="1126.00, 164.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="icon_fm_change_img" style="gen_a17_field02_icon_door"/>
+		</node>
+		<node name="icon_wm_change" pos="1129.00, 120.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="icon_wm_change_img" style="gen_a17_field02_icon_door" image_no="1"/>
+		</node>
+		<!--***↓0717_追加宝箱アイコン ***-->
+		<node name="icon_box" pos="1099, 108, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="icon_box_img" style="gen_a17_field02_icon_box"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="true">
+		<node name="minimap" pos="1000, 17, 0">
+			<node name="part_off" pos="100.00, 55.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="part01" style="gen_a17_field02_part01_off" pos="42, 145, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="1">
+						<bind_node anim="anim_switch_part_off01" node="part01"/>
+					</anim_ctrl>
+				</image>
+				<image name="part02" style="gen_a17_field02_part02_off" pos="61, 136, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="2">
+						<bind_node node="part02" anim="anim_switch_part_off02"/>
+					</anim_ctrl>
+				</image>
+				<image name="part03" style="gen_a17_field02_part03_off" pos="81, 124, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="3">
+						<bind_node node="part03" anim="anim_switch_part_off03"/>
+					</anim_ctrl>
+				</image>
+				<image name="part04" style="gen_a17_field02_part04_off" pos="95, 106, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="4">
+						<bind_node anim="anim_switch_part_off04" node="part04"/>
+					</anim_ctrl>
+				</image>
+				<image name="part05" style="gen_a17_field02_part05_off" pos="101, 80, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="5">
+						<bind_node anim="anim_switch_part_off05" node="part05" start_visible="true"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<node name="part_on" pos="100.00, 55.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="part01" style="gen_a17_field02_part01_on" pos="43.00, 152.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="1">
+						<bind_node node="part01" anim="anim_switch_part_on01"/>
+					</anim_ctrl>
+				</image>
+				<image name="part02" style="gen_a17_field02_part02_on" pos="64.00, 143.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="2">
+						<bind_node node="part02" anim="anim_switch_part_on02"/>
+					</anim_ctrl>
+				</image>
+				<image name="part03" style="gen_a17_field02_part03_on" pos="85.00, 131.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="3">
+						<bind_node start_visible="3" anim="anim_switch_part_on03" node="part03"/>
+					</anim_ctrl>
+				</image>
+				<image name="part04" style="gen_a17_field02_part04_on" pos="102.00, 112.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="4">
+						<bind_node start_visible="4" anim="anim_switch_part_on04" node="part04"/>
+					</anim_ctrl>
+				</image>
+				<image name="part05" style="gen_a17_field02_part05_on" pos="112.00, 84.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="42.00, 32.00, 0.00" visible="false" viewer_visible="true">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="5">
+						<bind_node anim="anim_switch_part_on05" node="part05"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<image name="partframe" style="gen_a17_field02_partframe" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="127.00, 125.00, -0.00" viewer_visible="false"/>
+			<node name="part_on_light" pos="127.00, 125.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="part01" style="gen_a17_field02_part01_on_l" pos="0.00, 71.00, 0.00" viewer_visible="true" visible="false">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="1">
+						<bind_node anim="anim_switch_part_on_light01" node="part01"/>
+					</anim_ctrl>
+					<node name="eff_pos" pos="25.00, 26.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<image name="part02" style="gen_a17_field02_part02_on_l" pos="22.00, 63.00, 0.00" visible="false" viewer_visible="true">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="2">
+						<bind_node anim="anim_switch_part_on_light02" start_visible="2" node="part02"/>
+					</anim_ctrl>
+					<node name="eff_pos" pos="25, 26, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<image name="part03" style="gen_a17_field02_part03_on_l" pos="44.00, 50.00, 0.00" visible="false" viewer_visible="true">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="3">
+						<bind_node node="part03" anim="anim_switch_part_on_light03"/>
+					</anim_ctrl>
+					<node name="eff_pos" pos="25, 25, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<image name="part04" style="gen_a17_field02_part04_on_l" pos="65.00, 31.00, 0.00" viewer_visible="true" visible="false">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="4">
+						<bind_node node="part04" anim="anim_switch_part_on_light04"/>
+					</anim_ctrl>
+					<node name="eff_pos" pos="24, 25, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<image name="part05" style="gen_a17_field02_part05_on_l" pos="80.00, 5.00, 0.00" visible="false" viewer_visible="true">
+					<anim_ctrl name="anim_ctrl" viewer_key_assign="5">
+						<bind_node anim="anim_switch_part_on_light05" node="part05"/>
+					</anim_ctrl>
+					<node name="eff_pos" pos="25, 25, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+			</node>
+			<node name="map" pos="1, -1, 0">
+				<image name="map_bg" style="gen_a17_field02_mapbg" pos="0.00, -1.00, 0.00"/>
+			</node>
+			<node name="terrain" pos="91, 51, 0">
+				<image name="terrain_img" style="etc_a17_minimap" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<image name="map_frame" style="gen_a17_field02_mapframe" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="22.00, 11.00, 0.00"/>
+		</node>
+	</node>
+</root>

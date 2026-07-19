@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+  <anim name="anm_event_menu_slide_in">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0"	value="-20,0,0"/>
+      <key time="0.2"	value="0,0,0"/>
+    </curve>
+    <curve attr="color" >
+      <key time="0.0"	value="255,255,255,0"/>
+      <key time="0.2"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+  
+  <anim name="anm_event_info_slide_in">
+    <curve attr="pos" interpolate="spline">
+      <key time="0.0"	value="50,0,0"/>
+      <key time="0.2"	value="0,0,0"/>
+    </curve>
+    <curve attr="color" >
+      <key time="0.0"	value="255,255,255,0"/>
+      <key time="0.2"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+
+  <!-- チェック -->
+  <anim name="anm_lifetasks_check_chkbox">
+    <curve attr="offset_uvwh">
+      <key time="0.0" value="0,0,-46, 0"/>
+      <key time="0.15" value="0,0,-33, 0"/>
+      <key time="0.4" value="0,0,-33, 0"/>
+      <key time="0.55" value="0,0,0,0"/>
+      <key time="1.0" value="0,0,0,0"/>
+    </curve>
+  </anim>
+</root>
+

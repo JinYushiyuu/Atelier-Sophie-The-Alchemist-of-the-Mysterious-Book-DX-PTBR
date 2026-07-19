@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<dollmake_reaction No="0" dollmake_reaction_tag="DOLLMAKE_REACTION_NORMAL" voice_no="11325" message="原来如此。"/>
+	<dollmake_reaction No="1" dollmake_reaction_tag="DOLLMAKE_REACTION_NORMAL" voice_no="11326" message="这是……"/>
+	<dollmake_reaction No="2" dollmake_reaction_tag="DOLLMAKE_REACTION_NORMAL" voice_no="11327" message="也是呢。"/>
+	<dollmake_reaction No="3" dollmake_reaction_tag="DOLLMAKE_REACTION_NORMAL" voice_no="11328" message="来这套吗……"/>
+	<dollmake_reaction No="4" dollmake_reaction_tag="DOLLMAKE_REACTION_NORMAL" voice_no="11329" message="还可以吧。"/>
+	<dollmake_reaction No="5" dollmake_reaction_tag="DOLLMAKE_REACTION_GOOD" voice_no="11330" message="感觉不错。"/>
+	<dollmake_reaction No="6" dollmake_reaction_tag="DOLLMAKE_REACTION_GOOD" voice_no="11331" message="太棒了。"/>
+	<dollmake_reaction No="7" dollmake_reaction_tag="DOLLMAKE_REACTION_GOOD" voice_no="11332" message="交给你果然是正确的。"/>
+	<dollmake_reaction No="8" dollmake_reaction_tag="DOLLMAKE_REACTION_GOOD" voice_no="11333" message="绝佳选择呢。"/>
+	<dollmake_reaction No="9" dollmake_reaction_tag="DOLLMAKE_REACTION_GOOD" voice_no="11334" message="好像不错呢。"/>
+	<dollmake_reaction No="10" dollmake_reaction_tag="DOLLMAKE_REACTION_BAD" voice_no="11335" message="我不是很喜欢呢……"/>
+	<dollmake_reaction No="11" dollmake_reaction_tag="DOLLMAKE_REACTION_BAD" voice_no="11336" message="唉……"/>
+	<dollmake_reaction No="12" dollmake_reaction_tag="DOLLMAKE_REACTION_BAD" voice_no="11337" message="我该怎么反应才好……"/>
+	<dollmake_reaction No="13" dollmake_reaction_tag="DOLLMAKE_REACTION_BAD" voice_no="11338" message="真伤脑筋……"/>
+	<dollmake_reaction No="14" dollmake_reaction_tag="DOLLMAKE_REACTION_BAD" voice_no="11339" message="我不太适应这种……"/>
+	<dollmake_reaction No="15" dollmake_reaction_tag="DOLLMAKE_REACTION_WORST" voice_no="11340" message="唔……&lt;CR&gt;这再怎么说也太……"/>
+	<dollmake_reaction No="16" dollmake_reaction_tag="DOLLMAKE_REACTION_WORST" voice_no="11341" message="苏菲，你是认真的吗？"/>
+	<dollmake_reaction No="17" dollmake_reaction_tag="DOLLMAKE_REACTION_WORST" voice_no="11342" message="看来你想惹我生气是吧？"/>
+	<dollmake_reaction No="18" dollmake_reaction_tag="DOLLMAKE_REACTION_WORST" voice_no="11343" message="苏菲……我会恨死你哦……？"/>
+	<dollmake_reaction No="19" dollmake_reaction_tag="DOLLMAKE_REACTION_WORST" voice_no="11344" message="你就没有所谓的&lt;CR&gt;良心吗！？"/>
+	<dollmake_reaction No="20" dollmake_reaction_tag="DOLLMAKE_REVIEW_GOOD" voice_no="11345" message="呵呵，我很喜欢。&lt;CR&gt;谢谢你了，苏菲。"/>
+	<dollmake_reaction No="21" dollmake_reaction_tag="DOLLMAKE_REVIEW_NORMAL" voice_no="11346" message="该说是中规中矩吧。&lt;CR&gt;还不差呢。"/>
+	<dollmake_reaction No="22" dollmake_reaction_tag="DOLLMAKE_REVIEW_BAD" voice_no="11347" message="……你真的觉得这样好吗？&lt;CR&gt;这实在也太……"/>
+</Root>

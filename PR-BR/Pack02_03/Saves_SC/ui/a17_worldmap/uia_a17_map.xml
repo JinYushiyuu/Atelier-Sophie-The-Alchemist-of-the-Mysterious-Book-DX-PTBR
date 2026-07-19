@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A16/_Programmer/ui/uia.dtd">
+<root>
+	<anim name="anm_map_arrow_move_west">
+		<curve attr="pos" interpolate="spline" >
+			<key time="0.0"		value="0"/>
+			<key time="0.25"	value="5"/>
+			<key time="0.5"		value="0"/>
+		</curve>
+	</anim>
+	<anim name="anm_map_arrow_move_east">
+		<curve attr="pos" interpolate="spline" >
+			<key time="0.0"		value="0"/>
+			<key time="0.25"	value="-5"/>
+			<key time="0.5"		value="0"/>
+		</curve>
+	</anim>
+	<anim name="anm_map_arrow_move_north">
+		<curve attr="pos" interpolate="spline" >
+			<key time="0.0"		value="0, 0"/>
+			<key time="0.25"	value="0, 5"/>
+			<key time="0.5"		value="0, 0"/>
+		</curve>
+	</anim>
+	<anim name="anm_map_arrow_move_south">
+		<curve attr="pos" interpolate="spline" >
+			<key time="0.0"		value="0, 0"/>
+			<key time="0.25"	value="0,-5"/>
+			<key time="0.5"		value="0, 0"/>
+		</curve>
+	</anim>
+
+	<anim name="anm_gimmick_icon">
+		<curve attr="pos" interpolate="spline" >
+			<key time="0.0"		value="0, 0"/>
+			<key time="0.25"	value="0,-5"/>
+			<key time="0.5"		value="0, 0"/>
+		</curve>
+	</anim>
+
+	<anim name="anm_compass">
+		<curve attr="rot" interpolate="spline" >
+			<key time="0.0"		value="0, 0, 0"/>
+			<key time="0.3"	value="0, 0, 2"/>
+			<key time="0.7"		value="0, 0, -3"/>
+			<key time="1.2"	value="0, 0, 3"/>
+			<key time="1.6"		value="0, 0, -2"/>
+			<key time="2.1"		value="0, 0, 0"/>
+		</curve>
+	</anim>
+	<anim name="anm_map_free_cursor">
+		<curve attr="pos" interpolate="spline">
+			<key time="0.0"		value="0,-2,0"/>
+			<key time="0.6"		value="0, 2,0"/>
+			<key time="1.2"		value="0,-2,0"/>
+		</curve>
+	</anim>
+</root>
+

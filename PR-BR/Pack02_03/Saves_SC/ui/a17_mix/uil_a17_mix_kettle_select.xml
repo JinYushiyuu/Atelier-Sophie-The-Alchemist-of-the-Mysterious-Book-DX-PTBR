@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="/Saves/ui/a17_mix/uia_a17_mix_panel.xml"/>
+	<node name="template" load="Saves/ui/uil_template.xml" viewer_visible="false"/>
+	<node name="kettle_select">
+		<image name="kettle_neme" style="gen_a17_mix03_itemtag" pos="46.00, 121.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_enable="true" pivot_pos="171.00, 37.00, 0.00" visible="false" viewer_visible="false">
+			<text text="あいうえおかきくけこ" name="name" pos="170, 9, -0" font_size="25.00" align="center" color="53.00, 19.00, 0.00, 255.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="-3.00"/>
+			<text text="3/5" name="index" pos="171, 42, -0" font_size="20.00" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="cursor" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="left" style="gen_a17_mix03_itemtagvec" pos="4.00, 18.00, 0.00" rot="0.00, -0.00, 0.00"/>
+				<image name="right" style="gen_a17_mix03_itemtagvec" pos="305.00, 18.00, 0.00" rot="0.00, -0.00, 0.00" image_no="1"/>
+			</node>
+			<anim_ctrl name="name_in" viewer_key_assign="4">
+				<bind_node node="kettle_neme" anim="catalyst_name_in"/>
+			</anim_ctrl>
+		</image>
+		<node name="list_root" pos="65.00, 138.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<!--所持触媒数に応じてプログラム中でcatalyst_itemをコピーし、list_rootにぶら下げる-->
+			<image name="kettle_item" style="gen_a17_win02_w02" size_wh="315, 505" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+				<!--βに合わせてkettle_itemをサイズ調整、元は315,512-->
+				<image name="kettle_name" pos="30.00, -13.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_mix03_center_tag">
+					<text text="あいうえおかきくけこ" name="text" pos="126, 8, -0" align="center" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="-2.00" copy="TEXTCOLOR_BROWN"/>
+				</image>
+				<node name="cursor" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="directionkey_left" pos="38.00, 105.00, -0.00" rot="-0.00, -0.00, 90.01" scale="1.00, 1.00, 1.00" style="gen_a17_win01_directionkey_down" size_wh="36, 21"/>
+					<image name="directionkey_right" pos="270, 141, -0" rot="-0.00, -0.00, -90.01" scale="1.00, 1.00, 1.00" style="gen_a17_win01_directionkey_down"/>
+				</node>
+				<image name="itembg" style="gen_a17_item_info01_itembg01" pos="57, 27, -0" size_wh="221.00, 219.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="item" style="etc_a17_item_l" pos="33.00, 38.00, -0.00" size_wh="126.00, 126.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<image name="effect" pos="21, 258, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="273.00, 159.00, 0.00" visible="false" viewer_visible="true">
+					<image name="caption" style="gen_a17_item_info01_obi01" pos="3.00, -22.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1">
+						<image name="text" style="gen_a17_item_info01_text01" pos="19, 7, 0"/>
+					</image>
+					<node name="effect_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<text text="あいうえおかきくけこ" name="text_0" pos="23.00, 19.00, 0.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-1.50" copy="TEXTCOLOR_BROWN"/>
+						<text text="あいうえおかきくけこ" name="text_1" pos="23.00, 52.60, 0.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-1.50" copy="TEXTCOLOR_BROWN"/>
+						<text text="あいうえおかきくけこ" name="text_2" pos="23.00, 86.20, 0.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-1.50" copy="TEXTCOLOR_BROWN"/>
+						<text text="あいうえおかきくけこ" name="text_3" pos="23.00, 119.80, 0.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-1.50" copy="TEXTCOLOR_BROWN"/>
+					</node>
+					<node name="line" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="line_0" style="gen_a17_win01_line03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 7" pos="20.00, 44.00, -0.00"/>
+						<image name="line_1" style="gen_a17_win01_line03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 7" pos="20.00, 76.00, -0.00"/>
+						<image name="line_2" style="gen_a17_win01_line03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 7" pos="20.00, 110.00, -0.00"/>
+						<image name="line_3" style="gen_a17_win01_line03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 7" pos="20.00, 143.00, -0.00"/>
+					</node>
+				</image>
+				<image name="description" pos="21.00, 235.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_fram01" size_wh="273.00, 228.00, 0.00" viewer_visible="true" visible="false">
+					<node name="line" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="line_0" style="gen_a17_win01_line03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 7" pos="20, 37, -0"/>
+						<image name="line_1" style="gen_a17_win01_line03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 7" pos="20.00, 71.60, -0.00"/>
+						<image name="line_2" style="gen_a17_win01_line03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 7" pos="20.00, 106.20, -0.00"/>
+						<image name="line_3" style="gen_a17_win01_line03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 7" pos="20.00, 140.80, -0.00"/>
+						<image name="line_4" style="gen_a17_win01_line03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 7" pos="20.00, 175.40, -0.00"/>
+						<image name="line_5" style="gen_a17_win01_line03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="231, 7" pos="20, 210, -0"/>
+					</node>
+					<text text="あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこ" name="text" copy="TEXTCOLOR_BROWN" pos="23.00, 12.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" line_char_length="10" line_space="10.50" word_space="-1.50"/>
+				</image>
+				<image name="page" style="gen_a17_item_info01_pagebg" pos="111, 464, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="1" name="index" color="125.00, 65.00, 54.00, 255.00" pos="42.00, 4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right" font_size="20.00"/>
+					<text text="/2" name="slash" color="125.00, 65.00, 54.00, 255.00" pos="43, 4, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left" font_size="20.00"/>
+				</image>
+				<anim_ctrl name="enter" viewer_key_assign="3">
+					<bind_node node="kettle_item" anim="catalyst_left_in"/>
+				</anim_ctrl>
+				<anim_ctrl name="left_in" viewer_key_assign="3">
+					<bind_node node="kettle_item" anim="catalyst_left_in"/>
+				</anim_ctrl>
+				<anim_ctrl name="right_in" viewer_key_assign="2">
+					<bind_node node="kettle_item" anim="catalyst_right_in"/>
+				</anim_ctrl>
+				<anim_ctrl name="move_left" viewer_key_assign="1">
+					<bind_node node="kettle_item" anim="catalyst_move_left"/>
+				</anim_ctrl>
+				<anim_ctrl name="move_right" viewer_key_assign="0">
+					<bind_node node="kettle_item" anim="catalyst_move_right"/>
+				</anim_ctrl>
+			</image>
+		</node>
+		<image name="effect_description" style="gen_a17_win02_w01" pos="957, 413, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" size_wh="314, 257" visible="false">
+			<node name="bonus">
+				<node name="panel_icon" pos="18, 111, -0" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 1.00">
+					<node name="panel_block_0">
+						<image name="panel" style="gen_a17_mix02_panel" pos="1.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="0.00, 0.00, 0.00, 224.00" pivot_pos="37.00, 37.00, 0.00" pivot_enable="true" size_wh="105.00, 105.00, 0.00"/>
+						<node name="frame" color="160.00, 130.00, 120.00, 255.00" pivot_pos="37.00, 37.00, 0.00" pivot_enable="true" pos="1.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+							<image name="tl" style="gen_a17_mix02_corner" pos="-1.00, -1.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+							<image name="tr" style="gen_a17_mix02_corner" viewer_visible="false" pos="105.00, -1.00, 0.00" rot="0.00, 0.00, 90.00" scale="1.00, 1.00, 1.00"/>
+							<image name="ul" style="gen_a17_mix02_corner" viewer_visible="false" pos="-1.00, 105.00, 0.00" rot="-0.00, -0.00, -90.01" scale="1.00, 1.00, 1.00"/>
+							<image name="ur" style="gen_a17_mix02_corner" pos="105.00, 105.00, 0.00" rot="-0.00, -0.00, -179.97" scale="1.00, 1.00, 1.00"/>
+						</node>
+						<node name="icon" pos="1.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+							<image name="icon_0" rot="180.00, 0.00, 104.05" scale="1.00, 1.00, 1.00" style="gen_a17_mix05_effect01" image_no="0" viewer_visible="false" pivot_pos="52.00, 52.00, 0.00" pivot_enable="true" alpha_blend="add"/>
+							<image name="icon_1" scale="1.00, 1.00, 1.00" style="gen_a17_mix05_effect01" image_no="0" pivot_pos="52.00, 52.00, 0.00" pivot_enable="true" alpha_blend="add"/>
+							<anim_ctrl name="anim_icon_0" loop="true" play="true">
+								<bind_node node="icon_0" anim="bonus_icon"/>
+							</anim_ctrl>
+							<anim_ctrl name="anim_icon_1" loop="true" play="true">
+								<bind_node node="icon_1" anim="bonus_icon_add"/>
+							</anim_ctrl>
+						</node>
+						<text text="Lv.1" name="level" pos="28.00, 74.00, -0.00" bold_size="2.00" bold_color="64.00, 64.00, 64.00, 255.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="22.00" visible="false" viewer_visible="true"/>
+					</node>
+					<node copy="panel_block_0" clone_child_tree="panel_block_0" name="panel_block_1" pos="113.00, 0.00, 0.00">
+						<command target_node="icon/icon_0" set_image_no="1"/>
+						<command target_node="icon/icon_1" set_image_no="1"/>
+						<command target_node="level" set_text="Lv.2"/>
+					</node>
+					<node copy="panel_block_0" clone_child_tree="panel_block_0" name="panel_block_2" pos="226.00, 0.00, 0.00">
+						<command target_node="icon/icon_0" set_image_no="2"/>
+						<command target_node="icon/icon_1" set_image_no="2"/>
+						<command target_node="level" set_text="Lv.3"/>
+					</node>
+				</node>
+				<text text="【质量】" name="caption_quality" copy="TEXTCOLOR_BROWN" pos="10, 10, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="面板加乘：" name="caption_quality2" copy="TEXTCOLOR_BROWN" pos="24, 43, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="＋20%" name="quality_text" copy="TEXTCOLOR_BROWN" pos="205, 43, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="【效果值】" name="caption_effect" copy="TEXTCOLOR_BROWN" pos="10, 76, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="effect_text" pos="0, -42, 0">
+					<text text="＋20%" name="effect_1" copy="TEXTCOLOR_BROWN" pos="62.00, 247.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center"/>
+					<text text="＋20%" name="effect_2" copy="TEXTCOLOR_BROWN" pos="153.00, 247.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center"/>
+					<text text="＋20%" name="effect_3" copy="TEXTCOLOR_BROWN" pos="243.00, 247.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center"/>
+				</node>
+			</node>
+			<anim_ctrl name="enter" viewer_key_assign="3" start_visible="true">
+				<bind_node node="effect_description" anim="anm_common_fade_in"/>
+			</anim_ctrl>
+		</image>
+	</node>
+</root>

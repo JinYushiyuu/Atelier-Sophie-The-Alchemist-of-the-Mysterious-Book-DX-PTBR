@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓アニメーション ***-->
+	<command load_anim="Saves/ui/a17_townmap/uia_a17_townmap.xml"/>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="true" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="tag" viewer_visible="true">
+			<node name="img" pos="-44.00, -9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="img_bg_disable" style="gen_a17_townmap01_tag" pos="40.00, 6.00, -0.00" image_no="1" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="img_bg_enable" style="gen_a17_townmap01_tag" pos="40.00, 6.00, -0.00" image_no="0" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="taglight" style="gen_a17_townmap01_taglight" pos="39.00, 5.00, -0.00" viewer_visible="false" visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<!--***↓小項目が出る場合に限り出す ***-->
+				<image name="next" pos="222, 14, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_townmap01_next"/>
+			</node>
+			<text text="工房" name="text_select" pos="99.00, 5.00, -0.00" bold_size="0.00" font_size="26.00" word_space="-1.00" color="175.00, 115.00, 0.00, 255.00" viewer_visible="false" visible="false" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="node_unselect" viewer_visible="false" pos="-44.00, -9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="工房" name="text_unselect" pos="143.00, 14.00, 0.00" bold_size="0.00" font_size="26.00" word_space="-1.00" color="78.00, 17.00, 16.00, 255.00" viewer_visible="false" visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center"/>
+				<text text="工房" name="text_disable" pos="143.00, 14.00, 0.00" bold_size="0.00" font_size="26.00" word_space="-1.00" color="49.00, 49.00, 47.00, 255.00" viewer_visible="false" visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center"/>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="false" visible="true" pos="0.00, 0.00, 0.00">
+		<image name="tm_bg_image" style="etc_a17_bg_townmap" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="false"/>
+		<image name="tagframebar" pos="22, 131, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_townmap01_tagframebar"/>
+		<!--***↓大項目 ***-->
+		<node name="node" pos="38.00, 211.00, 0.00">
+			<node name="node_inner" pos="-10.00, 0.00, 0.00">
+				<node copy="tag" clone_child_tree="tag" name="clone_tag" pos="50.00, 3.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="tag" clone_child_tree="tag" name="clone_tag_1" viewer_visible="false" pos="50.00, 42.57, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="tag" clone_child_tree="tag" name="clone_tag_2" pos="50.00, 82.14, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="tag" clone_child_tree="tag" name="clone_tag_3" pos="50.00, 121.71, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="tag" clone_child_tree="tag" name="clone_tag_4" pos="50.00, 161.29, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="tag" clone_child_tree="tag" name="clone_tag_5" pos="50.00, 200.86, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="tag" clone_child_tree="tag" name="clone_tag_6" pos="50.00, 240.43, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="tag" clone_child_tree="tag" name="clone_tag_7" pos="50.00, 280.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="tagframe01" pos="-0.00, -53.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_townmap01_tagfr01"/>
+				<image name="tagframe01_1" pos="-0.00, 310.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_townmap01_tagfr01" image_no="1"/>
+			</node>
+			<anim_ctrl name="anim_ctrl" viewer_key_assign="1">
+				<bind_node node="node" anim="anm_common_rotateY360" speed="5.00"/>
+			</anim_ctrl>
+		</node>
+		<!--***↓小項目4項目 ***-->
+		<node name="node_1" pos="73.00, 211.00, 0.00" visible="false" viewer_visible="false">
+			<image name="tagframebg" style="gen_a17_townmap01_tagframebg"/>
+			<text text="街道" name="text" pos="105.00, 9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="20.00" align="center" word_space="-4.00" color="255.00, 201.00, 142.00, 255.00" bold_size="2.00" bold_color="75.00, 39.00, 30.00, 255.00"/>
+			<node copy="tag" clone_child_tree="tag" name="clone_tag" pos="6.00, 43.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="tag" clone_child_tree="tag" name="clone_tag_1" viewer_visible="false" pos="6.00, 82.67, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="tag" clone_child_tree="tag" name="clone_tag_2" pos="6.00, 122.33, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="tag" clone_child_tree="tag" name="clone_tag_3" pos="6.00, 162.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="tagframe01" pos="-42.00, -53.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_townmap01_tagfr01"/>
+			<image name="tagframe01_1" pos="-42.00, 195.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_townmap01_tagfr02"/>
+		</node>
+	</node>
+</root>

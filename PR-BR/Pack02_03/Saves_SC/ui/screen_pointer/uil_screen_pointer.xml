@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="screen_pointer" pos="100.00, 100.00, 0.00">
+		<image name="screen_pointer_image" style="gen_a17_common02_csr01" pos="-58.00, -63.00, 0.00" flick_time="0.10"/>
+	</node>
+</root>

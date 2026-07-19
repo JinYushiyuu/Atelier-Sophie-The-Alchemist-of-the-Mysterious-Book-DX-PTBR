@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <LibraryMonster note="“有着噗嫩噗嫩身体的魔物。&lt;CR&gt;　……噗尼真的是哪里都有。”&lt;CR&gt;“是啊，虽然并不强大，&lt;CR&gt;　但群体出没时就得小心了。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryMonster note="“是绿色的噗尼。”&lt;CR&gt;“绿色是它的保护色吗？像是可以&lt;CR&gt;　那种藏在草丛里不会被发现……之类的？”&lt;CR&gt;“……我想它应该没有考虑这么多吧。”" icon0="3" icon1="0" icon2="-1" icon3="3" permit="true"/>
+    <LibraryMonster note="“红色的噗尼……为什么是红色的呢？”&lt;CR&gt;“攻击猎物时被血给溅到了吧……”&lt;CR&gt;“呀──！是这样吗！？呜～好可怕……”&lt;CR&gt;“别乱讲，只是种类不同而已。”" icon0="0" icon1="3" icon2="0" icon3="2" permit="true"/>
+    <LibraryMonster note="“金色的噗尼耶──！好少见──！&lt;CR&gt;　……抓到的话，是不是可以卖很多钱啊？”&lt;CR&gt;“嗯……就算它是金色的，也还是噗尼……&lt;CR&gt;　应该没有人会买吧。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryMonster note="“唔哇，黑漆漆的，看起来好不吉利。&lt;CR&gt;　……虽然只是个噗尼。”&lt;CR&gt;“是的，它的实力也不容小觑。&lt;CR&gt;　……虽然只是个噗尼。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryMonster note="“……噗尼噗尼？”&lt;CR&gt;“不，不对。是普尼普尼？才对。”&lt;CR&gt;“……是有哪里不同？”&lt;CR&gt;“我倒想问，是有哪里一样了？”" icon0="0" icon1="17" icon2="0" icon3="17" permit="true"/>
+    <LibraryMonster note="“呃……超、超级……？”&lt;CR&gt;“是噗尼的高阶品种。可说是噗尼&lt;CR&gt;　经过长时间演变进化后的样貌。&lt;CR&gt;　实力也是不容小觑的。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="“司令……？”&lt;CR&gt;“也就是‘提督’的意思。&lt;CR&gt;　应该是噗尼们的首领吧。”&lt;CR&gt;“……看起来没有很强的样子啊。”" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“飘浮的书……。跟普拉芙妲不同吗？”&lt;CR&gt;“喂！别拿来跟普拉芙妲相提并论！”&lt;CR&gt;“说得对，这样混为一谈，太令我痛心了。”&lt;CR&gt;“啊，喔……抱歉啊……”" icon0="3" icon1="0" icon2="17" icon3="3" permit="true"/>
+    <LibraryMonster note="“是飘浮在空中的书本魔物，&lt;CR&gt;　里面好像画了什么图画。”&lt;CR&gt;“啊，真的，是什么图画呢……”&lt;CR&gt;“说不定那幅画才是它的主体。”" icon0="0" icon1="-1" icon2="2" icon3="0" permit="true"/>
+    <LibraryMonster note="“嗯……有生命的魔法书啊……”&lt;CR&gt;“你在想什么吗？”&lt;CR&gt;“没什么，只是想既然存在有生命的魔法书，&lt;CR&gt;　那会不会也存在有生命的小说跟点心书？”" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“看来是本写有触犯禁忌&lt;CR&gt;　内容的书。”&lt;CR&gt;“咕嘟，像是惊人的赚钱方法之类的书吗……？”&lt;CR&gt;“……那个算是禁忌吗？”" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryMonster note="“这种书似乎会禁锢生者的灵魂，&lt;CR&gt;　然后刻印在自己的页面之中。”&lt;CR&gt;“虽然我很希望有一天能被写进书里，&lt;CR&gt;　但可不是以这种方式……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“一本世界百科全书&lt;CR&gt;　让书本变得有生命了。”&lt;CR&gt;“虽然读了这本书就能变成很厉害的&lt;CR&gt;　炼金术士……但感觉有点作弊，不喜欢这样。”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“妖、妖怪啊──！”&lt;CR&gt;“……虽然我知道你讨厌妖怪，&lt;CR&gt;　但有必要叫成这样吗？”&lt;CR&gt;“那当然！我绝对不要！妖怪绝对不行！”" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“血红色的鬼魂，好像对苏菲&lt;CR&gt;　跟摩妮卡更具攻击性……&lt;CR&gt;　它讨厌你们吗？”&lt;CR&gt;“我才不想被妖怪喜欢呢！”" icon0="3" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“戴着绅士帽的鬼魂。&lt;CR&gt;　不经意的小动作也很有绅士的感觉。”&lt;CR&gt;“……骗人的。它是想用绅士的态度蒙骗我，&lt;CR&gt;　之后再把我吃掉，绝对是这样！”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“操纵魔法的火焰燃烧人类的灵魂，&lt;CR&gt;　似乎是个危险的鬼魂。”&lt;CR&gt;“呜呜，是个不只会吓人的妖怪……&lt;CR&gt;　太难对付了吧……”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“噗哈哈哈哈！它的脸还真是莫名的有趣！&lt;CR&gt;　这样的话，应该就不可怕了吧？”&lt;CR&gt;“……不可以以貌取妖，妖怪这种东西，&lt;CR&gt;　绝对是有什么企图的！”" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“好像是死于非命的女性亡灵，&lt;CR&gt;　因为对人间余情未了，发狂后变成了魔物。”&lt;CR&gt;“唔唔……余情未了这一点可以理解……&lt;CR&gt;　但别发狂……冷静一点嘛……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“走路摇摇摆摆的，好可爱的植物。&lt;CR&gt;　奥斯卡也喜欢这种吧？”&lt;CR&gt;“不，苏菲，你别被骗了。&lt;CR&gt;　那可是装成植物模样的魔物啊。”" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryMonster note="“这是植物的魔物……对吧？”&lt;CR&gt;“是啊，要是感受到危机，&lt;CR&gt;　这个危险的家伙好像就会撒出毒花粉。”&lt;CR&gt;“是这样吗？……好险我没有摸它的头。”" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“颜色像是有剧毒的魔物……”&lt;CR&gt;“一定要小心&lt;CR&gt;　它吐出来的种子。&lt;CR&gt;　威力很大，被打到可不是开玩笑的。”" icon0="0" icon1="3" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="“总觉得这个魔物好香……”&lt;CR&gt;“小心点！闻了那个味道可是会产生幻觉，&lt;CR&gt;　被它种下种子的。”&lt;CR&gt;“种下种子！？唔哇，真是危险……”" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“……名字还真是吓人啊。”&lt;CR&gt;“它偶尔会发出很惊人的声音。&lt;CR&gt;　要是听了那个声音似乎就会发狂而死……”&lt;CR&gt;“啊，看来并不是只有名字吓人……”" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“唔哇，看起来一身黑又面无表情……&lt;CR&gt;　根本不知道它在想什么的恐怖魔物……”&lt;CR&gt;“别看它的眼睛，不知道为什么，&lt;CR&gt;　似乎会变得无法动弹啊。”" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryMonster note="“啊──！它好可爱！”&lt;CR&gt;“虽然可爱，但毕竟也是恶魔的伙伴，要多加注意。&lt;CR&gt;　不过也只是喜欢恶作剧，&lt;CR&gt;　爱找人麻烦而已……”" icon0="0" icon1="2" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="“是小恶魔的一种。它的爪上有毒，&lt;CR&gt;　据说就连大人也会被麻痹变得无法动弹。”&lt;CR&gt;“喔～这样啊……虽然可爱，&lt;CR&gt;　还是不要随便靠近。”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“顾名思义，是个年幼的恶魔。&lt;CR&gt;　这种幼小的恶魔似乎会听&lt;CR&gt;　成年恶魔的命令行动。”&lt;CR&gt;“长大后就不可爱了啊……”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“经常群体行动的一种小恶魔。&lt;CR&gt;　会集体攻击猎物，&lt;CR&gt;　无所不用其极，到处捣乱。”&lt;CR&gt;“那还真是没有礼貌……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“角卷卷的，看起来好可爱。”&lt;CR&gt;“据说那个角里蕴藏了强大的魔力。&lt;CR&gt;　似乎还能施放出跟恶魔&lt;CR&gt;　匹敌的魔法。”" icon0="0" icon1="2" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="“魔……王……？这个矮小的家伙吗？”&lt;CR&gt;“不可以以貌取魔，&lt;CR&gt;　虽然被封印起来，但也曾是个魔王。&lt;CR&gt;　可是具有无穷无尽的魔力。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="“这是鸟的魔物。不但会把田地弄乱，&lt;CR&gt;　还会袭击家畜，所以似乎很不受&lt;CR&gt;　庄稼人欢迎。”&lt;CR&gt;“这种鸟到田里来，一定会让人吓一跳吧。”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“一种大型鸟类。因其体型&lt;CR&gt;　跟样貌被称为鸟王。”&lt;CR&gt;“虽然有王的称号，但数量却很多……”&lt;CR&gt;“毕竟，就只是个别称而已。”" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryMonster note="“那个爪子好锐利啊……&lt;CR&gt;　要是被抓到的话，可能会很惨……”&lt;CR&gt;“据说它也会抓捕比自己还要大的猎物，&lt;CR&gt;　需要多加小心。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryMonster note="“这个鸟的名字好像人名。”&lt;CR&gt;“据说最先发现它的人就叫古斯塔夫……&lt;CR&gt;　……只不过在大家知道这种鸟的存在后，&lt;CR&gt;　他就因伤重身亡了。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="“唔哇──好大的鸟啊。”&lt;CR&gt;“嗯，比奥斯卡还要大上许多呢……”&lt;CR&gt;“只要挥动翅膀就能掀起一阵狂风，&lt;CR&gt;　得小心才行……”" icon0="3" icon1="0" icon2="3" icon3="-1" permit="true"/>
+    <LibraryMonster note="“这是受到空中悬月庇护的&lt;CR&gt;　巨大灵鸟。”&lt;CR&gt;“原来如此……的确是只如皎洁的月亮般&lt;CR&gt;　美丽的鸟……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“野兽的身体跟蛇的尾巴。&lt;CR&gt;　……到底哪个才是它的主体呢？”&lt;CR&gt;“这点虽然不清楚，但这两个部位会&lt;CR&gt;　一起发动攻击，的确很难对付。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryMonster note="“据说是因为&lt;CR&gt;　它因可以像雷电一样快速移动而得名。”&lt;CR&gt;“嗯……要是一直追着它看的话，&lt;CR&gt;　那速度可是快到令人头昏眼花……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“嗯……要是被那么大的牙齿咬到，&lt;CR&gt;　可不只是会身受重伤啊……”&lt;CR&gt;“它似乎有隐藏气息攻击猎物的习惯，&lt;CR&gt;　得小心它会突然出现……”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryMonster note="“跟其他的种类相比，这是只尾巴特别发达&lt;CR&gt;　的野兽。它的头部跟尾部好像&lt;CR&gt;　各自拥有独立的意志。”&lt;CR&gt;“这样不会打架吗？”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“沉默……是指哪里沉默啊？”&lt;CR&gt;“据说是因为猎物还没来不及&lt;CR&gt;　叫就被它解决掉了，它也因此而得名而。”&lt;CR&gt;“喔，原来不是说它自己很安静啊……”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“这又是只看起来很热的魔物……”&lt;CR&gt;“它的牙齿有着灼热的高温，&lt;CR&gt;　据说要是被咬上一口，伤口就会整个溃烂，&lt;CR&gt;　永远无法愈合。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="“这是一种栖息在水边的鱼。&lt;CR&gt;　好像十分温和，很少听说会袭击人类，&lt;CR&gt;　反而还会主动与人嬉戏。”&lt;CR&gt;“不过，光是会与人嬉戏这点就足以构成威胁了。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryMonster note="“这种鱼的特征是有只很大的角。&lt;CR&gt;　虽然能在水里敏捷游动，&lt;CR&gt;　但在陆地上移动速度较慢。”&lt;CR&gt;“真想把那只角拿来装饰工房……”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“仔～细看的话，会发现它的身体上&lt;CR&gt;　有着像星星的图案……”&lt;CR&gt;“是的，好像就是因为它游在水中时&lt;CR&gt;　很像夜空中的星星而命名。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryMonster note="“这是一种陆鱼亚种，习惯用大声吼叫引起冲击，&lt;CR&gt;　让猎物昏厥后再将其捕获&lt;CR&gt;　。”&lt;CR&gt;“也就是会发出耳鸣的噪音对吧……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“真难得，&lt;CR&gt;　据说这种魔物一生&lt;CR&gt;　几乎都在水中度过。”&lt;CR&gt;“……会到陆地上是因为做了坏事吗？”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“这是被称为水中霸者的魔物。&lt;CR&gt;　我记得好像传说它吃下&lt;CR&gt;　过一座小岛。”&lt;CR&gt;“吃下一座岛！？嗯……岛会好吃吗？”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“尸、尸骨会动！？”&lt;CR&gt;“我听说，这种魔物是彷徨的灵魂&lt;CR&gt;　附在死者身体上所产生的。”&lt;CR&gt;“这么说的话，也就是妖怪咯！？不要啊──！”" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“这是巫妖的伙伴。潜藏在生物的影子中，&lt;CR&gt;　会一点一点地吃掉生物的灵魂。&lt;CR&gt;　苏菲，你看你自己的影子里也……”&lt;CR&gt;“不要──！？我讨厌妖怪啊──！”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“据说，这个魔物负责在人死后&lt;CR&gt;　质询他生前的所作所为。”&lt;CR&gt;“如果要被这种妖怪问东问西，&lt;CR&gt;　那我绝对不要死！”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“这是巫妖的高阶品种。有非常高的智能，&lt;CR&gt;　据说还会使用魔法。”&lt;CR&gt;“它的脸好恐怖，要是突然跑出来，&lt;CR&gt;　我说不定会昏倒吧……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“既然是魔术师，就不是妖怪咯？”&lt;CR&gt;“不，据说是在巫妖当中特别擅长魔术，&lt;CR&gt;　所以才被这么称呼。”&lt;CR&gt;“会使用魔术的妖怪，真是太糟糕了……”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“会生出操纵死者之魂的巫妖，&lt;CR&gt;　被称为是巫妖之王。”&lt;CR&gt;“操纵灵魂……？难不成我死掉后，&lt;CR&gt;　也会变成巫妖吗？呜呜……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“恶魔……在魔物中智商非常高&lt;CR&gt;　并且是非常凶狠的种族……”&lt;CR&gt;“它的角跟爪子都很尖……&lt;CR&gt;　身体也很大，似乎具有强大的威力……”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“在好战的恶魔中，&lt;CR&gt;　是个难得不好战的种族。&lt;CR&gt;　甚至很少从地盘中出来。”&lt;CR&gt;“说不定是在保护什么东西吧……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“被称为地狱守门人的恶魔。&lt;CR&gt;　个性非常凶残，&lt;CR&gt;　会攻击所有看到的生物。”&lt;CR&gt;“那得小心别被看见才行……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“似乎是恶魔中拥有强大力量的个体。&lt;CR&gt;　不只力量强大，施放出来的&lt;CR&gt;　魔法也具有很强的攻击性也。”&lt;CR&gt;“就像是恶魔的国王吗？”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“是个光看就让人觉得很热的魔物……”&lt;CR&gt;“似乎是拥有自由操纵火焰能力的&lt;CR&gt;　恶魔，当然它的臂力威力强大，&lt;CR&gt;　对付时要非常小心。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="“会跟暴风雨一起出现的稀有恶魔。&lt;CR&gt;　它所到之处总是狂风四起的，&lt;CR&gt;　可谓所到之处寸草不生。”&lt;CR&gt;“得小心别被它吹飞了……”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“好大的龙……”&lt;CR&gt;“可说是称霸生态系的一种龙。&lt;CR&gt;　如果攻击性不够强大，可是会被它坚硬的鳞片挡掉。&lt;CR&gt;　拥有符合龙之名的力量。”　" icon0="0" icon1="2" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="“这种龙出现时，大地会被烈焰包围……&lt;CR&gt;　现在还有流传着这样的传说。”&lt;CR&gt;“是吗？这样难不成……&lt;CR&gt;　我们是这个世界的救世主吗？”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="“据传是个与太阳有着密切关系的龙，&lt;CR&gt;　会以光精灵使者的身份&lt;CR&gt;　将邪恶之人燃烧殆尽。”&lt;CR&gt;“……幸好我没做坏事。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“会跟同种的龙一起歼灭危害世界的恶源，&lt;CR&gt;　是种拥有强大威力的龙。&lt;CR&gt;　生命力之源来自月光。”&lt;CR&gt;“……咦？所以它其实是只性善的龙吗？”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“好美的女生。”&lt;CR&gt;“那可不是人类，苏菲。&lt;CR&gt;　那是被称为精灵的自然化身，&lt;CR&gt;　它好像是掌管风的精灵。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryMonster note="“掌管冰的精灵，它虽然有着美丽的外貌，&lt;CR&gt;　但却生性残酷，喜欢将生物冻结后&lt;CR&gt;　再夺走生命。”&lt;CR&gt;“呜……我不想冻死啊……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“主掌光的精灵，&lt;CR&gt;　所有精灵中的最高阶级，&lt;CR&gt;　也被称为掌管世界协调的存在。”&lt;CR&gt;“看起来的确很神圣的样子……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“魔王……也就是魔物们的国王吧。”&lt;CR&gt;“是的，似乎也名符其实&lt;CR&gt;　有着非常强大的力量。”&lt;CR&gt;“……噗尼们也是这个魔王的手下吗？”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryMonster note="“圣兽之王……啊，好了不起的名字。&lt;CR&gt;　不过，我这个超厉害的超级炼金术士，&lt;CR&gt;　才不会输给圣兽王哦！”&lt;CR&gt;“……苏菲，你可以不用逞强。”" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryMonster note="“因为受到魔物的诅咒，&lt;CR&gt;　他的手臂变成了异形……”&lt;CR&gt;“好像也没有理性……&lt;CR&gt;　魔物的诅咒还真是可怕……”" icon0="4" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="身体被炼金术力量侵蚀的努亚达。是朱利欧不断追寻的杀父仇人，但努亚达自己也失去了很多东西，最后完全仰赖炼金术。" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="“劳尔德，他是个难得一见的炼金术士。&lt;CR&gt;　就算要说他是天才也不为过。”&lt;CR&gt;“竟、竟然连普拉芙妲都这么说……&lt;CR&gt;　看来真的很厉害……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="连同囊括的炼金术知识，将本身的存在炼金术化的“某种东西”。可说是已经不具有任何意义，仅有不断变化的这个事实，就是此存在的一切。" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★迷你史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★零式史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★极微史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★巨大史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★炮弹史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★暗影史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★负载史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★恐龙史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★搬运史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★守门史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★边陲怪物史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★沙魔像史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★防卫史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★将军史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★武将史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★首领史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★棱光史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★沉默使者史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★猛袭型史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★守备型史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★战舰型史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★调解者史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★龙骑兵暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★原型-０暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★原型-1暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★原型-2暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★飞龙史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★拟形箱史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★伪装箱史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★玩沙盒史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★模仿箱史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★黄昏之函史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★奇异方块史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★漂浮飞鱼史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★沙滩巡弋史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★祖母绿鱼史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★送葬凶鱼史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★栖沙史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★恶魔鱼史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★护卫母舰史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★愤怒守卫史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★石巨人史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★大地巨人史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★殖民者史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★多重史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★聚集史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★区域史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★狂热史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★妄想史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★幼小史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★盗贼史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★沉默史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★杀手史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★屠杀机器史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★抹杀史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★大盗贼史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★统治者史拉格暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="“也有言传其智慧更胜于
+曾被歌颂为世间万物无所不知的贤者。”
+“哦，与普拉芙妲比，谁更聪明呢？
+嗯，肯定是普拉芙妲啦，对吧！”
+" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryMonster note="★备用字段02暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段03暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段04暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段05暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段06暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段07暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段08暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段09暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段10暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段11暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段12暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段13暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段14暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段15暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段16暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段17暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段18暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段19暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段20暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段21暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段22暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段23暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段24暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段25暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段26暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段27暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段28暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段29暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段30暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段31暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段32暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段33暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段34暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段35暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段36暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段37暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段38暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段39暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段40暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段41暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段42暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段43暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段44暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryMonster note="★备用字段45暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+</Root>

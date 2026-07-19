@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--戦闘のスキルメニューの行のひな形-->
+	<node name="lf_skill_select" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<text text="技能选择窗口" name="name" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="2.00, 0.00, 0.00" visible="true" copy="TEXTCOLOR_BEIGE"/>
+		<text text="999" name="count" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="315.00, 0.00, 0.00" word_space="1.00" align="right" font_color="53.00, 19.00, 0.00, 255.00" menu_item_color_cancel="true"/>
+	</node>
+</root>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="top">
+		<node name="node" pos="545.00, 299.00, 0.00">
+			<image name="image" style="common_white_image" size_wh="400.00, 31.00, 0.00" color="128.00, 0.00, 0.00, 255.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" stencil_mask="create"/>
+			<text_slider slide_area_width="400.00" slide_x_offset="0.00" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="new_text0123456789+-/%12335555" name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" stencil_mask="masked"/>
+			</text_slider>
+		</node>
+	</node>
+</root>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<!--***↓アニメーション ***-->
+	<command load_anim="/Saves/ui/a17_field/uia_a17_fm_advertise.xml"/>
+	<!-- ツイート -->
+	<node name="fm_tweet" viewer_visible="true" visible="false" pos="-796, 118, 0">
+		<image name="tweet_back" style="gen_a17_field04_tweet" pos="873, 471, -0" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="353, 78">
+			<image name="photoback" style="gen_a17_field04_photoback" pos="-58, 27, -0" viewer_visible="false" rot="0.00, 0.00, -9.00" scale="1.00, 1.00, 1.00"/>
+			<image name="face_icon" style="gen_a17_field04_ph01" pos="-53, 32, -0" viewer_visible="false" rot="0.00, 0.00, -9.00" scale="1.00, 1.00, 1.00"/>
+			<text text="あいうえおかきくけこあいうえおあいうえおかきくけこあいうえお" name="tweet_text" pos="31, 7, 0" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="53.00, 19.00, 0.00, 255.00" line_char_length="15" font_size="20.00" line_space="10.00" viewer_visible="false"/>
+		</image>
+		<!-- アニメーション -->
+		<anim_ctrl name="anim_ctrl_open" play="false" loop="false" viewer_key_assign="1">
+			<bind_node node="fm_tweet" anim="fm_anim_tweet_enter"/>
+		</anim_ctrl>
+		<anim_ctrl name="anim_ctrl_close" play="false" loop="false" viewer_key_assign="2">
+			<bind_node node="fm_tweet" anim="fm_anim_tweet_enter" reverse="true"/>
+		</anim_ctrl>
+		<anim_ctrl name="anim_ctrl_up" loop="false" play="false" viewer_key_assign="4">
+			<bind_node anim="fm_anim_tweet_up" node="fm_tweet" reverse="false"/>
+		</anim_ctrl>
+	</node>
+	<node name="fm_tweet_1" viewer_visible="true" visible="false" pos="-799, 35, 0">
+		<image name="tweet_back" style="gen_a17_field04_tweet" pos="873, 471, -0" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="296, 54">
+			<image name="photoback" style="gen_a17_field04_photoback" pos="-58, 27, -0" viewer_visible="false" rot="0.00, 0.00, -9.00" scale="1.00, 1.00, 1.00"/>
+			<image name="face_icon" style="gen_a17_field04_ph01" pos="-53, 32, -0" viewer_visible="false" rot="0.00, 0.00, -9.00" scale="1.00, 1.00, 1.00"/>
+			<text text="あいうえおかきくけこあい" name="tweet_text" pos="31.00, 9.00, 0.00" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="53.00, 19.00, 0.00, 255.00" line_char_length="15" font_size="20.00" line_space="10.00" viewer_visible="false"/>
+		</image>
+		<!-- アニメーション -->
+	</node>
+	<!-- ログ -->
+	<node name="fm_marquee" viewer_visible="true" visible="false" pos="0.00, 0.00, 0.00">
+		<image name="back" style="gen_a17_common01_help" pos="158.00, 18.00, 0.00" size_wh="1127.00, 40.00, 0.00">
+			<anim_ctrl name="anim_fade" viewer_key_assign="4">
+				<bind_node anim="anm_common_fade_in" node="back"/>
+			</anim_ctrl>
+		</image>
+		<text name="log" pos="400.00, 21.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" text="あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこ" align="left"/>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<!-- マップチェンジ情報 -->
+	<node name="fm_guide" viewer_visible="true" visible="false" pos="419.00, 70.00, 0.00">
+		<image name="image_6" style="gen_a17_field04_mapframe" pos="0.00, 0.00, 0.00" viewer_visible="false"/>
+		<text text="あいうえおかきくけこさしすせそ" name="text_3" pos="239, 11, 0" align="center" color="246.00, 229.00, 201.00, 255.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</node>
+	<!--0812_現在地追加-->
+	<node name="now_map_name" pos="964.00, 602.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false">
+		<image name="map_neme_bg" style="gen_a17_worldmap01_nowarea" pos="-6, -1, 0"/>
+		<text name="map_name_text" color="229.00, 223.00, 183.00, 255.00" text="あいうえおかきくけこ" pos="167.00, 14.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="-1.00" align="center"/>
+	</node>
+	<!--0812_レシピ発想追加-->
+	<node name="progress_notice" pos="18.00, 261.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+		<image name="bg" style="gen_a17_win01_w01" pos="-49, -65, 0" size_wh="347, 135"/>
+		<image name="gauge_bg" style="gen_a17_main_menu01_gauge_bg">
+			<image name="gauge_main" style="gen_a17_main_menu01_gauge01" pos="9.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="234.00, 29.00, 0.00"/>
+			<image name="gauge_frame" style="gen_a17_main_menu01_gauge_f" pos="-13.00, -16.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</image>
+		<text text="あいうえおかきくけこ" name="name" pos="135.00, -38.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" align="center"/>
+		<anim_ctrl name="get_in_notice" viewer_key_assign="1">
+			<bind_node node="." anim="slide_in_scenario_recipe" start_visible="true"/>
+		</anim_ctrl>
+	</node>
+</root>

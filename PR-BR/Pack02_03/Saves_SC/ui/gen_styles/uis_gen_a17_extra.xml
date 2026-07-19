@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="gen_a17_extra01_icon01">
+		<image name="gen_a17_extra01_icon01__xLIST01" texture="ui/a17_extra.g1t" texture_index="0" uvwh="240,0,64,48"/>
+		<image name="gen_a17_extra01_icon01__xLIST02" texture="ui/a17_extra.g1t" texture_index="0" uvwh="304,0,64,48"/>
+	</image_list>
+	<image name="gen_a17_extra01_text01" texture="ui/a17_extra.g1t" texture_index="0" uvwh="0,0,240,48"/>
+</root>

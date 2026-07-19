@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="gen_a17_w_shop01_count">
+		<image name="gen_a17_w_shop01_count__xLIST01" texture="ui/a17_w_shop.g1t" texture_index="0" uvwh="436,0,64,64"/>
+		<image name="gen_a17_w_shop01_count__xLIST02" texture="ui/a17_w_shop.g1t" texture_index="0" uvwh="436,0,64,64"/>
+	</image_list>
+	<image name="gen_a17_w_shop01_countframe" texture="ui/a17_w_shop.g1t" texture_index="0" uvwh="352,0,80,80"/>
+	<image_list name="gen_a17_w_shop01_cursor">
+		<image name="gen_a17_w_shop01_cursor__xLIST01" texture="ui/a17_w_shop.g1t" texture_index="0" uvwh="0,0,128,240"/>
+		<image name="gen_a17_w_shop01_cursor__xLIST02" texture="ui/a17_w_shop.g1t" texture_index="0" uvwh="-2,0,128,240"/>
+		<image name="gen_a17_w_shop01_cursor__xLIST03" texture="ui/a17_w_shop.g1t" texture_index="0" uvwh="0,0,128,240"/>
+		<image name="gen_a17_w_shop01_cursor__xLIST04" texture="ui/a17_w_shop.g1t" texture_index="0" uvwh="2,0,128,240"/>
+	</image_list>
+	<image_list name="gen_a17_w_shop01_text">
+		<image name="gen_a17_w_shop01_text__xLIST01" texture="ui/a17_w_shop.g1t" texture_index="0" uvwh="144,0,192,48"/>
+		<image name="gen_a17_w_shop01_text__xLIST02" texture="ui/a17_w_shop.g1t" texture_index="0" uvwh="144,48,192,48"/>
+	</image_list>
+</root>

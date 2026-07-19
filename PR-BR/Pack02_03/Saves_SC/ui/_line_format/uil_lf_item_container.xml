@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--アイテムコンテナメニューの行のひな形-->
+	<node name="lf_item_container">
+		<image style="gen_common01_conditionicon" name="mix_mat_onoff" image_no="0" pos="4.00, -5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true"/>
+		<image name="new_icon" style="gen_common01_new" pos="-10.00, -10.00, 0.00"/>
+		<text name="item_name" text="アイテム名あいうえお" font_size="24.00" copy="TEXTCOLOR_BROWN" pos="35.00, 0.00, 0.00"/>
+		<text text="99+" name="item_count" pos="350.00, 8.00, 0.00" font="NUMBER01_24PX" align="right"/>
+		<image name="disable_line" style="gen_common01_condition" pos="33.00, 2.00, 0.00" visible="true"/>
+	</node>
+</root>

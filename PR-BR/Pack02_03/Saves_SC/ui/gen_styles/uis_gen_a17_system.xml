@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="gen_a17_system01_dk_l">
+		<image name="gen_a17_system01_dk_l__xLIST01" texture="ui/a17_system.g1t" texture_index="0" uvwh="386,151,32,48"/>
+		<image name="gen_a17_system01_dk_l__xLIST02" texture="ui/a17_system.g1t" texture_index="0" uvwh="384,151,32,48"/>
+		<image name="gen_a17_system01_dk_l__xLIST03" texture="ui/a17_system.g1t" texture_index="0" uvwh="388,151,32,48"/>
+	</image_list>
+	<image_list name="gen_a17_system01_dk_r">
+		<image name="gen_a17_system01_dk_r__xLIST01" texture="ui/a17_system.g1t" texture_index="0" uvwh="386,199,32,48"/>
+		<image name="gen_a17_system01_dk_r__xLIST02" texture="ui/a17_system.g1t" texture_index="0" uvwh="388,199,32,48"/>
+		<image name="gen_a17_system01_dk_r__xLIST03" texture="ui/a17_system.g1t" texture_index="0" uvwh="384,199,32,48"/>
+	</image_list>
+	<image name="gen_a17_system01_gage" texture="ui/a17_system.g1t" texture_index="0" uvwh="0,0,304,32"/>
+	<image name="gen_a17_system01_gagebg" texture="ui/a17_system.g1t" texture_index="0" uvwh="0,35,320,48"/>
+	<image name="gen_a17_system01_gageframe" texture="ui/a17_system.g1t" texture_index="0" uvwh="320,0,400,80"/>
+	<image name="gen_a17_system01_gagester" texture="ui/a17_system.g1t" texture_index="0" uvwh="720,0,48,48"/>
+	<image name="gen_a17_system01_note" texture="ui/a17_system.g1t" texture_index="0" uvwh="432,151,48,64"/>
+	<image_list name="gen_a17_system01_off">
+		<image name="gen_a17_system01_off__xLIST01" texture="ui/a17_system.g1t" texture_index="0" uvwh="0,151,128,64"/>
+		<image name="gen_a17_system01_off__xLIST02" texture="ui/a17_system.g1t" texture_index="0" uvwh="128,151,128,64"/>
+		<image name="gen_a17_system01_off__xLIST03" texture="ui/a17_system.g1t" texture_index="0" uvwh="256,151,128,64"/>
+	</image_list>
+	<image_list name="gen_a17_system01_on">
+		<image name="gen_a17_system01_on__xLIST01" texture="ui/a17_system.g1t" texture_index="0" uvwh="0,215,128,64"/>
+		<image name="gen_a17_system01_on__xLIST02" texture="ui/a17_system.g1t" texture_index="0" uvwh="128,215,128,64"/>
+		<image name="gen_a17_system01_on__xLIST03" texture="ui/a17_system.g1t" texture_index="0" uvwh="256,215,128,64"/>
+	</image_list>
+	<image name="gen_a17_system01_tabbg" texture="ui/a17_system.g1t" texture_index="0" uvwh="0,86,512,64"/>
+	<image_list name="gen_a17_system01_text02">
+		<image name="gen_a17_system01_text02__xLIST01" texture="ui/a17_system.g1t" texture_index="0" uvwh="512,86,256,48"/>
+		<image name="gen_a17_system01_text02__xLIST02" texture="ui/a17_system.g1t" texture_index="0" uvwh="512,134,256,48"/>
+		<image name="gen_a17_system01_text02__xLIST03" texture="ui/a17_system.g1t" texture_index="0" uvwh="512,182,256,48"/>
+		<image name="gen_a17_system01_text02__xLIST04" texture="ui/a17_system.g1t" texture_index="0" uvwh="512,230,256,48"/>
+	</image_list>
+</root>

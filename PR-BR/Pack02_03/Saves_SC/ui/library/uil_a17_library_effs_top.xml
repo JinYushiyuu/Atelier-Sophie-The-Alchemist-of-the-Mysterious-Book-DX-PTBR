@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓アニメーションxmlの読み込み-->
+		<command load_anim="Saves/ui/uia_common.xml"/>
+		<command load_anim="Saves/ui/library/uia_library.xml"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="Root" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+		<node name="node_menus" pos="118, 278, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<menu name="menu_top" style="common_menu_atex_select" pos="-0.00, 2.00, -0.00" disp_scroll_bar="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="效果" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="特性" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</menu>
+			<node name="node_lines" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="menuline01_1" style="gen_a17_library01_menuline01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_2" style="gen_a17_library01_menuline01" pos="0.00, 58.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+		<node name="node_right_2">
+			<image name="bg01" style="gen_a17_library05_bg01" pos="684.00, 153.00, -0.00" size_wh="545, 516" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="node_hl" viewer_visible="true" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<!--***↓効果 ***-->
+				<image name="Entry_2" pos="881.00, 591.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_library04_hl" size_wh="123, 80"/>
+			</node>
+		</node>
+	</node>
+	<!--***↓アニメーション ***-->
+	<anim_ctrl name="Anim_Enter_SlideFade" play="false" loop="false" reverse="false" viewer_key_assign="1">
+		<bind_node node="Root" anim="library_info_fade_in"/>
+		<bind_node node="Root" anim="library_slide_left"/>
+	</anim_ctrl>
+	<anim_ctrl name="Anim_Exit_SlideFade" play="false" loop="false" reverse="true" viewer_key_assign="2">
+		<bind_node node="Root" anim="library_info_fade_in"/>
+		<bind_node node="Root" anim="library_slide_left"/>
+	</anim_ctrl>
+	<anim_ctrl name="Anim_Enter_FadeOnly" play="false" loop="false" reverse="false" viewer_key_assign="3">
+		<bind_node node="Root" anim="library_info_fade_in"/>
+	</anim_ctrl>
+	<anim_ctrl name="Anim_Exit_FadeOnly" play="false" loop="false" reverse="true" viewer_key_assign="4">
+		<bind_node node="Root" anim="library_info_fade_in"/>
+	</anim_ctrl>
+</root>

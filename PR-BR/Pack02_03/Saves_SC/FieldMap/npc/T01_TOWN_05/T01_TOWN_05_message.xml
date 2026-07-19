@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_05_message message_data="QC01_MON_140_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="3955" message1="啊～啊～啊～啊～啊～"/>
+    <T01_TOWN_05_message message_data="QC01_MON_320_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="3955" message1="啊～啊～啊～啊～啊～"/>
+    <T01_TOWN_05_message message_data="QC02_OSK_080_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="哦，有这种事呀？"/>
+    <T01_TOWN_05_message message_data="QC02_OSK_330_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="要健健康康地长大哦。"/>
+    <T01_TOWN_05_message message_data="QC03_JUL_020_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="4624" message1="呼～……"/>
+    <T01_TOWN_05_message message_data="QC11_ELI_030_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11706" message1="差不多该走了。"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_00" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="11809" message1="要来玩什么呢……"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_01" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="-1" message1="……"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_10" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="11809" message1="大家一到晚上&lt;CR&gt;就会回家了……" next_message_tag="T01_TOWN_05_NPC27A_11"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_11" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="-1" message1="所以没什么人&lt;CR&gt;会陪我一起玩……"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_20" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="11809" message1="有群小孩从很久以前&lt;CR&gt;就跟我感情还不错……" next_message_tag="T01_TOWN_05_NPC27A_21"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_21" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="-1" message1="可是那些小孩&lt;CR&gt;好像不会长大呢。"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_30" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="11809" message1="他们之所以不回家，&lt;CR&gt;听说是因为已经无家可回了。" next_message_tag="T01_TOWN_05_NPC27A_31"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_31" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="-1" message1="真想设法&lt;CR&gt;让他们回去呢。"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_40" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="11809" message1="是因为我在教会祈祷，&lt;CR&gt;希望大家都能顺利回到家吗……" next_message_tag="T01_TOWN_05_NPC27A_41"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_41" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="-1" message1="大家好像都顺利回到家了。&lt;CR&gt;……希望还能再见面呢。"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_SP_00" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="11809" message1="失去家的那些小孩&lt;CR&gt;有个特征哦。就是啊……" next_message_tag="T01_TOWN_05_NPC27A_SP_01"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_SP_01" chara_tag="NPC27A" name_tag="NPC27A_02" voice_no1="-1" message1="…………" next_message_tag="T01_TOWN_05_NPC27A_SP_02"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC27A_SP_02" chara_tag="NPC27A" voice_no1="-1" message1="&lt;CLGR&gt;请教了&lt;CR&gt;死灵相关的事。&lt;CLNR&gt;"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC25A_00" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="-1" message1="我在收集钓鱼用的钓饵。" next_message_tag="T01_TOWN_05_NPC25A_01"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC25A_01" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="-1" message1="有些东西只有在晚上&lt;CR&gt;才采集得到哦。"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC25A_10" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="-1" message1="我在收集钓鱼用的钓饵。" next_message_tag="T01_TOWN_05_NPC25A_11"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC25A_11" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="-1" message1="我想钓到好东西～&lt;CR&gt;所以钓饵也要用好的啊。"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC25A_20" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="-1" message1="我有听到传闻说这里&lt;CR&gt;可以采集到不错的钓饵……" next_message_tag="T01_TOWN_05_NPC25A_21"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC25A_21" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="-1" message1="确实就跟传闻说的一样……&lt;CR&gt;要是没先听过的话，&lt;CR&gt;当然就不会知道啦～"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC26B_00" chara_tag="NPC26B" name_tag="NPC26B_02" voice_no1="11808" message1="我最近开始养狗了，&lt;CR&gt;可是它完全不亲人呢。" next_message_tag="T01_TOWN_05_NPC26B_01"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC26B_01" chara_tag="NPC26B" name_tag="NPC26B_02" voice_no1="-1" message1="喂～我要倒食物给你了，&lt;CR&gt;你快出来～" next_message_tag="T01_TOWN_05_NPC26B_02"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC26B_02" chara_tag="E3D_COMMON_CHARA_DUMMY_01" name_tag="DOG" voice_no1="11752" message1="汪、汪！"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC26B_10" chara_tag="NPC26B" name_tag="NPC26B_02" voice_no1="11808" message1="我一直觉得我家的狗&lt;CR&gt;不怎么亲近我，不过……" next_message_tag="T01_TOWN_05_NPC26B_11"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC26B_11" chara_tag="NPC26B" name_tag="NPC26B_02" voice_no1="-1" message1="看来这家伙&lt;CR&gt;好像很喜欢这个地方。" next_message_tag="T01_TOWN_05_NPC26B_12"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC26B_12" chara_tag="E3D_COMMON_CHARA_DUMMY_01" name_tag="DOG" voice_no1="11818" message1="汪唔～……"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC26B_20" chara_tag="NPC26B" name_tag="NPC26B_02" voice_no1="11808" message1="带它出来散步就会立刻跑来这里呢。&lt;CR&gt;轻松归轻松，心情却有点复杂……"/>
+    <T01_TOWN_05_message message_data="T01_TOWN_05_NPC26B_21" chara_tag="E3D_COMMON_CHARA_DUMMY_01" name_tag="DOG" voice_no1="11785" message1="哈哈哈！"/>
+</Root>

@@ -1,0 +1,987 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <LibraryItem note="“这个草……到底哪里有‘魔法’？”&lt;CR&gt;“嗯～印象中好像听人说是因为它能做成&lt;CR&gt;　很多种药……”&lt;CR&gt;“原来如此，也就是泛用性这点像魔法吧。”" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“又蓝又漂亮的草。”&lt;CR&gt;“是啊，这也是香草的一种。&lt;CR&gt;　里面含有很多水分，所以在干燥地区&lt;CR&gt;　被视为重要的水分来源。”" icon0="0" icon1="3" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“颜色可疑，一看就知道是毒……”&lt;CR&gt;“不能光看外观就判断。别看它这样，&lt;CR&gt;　其实毒性并没有那么强。”&lt;CR&gt;“还是有毒嘛！”" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这草会发出微微光芒，很不可思议。”&lt;CR&gt;“是啊。这种草相当稀有，只有极少数&lt;CR&gt;　地方才会生长。”&lt;CR&gt;“晚上看一定会很漂亮吧。”" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“有着夕阳般颜色的草。”&lt;CR&gt;“是啊。这种草容易燃烧，&lt;CR&gt;　常被当成燃料使用。”&lt;CR&gt;“竟、竟然燃烧植物，你疯了吗！”" icon0="0" icon1="17" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“是某种植物的藤蔓。据说只要五天时间&lt;CR&gt;　就能从种子长成藤蔓，&lt;CR&gt;　是一种生长力相当高的植物。”&lt;CR&gt;“……之所以蜿蜒生长也是因为这样。”
+" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“毛蓬蓬的～”&lt;CR&gt;“这是生长在山岳地带的一种棉花，就算没有水&lt;CR&gt;　也能生长。特征就是从中采集到&lt;CR&gt;　的纤维比一般的棉花多。”
+" icon0="0" icon1="3" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“唔哇，到处都是青苔，总觉得很脏。”&lt;CR&gt;“说那什么话！就算变成这样，这家伙&lt;CR&gt;　还是活着的！”&lt;CR&gt;“啊，那个～……对不起……？”" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是从森林树木上砍伐下来的东西。&lt;CR&gt;　因为有许多用途，在城镇也经常看到。”&lt;CR&gt;“有时砍下的树木过大，光是要放进釜里&lt;CR&gt;　就费了一番工夫……”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是只有部分地区才会生长的苔藓吧。&lt;CR&gt;　似乎是喜湿植物。”&lt;CR&gt;“哦，没想到你这么熟悉苔藓。”&lt;CR&gt;“苔藓也是一种很不错的植物吧！”" icon0="3" icon1="-1" icon2="0" icon3="3" permit="true"/>
+    <LibraryItem note="“是一种水中成长的植物。虽然没有真正&lt;CR&gt;　看到过，但好像也能在海中生长。”&lt;CR&gt;“哦，海啊……我也没看过海。&lt;CR&gt;　真想去看看。”" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是在高山上，一般植物很难生长，&lt;CR&gt;　独自生长的植物。”&lt;CR&gt;“我好像在结婚典礼这样的地方看过。&lt;CR&gt;　是因为外观很可爱吗？”
+" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是一种稀有的花朵，只要阳光照耀过一次，就无法开花了&lt;CR&gt;　。”&lt;CR&gt;“居然会讨厌太阳，为什么呢？&lt;CR&gt;　是以前曾发生过什么事吗？”" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这种花常用在难度较高的调合中 &lt;CR&gt;　，能够让同时加入的素材力量&lt;CR&gt;　活性化的功用。”&lt;CR&gt;“这个应该非常稀有吧……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“嗯～感觉很不可思议的花。”&lt;CR&gt;“这是一夜花的突变种。话虽如此，&lt;CR&gt;　两者在成分等方面有很大差异，&lt;CR&gt;　就算说是完全相反也不为过。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“并不是那么稀有的矿石。&lt;CR&gt;　不过常用在各种东西上，&lt;CR&gt;　相当方便就是了。”&lt;CR&gt;“记得小时候经常会捡回来～”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“是黄色的矿石。”&lt;CR&gt;“一碰撞就会发出巨大的声响。&lt;CR&gt;　当心不要在采集时不小心踩到，&lt;CR&gt;　否则就会被魔物发现。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“总之就是非～常硬的矿石吧。如果不谨慎&lt;CR&gt;　使用，可是会受伤的。”&lt;CR&gt;“是好几种矿石在特定环境下凝结成的&lt;CR&gt;　产物，相当贵重的。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“火炎石？”&lt;CR&gt;“不对，是火岩石。据说最初发现的人&lt;CR&gt;　叫火岩，所以才会这么命名。不过，&lt;CR&gt;　似乎有潜藏着火的力量。”" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“唔哇，好冰！”&lt;CR&gt;“小心点，这是像冰一样凉的矿石，&lt;CR&gt;　直接用手碰到可是会冻伤的。”
+" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“是矿石的一种。也有人说是生物的&lt;CR&gt;　灵魂经过长时间后石化的产物。”&lt;CR&gt;“是哦……如果那是真的，要是不谨慎使用，&lt;CR&gt;　感觉好像会受到惩罚……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“唔哇，好黑的块状物。”&lt;CR&gt;“苏菲，请务必保管在阴冷的地方。&lt;CR&gt;　在常温下有时会突然起火。”&lt;CR&gt;“是这样吗！？还好没有发生火灾……”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“明明就没有人做，却突然出现的土丸子，&lt;CR&gt;　所以也有人说这是妖精做出来的东西。”&lt;CR&gt;“以前在摩妮卡家门前的是我放的。”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是具有黏性的土。虽然含有少许水分，&lt;CR&gt;　但只要用手揉捏、延伸，也可以随意&lt;CR&gt;　加工。”&lt;CR&gt;“……方便是方便，但很臭。”
+" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“虽然很像湖底泥，但在分析过成分后发现&lt;CR&gt;　似乎是海底泥。”&lt;CR&gt;“是哦，明明就没有海，真不可思议……&lt;CR&gt;　这一带曾经也是海吗？”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这种古老石板年代已经很久远，&lt;CR&gt;　不清楚来自哪个年代。上面到底写着什么……”&lt;CR&gt;“……是啊，我想还是不要知道会比较好一点。”&lt;CR&gt;“到、到底写了些什么啊！？”" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="“碎得四分五裂……这还能用吗？”&lt;CR&gt;“嗯，反正大型素材在放进釜里前也要&lt;CR&gt;　拆成小块……这倒是省得自己再去弄碎，&lt;CR&gt;　很轻松了。”" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是……建筑物的柱子吗？”&lt;CR&gt;“是的，是从散布在这一带的遗迹中采集到的&lt;CR&gt;　石柱。”&lt;CR&gt;“……这附近以前发生过什么事吗？”" icon0="2" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“感觉很神秘的材料。”&lt;CR&gt;“是啊。虽然材质之类的不明，但看起来&lt;CR&gt;　似乎具有惊人的热量。”&lt;CR&gt;“毕竟还在冒烟嘛。要小心别被烫伤了。”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是一种非常耐热，又像纤维一般的矿石。&lt;CR&gt;　因具有耐热性，常会用到。”&lt;CR&gt;“由于纤维很细，一旦加工失败&lt;CR&gt;　就会碎裂，四散开来。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“是一种很漂亮的黑水晶。”&lt;CR&gt;“是的，有一种说法是只有在晚上才能&lt;CR&gt;　采集到这种梦幻水晶。”&lt;CR&gt;“白天都跑哪去了……”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是某个宝石的原石。只要经仔细磨制，&lt;CR&gt;　应该也是可用作装饰品的&lt;CR&gt;　美丽宝石吧。”&lt;CR&gt;“好～下次就来偷偷磨试试看……！”
+" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是银色的结晶。形状看起来就像许多针&lt;CR&gt;　集中在一起一样。”&lt;CR&gt;“由于实际上非常易碎，要小心避免发生碰撞。&lt;CR&gt;　要是不小心掉下去，可就什么都不剩了。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“是呈现透彻蓝色的矿石。&lt;CR&gt;　据说是精灵持有的魔力&lt;CR&gt;　实体化后的产物。”&lt;CR&gt;“一直盯着看感觉就像快被吸进去一样。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“从名字上看，这种鸟的羽毛应该像那么回事……”&lt;CR&gt;“啊哈哈，虽然说是魔鸟的羽毛，但也不是那么&lt;CR&gt;　稀奇的东西。路上随便就会看到，&lt;CR&gt;　小孩子还会拿来玩呢。”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“好像是野兽之类的骨头。&lt;CR&gt;　不但够长，而且十分坚固耐用，&lt;CR&gt;　所以应该会有很多用途吧。”&lt;CR&gt;“依据生前的种类，性质也会有所不同。”" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="“是岛鱼的鱼鳍。放进水里炖煮的话，&lt;CR&gt;　应该会是一顿味道不错的高汤。”&lt;CR&gt;“苏菲虽然不搞卫生，不过应该很擅长做料理吧。&lt;CR&gt;　真让人有点羡慕。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“是能从动物身上采集到的毛皮。不用说，&lt;CR&gt;　当然是没有受损的皮毛价格最高。”&lt;CR&gt;“可是，反正都要拿来当调合材料，&lt;CR&gt;　表面受损应该也没关系吧……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“颜色相当惊人的毛皮。&lt;CR&gt;　是用什么东西染的吗？”&lt;CR&gt;“不，原本就是这种颜色。先不管颜色，&lt;CR&gt;　摸起来非常温暖。”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“蜘蛛丝？那样的话，在工房也能采集得到&lt;CR&gt;　不是吗？”&lt;CR&gt;“太失礼了！……这可是以矿石为食的&lt;CR&gt;　特殊蜘蛛的丝，强度非常高。”" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是以黄金为食的稀有蜘蛛所排出的&lt;CR&gt;　丝。因为是蜘蛛丝，所以黏黏的，&lt;CR&gt;　不过金色却很漂亮。”&lt;CR&gt;“这些蜘蛛的巢简直就像是艺术品。”" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="“是龙的鳞片。又大又坚硬。&lt;CR&gt;　甚至一般的武器都无法伤害到它们。”&lt;CR&gt;“这或许比我的脸还要大……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是能从水井采集到的水。不但可以喝，&lt;CR&gt;　而且也可以用来洗衣服……很方便。”&lt;CR&gt;“由于附近就有水源，这个城镇并不需要&lt;CR&gt;　为水伤脑筋。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“……跟一般的水不一样吗？”&lt;CR&gt;“那当然，毕竟是‘好喝的’水呀。”&lt;CR&gt;“井水也还蛮好喝的啊。”&lt;CR&gt;“一定就是比那个好喝嘛。”" icon0="0" icon1="2" icon2="0" icon3="2" permit="true"/>
+    <LibraryItem note="“是奥利牛产的牛奶。”&lt;CR&gt;“刚挤出的牛奶真的很好喝！”&lt;CR&gt;“而且营养价值也很高。为了健康着想，&lt;CR&gt;　最好每天早上都能喝上一杯。”" icon0="17" icon1="0" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“这水会发出&lt;CR&gt;　微弱的光，但要在暗处看才能看清楚。”&lt;CR&gt;“或许会让人觉得意外吧，这水对身体&lt;CR&gt;　完全无害。请放心饮用吧。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“嗅嗅……总觉得这好像跟一般的水&lt;CR&gt;　不一样……”&lt;CR&gt;“从外观不太好判断吧，这跟水的性质不同。&lt;CR&gt;　请多加留意。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“唔哇，这液体正在冒烟……”&lt;CR&gt;“奥、奥斯卡，你喝喝看啊。”&lt;CR&gt;“为什么要我喝！？我才不要呢！”&lt;CR&gt;“……因为有毒，所以不适合饮用。”" icon0="0" icon1="2" icon2="3" icon3="17" permit="true"/>
+    <LibraryItem note="“噗尼的体液……？”&lt;CR&gt;“就是噗尼黏稠的部分吧。说是体液，不晓得&lt;CR&gt;　是不是。”&lt;CR&gt;“到底是想用在什么东西上啊……？”" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“是彩虹色噗尼的体液吧。”&lt;CR&gt;“这颜色让人觉得不是自然的产物……”&lt;CR&gt;“嗯……真不想直接用手去碰它……”" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是龙之血结晶化后的产物。不做任何处理&lt;CR&gt;　的话会有毒，所以用的时候，需要&lt;CR&gt;　将必要的成分抽取出来。”&lt;CR&gt;“抽取的时候会有很浓的腥味……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是装在豪华瓶子里的圣水。”&lt;CR&gt;“只要将水装入瓶子中～在上面施加咒语&lt;CR&gt;　就可以了～”&lt;CR&gt;“原来如此……嗯？那不是……”" icon0="0" icon1="10" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这是噗尼噗尼的……什么呀？心脏？”&lt;CR&gt;“搞不好是肺之类的呢。”&lt;CR&gt;“总之，是噗尼的核心，也是它们的动力来源。&lt;CR&gt;　虽然不知道具体是什么，但就是那样没错。”" icon0="0" icon1="2" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“是会发出金色光芒的噗尼噗尼珠。&lt;CR&gt;　据说只有噗尼噗尼中的噗尼噗尼才会有，&lt;CR&gt;　是相当噗嫩噗嫩的噗尼噗尼珠。”&lt;CR&gt;“……你真的很烦，苏菲。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“海胆～！”&lt;CR&gt;“……你是突然怎么了吗？”&lt;CR&gt;“摩妮卡还真冷淡。以前我们不是经常这样&lt;CR&gt;　边叫着边互丢对方吗？”" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是红海胆。为什么会变成这样？”&lt;CR&gt;“一般的海胆在熟成后就会变硬，&lt;CR&gt;　逐渐转红。不知道是不是多心，&lt;CR&gt;　总觉得连刺也变得比较锐利。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“是栽种在基尔亨‧贝尔周遭的麦子。&lt;CR&gt;　即使在干燥气候下也能成长，收成量高，&lt;CR&gt;　所以作为主食相当方便。”&lt;CR&gt;“生活中少了这个实在难以想象。”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“跟罗梅麦不同品种的小麦粉。我觉得&lt;CR&gt;　这种小麦粉的风味稍微浓厚一些。”&lt;CR&gt;“是啊。顺便说一下，我会依据做的点心不同&lt;CR&gt;　而分开使用。”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“可煮可烤……是有各种吃法的薯类。”&lt;CR&gt;“虽然味道一般，但饱足感却很不错。&lt;CR&gt;　我并不讨厌。”" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="“是会散发银色光辉的薯类。&lt;CR&gt;　……但不管怎么看都像金属。”&lt;CR&gt;“甜甜的很好吃，但要是不把皮剥干净&lt;CR&gt;　就会有股铁臭味……”" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="“是蜂巢。里面好像满满的都是蜂蜜。”&lt;CR&gt;“偶尔会有蜜蜂留在里面，一不小心可是会&lt;CR&gt;　被螫哦。”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“看起来很好吃的蛋。”&lt;CR&gt;“……真的吗？不知道这个是什么的蛋？&lt;CR&gt;　说不定是摩妮卡讨厌的……”&lt;CR&gt;“别说了！唔唔，我突然开始讨厌了……”" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“嗯～是甜的～！好吃～！”&lt;CR&gt;“好酸！看来这个是酸的。”&lt;CR&gt;“这种草莓的酸甜差异很大。用来试运气&lt;CR&gt;　倒是很适合。”" icon0="0" icon1="3" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“呀啊！唔唔，炸开了……”&lt;CR&gt;“虽然好吃，但缺点就是只要稍微用力&lt;CR&gt;　就会炸开。”&lt;CR&gt;“因为这样，店里也不太会拿出来卖。”" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是撕成一块一块的纸。”&lt;CR&gt;“话虽如此，但可用它来记些小事情或是&lt;CR&gt;　擦拭脏污等等，有很多用途。不可以&lt;CR&gt;　立刻就丢掉。”" icon0="0" icon1="2" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“是植物性的油。要是用这个来做料理，&lt;CR&gt;　做成后就不会那么油腻。”&lt;CR&gt;“不但容易获取，而且也可以用作燃料。&lt;CR&gt;　当然，对炼金术也相当实用。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“有着鲜艳色彩的油。由于比一般的油更容易&lt;CR&gt;　燃烧，所以要多加注意。”&lt;CR&gt;“用这种油来炸东西能增加酥脆感。得照料理的&lt;CR&gt;　种类区分使用。”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“生意兴隆、成就恋情跟祈求安产。&lt;CR&gt;　是什么都能保佑的厉害卡牌～”&lt;CR&gt;“虽然不知道是不是真的有效……&lt;CR&gt;　总之就带在身上吧。”" icon0="10" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这个很厉害～用的可是比一般卡牌&lt;CR&gt;　还要贵的纸跟墨水～”&lt;CR&gt;“啊、啊哈哈……原来厉害的不是效果，&lt;CR&gt;　而是使用的材料呀……”" icon0="10" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“虽然价格相当贵，但用这个特别的卡牌保佑&lt;CR&gt;　也比较灵验哦～”&lt;CR&gt;“一不小心就买下了……&lt;CR&gt;　但这个没问题吧？会不会吃亏啊……”" icon0="10" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是生长在水边的贝类的壳。”&lt;CR&gt;“因为有各种形状，所以寻找自己喜欢的形状&lt;CR&gt;　还蛮开心的。”&lt;CR&gt;“越有光泽好像就越有价值。”" icon0="17" icon1="0" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="“是有如珍珠般纯白又带有光泽的贝壳。&lt;CR&gt;　似乎经常用作饰品&lt;CR&gt;　或是家具的装饰。”&lt;CR&gt;“是因为突变才会变成这种颜色的。”" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="“是蓝色的石英块。要长成大石块&lt;CR&gt;　需要很长的时间，算是贵重素材。”&lt;CR&gt;“真想拿来摆在工房里。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“据说是星星坠落碎裂后的&lt;CR&gt;　残骸。”&lt;CR&gt;“这样说可能会戳破你的梦想，但这个素材&lt;CR&gt;　其实是覆盖在龙的翅膀上的一种鳞粉。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“有着像太阳那种颜色的粉末。装在瓶子里&lt;CR&gt;　很漂亮。”&lt;CR&gt;“不过，因为具有热性质，所以不推荐&lt;CR&gt;　集中放在同一个地方。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“是碎裂的水晶。这个状态应该无法作为&lt;CR&gt;　占卜的道具吧。”&lt;CR&gt;“因为比较容易取得，所以经常用作&lt;CR&gt;　观赏或装饰品的材料。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“是散发七色光芒的水晶碎片。由于外观&lt;CR&gt;　漂亮，所以经常用作装饰品。”&lt;CR&gt;“其实是因为表面凹凸不平，&lt;CR&gt;　在光线的漫反射下才会看起来像这样。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“感觉很不可思议的宝石……不知为何，&lt;CR&gt;　一拿在手上就会打冷颤……”&lt;CR&gt;“内部有个东西在微微发光，但只要一弄碎，&lt;CR&gt;　光就会消失，所以还不知道到底是什么。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“这看起来跟梨形宝石很像……&lt;CR&gt;　到底是什么呀？”&lt;CR&gt;“原本好像是同样的东西。随着放置的环境&lt;CR&gt;　不同，性质也会跟着变化。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“感觉是很不祥的宝石……”&lt;CR&gt;“是的，似乎不少强大的魔物体内会有。&lt;CR&gt;　也有人说这是魔物的力量来源。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“是琥珀色的美丽宝石。”&lt;CR&gt;“这并不是宝石，而是龙的心脏。据说&lt;CR&gt;　活得越长久的龙，所持有的龙核光辉就越强，&lt;CR&gt;　体积越大。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“……为什么呢，这应该只是普通的树枝，&lt;CR&gt;　但却感受得到一股惊人的力量……”&lt;CR&gt;“我也这么觉得。会不会是来自&lt;CR&gt;　原本就相当有力量的大树树枝呢……”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“似乎是宝石的碎片……&lt;CR&gt;　不过闪闪发亮的，很漂亮。”&lt;CR&gt;“是啊。虽然只是我个人的感想，但有种&lt;CR&gt;　很梦幻的感觉。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“我没听说过有这种矿物啊……？”&lt;CR&gt;“也难怪你不清楚。以前能大量采集，&lt;CR&gt;　用途多样，是很不错的素材……&lt;CR&gt;　但现在矿脉几乎都枯竭了。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“这个……是什么的零件吗？”&lt;CR&gt;“看起来似乎是。虽然完全不知道是什么人&lt;CR&gt;　出于什么目的所做的……”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“……呃～这个是……什么？”&lt;CR&gt;“……抱歉。连我也不清楚。很像是某种&lt;CR&gt;　东西的劣作……”&lt;CR&gt;“嗯～真不知道该怎么使用……”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“似乎是烧得焦黑的块状物……&lt;CR&gt;　这到底是什么呀……”&lt;CR&gt;“是木炭。”&lt;CR&gt;“那种事我知道！”" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="“好臭！苏菲！！你好臭啊！”&lt;CR&gt;“喂！你这样说太过分了吧！臭的是这个&lt;CR&gt;　莫名其妙的碎片！我可是每天洗澡的！”" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“唔哇，好漂亮的碎片……”&lt;CR&gt;“真的……虽然不清楚是什么东西，&lt;CR&gt;　但真的很漂亮……”&lt;CR&gt;“或许就是因为一切成谜才美丽吧……”" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“……苏菲？你又失败了是吧？”&lt;CR&gt;“没有啊，其实这是很厉害的素材。”&lt;CR&gt;“请说实话。”&lt;CR&gt;“是的，我失败了……”" icon0="2" icon1="0" icon2="2" icon3="0" permit="true"/>
+    <LibraryItem note="“是在蓄积充分营养后绽放的花。&lt;CR&gt;　据说是连开花都难得一见的梦幻植物，&lt;CR&gt;　所以才会这么叫。”&lt;CR&gt;“谢谢你把这么重要的植物分给我。”" icon0="3" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是某种魔物的鳞片。听说不管经过多久&lt;CR&gt;　都不会腐朽。”&lt;CR&gt;“朱利欧先生愿意协助，真的是帮了大忙。&lt;CR&gt;　感激不尽！”" icon0="4" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“喔喔，感觉好像潜藏着相当神秘的力量……&lt;CR&gt;　普拉芙妲，你怎么了？”&lt;CR&gt;“一看到破碎的页面，身体就会……&lt;CR&gt;　大概是类似职业病之类的吧……”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“是上面有着像咒文内容的书。&lt;CR&gt;　虽然到处都破破烂烂的。”&lt;CR&gt;“竟然对书这么粗暴，不可原谅……！”&lt;CR&gt;“普、普拉芙妲……？你有点恐怖……？”" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="“据说，这纸片上记录的东西除写下的人&lt;CR&gt;　外没人知道。”&lt;CR&gt;“是啊……只有写下的人才知道吗……&lt;CR&gt;　搞不好是日记之类的东西。”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是据说记录禁忌知识的纸片。&lt;CR&gt;　由于散落成一片片的，&lt;CR&gt;　不知道最初完整的内容是什么……”&lt;CR&gt;“像是禁忌的……秘传点心食谱之类的？”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“这看起来只是把海胆装在袋子里而已，&lt;CR&gt;　这也是炼金术的道具吗？”&lt;CR&gt;“当然，要在釜中顺利装进袋里&lt;CR&gt;　可是相当麻烦的。”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“咚一声爆炸的炸～弹～！”&lt;CR&gt;“等一下，你那样拿太危险了。”&lt;CR&gt;“不要紧。如果不点燃导火线，就不会爆炸，&lt;CR&gt;　所以你尽管放心。”" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是封入冰的力量的炸弹。一爆炸就会&lt;CR&gt;　让四周的东西结冻。”&lt;CR&gt;“光拿在手上就很冰凉。天气热的时候&lt;CR&gt;　摆在房里，说不定会很凉快。”" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是什么？好奇怪的石头……？”&lt;CR&gt;“啊，要是那样拿的话……！”&lt;CR&gt;“好！好麻！好好麻麻麻啊啊啊……”&lt;CR&gt;“……这是带雷电力量的石头呀。”" icon0="3" icon1="0" icon2="3" icon3="0" permit="true"/>
+    <LibraryItem note="“我制作的初衷是想让海胆的刺&lt;CR&gt;　可以飞向四面八方！”&lt;CR&gt;“只是碰到海胆的刺都会感到疼痛……&lt;CR&gt;　这应该还挺强大的吧。”" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是将炎烧稍作改良后的炸弹。”&lt;CR&gt;“原来如此，这样虽然增加了爆炸的危险性，&lt;CR&gt;　但火力也提升了不少。”&lt;CR&gt;“咦，爆炸的危险性？我还是头一次听说。”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“我尝试增强了冰精的力量。”&lt;CR&gt;“使用的时候请务必小心。&lt;CR&gt;　冷气的力量大大提升了，&lt;CR&gt;　一不小心可是会连自己都被冻结的。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“我试着压缩电导之石的力量，&lt;CR&gt;　让它变成结晶。你觉得如何？”&lt;CR&gt;“潜藏着惊人的雷电力量。&lt;CR&gt;　小心不要随便碰到而引发触电。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“是活着的子弹。会一直追着瞄准的猎物跑&lt;CR&gt;　直至将它击中。”&lt;CR&gt;“完全面不改色地追过来似乎有点可怕……”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说是天空的神所遗落的结晶。&lt;CR&gt;　只要拿着这个朝天上丢，&lt;CR&gt;　就会掉下各式各样的东西作为谢礼。”&lt;CR&gt;“谢礼……？被砸中应该会受重伤吧……”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“据说是各种现象起源的火种。”&lt;CR&gt;&lt;CR&gt;“各种现象……？连土或风也是吗？”&lt;CR&gt;“是的。虽然不确定是不是真的。”" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="“据说是魔法师使用的笛子。&lt;CR&gt;　那神秘的音色似乎能引来魔物。”&lt;CR&gt;“要是在城镇中吹就糟了……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是装满红海胆的袋子。”&lt;CR&gt;“这跟一般的海胆袋有什么不同？”&lt;CR&gt;“你在说什么啊？这用的可是红海胆。&lt;CR&gt;　当然是这个比较痛吧。”" icon0="0" icon1="2" icon2="0" icon3="-1" permit="false"/>
+    <LibraryItem note="“这跟一般的炎烧不同，是蓝色的炎烧。&lt;CR&gt;　一旦爆炸，漂亮的蓝色火焰就会飞散&lt;CR&gt;　四处。”&lt;CR&gt;“火力比一般的炎烧要强，是吧。”" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="false"/>
+    <LibraryItem note="“唔哇，这什么颜色？&lt;CR&gt;　冰精变成紫色了？”&lt;CR&gt;“确实是看起来很毒的颜色……潜藏的&lt;CR&gt;　冷气量应该也很惊人。”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="false"/>
+    <LibraryItem note="“蓄积的电量比一般的电导之石还多。&lt;CR&gt;　也因为如此，威力也提升了不少。”&lt;CR&gt;“放电次数好像也增加了。”" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="false"/>
+    <LibraryItem note="“看起来像是……海胆袋，其实是卡夫袋！&lt;CR&gt;　我试着用了很多海胆哦～！”&lt;CR&gt;“这么多的量……虽然基底是海胆，但这威力&lt;CR&gt;　应该不是开玩笑的……”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="false"/>
+    <LibraryItem note="“是、是火焰炎烧的改良版哦！”&lt;CR&gt;“慢着！它现在不是快爆炸了吗！这、这该&lt;CR&gt;　怎么办啊！”&lt;CR&gt;“只、只能祈祷它不会爆炸吧！”" icon0="0" icon1="2" icon2="-1" icon3="0" permit="false"/>
+    <LibraryItem note="“……唔哇，好刺眼的颜色。”&lt;CR&gt;“原本似乎是冷冽的冰精。要是被打中的对象中了&lt;CR&gt;　这么多冷气，说不定会&lt;CR&gt;　被永久冻结。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“这是封入电导之石力量的水晶吧。无数的&lt;CR&gt;　雷击将敌人攻击得溃不成军，可给予&lt;CR&gt;　敌人致命的回击。”&lt;CR&gt;“出现大量闪电应该很漂亮吧。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="false"/>
+    <LibraryItem note="“是黑色的噗尼噗尼弹。会比一般的&lt;CR&gt;　噗尼噗尼弹更加死缠烂打地追着敌人&lt;CR&gt;　跑。”&lt;CR&gt;“性格也跟着变黑了是吧……”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="false"/>
+    <LibraryItem note="“只要高举这个，&lt;CR&gt;　神就会将很棒的东西降下哦。”&lt;CR&gt;“那个‘很棒的东西’对神而言&lt;CR&gt;　不见得是重要的东西吧。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说是将来会演变成&lt;CR&gt;　为世界带来终结火焰的火种。”&lt;CR&gt;“用那种东西不要紧吗？”&lt;CR&gt;“因为还是火种，所以不要紧吧。”" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="“这世上最可怕的东西……那就是妖怪。&lt;CR&gt;　所以能操纵妖怪的道具是这世上最可怕、&lt;CR&gt;　最强的哦……呜呜。”&lt;CR&gt;“你不需要边哭边讲啊……”" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“非常普通的药。是去山上打猎的猎人&lt;CR&gt;　调合出的，所以叫作山师之药。”&lt;CR&gt;“效果没那么强，但制作过程很简单。&lt;CR&gt;　感觉说到药就会想到这个。”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“相当有效的药物，如果只是轻微受伤，&lt;CR&gt;　只要喝下这个，伤口就会痊愈。&lt;CR&gt;　不过……”&lt;CR&gt;“这个超苦的吧……”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“是香精油蜡烛……吗？”&lt;CR&gt;“嗯，只要点上火，就会散发出犹如来自大草原的&lt;CR&gt;　清爽香气，令人感到放松。”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“这有蜂蜜般的水，它具有令生物的生命力&lt;CR&gt;　活性化的效用……是吧。”&lt;CR&gt;“嗯，味道跟蜂蜜很像，但比蜂蜜&lt;CR&gt;　更能……让人精神焕发。”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说只要喝了这个，&lt;CR&gt;　任何病痛和伤口都能瞬间治愈，是一种很厉害的药。&lt;CR&gt;　……不过相应地，制作非常麻烦。”&lt;CR&gt;“毕竟是被称为灵药的东西……”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“哎呀，是苏菲经常做的点心。”&lt;CR&gt;“嗯，虽然使用的是基础配方，但我平时都会&lt;CR&gt;　稍做改变，像加入的素材，&lt;CR&gt;　每次都会换。”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“锵锵！这就是我特制的茶……！&lt;CR&gt;　名叫苏茶！！”&lt;CR&gt;“……虽不甘心，但苏菲泡的茶真的很好喝&lt;CR&gt;　……先不管名称怎样。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“（吞咽）……嗯，真好吃。”&lt;CR&gt;“啊哇哇……摩妮卡竟然将可爱的噗尼&lt;CR&gt;　一口吞下，好残忍啊……”&lt;CR&gt;“……这是点心吧。”" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“哎呀，真好吃。是苏菲做的吗？”&lt;CR&gt;“嗯，我在金砖蛋糕上稍作了些改变。&lt;CR&gt;　名叫苏砖蛋糕。”&lt;CR&gt;“……明明就很好吃，叫这名称真是亏大了。”" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“这是我的杰作，苏茶的进化版！&lt;CR&gt;　是我用细选的素材通过特殊做法&lt;CR&gt;　所完成的得意之作！其名为焦……”&lt;CR&gt;“不取名字应该会比较好卖哦。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“这是……糖果吗？”&lt;CR&gt;“嗯，是用炼金术做成的糖果哦。味道虽然&lt;CR&gt;　不方便说，但用的是对健康有益的素材，&lt;CR&gt;　所以只要舔一下，就能让你精神焕发，元气满满哦。”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“……嗯？一般的松饼……？”&lt;CR&gt;“才不是呢！是用炼金术费尽心思制作的，尽量做得&lt;CR&gt;　跟一般松饼没有差别！口味虽然没什么区别，&lt;CR&gt;　但效果可是很好的。”" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“是在贝果内夹蔬菜与培根的轻食。&lt;CR&gt;　也是郊游必备的食物。”&lt;CR&gt;“在广场一边看着喷水池一边享用，&lt;CR&gt;　真的会别有一番风味。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是用山师之药的改良版。味道虽然&lt;CR&gt;　很刺鼻，但效果可是无与伦比&lt;CR&gt;　。”&lt;CR&gt;“那股味道涂了就无法在城镇走动了。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="false"/>
+    <LibraryItem note="“普拉芙妲总是在说教，吵死人了！”&lt;CR&gt;“喔，是怎么了吗？吵架？”&lt;CR&gt;“似乎是因为喝了这个，她因压力跟疲劳而积压的情绪&lt;CR&gt;　一起发泄出来了。”" icon0="0" icon1="3" icon2="2" icon3="-1" permit="false"/>
+    <LibraryItem note="“点火就会听到笑声。”&lt;CR&gt;“……那个不会有点可怕吗？”&lt;CR&gt;“不会啊，因为是妖精的笑声。不仅不&lt;CR&gt;　可怕，反而还能消除疲劳。”" icon0="0" icon1="3" icon2="0" icon3="-1" permit="false"/>
+    <LibraryItem note="“虽然明知是毒，但很漂亮……”&lt;CR&gt;“请小心点。有不少人对它的美丽着迷，&lt;CR&gt;　结果不小心碰了它就丧命了。”
+" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“据说是连在生死边缘徘徊的人都能救回来的&lt;CR&gt;　神秘灵药。”&lt;CR&gt;“只要有了这个，就能帮助许多人。&lt;CR&gt;　把做法好好记下吧。”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="false"/>
+    <LibraryItem note="“好硬！？牙齿……牙齿……”&lt;CR&gt;“抱歉……我好像有点烤过头了……”&lt;CR&gt;“……啊，不过舔着吃也不错。&lt;CR&gt;　我还挺喜欢的。”" icon0="3" icon1="0" icon2="2" icon3="-1" permit="false"/>
+    <LibraryItem note="“噗噗啊！？好难喝！这是什么！”&lt;CR&gt;“怎么可以吐出来呢！味道虽然不怎么样，&lt;CR&gt;　但对健康可是很有帮助的！”&lt;CR&gt;“就算是这样也该有个限度！这太难喝了！”" icon0="3" icon1="0" icon2="-1" icon3="3" permit="false"/>
+    <LibraryItem note="“是七色的噗尼冻！每种颜色的口味都是&lt;CR&gt;　不一样的！”&lt;CR&gt;“草莓口味、橘子口味……真的是。”&lt;CR&gt;“要做得漂亮可是相当耗费心力的。”" icon0="0" icon1="-1" icon2="2" icon3="0" permit="false"/>
+    <LibraryItem note="“这是我特制的点心，吃了对健康有好处。&lt;CR&gt;　我试着减少了一点糖分，加了很多对身体&lt;CR&gt;　有益的素材。”&lt;CR&gt;“口味也没话说！你真行，苏菲！”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="false"/>
+    <LibraryItem note="“这是用基尔亨牛奶加热而成的东西。&lt;CR&gt;　因为觉得只有牛奶口味会很单调，&lt;CR&gt;　所以我稍微调整了一下口味。”&lt;CR&gt;“这个在冷天喝会很暖和。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“又甜又容易入口的药。&lt;CR&gt;　药效也相当好。”&lt;CR&gt;“那当然～！毕竟那是缇丝我与苏菲&lt;CR&gt;　费尽心思才做出来的成果啊！”" icon0="0" icon1="-1" icon2="11" icon3="-1" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“哎呀，好可爱的铃铛。&lt;CR&gt;　而且铃声清脆悦耳。”&lt;CR&gt;“嗯，据说就像天使的耳语一般。&lt;CR&gt;　似乎具有神秘的力量。”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是能够净化诅咒的香。&lt;CR&gt;　由于由挥发性高的药品制成，&lt;CR&gt;　所以也能当成口服药使用。”&lt;CR&gt;“其实直接服用的效果会比较好吧。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这瓶子看不到里面的东西，&lt;CR&gt;　到底里面装了什么呀？”&lt;CR&gt;“天知道，说不定是点心，也可能是奇怪的&lt;CR&gt;　东西。没人看过里面装了什么。”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是借用精灵的力量，一边在每根线上&lt;CR&gt;　给予守护，一边编织而成的布呢。&lt;CR&gt;　还具有防火的力量。”&lt;CR&gt;“布很漂亮，应该也能用作服装搭配吧。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“据说是从具有永恒生命的火龙体液提炼&lt;CR&gt;　出来的药，并且药效很强。”&lt;CR&gt;“吃了就连垂死之人也能活过来&lt;CR&gt;　。但药效太强，不建议经常使用。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说是一本&lt;CR&gt;　世界百科全书。”&lt;CR&gt;“真的全部的知识都有吗？”&lt;CR&gt;“很遗憾，无法确认。”" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="“我是苏菲！肚子饿了哦！”&lt;CR&gt;“我是奥斯卡！最喜欢植物！”&lt;CR&gt;“是用了就能改变外观的道具。但似乎无法&lt;CR&gt;　改变性格与声音。”" icon0="0" icon1="3" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说吃了这药就能拥有&lt;CR&gt;　英雄般的力量。”&lt;CR&gt;“连我也能变得很强吗？”&lt;CR&gt;“可以，但效力只能维持一段时间。”" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="“唔哇，快停止那个声音！&lt;CR&gt;　我整个背都发寒了！”&lt;CR&gt;“咦？我什么都没做呀……？”&lt;CR&gt;“你的意思是这个铃铛自己会响吗……？”" icon0="3" icon1="-1" icon2="0" icon3="3" permit="false"/>
+    <LibraryItem note="“才这么一点根本不够！我想再多吃一点！&lt;CR&gt;　再多一点！”&lt;CR&gt;“一闻到这个香味，食欲就会莫名变大……&lt;CR&gt;　确实变胖许多。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="false"/>
+    <LibraryItem note="“来，大家一起吃吧！”&lt;CR&gt;“哦……没想到薄雾竟然能吃呢。而且&lt;CR&gt;　还甜甜的，很好吃……”&lt;CR&gt;“下次要吃吃看普通的薄雾吗？”" icon0="0" icon1="2" icon2="-1" icon3="3" permit="false"/>
+    <LibraryItem note="“这种魔法面纱只要戴上，就会变得像海市蜃楼一样&lt;CR&gt;　朦胧。”&lt;CR&gt;“所以我才会看不清楚苏菲，并不是&lt;CR&gt;　我的眼睛疲劳了。”" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="false"/>
+    <LibraryItem note="“嗯～！嗯嗯～嗯──！嗯嗯──！！”&lt;CR&gt;“……这种液体会辣得喉咙像灼烧起来一样。&lt;CR&gt;　原本是为了提神才制作的……&lt;CR&gt;　但一喝下就会变得非常痛苦。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“是一本封面和内容都是完全空白的书。&lt;CR&gt;　使用这本书可以将对方的力量&lt;CR&gt;　封进里面。”&lt;CR&gt;“……如果不小心翻开，就会发生悲剧。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“被施加这种道具的人会很辛苦……因为会有&lt;CR&gt;　很厉害的恶魔使尽各种恶作剧的手段。&lt;CR&gt;　……像是天地变异之类的。”&lt;CR&gt;“……那已经超过恶作剧的范畴了吧。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="false"/>
+    <LibraryItem note="“只要吃下这个药就能暂时变得非常强。&lt;CR&gt;　只不过……”&lt;CR&gt;“会对身体造成很大的负担。要得到力量就必须&lt;CR&gt;　付出代价。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“这种药剂具有生成物质与促进生物成长的作用&lt;CR&gt;　。”&lt;CR&gt;“（咽口水）要是用在自己身上，是不是就能&lt;CR&gt;　长高一点，变成成熟的大姐姐呢……？”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“嘶──嘶──……”&lt;CR&gt;“在这种地方睡觉会感冒的。”&lt;CR&gt;“不要紧……只要用了这个帐篷……&lt;CR&gt;　就会很温暖……很舒服……嘶──…”" icon0="0" icon1="2" icon2="0" icon3="-1" permit="false"/>
+    <LibraryItem note="“妖精都是怎么出没的啊？”&lt;CR&gt;“印象中有在天上飞的……”&lt;CR&gt;“可是，这样不就不需要指路标了吗……？”&lt;CR&gt;“这个嘛……我没看过，所以不知道！”" icon0="0" icon1="2" icon2="0" icon3="2" permit="true"/>
+    <LibraryItem note="“这种货车像是有意志一样会自己回到&lt;CR&gt;　固定的地方。好像偶尔也会绕个路。”&lt;CR&gt;“货车也是会偷懒的……”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“你看着哦～……啊嗯！”&lt;CR&gt;“喔喔，苏菲人不见了！”&lt;CR&gt;“这种糖果在舔它的瞬间会自动隐身。&lt;CR&gt;　不过很小，一下就没了。”" icon0="0" icon1="3" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“快看快看，摩妮卡！嘿咻！”&lt;CR&gt;“把奥斯卡给举起来了……！？”&lt;CR&gt;“只要带着这根羽毛，就能让重量变成零。&lt;CR&gt;　所以奥斯卡也能变得很轻。”" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“只要穿上这双鞋，连奥斯卡也会像那样。”&lt;CR&gt;“唔喔喔喔，好快哦哦哦！快停下来──！”&lt;CR&gt;“不管是什么样的人都能走得很快。”&lt;CR&gt;“……他在说快让他停下。”" icon0="0" icon1="3" icon2="0" icon3="2" permit="true"/>
+    <LibraryItem note="“这是我特制的背包！不但携带方便……&lt;CR&gt;　更重要的是很可爱！”&lt;CR&gt;“……可爱是必要的吗？”&lt;CR&gt;“你在说什么！那才是最重要的吧？”" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="“不是会有无论如何都不想弄丢的东西吗？&lt;CR&gt;　只要装入这个包包里，就会有神秘的力量&lt;CR&gt;　保护它，不会让它丢失。”&lt;CR&gt;“……如果包包不见了会怎样？”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“哎呀，好大的手套。”&lt;CR&gt;“嗯，这个手套不只是大，而且很容易抓取东西。&lt;CR&gt;　所以一次就能采集到很多东西。”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“这条护符上寄宿着喜欢胜者的战神。&lt;CR&gt;　会给予胜利者祝福。”&lt;CR&gt;“……要是输了会怎样？”&lt;CR&gt;“不清楚，如果确定你胜利无望，可能会有不幸发生吧？”" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="“这个护符很厉害的。如果带在身上，&lt;CR&gt;　锻炼之神就会帮助提高我们的锻炼&lt;CR&gt;　效率。”&lt;CR&gt;“不过，自己还是得亲自锻炼吧。”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“是带有魔力的护符。据说寄宿在上面的魔力&lt;CR&gt;　可以驱离魔物。”&lt;CR&gt;“嗅嗅……这个护符好像有种奇怪的味道……&lt;CR&gt;　所以才能驱离魔物呀？”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是可爱的心型首饰。据说戴着这个会&lt;CR&gt;　变得比较容易跟人相处。”&lt;CR&gt;“是哦……那跟植物会怎样？”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“这是炼金术中再基础也不过的中和剂。&lt;CR&gt;　制作中和剂也可说是成为炼金术士的&lt;CR&gt;　第一步吧。”&lt;CR&gt;“原来如此……说的也是。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“中和剂的特征就是会根据所含成分&lt;CR&gt;　明确分成不同颜色。蓝色中和剂能够整合&lt;CR&gt;　药品成分。”&lt;CR&gt;“也就是在制作药时方便使用。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是中和剂的一种。绿色的是……”&lt;CR&gt;“我知道，是用植物做成的，对吧！”&lt;CR&gt;“正确。很简单易懂吗？”" icon0="17" icon1="0" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="“是中和剂的一种。由于是从土或黏土之类的&lt;CR&gt;　素材精制而成的，所以颜色是黄色。”&lt;CR&gt;“就算加入一般的土也能制成吗？”&lt;CR&gt;“……那只能炼得出质量较差的东西。”" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="“这是把水用特殊方法过滤后的产物。&lt;CR&gt;　由于杂质被尽可能过滤掉了，&lt;CR&gt;　因此会更容易进行调合。”&lt;CR&gt;“这么干净的水，喝起来也会不错吧？”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是带有超强净化作用的液体。&lt;CR&gt;　只需滴入一滴，就连被污染的水源&lt;CR&gt;　也能变成可饮用水源。”&lt;CR&gt;“如果真的是精灵流下的泪水就很棒。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这是用水果加工制成的调味料吧。&lt;CR&gt;　因为甜味与酸味都恰到好处，&lt;CR&gt;　所以在增加点心香味时常会用到。”&lt;CR&gt;“苏菲点心的提味就是用这个吧。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“这是将罗梅麦磨制成粉后制作的产物。&lt;CR&gt;　像是面包或点心之类的东西……每天会&lt;CR&gt;　做成不同的形式。”&lt;CR&gt;“是厨房不可或缺的制作材料。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“嗯～好甜好好吃～！”&lt;CR&gt;“苏菲，你竟然偷吃素材，这种行为非常&lt;CR&gt;　不可取。要是突然亟需，材料很可能&lt;CR&gt;　会不够。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“是面包之类的东西发酵时会用到的&lt;CR&gt;　酵母吧。由于是以天然素材制成，对健康&lt;CR&gt;　应该很不错。”&lt;CR&gt;“而且天然的东西比较好吃。”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“能够用作各种药物&lt;CR&gt;　原料，这个素材也&lt;CR&gt;　因此而得名。”&lt;CR&gt;“并不是…万能药之本对吧。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“跟一般的纸有哪里不一样？”&lt;CR&gt;“它比一般的纸更适合当燃料。&lt;CR&gt;　由于很容易燃烧，就算记录了机密的&lt;CR&gt;　研究内容，也能立刻处理掉。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“是将杂质完美滤除的油。食用后&lt;CR&gt;　能够帮助我们排出体内的毒素。”&lt;CR&gt;“明明是油，却相当清爽。而且还呈现琥珀色，&lt;CR&gt;　看起来非常美。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“噗哈啾！”&lt;CR&gt;“快住手，奥斯卡！这个粉飞起来后&lt;CR&gt;　会立刻燃烧起来的。”&lt;CR&gt;“那么危险的东西不要放在外面！”" icon0="3" icon1="0" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“这是用雷电矿锻制而成的东西。&lt;CR&gt;　外表看起来虽然不怎么样，但内部潜藏着&lt;CR&gt;　巨大的雷电力量。”&lt;CR&gt;“随时都会发出啪叽啪叽的声响。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“黑色的……这是什么？”&lt;CR&gt;“看起来……很像金属，但也不一定&lt;CR&gt;　是。普拉芙妲也说她不知道这是什么。”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是用炼金术制作的黏土。只要加热一次&lt;CR&gt;　就能变得像铁那样硬。”&lt;CR&gt;“而且加工难度也不高，是可用于各种&lt;CR&gt;　用途中的优良素材。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“是金光闪闪的线。”&lt;CR&gt;“经常用在饰品或刺绣上。”&lt;CR&gt;“努力一点的话，如果假以时日，不知道&lt;CR&gt;　能不能用这个织成金光闪闪的布。”" icon0="0" icon1="17" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是用颚松加工制成的&lt;CR&gt;　木制素材。通常用作&lt;CR&gt;　建材或日常用品等。”&lt;CR&gt;“总之，容易获得这一点还是很不错的。”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这种块状物由从矿物中抽出的金属&lt;CR&gt;　经再炼制而成。可以用作&lt;CR&gt;　各种金属制品的素材。”&lt;CR&gt;“这个居然可以做成剑或长枪……”" icon0="9" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这金属硬度高，低熔点。&lt;CR&gt;　由于熔点低，容易加工。也被&lt;CR&gt;　用在家具或建材上。”&lt;CR&gt;“哦……我完全不知道……”" icon0="9" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这个散发着银色光辉。”&lt;CR&gt;“是啊。这种金属能越磨越亮。&lt;CR&gt;　不过产量很低，所以价格相当高。”" icon0="0" icon1="9" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是鲜红的……金属吗？”&lt;CR&gt;“这确实是金属，但硬度相当高，&lt;CR&gt;　相应地，熔点也很高，&lt;CR&gt;　加工起来很麻烦。”" icon0="0" icon1="9" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“金光闪闪～！”&lt;CR&gt;“延展性高……也就是说，这种金属具有柔软且&lt;CR&gt;　易伸展的特性。除此之外，还有一定硬度，&lt;CR&gt;　很好使用……但缺点是价格有点偏高。”" icon0="0" icon1="9" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是……被誉为至高的金属吧。具有无与伦比的 &lt;CR&gt;　硬度 ，不易于加工。”&lt;CR&gt;“是很厉害的金属！”&lt;CR&gt;“居然做得出这个……炼金术还真厉害。”" icon0="9" icon1="-1" icon2="0" icon3="9" permit="true"/>
+    <LibraryItem note="“是布料。”&lt;CR&gt;“布料……就只有这样吗？”&lt;CR&gt;“因为可以用各种素材制成，性质也会&lt;CR&gt;　相对有所变化，所以一言难尽啊。”" icon0="8" icon1="0" icon2="8" icon3="-1" permit="true"/>
+    <LibraryItem note="“这种布是使用动物身上的毛加工制成线后&lt;CR&gt;　再编织而成的。顾名思义，它的特点是具&lt;CR&gt;　有毛蓬蓬的触感。”&lt;CR&gt;“而且还相当暖和。”" icon0="8" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是亚达雷特最新流行的布。再怎么说，&lt;CR&gt;　它具有很好的伸缩性。&lt;CR&gt;　可以做出适合任何体型的衣服。”&lt;CR&gt;“它的延展性非常好，常令人怀疑这是不是布。”" icon0="8" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这种布被誉为‘天使羽毛’，&lt;CR&gt;　具有轻柔的触感。”&lt;CR&gt;“唔哇……摸起来感觉好棒……&lt;CR&gt;　真想一直用脸去磨蹭……”" icon0="8" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是所有生活富裕的人都会想要的良质布。&lt;CR&gt;　制作过程很复杂，材料也很贵。由于无法制作&lt;CR&gt;　太多，所以价格相当贵重。”&lt;CR&gt;“摸起来滑滑的，穿身上应该很舒服吧……”" icon0="8" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“唔哇……！好漂亮……而且不只这样，&lt;CR&gt;　还挺实用的。”&lt;CR&gt;“这可是兼具美观与实用性的上乘之作。&lt;CR&gt;　不过加工上就很麻烦。”" icon0="0" icon1="-1" icon2="8" icon3="-1" permit="true"/>
+    <LibraryItem note="“好漂亮……形状就跟花一样。”&lt;CR&gt;“嗯，是刻意调节温度后做成花型的结晶。&lt;CR&gt;　如果温度没调节好，外形就不会那么美观了。”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“是紫色的美丽宝石。”&lt;CR&gt;“这一带都是使用罕见的原石吧。似乎以前&lt;CR&gt;　会被当作礼物送给地位较高的人。”" icon0="17" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“看起来就是有毒的液体……”&lt;CR&gt;“似乎具有很多性质，也有多种用途。&lt;CR&gt;　使用很方便。”&lt;CR&gt;“就算方便，我也不太想用……”" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“这是看一眼能窥视未来的水晶球……&lt;CR&gt;　但我应该什么都看不到吧。”&lt;CR&gt;“应该是指未来一片黑暗吧……”&lt;CR&gt;“别说了，真是不吉利！”" icon0="0" icon1="-1" icon2="3" icon3="0" permit="true"/>
+    <LibraryItem note="“这是用来将普拉芙妲的灵魂从书中转移到&lt;CR&gt;　人偶上的道具。要是小柯柯没替我们增加&lt;CR&gt;　材料，我们应该就做不成了。”&lt;CR&gt;“呃，区区小事不足挂齿啦……”" icon0="0" icon1="-1" icon2="-1" icon3="6" permit="true"/>
+    <LibraryItem note="“相当红的石头……”&lt;CR&gt;“是的，在炼金术当中也需要一定的&lt;CR&gt;　高超技术。&lt;CR&gt;　材料成分的浓缩要恰到好处，这样才能炼出来。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“炼金术的一个最终目标或顶点&lt;CR&gt;　就是这个‘贤者之石’。”&lt;CR&gt;“可是这对我来说是通过点，&lt;CR&gt;　因为我还有其他目标！”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说是寄宿着太阳力量、&lt;CR&gt;　形状像泪滴的宝石。”&lt;CR&gt;“多亏了摩妮卡替我查做法，&lt;CR&gt;　真是帮了我大忙呢。谢谢你。”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这种营养剂是将植物所需营养素全部混入制作&lt;CR&gt;　而成。只要用了这种营养剂，任何植物&lt;CR&gt;　都会充满活力！”&lt;CR&gt;“苏菲……我就知道你是个能干的家伙！”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“这土里加入了能让植物充满活力的成分。&lt;CR&gt;　只要在这里埋下种子，&lt;CR&gt;　隔天就可以开花。”&lt;CR&gt;“……那个真的没问题吗？作用会不会太强？”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“用来修理木箱的零件……是吗？”&lt;CR&gt;“嗯，没错。虽然微小的零件做起来&lt;CR&gt;　很费事……但是为了小柯柯，&lt;CR&gt;　我还是很努力地做出来了！”" icon0="6" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“是调合所用的炼金釜。&lt;CR&gt;　因为是直接拿奶奶以前用过的继续用，&lt;CR&gt;　所以已经很久了。”&lt;CR&gt;“它承载了我与奶奶的许多回忆。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“练习用啊。我都可以独当一面了……”&lt;CR&gt;“莫忘初衷可是很重要的。而且在我看来&lt;CR&gt;　，你还只是只小鸡而已。”&lt;CR&gt;“呣～！总有一天我会让你认同我的！”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“总觉得这个釜很时髦。”&lt;CR&gt;“是的，我也是打从心底这么觉得。”&lt;CR&gt;“……真的吗？听起来怎么那么像说谎……”&lt;CR&gt;“那种事……是因为是‘同步’之釜吧。”
+" icon0="0" icon1="17" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="“是炼金术达人使用的釜。”&lt;CR&gt;“达人……怎样才算达人？&lt;CR&gt;　以什么为标准啊？”&lt;CR&gt;“就算你问得这么具体……”" icon0="17" icon1="0" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="“这个釜也有人说是妖精做出来的。”&lt;CR&gt;“哦……妖精是吗……光是听起来&lt;CR&gt;　就觉得能做出什么不得了的东西。”&lt;CR&gt;“是所谓深信的力量吗？”" icon0="17" icon1="0" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="“唔哇……这釜感觉好破旧。”&lt;CR&gt;“真令人怀念。在我那个时代，这种形式的釜&lt;CR&gt;　是最普遍的。”&lt;CR&gt;“……唔，总觉得感受到历史的隔阂。”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“用难以调合的材料制成的釜。
+　在高难度环境下使用炼金术，
+　就能进一步提高炼金术士的能力哦！”
+“呜呜，好斯巴达的釜哦……&quot;" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“据说这是很久以前炼金仙人用过的哦。”
+“炼金仙人......和普拉芙妲谁厉害呀？”
+“苏菲，你在说什么呀！当然是炼金仙人啊！”
+“是吗！？好厉害哦，炼金仙人！！”" icon0="17" icon1="0" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="“这是能实现奇迹般调合的釜。”
+“奇迹般的调合……？嗯——，虽然是很好用啦，
+　但我觉得应该没有那么大的差别耶……”
+“（那是因为你已经成长了呀，苏菲。）”" icon0="17" icon1="0" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="炼金术士用的触媒，象征纯粹、清廉。可防止调合时产生杂质，维持比平常更高的纯度状态。" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="炼金术士用的触媒，象征着继承。调合后的成品更易于继承调和时所使用的素材特征或特性。" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="炼金术士用的触媒，象征成长。可促进调和时所使用的素材成长为更好的成品。" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="炼金术士用的触媒，象征增殖。只要在调合时使用，成品数量就会增加。只是有绝大多数在增殖的同时，质量也会随着分裂而下降。" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“啊，这个肉快烂掉了。&lt;CR&gt;　嗯，这边的好像还能吃。”&lt;CR&gt;“……苏菲，不要把用于辨别物体状态的&lt;CR&gt;　稀有道具用于辨别食材。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“是调合时所使用的玻璃器具。由于能测量出&lt;CR&gt;　素材份量是否适当，因此能提升准确度。”&lt;CR&gt;“……原来素材是要测份量的啊。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="false"/>
+    <LibraryItem note="“唔哇，震得好厉害啊！？”&lt;CR&gt;“这是靠震动搅拌素材的道具。比用手&lt;CR&gt;　搅拌更迅速，并且搅拌方法更得当。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“是我特制的搅拌棒！为了让自己能轻松使用&lt;CR&gt;　，我可是下了大工夫。”&lt;CR&gt;“对炼金术士而言，搅拌棒就如同手脚一样。&lt;CR&gt;　有所讲究是好事。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“是我使用的木杖。并不是特别的东西，&lt;CR&gt;　而是城镇中也有在贩卖的普通木杖。”&lt;CR&gt;“这个城镇在替旅行者祈祷旅途平安时，&lt;CR&gt;　常会赠送木杖。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“是把上头有月形装饰的可爱木杖。”&lt;CR&gt;“确实是很可爱……但能在战斗中使用吗？”&lt;CR&gt;“呵呵呵，其实在装饰的部分有装刀刃，&lt;CR&gt;　所以还挺强的。”" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是漂流各地的旅行者&lt;CR&gt;　会当作护符携带的杖。”&lt;CR&gt;“总觉得拿着这把杖，心情就会很平静。&lt;CR&gt;　不知道是不是一种被什么守护的感觉？”" icon0="2" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说这是司掌繁荣的权杖。&lt;CR&gt;　只要挥动这把权杖，任何荒野&lt;CR&gt;　都能瞬间变成花田……。”&lt;CR&gt;“怎么可能会有这么不切实际的权杖。”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“‘万物轮回，化为永恒’。这是代表炼金术&lt;CR&gt;　精髓的权杖。”&lt;CR&gt;“虽然不是很清楚……但这表示万物都在&lt;CR&gt;　不断绕行的意思吗……大概。”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是有着美丽宝石的手环。”&lt;CR&gt;“是的。因为这个宝石的光辉会随着月亮&lt;CR&gt;　的阴晴圆缺而发生变化。”&lt;CR&gt;“啊哈哈，还挺适合你的，普拉芙妲。”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“据说戴着这个手环就会产生超乎寻常的&lt;CR&gt;　强大力量。”&lt;CR&gt;“那东西好棒哦！是因为炼金术的作用吗？”&lt;CR&gt;“是因为手环内侧突起压在使力的穴道上产生。”" icon0="17" icon1="-1" icon2="0" icon3="17" permit="true"/>
+    <LibraryItem note="“据说这个手环上寄宿着遥远彼方&lt;CR&gt;　……宇宙的力量。戴在身上就会受到&lt;CR&gt;　伟大存在的守护。”&lt;CR&gt;“规、规模大到我都搞不清楚了……”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这种手环内侧刻有咒语，能增强穿戴者&lt;CR&gt;　身体能力。”&lt;CR&gt;“既然有那种咒语，那只要刻在各种携带物品&lt;CR&gt;　上，或许自己就会变得具有超能力……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说这闪耀的手环是某小国的公主赠送给&lt;CR&gt;　最信赖的骑士的。”&lt;CR&gt;“唔哇，一定是一段很棒的恋爱故事吧……&lt;CR&gt;　好好哦，真让人向往。”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是摩妮卡的剑。前端相当锐利，&lt;CR&gt;　看起来好像很强！”&lt;CR&gt;“……这是练习用的模造剑。虽然可以用，&lt;CR&gt;　但不适合用来战斗。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“啊，我知道这把剑。记得是在哪部戏里&lt;CR&gt;　主角所用的剑……对吧？”&lt;CR&gt;“嗯，没错。是个义勇剑士对自己的正义&lt;CR&gt;　动摇的故事……我很喜欢那出戏。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说是某国正骑士所使用的剑。&lt;CR&gt;　比一般的剑更耐用，不会因为随便&lt;CR&gt;　使用几下就断掉。”&lt;CR&gt;“摩妮卡拿着剑，看起来就像个真正的骑士。”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“据说是过去一位被誉为‘万夫莫敌’的英雄&lt;CR&gt;　用过的剑。那位英雄的剑技高超，&lt;CR&gt;　就像是在舞动般，相当华丽。”&lt;CR&gt;“我也好想帅气地战斗看看……”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这是以摩妮卡的印象制作的。高尚温柔，&lt;CR&gt;　漂亮又帅气……”&lt;CR&gt;“等一下，你在说什么啊，苏菲。&lt;CR&gt;　……不过，我很高兴。谢谢你。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“是有点特别的铲子。只要有了这个，&lt;CR&gt;　就算是快枯死的植物&lt;CR&gt;　也能立刻移植。”&lt;CR&gt;“这上面是根据奥斯卡的兴趣装饰的吗……？”
+" icon0="3" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这是花费心血改良的铲子，&lt;CR&gt;　能够轻松翻动坚硬的土壤 。”&lt;CR&gt;“奥斯卡虽然挺怕麻烦的，但只要跟植物&lt;CR&gt;　扯上关系，就会毫不妥协……”" icon0="3" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是能够吸收阳光的铲子。&lt;CR&gt;　据说用这铲子耕作过的地面，&lt;CR&gt;　植物会长得很快。”&lt;CR&gt;“太阳真的很温暖、很伟大……”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“这把铲子前端部分&lt;CR&gt;　用特殊素材制成，能够避免伤到植物的根。可以用它来&lt;CR&gt;　移植任何植物。”&lt;CR&gt;“还蛮重的，真的很不好用……”" icon0="3" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这把铲子上可是灌注了对植物的爱。&lt;CR&gt;　只要用了这把铲子，甚至连大地都能&lt;CR&gt;　划开！”&lt;CR&gt;“……把大地划开就不能种植物了？”" icon0="3" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是我国配给神官骑士们的剑。&lt;CR&gt;　现在不管是什么人都能使用。”&lt;CR&gt;“感觉是把很有骑士风范的剑。&lt;CR&gt;　不仅体形大，而且功能强。”" icon0="4" icon1="-1" icon2="0" icon3="-1" permit="true" startEv="EVENT_MM02_080"/>
+    <LibraryItem note="“看起来很笨重的剑。”&lt;CR&gt;“是啊。确实笨重。&lt;CR&gt;　但倒没有那么锋利，&lt;CR&gt;　与其说是砍，感觉还比较像敲打吧。”" icon0="0" icon1="4" icon2="-1" icon3="-1" permit="true" startEv="EVENT_MM02_080"/>
+    <LibraryItem note="“是赐予高阶神官骑士的剑。&lt;CR&gt;　只有理解骑士理想的&lt;CR&gt;　高尚人士才能持有。”&lt;CR&gt;“那就很符合朱利欧先生呀！”" icon0="4" icon1="-1" icon2="-1" icon3="0" permit="true" startEv="EVENT_MM02_080"/>
+    <LibraryItem note="“据说这好像是从古至今用来制裁&lt;CR&gt;　恶人的剑。”&lt;CR&gt;“与其被持剑人追得到处跑，还不如&lt;CR&gt;　一开始就不要做坏事……”" icon0="4" icon1="-1" icon2="0" icon3="-1" permit="true" startEv="EVENT_MM02_080"/>
+    <LibraryItem note="“感觉很神圣的剑……”&lt;CR&gt;“我国流传着有关侍奉神的骑士们的故事。&lt;CR&gt;　有一派的说法认为他们随身携带的&lt;CR&gt;　就是这把剑。”" icon0="0" icon1="4" icon2="-1" icon3="-1" permit="true" startEv="EVENT_MM02_080"/>
+    <LibraryItem note="“这把剑感觉很粗犷、恐怖……”&lt;CR&gt;“你这样觉得啊？不过其实比看起来&lt;CR&gt;　还要轻，也没有那么锋利。总之能达到不战&lt;CR&gt;　而屈人之兵的目的，专门用来震慑敌人。”" icon0="0" icon1="5" icon2="-1" icon3="-1" permit="true" startEv="EVENT_QC04_FRI_080"/>
+    <LibraryItem note="“你看，这刀身颜色会随光的亮度&lt;CR&gt;　改变。”&lt;CR&gt;“唔哇，是真的！一下银色，一下黑色……&lt;CR&gt;　真是不可思议的武器……”" icon0="5" icon1="-1" icon2="0" icon3="-1" permit="true" startEv="EVENT_QC04_FRI_080"/>
+    <LibraryItem note="“这把剑啊……”&lt;CR&gt;“唔哇，一下就把纸给切开了！”&lt;CR&gt;“……你、你竟然拿着刀锋异常锐利、号称&lt;CR&gt;　‘连鬼神也能劈开’的名剑去切纸……”" icon0="5" icon1="0" icon2="5" icon3="-1" permit="true" startEv="EVENT_QC04_FRI_080"/>
+    <LibraryItem note="“唔哇～好帅气的剑！”&lt;CR&gt;“这是以黑耀刀为基础改良的剑。&lt;CR&gt;　据说如果刀身变得又薄又锋利，会将对手&lt;CR&gt;　全部送入冥府。”" icon0="0" icon1="5" icon2="-1" icon3="-1" permit="true" startEv="EVENT_QC04_FRI_080"/>
+    <LibraryItem note="“据说锻炼到极致的剑就连水或光都能斩断。&lt;CR&gt;　没想到有生之年竟能获得&lt;CR&gt;　这样一把武器。”&lt;CR&gt;“原来水跟光是能斩断的啊……”" icon0="5" icon1="-1" icon2="-1" icon3="0" permit="true" startEv="EVENT_QC04_FRI_080"/>
+    <LibraryItem note="“是我使用的护手……”&lt;CR&gt;“唔哇，好重！小柯柯，你平常都是用&lt;CR&gt;　这么重的武器战斗吗！？”&lt;CR&gt;“会……重……？这东西哪儿重了……？”" icon0="6" icon1="0" icon2="-1" icon3="6" permit="true" startEv="EVENT_QC05_COR_090"/>
+    <LibraryItem note="“我的炼金术与小柯柯的武器，再加上&lt;CR&gt;　罗吉先生的锻冶力而成，既神秘又美好的&lt;CR&gt;　组合技！就是让护手带电！”&lt;CR&gt;“……用这个手就会阵阵发麻。”" icon0="0" icon1="-1" icon2="-1" icon3="6" permit="true" startEv="EVENT_QC05_COR_090"/>
+    <LibraryItem note="“小柯柯，总觉得那个……好像在蠕动？”&lt;CR&gt;“是的。这是里面装了噗尼的护手。”&lt;CR&gt;“护手里装噗尼！？为什么这么做！？”&lt;CR&gt;“……因为噗嫩噗嫩的……很舒服……”" icon0="0" icon1="6" icon2="0" icon3="6" permit="true" startEv="EVENT_QC05_COR_090"/>
+    <LibraryItem note="“如何？小柯柯。我试着在护手上用了&lt;CR&gt;　会降温的素材……”&lt;CR&gt;“一开始刚刚好……但现在我已经觉得&lt;CR&gt;　好冷好冷……好像快被冻住了……瑟瑟发抖。”" icon0="0" icon1="-1" icon2="6" icon3="-1" permit="true" startEv="EVENT_QC05_COR_090"/>
+    <LibraryItem note="“武器果然还是需要爆发力。&lt;CR&gt;　因此，我就真的把炸弹加进去了。&lt;CR&gt;　小柯柯，来，请用！”&lt;CR&gt;“……那个，这东西，应该连我都会有危险吧？”" icon0="0" icon1="-1" icon2="-1" icon3="6" permit="true" startEv="EVENT_QC05_COR_090"/>
+    <LibraryItem note="“这是，枪的子弹……？”&lt;CR&gt;“是啊。是用质量较差的金属跟潮湿的火药&lt;CR&gt;　制成的，这个子弹唯一的优点就是便宜。应该就是&lt;CR&gt;　那种……能顺利开枪就算万幸的感觉吧。”" icon0="0" icon1="7" icon2="-1" icon3="-1" permit="true" startEv="EVENT_QC06_HAR_090"/>
+    <LibraryItem note="“这个子弹前端尖尖的。”&lt;CR&gt;“是啊。就如你所说的，这比一般的子弹直径&lt;CR&gt;　要长，前端也比较锐利。是为了贯穿&lt;CR&gt;　坚硬的铠甲或皮肤才做成这样的。”" icon0="0" icon1="7" icon2="-1" icon3="-1" permit="true" startEv="EVENT_QC06_HAR_090"/>
+    <LibraryItem note="“是用水晶做成的子弹。”&lt;CR&gt;“水晶……？那不会裂开吗？”&lt;CR&gt;“是故意做成那种击中后会裂开的子弹。&lt;CR&gt;　子弹炸裂后就能让敌人伤亡惨重。”" icon0="7" icon1="0" icon2="7" icon3="-1" permit="true" startEv="EVENT_QC06_HAR_090"/>
+    <LibraryItem note="“这种子弹前端装入高硬度金属中，&lt;CR&gt;　可提升子弹的贯穿力。像是一般的岩石轻而易举&lt;CR&gt;　就能贯穿。”&lt;CR&gt;“贯穿岩石！？……枪很厉害呢。”" icon0="7" icon1="-1" icon2="-1" icon3="0" permit="true" startEv="EVENT_QC06_HAR_090"/>
+    <LibraryItem note="“这是将师傅选出的素材&lt;CR&gt;　一一研磨制成的子弹。”&lt;CR&gt;“哦～那击发时会不会觉得可惜？”&lt;CR&gt;“我觉得……东西就是要拿来用才有价值。”
+" icon0="7" icon1="-1" icon2="0" icon3="7" permit="true" startEv="EVENT_QC06_HAR_090"/>
+    <LibraryItem note="“是蕾昂小姐的枪。蕾昂小姐怎么会选枪&lt;CR&gt;　当武器呢？”&lt;CR&gt;“哎呀，很简单呀。因为跟针的用法很像。”&lt;CR&gt;“是、是这样吗……？”" icon0="0" icon1="-1" icon2="8" icon3="0" permit="true" startEv="EVENT_QC06_HAR_080"/>
+    <LibraryItem note="“这支枪是用轻金属制成的。&lt;CR&gt;　虽然没什么威力，但使用&lt;CR&gt;　非常方便。”&lt;CR&gt;“也就是能像猫一样迅速移动，对吧！”
+" icon0="8" icon1="-1" icon2="-1" icon3="0" permit="true" startEv="EVENT_QC06_HAR_080"/>
+    <LibraryItem note="“淑女应该不太会拿着枪到处乱使吧……”&lt;CR&gt;“你太天真了。真正的淑女危急时刻可是会&lt;CR&gt;　挺身而出全力奋战的。这支枪就是为这样的&lt;CR&gt;　淑女而制的。”" icon0="0" icon1="8" icon2="-1" icon3="-1" permit="true" startEv="EVENT_QC06_HAR_080"/>
+    <LibraryItem note="“豹很不错吧。&lt;CR&gt;　美丽而柔软……&lt;CR&gt;　这就是参照豹的特性做出来的枪。”&lt;CR&gt;“……蕾昂小姐有点像豹哦。”" icon0="8" icon1="-1" icon2="-1" icon3="0" permit="true" startEv="EVENT_QC06_HAR_080"/>
+    <LibraryItem note="“嗯～是我喜欢的那种时髦的枪。”&lt;CR&gt;“这个枪的形状很复杂……”&lt;CR&gt;“似乎是为最大限度凸显枪的魅力&lt;CR&gt;　──斩击与突刺所设计的。” " icon0="8" icon1="0" icon2="8" icon3="-1" permit="true" startEv="EVENT_QC06_HAR_080"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“这是冒险者经常穿的背心。”&lt;CR&gt;“毕竟价格亲民，也还算蛮耐用的。&lt;CR&gt;　保湿御寒功能不错。”&lt;CR&gt;“感觉最好在外出旅行时随身穿着。”" icon0="0" icon1="2" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是在内部编入网状金属的背心。&lt;CR&gt;　远比一般的背心耐穿，在战斗中&lt;CR&gt;　似乎也能派上用场。不过有个缺点……”&lt;CR&gt;“……这个非常重吧。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“锵～！是闪闪发光的&lt;CR&gt;　黄金夹克！很赞吧！”&lt;CR&gt;“防御力或许很高……&lt;CR&gt;　但实在不想在城镇内穿着走。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“这背心的颜色还挺惊人的……”&lt;CR&gt;“嗯……不过在战斗中&lt;CR&gt;　可是非常具有优势的……”&lt;CR&gt;“不会因为太显眼而被盯上吗？”" icon0="3" icon1="0" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“我想提升防御力。但是太重的铠甲不便于&lt;CR&gt;　行动……这个夹克就能解决这个两难问题，&lt;CR&gt;　轻型且坚固。”&lt;CR&gt;“看起来确实比一般的铠甲耐用。”" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem note="“这是应用了炼金术的背心。&lt;CR&gt;　受到攻击造成的冲击&lt;CR&gt;　布料会变硬。”&lt;CR&gt;“炼金术还能做到这种程度呀……”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“是很常见的普通外衣。”&lt;CR&gt;“嗯，没有任何装饰，颜色又很朴素，&lt;CR&gt;　但却令人内心平静。”&lt;CR&gt;“是啊。算是值得信赖的良品。”" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“为了避开致命伤害，这件外衣在人的关键部位&lt;CR&gt;　又做了额外防护。”&lt;CR&gt;“可是在关节之类的部位做得比较厚，这样会&lt;CR&gt;　有点难以行动吧……”
+
+
+" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是用发晶石做成的外衣。&lt;CR&gt;　不但温暖，就算放进火中也不会燃烧，&lt;CR&gt;　具有很强的耐火性。”&lt;CR&gt;“只是在大热天穿会后悔吧。”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“是表面受到冲击&lt;CR&gt;　就会开始剥落的外衣。”&lt;CR&gt;“真的是，表面开始逐渐……呃，这外衣，&lt;CR&gt;　迟早会变成洞洞装？”" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是使用龙族鳞片做成的大衣！”&lt;CR&gt;“这还真稀奇……原来如此。看来比金属硬，&lt;CR&gt;　比布还轻的传闻是真的。真了不起。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是利用从古老地层发现的矿石做成的&lt;CR&gt;　大衣。”&lt;CR&gt;“哦～既然用了那么古老的素材，可见这外衣&lt;CR&gt;　也相当有历史吧。”" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是最早的衣服。”&lt;CR&gt;“……我是没什么印象了……可是苏菲，&lt;CR&gt;　你到现在都还没换过衣服吗？”&lt;CR&gt;“我的意思是那是旅行者最早准备的衣服！”" icon0="0" icon1="3" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“是用各种生物的毛编织而成的衬衫。&lt;CR&gt;　虽然有点硬邦邦的，&lt;CR&gt;　可是相当温暖。”&lt;CR&gt;“……应该没用什么奇怪生物的毛吧。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“这是为在各地漂泊的旅行者所做的衬衫。&lt;CR&gt;　不但容易去除脏污，&lt;CR&gt;　也不容易沾上味道。”&lt;CR&gt;“并不想出去旅行那么久……”
+" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“相当轻的衬衫。轻到自己常常会误以为&lt;CR&gt;　没有穿而感到不安。”&lt;CR&gt;“虽然这东西很棒，&lt;CR&gt;　但你可不要真的忘了穿。”
+" icon0="0" icon1="-1" icon2="3" icon3="-1" permit="true"/>
+    <LibraryItem note="“是颜色跟草木一样的&lt;CR&gt;　衣服。要是玩躲猫猫一定赢。”&lt;CR&gt;“但气味还是掩饰不了，&lt;CR&gt;　对魔物似乎没什么用。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“是用金属&lt;CR&gt;　牢固固定的衬衫。&lt;CR&gt;　会比一般的铠甲坚硬！”&lt;CR&gt;“……这已经不是衬衫，而是铠甲吧。”" icon0="0" icon1="-1" icon2="-1" icon3="3" permit="true"/>
+    <LibraryItem note="“摩、摩妮卡……这件衣服……”&lt;CR&gt;“慢、慢着！这会被看光吧！”&lt;CR&gt;“这是利用了光线折射，好让对方看不清自己的&lt;CR&gt;　位置……但穿上去会很难为情吧……”" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是应用炼金术做成的外套。&lt;CR&gt;　穿起来感觉非常舒服，&lt;CR&gt;　保暖效果也很好，相当耐穿！”&lt;CR&gt;“炼金术真的什么都做得到……”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“啊……太棒了……内心很踏实……”&lt;CR&gt;“铠甲里装了弹嫩湿润的防撞材料，&lt;CR&gt;　穿起来确实是很舒服……&lt;CR&gt;　但没想到连摩妮卡都变成那样……”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“唔耶，衣服快撑破了……”&lt;CR&gt;“这衬衫虽然是为行动方便而进行的贴身设计……&lt;CR&gt;　但穿在奥斯卡身上好像不是这么回事。”" icon0="3" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“哎呀，好可爱的罩衫。”&lt;CR&gt;“嗯。我参考了新娘礼服。再使用炼金术&lt;CR&gt;　经过特殊加工，透薄但耐穿。&lt;CR&gt;　是守护少女肌肤的逸品！”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“我在衣服内侧渗入了&lt;CR&gt;　一些药效成分。&lt;CR&gt;　因此它还能逐渐治愈伤口。”&lt;CR&gt;“或许将来能运用在医疗方面。”" icon0="0" icon1="-1" icon2="-1" icon3="17" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“是能够增强穿戴者&lt;CR&gt;　生命力的手环。”&lt;CR&gt;“设计还挺时髦的。”&lt;CR&gt;“是吗？那就试试当装饰品来卖……”" icon0="0" icon1="-1" icon2="2" icon3="0" permit="true"/>
+    <LibraryItem note="“只要绑上这条头巾，情绪就会高涨，&lt;CR&gt;　感觉做什么都能成功。”&lt;CR&gt;“其实在布料的部分&lt;CR&gt;　加了会让人充满干劲的成分。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“好看吗？据说曾是天使别在身上的领结。&lt;CR&gt;　只要别上这个，天使就会保佑自己&lt;CR&gt;　不受灾难之苦。”&lt;CR&gt;“苏菲一别上就像个小孩子一样。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“这是利用鸟羽毛做成的羽毛饰品。&lt;CR&gt;　我是参照飞得像风一样快的鸟做的。”&lt;CR&gt;“戴着这个，感觉身体好像变轻了。&lt;CR&gt;　而且行动好像也比平常更灵活。”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“哎呀，是个有美丽宝石的耳环。”&lt;CR&gt;“嗯，那是大自然力量凝聚而成的宝石，&lt;CR&gt;　据说只要带在身上，&lt;CR&gt;　大自然就会守护我们。”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“哎呀，这不是花冠吗？以前经常做。”&lt;CR&gt;“嗯，不过并不是普通的花冠。&lt;CR&gt;　这里面灌注了能守护穿戴者的力量。”" icon0="2" icon1="0" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是师傅们爱用的手套！当端出&lt;CR&gt;　刚烤好的派时，佩戴上这个手套就不会&lt;CR&gt;　被烫伤！”&lt;CR&gt;“……这是能用在战斗上的东西吗？”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“啊，摩妮卡，你现在饿了吧？”&lt;CR&gt;“咦？你怎么知道？”&lt;CR&gt;“呵呵呵，只要有这个单眼镜，不管是身体状态&lt;CR&gt;　还是弱点等信息，都能一目了然！”" icon0="0" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“黑与白……这眼镜的设计真奇怪。”&lt;CR&gt;“嗯，似乎是代表混沌与调和，可以将&lt;CR&gt;　曾看过的经历当作没发生的一样。”&lt;CR&gt;“不过操作不对话，就什么都看不了了……”" icon0="2" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“据说是能带来幸运的护符。似乎对搭配的&lt;CR&gt;　图案有效。”&lt;CR&gt;“是哦，图案吗……那下次我也在盾面上&lt;CR&gt;　画个什么好了……”" icon0="0" icon1="-1" icon2="2" icon3="-1" permit="true"/>
+    <LibraryItem note="“那是能够操纵时间的沙漏。”&lt;CR&gt;“只要翻过去就行了吗？我翻。”&lt;CR&gt;“那是能够操纵时间的沙漏。”&lt;CR&gt;“不知道是时间回溯，还是我被骗了。”" icon0="0" icon1="3" icon2="0" icon3="3" permit="true"/>
+    <LibraryItem note="“啪啊！如何，苏菲！”&lt;CR&gt;“唔哇，吓我一跳！那个面具的笑容太夸张了&lt;CR&gt;　而且很诡异，你不要这样！”&lt;CR&gt;“这好像是哪个部族在仪式上使用的东西。”" icon0="3" icon1="0" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“唔喔喔喔喔喔！热血沸腾起来了──！”&lt;CR&gt;“……奥斯卡，怎么了吗？”&lt;CR&gt;“只要系上这条腰带就会感到拥有无限力量，&lt;CR&gt;　想要像那样大叫……”" icon0="3" icon1="2" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是由精灵守护的盾。能够彻底抵御火焰&lt;CR&gt;　或暴风雪等。”&lt;CR&gt;“要怎样才能受到精灵的守护？”&lt;CR&gt;“……我在祈祷请求精灵帮忙。”" icon0="0" icon1="-1" icon2="3" icon3="0" permit="true"/>
+    <LibraryItem note="“这枚戒指能利用刻在上头的魔法文字提升装备者&lt;CR&gt;　体能。”&lt;CR&gt;“戴上它，不知道我&lt;CR&gt;　是不是也能空手破海胆……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“这是哈罗尔&lt;CR&gt;　为普拉芙妲做的发条吧。”&lt;CR&gt;“毕竟跟时钟用的有点不太一样。费了我&lt;CR&gt;　好大一番工夫呢……”" icon0="0" icon1="-1" icon2="7" icon3="-1" permit="true"/>
+    <LibraryItem note="“这件衣服用特殊素材制成，&lt;CR&gt;　具有良好伸缩性。”&lt;CR&gt;“设计非常可爱。&lt;CR&gt;　连我也会想穿穿看……”" icon0="8" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说这是约二十年才能采集到一次的&lt;CR&gt;　超稀有石头。”&lt;CR&gt;“是一种犹如灵魂般的神秘矿石， &lt;CR&gt;　外形圆滑。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“据说是制作有关灵魂的道具时一定&lt;CR&gt;　会用到的道具。”&lt;CR&gt;“毕竟灵魂虚无缥缈，所以需要能指引&lt;CR&gt;　方向的东西啊。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“是安置知识大釜的‘睿智之门’&lt;CR&gt;　的钥匙。虽说是钥匙，却像是带有&lt;CR&gt;　力量的宝珠……”&lt;CR&gt;“只有普拉芙妲才打得开。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“那是我以前用创造出来的炼金术制成的&lt;CR&gt;　驱动兵器，能够感应我的思考。”&lt;CR&gt;“……虽然你说得轻描淡写，但我很清楚&lt;CR&gt;　普拉芙妲很厉害。”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是我为搭配蕾昂小姐的&lt;CR&gt;　饰品千方百计制作的胸针。”&lt;CR&gt;“不管是颜色还是款式……相信一定会&lt;CR&gt;　很配蕾昂小姐的。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是我打算在将来的人偶剧中使用的&lt;CR&gt;　普拉芙妲人偶。”&lt;CR&gt;“耶嘿嘿，感觉很可爱。”&lt;CR&gt;“对吧！尤其是这个部分……”" icon0="5" icon1="-1" icon2="0" icon3="5" permit="true"/>
+    <LibraryItem note="“是……可能与我的故乡……有关的……&lt;CR&gt;　八音盒……”&lt;CR&gt;“打开就会播放好听的音乐。&lt;CR&gt;　我跟小柯柯都很喜欢。”" icon0="6" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“是人偶剧中使用的线，这个东西很特别，&lt;CR&gt;　一般市面并没有贩卖。”&lt;CR&gt;“我能学会怎么做真是太好了。这下随时&lt;CR&gt;　都能演出人偶剧了！”" icon0="5" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这种黏土&lt;CR&gt;　比炼金黏土更耐久，&lt;CR&gt;　干燥后的效果也不错。”&lt;CR&gt;“据说是厉害的炼金术士发现的……”" icon0="5" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“真令人怀念……这是我与劳尔德第一次&lt;CR&gt;　制作的炼金术道具。”&lt;CR&gt;“第一次就能做出这种东西，你们两个&lt;CR&gt;　当初应该很努力吧……”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是为了与我约会的券子。以市场价值&lt;CR&gt;　换算，大概不会低于一千万克隆！”&lt;CR&gt;“……是哦。”&lt;CR&gt;“唔唔，不要用那种眼神看我，苏菲……”" icon0="11" icon1="-1" icon2="0" icon3="11" permit="true"/>
+    <LibraryItem note="“这是一种稀有的草吗？”&lt;CR&gt;“不是，这种草随处可见。&lt;CR&gt;　……如果是独当一面的炼金术士，大概不会&lt;CR&gt;　想拿来当素材。”" icon0="0" icon1="17" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryItem note="“噢！莫妮卡的眼睛变成墨镜了！！”&lt;CR&gt;“喂，看不到前面了…好疼！”&lt;CR&gt;“呵呵，用炼金术搞恶作剧…”&lt;CR&gt;“啊哈哈！嗯，和平真是好事不是吗？”" icon0="3" icon1="2" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="“这是用炼金术造的便携工房！&lt;CR&gt;　非常宽敞，就算是１０００个奥斯卡&lt;CR&gt;　也能轻松装下。”&lt;CR&gt;“… 那可真是，超级闷热吧。”" icon0="0" icon1="-1" icon2="-1" icon3="2" permit="true"/>
+    <LibraryItem note="“公认炼金术士的证书…。居然把&lt;CR&gt;　这东西忘在教会…。&lt;CR&gt;　奶奶真是粗心大意。”&lt;CR&gt;“呵呵，和某人真像呢。”" icon0="0" icon1="-1" icon2="-1" icon3="10" permit="true"/>
+    <LibraryItem note="“这大概是奶奶以前穿过的衣服吧。
+　但我不知道为什么会放在材料箱里啦。”
+“难道是要用来当作炼金术的材料吗？”
+“嗯——……没办法否定这个可能性……”" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="“通过炼金术的力量复苏的奶奶的衣服！
+　既轻巧又结实，能和任何魔物战斗哦！”
+“……难道，是以和魔物作战为前提吗？”
+“嗯。毕竟我是炼金术士嘛……嗯？”" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem note="“这是会帮忙打扫房间的活着的扫把唷。
+　因为它会吃垃圾，所以不用吃饭哦！”
+“我终于也能制作出来了耶。
+　将炼金术士的目的地，解决打扫问题的道具……”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是考虑到柯尔的量贩能力所做出来的道具哦。
+　不过，要暂时对柯尔保密哦。”
+“……？为什么呀，苏菲。”
+“呃。因为我虽然已经尽力了，但是不怎么像……”" icon0="0" icon1="-1" icon2="17" icon3="0" permit="true"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem note="“这本笔记主要记录了我为梅库雷特与亚托米娜&lt;CR&gt;　制作道具的一些具体步骤。”&lt;CR&gt;“这些道具使用起来都非常方便。似乎可以&lt;CR&gt;　大幅提升采集效率。”" icon0="0" icon1="-1" icon2="17" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是为了寻求更好的人偶材料找遍了各地&lt;CR&gt;　才获得的书物。”&lt;CR&gt;“那种东西真的可以收下吗？”&lt;CR&gt;“嗯，因为我没办法制作。”" icon0="5" icon1="-1" icon2="0" icon3="5" permit="true"/>
+    <LibraryItem note="“是记载着灵魂相关道具的书。是过去&lt;CR&gt;　从某个炼金术士手中拿到的东西。”&lt;CR&gt;“朱利欧先生知道的事情远比我要多……&lt;CR&gt;　真厉害……”" icon0="4" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“好、好难……这是什么……”&lt;CR&gt;“是我所建构的炼金术理论的一部分。&lt;CR&gt;　……我已经尽量朝简单易懂的方向写了。”&lt;CR&gt;“唔唔，我感受到实力的差距……”" icon0="0" icon1="17" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这本书是从爷爷的书库挖出来，&lt;CR&gt;　上面写有日轮之滴制作方法。&lt;CR&gt;　……上面都布满了灰尘，真不好意思。”&lt;CR&gt;“不，你帮了大忙。谢谢你，摩妮卡。”" icon0="2" icon1="-1" icon2="-1" icon3="0" permit="true"/>
+    <LibraryItem note="“这是我们……我跟劳尔德第一次制作的&lt;CR&gt;　炼金术道具的配方。”&lt;CR&gt;“也是成为你们两人炼金术契机的道具。&lt;CR&gt;　……是充满心意的好配方。”" icon0="17" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这些数据与维护人偶所需的道具以及人偶剧中&lt;CR&gt;　所用的道具有关吧。”&lt;CR&gt;“嗯嗯……这样看下来，需要的道具真不少呢……&lt;CR&gt;　可以让我学到很多。”" icon0="5" icon1="-1" icon2="0" icon3="-1" permit="true"/>
+    <LibraryItem note="“这是一位炼金术士设计并针对终极之土&lt;CR&gt;　所写下的书物。”&lt;CR&gt;“这、这么厉害的东西，究竟是从哪里……”&lt;CR&gt;“哈哈哈，只要是为了人偶，我在所不惜啊。”" icon0="5" icon1="-1" icon2="0" icon3="5" permit="true"/>
+    <LibraryItem note="“似乎是某个炼金术士的手札。里面&lt;CR&gt;　针对自己的研究写得巨细靡遗。”&lt;CR&gt;“我是不是也该来写个手札呢。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="false"/>
+    <LibraryItem note="“据说是刻着所有智慧的书物。不过，&lt;CR&gt;　似乎有一部分的内容缺损了。”&lt;CR&gt;“原来是这样啊……会有点遗憾。”" icon0="17" icon1="-1" icon2="-1" icon3="0" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryItem icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+</Root>

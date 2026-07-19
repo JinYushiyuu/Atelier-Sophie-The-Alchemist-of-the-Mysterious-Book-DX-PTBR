@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_menustatus01" texture="ui/a17_menu_status.g1t"  texture_index="0" prim_type="wrap" edge_margin="16,16,32,16" uvwh="0,0,240,176"/>
+	<image name="gen_a17_menustatus01_down" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="48,320,48,48"/>
+	<image name="gen_a17_menustatus01_expwin01" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="239,0,480,176"/>
+	<image name="gen_a17_menustatus01_gage" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="352,304,256,32"/>
+	<image name="gen_a17_menustatus01_gagebg" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="384,256,288,43"/>
+	<image_list name="gen_a17_menustatus01_i01">
+		<image name="gen_a17_menustatus01_i01__xLIST01" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="192,416,64,64"/>
+		<image name="gen_a17_menustatus01_i01__xLIST02" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="256,416,64,64"/>
+		<image name="gen_a17_menustatus01_i01__xLIST03" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="320,416,64,64"/>
+		<image name="gen_a17_menustatus01_i01__xLIST04" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="384,416,64,64"/>
+		<image name="gen_a17_menustatus01_i01__xLIST05" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="400,336,64,64"/>
+		<image name="gen_a17_menustatus01_i01__xLIST06" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="448,416,64,64"/>
+	</image_list>
+	<image_list name="gen_a17_menustatus01_i02">
+		<image name="gen_a17_menustatus01_i02__xLIST01" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="464,336,64,64"/>
+		<image name="gen_a17_menustatus01_i02__xLIST02" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="528,336,64,64"/>
+	</image_list>
+	<image_list name="gen_a17_menustatus01_i03">
+		<image name="gen_a17_menustatus01_i03__xLIST01" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="-2,688,64,64"/>
+		<image name="gen_a17_menustatus01_i03__xLIST02" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="62,688,64,64"/>
+		<image name="gen_a17_menustatus01_i03__xLIST03" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="126,688,64,64"/>
+	</image_list>
+	<image name="gen_a17_menustatus01_iconbg" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="336,336,64,64"/>
+	<image name="gen_a17_menustatus01_line" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="192,480,256,80"/>
+	<image name="gen_a17_menustatus01_lvobi01" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="384,176,384,80"/>
+	<image name="gen_a17_menustatus01_markbg" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="352,560,256,208"/>
+	<image name="gen_a17_menustatus01_t_Friend" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="212,324,112,32"/>
+	<image_list name="gen_a17_menustatus01_t">
+		<image name="gen_a17_menustatus01_t__xLIST01" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="4,178,116,36"/>
+		<image name="gen_a17_menustatus01_t__xLIST02" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="123,178,116,36"/>
+		<image name="gen_a17_menustatus01_t__xLIST03" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="242,178,116,36"/>
+		<image name="gen_a17_menustatus01_t__xLIST04" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="1,215,116,36"/>
+		<image name="gen_a17_menustatus01_t__xLIST05" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="120,216,116,36"/>
+		<image name="gen_a17_menustatus01_t__xLIST06" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="241,216,116,36"/>
+		<image name="gen_a17_menustatus01_t__xLIST07" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="112,252,116,36"/>
+		<image name="gen_a17_menustatus01_t__xLIST08" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="233,252,116,36"/>
+		<image name="gen_a17_menustatus01_t__xLIST09" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="112,288,116,36"/>
+		<image name="gen_a17_menustatus01_t__xLIST10" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="233,288,116,36"/>
+		<image name="gen_a17_menustatus01_t__xLIST11" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="96,356,116,36"/>
+	</image_list>
+	<image name="gen_a17_menustatus01_t_dmg01" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="592,337,172,32"/>
+	<image name="gen_a17_menustatus01_t_dmg02" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="592,370,172,32"/>
+	<image_list name="gen_a17_menustatus01_tag">
+		<image name="gen_a17_menustatus01_tag__xLIST01" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="0,448,72,80"/>
+		<image name="gen_a17_menustatus01_tag__xLIST02" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="0,528,72,80"/>
+	</image_list>
+	<image name="gen_a17_menustatus01_text01" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="0,272,112,48"/>
+	<image name="gen_a17_menustatus01_up" texture="ui/a17_menu_status.g1t" texture_index="0" uvwh="0,320,48,48"/>
+	<image name="gen_a17_menustatus02_phbg01" texture="ui/a17_menu_status.g1t" texture_index="1" uvwh="0,0,768,768"/>
+	<image name="gen_a17_menustatus03_phbg02" texture="ui/a17_menu_status.g1t" texture_index="2" uvwh="0,0,384,384"/>
+	<image_list name="gen_a17_menustatus04_toff">
+		<image name="gen_a17_menustatus04_toff__xLIST01" texture="ui/a17_menu_status.g1t" texture_index="3" uvwh="136,0,136,64"/>
+		<image name="gen_a17_menustatus04_toff__xLIST02" texture="ui/a17_menu_status.g1t" texture_index="3" uvwh="136,64,136,64"/>
+		<image name="gen_a17_menustatus04_toff__xLIST03" texture="ui/a17_menu_status.g1t" texture_index="3" uvwh="136,128,136,64"/>
+	</image_list>
+	<image_list name="gen_a17_menustatus04_ton">
+		<image name="gen_a17_menustatus04_ton__xLIST01" texture="ui/a17_menu_status.g1t" texture_index="3" uvwh="0,0,136,64"/>
+		<image name="gen_a17_menustatus04_ton__xLIST02" texture="ui/a17_menu_status.g1t" texture_index="3" uvwh="0,64,136,64"/>
+		<image name="gen_a17_menustatus04_ton__xLIST03" texture="ui/a17_menu_status.g1t" texture_index="3" uvwh="0,128,136,64"/>
+	</image_list>
+</root>

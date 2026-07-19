@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <TownMapGroup name="工房" tmTag="TOWN_MAP_TM0"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM1"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM2"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM3"/>
+    <TownMapGroup name="附近的森林" tmTag="TOWN_MAP_TM4"/>
+    <TownMapGroup name="郊区" tmTag="TOWN_MAP_TM5"/>
+    <TownMapGroup name="旧市街" tmTag="TOWN_MAP_TM6"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM13"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM15"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM16"/>
+    <TownMapGroup name="广场" tmTag="TOWN_MAP_TM7"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM14"/>
+    <TownMapGroup name="街道" tmTag="TOWN_MAP_TM8"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM10"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM11"/>
+    <TownMapGroup tmTag="TOWN_MAP_TM12"/>
+    <TownMapGroup name="城镇入口" tmTag="TOWN_MAP_TM9"/>
+    <TownMapGroup name="往世界地图" tmTag="TOWN_MAP_TM17"/>
+</Root>

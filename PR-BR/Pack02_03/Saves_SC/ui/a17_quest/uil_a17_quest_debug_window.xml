@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!-- スタイルの読み込み -->
+	<command load_style="Saves/ui/_menu_templates/uis_mt_common.xml"/>
+	<!-- アニメーションの読み込み -->
+	<command load_anim="Saves/ui/_menu_templates/uia_mt_common.xml"/>
+	<!-- 下地ウィンドウ -->
+	<node name="top" pos="61.00, 133.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<menu name="menu_top" pos="-40.00, -40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_w="321.00" disp_lines="5.00"/>
+		<text text="QuestDebug" name="text" pos="114.08, -37.00, -0.00" font_color="255.00, 32.00, 32.00, 255.00" pos_ratio_x="0.48" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</node>
+	<node name="template" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+		<text name="text_menutemp" text="wwwwwwwwwwwwwwwwwwwwwww" font_color="160.00, 80.00, 80.00, 255.00" pos="0.00, 0.00, 0.00"/>
+	</node>
+	<node name="genre" pos="123, 166, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+		<menu name="menu_genre" pos="-40.00, -40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_w="321.00" disp_lines="5.00"/>
+		<text text="Genre" name="text" pos="114.08, -37.00, -0.00" font_color="255.00, 32.00, 32.00, 255.00" pos_ratio_x="0.48" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</node>
+	<node name="list" pos="387, 92, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+		<menu name="menu_list" pos="-40.00, -40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_w="321.00" disp_lines="15.00"/>
+		<text text="List" name="text" pos="114.08, -37.00, -0.00" font_color="255.00, 32.00, 32.00, 255.00" pos_ratio_x="0.48" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center"/>
+	</node>
+	<image name="right_window" style="common_black_image" pos="653.00, 160.00, 0.00" size_wh="584.00, 463.00, 0.00" visible="true">
+		<node name="selected_quest" pos="51.00, 8.00, 0.00" visible="false" viewer_visible="false">
+			<text text="ぷにぷにの討伐&lt;CR&gt;～Forever with you～" name="text_title" pos="207.00, 22.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" pos_ratio_x="0.00"/>
+			<node name="label" pos="95, 100, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="标签：" name="text_20" pos="-3.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right"/>
+				<text text="状态：" name="text_11" pos="-3.00, 40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right"/>
+				<text text="讨伐数：" name="text_16" pos="-3.00, 80.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right"/>
+				<text text="要求数：" name="text_17" pos="-3.00, 120.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right"/>
+				<text text="报酬金额：" name="text_18" pos="-3.00, 160.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right"/>
+			</node>
+			<node name="data" pos="130, 100, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="QUEST_BTL_A_1_1" name="text_tag" pos="-3.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left"/>
+				<text text="柜台" name="text_status" pos="-3.00, 40.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left"/>
+				<text text="1" name="text_now" pos="-3.00, 80.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left"/>
+				<text text="5" name="text_need" pos="-3.00, 120.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left"/>
+				<text text="1000" name="text_money" pos="-3.00, 160.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left"/>
+			</node>
+			<text text="登录" name="text_submit" pos="207.00, 324.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center"/>
+			<text text="决定" name="text_execute" pos="207, 360, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center"/>
+		</node>
+		<node name="now_counter" pos="36.00, 50.00, -0.00" visible="false" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<text text="00：夏莉的野心" name="text_c1" pos="56.00, 3.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="01：明天的天气" name="text_c2" pos="56.00, 38.44, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="02：讨伐噗尼噗尼2" name="text_c3" pos="56.00, 73.89, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="03：想要做一座桥！！" name="text_c4" pos="56.00, 109.33, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="04：能帮忙买盐吗？" name="text_c5" pos="56.00, 144.78, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="new_text0123456789+-/%" name="text_c6" pos="56.00, 180.22, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="new_text0123456789+-/%" name="text_c7" pos="56.00, 215.67, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="new_text0123456789+-/%" name="text_c8" pos="56.00, 251.11, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="new_text0123456789+-/%" name="text_c9" pos="56.00, 286.56, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="new_text0123456789+-/%" name="text_c10" pos="56, 322, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+	</image>
+</root>

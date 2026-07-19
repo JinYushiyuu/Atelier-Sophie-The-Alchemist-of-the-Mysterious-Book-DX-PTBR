@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/CNN/_Programmer/ui/uil.dtd">
+<root pos="325,370" visible="true" viewer_visible="false">
+	<node name="cinema_frame">
+		<image name="top" style="gen_a17_speech_cinema" pos="-326, -371, -0" size_wh="1282, 84" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<image name="bottom" pos="-326.00, 236.00, -0.00" style="gen_a17_speech_cinema" size_wh="1286.00, 120.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</node>
+	<!--入退場演出-->
+	<anim_ctrl name="anim_leave" start_visible="true" play="false" loop="false" reverse="false" speed="1.00" viewer_key_assign="3" exclusive_play="true">
+		<bind_node node="cinema_frame" anim="anm_common_fade_in" reverse="true"/>
+	</anim_ctrl>
+	<anim_ctrl name="anim_enter" start_visible="true" play="true" loop="false" reverse="false" speed="1.00" viewer_key_assign="5" exclusive_play="true">
+		<bind_node node="cinema_frame" anim="anm_common_fade_in"/>
+	</anim_ctrl>
+</root>

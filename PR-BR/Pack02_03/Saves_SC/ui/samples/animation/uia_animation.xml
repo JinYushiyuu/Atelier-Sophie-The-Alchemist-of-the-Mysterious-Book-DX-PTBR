@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+	<anim name="anm_linear_pos">
+		<curve attr="pos" interpolate="linear" >
+			<key time="0.0"		value="0, 0, 0, 0"/>
+			<key time="1.0"		value="400, 0, 0, 0"/>
+		</curve>
+	</anim>
+</root>
+

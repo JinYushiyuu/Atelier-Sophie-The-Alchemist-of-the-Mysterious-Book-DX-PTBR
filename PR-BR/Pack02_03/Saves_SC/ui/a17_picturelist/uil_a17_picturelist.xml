@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="picturelist">
+			<image name="listup" style="gen_a17_picture01_listup" pos="665.00, 26.00, 0.00" viewer_visible="false"/>
+			<image name="listdown" style="gen_a17_picture01_listdown" pos="666.00, 79.00, -0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="あいうえおかきくけこ＞アイウエオカキクケコ＞あいうえおかきくけこ＞アイウエオカキクケコ＞" name="text_breadcrumbs" pos="724.00, 37.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" line_char_length="22" word_space="-2.00" font_size="20.00" line_space="20.00" bold_color="222.00, 199.00, 177.00, 255.00" bold_size="3.00" align="left" font_color="119.00, 78.00, 73.00, 255.00" viewer_visible="true"/>
+		</node>
+	</node>
+</root>

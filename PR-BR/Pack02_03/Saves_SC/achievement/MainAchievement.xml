@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<MainAchievement Name="测试０" cntStera="1" endEv="EVENT_XH03_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM00_OP2A_010" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试３" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="3" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试４" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="4" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试５" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试６" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="6" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试７" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="7" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试８" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="8" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试９" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="9" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试１０" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="10" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试１１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="11" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试１２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="12" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试１３" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="13" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试１４" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="14" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试１５" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_ITEM_001" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试１６" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_ITEM_001" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试１７" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_ITEM_001" Prm2="3" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="测试１８" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_ITEM_001" Prm2="4" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集５次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集１０次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="10" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集２０次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="20" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集５０次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="50" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集３株魔法草" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_MAGIC_GRASS" Prm2="3" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集３个火岩石" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_KAREN_STONE" Prm2="3" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集３个海胆" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_UNI" Prm2="3" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="战斗５次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="战斗１０次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="10" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="战斗２０次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="20" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="战斗５０次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="50" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合５次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合１０次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="10" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合２０次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="20" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合５０次" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="50" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集火岩石" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_KAREN_STONE" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合中和剂红" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_RED_NEUTLIZER" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="战斗" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集罗梅麦" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_LAMER_WEIZEN" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合罗梅麦粉" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_LAMER_WEIZENMEHL" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集（食材）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_FOODSTUFF" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集钴蓝草" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_COBALT_GRASS" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集井水" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_WELL_WATER" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合中和剂红" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_RED_NEUTLIZER" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集硝基水" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_NITRO_WATER"/>
+	<MainAchievement Name="采集炸裂莓" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_BURST_BERRY"/>
+	<MainAchievement Name="讨伐红噗尼" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_02" Prm2="30"/>
+	<MainAchievement Name="采集硝基水" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_NITRO_WATER"/>
+	<MainAchievement Name="讨伐火焰恶魔" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DEMON_00" Prm2="30"/>
+	<MainAchievement Name="讨伐炽炎狂魔" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DEMON_SP" Prm2="1"/>
+	<MainAchievement Name="采集艾森矿" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_EISEN_MINERAL"/>
+	<MainAchievement Name="采集美丽贝壳" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_BEAUTIFUL_SEASHELL"/>
+	<MainAchievement Name="采集黏银丝" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_SILVER_THREAD"/>
+	<MainAchievement Name="采集（液体）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LIQUID" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集好喝的水" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_DELICIOUS_WATER" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合山师之药" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_GUILT_MEDICINE" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集（液体）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LIQUID" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集（食材）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_FOODSTUFF" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="讨伐迷你史拉格" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_MINISLUG_00" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集（液体）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LIQUID" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集魔法草" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_MAGIC_GRASS" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合（食材）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_FOODSTUFF" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集珀冷石" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_HAKUREI_STONE" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合炎烧" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_FRAMME" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="战斗" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合噗尼冻" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_PUNI_JELLY" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合中和剂‧蓝" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_BLUE_NEUTLIZER" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="战斗" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集银灵结晶" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_SILVER_SPIRIT_CRYSTAL"/>
+	<MainAchievement Name="采集精灵结晶" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_ELEMENT_CRYSTAL"/>
+	<MainAchievement Name="采集岛鱼鱼鳍" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_ISLAND_FISH_FIN"/>
+	<MainAchievement Name="采集湖底泥" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_BOTTOM_SOIL"/>
+	<MainAchievement Name="讨伐独角鱼" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LANDFISH_01" Prm2="30"/>
+	<MainAchievement Name="讨伐大星鱼" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LANDFISH_02" Prm2="1"/>
+	<MainAchievement Name="采集妖精毒草" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_FAIRY_POISONOUS_GRASS"/>
+	<MainAchievement Name="讨伐金木树" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_MANDRAKE_03" Prm2="30"/>
+	<MainAchievement Name="讨伐报丧花精" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_MANDRAKE_SP" Prm2="1"/>
+	<MainAchievement Name="采集（液体）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LIQUID" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集（植物类）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_PLANT" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合朴素烘焙点心" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_BAKED_GOODS" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集（药材）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_MEDICAL" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集（植物类）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_PLANT" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合罗梅麦粉" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_LAMER_WEIZENMEHL" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集雷电矿" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_REIDEN_MINERAL" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合冰精" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_REFERN" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="战斗" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集毛石" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_FADENRITE"/>
+	<MainAchievement Name="讨伐大巫妖" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LICH_03" Prm2="30"/>
+	<MainAchievement Name="讨伐魔术师提图斯" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LICH_SP" Prm2="1"/>
+	<MainAchievement Name="采集星夜花" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_DUNKELHEIT"/>
+	<MainAchievement Name="讨伐风之元素" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ELEMENTAL_01" Prm2="30"/>
+	<MainAchievement Name="讨伐光之元素" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ELEMENTAL_02" Prm2="1"/>
+	<MainAchievement Name="采集祭坛藓" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_ARUTARU"/>
+	<MainAchievement Name="讨伐古斯塔夫" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ARDRA_03" Prm2="30"/>
+	<MainAchievement Name="讨伐巨鹏" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ARDRA_SP" Prm2="1"/>
+	<MainAchievement Name="采集海胆" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_UNI" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集土薯" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_SOIL_POTATO" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合朴素烘焙点心" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_BAKED_GOODS" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集蜂巢" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_HONEY_BEEHIVE" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合原味松饼" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_PLAIN_WAFFLE" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合贝果三明治" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_BAGEL_SAND" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集（黏土）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LOAM" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集雷电石" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_REIDEN_MINERAL" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合（中和剂）" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_NEUTRALIZE" Prm2="2" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集红海胆" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_RED_UNI"/>
+	<MainAchievement Name="讨伐红噗尼" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_02" Prm2="30"/>
+	<MainAchievement Name="讨伐火焰恶魔" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DEMON_00" Prm2="1"/>
+	<MainAchievement Name="采集分层油" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_SAFLOR_OIL"/>
+	<MainAchievement Name="讨伐金噗尼" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_03" Prm2="30"/>
+	<MainAchievement Name="讨伐黑噗尼" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_04" Prm2="1"/>
+	<MainAchievement Name="采集红海胆" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_RED_UNI"/>
+	<MainAchievement Name="讨伐双头兽" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_CHIMERA_03" Prm2="30"/>
+	<MainAchievement Name="讨伐沉默的魔兽" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_CHIMERA_SP" Prm2="1"/>
+	<MainAchievement Name="采集" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="战斗" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集七色水芯片" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_RAINBOW_CRYSTAL_PIECES" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="调合" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="10" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="讨伐白鳞巨龙" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DRAGONARE_00" Prm2="1" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="采集圣水" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_HOLY_WATER"/>
+	<MainAchievement Name="采集梨形宝石" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_PENDEROCK"/>
+	<MainAchievement Name="讨伐不死之王" cntStera="1" map="　" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LICH_BOSS" Prm2="1"/>
+	<MainAchievement Name="采集梨形宝石" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_PENDEROCK"/>
+	<MainAchievement Name="采集贝雷姆贝" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_PELREM_SHELL"/>
+	<MainAchievement Name="讨伐漆黑少女" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_GHOST_BOSS" Prm2="1"/>
+	<MainAchievement Name="采集" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="200"/>
+	<MainAchievement Name="调合" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="100"/>
+	<MainAchievement Name="战斗" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_COUNT" Prm1="150"/>
+	<MainAchievement Name="DUMMY" cntStera="1" Prm1="100" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<MainAchievement Name="详尽了解炼金术" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_020"/>
+	<MainAchievement Name="恢复普拉芙妲的记忆" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_020"/>
+	<MainAchievement Name="详尽了解炼金术" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_160"/>
+	<MainAchievement Name="恢复普拉芙妲的记忆" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_160"/>
+	<MainAchievement Name="详尽了解炼金术" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_030"/>
+	<MainAchievement Name="恢复普拉芙妲的记忆" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_030"/>
+	<MainAchievement Name="详尽了解炼金术" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_010"/>
+	<MainAchievement Name="恢复普拉芙妲的记忆" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_010"/>
+	<MainAchievement Name="详尽了解炼金术" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_010"/>
+	<MainAchievement Name="恢复普拉芙妲的记忆" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_010"/>
+	<MainAchievement Name="灵光一闪想出配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_090"/>
+	<MainAchievement Name="试着从事各种活动" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_090"/>
+	<MainAchievement Name="收集情报" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_010"/>
+	<MainAchievement Name="准备“真理之钥”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_110"/>
+	<MainAchievement Name="前往“睿智之门”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_120"/>
+	<MainAchievement Name="找寻奶奶的书" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_050"/>
+	<MainAchievement Name="调合“山师之药”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_070"/>
+	<MainAchievement Name="试着进行调合" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_090"/>
+	<MainAchievement Name="前往采集素材" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_170"/>
+	<MainAchievement Name="再次试着进行调合" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS05_020"/>
+	<MainAchievement Name="向摩妮卡提出邀约" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_100"/>
+	<MainAchievement Name="前往“雏鸟林”采集" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_130"/>
+	<MainAchievement Name="采集素材" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_160"/>
+	<MainAchievement Name="返回工房" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_170"/>
+	<MainAchievement Name="前往“忘却的苗圃”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_070"/>
+	<MainAchievement Name="打倒魔物" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_070"/>
+	<MainAchievement Name="调合“摘采手套”吧" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_180"/>
+	<MainAchievement Name="问问看摩妮卡" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_040"/>
+	<MainAchievement Name="问问看&lt;CR&gt;爱莉婕姐姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_060"/>
+	<MainAchievement Name="问问看帕梅拉" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_050"/>
+	<MainAchievement Name="花时间想想看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_080"/>
+	<MainAchievement Name="花时间想想看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_090"/>
+	<MainAchievement Name="去散步转换心情" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_110"/>
+	<MainAchievement Name="返回工房" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_120"/>
+	<MainAchievement Name="收集需要的物品" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM05_010"/>
+	<MainAchievement Name="把普拉芙妲的灵魂转移到人偶" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM05_070"/>
+	<MainAchievement Name="跟弗利兹先生交谈看看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_010"/>
+	<MainAchievement Name="请他画设计图" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_020"/>
+	<MainAchievement Name="把“炼金黏土”&lt;CR&gt;带去给弗利兹先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_030"/>
+	<MainAchievement Name="请他制作人偶的身体" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_040"/>
+	<MainAchievement Name="跟蕾昂小姐交谈看看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_300"/>
+	<MainAchievement Name="把“亚达布料”&lt;CR&gt;带去给蕾昂小姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_310"/>
+	<MainAchievement Name="请她制作人偶服装" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_330"/>
+	<MainAchievement Name="跟哈罗尔交谈看看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_200"/>
+	<MainAchievement Name="再次跟哈罗尔&lt;CR&gt;交谈看看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_220"/>
+	<MainAchievement Name="把“丝薇丽银”&lt;CR&gt;带去给哈罗尔" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_230"/>
+	<MainAchievement Name="请他制作发条" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_250"/>
+	<MainAchievement Name="问问看朱利欧先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_100"/>
+	<MainAchievement Name="读读看收到的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_110"/>
+	<MainAchievement Name="问问看罗吉先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_120"/>
+	<MainAchievement Name="前往“山师水畔”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_140"/>
+	<MainAchievement Name="调合“魂盟之针”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_160"/>
+	<MainAchievement Name="跟小柯柯交谈看看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_170"/>
+	<MainAchievement Name="把“基尔亨牛奶”&lt;CR&gt;带去给小柯柯" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_180"/>
+	<MainAchievement Name="请她增加“魂盟之针”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_190"/>
+	<MainAchievement Name="调合“幽冥罗盘”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS08_110"/>
+	<MainAchievement Name="前往“大地伤痕”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_030"/>
+	<MainAchievement Name="交给普拉芙妲&lt;CR&gt;“魔女‧黄金光环”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_060"/>
+	<MainAchievement Name="花时间想想看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_080"/>
+	<MainAchievement Name="花时间想想看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_090"/>
+	<MainAchievement Name="取得“胧草花瓣”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_060"/>
+	<MainAchievement Name="取得“日轮之滴”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XF02_130"/>
+	<MainAchievement Name="取得“久远龙鳞”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_100"/>
+	<MainAchievement Name="调合“真理之钥”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_110"/>
+	<MainAchievement Name="问问看奥斯卡" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_040"/>
+	<MainAchievement Name="把“孕育绿意的活性土”&lt;CR&gt;带去给奥斯卡" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_050"/>
+	<MainAchievement Name="等待胧草花盛开" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_060"/>
+	<MainAchievement Name="问问看摩妮卡" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_020"/>
+	<MainAchievement Name="花时间想想看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_030"/>
+	<MainAchievement Name="调合“日轮之滴”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XF02_130"/>
+	<MainAchievement Name="问问看朱利欧先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_070"/>
+	<MainAchievement Name="去打倒“白鳞巨龙”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_100"/>
+	<MainAchievement Name="立即前往“睿智之门”内部" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_130"/>
+	<MainAchievement Name="寻找男孩Ｂ" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_030"/>
+	<MainAchievement Name="寻找男孩Ａ" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_050"/>
+	<MainAchievement Name="寻找女孩Ａ" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_040"/>
+	<MainAchievement Name="去教会接订单" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_030"/>
+	<MainAchievement Name="去书店接订单" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_040"/>
+	<MainAchievement Name="去咖啡厅接订单" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_050"/>
+	<MainAchievement Name="去向玛格丽特阿姨报告" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_060"/>
+	<MainAchievement Name="以城镇北部为中心&lt;CR&gt;找出奥斯卡" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_120"/>
+	<MainAchievement Name="把“矿物精华”&lt;CR&gt;带去给奥斯卡" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_150"/>
+	<MainAchievement Name="前往山师水畔" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_180"/>
+	<MainAchievement Name="前往“被封印的寺院”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_100"/>
+	<MainAchievement Name="调合“万能除厄香”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_120"/>
+	<MainAchievement Name="去向朱利欧先生报告" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_130"/>
+	<MainAchievement Name="立即前往“被封印的寺院”&lt;CR&gt;找纳萨尔斯先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_140"/>
+	<MainAchievement Name="晚上前往调查&lt;CR&gt;“巡礼街道”的小屋" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_030"/>
+	<MainAchievement Name="去向霍尔斯特先生报告" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_040"/>
+	<MainAchievement Name="把“人偶师的线”&lt;CR&gt;带去给弗利兹先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_060"/>
+	<MainAchievement Name="问问看弗利兹先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_200"/>
+	<MainAchievement Name="寻找可能会懂&lt;CR&gt;“机械盒”的人" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_170"/>
+	<MainAchievement Name="把“精密零件”&lt;CR&gt;带去给哈罗尔" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_180"/>
+	<MainAchievement Name="静待哈罗尔的通知" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_190"/>
+	<MainAchievement Name="把１０个“火岩石”&lt;CR&gt;带去给哈罗尔" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_080"/>
+	<MainAchievement Name="把１０个“克普鲁矿”&lt;CR&gt;带去给哈罗尔" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_200"/>
+	<MainAchievement Name="把“布料”&lt;CR&gt;带去给蕾昂小姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_030"/>
+	<MainAchievement Name="问问看蕾昂小姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_130"/>
+	<MainAchievement Name="问问看蕾昂小姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_190"/>
+	<MainAchievement Name="把“金属块”&lt;CR&gt;带去给罗吉先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC08_LOG_060"/>
+	<MainAchievement Name="把“炎帝粉”&lt;CR&gt;带去给罗吉先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC08_LOG_090"/>
+	<MainAchievement Name="把几种“被遗忘的”&lt;CR&gt;材料带去给罗吉先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC08_LOG_170"/>
+	<MainAchievement Name="交付矿石给罗吉先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC08_LOG_160"/>
+	<MainAchievement Name="交付宝石给罗吉先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="把“云杉木”&lt;CR&gt;带去给帕梅拉" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC09_PAM_110"/>
+	<MainAchievement Name="问问看&lt;CR&gt;玛格丽特阿姨" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC09_PAM_130"/>
+	<MainAchievement Name="问问看&lt;CR&gt;霍尔斯特先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC09_PAM_140"/>
+	<MainAchievement Name="问问看&lt;CR&gt;哈罗尔" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC09_PAM_150"/>
+	<MainAchievement Name="把“炎烧”&lt;CR&gt;带去给缇丝小姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_040"/>
+	<MainAchievement Name="把“云杉木”&lt;CR&gt;带去给缇丝小姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_060"/>
+	<MainAchievement Name="把“不幸瓶”&lt;CR&gt;带去给缇丝小姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_080"/>
+	<MainAchievement Name="把“万能促进剂”&lt;CR&gt;带去给缇丝小姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_100"/>
+	<MainAchievement Name="把“蜂蜜糖浆”&lt;CR&gt;带去给缇丝小姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_130"/>
+	<MainAchievement Name="把“火龙提神药”&lt;CR&gt;带去给霍尔斯特先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC12_HOR_180"/>
+	<MainAchievement Name="返回工房" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_140"/>
+	<MainAchievement Name="前往玛格丽特阿姨的店" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_040"/>
+	<MainAchievement Name="返回工房" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_050"/>
+	<MainAchievement Name="花时间想想看" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_080"/>
+	<MainAchievement Name="调合“试作型营养剂”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_090"/>
+	<MainAchievement Name="去见身在“万物书库”的&lt;CR&gt;劳尔德" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_140"/>
+	<MainAchievement Name="返回工房！！" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM09_140"/>
+	<MainAchievement Name="详尽了解炼金术" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_090"/>
+	<MainAchievement Name="恢复普拉芙妲的记忆" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_090"/>
+	<MainAchievement Name="灵光一闪想出配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XF02_150"/>
+	<MainAchievement Name="试着从事各种活动" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="下次放假&lt;CR&gt;去教会做礼拜吧" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_090"/>
+	<MainAchievement Name="紧急把１５个“朴素烘焙点心”&lt;CR&gt;带去给摩妮卡" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_160"/>
+	<MainAchievement Name="去咖啡厅&lt;CR&gt;听演唱会" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC01_MON_210"/>
+	<MainAchievement Name="前往地底湖" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_190"/>
+	<MainAchievement Name="前往月亮与太阳的原野" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_200"/>
+	<MainAchievement Name="返回基尔亨‧贝尔" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_210"/>
+	<MainAchievement Name="常世仙花" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_230"/>
+	<MainAchievement Name="前往“古老妖精之森”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_240"/>
+	<MainAchievement Name="追赶奥斯卡" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_250"/>
+	<MainAchievement Name="去奥斯卡那里" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_270"/>
+	<MainAchievement Name="前往“古老妖精之森”的&lt;CR&gt;植物之处" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_280"/>
+	<MainAchievement Name="朝森林深处迈进" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_290"/>
+	<MainAchievement Name="打倒魔物" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC02_OSK_310"/>
+	<MainAchievement Name="搜索纳萨尔斯先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_180"/>
+	<MainAchievement Name="把５个“万能除厄香”&lt;CR&gt;带去给纳萨尔斯先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_200"/>
+	<MainAchievement Name="把“贤者之土”&lt;CR&gt;带去给弗利兹先生" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_220"/>
+	<MainAchievement Name="返回工房" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_200"/>
+	<MainAchievement Name="调合&lt;CR&gt;“艾尔莉丝胸针”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XF02_180"/>
+	<MainAchievement Name="把“艾尔莉丝胸针”&lt;CR&gt;带去给蕾昂小姐" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_210"/>
+	<MainAchievement Name="前往“山师水畔”" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_230"/>
+	<MainAchievement Name="思索“炎烧”的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_010"/>
+	<MainAchievement Name="思索“金属块”的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_020"/>
+	<MainAchievement Name="思索“冰精”的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_030"/>
+	<MainAchievement Name="思索“友爱面具”的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_040"/>
+	<MainAchievement Name="思索“钢铁金属”的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_050"/>
+	<MainAchievement Name="思索“丝薇丽银”的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_060"/>
+	<MainAchievement Name="思索“万物手抄本”的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_070"/>
+	<MainAchievement Name="思索“铷”的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_080"/>
+	<MainAchievement Name="思索“天使的耳语”的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_090"/>
+	<MainAchievement Name="思索“初始之火种”的配方" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG11_100"/>
+	<MainAchievement Name="彻底钻研炼金术吧" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_030"/>
+	<MainAchievement Name="返回工房" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM03_070"/>
+	<MainAchievement Name="跟普拉芙妲去街上玩" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM05_080"/>
+	<MainAchievement Name="稍微放慢脚步吧" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_010"/>
+	<MainAchievement Name="彻底钻研炼金术吧" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_070"/>
+	<MainAchievement Name="夜里响起的声音" cntStera="1" Bonus="BONUS_QC04_FRI_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_010"/>
+	<MainAchievement Name="空无一人的小屋" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_020"/>
+	<MainAchievement Name="小屋中的人偶师" cntStera="1" Bonus="BONUS_QC04_FRI_030" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_030"/>
+	<MainAchievement Name="人偶师来到城镇" cntStera="1" Bonus="BONUS_QC04_FRI_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_040"/>
+	<MainAchievement Name="来自人偶师的委托" cntStera="1" Bonus="BONUS_QC04_FRI_050" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_050"/>
+	<MainAchievement Name="弗利兹的热情" cntStera="1" Bonus="BONUS_QC04_FRI_060" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_060"/>
+	<MainAchievement Name="新来的城镇居民" cntStera="1" Bonus="BONUS_QC05_COR_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_010"/>
+	<MainAchievement Name="异国风情的少女" cntStera="1" Bonus="BONUS_QC05_COR_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_020"/>
+	<MainAchievement Name="我也要开店" cntStera="1" Bonus="BONUS_QC05_COR_030" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_030"/>
+	<MainAchievement Name="量贩店开张" cntStera="1" Bonus="BONUS_QC05_COR_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_040"/>
+	<MainAchievement Name="量贩店的销路" cntStera="1" Bonus="BONUS_QC05_COR_050" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_050"/>
+	<MainAchievement Name="柯尔涅莉雅的力量" cntStera="1" Bonus="BONUS_QC05_COR_060" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_060"/>
+	<MainAchievement Name="不良店员" cntStera="1" Bonus="BONUS_QC06_HAR_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_010"/>
+	<MainAchievement Name="向往枪匠？" cntStera="1" Bonus="BONUS_QC06_HAR_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_020"/>
+	<MainAchievement Name="门可罗雀的钟表店" cntStera="1" Bonus="BONUS_QC06_HAR_030" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_030"/>
+	<MainAchievement Name="钟表店老板的视察" cntStera="1" Bonus="BONUS_QC06_HAR_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_040"/>
+	<MainAchievement Name="被留置的发条" cntStera="1" Bonus="BONUS_QC06_HAR_050" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_050"/>
+	<MainAchievement Name="哈罗尔的评价" cntStera="1" Bonus="BONUS_QC06_HAR_060" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC06_HAR_060"/>
+	<MainAchievement Name="神秘大姐姐" cntStera="1" Bonus="BONUS_QC07_LEO_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_010"/>
+	<MainAchievement Name="蕾昂的委托" cntStera="1" Bonus="BONUS_QC07_LEO_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_020"/>
+	<MainAchievement Name="蕾昂的店，开张" cntStera="1" Bonus="BONUS_QC07_LEO_030" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_030"/>
+	<MainAchievement Name="苏菲的服装" cntStera="1" Bonus="BONUS_QC07_LEO_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_040"/>
+	<MainAchievement Name="很在意炼金术" cntStera="1" Bonus="BONUS_QC07_LEO_050" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_050"/>
+	<MainAchievement Name="蕾昂的秘密" cntStera="1" Bonus="BONUS_QC07_LEO_060" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_060"/>
+	<MainAchievement Name="好好考虑下普拉芙妲的事。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_020"/>
+	<MainAchievement Name="考虑下如何让普拉芙妲变成人类。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_030"/>
+	<MainAchievement Name="去“被封印的寺院”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_040"/>
+	<MainAchievement Name="去“被封印的寺院”的深处寻找梅库雷特与亚托米娜吧！" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_050"/>
+	<MainAchievement Name="返回工房吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_060"/>
+	<MainAchievement Name="去“坠落的宫殿”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_070"/>
+	<MainAchievement Name="去“坠落的宫殿”的深处寻找梅库雷特与亚托米娜吧！" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_080"/>
+	<MainAchievement Name="返回工房吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_090"/>
+	<MainAchievement Name="去“忘却的苗圃”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_100"/>
+	<MainAchievement Name="去“月亮与太阳的原野”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_110"/>
+	<MainAchievement Name="去“万物的书库”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY01_120"/>
+	<MainAchievement Name="去“万物的书库”的深处追踪梅库雷特与亚托米娜吧！" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_030"/>
+	<MainAchievement Name="在“万物的书库”里的“黄昏的书架”找到普拉芙妲的笔记吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_040"/>
+	<MainAchievement Name="返回工房吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_050"/>
+	<MainAchievement Name="花点时间，构思下配方吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_120"/>
+	<MainAchievement Name="在街心散步打法时间吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_070"/>
+	<MainAchievement Name="再好好考虑一下吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_080"/>
+	<MainAchievement Name="为了完成配方，再好好考考虑一下吧" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_120"/>
+	<MainAchievement Name="调合“聪者的标记”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_010"/>
+	<MainAchievement Name="为了不输给梅库雷特与亚托米娜，努力学习炼金术吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_020"/>
+	<MainAchievement Name="努力学习炼金术吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="花点时间，考虑一下吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_050"/>
+	<MainAchievement Name="花点时间，考虑一下吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_050"/>
+	<MainAchievement Name="去问问奥斯卡。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_060"/>
+	<MainAchievement Name="去问问罗吉。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_070"/>
+	<MainAchievement Name="去问问朱利欧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_080"/>
+	<MainAchievement Name="已经听取了他人的意见，回工房重新考虑吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_090"/>
+	<MainAchievement Name="已经听取了他人的意见，回工房重新考虑吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_090"/>
+	<MainAchievement Name="已经听取了他人的意见，回工房重新考虑吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_090"/>
+	<MainAchievement Name="为了与普拉芙妲商量，先回工房吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_100"/>
+	<MainAchievement Name="花点时间，考虑一下吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_110"/>
+	<MainAchievement Name="去问问弗利兹。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_120"/>
+	<MainAchievement Name="返回工房。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS12_090"/>
+	<MainAchievement Name="调合“工房帐篷&#xA;”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS12_100"/>
+	<MainAchievement Name="好期待去旅行的日子啊。&#xA;会遇到什么样的人呢…!" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="帮助梅库雷特与亚托米娜！" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_030"/>
+	<MainAchievement Name="代替“知识的大釜”的道具。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY03_010"/>
+	<MainAchievement Name="再花些时间构思配方。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_080"/>
+	<MainAchievement Name="花更多的时间构思配方。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_120"/>
+	<MainAchievement Name="调合“奶奶的衣服”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_020"/>
+	<MainAchievement Name="在“野兽混杂之地”消灭魔物吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_060"/>
+	<MainAchievement Name="去“山师水畔”搜集材料吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_080"/>
+	<MainAchievement Name="调合“会动的扫把”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_100"/>
+	<MainAchievement Name="在“月亮与太阳的原野”消灭妖怪吧" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_120"/>
+	<MainAchievement Name="调合“噗尼果冻”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_160"/>
+	<MainAchievement Name="去柯尔的商店吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_180"/>
+	<MainAchievement Name="调合“柯尔涅利雅人偶”吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_190"/>
+	<MainAchievement Name="去给奶奶扫墓吧。" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_210"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_AA01_010"/>
+	<MainAchievement Name="灵感自事件" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM01_050"/>
+	<MainAchievement Name="无" cntStera="1"/>
+	<MainAchievement Name="无" cntStera="1"/>
+	<MainAchievement Name="获得：井水" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_WELL_WATER" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="获得：海胆" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_UNI" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="获得：罗梅麦" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_LAMER_WEIZEN" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="距离下个记忆……" cntStera="1" startEv="EVENT_MS05_030" Bonus="BONUS_XG11_010" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_RED_03_01" Prm2="ACHIEVEMENT_RED_03_02"/>
+	<MainAchievement Name="战斗：２５只" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="25"/>
+	<MainAchievement Name="委托：７次" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_QUEST_CLEAR_TOTAL_COUNT" Prm1="7"/>
+	<MainAchievement Name="麦伯特农场" cntStera="1" startEv="EVENT_MM02_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_060"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="获得：红海胆" cntStera="1" startEv="EVENT_MM02_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_RED_UNI" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="书店" cntStera="1" startEv="EVENT_MM02_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_050"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_020"/>
+	<MainAchievement Name="距离下个记忆……" cntStera="1" startEv="EVENT_MM02_020" Bonus="BONUS_XG11_020" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_RED_06_01" Prm2="ACHIEVEMENT_RED_06_02"/>
+	<MainAchievement Name="讨伐：奇美拉" cntStera="1" startEv="EVENT_MM02_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_CHIMERA_00" Prm2="2"/>
+	<MainAchievement Name="委托：１２次" cntStera="1" startEv="EVENT_MM02_020" WorkCond="ACHIEVEMENT_WORK_COND_QUEST_CLEAR_TOTAL_COUNT" Prm1="12"/>
+	<MainAchievement Name="随兴草莓的采集知识" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_WHIM_STRAWBERRY" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="获得：蜂巢" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_HONEY_BEEHIVE" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="调查广场" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="获得：野兽毛皮" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_BEAST_FUR" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="调合：朴素烘焙点心（咸）" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_BAKED_GOODS" Prm2="ITEM_EFF_TASTE_SALTY"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="获得：黏银丝" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_SILVER_THREAD" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_050"/>
+	<MainAchievement Name="距离下个记忆……" cntStera="1" startEv="EVENT_MM02_050" Bonus="BONUS_XG11_030" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_BLUE_10_01" Prm2="ACHIEVEMENT_BLUE_10_02"/>
+	<MainAchievement Name="调合：２０次" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="20"/>
+	<MainAchievement Name="获得：（水）５０分" cntStera="1" startEv="EVENT_MM02_050" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_LIQUID" Prm2="50"/>
+	<MainAchievement Name="调合：罗梅麦粉" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_LAMER_WEIZENMEHL" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="获得：雷电矿" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_REIDEN_MINERAL" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="战斗：惊险获胜" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_PINCH_COUNT" Prm1="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="讨伐：皇帝之鸽" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ARDRA_01" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="获得：虔诚信徒用卡牌" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_PIOUS_CHURCH_AMULETS" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="事件中获得" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS05_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="事件中取得" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_050"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="获得：颚松" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_KIFA" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="距离下个记忆……" cntStera="1" startEv="EVENT_MM02_110" Bonus="BONUS_XG11_040" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_GREEN_02_01" Prm2="ACHIEVEMENT_GREEN_02_02" Prm3="ACHIEVEMENT_RED_26_00" Prm4="ACHIEVEMENT_RED_26_01"/>
+	<MainAchievement Name="讨伐：沉默的魔兽" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_CHIMERA_SP" Prm2="1"/>
+	<MainAchievement Name="委托：２５次" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_QUEST_CLEAR_TOTAL_COUNT" Prm1="25"/>
+	<MainAchievement Name="战斗：３００次" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="300"/>
+	<MainAchievement Name="调合：１５０次" cntStera="1" startEv="EVENT_MM02_110" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="150"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_110"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="红预备栏０１" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_COBALT_GRASS"/>
+	<MainAchievement Name="红预备栏０２" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_LAMER_WEIZEN"/>
+	<MainAchievement Name="红预备栏０３" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="开启地图：澄清水边" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_01_00" Prm2="ACHIEVEMENT_RED_01_01" Prm3="ACHIEVEMENT_RED_01_02"/>
+	<MainAchievement Name="开启地图：澄清水边" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_07_00" Prm2="ACHIEVEMENT_RED_07_01" Prm3="ACHIEVEMENT_RED_07_02"/>
+	<MainAchievement Name="开启地图：大地伤痕" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_12_00" Prm2="ACHIEVEMENT_RED_12_01"/>
+	<MainAchievement Name="开启地图：大地伤痕" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_11_00" Prm2="ACHIEVEMENT_RED_11_01"/>
+	<MainAchievement Name="开启地图：大地伤痕" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_16_00"/>
+	<MainAchievement Name="红预备栏９"/>
+	<MainAchievement Name="红预备栏１０"/>
+	<MainAchievement Name="红预备栏１１"/>
+	<MainAchievement Name="红预备栏１２"/>
+	<MainAchievement Name="红预备栏１３"/>
+	<MainAchievement Name="红预备栏１４"/>
+	<MainAchievement Name="红预备栏１５"/>
+	<MainAchievement Name="红预备栏１６"/>
+	<MainAchievement Name="红预备栏１７"/>
+	<MainAchievement Name="红预备栏１８"/>
+	<MainAchievement Name="红预备栏１９"/>
+	<MainAchievement Name="红预备栏２０"/>
+	<MainAchievement Name="红预备栏２１"/>
+	<MainAchievement Name="红预备栏２２"/>
+	<MainAchievement Name="红预备栏２３"/>
+	<MainAchievement Name="红预备栏２４"/>
+	<MainAchievement Name="红预备栏２５"/>
+	<MainAchievement Name="红预备栏２６"/>
+	<MainAchievement Name="红预备栏２７"/>
+	<MainAchievement Name="红预备栏２８"/>
+	<MainAchievement Name="红预备栏２９"/>
+	<MainAchievement Name="红预备栏３０"/>
+	<MainAchievement Name="购入：３００克隆" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BOUGHT_MONEY" Prm1="300"/>
+	<MainAchievement Name="售出：３００克隆" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_SOLD_MONEY" Prm1="300"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="战斗败北知识" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_LOSE_COUNT" Prm1="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="忘却的苗圃" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_080"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="调合：蜂蜜（基尔亨‧贝尔特产）" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_HONEY" Prm2="ITEM_POTENTIAL_YOBI_443"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="获得时习得" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_SP_KETTLE_001" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="调合：海胆袋（爆炸）" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_UNI_BAG" Prm2="ITEM_EFF_DMG_SPLIT_2"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="技能：英勇之心" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR" Prm1="ACHIEVEMENT_BLUE_YOBI_07" Prm2="ACHIEVEMENT_BLUE_YOBI_08"/>
+	<MainAchievement Name="技能：光芒剑锋" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR" Prm1="ACHIEVEMENT_BLUE_YOBI_09" Prm2="ACHIEVEMENT_BLUE_YOBI_10"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_130"/>
+	<MainAchievement Name="距离下个记忆……" cntStera="1" startEv="EVENT_MM02_130" Bonus="BONUS_XG11_050" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_RED_07_01" Prm2="ACHIEVEMENT_RED_07_02"/>
+	<MainAchievement Name="调合：３０次" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="30"/>
+	<MainAchievement Name="使用：１５次" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_ITEM_EX_COUNT" Prm5="15"/>
+	<MainAchievement Name="讨伐：绿噗尼" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_01" Prm2="1"/>
+	<MainAchievement Name="讨伐：红噗尼" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_02" Prm2="1"/>
+	<MainAchievement Name="讨伐：黑噗尼" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_PUNI_04" Prm2="1"/>
+	<MainAchievement Name="调合：布料（带热）" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_CLOTH" Prm2="ITEM_POTENTIAL_YOBI_435"/>
+	<MainAchievement Name="提示：金属块→捆起来的金线→？？？" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_YELLOW_10_00"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="事件：" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_170"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="调合：山师之药（尺寸＋）" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_GUILT_MEDICINE" Prm2="ITEM_POTENTIAL_SIZE_UP_1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="探索：全体" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_YELLOW_03_01" Prm2="ACHIEVEMENT_YELLOW_03_02"/>
+	<MainAchievement Name="探索：跳跃" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_FIRST_ATTACK" Prm1="25"/>
+	<MainAchievement Name="探索：挥击" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="100"/>
+	<MainAchievement Name="获得时习得" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_SP_KETTLE_003" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="采集：１０次" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_COUNT" Prm1="10"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_160"/>
+	<MainAchievement Name="距离下个记忆……" cntStera="1" startEv="EVENT_MM02_160" Bonus="BONUS_XG11_060" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_RED_08_01" Prm2="ACHIEVEMENT_RED_08_02"/>
+	<MainAchievement Name="讨伐：６０只" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="60"/>
+	<MainAchievement Name="武器调合：５次" cntStera="1" startEv="EVENT_MM02_160" WorkCond="ACHIEVEMENT_WORK_COND_MIX_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_WEAPON" Prm2="5"/>
+	<MainAchievement Name="敌人掉落：宝箱" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GIMMICK_EFFECT_COUNT" Prm1="FIELDMAP_GIMMICK_EFFECT_ITEM_BOX_WITH_OBJ_DROP" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="技能：噗尼挤压" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_ENEMY_PUNI_SKILL_03_B" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="讨伐：剑爪鸦" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ARDRA_02" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="事件中获得" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="获得：事件" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_300"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="获得：好喝的水" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_DELICIOUS_WATER" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="古老厨房" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_070"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="ＮＰＣ对话：占卜师" cntStera="1" startEv="EVENT_MM02_190" Bonus="BONUS_XG11_140" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_NPC_TALK_KIND" Prm1="FIELDMAP_NPC_MESSAGE_TOWN_09_NPC23B_SP"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="调合：云杉木（摇曳之光）" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_SPRUCE" Prm2="ITEM_POTENTIAL_YOBI_444"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="距离下个记忆……" cntStera="1" startEv="EVENT_MM02_190" Bonus="BONUS_XG11_070" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_BLUE_21_02"/>
+	<MainAchievement Name="讨伐：报丧花精" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_MANDRAKE_SP" Prm2="1"/>
+	<MainAchievement Name="调合：（纸）２５次" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_CATEGORY_EX_COUNT" Prm3="ITEM_CATEGORY_PAPER" Prm5="25"/>
+	<MainAchievement Name="事件中习得" cntStera="1" startEv="EVENT_MM02_190" map="FIELDMAP_T01_TOWN_01" Bonus="BONUS_MM04_100_EVENT" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_100"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="事件中习得" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM04_160"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="战斗：３００只" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="300"/>
+	<MainAchievement Name="调合：１５０次" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="150"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_FLAG_VALUE_COUNT" Prm1="EVENT_FLAG_RECIPE_LOCK_07_COUNT" Prm2="23"/>
+	<MainAchievement Name="入手時に習得" cntStera="1" startEv="EVENT_MM02_190" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_GURU_ALCHEMY_KETTLE" Prm2="1"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MM02_190"/>
+	<MainAchievement Name="イベントで修得" cntStera="1" startEv="EVENT_XX01_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_010"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="蓝预备栏０１" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_09_00"/>
+	<MainAchievement Name="蓝预备栏０２" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_11_00"/>
+	<MainAchievement Name="蓝预备栏０３" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_03_00"/>
+	<MainAchievement Name="蓝预备栏０４" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_05_00"/>
+	<MainAchievement Name="蓝预备栏０５" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_10_00" Prm2="ACHIEVEMENT_BLUE_10_01"/>
+	<MainAchievement Name="蓝预备栏０６" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_02_00" Prm2="ACHIEVEMENT_BLUE_02_01"/>
+	<MainAchievement Name="蓝预备栏０７"/>
+	<MainAchievement Name="黑白眼镜用１" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_PT_MONIKA_SKILL2" Prm2="1"/>
+	<MainAchievement Name="黑白眼镜用２" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_PT_MONIKA_SKILL2_ADV" Prm2="1"/>
+	<MainAchievement Name="黑白眼镜用３" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_PT_MONIKA_SKILL1" Prm2="1"/>
+	<MainAchievement Name="黑白眼镜用４" cntStera="1" startEv="EVENT_MM02_130" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_PT_MONIKA_SKILL1_ADV" Prm2="1"/>
+	<MainAchievement Name="蓝预备栏１２"/>
+	<MainAchievement Name="蓝预备栏１３"/>
+	<MainAchievement Name="蓝预备栏１４"/>
+	<MainAchievement Name="蓝预备栏１５"/>
+	<MainAchievement Name="蓝预备栏１６"/>
+	<MainAchievement Name="蓝预备栏１７"/>
+	<MainAchievement Name="蓝预备栏１８"/>
+	<MainAchievement Name="蓝预备栏１９"/>
+	<MainAchievement Name="蓝预备栏２０"/>
+	<MainAchievement Name="蓝预备栏２１"/>
+	<MainAchievement Name="蓝预备栏２２"/>
+	<MainAchievement Name="蓝预备栏２３"/>
+	<MainAchievement Name="蓝预备栏２４"/>
+	<MainAchievement Name="蓝预备栏２５"/>
+	<MainAchievement Name="蓝预备栏２６"/>
+	<MainAchievement Name="蓝预备栏２７"/>
+	<MainAchievement Name="蓝预备栏２８"/>
+	<MainAchievement Name="蓝预备栏２９"/>
+	<MainAchievement Name="蓝预备栏３０"/>
+	<MainAchievement Name="获得：基尔亨牛奶（之后变为ＮＰＣ）" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_KIRUHEN_MILK" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="调合：任意" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="1"/>
+	<MainAchievement Name="等级：调合" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_GE_MASTER_MIXLV" Prm1="25"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="调合：炼金彩糖（解除异常）" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_ALCHEMY_DROP" Prm2="ITEM_EFF_TASTE_SWEET_2"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="探索：环绕区域" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_GREEN_YOBI_00" Prm2="ACHIEVEMENT_GREEN_YOBI_01" Prm3="ACHIEVEMENT_GREEN_YOBI_02" Prm4="ACHIEVEMENT_GREEN_YOBI_03" Prm5="ACHIEVEMENT_GREEN_YOBI_04"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="获得：夜光水" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_NIGHT_GLOW_WATER" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="调合：（装饰品）" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_CATEGORY_COUNT" Prm1="ITEM_CATEGORY_ACCESSORY" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="调查：锻冶屋" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="调合：捆起来的金线（净化之水）" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_BUNDLED_GOLD" Prm2="ITEM_POTENTIAL_YOBI_446"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="调合：炎烧（蓝色火焰）" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_FRAMME" Prm2="ITEM_EFF_DMG_BLUE_FRAME"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="获得：黑燃料球" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_BLACK_MASS" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_010"/>
+	<MainAchievement Name="距离下个记忆……" cntStera="1" startEv="EVENT_MM06_010" Bonus="BONUS_XG11_080" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_RED_19_01" Prm2="ACHIEVEMENT_RED_19_02"/>
+	<MainAchievement Name="调合：３０次" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="30"/>
+	<MainAchievement Name="回礼：４次" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_FLAG_VALUE_COUNT" Prm1="EVENT_FLAG_PRESENT_COUNT" Prm2="4"/>
+	<MainAchievement Name="调合：顶级热牛奶（热烫烫～）" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_FINEST_HOT_MILK" Prm2="ITEM_EFF_TASTE_TEMPERATURE_3"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="敌人技能：闪电" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_COMMON_THUNDER_SKILL_01" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="ＬＰ消耗：变为０为止" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_LP_ZERO_COUNT" Prm1="PARTY_SOPHIE" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="使用：冰精" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_ITEM_EX_COUNT" Prm3="ITEM_MIX_REFERN" Prm5="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="调合：噗尼冻（分裂发动）" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_PUNI_JELLY" Prm2="ITEM_EFF_YOBI_256"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="调查大地伤痕" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_150"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="获得：恩典戒指" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_ACC_GUNADE_RING" Prm2="1"/>
+	<MainAchievement Name="调合：锻炼的护符（锻炼的真髓）" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_DISCIPLINE_TALISMAN" Prm2="ITEM_EFF_GET_EXP_UP_3"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="获得时习得" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_SP_KETTLE_002" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="调合：贝果三明治（松软）" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_BAGEL_SAND" Prm2="ITEM_EFF_TASTE_ELASTICITY_2"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="获得：银灵结晶" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_SILVER_SPIRIT_CRYSTAL" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="距离下个记忆……" cntStera="1" startEv="EVENT_MM06_040" Bonus="BONUS_XG11_090" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_WHITE_14_01" Prm2="ACHIEVEMENT_WHITE_14_02" Prm3="ACHIEVEMENT_GREEN_24_00" Prm4="ACHIEVEMENT_GREEN_24_01"/>
+	<MainAchievement Name="讨伐：不死之王" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_LICH_BOSS" Prm2="1"/>
+	<MainAchievement Name="捐款：８０００克隆" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BOUGHT_MONEY_SHOP_KIND" Prm1="SHOP_CHURCH" Prm2="8000"/>
+	<MainAchievement Name="事件中获得" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC07_LEO_200"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="事件中获得" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC04_FRI_210"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="事件中习得" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_050"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="事件中获得" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC10_TES_120"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="事件中获得" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC03_JUL_100"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="调合附加特性的万药之本" cntStera="1" startEv="EVENT_MS05_030" WorkCond="ACHIEVEMENT_WORK_COND_MIX_ITEM_COUNT" Prm1="ITEM_MIX_UNIVERSAL_MEDICINE" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="战斗：３００只" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="300"/>
+	<MainAchievement Name="调合：１５０次" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="150"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="入手して習得" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_SOPIE_ALCHEMY_KETTLE" Prm2="1"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="イベントで修得" cntStera="1" startEv="EVENT_XX01_090" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_090"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="探索：口传的彼端" cntStera="1" startEv="EVENT_MM06_010" area="FIELDAREA_LASTDUNGEON" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_ENTER" Prm1="1"/>
+	<MainAchievement Name="探索：无尽水源" cntStera="1" startEv="EVENT_MM06_010" area="FIELDAREA_GUILTRIVER" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_ENTER" Prm1="1"/>
+	<MainAchievement Name="探索：险峻大地" cntStera="1" startEv="EVENT_MM06_010" area="FIELDAREA_WASTELAND" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_ENTER" Prm1="1"/>
+	<MainAchievement Name="探索：野风之原" cntStera="1" startEv="EVENT_MM06_010" area="FIELDAREA_MASFIELD" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_ENTER" Prm1="1"/>
+	<MainAchievement Name="探索：城镇附近" cntStera="1" startEv="EVENT_MM06_010" area="FIELDAREA_NEARTOWN" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_ENTER" Prm1="1"/>
+	<MainAchievement Name="购入：教会卡牌" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_CHURCH_AMULETS" Prm2="200"/>
+	<MainAchievement Name="购入：高级卡牌" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_LUXURY_CHURCH_AMULETS" Prm2="100"/>
+	<MainAchievement Name="购入：虔诚信徒用卡牌" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_PIOUS_CHURCH_AMULETS" Prm2="8"/>
+	<MainAchievement Name="购入：圣水" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_HOLY_WATER" Prm2="100"/>
+	<MainAchievement Name="购入：梨形宝石" cntStera="1" startEv="EVENT_MM06_010" WorkCond="ACHIEVEMENT_WORK_COND_SHOP_BUY_ITEM_COUNT" Prm1="ITEM_MAT_PENDEROCK" Prm2="16"/>
+	<MainAchievement Name="绿预备栏１１"/>
+	<MainAchievement Name="绿预备栏１２"/>
+	<MainAchievement Name="绿预备栏１３"/>
+	<MainAchievement Name="绿预备栏１４"/>
+	<MainAchievement Name="绿预备栏１５"/>
+	<MainAchievement Name="绿预备栏１６"/>
+	<MainAchievement Name="绿预备栏１７"/>
+	<MainAchievement Name="绿预备栏１８"/>
+	<MainAchievement Name="绿预备栏１９"/>
+	<MainAchievement Name="绿预备栏２０"/>
+	<MainAchievement Name="绿预备栏２１"/>
+	<MainAchievement Name="绿预备栏２２"/>
+	<MainAchievement Name="绿预备栏２３"/>
+	<MainAchievement Name="绿预备栏２４"/>
+	<MainAchievement Name="绿预备栏２５"/>
+	<MainAchievement Name="绿预备栏２６"/>
+	<MainAchievement Name="绿预备栏２７"/>
+	<MainAchievement Name="绿预备栏２８"/>
+	<MainAchievement Name="绿预备栏２９"/>
+	<MainAchievement Name="绿预备栏３０"/>
+	<MainAchievement Name="使用：(炸弹)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_CATEGORY_EX_COUNT" Prm3="ITEM_CATEGORY_BOMB" Prm5="1"/>
+	<MainAchievement Name="使用：(魔法道具)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_CATEGORY_EX_COUNT" Prm3="ITEM_CATEGORY_MAGICITEM" Prm5="1"/>
+	<MainAchievement Name="使用：(药品)" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_USE_CATEGORY_EX_COUNT" Prm3="ITEM_CATEGORY_MEDICINE" Prm5="1"/>
+	<MainAchievement Name="调查水滨古迹" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_130"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="调合：天使的耳语（灵魂清醒）" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_ANGEL_WHISPER" Prm2="ITEM_EFF_REVIVAL_SOUND_2"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="调查无祷供桌" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_140"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="调合：金属块（金色光芒）" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_INGOT" Prm2="ITEM_POTENTIAL_YOBI_447"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="获得时习得" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_BEGINNERS_ALCHEMY_KETTLE" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="调合：纯水（健康的秘诀）" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_PURE_WATER" Prm2="ITEM_POTENTIAL_YOBI_451"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="调合：亚达布料（高级品）" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_ITEM_KUPTAL_CLOTH" Prm2="ITEM_POTENTIAL_PRICE_UP_1_AND_2"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="获得：龙之结晶" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_DRAGON_BLOOD_CRYSTAL" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="调合：天然酵母（太阳的味道）" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_NATURAL_YEAST" Prm2="ITEM_POTENTIAL_YOBI_441"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="调查静寂的寝室" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_190"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="消耗ＬＰ：消耗１００" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_LP_USE_COUNT" Prm1="PARTY_SOPHIE" Prm2="100" Prm5="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="调合：高贵紫宝石（古代刻印）" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_POTENTIAL_ITEM" Prm1="ITEM_MIX_NOBLE_SAPPHIRE" Prm2="ITEM_POTENTIAL_YOBI_438"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="战斗：逃跑" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_ESCAPE_COUNT" Prm1="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="战斗：弱点伤害" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_WEAK_COUNT" Prm1="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="对话：学者" cntStera="1" startEv="EVENT_MM06_020" Bonus="BONUS_XG10_240" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_NPC_TALK_KIND" Prm1="FIELDMAP_NPC_MESSAGE_TOWN_14_NPC23B_SP"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="战斗：破防" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_BREAK_COUNT" Prm1="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="天候：山师水畔之夜的雷雨" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR" Prm1="ACHIEVEMENT_GREEN_26_00" Prm2="ACHIEVEMENT_GREEN_26_01" Prm3="ACHIEVEMENT_GREEN_26_02"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="距离下个记忆……" cntStera="1" startEv="EVENT_MM06_020" Bonus="BONUS_XG11_100" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR_OR2" Prm1="ACHIEVEMENT_WHITE_22_01" Prm2="ACHIEVEMENT_WHITE_22_02" Prm3="ACHIEVEMENT_YELLOW_27_00" Prm4="ACHIEVEMENT_YELLOW_27_01"/>
+	<MainAchievement Name="战斗：给予伤害：１００００" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_DAMAGE_TOTAL_COUNT" Prm1="10000"/>
+	<MainAchievement Name="战斗：被伤害：２０００" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_DAMAGE_PARTY_TOTAL_COUNT" Prm1="2000"/>
+	<MainAchievement Name="战斗：３００次" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm2="300"/>
+	<MainAchievement Name="调合：１５０次" cntStera="1" startEv="EVENT_MM06_020" WorkCond="ACHIEVEMENT_WORK_COND_MIX_COUNT" Prm1="150"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_020"/>
+	<MainAchievement Name="天候：山师的猎场" cntStera="1" startEv="EVENT_MM06_020" map="FIELDMAP_L03_GUILTRIVER_01" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_SKY_COUNT" Prm1="FM_SKY_NIGHT_THUNDER_STORM" Prm2="1"/>
+	<MainAchievement Name="天候：宝藏河岸" cntStera="1" startEv="EVENT_MM06_020" map="FIELDMAP_L03_GUILTRIVER_02" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_SKY_COUNT" Prm1="FM_SKY_NIGHT_THUNDER_STORM" Prm2="1"/>
+	<MainAchievement Name="天候：邂逅河滨" cntStera="1" startEv="EVENT_MM06_020" map="FIELDMAP_L03_GUILTRIVER_03" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_SKY_COUNT" Prm1="FM_SKY_NIGHT_THUNDER_STORM" Prm2="1"/>
+	<MainAchievement Name="事件：柯尔涅莉雅" cntStera="1" startEv="EVENT_MM06_040" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_QC05_COR_170"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM06_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="开启：麦伯特农场" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_YELLOW_02_00"/>
+	<MainAchievement Name="开启：麦伯特农场" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_YELLOW_04_00"/>
+	<MainAchievement Name="开启：麦伯特农场" cntStera="1" map="FIELDMAP_T01_TOWN_01" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_YELLOW_09_00" Prm2="ACHIEVEMENT_YELLOW_09_01"/>
+	<MainAchievement Name="黄预备栏０４"/>
+	<MainAchievement Name="黄预备栏０５"/>
+	<MainAchievement Name="黄预备栏０６"/>
+	<MainAchievement Name="黄预备栏０７"/>
+	<MainAchievement Name="黄预备栏０８"/>
+	<MainAchievement Name="黄预备栏０９"/>
+	<MainAchievement Name="黄预备栏１０"/>
+	<MainAchievement Name="黄预备栏１１"/>
+	<MainAchievement Name="黄预备栏１２"/>
+	<MainAchievement Name="黄预备栏１３"/>
+	<MainAchievement Name="黄预备栏１４"/>
+	<MainAchievement Name="黄预备栏１５"/>
+	<MainAchievement Name="黄预备栏１６"/>
+	<MainAchievement Name="黄预备栏１７"/>
+	<MainAchievement Name="黄预备栏１８"/>
+	<MainAchievement Name="黄预备栏１９"/>
+	<MainAchievement Name="黄预备栏２０"/>
+	<MainAchievement Name="黄预备栏２１"/>
+	<MainAchievement Name="黄预备栏２２"/>
+	<MainAchievement Name="黄预备栏２３"/>
+	<MainAchievement Name="黄预备栏２４"/>
+	<MainAchievement Name="黄预备栏２５"/>
+	<MainAchievement Name="黄预备栏２６"/>
+	<MainAchievement Name="黄预备栏２７"/>
+	<MainAchievement Name="黄预备栏２８"/>
+	<MainAchievement Name="黄预备栏２９"/>
+	<MainAchievement Name="黄预备栏３０"/>
+	<MainAchievement Name="调合：补给瓶（自动发动５０％）" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_REFUEL_BOTTLE" Prm2="ITEM_EFF_YOBI_259"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="讨伐：亚修克" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DRAGONARE_SP01" Prm2="1"/>
+	<MainAchievement Name="讨伐：杜拉克" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DRAGONARE_SP02" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="调查：沉积小岛" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_120"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="技能：生命之粉（金木树）" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_ENEMY_MANDRAKE_SKILL_01_D" Prm2="1"/>
+	<MainAchievement Name="调查：古老妖精之森" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_GATHER_ITEM_KIND" Prm1="ITEM_MAT_FAIRY_POISONOUS_GRASS" Prm2="ITEM_MAT_MYSTIC_HERB" Prm3="ITEM_MAT_VINES_TWINE" Prm4="ITEM_MAT_KIFA" Prm5="ITEM_MAT_SOIL_POTATO"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="获得时习得" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_ALCHEMYST_KETTLE" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="调合：万物手抄本（夺取相当多生命力）" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_EFFECT_ITEM" Prm1="ITEM_MIX_ALL_THINGS_MANUSCRIPT" Prm2="ITEM_EFF_DRAIN_HP_3"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="ＮＰＣ：附近的森林" cntStera="1" startEv="EVENT_MM07_010" Bonus="BONUS_XG11_130" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_NPC_TALK_KIND" Prm1="FIELDMAP_NPC_MESSAGE_T01_TOWN_05_NPC27A_SP_00"/>
+	<MainAchievement Name="讨伐：巫妖" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_KIND" Prm1="MONSTER_LICH_00"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="讨伐：光之元素" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_ELEMENTAL_02" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="委托：毁弃" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_QUEST_FAILED_TOTAL_COUNT" Prm1="5"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="调查工房前" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="调查苍天祭坛" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_200"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="获得：精灵结晶" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_ELEMENT_CRYSTAL" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="获得：彩虹噗尼的体液" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_RAINBOW_PUNI_LIQUID" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="事件中获得" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="讨伐：末世火龙" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_DRAGONARE_01" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="讨伐：漆黑少女" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_MONSTER_KILL_COUNT" Prm1="MONSTER_GHOST_BOSS" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="调查钟表店" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XG10_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="获得：星夜花" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_GET_ITEM_COUNT" Prm1="ITEM_MAT_DUNKELHEIT" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="技能：真实解放" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_BATTLE_USE_SKILL_COUNT" Prm1="SKILL_PT_SOPHIE_SUPPORT_SPECIAL_GUARD" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="调合：等级５０" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_GE_MASTER_MIXLV" Prm1="45"/>
+	<MainAchievement Name="调合：全部习得" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_MIX_RECIPE_TOTAL" Prm1="119"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="事件中获得" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM08_080"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="事件：奥斯卡" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_040"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="事件中习得" cntStera="1" startEv="EVENT_MM07_010" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MM07_010"/>
+	<MainAchievement Name="获得时习得" cntStera="1" startEv="EVENT_MS05_040" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_ALCHEMYST_KETTLE" Prm2="1"/>
+	<MainAchievement Name="无" cntStera="1"/>
+	<MainAchievement Name="无" cntStera="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_YY02_120" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_YY02_120"/>
+	<MainAchievement Name="无" cntStera="1"/>
+	<MainAchievement Name="无" cntStera="1"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS12_090" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MS12_090"/>
+	<MainAchievement Name="无" cntStera="1"/>
+	<MainAchievement Name="无" cntStera="1"/>
+	<MainAchievement Name="入手時に習得" cntStera="1" startEv="EVENT_MM09_140" WorkCond="ACHIEVEMENT_WORK_COND_ITEM_HAVE_CHECK" Prm1="ITEM_MIX_AUS_JEM" Prm2="1"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MM09_140"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MM09_140"/>
+	<MainAchievement Name="イベントで修得" cntStera="1" startEv="EVENT_XX01_180" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_XX01_180"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="なし" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="无" cntStera="1" startEv="EVENT_MS05_030"/>
+	<MainAchievement Name="炎烧条件１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_03_00"/>
+	<MainAchievement Name="炎烧条件２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_03_00"/>
+	<MainAchievement Name="白预备栏０３" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_06_00"/>
+	<MainAchievement Name="白预备栏０４" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_06_00"/>
+	<MainAchievement Name="白预备栏０５" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_10_00"/>
+	<MainAchievement Name="白预备栏０６" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_BLUE_10_00"/>
+	<MainAchievement Name="白预备栏０７" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_GREEN_02_00"/>
+	<MainAchievement Name="白预备栏０８" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_GREEN_02_00"/>
+	<MainAchievement Name="白预备栏０９" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_07_00"/>
+	<MainAchievement Name="白预备栏１０" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_07_00"/>
+	<MainAchievement Name="白预备栏１１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_08_00"/>
+	<MainAchievement Name="白预备栏１２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_08_00"/>
+	<MainAchievement Name="白预备栏１３" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_20_00"/>
+	<MainAchievement Name="白预备栏１４" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_20_00"/>
+	<MainAchievement Name="白预备栏１５" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_19_00"/>
+	<MainAchievement Name="白预备栏１６" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_RED_19_00"/>
+	<MainAchievement Name="白预备栏１７" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_14_00"/>
+	<MainAchievement Name="白预备栏１８" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_14_00"/>
+	<MainAchievement Name="白预备栏１９" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_22_00"/>
+	<MainAchievement Name="白预备栏２０" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_22_00"/>
+	<MainAchievement Name="白预备栏２１" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_22_00"/>
+	<MainAchievement Name="白预备栏２２" cntStera="1" WorkCond="ACHIEVEMENT_WORK_COND_ACHIEVEMENT_CLEAR" Prm1="ACHIEVEMENT_WHITE_22_00"/>
+	<MainAchievement Name="白预备栏２３"/>
+	<MainAchievement Name="白预备栏２４"/>
+	<MainAchievement Name="白预备栏２５"/>
+	<MainAchievement Name="白预备栏２６"/>
+	<MainAchievement Name="白预备栏２７"/>
+	<MainAchievement Name="白预备栏２８"/>
+	<MainAchievement Name="白预备栏２９"/>
+	<MainAchievement Name="白预备栏３０"/>
+	<MainAchievement Name="未开放配方‧１" cntStera="1" Bonus="BONUS_LOCK_00" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_020"/>
+	<MainAchievement Name="未开放配方‧２" cntStera="1" Bonus="BONUS_LOCK_01" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_050"/>
+	<MainAchievement Name="未开放配方‧３" cntStera="1" Bonus="BONUS_LOCK_02" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_110"/>
+	<MainAchievement Name="未开放配方‧４" cntStera="1" Bonus="BONUS_LOCK_03" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_130"/>
+	<MainAchievement Name="未开放配方‧５" cntStera="1" Bonus="BONUS_LOCK_04" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_160"/>
+	<MainAchievement Name="未开放配方‧６" cntStera="1" Bonus="BONUS_LOCK_05" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_190"/>
+	<MainAchievement Name="未开放配方‧７" cntStera="1" Bonus="BONUS_LOCK_06" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM02_210"/>
+	<MainAchievement Name="未开放配方‧８" cntStera="1" Bonus="BONUS_LOCK_07" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_040"/>
+	<MainAchievement Name="未开放配方‧９" cntStera="1" Bonus="BONUS_LOCK_08" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM06_020"/>
+	<MainAchievement Name="未开放配方‧１０" cntStera="1" Bonus="BONUS_LOCK_09" WorkCond="ACHIEVEMENT_WORK_COND_EVENT_EXEC_KIND" Prm1="EVENT_MM07_010"/>
+	<MainAchievement Name="未开放配方‧１１" cntStera="1"/>
+	<MainAchievement Name="未开放配方‧１２" cntStera="1"/>
+	<MainAchievement Name="未开放配方‧１３" cntStera="1"/>
+	<MainAchievement Name="未开放配方‧１４" cntStera="1"/>
+	<MainAchievement Name="未开放配方‧１５" cntStera="1"/>
+</Root>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--調合:スキルメニューの行のひな形-->
+	<node name="lf_mix_skill_menu" viewer_visible="false">
+		<node name="skillbox" pos="259, -2, 0">
+			<image name="skill_icon" style="gen_mix04_mixskillicon" pos="-266, -5, 0"/>
+			<image name="count" style="gen_mix04_skill_count" pos="-245, 11, 0"/>
+		</node>
+		<image name="skill_check" style="gen_mix04_skill_check" pos="-23.00, -9.00, 0.00" visible="false" viewer_visible="true"/>
+		<node name="skill_name_color_base">
+			<text name="skill_name" text="アイウエオかきくけこ" font_size="24.00" pos="37, 2, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="41,53,90, 255.00"/>
+		</node>
+		<image style="gen_mix01_acce01" name="under" image_no="0" pos="-19, 26, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="314, 15"/>
+	</node>
+</root>

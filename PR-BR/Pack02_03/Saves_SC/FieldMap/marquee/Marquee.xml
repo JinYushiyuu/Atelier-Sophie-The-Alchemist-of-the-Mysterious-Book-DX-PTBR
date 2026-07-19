@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<Marquee No.="0" FM_MARQUEE_TAG="EV_CLEAR" ENTRY_TAG="系統" sEventTag="EVENT_NONE" fEventTag="EVENT_NONE" Num="30" Message="已达成“%s”。"/>
+	<Marquee No.="1" FM_MARQUEE_TAG="QUEST_CLEAR" ENTRY_TAG="系統" sEventTag="EVENT_NONE" fEventTag="EVENT_NONE" Num="20" Message="可报告“%s”。"/>
+	<Marquee No.="2" FM_MARQUEE_TAG="RUMOR_END" ENTRY_TAG="系統" sEventTag="EVENT_NONE" fEventTag="EVENT_NONE" Num="10" Message="“%s”已结束。"/>
+	<Marquee No.="3" FM_MARQUEE_TAG="LEARN_RECIPE" ENTRY_TAG="系統" sEventTag="EVENT_NONE" fEventTag="EVENT_NONE" Num="5" Message="%s"/>
+	<Marquee No.="4" FM_MARQUEE_TAG="EM_EVENT_START" ENTRY_TAG="系統" sEventTag="EVENT_NONE" fEventTag="EVENT_NONE" Num="30" Message="已追加事件“%s”。"/>
+</Root>

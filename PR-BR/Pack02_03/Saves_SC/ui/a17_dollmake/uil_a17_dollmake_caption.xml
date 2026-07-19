@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<command load_anim="/Saves/ui/a17_caption/uia_a17_caption.xml"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00" visible="false"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" pos="-3, 21, 0">
+		<!--***↓0801_キャプション追加**-->
+		<image name="caption_main" style="gen_a17_mix01_captiontag" pos="3.00, -21.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="caption_1" style="gen_a17_main_caption02_cap" pos="58.00, 45.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="33"/>
+			<image name="caption_2" style="gen_a17_main_caption02_cap" pos="58.00, 45.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="34"/>
+		</image>
+		<anim_ctrl name="caption_change" play="false" viewer_key_assign="0">
+			<bind_node node="caption_1" anim="anm_caption_roll_in"/>
+			<bind_node node="caption_2" anim="anm_caption_roll_in" reverse="true"/>
+		</anim_ctrl>
+	</node>
+	<anim_ctrl name="fade_in" start_visible="true" play="false" loop="false" viewer_key_assign="1">
+		<bind_node node="top" anim="anm_common_fade_in"/>
+	</anim_ctrl>
+</root>

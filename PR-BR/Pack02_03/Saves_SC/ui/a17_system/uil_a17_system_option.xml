@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<image name="bg02" style="etc_a17_bg" image_no="1" pos="-36.00, -51.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="1346.00, 854.00, 0.00" visible="false" viewer_visible="true"/>
+		<image name="bg_accessory" style="gen_a17_bg01_accessory01" pos="705, 68, 0" size_wh="473, 636" viewer_visible="false"/>
+		<node name="line" pos="265.00, 177.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="line" style="gen_a17_win01_line01" pos="-135.00, 35.00, 0.00" size_wh="400, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_1" style="gen_a17_win01_line01" pos="-135.00, 87.00, 0.00" size_wh="400, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_2" style="gen_a17_win01_line01" pos="-135.00, 139.00, 0.00" size_wh="400, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_3" style="gen_a17_win01_line01" pos="-135.00, 193.00, 0.00" size_wh="400, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_4" style="gen_a17_win01_line01" pos="-135.00, 244.00, 0.00" size_wh="400, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_5" style="gen_a17_win01_line01" pos="-135.00, 297.00, 0.00" size_wh="400, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_6" style="gen_a17_win01_line01" pos="-135.00, 350.00, 0.00" size_wh="400, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_7" style="gen_a17_win01_line01" pos="-135.00, 403.00, 0.00" size_wh="400, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_8" style="gen_a17_win01_line01" pos="-135.00, 457.00, 0.00" size_wh="400, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_9" style="gen_a17_win01_line01" pos="-135.00, -17.00, 0.00" size_wh="400.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="line_10" style="gen_a17_win01_line01" pos="-135.00, 511.00, 0.00" size_wh="400, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="bgm" pos="141.00, 128.38, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="mouse_area" style="common_none_image" pos="-8.00, -7.00, -0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-8.00, -7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="BGM" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 0.00, 0.00" font_size="20.00"/>
+			<image name="scroll_bg" pos="124.00, -4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gagebg"/>
+			<image name="scroll_on" pos="131.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gage"/>
+			<image name="gage_frame" pos="83.00, -13.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gageframe"/>
+			<node name="star" pos="113.00, 11.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="star_r" style="gen_a17_system01_gagester" pos="-16.00, -16.00, 0.00" pos_ratio="0.00, 0.00, 0.00" pivot_pos="16.00, 16.00, 0.00" pivot_enable="true">
+					<!--星の回転アニメーション-->
+					<anim_ctrl name="none" play="true" loop="true" speed="0.40">
+						<bind_node node="star_r" anim="anm_common_rotate"/>
+					</anim_ctrl>
+				</image>
+			</node>
+		</node>
+		<node name="se" pos="141.00, 181.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="mouse_area" style="common_none_image" pos="-8.00, -7.00, -0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-8.00, -7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="SE" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 0.00, 0.00" font_size="20.00"/>
+			<image name="scroll_bg" pos="124.00, -4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gagebg"/>
+			<image name="scroll_on" pos="131.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gage"/>
+			<image name="gage_frame" pos="83.00, -13.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gageframe"/>
+			<node name="star" pos="113.00, 11.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="star_r" style="gen_a17_system01_gagester" pos="-16.00, -16.00, 0.00" pivot_pos="16.00, 16.00, 0.00" pivot_enable="true">
+					<!--星の回転アニメーション-->
+					<anim_ctrl name="none" play="true" loop="true" speed="0.40">
+						<bind_node node="star_r" anim="anm_common_rotate"/>
+					</anim_ctrl>
+				</image>
+			</node>
+		</node>
+		<node name="voice" pos="141.00, 233.62, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="mouse_area" style="common_none_image" pos="-8.00, -7.00, -0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-8.00, -7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="语音" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 0.00, 0.00" font_size="20.00"/>
+			<image name="scroll_bg" pos="124.00, -4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gagebg"/>
+			<image name="scroll_on" pos="131.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gage"/>
+			<image name="gage_frame" pos="83.00, -13.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gageframe"/>
+			<node name="star" pos="113.00, 11.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="star_r" style="gen_a17_system01_gagester" pos="-16.00, -16.00, -0.00" pivot_pos="16.00, 16.00, 0.00" pivot_enable="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<!--星の回転アニメーション-->
+					<anim_ctrl name="none" play="true" loop="true" speed="0.40">
+						<bind_node node="star_r" anim="anm_common_rotate"/>
+					</anim_ctrl>
+				</image>
+			</node>
+		</node>
+		<node name="movie" pos="141.00, 286.25, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="mouse_area" style="common_none_image" pos="-8.00, -7.00, -0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-8.00, -7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="影片" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 0.00, 0.00" font_size="20.00"/>
+			<image name="scroll_bg" pos="124.00, -4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gagebg"/>
+			<image name="scroll_on" pos="131.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gage"/>
+			<image name="gage_frame" pos="83.00, -13.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gageframe"/>
+			<node name="star" pos="113.00, 11.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="star_r" style="gen_a17_system01_gagester" pos="-16.00, -16.00, 0.00" pivot_enable="true" pivot_pos="16.00, 16.00, 0.00">
+					<!--星の回転アニメーション-->
+					<anim_ctrl name="none" play="true" loop="true" speed="0.40">
+						<bind_node node="star_r" anim="anm_common_rotate"/>
+					</anim_ctrl>
+				</image>
+			</node>
+		</node>
+		<!--***0731カメラ上下左右項目追加 ***-->
+		<node name="camera_ud" pos="141.00, 338.87, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="true">
+			<image name="mouse_area" style="common_none_image" pos="-10.00, -8.00, 0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-10.00, -8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="镜头上下" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 2.00, 0.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="颠倒" name="switch_text" copy="TEXTCOLOR_BROWN" pos="197.00, -0.00, -0.00" font_size="20.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="arrow" pos="-0.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="arrow_0" style="gen_a17_system01_dk_l" pos="115.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" mouse_event_name="arrowLeft" mouse_event="true"/>
+				<image name="arrow_1" style="gen_a17_system01_dk_r" pos="302.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" mouse_event_name="arrowRight" mouse_event="true"/>
+			</node>
+		</node>
+		<node name="camera_lr" pos="141.00, 391.50, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="true">
+			<image name="mouse_area" style="common_none_image" pos="-10.00, -8.00, 0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-10.00, -8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="镜头左右" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 2.00, 0.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="颠倒" name="switch_text" copy="TEXTCOLOR_BROWN" pos="197.00, -0.00, -0.00" font_size="20.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="arrow" pos="-0.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="arrow_0" style="gen_a17_system01_dk_l" pos="115.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" mouse_event_name="arrowLeft" mouse_event="true"/>
+				<image name="arrow_1" style="gen_a17_system01_dk_r" pos="302.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" mouse_event_name="arrowRight" mouse_event="true"/>
+			</node>
+		</node>
+		<node name="camera_sp" pos="141.00, 444.12, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="mouse_area" style="common_none_image" pos="-8.00, -7.00, -0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-8.00, -7.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="镜头速度" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 0.00, 0.00" font_size="20.00"/>
+			<image name="scroll_bg" pos="124.00, -4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gagebg"/>
+			<image name="scroll_on" pos="131.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gage"/>
+			<image name="gage_frame" pos="83.00, -13.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_system01_gageframe"/>
+			<node name="star" pos="113.00, 11.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="star_r" style="gen_a17_system01_gagester" pos="-16.00, -16.00, 0.00" pos_ratio="0.00, 0.00, 0.00" pivot_pos="16.00, 16.00, 0.00" pivot_enable="true">
+					<!--星の回転アニメーション-->
+					<anim_ctrl name="none" play="true" loop="true" speed="0.40">
+						<bind_node node="star_r" anim="anm_common_rotate"/>
+					</anim_ctrl>
+				</image>
+			</node>
+		</node>
+		<node name="vibration" pos="141.00, 496.75, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="mouse_area" style="common_none_image" pos="-10.00, -8.00, 0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-10.00, -8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="震动" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 0.00, 0.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="ON" name="switch_text" copy="TEXTCOLOR_BROWN" pos="217.00, 0.00, 0.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="center"/>
+			<node name="arrow" pos="-0.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="arrow_0" style="gen_a17_system01_dk_l" pos="115.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" mouse_event_name="arrowLeft" mouse_event="true"/>
+				<image name="arrow_1" style="gen_a17_system01_dk_r" pos="302.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" mouse_event_name="arrowRight" mouse_event="true"/>
+			</node>
+		</node>
+		<node name="difficulty" pos="141.00, 549.37, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="mouse_area" style="common_none_image" pos="-10.00, -8.00, 0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-10.00, -8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="难度" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 0.00, 0.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="NORMAL" name="switch_text" copy="TEXTCOLOR_BROWN" pos="217.00, 0.00, 0.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="center"/>
+			<node name="arrow" pos="-0.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="arrow_0" style="gen_a17_system01_dk_l" pos="115.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" mouse_event_name="arrowLeft" mouse_event="true"/>
+				<image name="arrow_1" style="gen_a17_system01_dk_r" pos="302.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" size_wh="21.00, 32.00, 0.00" mouse_event_name="arrowRight" mouse_event="true"/>
+			</node>
+		</node>
+		<!--*** DXダッシュ追加 ***-->
+		<node name="dash" pos="141.00, 602.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="mouse_area" style="common_none_image" pos="-10.00, -8.00, 0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-10.00, -8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="ダッシュ移動" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 0.00, 0.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="ON" name="switch_text" copy="TEXTCOLOR_BROWN" pos="217.00, 0.00, 0.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="center"/>
+			<node name="arrow" pos="-0.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="arrow_0" style="gen_a17_system01_dk_l" pos="115.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" mouse_event_name="arrowLeft" mouse_event="true"/>
+				<image name="arrow_1" style="gen_a17_system01_dk_r" pos="302.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" size_wh="21.00, 32.00, 0.00" mouse_event_name="arrowRight" mouse_event="true"/>
+			</node>
+		</node>
+		<!--*** ボイス追加 ***-->
+		<node name="language" pos="141.00, 654.63, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="mouse_area" style="common_none_image" pos="-10.00, -8.00, 0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-10.00, -8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="Voice Language" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 0.00, 0.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="" name="switch_text" copy="TEXTCOLOR_BROWN" pos="217.00, 0.00, 0.00" font_size="20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="center"/>
+			<node name="arrow" pos="-0.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="arrow_0" style="gen_a17_system01_dk_l" pos="115.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" mouse_event_name="arrowLeft" mouse_event="true"/>
+				<image name="arrow_1" style="gen_a17_system01_dk_r" pos="302.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" flick_time="0.30" size_wh="21.00, 32.00, 0.00" mouse_event_name="arrowRight" mouse_event="true"/>
+			</node>
+		</node>
+		<node name="save" pos="141.00, 654.63, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="mouse_area" style="common_none_image" pos="-10.00, -9.00, 0.00" size_wh="387.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_event_name="mouseCursor" mouse_hidden_area="true" visible="true"/>
+			<node name="cursor" pos="-10.00, -9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="light" style="gen_a17_win01_hl" pos="-0.00, -0.00, -0.00" size_wh="387, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<feed name="feed" pos="8.00, 7.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- 明滅アニメーション -->
+					<anim_ctrl name="none" play="true" loop="true">
+						<bind_node node="light" anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="结束设定" name="option_text" copy="TEXTCOLOR_BROWN" pos="0.00, 0.00, 0.00" font_size="20.00"/>
+		</node>
+	</node>
+	<anim_ctrl name="fade_anim" play="false" start_visible="true">
+		<bind_node node="top" anim="anm_common_fade_in" start_visible="true"/>
+	</anim_ctrl>
+</root>

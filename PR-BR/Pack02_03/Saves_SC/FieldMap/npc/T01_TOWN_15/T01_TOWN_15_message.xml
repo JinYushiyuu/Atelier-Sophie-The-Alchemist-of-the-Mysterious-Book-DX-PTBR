@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_15_message message_data="PAMELA_TOWN01_15" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="RNPC01A_TOWN01_15" chara_tag="RNPC01A" name_tag="RNPC01A" voice_no1="11819" message1="神总是在&lt;CR&gt;守护着你哦。"/>
+    <T01_TOWN_15_message message_data="QC01_MON_090_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="QC01_MON_120_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9015" message1="那么，今天就到此为止。" next_message_tag="QC01_MON_130_PAMELA"/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="谢谢指教～"/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_NPC26A" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_NPC26B" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_NPC27A" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="QC01_MON_130_RNPC01A" chara_tag="RNPC01A" name_tag="RNPC01A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="QC12_HOR_060_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="9066" message1="这个是您委托的东西。" next_message_tag="QC12_HOR_060_RNPC01A"/>
+    <T01_TOWN_15_message message_data="QC12_HOR_060_RNPC01A" chara_tag="RNPC01A" name_tag="RNPC01A" voice_no1="-1" message1="东西我确实收到了。"/>
+    <T01_TOWN_15_message message_data="MS01_090_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="MS01_090_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="MS01_120_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="MS01_120_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="MS01_190_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="……"/>
+    <T01_TOWN_15_message message_data="QC03_JUL_050_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="9027" message1="大概就是这样吧。" next_message_tag="QC03_JUL_050_RNPC01A"/>
+    <T01_TOWN_15_message message_data="QC03_JUL_050_RNPC01A" chara_tag="RNPC01A" name_tag="RNPC01A" voice_no1="-1" message1="原来如此，我会参考的。"/>
+    <T01_TOWN_15_message message_data="MM09_010_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="9051" message1="辛苦了～"/>
+    <T01_TOWN_15_message message_data="TOWN_15_PAMELA_EV1" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="……" quest_tag="QC09_PAM_100" voice_no2="-1" message2="……"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26A_00" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="11742" message1="要来读什么书呢……"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26A_10" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="11742" message1="这问题好难啊……&lt;CR&gt;去书店稍微查一下好了。"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26A_20" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="11742" message1="神所说的话真的很难懂呢。" next_message_tag="TOWN_15_NPC26A_21"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26A_21" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="-1" message1="不过，要是像其他人一样，&lt;CR&gt;照自己的意思去解读&lt;CR&gt;倒很简单就是了……"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_00" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="11808" message1="啊，现在不能&lt;CR&gt;找我讲话啦。" next_message_tag="TOWN_15_NPC26B_01"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_01" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="我正在进行一人躲猫猫。&lt;CR&gt;要是被发现就糟了。"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_10" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="11808" message1="啊，现在不能&lt;CR&gt;找我讲话啦。" next_message_tag="TOWN_15_NPC26B_11"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_11" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="我在进行一人躲猫猫，&lt;CR&gt;已经有三个人找到我了。&lt;CR&gt;而我也只剩下两次机会了。"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_20" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="11808" message1="在玩一人躲猫猫的时候，&lt;CR&gt;有人拼命地在称赞我呢。" next_message_tag="TOWN_15_NPC26B_21"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_21" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="好像是说一边“隐藏自己”&lt;CR&gt;又试图找出“被隐藏的自己”的行为……&lt;CR&gt;很高尚的样子。" next_message_tag="TOWN_15_NPC26B_22"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC26B_22" chara_tag="NPC26B" name_tag="NPC26B" voice_no1="-1" message1="那些头脑好的人在想什么，&lt;CR&gt;我真的搞不懂耶。"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_00" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="11743" message1="我最喜欢祈祷了。" next_message_tag="TOWN_15_NPC27A_01"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_01" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="光是双手合十，闭上眼睛，&lt;CR&gt;我就可以这样度过一天。"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_10" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="11743" message1="我最喜欢教会了。" next_message_tag="TOWN_15_NPC27A_11"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_11" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="就算祈祷一整天&lt;CR&gt;也不会被骂呢。"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_20" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="11743" message1="我最喜欢神父了。" next_message_tag="TOWN_15_NPC27A_21"/>
+    <T01_TOWN_15_message message_data="TOWN_15_NPC27A_21" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="只要我祈祷，做个乖孩子，&lt;CR&gt;他就会称赞我。"/>
+</Root>

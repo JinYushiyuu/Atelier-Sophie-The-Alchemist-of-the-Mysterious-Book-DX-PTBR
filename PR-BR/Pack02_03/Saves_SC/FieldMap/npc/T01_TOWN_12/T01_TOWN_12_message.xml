@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_12_message message_data="LOGIX_TOWN01_12" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="-1" message1="……"/>
+    <T01_TOWN_12_message message_data="MS01_070_LOGIX" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="11716" message1="这个如何？" next_message_tag="MS01_070_JULIO"/>
+    <T01_TOWN_12_message message_data="MS01_070_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="-1" message1="谢谢，总是做得很棒呢。"/>
+    <T01_TOWN_12_message message_data="MM09_010_LOGIX" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="9055" message1="结束了吧。"/>
+    <T01_TOWN_12_message message_data="TOWN_12_LOGIX_EV1" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="-1" message1="谢谢，帮了大忙呢。" quest_tag="QC08_LOG_050" voice_no2="11716" message2="拜托你的东西准备好了吗?"/>
+    <T01_TOWN_12_message message_data="TOWN_12_LOGIX_EV2" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="-1" message1="谢谢，帮了大忙呢。" quest_tag="QC08_LOG_080" voice_no2="11716" message2="拜托你的东西准备好了吗?"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_00" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="11741" message1="如果是一般常用的武器，&lt;CR&gt;店头卖的那些应该就够用了。"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_01" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_10" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="11741" message1="如果会陷入苦战，也可以&lt;CR&gt;请店家锻造专用的武器。" next_message_tag="TOWN_12_NPC06A_11"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_11" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="-1" message1="像是附加对特定种族特别有效的&lt;CR&gt;“特效”就是最好的例子。"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_20" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="11741" message1="新武器不见得&lt;CR&gt;就一定很强。" next_message_tag="TOWN_12_NPC06A_21"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC06A_21" chara_tag="NPC06A" name_tag="NPC06A" voice_no1="-1" message1="有时把平常用惯的武器强化后，&lt;CR&gt;说不定还比较强呢。"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_00" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="11742" message1="我在思考自己将来&lt;CR&gt;想使用的武器……" next_message_tag="TOWN_12_NPC26B_01"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_01" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="光剑就有分长剑、大剑、细剑&lt;CR&gt;这么多种啊……真伤脑筋。"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_10" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="11742" message1="还以为长枪就不需要&lt;CR&gt;考虑种类了……" next_message_tag="TOWN_12_NPC26B_11"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_11" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="居然还有分突刺、敲击跟横扫&lt;CR&gt;……真伤脑筋。"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_20" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="11742" message1="还以为枪就不需要&lt;CR&gt;考虑种类了……" next_message_tag="TOWN_12_NPC26B_21"/>
+    <T01_TOWN_12_message message_data="TOWN_12_NPC26B_21" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="居然还有分短枪、长枪跟散弹枪&lt;CR&gt;……真伤脑筋。"/>
+</Root>

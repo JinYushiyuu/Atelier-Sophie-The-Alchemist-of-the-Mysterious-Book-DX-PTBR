@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_0" ptn00="腐烂" Th0="0" ptn01="损伤" Th1="20" ptn02="普通" Th2="40" ptn03="新鲜" Th3="70" ptn04="最高级品" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_1" ptn00="无价值" Th0="0" ptn01="劣质品" Th1="20" ptn02="普通" Th2="40" ptn03="良质" Th3="70" ptn04="顶级品" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_2" ptn00="无价值" Th0="0" ptn01="劣质品" Th1="20" ptn02="普通" Th2="40" ptn03="良质" Th3="70" ptn04="顶级品" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_3" ptn00="混浊" Th0="0" ptn01="低纯度" Th1="20" ptn02="普通" Th2="40" ptn03="高纯度" Th3="70" ptn04="最高纯度" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_4" ptn00="无价值" Th0="0" ptn01="劣质品" Th1="20" ptn02="普通" Th2="40" ptn03="良质" Th3="70" ptn04="传说的逸品" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_5" ptn00="已劣化" Th0="0" ptn01="次级品" Th1="20" ptn02="普通" Th2="40" ptn03="高质量" Th3="70" ptn04="最高级品" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_6" ptn00="坏掉" Th0="0" ptn01="不良品" Th1="20" ptn02="普通" Th2="40" ptn03="高质量" Th3="70" ptn04="传说的逸品" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_7" ptn00="坏掉" Th0="0" ptn01="受潮" Th1="20" ptn02="普通" Th2="40" ptn03="高质量" Th3="70" ptn04="最高级品" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_8" ptn00="坏掉" Th0="0" ptn01="外行人手艺" Th1="20" ptn02="普通" Th2="40" ptn03="高质量" Th3="70" ptn04="精巧的炸弹" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_9" ptn00="已劣化" Th0="0" ptn01="不良品" Th1="20" ptn02="普通" Th2="40" ptn03="高质量" Th3="70" ptn04="最高级品" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_10" ptn00="已劣化" Th0="0" ptn01="不良品" Th1="20" ptn02="普通" Th2="40" ptn03="高质量" Th3="70" ptn04="特殊药效" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_11" ptn00="坏掉" Th0="0" ptn01="魔力耗尽" Th1="20" ptn02="普通" Th2="40" ptn03="高质量" Th3="70" ptn04="充满魔力" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_12" ptn00="坏掉" Th0="0" ptn01="魔力耗尽" Th1="20" ptn02="普通" Th2="40" ptn03="高质量" Th3="70" ptn04="魔力满溢" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_13" ptn00="失败作" Th0="0" ptn01="外行人风味" Th1="20" ptn02="普通" Th2="40" ptn03="手工风味" Th3="70" ptn04="专家风味" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_14" ptn00="噗尼也不要" Th0="0" ptn01="似乎很难吃" Th1="20" ptn02="普通" Th2="40" ptn03="似乎很好吃" Th3="70" ptn04="三星级" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_15" ptn00="钝掉" Th0="0" ptn01="劣质品" Th1="20" ptn02="普通" Th2="40" ptn03="大师手艺" Th3="70" ptn04="传说的逸品" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_16" ptn00="脱线" Th0="0" ptn01="劣质品" Th1="20" ptn02="普通" Th2="40" ptn03="大师手艺" Th3="70" ptn04="传说的逸品" Th4="100"/>
+    <item_quality_name_type NameTag="ITEM_QUALITY_NAME_TYPE_17" ptn00="劣作" Th0="0" ptn01="劣作" Th1="20" ptn02="劣作" Th2="40" ptn03="劣作" Th3="70" ptn04="劣作" Th4="100"/>
+</Root>

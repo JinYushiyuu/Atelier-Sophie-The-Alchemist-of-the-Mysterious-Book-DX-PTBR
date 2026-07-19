@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!-- フェードアニメーション -->
+	<anim_ctrl name="__uimenu_fade_in" exclusive_play="true">
+		<bind_node node="TOP_ROOT" anim="anm_menu_fade_in"/>
+	</anim_ctrl>
+	<anim_ctrl name="__uimenu_fade_out" exclusive_play="true">
+		<bind_node node="TOP_ROOT" anim="anm_menu_fade_out"/>
+	</anim_ctrl>
+</root>

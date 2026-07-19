@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!-- uil_mt_mix_espselの行のひな形 -->
+	<node name="lf_mix_recipeitem" viewer_visible="false">
+		<text name="name" drop_shadow="false" text="あいうえおかきくけこ" align="left" font_size="24.00" viewer_visible="false" pos="73, 16, 0" font_color="255.00, 255.00, 255.00, 255.00" color="53.00, 19.00, 0.00, 255.00"/>
+		<text name="num" drop_shadow="false" text="99" font_size="30.00" viewer_visible="false" pos="365, 14, 0" font_color="255.00, 255.00, 255.00, 255.00" color="53.00, 19.00, 0.00, 255.00" align="center"/>
+		<image name="check" style="gen_a17_win01_checkicon01" pos="-5.00, 15.00, 0.00" visible="false" viewer_visible="true" size_wh="32.00, 32.00, 0.00"/>
+		<image name="make_icon" style="gen_a17_mix02_can01" pos="26.00, 19.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="0" size_wh="26.00, 26.00, 0.00"/>
+	</node>
+</root>

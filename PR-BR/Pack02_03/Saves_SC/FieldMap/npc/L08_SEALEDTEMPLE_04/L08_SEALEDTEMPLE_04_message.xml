@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <L08_SEALEDTEMPLE_04_message message_data="RNPC02A_00" chara_tag="RNPC02A" name_tag="RNPC02A" voice_no1="-1" message1="有什么事吗？"/>
+    <L08_SEALEDTEMPLE_04_message message_data="RNPC02A_QC03_JUL_190" chara_tag="RNPC02A" name_tag="RNPC02A" voice_no1="-1" message1="东西我确实收到了。" quest_tag="QC03_JUL_190" voice_no2="-1" message2="拜托你的东西准备好了吗？"/>
+</Root>

@@ -1,0 +1,582 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <RecipeLearnCond No="0" title="跳跃性思考01" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_01" desc="跳跃1次"/>
+    <RecipeLearnCond No="1" title="跳跃性思考02" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_02" desc="跳跃2次"/>
+    <RecipeLearnCond No="2" title="跳跃性思考03" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_03" desc="跳跃3次"/>
+    <RecipeLearnCond No="3" title="跳跃性思考04" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_04" desc="跳跃4次"/>
+    <RecipeLearnCond No="4" title="跳跃性思考05" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_05" desc="跳跃5次"/>
+    <RecipeLearnCond No="5" title="跳跃性思考06" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_06" desc="跳跃6次"/>
+    <RecipeLearnCond No="6" title="跳跃性思考07" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_07" desc="跳跃7次"/>
+    <RecipeLearnCond No="7" title="跳跃性思考08" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_08" desc="跳跃8次"/>
+    <RecipeLearnCond No="8" title="跳跃性思考09" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_09" desc="跳跃9次"/>
+    <RecipeLearnCond No="9" title="跳跃性思考10" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_10" desc="跳跃10次"/>
+    <RecipeLearnCond No="10" title="跳跃性思考11" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_11" desc="跳跃11次"/>
+    <RecipeLearnCond No="11" title="跳跃性思考12" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_12" desc="跳跃12次"/>
+    <RecipeLearnCond No="12" title="跳跃性思考13" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_13" desc="跳跃13次"/>
+    <RecipeLearnCond No="13" title="跳跃性思考14" achievement="ACHIEVEMENT_MAIN_TEST_JUMP_14" desc="跳跃14次"/>
+    <RecipeLearnCond No="14" title="采集构思01" achievement="ACHIEVEMENT_MAIN_COLLECT_01" desc="采集草1次"/>
+    <RecipeLearnCond No="15" title="采集构思02" achievement="ACHIEVEMENT_MAIN_COLLECT_02" desc="采集草2次"/>
+    <RecipeLearnCond No="16" title="采集构思03" achievement="ACHIEVEMENT_MAIN_COLLECT_03" desc="采集草3次"/>
+    <RecipeLearnCond No="17" title="采集构思04" achievement="ACHIEVEMENT_MAIN_COLLECT_04" desc="采集草4次"/>
+    <RecipeLearnCond No="18" title="采集魔法草" achievement="ACHIEVEMENT_MAIN_GATHER_COUNT_MAGIC_GRASS_3" desc="采集3个魔法草"/>
+    <RecipeLearnCond No="19" title="采集火岩石" achievement="ACHIEVEMENT_MAIN_GATHER_COUNT_KAREN_STONE_3" desc="采集3个火岩石"/>
+    <RecipeLearnCond No="20" title="采集海胆" achievement="ACHIEVEMENT_MAIN_GATHER_COUNT_UNI_3" desc="采集3个海胆"/>
+    <RecipeLearnCond No="21" title="采集火岩石" achievement="ACHIEVEMENT_MAIN_IDEA_FRAMME_00" desc="采集火岩石"/>
+    <RecipeLearnCond No="22" title="调合中和剂‧红" achievement="ACHIEVEMENT_MAIN_IDEA_FRAMME_01" desc="调合中和剂‧红"/>
+    <RecipeLearnCond No="23" title="战斗" achievement="ACHIEVEMENT_MAIN_IDEA_FRAMME_02" desc="战斗2次"/>
+    <RecipeLearnCond No="24" title="采集罗梅麦" achievement="ACHIEVEMENT_MAIN_IDEA_PLAIN_WAFFLE_00" desc="采集罗梅麦"/>
+    <RecipeLearnCond No="25" title="调合罗梅麦粉" achievement="ACHIEVEMENT_MAIN_IDEA_PLAIN_WAFFLE_01" desc="调合罗梅麦粉"/>
+    <RecipeLearnCond No="26" title="采集（食材）" achievement="ACHIEVEMENT_MAIN_IDEA_PLAIN_WAFFLE_02" desc="采集２个（食材）"/>
+    <RecipeLearnCond No="27" title="采集钴蓝草" achievement="ACHIEVEMENT_MAIN_IDEA_ZETTEL_00" desc="采集钴蓝草"/>
+    <RecipeLearnCond No="28" title="采集井水" achievement="ACHIEVEMENT_MAIN_IDEA_ZETTEL_01" desc="采集井水"/>
+    <RecipeLearnCond No="29" title="调合中和剂‧红" achievement="ACHIEVEMENT_MAIN_IDEA_ZETTEL_02" desc="调合中和剂‧红"/>
+    <RecipeLearnCond No="30" title="采集硝基水" achievement="ACHIEVEMENT_MAIN_IDEA_BLAU_FRAMME_00" desc="采集采集硝基水　※α未实装"/>
+    <RecipeLearnCond No="31" title="采集炸裂莓" achievement="ACHIEVEMENT_MAIN_IDEA_BLAU_FRAMME_01" desc="采集炸裂莓　※α未实装"/>
+    <RecipeLearnCond No="32" title="讨伐红噗尼" achievement="ACHIEVEMENT_MAIN_IDEA_BLAU_FRAMME_02" desc="打倒３０只噗尼　※α未实装"/>
+    <RecipeLearnCond No="33" title="采集硝基水" achievement="ACHIEVEMENT_MAIN_IDEA_FLAME_EMPEROR_POWDER_00" desc="采集采集硝基水　※α未实装"/>
+    <RecipeLearnCond No="34" title="讨伐火焰恶魔" achievement="ACHIEVEMENT_MAIN_IDEA_FLAME_EMPEROR_POWDER_01" desc="打倒３０只火焰恶魔　※α未实装"/>
+    <RecipeLearnCond No="35" title="讨伐炽炎狂魔" achievement="ACHIEVEMENT_MAIN_IDEA_FLAME_EMPEROR_POWDER_02" desc="打倒１只炽炎狂魔　※α未实装"/>
+    <RecipeLearnCond No="36" title="采集艾森矿" achievement="ACHIEVEMENT_MAIN_IDEA_INGOT_00" desc="采集艾森矿　※α未实装"/>
+    <RecipeLearnCond No="37" title="采集美丽贝壳" achievement="ACHIEVEMENT_MAIN_IDEA_INGOT_01" desc="采集美丽贝壳　※α未实装"/>
+    <RecipeLearnCond No="38" title="采集黏银丝" achievement="ACHIEVEMENT_MAIN_IDEA_INGOT_02" desc="采集黏银丝　※α未实装"/>
+    <RecipeLearnCond No="39" title="采集（液体）" achievement="ACHIEVEMENT_MAIN_IDEA_BLUE_NEUTLIZER_00" desc="采集２个（液体）"/>
+    <RecipeLearnCond No="40" title="采集好喝的水" achievement="ACHIEVEMENT_MAIN_IDEA_BLUE_NEUTLIZER_01" desc="采集好喝的水"/>
+    <RecipeLearnCond No="41" title="调合山师之药" achievement="ACHIEVEMENT_MAIN_IDEA_BLUE_NEUTLIZER_02" desc="调合山师之药"/>
+    <RecipeLearnCond No="42" title="采集（液体）" achievement="ACHIEVEMENT_MAIN_IDEA_PUNI_JELLY_00" desc="采集２个（液体）"/>
+    <RecipeLearnCond No="43" title="采集（食材）" achievement="ACHIEVEMENT_MAIN_IDEA_PUNI_JELLY_01" desc="采集２个（食材）"/>
+    <RecipeLearnCond No="44" title="讨伐迷你史拉格" achievement="ACHIEVEMENT_MAIN_IDEA_PUNI_JELLY_02" desc="打倒２只迷你史拉格"/>
+    <RecipeLearnCond No="45" title="采集（液体）" achievement="ACHIEVEMENT_MAIN_IDEA_SOTEA_00" desc="采集２个（液体）"/>
+    <RecipeLearnCond No="46" title="采集魔法草" achievement="ACHIEVEMENT_MAIN_IDEA_SOTEA_01" desc="采集魔法草"/>
+    <RecipeLearnCond No="47" title="调合（食材）" achievement="ACHIEVEMENT_MAIN_IDEA_SOTEA_02" desc="采集1个（食材）"/>
+    <RecipeLearnCond No="48" title="采集珀冷石" achievement="ACHIEVEMENT_MAIN_IDEA_REFERN_00" desc="采集珀冷石"/>
+    <RecipeLearnCond No="49" title="调合炎烧" achievement="ACHIEVEMENT_MAIN_IDEA_REFERN_01" desc="调合炎烧"/>
+    <RecipeLearnCond No="50" title="战斗" achievement="ACHIEVEMENT_MAIN_IDEA_REFERN_02" desc="战斗2次"/>
+    <RecipeLearnCond No="51" title="调合噗尼冻" achievement="ACHIEVEMENT_MAIN_IDEA_REFUEL_BOTTLE_00" desc="调合噗尼冻"/>
+    <RecipeLearnCond No="52" title="调合中和剂‧蓝" achievement="ACHIEVEMENT_MAIN_IDEA_REFUEL_BOTTLE_01" desc="调合中和剂‧蓝"/>
+    <RecipeLearnCond No="53" title="战斗" achievement="ACHIEVEMENT_MAIN_IDEA_REFUEL_BOTTLE_02" desc="战斗2次"/>
+    <RecipeLearnCond No="54" title="采集银灵结晶" achievement="ACHIEVEMENT_MAIN_IDEA_SNOWFLAKE_CRYSTAL_00" desc="采集银灵结晶　※α未实装"/>
+    <RecipeLearnCond No="55" title="采集精灵结晶" achievement="ACHIEVEMENT_MAIN_IDEA_SNOWFLAKE_CRYSTAL_01" desc="采集精灵结晶　※α未实装"/>
+    <RecipeLearnCond No="56" title="采集岛鱼鱼鳍" achievement="ACHIEVEMENT_MAIN_IDEA_SNOWFLAKE_CRYSTAL_02" desc="采集岛鱼鱼鳍　※α未实装"/>
+    <RecipeLearnCond No="57" title="采集海底泥" achievement="ACHIEVEMENT_MAIN_IDEA_PURE_WATER_00" desc="采集湖底泥"/>
+    <RecipeLearnCond No="58" title="讨伐独角鱼" achievement="ACHIEVEMENT_MAIN_IDEA_PURE_WATER_01" desc="打倒３０只独角鱼　※α未实装"/>
+    <RecipeLearnCond No="59" title="讨伐大星鱼" achievement="ACHIEVEMENT_MAIN_IDEA_PURE_WATER_02" desc="打倒１只大星鱼　※α未实装"/>
+    <RecipeLearnCond No="60" title="采集妖精毒草" achievement="ACHIEVEMENT_ITEM_MIX_DARK_SOTEA_00" desc="采集妖精毒草　※α未实装"/>
+    <RecipeLearnCond No="61" title="讨伐金木树" achievement="ACHIEVEMENT_ITEM_MIX_DARK_SOTEA_01" desc="打倒３０只金木树　※α未实装"/>
+    <RecipeLearnCond No="62" title="讨伐报丧花精" achievement="ACHIEVEMENT_ITEM_MIX_DARK_SOTEA_02" desc="打倒１只报丧花精　※α未实装"/>
+    <RecipeLearnCond No="63" title="采集（液体）" achievement="ACHIEVEMENT_MAIN_IDEA_GREEN_NEUTLIZER_00" desc="采集２个（液体）"/>
+    <RecipeLearnCond No="64" title="采集（植物类）" achievement="ACHIEVEMENT_MAIN_IDEA_GREEN_NEUTLIZER_01" desc="采集２个（植物）"/>
+    <RecipeLearnCond No="65" title="调合朴素烘焙点心" achievement="ACHIEVEMENT_MAIN_IDEA_GREEN_NEUTLIZER_02" desc="调合朴素烘焙点心"/>
+    <RecipeLearnCond No="66" title="采集（药材）" achievement="ACHIEVEMENT_MAIN_IDEA_BAGEL_SAND_00" desc="采集２个（药材）"/>
+    <RecipeLearnCond No="67" title="采集（植物类）" achievement="ACHIEVEMENT_MAIN_IDEA_BAGEL_SAND_01" desc="采集２个（植物）"/>
+    <RecipeLearnCond No="68" title="调合罗梅麦粉" achievement="ACHIEVEMENT_MAIN_IDEA_BAGEL_SAND_02" desc="调合罗梅麦粉"/>
+    <RecipeLearnCond No="69" title="采集雷电矿" achievement="ACHIEVEMENT_MAIN_IDEA_DONNER_STONE_00" desc="采集雷电矿"/>
+    <RecipeLearnCond No="70" title="调合冰精" achievement="ACHIEVEMENT_MAIN_IDEA_DONNER_STONE_01" desc="调合冰精"/>
+    <RecipeLearnCond No="71" title="战斗" achievement="ACHIEVEMENT_MAIN_IDEA_DONNER_STONE_02" desc="战斗2次"/>
+    <RecipeLearnCond No="72" title="采集毛石" achievement="ACHIEVEMENT_MAIN_IDEA_BLITZRITE_00" desc="采集毛石　※α未实装"/>
+    <RecipeLearnCond No="73" title="讨伐大巫妖" achievement="ACHIEVEMENT_MAIN_IDEA_BLITZRITE_01" desc="打倒３０只巫妖　※α未实装"/>
+    <RecipeLearnCond No="74" title="讨伐魔术师提图斯" achievement="ACHIEVEMENT_MAIN_IDEA_BLITZRITE_02" desc="魔术师タイタスを１体倒そう　※α未実装"/>
+    <RecipeLearnCond No="75" title="采集一夜花" achievement="ACHIEVEMENT_MAIN_IDEA_BREEZE_AROMA_00" desc="采集一夜花　※α未实装"/>
+    <RecipeLearnCond No="76" title="讨伐风之元素" achievement="ACHIEVEMENT_MAIN_IDEA_BREEZE_AROMA_01" desc="打倒３０只风之元素　※α未实装"/>
+    <RecipeLearnCond No="77" title="讨伐光之元素" achievement="ACHIEVEMENT_MAIN_IDEA_BREEZE_AROMA_02" desc="打倒１只光之元素　※α未实装"/>
+    <RecipeLearnCond No="78" title="采集祭坛藓" achievement="ACHIEVEMENT_MAIN_IDEA_NATURAL_YEAST_00" desc="采集祭坛藓　※α未实装"/>
+    <RecipeLearnCond No="79" title="讨伐古斯塔夫" achievement="ACHIEVEMENT_MAIN_IDEA_NATURAL_YEAST_01" desc="打倒３０只古斯塔夫　※α未实装"/>
+    <RecipeLearnCond No="80" title="讨伐巨鹏" achievement="ACHIEVEMENT_MAIN_IDEA_NATURAL_YEAST_02" desc="打倒１只传说巨鹏　※α未实装"/>
+    <RecipeLearnCond No="81" title="采集海胆" achievement="ACHIEVEMENT_MAIN_IDEA_APCALL_00" desc="采集海胆"/>
+    <RecipeLearnCond No="82" title="采集土薯" achievement="ACHIEVEMENT_MAIN_IDEA_APCALL_01" desc="采集土薯"/>
+    <RecipeLearnCond No="83" title="调合朴素烘焙点心" achievement="ACHIEVEMENT_MAIN_IDEA_APCALL_02" desc="调合朴素烘焙点心"/>
+    <RecipeLearnCond No="84" title="采集蜂巢" achievement="ACHIEVEMENT_MAIN_IDEA_HONEY_00" desc="采集蜂巢"/>
+    <RecipeLearnCond No="85" title="调合原味松饼" achievement="ACHIEVEMENT_MAIN_IDEA_HONEY_01" desc="调合原味松饼"/>
+    <RecipeLearnCond No="86" title="调合贝果三明治" achievement="ACHIEVEMENT_MAIN_IDEA_HONEY_02" desc="调合贝果三明治"/>
+    <RecipeLearnCond No="87" title="采集（黏土）" achievement="ACHIEVEMENT_MAIN_IDEA_YELLOW_NEUTLIZER_00" desc="采集（黏土）"/>
+    <RecipeLearnCond No="88" title="采集雷电石" achievement="ACHIEVEMENT_MAIN_IDEA_YELLOW_NEUTLIZER_01" desc="采集雷电石"/>
+    <RecipeLearnCond No="89" title="调合（中和剂）" achievement="ACHIEVEMENT_MAIN_IDEA_YELLOW_NEUTLIZER_02" desc="调合２个（中和剂）"/>
+    <RecipeLearnCond No="90" title="采集红海胆" achievement="ACHIEVEMENT_MAIN_IDEA_UNI_BAG_00" desc="采集红海胆　※α未实装"/>
+    <RecipeLearnCond No="91" title="讨伐红噗尼" achievement="ACHIEVEMENT_MAIN_IDEA_UNI_BAG_01" desc="打倒３０只噗尼　※α未实装"/>
+    <RecipeLearnCond No="92" title="讨伐火焰恶魔" achievement="ACHIEVEMENT_MAIN_IDEA_UNI_BAG_02" desc="打倒1只火焰恶魔　※α未实装"/>
+    <RecipeLearnCond No="93" title="采集分层油" achievement="ACHIEVEMENT_MAIN_IDEA_REFRESH_OIL_00" desc="采集分层油　※α未实装"/>
+    <RecipeLearnCond No="94" title="讨伐金噗尼" achievement="ACHIEVEMENT_MAIN_IDEA_REFRESH_OIL_01" desc="打倒３０只金噗尼　※α未实装"/>
+    <RecipeLearnCond No="95" title="讨伐黑噗尼" achievement="ACHIEVEMENT_MAIN_IDEA_REFRESH_OIL_02" desc="打倒１只黑噗尼　※α未实装"/>
+    <RecipeLearnCond No="96" title="采集红海胆" achievement="ACHIEVEMENT_MAIN_IDEA_CRAFT_00" desc="采集红海胆　※α未实装"/>
+    <RecipeLearnCond No="97" title="讨伐双头兽" achievement="ACHIEVEMENT_MAIN_IDEA_CRAFT_01" desc="打倒３０只双头兽　※α未实装"/>
+    <RecipeLearnCond No="98" title="讨伐沉默的魔兽" achievement="ACHIEVEMENT_MAIN_IDEA_CRAFT_02" desc="打倒１只沉默的魔兽　※α未实装"/>
+    <RecipeLearnCond No="99" title="采集" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMY_CLAY_00" desc="采集5次"/>
+    <RecipeLearnCond No="100" title="调合" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMY_CLAY_01" desc="调合5次"/>
+    <RecipeLearnCond No="101" title="战斗" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMY_CLAY_02" desc="战斗5次"/>
+    <RecipeLearnCond No="102" title="采集七色水芯片" achievement="ACHIEVEMENT_MAIN_IDEA_BEGINNERS_ALCHEMY_KETTLE_00" desc="采集七色水芯片"/>
+    <RecipeLearnCond No="103" title="调合" achievement="ACHIEVEMENT_MAIN_IDEA_BEGINNERS_ALCHEMY_KETTLE_01" desc="调合10次"/>
+    <RecipeLearnCond No="104" title="讨伐白鳞巨龙" achievement="ACHIEVEMENT_MAIN_IDEA_BEGINNERS_ALCHEMY_KETTLE_02" desc="打倒白鳞巨龙"/>
+    <RecipeLearnCond No="105" title="采集圣水" achievement="ACHIEVEMENT_MAIN_IDEA_ANGEL_WHISPER_00" desc="购入圣水　※α未实装"/>
+    <RecipeLearnCond No="106" title="采集梨形宝石" achievement="ACHIEVEMENT_MAIN_IDEA_ANGEL_WHISPER_01" desc="采集梨形宝石　※α未实装"/>
+    <RecipeLearnCond No="107" title="讨伐不死之王" achievement="ACHIEVEMENT_MAIN_IDEA_ANGEL_WHISPER_02" desc="打倒不死之王　※α未实装"/>
+    <RecipeLearnCond No="108" title="采集梨形宝石" achievement="ACHIEVEMENT_MAIN_IDEA_AUS_JEM_00" desc="采集梨形宝石　※α未实装"/>
+    <RecipeLearnCond No="109" title="采集贝雷姆贝" achievement="ACHIEVEMENT_MAIN_IDEA_AUS_JEM_01" desc="采集贝雷姆贝　※α未实装"/>
+    <RecipeLearnCond No="110" title="讨伐漆黑少女" achievement="ACHIEVEMENT_MAIN_IDEA_AUS_JEM_02" desc="打倒１只漆黑少女　※α未实装"/>
+    <RecipeLearnCond No="111" title="采集" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMYST_KETTLE_00" desc="采集2000次"/>
+    <RecipeLearnCond No="112" title="调合" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMYST_KETTLE_01" desc="调合1000次"/>
+    <RecipeLearnCond No="113" title="战斗" achievement="ACHIEVEMENT_MAIN_IDEA_ALCHEMYST_KETTLE_02" desc="战斗1500次"/>
+    <RecipeLearnCond No="114" title="DUMMY" achievement="ACHIEVEMENT_MAIN_IDEA_DUMMY" desc="DUMMY"/>
+    <RecipeLearnCond No="115" title="灵感自事件&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_00_00" desc="笔记：&lt;CR&gt;　读&lt;CLGR&gt;书&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="116" title="无&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_00_01"/>
+    <RecipeLearnCond No="117" title="无&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_00_02"/>
+    <RecipeLearnCond No="118" title="采集：井水&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_06_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;井水&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="119" title="无" achievement="ACHIEVEMENT_BLUE_06_01"/>
+    <RecipeLearnCond No="120" title="无" achievement="ACHIEVEMENT_BLUE_06_02"/>
+    <RecipeLearnCond No="121" title="获得：海胆&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_00_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;海胆&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="122" title="无&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_00_01"/>
+    <RecipeLearnCond No="123" title="无&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_00_02"/>
+    <RecipeLearnCond No="124" title="购入：罗梅麦&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_00_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;罗梅麦&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="125" title="无" achievement="ACHIEVEMENT_GREEN_00_01"/>
+    <RecipeLearnCond No="126" title="无" achievement="ACHIEVEMENT_GREEN_00_02"/>
+    <RecipeLearnCond No="127" title="战斗与委托&lt;CR&gt;" achievement="ACHIEVEMENT_RED_03_00" desc="&lt;CLGR&gt;普拉芙妲的记忆碎片&lt;CLNR&gt;&lt;CR&gt;　收集记忆的契机！！"/>
+    <RecipeLearnCond No="128" title="战斗：２５只&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_00" desc="记忆契机：&lt;CR&gt;　因&lt;CLGR&gt;讨伐魔物&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="129" title="委托：７次&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_01" desc="记忆契机：效果大&lt;CR&gt;　因&lt;CLGR&gt;完成委托&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="130" title="调查麦伯特农场" achievement="ACHIEVEMENT_RED_09_00" desc="笔记：麦伯特农场&lt;CR&gt;　灵感自&lt;CLGR&gt;调查麦田周遭&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="131" title="无" achievement="ACHIEVEMENT_RED_09_01"/>
+    <RecipeLearnCond No="132" title="无" achievement="ACHIEVEMENT_RED_09_02"/>
+    <RecipeLearnCond No="133" title="获得：红海胆&lt;CR&gt;" achievement="ACHIEVEMENT_RED_00_00" desc="笔记：可采集海胆的采集地（夜）　灵感自&lt;CLGR&gt;红海胆&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="134" title="无" achievement="ACHIEVEMENT_RED_00_01"/>
+    <RecipeLearnCond No="135" title="无" achievement="ACHIEVEMENT_RED_00_02"/>
+    <RecipeLearnCond No="136" title="书店&lt;CR&gt;" achievement="ACHIEVEMENT_RED_02_00" desc="笔记：书店&lt;CR&gt;　灵感自&lt;CLGR&gt;调查书架周遭&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="137" title="无" achievement="ACHIEVEMENT_RED_02_01"/>
+    <RecipeLearnCond No="138" title="无" achievement="ACHIEVEMENT_RED_02_02"/>
+    <RecipeLearnCond No="139" title="讨伐与委托&lt;CR&gt;" achievement="ACHIEVEMENT_RED_06_00" desc="&lt;CLGR&gt;普拉芙妲的记忆碎片&lt;CLNR&gt;&lt;CR&gt;　收集记忆的契机！！"/>
+    <RecipeLearnCond No="140" title="讨伐：奇美拉&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_02" desc="记忆契机：&lt;CLGR&gt;效果大&lt;CLNR&gt;&lt;CR&gt;　因&lt;CLGR&gt;农场的魔物（夜）&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="141" title="委托：12次&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_03" desc="记忆契机：&lt;CR&gt;　因&lt;CLGR&gt;完成委托&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="142" title="采集随兴草莓的知识" achievement="ACHIEVEMENT_YELLOW_06_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;随兴草莓&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="143" title="无" achievement="ACHIEVEMENT_YELLOW_06_01"/>
+    <RecipeLearnCond No="144" title="无" achievement="ACHIEVEMENT_YELLOW_06_02"/>
+    <RecipeLearnCond No="145" title="获得：蜂巢&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_07_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;蜂巢&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="146" title="无" achievement="ACHIEVEMENT_YELLOW_07_01"/>
+    <RecipeLearnCond No="147" title="无" achievement="ACHIEVEMENT_YELLOW_07_02"/>
+    <RecipeLearnCond No="148" title="调查广场" achievement="ACHIEVEMENT_BLUE_03_00" desc="笔记：广场&lt;CR&gt;　灵感自&lt;CLGR&gt;调查喷水池周遭&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="149" title="无" achievement="ACHIEVEMENT_BLUE_03_01"/>
+    <RecipeLearnCond No="150" title="无" achievement="ACHIEVEMENT_BLUE_03_02"/>
+    <RecipeLearnCond No="151" title="获得：野兽毛皮&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_09_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;野兽毛皮&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="152" title="无" achievement="ACHIEVEMENT_YELLOW_09_01"/>
+    <RecipeLearnCond No="153" title="无" achievement="ACHIEVEMENT_YELLOW_09_02"/>
+    <RecipeLearnCond No="154" title="调合：朴素烘焙点心（咸）&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_01_00" desc="笔记：效果　&lt;CLGR&gt;咸&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;朴素烘焙点心&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="155" title="无" achievement="ACHIEVEMENT_GREEN_01_01"/>
+    <RecipeLearnCond No="156" title="无" achievement="ACHIEVEMENT_GREEN_01_02"/>
+    <RecipeLearnCond No="157" title="获得：黏银丝&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_05_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;黏银丝&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="158" title="无" achievement="ACHIEVEMENT_YELLOW_05_01"/>
+    <RecipeLearnCond No="159" title="无" achievement="ACHIEVEMENT_YELLOW_05_02"/>
+    <RecipeLearnCond No="160" title="调合与获得（水）&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_10_00" desc="&lt;CLGR&gt;普拉芙妲的记忆碎片&lt;CLNR&gt;&lt;CR&gt;　收集记忆的契机！！"/>
+    <RecipeLearnCond No="161" title="调合：２０次&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_04" desc="记忆契机：&lt;CR&gt;　因&lt;CLGR&gt;调合次数&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="162" title="获得：（水）５０个&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_05" desc="记忆契机：&lt;CR&gt;　因&lt;CLGR&gt;获得（水）&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="163" title="调合：罗梅麦粉&lt;CR&gt;" achievement="ACHIEVEMENT_RED_10_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;罗梅麦粉&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="164" title="无" achievement="ACHIEVEMENT_RED_10_01"/>
+    <RecipeLearnCond No="165" title="无" achievement="ACHIEVEMENT_RED_10_02"/>
+    <RecipeLearnCond No="166" title="获得：雷电矿&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_06_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;雷电矿&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="167" title="无" achievement="ACHIEVEMENT_GREEN_06_01"/>
+    <RecipeLearnCond No="168" title="无" achievement="ACHIEVEMENT_GREEN_06_02"/>
+    <RecipeLearnCond No="169" title="战斗：惊险获胜&lt;CR&gt;" achievement="ACHIEVEMENT_RED_13_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;战斗危机&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="170" title="无" achievement="ACHIEVEMENT_RED_13_01"/>
+    <RecipeLearnCond No="171" title="无" achievement="ACHIEVEMENT_RED_13_02"/>
+    <RecipeLearnCond No="172" title="讨伐：皇帝之鸽&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_13_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐皇帝之鸽&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="173" title="无" achievement="ACHIEVEMENT_BLUE_13_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="174" title="无" achievement="ACHIEVEMENT_BLUE_13_02"/>
+    <RecipeLearnCond No="175" title="获得：虔诚信徒用卡牌&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_01_00" desc="笔记：教会&lt;CR&gt;　灵感自&lt;CLGR&gt;虔诚信徒用卡牌&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="176" title="无" achievement="ACHIEVEMENT_YELLOW_01_01"/>
+    <RecipeLearnCond No="177" title="无" achievement="ACHIEVEMENT_YELLOW_01_02"/>
+    <RecipeLearnCond No="178" title="事件中获得" achievement="ACHIEVEMENT_WHITE_00_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="179" title="无" achievement="ACHIEVEMENT_WHITE_00_01"/>
+    <RecipeLearnCond No="180" title="无" achievement="ACHIEVEMENT_WHITE_00_02"/>
+    <RecipeLearnCond No="181" title="获得（线材）的知识" achievement="ACHIEVEMENT_YELLOW_13_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="182" title="冒险经验的知识" achievement="ACHIEVEMENT_YELLOW_13_01"/>
+    <RecipeLearnCond No="183" title="无" achievement="ACHIEVEMENT_YELLOW_13_02"/>
+    <RecipeLearnCond No="184" title="获得：颚松&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_09_00" desc="笔记：野兽们的集会处&lt;CR&gt;　灵感自&lt;CLGR&gt;颚松&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="185" title="无" achievement="ACHIEVEMENT_GREEN_09_01"/>
+    <RecipeLearnCond No="186" title="无" achievement="ACHIEVEMENT_GREEN_09_02"/>
+    <RecipeLearnCond No="187" title="讨伐与委托" achievement="ACHIEVEMENT_GREEN_02_00" desc="&lt;CLGR&gt;普拉芙妲的记忆碎片&lt;CLNR&gt;&lt;CR&gt;　收集记忆的契机！！"/>
+    <RecipeLearnCond No="188" title="购入：８０００克隆&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_06" desc="记忆契机：&lt;CLGR&gt;效果大&lt;CLNR&gt;&lt;CR&gt;　因&lt;CLGR&gt;记忆中的魔物&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="189" title="委托：25次&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_07" desc="笔记：山师水畔&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐沉默的魔兽&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="190" title="无" achievement="ACHIEVEMENT_RED_26_00" desc="？？？？"/>
+    <RecipeLearnCond No="191" title="无" achievement="ACHIEVEMENT_RED_26_01" desc="？？？？"/>
+    <RecipeLearnCond No="192" title="无" achievement="ACHIEVEMENT_RED_26_02" desc="？？？？"/>
+    <RecipeLearnCond No="193" title="无" achievement="ACHIEVEMENT_RED_27_00" desc="？？？？"/>
+    <RecipeLearnCond No="194" title="无" achievement="ACHIEVEMENT_RED_27_01" desc="？？？？"/>
+    <RecipeLearnCond No="195" title="无" achievement="ACHIEVEMENT_RED_27_02" desc="？？？？"/>
+    <RecipeLearnCond No="196" title="无" achievement="ACHIEVEMENT_RED_28_00" desc="？？？？"/>
+    <RecipeLearnCond No="197" title="无" achievement="ACHIEVEMENT_RED_28_01" desc="？？？？"/>
+    <RecipeLearnCond No="198" title="无" achievement="ACHIEVEMENT_RED_28_02" desc="？？？？"/>
+    <RecipeLearnCond No="199" title="无" achievement="ACHIEVEMENT_RED_29_00" desc="？？？？"/>
+    <RecipeLearnCond No="200" title="无" achievement="ACHIEVEMENT_RED_29_01" desc="？？？？"/>
+    <RecipeLearnCond No="201" title="无" achievement="ACHIEVEMENT_RED_29_02" desc="？？？？"/>
+    <RecipeLearnCond No="202" title="无" achievement="ACHIEVEMENT_RED_30_00" desc="？？？？"/>
+    <RecipeLearnCond No="203" title="无" achievement="ACHIEVEMENT_RED_30_01" desc="？？？？"/>
+    <RecipeLearnCond No="204" title="无" achievement="ACHIEVEMENT_RED_30_02" desc="？？？？"/>
+    <RecipeLearnCond No="205" title="购入：300克隆&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_03_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;购入３００克隆&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="206" title="售出：３００克隆&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_03_01" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;卖出３００克隆&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="207" title="无" achievement="ACHIEVEMENT_GREEN_03_02"/>
+    <RecipeLearnCond No="208" title="战斗败北知识" achievement="ACHIEVEMENT_RED_16_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;遭遇不幸&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="209" title="无" achievement="ACHIEVEMENT_RED_16_01"/>
+    <RecipeLearnCond No="210" title="无" achievement="ACHIEVEMENT_RED_16_02"/>
+    <RecipeLearnCond No="211" title="调查：忘却的苗圃&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_01_00" desc="笔记：忘却的苗圃&lt;CR&gt;　灵感自&lt;CLGR&gt;调查池塘庭园周遭&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="212" title="无" achievement="ACHIEVEMENT_BLUE_01_01"/>
+    <RecipeLearnCond No="213" title="无" achievement="ACHIEVEMENT_BLUE_01_02"/>
+    <RecipeLearnCond No="214" title="调合：蜂蜜（基尔亨‧贝尔特产）&lt;CR&gt;" achievement="ACHIEVEMENT_RED_12_00" desc="笔记：特性　&lt;CLGR&gt;基尔亨‧贝尔特产&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;蜂蜜&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="215" title="无" achievement="ACHIEVEMENT_RED_12_01"/>
+    <RecipeLearnCond No="216" title="无" achievement="ACHIEVEMENT_RED_12_02"/>
+    <RecipeLearnCond No="217" title="获得时习得" achievement="ACHIEVEMENT_WHITE_06_00" desc="笔记：&lt;CR&gt;　获得&lt;CLGR&gt;练习用的炼金釜&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="218" title="无" achievement="ACHIEVEMENT_WHITE_06_01"/>
+    <RecipeLearnCond No="219" title="无" achievement="ACHIEVEMENT_WHITE_06_02"/>
+    <RecipeLearnCond No="220" title="调合：海胆袋（爆炸）&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_02_00" desc="笔记：效果　&lt;CLGR&gt;爆炸&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;海胆袋&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="221" title="无" achievement="ACHIEVEMENT_YELLOW_02_01"/>
+    <RecipeLearnCond No="222" title="无" achievement="ACHIEVEMENT_YELLOW_02_02"/>
+    <RecipeLearnCond No="223" title="技能：英勇之心&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_17_00" desc="笔记：我方技能&lt;CR&gt;　灵感自&lt;CLGR&gt;特定辅助技能&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="224" title="技能：光芒剑锋&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_17_01" desc="笔记：我方技能&lt;CR&gt;　灵感自&lt;CLGR&gt;特定攻击技能&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="225" title="无" achievement="ACHIEVEMENT_WHITE_17_02"/>
+    <RecipeLearnCond No="226" title="距离下个记忆……" achievement="ACHIEVEMENT_RED_07_00" desc="&lt;CLGR&gt;普拉芙妲的记忆碎片&lt;CLNR&gt;&lt;CR&gt;　收集记忆的契机！！"/>
+    <RecipeLearnCond No="227" title="调合：30次" achievement="ACHIEVEMENT_WHITE_YOBI_08" desc="记忆契机：&lt;CR&gt;　因&lt;CLGR&gt;调合次数&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="228" title="使用：１５次" achievement="ACHIEVEMENT_WHITE_YOBI_09" desc="记忆契机：&lt;CLGR&gt;效果大&lt;CLNR&gt;&lt;CR&gt;　因&lt;CLGR&gt;使用道具&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="229" title="讨伐：绿噗尼&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_04_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐绿噗尼&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="230" title="讨伐：红噗尼&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_04_01" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐红噗尼&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="231" title="讨伐：黑噗尼&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_04_02" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐黑噗尼&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="232" title="调合：布料（带热）&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_10_00" desc="笔记：特性　&lt;CLGR&gt;带热&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;布料&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="233" title="无" achievement="ACHIEVEMENT_YELLOW_10_01"/>
+    <RecipeLearnCond No="234" title="无" achievement="ACHIEVEMENT_YELLOW_10_02"/>
+    <RecipeLearnCond No="235" title="事件：&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_14_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="236" title="无" achievement="ACHIEVEMENT_BLUE_14_01"/>
+    <RecipeLearnCond No="237" title="无" achievement="ACHIEVEMENT_BLUE_14_02"/>
+    <RecipeLearnCond No="238" title="调合：山师之药（尺寸＋）&lt;CR&gt;
+" achievement="ACHIEVEMENT_GREEN_15_00" desc="笔记：特性　&lt;CLGR&gt;尺寸＋&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;山师之药&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="239" title="无" achievement="ACHIEVEMENT_GREEN_15_01"/>
+    <RecipeLearnCond No="240" title="无" achievement="ACHIEVEMENT_GREEN_15_02"/>
+    <RecipeLearnCond No="241" title="探索：全体&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_03_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;探索中能做的事&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="242" title="探索：跳跃&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_03_01"/>
+    <RecipeLearnCond No="243" title="探索：挥击&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_03_02"/>
+    <RecipeLearnCond No="244" title="获得时习得" achievement="ACHIEVEMENT_WHITE_08_00" desc="笔记：&lt;CR&gt;　获得&lt;CLGR&gt;达人之釜&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="245" title="无" achievement="ACHIEVEMENT_WHITE_08_01"/>
+    <RecipeLearnCond No="246" title="无" achievement="ACHIEVEMENT_WHITE_08_02"/>
+    <RecipeLearnCond No="247" title="采集：１０次&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_25_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;采集次数&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="248" title="无" achievement="ACHIEVEMENT_YELLOW_25_01"/>
+    <RecipeLearnCond No="249" title="无" achievement="ACHIEVEMENT_YELLOW_25_02"/>
+    <RecipeLearnCond No="250" title="距离下个记忆……" achievement="ACHIEVEMENT_RED_08_00" desc="&lt;CLGR&gt;普拉芙妲的记忆碎片&lt;CLNR&gt;&lt;CR&gt;　收集记忆的契机！！"/>
+    <RecipeLearnCond No="251" title="讨伐：６０只" achievement="ACHIEVEMENT_WHITE_YOBI_10" desc="记忆契机：&lt;CR&gt;　因&lt;CLGR&gt;讨伐魔物&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="252" title="武器调合：５次" achievement="ACHIEVEMENT_WHITE_YOBI_11" desc="记忆契机：&lt;CLGR&gt;效果大&lt;CLNR&gt;&lt;CR&gt;　因&lt;CLGR&gt;制作武器&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="253" title="敌人掉落：宝箱&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_18_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;魔物掉落的宝箱&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="254" title="无" achievement="ACHIEVEMENT_YELLOW_18_01"/>
+    <RecipeLearnCond No="255" title="无" achievement="ACHIEVEMENT_YELLOW_18_02"/>
+    <RecipeLearnCond No="256" title="技能：噗尼挤压" achievement="ACHIEVEMENT_BLUE_18_00" desc="笔记：魔物技能&lt;CR&gt;　灵感自&lt;CLGR&gt;普尼挤压&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="257" title="无" achievement="ACHIEVEMENT_BLUE_18_01"/>
+    <RecipeLearnCond No="258" title="无" achievement="ACHIEVEMENT_BLUE_18_02"/>
+    <RecipeLearnCond No="259" title="讨伐：剑爪鸦&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_05_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐剑爪鸦&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="260" title="无" achievement="ACHIEVEMENT_GREEN_05_01"/>
+    <RecipeLearnCond No="261" title="无" achievement="ACHIEVEMENT_GREEN_05_02"/>
+    <RecipeLearnCond No="262" title="事件中获得" achievement="ACHIEVEMENT_WHITE_04_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="263" title="无" achievement="ACHIEVEMENT_WHITE_04_01"/>
+    <RecipeLearnCond No="264" title="无" achievement="ACHIEVEMENT_WHITE_04_02"/>
+    <RecipeLearnCond No="265" title="获得：事件" achievement="ACHIEVEMENT_YELLOW_15_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="266" title="无" achievement="ACHIEVEMENT_YELLOW_15_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="267" title="无" achievement="ACHIEVEMENT_YELLOW_15_02"/>
+    <RecipeLearnCond No="268" title="获得：好喝的水&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_23_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;好喝的水&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="269" title="无" achievement="ACHIEVEMENT_GREEN_23_01"/>
+    <RecipeLearnCond No="270" title="无" achievement="ACHIEVEMENT_GREEN_23_02"/>
+    <RecipeLearnCond No="271" title="古老厨房" achievement="ACHIEVEMENT_YELLOW_04_00" desc="笔记：忘却的苗圃&lt;CR&gt;　灵感自&lt;CLGR&gt;调查古老厨房&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="272" title="无" achievement="ACHIEVEMENT_YELLOW_04_01"/>
+    <RecipeLearnCond No="273" title="无" achievement="ACHIEVEMENT_YELLOW_04_02"/>
+    <RecipeLearnCond No="274" title="ＮＰＣ对话" achievement="ACHIEVEMENT_YELLOW_14_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;与占卜未来的人对话&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="275" title="无" achievement="ACHIEVEMENT_YELLOW_14_01"/>
+    <RecipeLearnCond No="276" title="无" achievement="ACHIEVEMENT_YELLOW_14_02"/>
+    <RecipeLearnCond No="277" title="调合：云杉木（摇曳之光）" achievement="ACHIEVEMENT_YELLOW_21_00" desc="笔记：特性　&lt;CLGR&gt;摇曳之光&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;云杉木&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="278" title="无" achievement="ACHIEVEMENT_YELLOW_21_01"/>
+    <RecipeLearnCond No="279" title="无" achievement="ACHIEVEMENT_YELLOW_21_02"/>
+    <RecipeLearnCond No="280" title="距离下个记忆……" achievement="ACHIEVEMENT_WHITE_20_00" desc="&lt;CLGR&gt;普拉芙妲的记忆碎片&lt;CLNR&gt;&lt;CR&gt;　收集记忆的契机！！"/>
+    <RecipeLearnCond No="281" title="讨伐：报丧花精" achievement="ACHIEVEMENT_WHITE_YOBI_12" desc="记忆契机：&lt;CR&gt;　因&lt;CLGR&gt;与师傅们友好&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="282" title="调合：（纸）２５次" achievement="ACHIEVEMENT_WHITE_YOBI_13" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　频繁光顾&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="283" title="事件中习得" achievement="ACHIEVEMENT_WHITE_09_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="284" title="无" achievement="ACHIEVEMENT_WHITE_09_01"/>
+    <RecipeLearnCond No="285" title="无" achievement="ACHIEVEMENT_WHITE_09_02"/>
+    <RecipeLearnCond No="286" title="事件中习得" achievement="ACHIEVEMENT_WHITE_16_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="287" title="无" achievement="ACHIEVEMENT_WHITE_16_01"/>
+    <RecipeLearnCond No="288" title="无" achievement="ACHIEVEMENT_WHITE_16_02"/>
+    <RecipeLearnCond No="289" title="无" achievement="ACHIEVEMENT_BLUE_21_00"/>
+    <RecipeLearnCond No="290" title="无" achievement="ACHIEVEMENT_BLUE_21_01"/>
+    <RecipeLearnCond No="291" title="无" achievement="ACHIEVEMENT_BLUE_21_02"/>
+    <RecipeLearnCond No="292" title="获得时习得" achievement="ACHIEVEMENT_BLUE_22_00" desc="笔记：获得&lt;CR&gt;&lt;CLGR&gt;　师范的炼金釜&lt;CLNR&gt;。"/>
+    <RecipeLearnCond No="293" title="无" achievement="ACHIEVEMENT_BLUE_22_01" desc="？？？？"/>
+    <RecipeLearnCond No="294" title="无" achievement="ACHIEVEMENT_BLUE_22_02" desc="？？？？"/>
+    <RecipeLearnCond No="295" title="事件中习得" achievement="ACHIEVEMENT_BLUE_23_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="296" title="无" achievement="ACHIEVEMENT_BLUE_23_01" desc="？？？？"/>
+    <RecipeLearnCond No="297" title="无" achievement="ACHIEVEMENT_BLUE_23_02" desc="？？？？"/>
+    <RecipeLearnCond No="298" title="无" achievement="ACHIEVEMENT_BLUE_24_00" desc="？？？？"/>
+    <RecipeLearnCond No="299" title="无" achievement="ACHIEVEMENT_BLUE_24_01" desc="？？？？"/>
+    <RecipeLearnCond No="300" title="无" achievement="ACHIEVEMENT_BLUE_24_02" desc="？？？？"/>
+    <RecipeLearnCond No="301" title="无" achievement="ACHIEVEMENT_BLUE_25_00" desc="？？？？"/>
+    <RecipeLearnCond No="302" title="无" achievement="ACHIEVEMENT_BLUE_25_01" desc="？？？？"/>
+    <RecipeLearnCond No="303" title="无" achievement="ACHIEVEMENT_BLUE_25_02" desc="？？？？"/>
+    <RecipeLearnCond No="304" title="无" achievement="ACHIEVEMENT_BLUE_26_00" desc="？？？？"/>
+    <RecipeLearnCond No="305" title="无" achievement="ACHIEVEMENT_BLUE_26_01" desc="？？？？"/>
+    <RecipeLearnCond No="306" title="无" achievement="ACHIEVEMENT_BLUE_26_02" desc="？？？？"/>
+    <RecipeLearnCond No="307" title="无" achievement="ACHIEVEMENT_BLUE_27_00" desc="？？？？"/>
+    <RecipeLearnCond No="308" title="无" achievement="ACHIEVEMENT_BLUE_27_01" desc="？？？？"/>
+    <RecipeLearnCond No="309" title="无" achievement="ACHIEVEMENT_BLUE_27_02" desc="？？？？"/>
+    <RecipeLearnCond No="310" title="无" achievement="ACHIEVEMENT_BLUE_28_00" desc="？？？？"/>
+    <RecipeLearnCond No="311" title="无" achievement="ACHIEVEMENT_BLUE_28_01" desc="？？？？"/>
+    <RecipeLearnCond No="312" title="无" achievement="ACHIEVEMENT_BLUE_28_02" desc="？？？？"/>
+    <RecipeLearnCond No="313" title="无" achievement="ACHIEVEMENT_BLUE_29_00" desc="？？？？"/>
+    <RecipeLearnCond No="314" title="无" achievement="ACHIEVEMENT_BLUE_29_01" desc="？？？？"/>
+    <RecipeLearnCond No="315" title="无" achievement="ACHIEVEMENT_BLUE_29_02" desc="？？？？"/>
+    <RecipeLearnCond No="316" title="无" achievement="ACHIEVEMENT_BLUE_30_00" desc="？？？？"/>
+    <RecipeLearnCond No="317" title="无" achievement="ACHIEVEMENT_BLUE_30_01" desc="？？？？"/>
+    <RecipeLearnCond No="318" title="无" achievement="ACHIEVEMENT_BLUE_30_02" desc="？？？？"/>
+    <RecipeLearnCond No="319" title="获得：基尔亨牛奶（之后变为ＮＰＣ）" achievement="ACHIEVEMENT_BLUE_07_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;基尔亨牛奶&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="320" title="无" achievement="ACHIEVEMENT_BLUE_07_01"/>
+    <RecipeLearnCond No="321" title="无" achievement="ACHIEVEMENT_BLUE_07_02"/>
+    <RecipeLearnCond No="322" title="调合：任意&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_01_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;调合&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="323" title="等级：调合&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_01_01" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;炼金术Lv&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="324" title="无" achievement="ACHIEVEMENT_WHITE_01_02"/>
+    <RecipeLearnCond No="325" title="调合：炼金彩糖（解除异常）" achievement="ACHIEVEMENT_BLUE_02_00" desc="笔记：效果　&lt;CLGR&gt;超甜&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;炼金彩糖&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="326" title="无" achievement="ACHIEVEMENT_BLUE_02_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="327" title="无" achievement="ACHIEVEMENT_BLUE_02_02"/>
+    <RecipeLearnCond No="328" title="探索：环绕区域&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_17_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;探索各地方&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="329" title="无" achievement="ACHIEVEMENT_GREEN_17_01"/>
+    <RecipeLearnCond No="330" title="无" achievement="ACHIEVEMENT_GREEN_17_02"/>
+    <RecipeLearnCond No="331" title="获得：夜光水&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_05_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;夜光水&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="332" title="无" achievement="ACHIEVEMENT_BLUE_05_01"/>
+    <RecipeLearnCond No="333" title="无" achievement="ACHIEVEMENT_BLUE_05_02"/>
+    <RecipeLearnCond No="334" title="调合：（装饰品）&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_16_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;调合（装饰品）&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="335" title="无" achievement="ACHIEVEMENT_BLUE_16_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="336" title="无" achievement="ACHIEVEMENT_BLUE_16_02"/>
+    <RecipeLearnCond No="337" title="调查锻冶屋" achievement="ACHIEVEMENT_GREEN_04_00" desc="笔记：锻冶屋&lt;CR&gt;　灵感自&lt;CLGR&gt;调查炉子周遭&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="338" title="无" achievement="ACHIEVEMENT_GREEN_04_01"/>
+    <RecipeLearnCond No="339" title="无" achievement="ACHIEVEMENT_GREEN_04_02"/>
+    <RecipeLearnCond No="340" title="调合：捆起来的金线（净化之水）&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_11_00" desc="笔记：特性　&lt;CLGR&gt;净化之水&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;捆起来的金线&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="341" title="无" achievement="ACHIEVEMENT_YELLOW_11_01"/>
+    <RecipeLearnCond No="342" title="无" achievement="ACHIEVEMENT_YELLOW_11_02"/>
+    <RecipeLearnCond No="343" title="调合：炎烧（蓝色火焰）&lt;CR&gt;" achievement="ACHIEVEMENT_RED_04_00" desc="笔记：效果　&lt;CLGR&gt;蓝色火焰&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;炎烧&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="344" title="无" achievement="ACHIEVEMENT_RED_04_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="345" title="无" achievement="ACHIEVEMENT_RED_04_02"/>
+    <RecipeLearnCond No="346" title="获得：黑燃料球&lt;CR&gt;" achievement="ACHIEVEMENT_RED_18_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;黑燃料球&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="347" title="无" achievement="ACHIEVEMENT_RED_18_01"/>
+    <RecipeLearnCond No="348" title="无" achievement="ACHIEVEMENT_RED_18_02"/>
+    <RecipeLearnCond No="349" title="防具调合与讨伐&lt;CR&gt;" achievement="ACHIEVEMENT_RED_19_00" desc="&lt;CLGR&gt;普拉芙妲的记忆碎片&lt;CLNR&gt;&lt;CR&gt;　收集记忆的契机！！"/>
+    <RecipeLearnCond No="350" title="调合：30次" achievement="ACHIEVEMENT_WHITE_YOBI_14" desc="记忆契机：&lt;CR&gt;　因&lt;CLGR&gt;调合次数&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="351" title="回礼：４次" achievement="ACHIEVEMENT_WHITE_YOBI_15" desc="记忆契机：&lt;CLGR&gt;效果大&lt;CLNR&gt;&lt;CR&gt;　因&lt;CLGR&gt;回礼&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="352" title="调合：顶级热牛奶（热烫烫～）&lt;CR&gt;" achievement="ACHIEVEMENT_RED_11_00" desc="笔记：效果　&lt;CLGR&gt;热烫烫～&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;顶级热牛奶&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="353" title="无" achievement="ACHIEVEMENT_RED_11_01"/>
+    <RecipeLearnCond No="354" title="无" achievement="ACHIEVEMENT_RED_11_02"/>
+    <RecipeLearnCond No="355" title="敌人技能：闪电" achievement="ACHIEVEMENT_GREEN_07_00" desc="笔记：魔物技能&lt;CR&gt;　灵感自&lt;CLGR&gt;闪电&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="356" title="无" achievement="ACHIEVEMENT_GREEN_07_01"/>
+    <RecipeLearnCond No="357" title="无" achievement="ACHIEVEMENT_GREEN_07_02"/>
+    <RecipeLearnCond No="358" title="ＬＰ消耗：变为０为止&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_03_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;行动至精疲力尽&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="359" title="无" achievement="ACHIEVEMENT_WHITE_03_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="360" title="无" achievement="ACHIEVEMENT_WHITE_03_02" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="361" title="使用：冰精&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_12_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;冰精的相关事物&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="362" title="无" achievement="ACHIEVEMENT_BLUE_12_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="363" title="无" achievement="ACHIEVEMENT_BLUE_12_02"/>
+    <RecipeLearnCond No="364" title="调合：噗尼冻&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_15_00" desc="笔记：效果　&lt;CLGR&gt;分裂发动&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;噗尼冻&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="365" title="无" achievement="ACHIEVEMENT_BLUE_15_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="366" title="无" achievement="ACHIEVEMENT_BLUE_15_02"/>
+    <RecipeLearnCond No="367" title="调查大地伤痕" achievement="ACHIEVEMENT_RED_17_00" desc="笔记：大地伤痕&lt;CR&gt;　灵感自&lt;CLGR&gt;被刺穿的痕迹&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="368" title="无" achievement="ACHIEVEMENT_RED_17_01"/>
+    <RecipeLearnCond No="369" title="无" achievement="ACHIEVEMENT_RED_17_02"/>
+    <RecipeLearnCond No="370" title="获得：恩典戒指&lt;CR&gt;" achievement="ACHIEVEMENT_RED_22_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;恩典戒指&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="371" title="调合：锻炼的护符（锻炼的真髓）" achievement="ACHIEVEMENT_RED_22_01" desc="笔记：效果　&lt;CLGR&gt;锻炼的真髓&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;锻炼护符&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="372" title="无" achievement="ACHIEVEMENT_RED_22_02"/>
+    <RecipeLearnCond No="373" title="获得时习得" achievement="ACHIEVEMENT_WHITE_12_00" desc="笔记：&lt;CR&gt;　获得&lt;CLGR&gt;同步之釜&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="374" title="无" achievement="ACHIEVEMENT_WHITE_12_01"/>
+    <RecipeLearnCond No="375" title="无" achievement="ACHIEVEMENT_WHITE_12_02"/>
+    <RecipeLearnCond No="376" title="调合：贝果三明治（松软）&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_14_00" desc="笔记：效果　&lt;CLGR&gt;松软&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;贝果三明治&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="377" title="无" achievement="ACHIEVEMENT_GREEN_14_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="378" title="无" achievement="ACHIEVEMENT_GREEN_14_02"/>
+    <RecipeLearnCond No="379" title="获得：银灵结晶&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_11_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;银灵结晶&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="380" title="无" achievement="ACHIEVEMENT_BLUE_11_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="381" title="无" achievement="ACHIEVEMENT_BLUE_11_02"/>
+    <RecipeLearnCond No="382" title="捐款与委托&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_14_00" desc="&lt;CLGR&gt;普拉芙妲的记忆碎片&lt;CLNR&gt;&lt;CR&gt;　收集记忆的契机！！"/>
+    <RecipeLearnCond No="383" title="讨伐：不死之王&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_16" desc="记忆契机：&lt;CR&gt;　因&lt;CLGR&gt;记忆中的魔物&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="384" title="捐款：８０００克隆&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_YOBI_17" desc="笔记：地底湖&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐不死之王&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="385" title="事件中获得" achievement="ACHIEVEMENT_GREEN_21_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="386" title="无" achievement="ACHIEVEMENT_GREEN_21_01"/>
+    <RecipeLearnCond No="387" title="无" achievement="ACHIEVEMENT_GREEN_21_02"/>
+    <RecipeLearnCond No="388" title="事件中获得" achievement="ACHIEVEMENT_YELLOW_12_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="389" title="无" achievement="ACHIEVEMENT_YELLOW_12_01"/>
+    <RecipeLearnCond No="390" title="无" achievement="ACHIEVEMENT_YELLOW_12_02"/>
+    <RecipeLearnCond No="391" title="事件中习得" achievement="ACHIEVEMENT_WHITE_21_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="392" title="无" achievement="ACHIEVEMENT_WHITE_21_01"/>
+    <RecipeLearnCond No="393" title="无" achievement="ACHIEVEMENT_WHITE_21_02"/>
+    <RecipeLearnCond No="394" title="事件中获得" achievement="ACHIEVEMENT_BLUE_09_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="395" title="无" achievement="ACHIEVEMENT_BLUE_09_01"/>
+    <RecipeLearnCond No="396" title="无" achievement="ACHIEVEMENT_BLUE_09_02"/>
+    <RecipeLearnCond No="397" title="事件中获得" achievement="ACHIEVEMENT_GREEN_12_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="398" title="无" achievement="ACHIEVEMENT_GREEN_12_01"/>
+    <RecipeLearnCond No="399" title="无" achievement="ACHIEVEMENT_GREEN_12_02"/>
+    <RecipeLearnCond No="400" title="调合附加特性的万药之本" achievement="ACHIEVEMENT_GREEN_13_00" desc="笔记：&lt;CR&gt;　调合&lt;CLGR&gt;万药之本&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="401" title="无" achievement="ACHIEVEMENT_GREEN_13_01"/>
+    <RecipeLearnCond No="402" title="无" achievement="ACHIEVEMENT_GREEN_13_02"/>
+    <RecipeLearnCond No="403" title="无" achievement="ACHIEVEMENT_GREEN_24_00" desc="？？？？"/>
+    <RecipeLearnCond No="404" title="无" achievement="ACHIEVEMENT_GREEN_24_01" desc="？？？？"/>
+    <RecipeLearnCond No="405" title="无" achievement="ACHIEVEMENT_GREEN_24_02" desc="？？？？"/>
+    <RecipeLearnCond No="406" title="无" achievement="ACHIEVEMENT_GREEN_26_00" desc="？？？？"/>
+    <RecipeLearnCond No="407" title="无" achievement="ACHIEVEMENT_GREEN_26_01" desc="？？？？"/>
+    <RecipeLearnCond No="408" title="无" achievement="ACHIEVEMENT_GREEN_26_02" desc="？？？？"/>
+    <RecipeLearnCond No="409" title="获得时习得" achievement="ACHIEVEMENT_GREEN_27_00" desc="笔记：获得&lt;CR&gt;&lt;CLGR&gt;　仙人的炼金釜&lt;CLNR&gt;。"/>
+    <RecipeLearnCond No="410" title="无" achievement="ACHIEVEMENT_GREEN_27_01"/>
+    <RecipeLearnCond No="411" title="无" achievement="ACHIEVEMENT_GREEN_27_02"/>
+    <RecipeLearnCond No="412" title="事件中习得" achievement="ACHIEVEMENT_GREEN_28_00" desc="笔记：获得&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;。"/>
+    <RecipeLearnCond No="413" title="无" achievement="ACHIEVEMENT_GREEN_28_01" desc="？？？？"/>
+    <RecipeLearnCond No="414" title="无" achievement="ACHIEVEMENT_GREEN_28_02" desc="？？？？"/>
+    <RecipeLearnCond No="415" title="无" achievement="ACHIEVEMENT_GREEN_29_00" desc="？？？？"/>
+    <RecipeLearnCond No="416" title="无" achievement="ACHIEVEMENT_GREEN_29_01" desc="？？？？"/>
+    <RecipeLearnCond No="417" title="无" achievement="ACHIEVEMENT_GREEN_29_02" desc="？？？？"/>
+    <RecipeLearnCond No="418" title="无" achievement="ACHIEVEMENT_GREEN_30_00" desc="？？？？"/>
+    <RecipeLearnCond No="419" title="无" achievement="ACHIEVEMENT_GREEN_30_01" desc="？？？？"/>
+    <RecipeLearnCond No="420" title="无" achievement="ACHIEVEMENT_GREEN_30_02" desc="？？？？"/>
+    <RecipeLearnCond No="421" title="使用：（炸弹）" achievement="ACHIEVEMENT_BLUE_20_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;使用（炸弹）&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="422" title="使用：（魔法道具）" achievement="ACHIEVEMENT_BLUE_20_01" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;使用（魔法道具）&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="423" title="使用：（药品）" achievement="ACHIEVEMENT_BLUE_20_02" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;使用（药品）&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="424" title="调查水滨古迹" achievement="ACHIEVEMENT_WHITE_15_00" desc="笔记：水滨古迹&lt;CR&gt;　灵感自&lt;CLGR&gt;调查桥周遭&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="425" title="无" achievement="ACHIEVEMENT_WHITE_15_01"/>
+    <RecipeLearnCond No="426" title="无" achievement="ACHIEVEMENT_WHITE_15_02"/>
+    <RecipeLearnCond No="427" title="调合：天使的耳语（灵魂清醒）" achievement="ACHIEVEMENT_YELLOW_16_00" desc="笔记：效果　&lt;CLGR&gt;灵魂清醒&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;天使的耳语&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="428" title="无" achievement="ACHIEVEMENT_YELLOW_16_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="429" title="无" achievement="ACHIEVEMENT_YELLOW_16_02"/>
+    <RecipeLearnCond No="430" title="调查无愿的祭礼台" achievement="ACHIEVEMENT_WHITE_05_00" desc="笔记：沉积小岛&lt;CR&gt;　灵感自&lt;CLGR&gt;调查无愿的祭礼台&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="431" title="无" achievement="ACHIEVEMENT_WHITE_05_01"/>
+    <RecipeLearnCond No="432" title="无" achievement="ACHIEVEMENT_WHITE_05_02"/>
+    <RecipeLearnCond No="433" title="调合：金属块（金色光芒）&lt;CR&gt;" achievement="ACHIEVEMENT_RED_21_00" desc="笔记：特性　&lt;CLGR&gt;金色光芒&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;金属块&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="434" title="无" achievement="ACHIEVEMENT_WHITE_YOBI_18"/>
+    <RecipeLearnCond No="435" title="无" achievement="ACHIEVEMENT_WHITE_YOBI_19"/>
+    <RecipeLearnCond No="436" title="获得时习得" achievement="ACHIEVEMENT_WHITE_11_00" desc="笔记：&lt;CR&gt;　获得&lt;CLGR&gt;妖精之釜&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="437" title="无" achievement="ACHIEVEMENT_WHITE_11_01"/>
+    <RecipeLearnCond No="438" title="无" achievement="ACHIEVEMENT_WHITE_11_02"/>
+    <RecipeLearnCond No="439" title="调合：纯水（健康的秘诀）&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_08_00" desc="笔记：特性　&lt;CLGR&gt;健康的秘诀&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;纯水&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="440" title="无" achievement="ACHIEVEMENT_BLUE_08_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="441" title="无" achievement="ACHIEVEMENT_BLUE_08_02"/>
+    <RecipeLearnCond No="442" title="调合：亚达布料（限定价格）" achievement="ACHIEVEMENT_YELLOW_23_00" desc="笔记：特性　&lt;CLGR&gt;高级品&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;亚达布料&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="443" title="无" achievement="ACHIEVEMENT_YELLOW_23_01"/>
+    <RecipeLearnCond No="444" title="无" achievement="ACHIEVEMENT_YELLOW_23_02"/>
+    <RecipeLearnCond No="445" title="获得：龙之结晶&lt;CR&gt;" achievement="ACHIEVEMENT_RED_24_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;龙之血晶&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="446" title="无" achievement="ACHIEVEMENT_RED_24_01"/>
+    <RecipeLearnCond No="447" title="无" achievement="ACHIEVEMENT_RED_24_02"/>
+    <RecipeLearnCond No="448" title="调合：天然酵母（太阳的味道）&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_08_00" desc="笔记：特性　&lt;CLGR&gt;太阳的味道&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;天然酵母&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="449" title="无" achievement="ACHIEVEMENT_YELLOW_08_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="450" title="无" achievement="ACHIEVEMENT_YELLOW_08_02"/>
+    <RecipeLearnCond No="451" title="调查静寂的寝室" achievement="ACHIEVEMENT_YELLOW_20_00" desc="笔记：月亮与太阳的原野&lt;CR&gt;　灵感自&lt;CLGR&gt;调查静寂的寝室&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="452" title="无" achievement="ACHIEVEMENT_YELLOW_20_01"/>
+    <RecipeLearnCond No="453" title="无" achievement="ACHIEVEMENT_YELLOW_20_02"/>
+    <RecipeLearnCond No="454" title="消耗ＬＰ：消耗１００" achievement="ACHIEVEMENT_RED_01_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;累积疲劳&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="455" title="无" achievement="ACHIEVEMENT_RED_01_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="456" title="无" achievement="ACHIEVEMENT_RED_01_02" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="457" title="调合：高贵紫宝石（古代刻印）&lt;CR&gt;" achievement="ACHIEVEMENT_BLUE_17_00" desc="笔记：特性　&lt;CLGR&gt;古代刻印&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;高贵紫宝石&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="458" title="无" achievement="ACHIEVEMENT_BLUE_17_01"/>
+    <RecipeLearnCond No="459" title="无" achievement="ACHIEVEMENT_BLUE_17_02"/>
+    <RecipeLearnCond No="460" title="逃走的知识" achievement="ACHIEVEMENT_YELLOW_17_00" desc="笔记：战斗&lt;CR&gt;　灵感自&lt;CLGR&gt;逃走&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="461" title="无" achievement="ACHIEVEMENT_YELLOW_17_01"/>
+    <RecipeLearnCond No="462" title="无" achievement="ACHIEVEMENT_YELLOW_17_02"/>
+    <RecipeLearnCond No="463" title="战斗：弱点伤害" achievement="ACHIEVEMENT_GREEN_22_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;弱点伤害&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="464" title="无" achievement="ACHIEVEMENT_GREEN_22_01"/>
+    <RecipeLearnCond No="465" title="无" achievement="ACHIEVEMENT_GREEN_22_02"/>
+    <RecipeLearnCond No="466" title="对话：学者&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_11_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;与比较了解的人对话&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="467" title="无" achievement="ACHIEVEMENT_GREEN_11_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="468" title="无" achievement="ACHIEVEMENT_GREEN_11_02"/>
+    <RecipeLearnCond No="469" title="战斗：破防&lt;CR&gt;" achievement="ACHIEVEMENT_RED_05_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;白热化的战斗&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="470" title="无" achievement="ACHIEVEMENT_RED_05_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="471" title="无" achievement="ACHIEVEMENT_RED_05_02"/>
+    <RecipeLearnCond No="472" title="天候：水边晚上的雷雨" achievement="ACHIEVEMENT_GREEN_08_00" desc="笔记：山师水畔&lt;CR&gt;　灵感自&lt;CLGR&gt;晚上遇到雷雨&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="473" title="无" achievement="ACHIEVEMENT_GREEN_08_01"/>
+    <RecipeLearnCond No="474" title="无" achievement="ACHIEVEMENT_GREEN_08_02"/>
+    <RecipeLearnCond No="475" title="距离下个记忆……&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_22_00" desc="&lt;CLGR&gt;普拉芙妲的记忆碎片&lt;CLNR&gt;&lt;CR&gt;　收集记忆的契机！！"/>
+    <RecipeLearnCond No="476" title="战斗：给予伤害：１００００" achievement="ACHIEVEMENT_WHITE_YOBI_20" desc="记忆契机：&lt;CR&gt;　因&lt;CLGR&gt;给予伤害的次数&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="477" title="战斗：被伤害：２０００" achievement="ACHIEVEMENT_WHITE_YOBI_21" desc="记忆契机：&lt;CLGR&gt;效果大&lt;CLNR&gt;&lt;CR&gt;　因&lt;CLGR&gt;承受伤害的次数&lt;CLNR&gt;想起"/>
+    <RecipeLearnCond No="478" title="事件：柯尔涅莉雅" achievement="ACHIEVEMENT_GREEN_25_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="479" title="无" achievement="ACHIEVEMENT_GREEN_25_01" desc="？？？？"/>
+    <RecipeLearnCond No="480" title="无" achievement="ACHIEVEMENT_GREEN_25_02" desc="？？？？"/>
+    <RecipeLearnCond No="481" title="无" achievement="ACHIEVEMENT_YELLOW_27_00" desc="？？？？"/>
+    <RecipeLearnCond No="482" title="无" achievement="ACHIEVEMENT_YELLOW_27_01" desc="？？？？"/>
+    <RecipeLearnCond No="483" title="无" achievement="ACHIEVEMENT_YELLOW_27_02" desc="？？？？"/>
+    <RecipeLearnCond No="484" title="无" achievement="ACHIEVEMENT_YELLOW_28_00" desc="？？？？"/>
+    <RecipeLearnCond No="485" title="无" achievement="ACHIEVEMENT_YELLOW_28_01" desc="？？？？"/>
+    <RecipeLearnCond No="486" title="无" achievement="ACHIEVEMENT_YELLOW_28_02" desc="？？？？"/>
+    <RecipeLearnCond No="487" title="无" achievement="ACHIEVEMENT_YELLOW_29_00" desc="？？？？"/>
+    <RecipeLearnCond No="488" title="无" achievement="ACHIEVEMENT_YELLOW_29_01" desc="？？？？"/>
+    <RecipeLearnCond No="489" title="无" achievement="ACHIEVEMENT_YELLOW_29_02" desc="？？？？"/>
+    <RecipeLearnCond No="490" title="无" achievement="ACHIEVEMENT_YELLOW_30_00" desc="？？？？"/>
+    <RecipeLearnCond No="491" title="无" achievement="ACHIEVEMENT_YELLOW_30_01" desc="？？？？"/>
+    <RecipeLearnCond No="492" title="无" achievement="ACHIEVEMENT_YELLOW_30_02" desc="？？？？"/>
+    <RecipeLearnCond No="493" title="调合：补给瓶（自动发动５０％）" achievement="ACHIEVEMENT_YELLOW_19_00" desc="笔记：效果　&lt;CLGR&gt;自动发动５０％&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;补给瓶&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="494" title="无" achievement="ACHIEVEMENT_YELLOW_19_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="495" title="无" achievement="ACHIEVEMENT_YELLOW_19_02"/>
+    <RecipeLearnCond No="496" title="讨伐：亚修克" achievement="ACHIEVEMENT_RED_20_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐亚修克&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="497" title="讨伐：杜拉克" achievement="ACHIEVEMENT_RED_20_01" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐杜拉克&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="498" title="无" achievement="ACHIEVEMENT_RED_20_02"/>
+    <RecipeLearnCond No="499" title="调查沉积小岛" achievement="ACHIEVEMENT_BLUE_19_00" desc="笔记：沉积小岛&lt;CR&gt;　灵感自&lt;CLGR&gt;调查小岛周遭&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="500" title="无" achievement="ACHIEVEMENT_BLUE_19_01"/>
+    <RecipeLearnCond No="501" title="无" achievement="ACHIEVEMENT_BLUE_19_02"/>
+    <RecipeLearnCond No="502" title="技能：生命之粉（金木树）" achievement="ACHIEVEMENT_RED_15_00" desc="笔记：魔物技能&lt;CR&gt;　灵感自&lt;CLGR&gt;生命之粉&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="503" title="调查：古老妖精之森" achievement="ACHIEVEMENT_RED_15_01" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;古老妖精之森的采集物&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="504" title="无" achievement="ACHIEVEMENT_RED_15_02"/>
+    <RecipeLearnCond No="505" title="获得时习得" achievement="ACHIEVEMENT_WHITE_13_00" desc="笔记：&lt;CR&gt;　获得&lt;CLGR&gt;古代的炼金釜&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="506" title="无" achievement="ACHIEVEMENT_WHITE_13_01"/>
+    <RecipeLearnCond No="507" title="无" achievement="ACHIEVEMENT_WHITE_13_02"/>
+    <RecipeLearnCond No="508" title="调合：万物手抄本（夺取相当多生命力）&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_25_00" desc="笔记：效果　&lt;CLGR&gt;夺取相当多生命力&lt;CLNR&gt;&lt;CR&gt;　灵感自&lt;CLGR&gt;万物手抄本&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="509" title="无" achievement="ACHIEVEMENT_WHITE_YOBI_22"/>
+    <RecipeLearnCond No="510" title="无" achievement="ACHIEVEMENT_WHITE_YOBI_23"/>
+    <RecipeLearnCond No="511" title="ＮＰＣ：附近的森林" achievement="ACHIEVEMENT_GREEN_20_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;与能跟死灵交谈的人对话&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="512" title="讨伐：巫妖" achievement="ACHIEVEMENT_GREEN_20_01" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐巫妖&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="513" title="无" achievement="ACHIEVEMENT_GREEN_20_02"/>
+    <RecipeLearnCond No="514" title="讨伐：光之元素&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_22_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐光之元素&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="515" title="无" achievement="ACHIEVEMENT_YELLOW_22_01"/>
+    <RecipeLearnCond No="516" title="无" achievement="ACHIEVEMENT_YELLOW_22_02"/>
+    <RecipeLearnCond No="517" title="委托：毁弃" achievement="ACHIEVEMENT_WHITE_23_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;辜负所受到的信赖&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="518" title="无" achievement="ACHIEVEMENT_WHITE_23_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="519" title="无" achievement="ACHIEVEMENT_WHITE_23_02"/>
+    <RecipeLearnCond No="520" title="调查工房前" achievement="ACHIEVEMENT_GREEN_16_00" desc="笔记：工房前&lt;CR&gt;　灵感自&lt;CLGR&gt;调查山丘周遭&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="521" title="无" achievement="ACHIEVEMENT_GREEN_16_01"/>
+    <RecipeLearnCond No="522" title="无" achievement="ACHIEVEMENT_GREEN_16_02"/>
+    <RecipeLearnCond No="523" title="调查苍天祭坛" achievement="ACHIEVEMENT_RED_14_00" desc="笔记：苍天祭坛&lt;CR&gt;　灵感自&lt;CLGR&gt;调查遗迹周遭&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="524" title="无" achievement="ACHIEVEMENT_RED_14_01"/>
+    <RecipeLearnCond No="525" title="无" achievement="ACHIEVEMENT_RED_14_02"/>
+    <RecipeLearnCond No="526" title="获得：精灵结晶&lt;CR&gt;" achievement="ACHIEVEMENT_RED_23_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;精灵结晶&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="527" title="无" achievement="ACHIEVEMENT_RED_23_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="528" title="无" achievement="ACHIEVEMENT_RED_23_02"/>
+    <RecipeLearnCond No="529" title="获得：彩虹噗尼的体液&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_24_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;彩虹噗尼的体液&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="530" title="无" achievement="ACHIEVEMENT_YELLOW_24_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="531" title="无" achievement="ACHIEVEMENT_YELLOW_24_02"/>
+    <RecipeLearnCond No="532" title="事件中获得" achievement="ACHIEVEMENT_RED_25_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="533" title="无" achievement="ACHIEVEMENT_RED_25_01"/>
+    <RecipeLearnCond No="534" title="无" achievement="ACHIEVEMENT_RED_25_02"/>
+    <RecipeLearnCond No="535" title="讨伐：末世火龙&lt;CR&gt;" achievement="ACHIEVEMENT_WHITE_18_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐末世火龙&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="536" title="无" achievement="ACHIEVEMENT_WHITE_18_01"/>
+    <RecipeLearnCond No="537" title="无" achievement="ACHIEVEMENT_WHITE_18_02"/>
+    <RecipeLearnCond No="538" title="讨伐：漆黑少女&lt;CR&gt;" achievement="ACHIEVEMENT_GREEN_10_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;讨伐漆黑少女&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="539" title="无" achievement="ACHIEVEMENT_GREEN_10_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="540" title="无" achievement="ACHIEVEMENT_GREEN_10_02"/>
+    <RecipeLearnCond No="541" title="调查钟表店" achievement="ACHIEVEMENT_GREEN_19_00" desc="笔记：钟表店&lt;CR&gt;　灵感自&lt;CLGR&gt;调查时钟周遭&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="542" title="无" achievement="ACHIEVEMENT_GREEN_19_01"/>
+    <RecipeLearnCond No="543" title="无" achievement="ACHIEVEMENT_GREEN_19_02"/>
+    <RecipeLearnCond No="544" title="获得：一夜花" achievement="ACHIEVEMENT_WHITE_10_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;一夜花&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="545" title="无" achievement="ACHIEVEMENT_WHITE_10_01" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="546" title="无" achievement="ACHIEVEMENT_WHITE_10_02"/>
+    <RecipeLearnCond No="547" title="技能：真实解放" achievement="ACHIEVEMENT_GREEN_18_00" desc="笔记：技能&lt;CR&gt;　灵感自&lt;CLGR&gt;真实解放&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="548" title="无" achievement="ACHIEVEMENT_GREEN_18_01"/>
+    <RecipeLearnCond No="549" title="无" achievement="ACHIEVEMENT_GREEN_18_02"/>
+    <RecipeLearnCond No="550" title="调合：等级45" achievement="ACHIEVEMENT_WHITE_24_00" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;调合等级&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="551" title="调合：全部习得" achievement="ACHIEVEMENT_WHITE_24_01" desc="笔记：&lt;CR&gt;　灵感自&lt;CLGR&gt;习得的配方数&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="552" title="无" achievement="ACHIEVEMENT_WHITE_24_02"/>
+    <RecipeLearnCond No="553" title="事件中获得" achievement="ACHIEVEMENT_WHITE_02_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="554" title="无" achievement="ACHIEVEMENT_WHITE_02_01"/>
+    <RecipeLearnCond No="555" title="无" achievement="ACHIEVEMENT_WHITE_02_02"/>
+    <RecipeLearnCond No="556" title="调合：万能促进剂&lt;CR&gt;" achievement="ACHIEVEMENT_YELLOW_26_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="557" title="无" achievement="ACHIEVEMENT_YELLOW_26_01"/>
+    <RecipeLearnCond No="558" title="无" achievement="ACHIEVEMENT_YELLOW_26_02"/>
+    <RecipeLearnCond No="559" title="事件中习得" achievement="ACHIEVEMENT_WHITE_19_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;　？？？&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="560" title="无" achievement="ACHIEVEMENT_WHITE_19_01"/>
+    <RecipeLearnCond No="561" title="无" achievement="ACHIEVEMENT_WHITE_19_02"/>
+    <RecipeLearnCond No="562" title="事件中习得" achievement="ACHIEVEMENT_WHITE_26_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="563" title="无" achievement="ACHIEVEMENT_WHITE_26_01" desc="？？？？"/>
+    <RecipeLearnCond No="564" title="无" achievement="ACHIEVEMENT_WHITE_26_02" desc="？？？？"/>
+    <RecipeLearnCond No="565" title="事件中习得" achievement="ACHIEVEMENT_WHITE_27_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="566" title="无" achievement="ACHIEVEMENT_WHITE_27_01" desc="？？？？"/>
+    <RecipeLearnCond No="567" title="无" achievement="ACHIEVEMENT_WHITE_27_02" desc="？？？？"/>
+    <RecipeLearnCond No="568" title="获得时习得" achievement="ACHIEVEMENT_WHITE_28_00" desc="笔记：获得&lt;CR&gt;&lt;CLGR&gt;　奇迹的炼金釜&lt;CLNR&gt;。"/>
+    <RecipeLearnCond No="569" title="无" achievement="ACHIEVEMENT_WHITE_28_01"/>
+    <RecipeLearnCond No="570" title="无" achievement="ACHIEVEMENT_WHITE_28_02"/>
+    <RecipeLearnCond No="571" title="事件中习得" achievement="ACHIEVEMENT_WHITE_29_00" desc="笔记：&lt;CR&gt;&lt;CLGR&gt;&lt;CLNR&gt;"/>
+    <RecipeLearnCond No="572" title="无" achievement="ACHIEVEMENT_WHITE_29_01" desc="？？？？"/>
+    <RecipeLearnCond No="573" title="无" achievement="ACHIEVEMENT_WHITE_29_02" desc="？？？？"/>
+    <RecipeLearnCond No="574" title="无" achievement="ACHIEVEMENT_WHITE_30_00" desc="？？？？"/>
+    <RecipeLearnCond No="575" title="无" achievement="ACHIEVEMENT_WHITE_30_01" desc="？？？？"/>
+    <RecipeLearnCond No="576" title="无" achievement="ACHIEVEMENT_WHITE_30_02" desc="？？？？"/>
+    <RecipeLearnCond No="577"/>
+</Root>

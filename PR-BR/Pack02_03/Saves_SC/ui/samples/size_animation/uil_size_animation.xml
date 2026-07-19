@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_style="Saves/ui/samples/size_animation/uis_size_animation.xml"/>
+	<command load_anim="Saves/ui/samples/size_animation/uia_size_animation.xml"/>
+	<command load_style="Saves/ui/samples/size_animation/uis_size_animation.xml"/>
+	<command load_anim="Saves/ui/samples/size_animation/uia_size_animation.xml"/>
+	<image name="test_image" pos="67, 63, 0" style="gen_window01_choosewin" size_wh="51, 71">
+		<text text="widthサンプル" pos="-27.00, -37.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</image>
+	<image name="test_image2" pos="66, 260, 0" style="gen_window01_choosewin" size_wh="73, 14">
+		<text text="heightサンプル" pos="-20.00, -55.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</image>
+	<image name="test_image3" pos="484, 64, 0" style="gen_window01_choosewin" size_wh="200.00, 200.00, 0.00" scale_w="2">
+		<text text="scale_widthサンプル" pos="-27.00, -37.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</image>
+	<image name="test_image4" pos="945, 76, 0" style="gen_window01_choosewin" size_wh="200.00, 200.00" scale_h="1.5">
+		<text text="scale_heightサンプル" pos="-20.00, -55.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</image>
+	<image name="test_image5" pos="400, 453, 0" style="gen_title02_newgame" scale_tex_w="0.7">
+		<text text="scale_tex_widthサンプル" pos="-31.00, -37.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" name="none_1"/>
+	</image>
+	<image name="test_image6" pos="745, 452, 0" style="gen_title02_newgame" scale_tex_h="0.60">
+		<text text="scale_tex_heightサンプル" pos="-31.00, -37.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" name="none_1"/>
+	</image>
+	<image name="test_image7" pos="397.00, 566.00, 0.00" style="gen_title02_newgame" scale_tex_w_rev="0.50">
+		<text text="scale_tex_width_revサンプル" pos="-31.00, -37.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" name="none_1"/>
+	</image>
+	<image name="test_image8" pos="742.00, 571.00, 0.00" style="gen_title02_newgame" scale_tex_h_rev="1.00">
+		<text text="scale_tex_height_revサンプル" pos="-31.00, -37.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" name="none_1"/>
+	</image>
+	<anim_ctrl play="true" loop="true">
+		<bind_node node="test_image" anim="anm_image_width"/>
+		<bind_node node="test_image2" anim="anm_image_height"/>
+		<bind_node node="test_image3" anim="anm_image_scale_width"/>
+		<bind_node node="test_image4" anim="anm_image_scale_height"/>
+		<bind_node node="test_image5" anim="anm_image_scale_tex_width"/>
+		<bind_node node="test_image6" anim="anm_image_scale_tex_height"/>
+		<bind_node node="test_image7" anim="anm_image_scale_tex_width_rev"/>
+		<bind_node node="test_image8" anim="anm_image_scale_tex_height_rev"/>
+	</anim_ctrl>
+</root>

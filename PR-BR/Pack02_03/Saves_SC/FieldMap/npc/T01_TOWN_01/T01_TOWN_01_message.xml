@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_01_message message_data="MM01_010_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9016" message1="我也来帮忙吧？" next_message_tag="MM01_010_SOPHIE"/>
+    <T01_TOWN_01_message message_data="MM01_010_SOPHIE" chara_tag="SOPHIE" name_tag="SOPHIE" voice_no1="-1" message1="不用啦，我三两下就能搞定的。&lt;CR&gt;你在这边稍微等一下唷。"/>
+    <T01_TOWN_01_message message_data="MM05_010_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9018" message1="与其来找我，普拉芙妲还比较重要吧？"/>
+    <T01_TOWN_01_message message_data="MM05_010_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="9023" message1="有时间找我说话的话，&lt;CR&gt;还不如早点把普拉芙妲变成人偶吧。"/>
+    <T01_TOWN_01_message message_data="MM05_010_MEKLET" chara_tag="MEKLET" name_tag="MEKLET" voice_no1="-1" message1="没想到有这种机会能见证，&lt;CR&gt;我们的运气很好呢。"/>
+    <T01_TOWN_01_message message_data="MM05_010_ATOMINA" chara_tag="ATOMINA" name_tag="ATOMINA" voice_no1="-1" message1="呵呵，真期待……&lt;CR&gt;我非常期待哦……"/>
+    <T01_TOWN_01_message message_data="TOWN_01_PLACHTA_RNPC_A_EV1" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="-1" message1="……" quest_tag="MM05_010" voice_no2="11755" message2="苏菲，麻烦你了。"/>
+    <T01_TOWN_01_message message_data="TOWN_01_PLACHTA_EV1" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="-1" message1="……" quest_tag="MM06_050" voice_no2="11755" message2="作业还顺利吗？"/>
+    <T01_TOWN_01_message message_data="PLACHTA_SYS" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="-1" message1="这是人偶炼成用的。"/>
+    <T01_TOWN_01_message message_data="PLACHTA_TOWN01_01_1" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="9012" message1="可能因为长时间都是书本的姿态，&lt;CR&gt;动作还有点僵硬……"/>
+    <T01_TOWN_01_message message_data="PLACHTA_TOWN01_01_E" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="9012" message1="稍微外出一下吧……&lt;CR&gt;不，可是……&lt;CR&gt;好像有事要跟苏菲说……"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_1" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9010" message1="好了，可没有时间玩了。&lt;CR&gt;要教你的事情&lt;CR&gt;可多得很呢。"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_2" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="不管内容如何，记忆恢复都是事实。&lt;CR&gt;请照这样子继续下去。"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_3" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="累积知识是我的的心愿。&lt;CR&gt;你的成长与我的目标&lt;CR&gt;也息息相关哦。"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_4" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9012" message1="５００年……&lt;CR&gt;原来已经过了那么久了呀……"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_5" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="苏菲最近也越来越像个&lt;CR&gt;炼金术士了呢。&lt;CR&gt;……虽然还需要再多加用功就是。"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_6" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="先不管是不是能恢复成人类。&lt;CR&gt;我很期待能跟你一起出游的&lt;CR&gt;那一天到来哦。"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_7" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9012" message1="若记忆又恢复了，应该有机会想起&lt;CR&gt;更多关于“知识大釜”相关的事。&lt;CR&gt;因此，还请继续学习炼金术吧。
+"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_8" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="教人也挺不错的呢。&lt;CR&gt;……看着你逐渐成长的身影，&lt;CR&gt;我就会这么想。"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_9" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9013" message1="“普拉芙妲人类化作战”这个名称，&lt;CR&gt;能再稍微……"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_10" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9010" message1="……要是再贸然地采取行动，&lt;CR&gt;我可是会生气的。"/>
+    <T01_TOWN_01_message message_data="PLACHTA_RNPC_A_TOWN01_01_11" chara_tag="PLACHTA_RNPC_A" name_tag="PLACHTA" voice_no1="9011" message1="将灵魂转移到人偶上……是吗？&lt;CR&gt;你的点子有时真是令人吃惊。"/>
+</Root>

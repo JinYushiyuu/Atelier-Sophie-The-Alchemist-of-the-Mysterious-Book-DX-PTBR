@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false">
+		<node name="node_item" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="win" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win02_w01" pos="-3.00, 1.00, 0.00" size_wh="552, 161"/>
+			<text text="あいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいうえおかきくけこあいう" name="text_note" copy="TEXTCOLOR_BROWN" rot="0.00, 0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" align="left" line_char_length="21" line_space="9.00" pos="36, 46, 0" word_space="-2.00"/>
+			<image name="tag15" style="gen_a17_recipe01_tag15" pos="-1, -17, 0" rot="0.00, 0.00, 1.00">
+				<text text="あいうえこかきくけこさしすせ" name="text_title" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, -1.47" pos="29.70, 21.52, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+			</image>
+			<node name="node_hl" pos="-29, -3, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+				<image name="img_hl" style="gen_a17_win03_hl" size_wh="566, 193" pos="15, -16, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+			</node>
+			<text text="Rank1" name="text_rank" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, 0.06" pos="421, 4, -0" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node copy="node_item" clone_child_tree="node_item" name="node_item0" pos="72.00, 166.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node copy="node_item" clone_child_tree="node_item" name="node_item1" pos="72.00, 334.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node copy="node_item" clone_child_tree="node_item" name="node_item2" pos="72.00, 502.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node copy="node_item" clone_child_tree="node_item" name="node_item3" pos="674.00, 166.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node copy="node_item" clone_child_tree="node_item" name="node_item4" pos="675.00, 334.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node copy="node_item" clone_child_tree="node_item" name="node_item5" pos="675.00, 502.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		<node name="node_page" pos="996.00, 104.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="pagebg_line" style="gen_a17_library03_pf" pos="-951.00, 37.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" size_wh="1191.00, 538.00, 0.00"/>
+			<image name="pagebg" style="gen_a17_library03_pfbg" pos="2, 0, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="&lt;IM11&gt;" name="l1" font_size="18.00" pos="12.00, 15.00, 0.00" color="197.00, 172.00, 148.00, 255.00" bold_size="1.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="&lt;IM15&gt;" name="r1" font_size="18.00" pos="149.00, 15.00, 0.00" color="197.00, 172.00, 148.00, 255.00" bold_size="1.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="99" name="text_page" pos="84.00, 8.00, -0.00" align="right" color="197.00, 172.00, 148.00, 255.00" font_size="24.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" bold_size="1.00"/>
+				<text name="text_maxpage" pos="103.00, 8.00, -0.00" align="left" color="197.00, 172.00, 148.00, 255.00" font_size="24.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" bold_size="1.00" text="99"/>
+				<text text="/" name="text_slash" pos="93.50, 8.00, -0.00" align="center" word_space="-3.00" color="197.00, 172.00, 148.00, 255.00" font_size="24.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" bold_size="1.00"/>
+			</image>
+		</node>
+	</node>
+</root>

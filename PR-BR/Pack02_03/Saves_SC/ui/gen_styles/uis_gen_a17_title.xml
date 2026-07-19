@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_title01_anybutton" texture="ui/a17_title.g1t" texture_index="0" uvwh="0,607,644,89"/>
+	<image name="gen_a17_title01_copyright" texture="ui/a17_title.g1t" texture_index="0" uvwh="0,411,954,45"/>
+	<image name="gen_a17_title01_logo" texture="ui/a17_title.g1t" texture_index="0" uvwh="0,0,1091,408"/>
+	<image name="gen_a17_title01_startbutton" texture="ui/a17_title.g1t" texture_index="0" uvwh="0,459,788,63"/>
+	<image name="gen_a17_title01_startbutton_ps3" texture="ui/a17_title.g1t" texture_index="0" uvwh="0,527,640,75"/>
+	<image_list name="gen_a17_title02_changing">
+		<image name="gen_a17_title02_changing__xLIST01" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,504,428,72"/>
+		<image name="gen_a17_title02_changing__xLIST02" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,432,428,72"/>
+	</image_list>
+	<image_list name="gen_a17_title02_endgame">
+		<image name="gen_a17_title02_endgame__xLIST01" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,795,428,72"/>
+		<image name="gen_a17_title02_endgame__xLIST02" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,721,428,72"/>
+	</image_list>
+	<image_list name="gen_a17_title02_extra">
+		<image name="gen_a17_title02_extra__xLIST01" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,648,428,72"/>
+		<image name="gen_a17_title02_extra__xLIST02" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,576,428,72"/>
+	</image_list>
+	<image name="gen_a17_title02_hl" texture="ui/a17_title.g1t" texture_index="0" uvwh="648,536,548,96"/>
+	<image_list name="gen_a17_title02_loadgame">
+		<image name="gen_a17_title02_loadgame__xLIST01" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,216,428,72"/>
+		<image name="gen_a17_title02_loadgame__xLIST02" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,144,428,72"/>
+	</image_list>
+	<image_list name="gen_a17_title02_newgame">
+		<image name="gen_a17_title02_newgame__xLIST01" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,72,428,72"/>
+		<image name="gen_a17_title02_newgame__xLIST02" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,0,428,72"/>
+	</image_list>
+	<image_list name="gen_a17_title02_nkl">
+		<image name="gen_a17_title02_nkl__xLIST01" texture="ui/a17_title.g1t" texture_index="0" uvwh="1104,96,428,72"/>
+		<image name="gen_a17_title02_nkl__xLIST02" texture="ui/a17_title.g1t" texture_index="0" uvwh="1104,16,428,72"/>
+	</image_list>
+	<image_list name="gen_a17_title02_setting">
+		<image name="gen_a17_title02_setting__xLIST01" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,360,428,72"/>
+		<image name="gen_a17_title02_setting__xLIST02" texture="ui/a17_title.g1t" texture_index="1" uvwh="0,288,428,72"/>
+	</image_list>
+</root>

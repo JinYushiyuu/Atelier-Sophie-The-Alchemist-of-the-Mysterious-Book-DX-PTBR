@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false">
+		<node name="node_hl" pos="-29.00, -3.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+			<image name="img_hl" style="gen_a17_win03_hl" size_wh="557, 193" pos="15, -20, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<anim_ctrl name="anim_ctrl" play="true" loop="true">
+					<bind_node node="." anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+			<anim_ctrl name="on_select" start_visible="true">
+				<bind_node node="node_hl"/>
+			</anim_ctrl>
+			<anim_ctrl name="on_unselect" start_visible="false">
+				<bind_node node="node_hl"/>
+			</anim_ctrl>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="main">
+			<image name="win" style="gen_a17_win01_w04" pos="362.00, 147.00, 0.00" size_wh="538.00, 440.00, 0.00"/>
+			<image name="img_tag" pos="364, 83, -0" rot="-0.00, -0.00, -0.00" style="gen_a17_win04_titlebg" size_wh="537, 67">
+				<text text="进阶搜寻道具" name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" pos_ratio_x="0.50" pos="-147.00, 34.00, 0.00" viewer_visible="false" color="200.00, 172.00, 148.00, 255.00" drop_shadow="true"/>
+			</image>
+			<node name="lv_lower_limit" pos="401.00, 191.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false">
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="等级下限" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="0" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="lv_upper_limit" pos="401.00, 232.75, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false">
+					<anim_ctrl name="anim_ctrl_1" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="等级上限" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="0" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="color" pos="401.00, 274.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false">
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="颜色" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="红" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="effect" pos="401.00, 316.25, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false">
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="效果" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="无设定" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="category" pos="401.00, 358.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false">
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="类别" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="あいうえおかきくけこ" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="category_lower_limit" pos="401.00, 399.75, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false">
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="类别值下限" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="0" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="category_upper_limit" pos="401.00, 441.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="hilight_on" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl_on" size_wh="488.00, 39.00, 0.00" visible="false"/>
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" size_wh="488.00, 39.00, 0.00" visible="false">
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="类别值上限" name="name" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="0" name="value" copy="TEXTCOLOR_BROWN" align="center" pos="327.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="reset" pos="401.00, 483.25, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" visible="false">
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="重置" name="reset" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="ok" pos="401.00, 525.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="light" pos="-12.00, -8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_hl" visible="false">
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_cursor_blink"/>
+					</anim_ctrl>
+				</image>
+				<text text="结束设定" name="ok" copy="TEXTCOLOR_BROWN" align="left" pos="0.00, -2.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<anim_ctrl name="on_select" start_visible="true">
+					<bind_node node="light"/>
+				</anim_ctrl>
+				<anim_ctrl name="on_unselect" start_visible="false">
+					<bind_node node="light"/>
+				</anim_ctrl>
+			</node>
+			<node name="line" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="line" style="gen_a17_win01_line01" pos="389.00, 176.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_1" style="gen_a17_win01_line01" pos="389.00, 218.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_2" style="gen_a17_win01_line01" pos="389.00, 260.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_3" style="gen_a17_win01_line01" pos="389.00, 302.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_4" style="gen_a17_win01_line01" pos="389.00, 344.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_5" style="gen_a17_win01_line01" pos="389.00, 386.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_6" style="gen_a17_win01_line01" pos="389.00, 428.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_7" style="gen_a17_win01_line01" pos="389.00, 470.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line_8" style="gen_a17_win01_line01" pos="389.00, 512.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+				<image name="line_9" style="gen_a17_win01_line01" pos="389.00, 554.00, 0.00" size_wh="193.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+			</node>
+			<node name="frame" pos="580.00, 188.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="frame" style="gen_a17_win03_frame01" pos="2.00, -4.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="frame_1" style="gen_a17_win03_frame01" pos="2.00, 37.83, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="frame_2" style="gen_a17_win03_frame01" pos="2.00, 79.67, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="frame_3" style="gen_a17_win03_frame01" pos="2.00, 121.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="frame_4" style="gen_a17_win03_frame01" pos="2.00, 163.33, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="frame_5" style="gen_a17_win03_frame01" pos="2.00, 205.17, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="frame_6" style="gen_a17_win03_frame01" pos="2.00, 247.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<!--該当件数を仮置き。-->
+			<text text="(　　　件符合)" name="text_hit_label" copy="TEXTCOLOR_BROWN" align="left" pos="655.00, 525.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="999" name="text_hitnum" copy="TEXTCOLOR_BROWN" align="right" pos="65, 1, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</text>
+			<selector name="selector_menu">
+				<option_list>
+					<option node="lv_lower_limit"/>
+					<option node="lv_upper_limit"/>
+					<option node="color"/>
+					<option node="effect"/>
+					<option node="category"/>
+					<option node="category_lower_limit"/>
+					<option node="category_upper_limit"/>
+					<option node="reset"/>
+					<option node="ok"/>
+				</option_list>
+			</selector>
+		</node>
+		<node name="sub" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+			<!--汎用のウィンドウを使用するのでこれはいらないかな。-->
+			<node name="battle_skil_menu_template" visible="false" viewer_visible="false">
+				<!--メニュー行の雛形-->
+				<node name="row_template" pos="0.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<!--↓line_formatのposは(0,0,0)にしておいてください-->
+					<node name="line_format" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<!-- メニューカーソル -->
+						<image name="__uimenu_cursor_inactive" pos="0.00, -8.00, -10.00" image_no="0" style="gen_a17_win01_hl" size_wh="231, 40" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+						<image name="__uimenu_cursor_active" pos="0.00, -8.00, 0.00" image_no="0" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="233, 39">
+							<feed name="feed"/>
+							<!-- 明滅アニメーション -->
+							<anim_ctrl loop="true" play="true">
+								<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+							</anim_ctrl>
+						</image>
+						<text text="99" name="name" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="17, -1, 0" visible="true" align="left"/>
+					</node>
+				</node>
+				<!--メニューレイアウトの雛形-->
+				<node name="menu_template" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 0.00, 0.00">
+					<image name="bg" size_wh="295.00, 419.00, 0.00" style="gen_a17_win01_w02" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!--スクロールバー-->
+					<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1,0" pos="259, 19, -0" size_h="382" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<!-- メニュー行のリスト(行以外は入れないこと)-->
+					<node name="__uimenu_item_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+						<node copy="line_format" clone_child_tree="line_format" name="clone_line_format" pos="17.00, 49.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_1" pos="17.00, 91.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_2" pos="17.00, 133.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_3" pos="17.00, 174.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_4" pos="17.00, 216.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_6" pos="17.00, 257.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_7" pos="17.00, 298.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_8" pos="17.00, 339.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</node>
+				</node>
+			</node>
+			<menu name="menu" pos="899, 149, 0" normal_font_color="53.00, 19.00, 0.00, 255.00" template_node="battle_skil_menu_template/menu_template" disp_lines="8" selected_font_color="255.00, 174.00, 43.00, 255.00" decided_font_color="255.00, 174.00, 43.00, 255.00">
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5" pos="0.00, -1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+				<node copy="line_format" clone_child_tree="line_format" name="clone_line_format_5"/>
+			</menu>
+		</node>
+	</node>
+</root>

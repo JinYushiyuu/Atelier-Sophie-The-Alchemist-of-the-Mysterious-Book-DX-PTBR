@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--ショップメニューの行の雛形-->
+	<node name="lf_shop" viewer_visible="false">
+		<image name="new_icon" style="gen_common01_new" pos="-27, -8, 0" visible="true"/>
+		<image name="special_icon" viewer_visible="false" pos="-41, -4, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_shop01_itemking" visible="true"/>
+		<text text="会い植えお描き区毛個" name="name" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="20.00" viewer_visible="false" copy="TEXTCOLOR_BEIGE" pos="13, 7, 0"/>
+		<text text="99" name="stock_counts" pos="256.00, 15.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE" font="NUMBER01_22PX" align="right"/>
+		<text text="99+" name="in_hand_counts" pos="309, 15, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE" font="NUMBER01_22PX" align="right" menu_item_color_cancel="true" word_space="-1.00"/>
+		<text name="price" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE" font="NUMBER01_22PX" align="right" text="999999" word_space="-1.00" pos="395, 15, 0"/>
+	</node>
+</root>

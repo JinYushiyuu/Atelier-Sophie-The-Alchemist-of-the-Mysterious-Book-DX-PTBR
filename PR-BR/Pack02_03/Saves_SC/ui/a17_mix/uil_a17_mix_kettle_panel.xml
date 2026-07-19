@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_anim="/Saves/ui/a17_mix/uia_a17_mix_panel.xml"/>
+	<node name="template" load="Saves/ui/uil_template.xml" viewer_visible="false"/>
+	<!--コピー元一式-->
+	<image name="white_bg" style="common_white_image" color="0.00, 255.00, 255.00, 255.00" viewer_visible="false" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="1280.00, 720.00, 0.00" visible="false"/>
+	<node name="copy_node">
+		<!--パネルのブロックコピー元 これを複製して並べる-->
+		<node name="panel_block" viewer_visible="true" visible="false" pos="168, 109, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="parts" pivot_enable="true" pivot_pos="37.00, 37.00, 0.00" pos="1.00, 1.00, 0.00">
+				<image name="panel" style="gen_a17_mix02_panel" viewer_visible="false" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" color="0.00, 0.00, 0.00, 192.00" pivot_pos="37.00, 37.00, 0.00" pivot_enable="true" size_wh="105.00, 105.00, 0.00"/>
+				<node name="frame" color="80.00, 65.00, 60.00, 255.00" pivot_pos="37.00, 37.00, 0.00" pivot_enable="true">
+					<image name="tl" style="gen_a17_mix02_corner" pos="-1.00, -1.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="tr" style="gen_a17_mix02_corner" viewer_visible="false" pos="105.00, -1.00, 0.00" rot="0.00, 0.00, 90.00" scale="1.00, 1.00, 1.00"/>
+					<image name="ul" style="gen_a17_mix02_corner" viewer_visible="false" pos="-1.00, 105.00, 0.00" rot="-0.00, -0.00, -90.01" scale="1.00, 1.00, 1.00"/>
+					<image name="ur" style="gen_a17_mix02_corner" pos="105.00, 105.00, 0.00" rot="-0.00, -0.00, -179.97" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="icon">
+					<node name="mix_bonus_icon" visible="false" viewer_visible="true" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="icon_0" rot="180.00, 0.00, 104.05" scale="1.00, 1.00, 1.00" style="gen_a17_mix05_effect01" image_no="9" pivot_pos="52.00, 52.00, 0.00" pivot_enable="true" alpha_blend="add" pos="0.00, 0.00, 0.00" viewer_visible="false"/>
+						<image name="icon_1" scale="1.00, 1.00, 1.00" style="gen_a17_mix05_effect01" image_no="9" pivot_pos="52.00, 52.00, 0.00" pivot_enable="true" alpha_blend="add" pos="0.00, 0.00, 0.00"/>
+						<anim_ctrl name="anim_icon_0" loop="true" play="true">
+							<bind_node node="icon_0" anim="bonus_icon"/>
+						</anim_ctrl>
+						<anim_ctrl name="anim_icon_1" loop="true" play="true">
+							<bind_node node="icon_1" anim="bonus_icon_add"/>
+						</anim_ctrl>
+						<text text="Lv.1" name="level" pos="28, 74, -0" bold_size="2.00" bold_color="64.00, 64.00, 64.00, 255.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="22.00"/>
+					</node>
+					<image name="get_same_icon" style="gen_a17_mix02_circlecolor" viewer_visible="false" pos="14.00, 10.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+					<image name="get_nomal_icon" style="gen_a17_mix02_circlecolor02" viewer_visible="false" pos="20.00, 18.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" size_wh="65.00, 65.00, 0.00"/>
+				</node>
+				<image name="highlight" style="gen_a17_mix02_pallight" pos="1, -5, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="104.00, 104.00, 0.00" visible="false" viewer_visible="false" alpha_blend="add"/>
+				<anim_ctrl name="anim_blink" play="true" loop="true" viewer_key_assign="7">
+					<bind_node node="highlight" anim="block_select_blink"/>
+				</anim_ctrl>
+			</node>
+			<anim_ctrl name="anim_in" start_visible="true" viewer_key_assign="0">
+				<bind_node node="parts" anim="block_in"/>
+			</anim_ctrl>
+			<anim_ctrl name="anim_out" viewer_key_assign="1" end_visible="false">
+				<bind_node node="parts" anim="block_in" reverse="true"/>
+			</anim_ctrl>
+			<anim_ctrl name="anim_mix_mat_get_bonus" viewer_key_assign="6">
+				<bind_node node="panel" anim="block_in" reverse="true"/>
+				<bind_node node="frame" anim="block_in" reverse="true"/>
+				<bind_node node="mix_bonus_icon" start_visible="true" end_visible="false" anim="mix_mat_get_bonus"/>
+			</anim_ctrl>
+		</node>
+		<!--コピー元 パネルブロック1行セット-->
+		<node name="panel_row" pos="44.00, 184.00, -0.00" visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<node copy="panel_block" clone_child_tree="panel_block" name="col_0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 0.00, 0.00"/>
+			<node copy="panel_block" clone_child_tree="panel_block" name="col_1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="106.00, 0.00, 0.00"/>
+			<node copy="panel_block" clone_child_tree="panel_block" name="col_2" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="212.00, 0.00, 0.00"/>
+			<node copy="panel_block" clone_child_tree="panel_block" name="col_3" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="318.00, 0.00, 0.00"/>
+			<node copy="panel_block" clone_child_tree="panel_block" name="col_4" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="424.00, 0.00, 0.00"/>
+			<node copy="panel_block" clone_child_tree="panel_block" name="col_5" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="530.00, 0.00, 0.00"/>
+		</node>
+		<!--アイテムブロックコピー元 これを複製し組み合わせることで実際のアイテムブロックの形状を作る-->
+		<!--上記のアイテムブロックの新しいもの-->
+		<node name="item_block" viewer_visible="true" visible="false" pos="167, 429, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="list" viewer_visible="false">
+				<image name="copy_joint_right" style="gen_a17_mix02_attach01" color="255.00, 255.00, 255.00, 255.00" pos="86.00, 17.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" alpha_blend="add"/>
+				<image name="copy_joint_under" style="gen_a17_mix02_attach01" pos="86.00, 85.00, 0.00" rot="0.00, 0.00, 90.00" scale="1.00, 1.00, 1.00" alpha_blend="add"/>
+				<image name="copy_joint_ul" style="gen_a17_mix02_attach01" color="255.00, 255.00, 255.00, 255.00" pos="7, 67, -0" rot="0.00, 0.00, 45.00" alpha_blend="add"/>
+				<image name="copy_joint_ur" style="gen_a17_mix02_attach01" color="255.00, 255.00, 255.00, 255.00" pos="68.00, 95.00, -0.00" rot="0.00, 0.00, -45.00" alpha_blend="add"/>
+				<node name="copy_circle">
+					<image name="clockwise" style="gen_a17_mix02_circleframe" scale="1.00, 1.00, 1.00" pos="-1.00, -4.00, 0.00" size_wh="108.00, 108.00, 0.00" rot="0.00, -180.00, 0.00" pivot_enable="true" pivot_pos="54.00, 54.00, 0.00" image_no="0" alpha_blend="add" color="255.00, 255.00, 255.00, 192.00"/>
+					<image name="counterclockwise" style="gen_a17_mix02_circleframe" scale="1.00, 1.00, 1.00" pos="-1.00, -4.00, 0.00" rot="-0.00, -0.00, -0.00" pivot_pos="54.00, 54.00, 0.00" pivot_enable="true" size_wh="108.00, 108.00, 0.00" image_no="0" alpha_blend="add" color="255.00, 255.00, 255.00, 192.00"/>
+					<anim_ctrl name="anim_clockwise" loop="true" play="true">
+						<bind_node node="clockwise" anim="circle_clockwise"/>
+					</anim_ctrl>
+					<anim_ctrl name="anim_counterclockwise" loop="true" play="true">
+						<bind_node node="counterclockwise" anim="circle_counterclockwise"/>
+					</anim_ctrl>
+				</node>
+				<node name="joint" pos="1.00, 1.00, 0.00"/>
+				<node name="joint_add" pos="1.00, 1.00, 0.00"/>
+				<node name="circle" pos="1.00, 1.00, 0.00"/>
+				<anim_ctrl name="anim_joint_add" play="true" loop="true" viewer_key_assign="6">
+					<bind_node node="joint_add" anim="joint_add"/>
+				</anim_ctrl>
+			</node>
+			<node name="item" pos="20.00, 20.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="image" style="etc_a17_item_s" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="0" pivot_pos="32.00, 32.00, 0.00" pivot_enable="true" visible="false" viewer_visible="false"/>
+				<feed name="feed" pos="-5.00, -5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<anim_ctrl name="anim_blink" play="false" loop="true" viewer_key_assign="6">
+				<bind_node node="item_block" anim="block_select_blink"/>
+			</anim_ctrl>
+			<anim_ctrl name="anim_mat_insert" viewer_key_assign="7">
+				<bind_node node="list" anim="mix_mat_pre_out"/>
+			</anim_ctrl>
+		</node>
+	</node>
+	<node name="time_gauge" viewer_visible="true" visible="false">
+		<!--0918_タイムゲージｂｇ追加-->
+		<image name="timebg" style="gen_a17_mix05_timebg" pos="935, 206, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<image name="frame" style="gen_a17_mix04_timegaugeframe" pos="948.00, 239.00, -0.00" rot="-0.00, -0.00, -0.00" scale="0.85, 1.00, 1.00">
+			<image name="gauge" style="gen_a17_mix04_timegaugebar" pos="7.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="200.00, 69.00, 35.00, 255.00"/>
+		</image>
+		<text text="99" name="count" pos="1221.00, 212.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" color="232.00, 221.00, 194.00, 255.00" bold_size="2.00" align="right" word_space="3.00"/>
+		<text text="剩余时间" name="text_1" pos="963, 212, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-3.00" color="232.00, 221.00, 194.00, 255.00" bold_size="2.00"/>
+		<text text="秒" name="text_3" pos="1247.00, 212.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" color="232.00, 221.00, 194.00, 255.00" bold_size="2.00" align="right"/>
+		<anim_ctrl name="get_in" viewer_key_assign="9" speed="3.00" start_visible="true">
+			<bind_node node="time_gauge" anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</node>
+	<!--パネル-->
+	<node name="color_under_parent" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<image name="color_proportion" style="gen_a17_mix03_mbg" pos="401.00, 70.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true" size_wh="532.00, 56.00, 0.00" pivot_enable="true" pivot_pos="0.00, 28.00, 0.00">
+			<node name="list">
+				<!--テキストの色はプログラム側で切替-->
+				<node name="item_0" pos="11, 2, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="icon" style="gen_a17_mix02_circlecolor" size_wh="51.00, 51.00, 0.00" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_enable="true" pivot_pos="25.00, 25.00, 0.00"/>
+					<image name="over" style="gen_a17_mix02_circlecolor" size_wh="51.00, 51.00, 0.00" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" alpha_blend="add" visible="false" viewer_visible="false" pivot_enable="true" pivot_pos="25.00, 25.00, 0.00"/>
+					<text text="100%" name="text" pos="93.00, 22.00, -0.00" word_space="-1.00" bold_size="2.00" bold_color="255.00, 255.00, 255.00, 255.00" font_color="150.00, 150.00, 150.00, 255.00" align="right" pivot_enable="true" pivot_pos="-30.00, 10.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node name="eff_start" pos="26, 25, 0"/>
+					<anim_ctrl name="anim_up" viewer_key_assign="3">
+						<bind_node node="text" anim="proportion_up"/>
+					</anim_ctrl>
+					<anim_ctrl name="anim_bonus" viewer_key_assign="4">
+						<bind_node node="text" anim="proportion_bonus"/>
+						<bind_node node="over" anim="proportion_blink" end_visible="false" start_visible="true"/>
+					</anim_ctrl>
+				</node>
+				<node copy="item_0" clone_child_tree="item_0" name="item_1" pos="114.50, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<command target_node="icon" set_image_no="1"/>
+					<command target_node="over" set_image_no="1"/>
+				</node>
+				<node copy="item_0" clone_child_tree="item_0" name="item_2" pos="218.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<command target_node="icon" set_image_no="2"/>
+					<command target_node="over" set_image_no="2"/>
+				</node>
+				<node copy="item_0" clone_child_tree="item_0" name="item_3" pos="321.50, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<command target_node="icon" set_image_no="3"/>
+					<command target_node="over" set_image_no="3"/>
+				</node>
+				<node copy="item_0" clone_child_tree="item_0" name="item_4" pos="425, 2, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<command target_node="icon" set_image_no="4"/>
+					<command target_node="over" set_image_no="4"/>
+				</node>
+			</node>
+			<node name="eff_end" pos="703, 391, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<anim_ctrl name="get_in" viewer_key_assign="2" start_visible="true">
+				<bind_node node="color_proportion" anim="catalyst_name_in"/>
+			</anim_ctrl>
+		</image>
+	</node>
+	<node name="panel_root" pos="402, 125, 0" rot="-0.00, -0.00, -0.00" viewer_visible="false" pivot_pos="266.00, 266.00, 0.00" pivot_enable="true">
+		<!--プログラム上でスケールを変えるノード-->
+		<node name="scale_root" scale="0.83, 0.83, 1.00" pos="0, 7, 0">
+			<!--パネル本体-->
+			<node name="panel">
+				<node clone_child_tree="panel_row" name="row_0" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" copy="panel_row"/>
+				<node clone_child_tree="panel_row" name="row_1" pos="0.00, 106.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" copy="panel_row"/>
+				<node clone_child_tree="panel_row" name="row_2" pos="0.00, 212.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" copy="panel_row"/>
+				<node clone_child_tree="panel_row" name="row_3" pos="0.00, 318.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" copy="panel_row"/>
+				<node copy="panel_row" clone_child_tree="panel_row" name="row_4" pos="0.00, 424.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true"/>
+				<node copy="panel_row" clone_child_tree="panel_row" name="row_5" pos="0.00, 530.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true"/>
+			</node>
+			<!--アイテムブロックぶら下げ用ノード-->
+			<node name="item"/>
+			<node name="select_cursor" visible="false" viewer_visible="true">
+				<image name="highlight" style="gen_a17_mix02_pallight" pos="3, -1, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="104.00, 104.00, 0.00" alpha_blend="add" color="255.00, 255.00, 255.00, 192.00"/>
+				<feed name="feed" pos="15, 15, 0"/>
+				<anim_ctrl name="anim_blink" play="true" loop="true">
+					<bind_node node="highlight" anim="block_select_blink"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<anim_ctrl name="mix_material" viewer_key_assign="8">
+			<bind_node node="panel_root" anim="mix_mat_panel_root"/>
+		</anim_ctrl>
+	</node>
+	<image name="item_sheet" style="gen_a17_mix03_itemsheet" pos="543.00, 145.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false" pivot_pos="128.00, 160.00, 0.00" pivot_enable="true">
+		<image name="image" style="etc_a17_item_l" pos="61, 71, -0" rot="-0.00, -0.00, -0.00" size_wh="128.00, 128.00, 0.00"/>
+		<image name="obi01" pos="11, 223, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_obi01">
+			<image name="text01" pos="-15, 3, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_item_info01_text02" image_no="2"/>
+		</image>
+		<text text="あいうえおかきくけこ" name="name" color="53.00, 19.00, 0.00, 255.00" pos="125.00, 13.00, -0.00" align="center" viewer_visible="false" word_space="-2.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<text text="99" name="num" color="53.00, 19.00, 0.00, 255.00" pos="142.00, 259.00, -0.00" align="center" font_size="30.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<anim_ctrl name="anim_mix_mat" viewer_key_assign="9">
+			<bind_node node="item_sheet" anim="mix_mat_itemsheet" start_visible="true"/>
+		</anim_ctrl>
+	</image>
+	<image name="contrast" style="common_black_image" size_wh="1280.00, 720.00, 0.00" viewer_visible="false" visible="false" color="255.00, 255.00, 255.00, 127.00">
+		<anim_ctrl name="get_in" start_visible="true" viewer_key_assign="5">
+			<bind_node node="contrast" anim="anm_common_fade_in"/>
+		</anim_ctrl>
+	</image>
+	<node name="color_over_parent" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+</root>

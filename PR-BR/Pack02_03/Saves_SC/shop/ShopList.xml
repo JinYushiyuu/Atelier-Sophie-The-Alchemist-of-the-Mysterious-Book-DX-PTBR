@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <ShopList ShopName="蔬果店" ShopTag="SHOP_GROCER " CharaTag="CHARA_MARGRIT" IconTag="SHOP_ICON_NORMAL"/>
+    <ShopList ShopName="替代屋" ShopTag="SHOP_EXCHANGE" CharaTag="CHARA_CANARIA" IconTag="SHOP_ICON_NORMAL"/>
+    <ShopList ShopName="武器店" ShopTag="SHOP_WEPON" CharaTag="CHARA_LOGIX" IconTag="SHOP_ICON_NORMAL"/>
+    <ShopList ShopName="服饰店" ShopTag="SHOP_PROTECTION" CharaTag="CHARA_HENRI" IconTag="SHOP_ICON_NORMAL"/>
+    <ShopList ShopName="书店" ShopTag="SHOP_BOOK" CharaTag="CHARA_ELISE" IconTag="SHOP_ICON_NORMAL"/>
+    <ShopList ShopName="咖啡厅" ShopTag="SHOP_COFFEE" CharaTag="CHARA_TESS" IconTag="SHOP_ICON_NORMAL"/>
+    <ShopList ShopName="教会" ShopTag="SHOP_CHURCH" CharaTag="CHARA_PAMELA" IconTag="SHOP_ICON_NORMAL"/>
+</Root>

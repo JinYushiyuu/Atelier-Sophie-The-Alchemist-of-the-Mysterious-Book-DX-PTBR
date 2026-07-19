@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="text" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="icon01" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_i01"/>
+			<text text="あいうえおかきくけこ" name="text_off" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" word_space="-2.00" pos="50.00, 10.00, 0.00"/>
+			<text text="あいうえおかきくけこ" name="text_on" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE" word_space="-2.00" pos="50.00, 10.00, 0.00"/>
+		</node>
+		<!--***↓装備者用のクローン ***-->
+		<node name="equip_clone_target" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="cursor" style="gen_a17_win01_hl" pos="0.00, 5.00, 0.00" size_wh="357.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<anim_ctrl name="blink" loop="true" play="true">
+					<bind_node node="." anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+			<image name="icon" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_i01" pos="4.00, 3.00, 0.00"/>
+			<text text="あいうえおかきくけこ" name="normal" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="50.00, 10.00, 0.00"/>
+			<text text="あいうえおかきくけこ" name="select" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE" pos="50.00, 10.00, 0.00"/>
+			<image name="mouse_area" style="common_none_image" pos="0.00, 5.00, 0.00" size_wh="357.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_hidden_area="true" visible="true"/>
+		</node>
+		<node name="item_origin" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="cursor" style="gen_a17_win01_hl" pos="-11, 2, 0" size_wh="360, 39" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<anim_ctrl name="blink" loop="true" play="true">
+					<bind_node node="." anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+			<image name="item_bg" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_iconbg" pos="-7.00, 1.00, 0.00">
+				<image name="item_icon" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="etc_a17_item_s" pos="2.00, 1.00, 0.00" size_wh="36.00, 36.00, 0.00"/>
+			</image>
+			<image name="icon" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_i01" pos="-7.00, 3.00, 0.00" size_wh="36.00, 36.00, 0.00"/>
+			<text text="99" name="use_count" pos="29.00, 12.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right" font="A17_ITEM01" word_space="-15.00"/>
+			<text text="あいうえおかきくけこ" name="normal" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="104.00, 7.00, 0.00"/>
+			<text text="あいうえおかきくけこ" name="select" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE" pos="104.00, 7.00, 0.00"/>
+			<text text="99" name="lv" pos="99.00, 9.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right" font_size="24.00" copy="TEXTCOLOR_BROWN">
+				<text text="Lv" name="lavel_lv" pos="-38.00, 10.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right" font_size="15.00" copy="TEXTCOLOR_BROWN"/>
+			</text>
+			<image name="mouse_area" style="common_none_image" pos="-11.00, 2.00, 0.00" size_wh="360.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_hidden_area="true" visible="true"/>
+		</node>
+		<!--***↓主人公用探索 ***-->
+		<node name="text03" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="cursor" style="gen_a17_win01_hl" pos="0.00, 5.00, 0.00" size_wh="357.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<anim_ctrl name="blink" loop="true" play="true">
+					<bind_node node="." anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+			<image name="icon" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_i01" image_no="4" pos="4.00, 4.00, 0.00" size_wh="42.00, 42.00, 0.00"/>
+			<text text="あいうえおかきくけこ" name="normal" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BROWN" pos="75.00, 11.00, 0.00"/>
+			<text text="あいうえおかきくけこ" name="select" align="left" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" copy="TEXTCOLOR_BEIGE" pos="75.00, 11.00, -0.00"/>
+			<image name="mouse_area" style="common_none_image" pos="0.00, 5.00, 0.00" size_wh="357.00, 39.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mouse_event="true" mouse_hidden_area="true" visible="true"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="equip" pos="78, 161, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="tab" style="gen_a17_cabinet02_tagframe" size_wh="344, 44" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="16, 12, 0">
+				<image name="battle_tab" style="gen_a17_menustatus04_toff" pos="39.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="on" style="gen_a17_menustatus04_ton" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<image name="item_tab" style="gen_a17_menustatus04_toff" pos="126.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1">
+					<image name="on" style="gen_a17_menustatus04_ton" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" size_wh="90, 42"/>
+				</image>
+				<image name="explore_tab" style="gen_a17_menustatus04_toff" pos="214.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="2" size_wh="90.00, 42.00, 0.00">
+					<image name="on" style="gen_a17_menustatus04_ton" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="2"/>
+				</image>
+			</image>
+			<text text="&lt;IM11&gt;" name="l1" font_size="18.00" pos="22, 25, 0" color="197.00, 172.00, 148.00, 255.00" bold_size="1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="&lt;IM15&gt;" name="r1" font_size="18.00" pos="323, 26, 0" color="197.00, 172.00, 148.00, 255.00" bold_size="1.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="win_bg" style="gen_a17_win01_w04" pos="-26.00, 45.00, 0.00" size_wh="418, 286" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<!--***↓戦闘 ***-->
+			<node name="battle" pos="-26.00, 85.00, 0.00" visible="false" viewer_visible="true">
+				<image name="redbg" style="gen_a17_menustatus01" pos="16.00, -15.00, 0.00" size_wh="393.00, 200.00, 0.00"/>
+				<node name="line" pos="-27, 4, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="line" style="gen_a17_win01_line01" pos="62.00, -5.00, 0.00" size_wh="352, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_9" style="gen_a17_win01_line01" pos="62.00, 36.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+					<image name="line_10" style="gen_a17_win01_line01" pos="62.00, 76.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_11" style="gen_a17_win01_line01" pos="62.00, 118.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_12" style="gen_a17_win01_line01" pos="62.00, 160.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="battle_menu">
+					<node copy="text03" clone_child_tree="text03" name="clone_equip_clone_target_4" pos="29.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<command target_node="./icon" set_image_no="1"/>
+					</node>
+					<node copy="text03" clone_child_tree="text03" name="clone_equip_clone_target_5" pos="29.00, 41.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<command target_node="./icon" set_image_no="2"/>
+					</node>
+					<node copy="text03" clone_child_tree="text03" name="clone_equip_clone_target_6" pos="29.00, 82.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<command target_node="./icon" set_image_no="3"/>
+					</node>
+					<node copy="text03" clone_child_tree="text03" name="clone_equip_clone_target_7" pos="29.00, 123.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<command target_node="./icon" set_image_no="3"/>
+					</node>
+				</node>
+			</node>
+			<!--***↓アイテム ***-->
+			<node name="item" pos="-27.00, 85.00, 0.00" visible="false" viewer_visible="true">
+				<image name="redbg" style="gen_a17_menustatus01" pos="16.00, -15.00, 0.00" size_wh="394, 245"/>
+				<node name="line" pos="-27, 4, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="line" style="gen_a17_win01_line01" pos="62.00, -5.00, 0.00" size_wh="352, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_9" style="gen_a17_win01_line01" pos="62.00, 36.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_10" style="gen_a17_win01_line01" pos="62.00, 76.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_11" style="gen_a17_win01_line01" pos="62.00, 118.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_12" style="gen_a17_win01_line01" pos="62.00, 160.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_13" style="gen_a17_win01_line01" pos="62.00, 202.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="item_menu" pos="7.00, -4.00, 0.00">
+					<node copy="item_origin" name="clone_item" pos="35.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" clone_child_tree="item_origin"/>
+					<node copy="item_origin" clone_child_tree="item_origin" name="clone_item_1" pos="35.00, 49.40, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="item_origin" clone_child_tree="item_origin" name="clone_item_2" pos="35.00, 90.80, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="item_origin" clone_child_tree="item_origin" name="clone_item_3" pos="35.00, 132.20, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="item_origin" clone_child_tree="item_origin" name="clone_item_4" pos="35.00, 173.60, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="total_lv" pos="100, 216, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="ribbon" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_lvobi01" size_wh="307, 53">
+						<image name="icon_1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_i01" pos="6.00, 4.00, -0.00" size_wh="32.00, 32.00, 0.00"/>
+						<text text="装备消耗栏" name="label_lv" pos="41.00, 4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="108.00, 35.00, 13.00, 255.00"/>
+					</image>
+					<text text="999" name="now" pos="218.00, 5.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right" color="108.00, 35.00, 13.00, 255.00"/>
+					<text text="/" name="slash" pos="224.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" color="108.00, 35.00, 13.00, 255.00"/>
+					<text text="999" name="max" pos="230.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left" color="108.00, 35.00, 13.00, 255.00"/>
+				</node>
+			</node>
+			<!--***↓探索 ***-->
+			<node name="explore" pos="-26.00, 85.00, 0.00" visible="false" viewer_visible="true">
+				<image name="redbg" style="gen_a17_menustatus01" pos="16.00, -15.00, 0.00" size_wh="393.00, 245.00, 0.00"/>
+				<node name="line" pos="-27.00, 4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="line" style="gen_a17_win01_line01" pos="62.00, -5.00, 0.00" size_wh="352, 8" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_9" style="gen_a17_win01_line01" pos="62.00, 36.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+					<image name="line_10" style="gen_a17_win01_line01" pos="62.00, 76.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_11" style="gen_a17_win01_line01" pos="62.00, 118.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_12" style="gen_a17_win01_line01" pos="62.00, 160.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="line_13" style="gen_a17_win01_line01" pos="62.00, 202.00, 0.00" size_wh="352.00, 8.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="explore_menu">
+					<node copy="text03" clone_child_tree="text03" name="clone_text03" pos="29.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="text03" clone_child_tree="text03" name="clone_text03_1" pos="29.00, 41.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="text03" clone_child_tree="text03" name="clone_text03_2" pos="29.00, 82.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="text03" clone_child_tree="text03" name="clone_text03_3" pos="29.00, 123.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="text03" clone_child_tree="text03" name="clone_text03_4" pos="29.00, 164.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+			<node name="item_cost_with_container" pos="132, -44, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="bg" style="gen_a17_shop01_cabinettag" size_wh="338, 47" pos="-57, -1, 0">
+					<image name="icon_1" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_menustatus01_i01" pos="9, 7, -0" size_wh="32.00, 32.00, 0.00">
+						<text text="装备消耗栏" name="label_lv" pos="34.00, 1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="108.00, 35.00, 13.00, 255.00"/>
+					</image>
+					<text text="999" name="now" pos="236.00, 8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="right" color="108.00, 35.00, 13.00, 255.00"/>
+					<text text="/" name="slash" pos="242.00, 8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" color="108.00, 35.00, 13.00, 255.00"/>
+					<text text="999" name="max" pos="248.00, 8.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="left" color="108.00, 35.00, 13.00, 255.00"/>
+				</image>
+			</node>
+		</node>
+		<anim_ctrl name="get_in_equip" viewer_key_assign="1">
+			<bind_node anim="anm_common_fade_in" node="."/>
+		</anim_ctrl>
+	</node>
+</root>

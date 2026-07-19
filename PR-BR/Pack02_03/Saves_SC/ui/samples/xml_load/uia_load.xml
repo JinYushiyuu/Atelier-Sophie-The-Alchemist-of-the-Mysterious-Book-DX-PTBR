@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+	<!-- 明滅 -->
+	<anim name="anm_test_blink">
+    	<curve attr="color">
+			<key time="0.0"		value="255,255,255,255"/>
+			<key time="0.3"		value="255,255,255,255"/>
+			<key time="0.5"		value="255,255,255,  0"/>
+			<key time="0.8"		value="255,255,255,  0"/>
+			<key time="1.0"		value="255,255,255,255"/>
+		</curve>
+	</anim>
+	
+	<!-- 360度回転 -->
+	<anim name="anm_test_rotate">
+    	<curve attr="rot">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="0,0,360"/>
+		</curve>
+	</anim>
+	
+	<!-- スケール -->
+	<anim name="anm_test_scale">
+    	<curve attr="scale">
+			<key time="0.0"		value="0,1,1"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+	
+	<anim name="anm_test_scale_and_right">
+    	<curve attr="pos">
+			<key time="0.0"		value="0,0,0"/>
+			<key time="1.0"		value="-1,0,0"/>
+		</curve>
+    	<curve attr="scale">
+			<key time="0.0"		value="0,1,1"/>
+			<key time="1.0"		value="1,1,1"/>
+		</curve>
+	</anim>
+</root>
+

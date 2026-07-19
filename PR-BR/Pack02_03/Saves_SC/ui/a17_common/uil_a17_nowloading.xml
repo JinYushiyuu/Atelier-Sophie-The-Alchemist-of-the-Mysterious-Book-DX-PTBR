@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="top">
+		<node name="chara_a" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="false">
+			<image name="image_2" style="gen_common07_nowloading_a" pos="1093.00, 475.00, 0.00" flick_time="0.12" shader="VERTEX_COLOR_MOD_TEX_HDR_OFF_2D"/>
+		</node>
+		<node name="chara_b" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="false">
+			<image name="image_2" style="gen_common07_nowloading_b" pos="1093.00, 475.00, 0.00" flick_time="0.12" viewer_visible="true" shader="VERTEX_COLOR_MOD_TEX_HDR_OFF_2D"/>
+		</node>
+		<node name="chara_ab" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false">
+			<image name="image_2" style="gen_common07_nowloading_a" pos="1155.00, 481.00, 0.00" flick_time="0.12" viewer_visible="true" rot="0.00, 0.00, 15.00" shader="VERTEX_COLOR_MOD_TEX_HDR_OFF_2D"/>
+			<image name="image_3" style="gen_common07_nowloading_b" pos="1038.00, 493.00, 0.00" flick_time="0.12" viewer_visible="true" rot="0.00, 0.00, -15.00" shader="VERTEX_COLOR_MOD_TEX_HDR_OFF_2D"/>
+		</node>
+		<node name="node">
+			<image name="image" style="gen_common07_nowloading01" pos="1025.00, 537.00, 0.00" pivot_pos="96.00, 96.00, 0.00" pivot_enable="true" shader="VERTEX_COLOR_MOD_TEX_HDR_OFF_2D">
+				<anim_ctrl name="anim_ctrl" play="true" loop="true" speed="0.06">
+					<bind_node node="image" anim="anm_common_rotateZ360"/>
+				</anim_ctrl>
+			</image>
+			<image name="image_1" style="gen_common07_nowloading02" pos="1011.00, 634.00, 0.00" flick_time="0.20" shader="VERTEX_COLOR_MOD_TEX_HDR_OFF_2D"/>
+		</node>
+	</node>
+</root>

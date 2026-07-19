@@ -1,0 +1,736 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <LibraryEsp note="效果：店头的收购价格降低少许，但在量贩店的购买价格也会降低少许。" permit="true"/>
+    <LibraryEsp note="效果：店头的收购价格降低，但在量贩店的购买价格也会降低。" permit="true"/>
+    <LibraryEsp note="效果：店头的收购价格降低许多，但在量贩店的购买价格也会降低许多。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;低价×低价＋&lt;CLNR&gt;&lt;CR&gt;效果：店头的收购价格降低许多，但在量贩店的购买价格也会降低许多。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;低价＋×低价＋＋&lt;CLNR&gt;&lt;CR&gt;效果：店头的收购价格大量降低，但在量贩店的购买价格也会大量降低。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;量产品×大量生产品&lt;CLNR&gt;&lt;CR&gt;效果：店头的收购价格大幅降低，但在量贩店的购买价格也会大幅降低。" permit="true"/>
+    <LibraryEsp note="效果：店头的收购价格提高少许。" permit="true"/>
+    <LibraryEsp note="效果：店头的收购价格提高不少。" permit="true"/>
+    <LibraryEsp note="效果：店头的收购价格大量提高。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;高价×高价＋&lt;CLNR&gt;&lt;CR&gt;效果：店头的收购价格提高许多。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;高价＋×高价＋＋&lt;CLNR&gt;&lt;CR&gt;效果：店头的收购价格大幅提高。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;高级品×稀少的逸品&lt;CLNR&gt;&lt;CR&gt;效果：店头的收购价格飞跃性提升。" permit="true"/>
+    <LibraryEsp note="效果：在继承特性时选择此特性，会让道具的质量提升１０％。" permit="true"/>
+    <LibraryEsp note="效果：在继承特性时选择此特性，会让道具的质量提升15%。" permit="true"/>
+    <LibraryEsp note="效果：在继承特性时选择此特性，会让道具的质量提升20%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;质量提升×质量提升＋&lt;CLNR&gt;&lt;CR&gt;效果：在继承特性时选择此特性，会让道具的质量提升２０％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;质量提升＋×质量提升＋＋&lt;CLNR&gt;&lt;CR&gt;效果：在继承特性时选择此特性，会让道具的质量提升３０％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;优秀成果×专家的完成度&lt;CLNR&gt;&lt;CR&gt;效果：在继承特性时选择此特性，会让道具的质量提升５０％。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：攻击道具的效果上升５％。" permit="true"/>
+    <LibraryEsp note="效果：攻击道具的效果上升7%。" permit="true"/>
+    <LibraryEsp note="效果：攻击道具的效果上升10%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;破坏力增加×破坏力增加＋&lt;CLNR&gt;&lt;CR&gt;效果：攻击道具的效果上升１２％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;破坏力增加＋×破坏力增加＋＋&lt;CLNR&gt;&lt;CR&gt;效果：攻击道具的效果上升１７％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;强大的破坏力×强烈的破坏力&lt;CLNR&gt;&lt;CR&gt;效果：攻击道具的效果上升３０％。" permit="true"/>
+    <LibraryEsp note="效果：攻击道具的效果上升40%。" permit="true"/>
+    <LibraryEsp note="效果：攻击道具以固定值微量强化。威力越弱效果越强。" permit="true"/>
+    <LibraryEsp note="效果：攻击道具以固定值强化。威力越弱效果越强。" permit="true"/>
+    <LibraryEsp note="效果：攻击道具以固定值大量强化。威力越弱效果越强。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;威力固定强化×威力固定强化＋&lt;CLNR&gt;&lt;CR&gt;道具以固定值强化。威力越弱效果越强。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;威力固定强化＋×威力固定强化＋＋&lt;CLNR&gt;&lt;CR&gt;道具以固定值大量强化。威力越弱效果越强。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;使用实数给予伤害×使用实数增加伤害&lt;CLNR&gt;&lt;CR&gt;道具以固定值大幅强化。威力越弱效果越强。" permit="true"/>
+    <LibraryEsp note="效果：攻击道具的效果，以固定值飞跃性地上升。但上升量和原本的数值呈反比。" permit="true"/>
+    <LibraryEsp note="效果：让攻击发生５％追加伤害，技能威力也上升５％。" permit="true"/>
+    <LibraryEsp note="效果：让攻击发生7%追加伤害，技能威力也上升7%。" permit="true"/>
+    <LibraryEsp note="效果：让攻击发生１０％的追加伤害，技能威力也上升１０％。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：恢复道具的效果上升１０％。" permit="true"/>
+    <LibraryEsp note="效果：恢复道具的效果上升15%。" permit="true"/>
+    <LibraryEsp note="效果：恢复道具的效果上升20%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;恢复力增加×恢复力增加＋&lt;CLNR&gt;&lt;CR&gt;效果：恢复道具的效果上升２５％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;恢复力增加＋×恢复力增加＋＋&lt;CLNR&gt;&lt;CR&gt;效果：恢复道具的效果上升３５％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;强大的恢复量×强烈的恢复量&lt;CLNR&gt;&lt;CR&gt;效果：恢复道具的效果上升５０％。" permit="true"/>
+    <LibraryEsp note="效果：恢复道具的效果上升40%。" permit="true"/>
+    <LibraryEsp note="效果：恢复道具以固定值微量强化。原本的威力越弱效果越高。" permit="true"/>
+    <LibraryEsp note="效果：恢复道具以固定值少量强化。原本的威力越弱效果越高。" permit="true"/>
+    <LibraryEsp note="效果：恢复道具以固定值强化。原本的威力越弱效果越高。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;恢复固定强化×恢复固定强化＋&lt;CLNR&gt;&lt;CR&gt;道具以固定值少量强化。原本的威力越弱效果越高。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;恢复固定强化＋×恢复固定强化＋＋&lt;CLNR&gt;&lt;CR&gt;道具以固定值强化。原本的威力越弱效果越高。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;药品强化×药品大强化&lt;CLNR&gt;&lt;CR&gt;道具以固定值大量强化。原本的威力越弱效果越高。" permit="true"/>
+    <LibraryEsp note="效果：恢复道具的效果，以固定值飞跃性地上升。但上升量和原本的数值呈反比。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：道具以１５％的机率产生重击。" permit="true"/>
+    <LibraryEsp note="效果：道具以25%的机率产生重击。" permit="true"/>
+    <LibraryEsp note="效果：道具以35%的机率产生重击。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;重击×重击＋&lt;CLNR&gt;&lt;CR&gt;效果：道具以５０％的机率产生重击。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;重击＋×重击＋＋&lt;CLNR&gt;&lt;CR&gt;效果：道具一定会产生重击。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;自信重击×必中重击&lt;CLNR&gt;&lt;CR&gt;效果：道具一定会产生重击，令敌人无法战斗（头目除外）。" permit="true"/>
+    <LibraryEsp note="效果：道具的随机数幅度微量变小，容易出现高数值。" permit="true"/>
+    <LibraryEsp note="效果：道具的随机数幅度稍微变小，容易出现高数值。" permit="true"/>
+    <LibraryEsp note="效果：道具的随机数幅度变小，容易出现高数值。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;效果安定×效果安定＋&lt;CLNR&gt;&lt;CR&gt;效果：道具的随机数幅度变小，容易出现高数值。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;效果安定＋×效果安定＋＋&lt;CLNR&gt;&lt;CR&gt;效果：道具的随机数幅度减半，容易出现高数值。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;重视安定度×铁打的效果&lt;CLNR&gt;&lt;CR&gt;效果：道具的随机数幅度安定，容易出现高数值。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：道具可使用的次数增加１次。但威力会有少量减少。" permit="true"/>
+    <LibraryEsp note="效果：道具可使用的次数增加２次。但威力会有微量减少。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;使用次数＋１×使用次数＋２&lt;CLNR&gt;&lt;CR&gt;效果：战斗中，道具可使用的次数增加３次。" permit="true"/>
+    <LibraryEsp note="效果：道具可使用的次数减少１次。但威力会有少量增加。" permit="true"/>
+    <LibraryEsp note="效果：道具可使用的次数减少２次。但威力会增加。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;使用次数－１×使用次数－２&lt;CLNR&gt;&lt;CR&gt;效果：道具可使用的次数减少５次。但威力会大幅增加。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="赋予最大ＨＰ上升的效果。&lt;CR&gt;效果：最大ＨＰ上升１０。" permit="true"/>
+    <LibraryEsp note="赋予最大ＨＰ上升的效果。&lt;CR&gt;效果：最大ＨＰ上升15。" permit="true"/>
+    <LibraryEsp note="赋予最大ＨＰ上升的效果。&lt;CR&gt;效果：最大ＨＰ上升25。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;ＨＰ强化×ＨＰ大增量&lt;CLNR&gt;&lt;CR&gt;效果：最大ＨＰ上升25。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;ＨＰ大增量×ＨＰ超强化&lt;CLNR&gt;&lt;CR&gt;效果：最大ＨＰ上升４０。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;洋溢之力×满溢之力&lt;CLNR&gt;&lt;CR&gt;效果：最大ＨＰ上升７０。" permit="true"/>
+    <LibraryEsp note="赋予最大ＭＰ上升的效果。&lt;CR&gt;效果：最大ＭＰ上升１０。" permit="true"/>
+    <LibraryEsp note="赋予最大ＭＰ上升的效果。&lt;CR&gt;效果：最大ＭＰ上升15。" permit="true"/>
+    <LibraryEsp note="赋予最大ＭＰ上升的效果。&lt;CR&gt;效果：最大ＭＰ上升25。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;ＭＰ强化×ＭＰ大增量&lt;CLNR&gt;&lt;CR&gt;效果：最大ＭＰ上升25。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;ＭＰ大增量×ＭＰ超强化&lt;CLNR&gt;&lt;CR&gt;效果：最大ＭＰ上升４０。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;魔法师的智慧×大魔法师的智慧&lt;CLNR&gt;&lt;CR&gt;效果：最大ＭＰ上升７０。" permit="true"/>
+    <LibraryEsp note="赋予最大ＬＰ上升的效果。&lt;CR&gt;效果：最大ＬＰ上升５。" permit="true"/>
+    <LibraryEsp note="赋予最大ＬＰ上升的效果。&lt;CR&gt;效果：最大ＬＰ上升7。" permit="true"/>
+    <LibraryEsp note="赋予最大ＬＰ上升的效果。&lt;CR&gt;效果：最大ＬＰ上升10。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;ＬＰ强化×ＬＰ大增量&lt;CLNR&gt;&lt;CR&gt;效果：最大ＬＰ上升１２。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;ＬＰ大增量×ＬＰ超强化&lt;CLNR&gt;&lt;CR&gt;效果：最大ＬＰ上升１７。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;体力过人×历久不衰的持久力&lt;CLNR&gt;&lt;CR&gt;效果：最大ＬＰ上升３０。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;洋溢之力×魔法师的智慧&lt;CLNR&gt;&lt;CR&gt;效果：最大ＨＰ与ＭＰ上升１５。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;满溢之力×大魔法师的智慧&lt;CLNR&gt;&lt;CR&gt;效果：最大ＨＰ与ＭＰ上升２５。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;生命之力×众神的智慧&lt;CLNR&gt;&lt;CR&gt;效果：最大ＨＰ与ＭＰ上升４０。" permit="true"/>
+    <LibraryEsp note="赋予提高能力的效果。&lt;CR&gt;效果：使基础能力值上升５％。" permit="true"/>
+    <LibraryEsp note="赋予提高能力的效果。&lt;CR&gt;效果：使基础能力值上升6%。" permit="true"/>
+    <LibraryEsp note="赋予提高能力的效果。&lt;CR&gt;效果：使基础能力值上升7%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;参数＋５％×参数+6%&lt;CLNR&gt;&lt;CR&gt;效果：使基础能力值上升１０％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;参数+6%×参数＋７％&lt;CLNR&gt;&lt;CR&gt;效果：使基础能力值上升12%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;肉体强化×引发身体的力量&lt;CLNR&gt;&lt;CR&gt;效果：使基础能力值上升15%。" permit="true"/>
+    <LibraryEsp note="效果：基本状态&lt;CR&gt;　　　上升２０％。" permit="true"/>
+    <LibraryEsp note="强化武器的攻击力。&lt;CR&gt;效果：攻击力上升7。" permit="true"/>
+    <LibraryEsp note="强化武器的攻击力。&lt;CR&gt;效果：攻击力上升10。" permit="true"/>
+    <LibraryEsp note="强化武器的攻击力。&lt;CR&gt;效果：攻击力上升15。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;攻击强化×攻击加成&lt;CLNR&gt;&lt;CR&gt;效果：攻击力上升15。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;攻击加成×攻击超强化&lt;CLNR&gt;&lt;CR&gt;效果：攻击力上升２５。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;猛兽之力×破坏之力&lt;CLNR&gt;&lt;CR&gt;效果：破坏力上升４０。" permit="true"/>
+    <LibraryEsp note="强化防具的防御力。&lt;CR&gt;效果：防御力上升7。" permit="true"/>
+    <LibraryEsp note="强化防具的防御力。&lt;CR&gt;效果：防御力上升10。" permit="true"/>
+    <LibraryEsp note="强化防具的防御力。&lt;CR&gt;效果：防御力上升15。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;防御强化×防御加成&lt;CLNR&gt;&lt;CR&gt;效果：防御力上升15。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;防御加成×防御力超强化&lt;CLNR&gt;　&lt;CR&gt;效果：防御力上升２５。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;钢铁守备×宝石守备&lt;CLNR&gt;&lt;CR&gt;效果：防御力上升４０。" permit="true"/>
+    <LibraryEsp note="赋予装饰品提高敏捷的效果。&lt;CR&gt;效果：敏捷上升7。" permit="true"/>
+    <LibraryEsp note="赋予装饰品提高敏捷的效果。&lt;CR&gt;效果：敏捷上升10。" permit="true"/>
+    <LibraryEsp note="赋予装饰品提高敏捷的效果。&lt;CR&gt;效果：敏捷上升15。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;敏捷强化×敏捷加成&lt;CLNR&gt;&lt;CR&gt;效果：敏捷上升15。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;敏捷加成×敏捷超强化&lt;CLNR&gt;&lt;CR&gt;效果：敏捷上升２５。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;韦驮天的脚力×神速的脚力&lt;CLNR&gt;&lt;CR&gt;效果：敏捷上升４０。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;攻击强化×防御强化&lt;CLNR&gt;&lt;CR&gt;效果：攻击力‧防御力上升5。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;攻击强化×敏捷强化&lt;CLNR&gt;&lt;CR&gt;效果：攻击力‧敏捷上升5。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;防御强化×敏捷强化&lt;CLNR&gt;&lt;CR&gt;效果：防御力‧敏捷上升5。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;攻防强化×攻速强化&lt;CLNR&gt;&lt;CR&gt;效果：所有能力上升５。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;攻击加成×防御加成&lt;CLNR&gt;&lt;CR&gt;效果：攻击力‧防御力上升7。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;攻击加成×敏捷加成&lt;CLNR&gt;&lt;CR&gt;效果：攻击力‧敏捷上升7。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;防御加成×敏捷加成&lt;CLNR&gt;&lt;CR&gt;效果：防御力‧敏捷上升7。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;攻防加成×防速加成&lt;CLNR&gt;&lt;CR&gt;效果：所有能力上升７。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;全能力强化×全能力加成&lt;CLNR&gt;&lt;CR&gt;效果：耐性以外的所有能力都上升１０。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;全能力加成×全能力超强化&lt;CLNR&gt;&lt;CR&gt;效果：耐性以外的所有能力都上升２５。" permit="true"/>
+    <LibraryEsp note="效果：最大ＨＰ和&lt;CR&gt;　　　最大ＭＰ上升５０。" permit="true"/>
+    <LibraryEsp note="效果：防御力上升３０，基本状态上升１５％。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="赋予减轻消耗ＭＰ的效果。&lt;CR&gt;效果：减轻技能消耗ＭＰ１０％。" permit="true"/>
+    <LibraryEsp note="赋予减轻消耗ＭＰ的效果。&lt;CR&gt;效果：减轻技能消耗ＭＰ１５％。" permit="true"/>
+    <LibraryEsp note="赋予减轻消耗ＭＰ的效果。&lt;CR&gt;效果：减轻技能消耗ＭＰ２０％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;消耗ＭＰ－１０％×消耗ＭＰ－１５％&lt;CLNR&gt;&lt;CR&gt;效果：减轻技能消耗ＭＰ２０％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;消耗ＭＰ－１５％×消耗ＭＰ－２０％&lt;CLNR&gt;&lt;CR&gt;效果：减轻技能消耗ＭＰ３０％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;消耗ＭＰ削减×消耗ＭＰ压缩&lt;CLNR&gt;&lt;CR&gt;效果：减轻技能消耗ＭＰ５０％。" permit="true"/>
+    <LibraryEsp note="赋予提高技能威力的效果。&lt;CR&gt;效果：技能的威力和消耗ＭＰ上升５％。" permit="true"/>
+    <LibraryEsp note="赋予提高技能威力的效果。&lt;CR&gt;效果：技能的威力和消耗ＭＰ上升7%。" permit="true"/>
+    <LibraryEsp note="赋予提高技能威力的效果。&lt;CR&gt;效果：技能的威力和消耗ＭＰ上升10%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;技能威力＋５％×技能威力＋７％&lt;CLNR&gt;&lt;CR&gt;效果：技能的威力和消耗ＭＰ上升１２％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;技能威力+7%×技能威力+10%&lt;CLNR&gt;&lt;CR&gt;效果：技能的威力和消耗ＭＰ上升17%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;技能强化×技能加成&lt;CLNR&gt;&lt;CR&gt;效果：技能的威力和消耗ＭＰ上升３０％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;技能强化×消耗ＭＰ削减&lt;CLNR&gt;&lt;CR&gt;效果：使技能的威力上升７％，消耗ＭＰ减少７％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;技能加成×消耗ＭＰ压缩&lt;CLNR&gt;&lt;CR&gt;效果：使技能的威力上升１０％，技能的消耗ＭＰ减少１０％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;技能超强化×消耗ＭＰ减半&lt;CLNR&gt;&lt;CR&gt;效果：使技能的威力上升１５％，技能的消耗ＭＰ减少１５％。" permit="true"/>
+    <LibraryEsp note="效果：使技能的威力上升２５％，技能的消耗ＭＰ减少２５％。" permit="true"/>
+    <LibraryEsp note="效果：使技能的威力上升35%，技能的消耗ＭＰ减少35%。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：令目标的等级大幅上升。" permit="true"/>
+    <LibraryEsp note="效果：令目标的攻击力大幅上升。" permit="true"/>
+    <LibraryEsp note="效果：令目标的防御力大幅上升。" permit="true"/>
+    <LibraryEsp note="效果：令目标的敏捷大幅上升。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：给予伤害时，&lt;CLGR&gt;会以一定机率使目标陷入睡眠状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：给予伤害时，&lt;CLGR&gt;会以一定机率使目标陷入中毒状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：给予伤害时，&lt;CLGR&gt;会以一定机率使目标陷入迟缓状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：给予伤害时，&lt;CLGR&gt;会以一定机率使目标陷入诅咒状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：给予伤害时，&lt;CLGR&gt;会以一定机率使目标陷入盲目状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：给予伤害时，&lt;CLGR&gt;会以一定机率使目标陷入弱体化状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：给予伤害时，&lt;CLGR&gt;会以一定机率使目标陷入恢复无效状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：给予伤害时，&lt;CLGR&gt;会以一定机率使目标陷入封印状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：令目标的等级大幅减低，所有能力和给予伤害也减低。" permit="true"/>
+    <LibraryEsp note="效果：令目标的攻击力大幅减低。" permit="true"/>
+    <LibraryEsp note="效果：令目标的防御力大幅减低。" permit="true"/>
+    <LibraryEsp note="效果：令目标的敏捷大幅减低。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：攻击所造成伤害的３％恢复至自身ＨＰ。" permit="true"/>
+    <LibraryEsp note="效果：攻击所造成伤害的5%恢复至自身ＨＰ。" permit="true"/>
+    <LibraryEsp note="效果：攻击所造成伤害的7%恢复至自身ＨＰ。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;伤害回馈×伤害回馈＋&lt;CLNR&gt;&lt;CR&gt;效果：攻击所造成伤害的７％恢复至自身ＨＰ。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;伤害回馈＋×伤害回馈＋＋&lt;CLNR&gt;&lt;CR&gt;效果：攻击所造成伤害的１０％，恢复至自身ＨＰ。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;ＨＰ吸收×夺取生命力&lt;CLNR&gt;&lt;CR&gt;效果：攻击所造成伤害的１５％，恢复至自身ＨＰ。" permit="true"/>
+    <LibraryEsp note="效果：攻击力上升２０，普通攻击给予对手伤害的１０％回馈至自身ＨＰ。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：对史拉格的攻击伤害量上升。" permit="true"/>
+    <LibraryEsp note="效果：对植物与精灵的攻击伤害量上升。" permit="true"/>
+    <LibraryEsp note="效果：对动物与猛兽的攻击伤害量上升。" permit="true"/>
+    <LibraryEsp note="效果：对魔族的攻击伤害量上升。" permit="true"/>
+    <LibraryEsp note="效果：对龙的攻击伤害量上升。" permit="true"/>
+    <LibraryEsp note="效果：对用魔法或炼金术所产生出来的怪物攻击伤害量上升。" permit="true"/>
+    <LibraryEsp note="效果：对噗尼的攻击伤害量上升。" permit="true"/>
+    <LibraryEsp note="效果：对不死生物的攻击伤害量上升。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：给予破防中目标的伤害上升１０％。" permit="true"/>
+    <LibraryEsp note="效果：给予破防中目标的伤害上升20%。" permit="true"/>
+    <LibraryEsp note="效果：给予破防中目标的伤害上升30%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;追击强化×追击强化＋&lt;CLNR&gt;&lt;CR&gt;效果：给予破防中目标的伤害上升３０％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;追击强化＋×追击强化＋＋&lt;CLNR&gt;&lt;CR&gt;效果：给予破防中目标的伤害上升４０％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;无怜悯的一击×毫不留情的一击&lt;CLNR&gt;&lt;CR&gt;效果：给予破防中目标的伤害上升６０％。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：配合道具附加的特性强度强化效果。" permit="true"/>
+    <LibraryEsp note="效果：配合道具附加的特性强度大量强化效果。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;特性强化×特性强化＋&lt;CLNR&gt;&lt;CR&gt;效果：配合道具附加的特性强度大幅强化效果。" permit="true"/>
+    <LibraryEsp note="效果：配合道具附加的特性强度强化效果。特性越强，越能进行大幅的强化。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：威力上升，效果范围目标数×５％。" permit="true"/>
+    <LibraryEsp note="效果：威力上升，效果范围目标数×10%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;范围奖励×范围奖励＋&lt;CLNR&gt;&lt;CR&gt;效果：威力上升，效果范围目标数×１５％。" permit="true"/>
+    <LibraryEsp note="效果：威力上升，效果范围目标数×20%。" permit="true"/>
+    <LibraryEsp note="效果：威力上升，１０÷效果范围目标数％。" permit="true"/>
+    <LibraryEsp note="效果：威力上升，15÷效果范围目标数％。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;少数奖励×少数奖励＋&lt;CLNR&gt;&lt;CR&gt;效果：威力上升，２０÷效果范围目标数％。" permit="true"/>
+    <LibraryEsp note="效果：威力上升，30÷效果范围目标数％。" permit="true"/>
+    <LibraryEsp note="效果：威力上升，２０÷效果范围目标数％＋效果范围目标数×１０％。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：使用次数为１时，威力上升10%。" permit="true"/>
+    <LibraryEsp note="效果：使用次数为１时，威力上升20%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;一次性使用强化×一次性使用强化＋&lt;CLNR&gt;&lt;CR&gt;效果：使用次数为１时，威力上升30%。" permit="true"/>
+    <LibraryEsp note="效果：使用次数为１时，威力上升45%。" permit="true"/>
+    <LibraryEsp note="效果：道具变得只能使用１次，但会增加最大使用次数×３％的威力。" permit="true"/>
+    <LibraryEsp note="效果：道具变得只能使用１次，但会增加最大使用次数×5%的威力。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;次数压缩×次数压缩＋&lt;CLNR&gt;&lt;CR&gt;效果：道具变得只能使用１次，但会增加最大使用次数×７％的威力。" permit="true"/>
+    <LibraryEsp note="效果：道具变得只能使用１次，但会增加最大使用次数×10%的威力。" permit="true"/>
+    <LibraryEsp note="效果：道具的威力增加最大使用次数×２％。" permit="true"/>
+    <LibraryEsp note="效果：道具的威力增加最大使用次数×3%。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;次数调整×次数调整＋&lt;CLNR&gt;&lt;CR&gt;效果：道具的威力增加最大使用次数×５％。" permit="true"/>
+    <LibraryEsp note="效果：道具的威力增加最大使用次数×7%。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：使用道具时的ＷＴ恢复值缩短１０％。相对地威力微量减少。" permit="true"/>
+    <LibraryEsp note="效果：使用道具时的ＷＴ恢复值缩短２０％。相对地威力少量减少。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;高速使用×高速使用＋&lt;CLNR&gt;&lt;CR&gt;效果：使用道具时的效果少量减少，ＷＴ恢复值缩短３０％。" permit="true"/>
+    <LibraryEsp note="效果：使用道具时的ＷＴ恢复值缩短５０％。" permit="true"/>
+    <LibraryEsp note="效果：少量延长使用道具后的待机时间，但威力会少量上升。" permit="true"/>
+    <LibraryEsp note="效果：延长使用道具后的待机时间，但威力会上升。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;力量投掷×力量投掷＋&lt;CLNR&gt;&lt;CR&gt;效果：大量延长使用道具后的待机时间，但威力会大量上升。" permit="true"/>
+    <LibraryEsp note="效果：根据使用后的待机时间，按比例少量强化道具威力。" permit="true"/>
+    <LibraryEsp note="效果：根据使用后的待机时间，按比例中量强化道具威力。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;待机时间强化×待机时间强化＋&lt;CLNR&gt;&lt;CR&gt;根据使用后的待机时间，按比例强化道具威力。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：道具尺寸加大１个等级，但相对地装备消耗栏上升５。" permit="true"/>
+    <LibraryEsp note="效果：道具尺寸加大2个等级，但相对地装备消耗栏上升10。" permit="true"/>
+    <LibraryEsp note="效果：道具尺寸缩减１个等级，并使装备消耗栏减少１０。" permit="true"/>
+    <LibraryEsp note="效果：道具尺寸缩减2个等级，并使装备消耗栏减少20。" permit="true"/>
+    <LibraryEsp note="效果：尺寸越大，道具的效果也略为加大。" permit="true"/>
+    <LibraryEsp note="效果：尺寸越大，道具的效果也越大。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;用尺寸强化×用尺寸超强化&lt;CLNR&gt;&lt;CR&gt;效果：尺寸越大，道具的效果也大幅加大。" permit="true"/>
+    <LibraryEsp note="效果：装备使用道具时的消耗栏减少５。" permit="true"/>
+    <LibraryEsp note="效果：装备使用道具时的消耗栏减少8。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;稍轻×轻&lt;CLNR&gt;&lt;CR&gt;效果：装备使用道具时的消耗栏减少１２。" permit="true"/>
+    <LibraryEsp note="&lt;CLGR&gt;轻×容易处理&lt;CLNR&gt;&lt;CR&gt;效果：装备使用道具时的消耗栏减少２０。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="强化热血的因子所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;ＨＰ‧攻击力&lt;CLNR&gt;上升。" permit="true"/>
+    <LibraryEsp note="强化幸福的心所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;ＭＰ‧防御力&lt;CLNR&gt;上升。" permit="true"/>
+    <LibraryEsp note="强化狡猾的知性所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;重击奖励‧命中率&lt;CLNR&gt;上升。" permit="true"/>
+    <LibraryEsp note="强化华丽的荣耀所寄宿的物质。效果：&lt;CLGR&gt;ＷＴ复原耐性‧破防耐性上升&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化慈爱的光辉所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;伤害逆转‧全状态异常无效&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化野性的直觉所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;速度上升‧技能待机时间缩短&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化贯彻的信念所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;ＨＰ再生，一定机率回避无法战斗&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化本能的指引所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;重击率上升‧一定机率缩短待机时间&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化空虚的世界所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;伤害回馈变换‧减轻物理伤害&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化癫狂的力量所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;攻击力大幅增加‧行动时ＨＰ大幅减少&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化燃烧的热情所寄宿的物质。&lt;CR&gt;效果：所有能力上升１５并且赋予炎‧冰耐性。" permit="true"/>
+    <LibraryEsp note="强化坚定的斗志所寄宿的物质。&lt;CR&gt;效果：所有能力上升１５并且赋予雷‧物理耐性。" permit="true"/>
+    <LibraryEsp note="强化幻想之雾所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;ＨＰＭＰ互换‧回避率追加&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化信念的羁绊所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;辅助效果上升‧伤害回馈变换&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化正义的铁锤所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;技能威力大幅增加及破防值加算&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化恐怖的霸王所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;发生追加伤害‧追加状态变化&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化不绝的欲望所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;造成的伤害获得部份回馈&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化知识的渴求所寄宿的物质。&lt;CR&gt;效果：发生追加伤害。" permit="true"/>
+    <LibraryEsp note="强化期待的新星所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;根据等级强化&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化一线希望所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;最大ＨＰ上升‧从无法战斗自动复活&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化勇气的觉醒所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;强敌调整‧头目调整&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化慈爱的灵魂所寄宿的物质。&lt;CR&gt;效果：&lt;CLGR&gt;爆发模式调整与强化量表增加量&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="强化不屈之魂所寄宿的物质。&lt;CR&gt;效果：大幅提升对破防的耐性以及从破防状态恢复的速度。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：攻击时发生７％的追加伤害，技能威力也上升１５％。" permit="true"/>
+    <LibraryEsp note="效果：攻击时发生15%的追加伤害，技能威力也上升10%。" permit="true"/>
+    <LibraryEsp note="效果：攻击时发生15%的追加伤害，技能威力也上升１５％。" permit="true"/>
+    <LibraryEsp note="效果：攻击时发生20%的追加伤害，技能威力也上升25%。" permit="true"/>
+    <LibraryEsp note="效果：攻击时发生15%的追加伤害，技能威力也上升20%。" permit="true"/>
+    <LibraryEsp note="效果：攻击时发生１～５０％的追加伤害。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp note="效果：战斗中，持有者的ＨＰ降至２０％以下时，会自动使用具有此特性的道具，不过将会消耗ＭＰ。" permit="true"/>
+    <LibraryEsp note="效果：战斗中，持有者的ＨＰ降至30%以下时，会自动使用具有此特性的道具，不过将会消耗ＭＰ。" permit="true"/>
+    <LibraryEsp note="效果：战斗中，持有者的ＨＰ降至40%以下时，会自动使用具有此特性的道具，不过将会消耗ＭＰ。" permit="true"/>
+    <LibraryEsp note="效果：战斗中，持有者的ＨＰ降至５０％以下时，会使用附有此特性的道具。" permit="true"/>
+    <LibraryEsp note="效果：使道具的威力提升２５％，并将效果变为无属性。无属性将不受耐性与弱点影响。" permit="true"/>
+    <LibraryEsp note="效果：给予伤害时，&lt;CLGR&gt;会在高机率下使目标陷入中毒状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：让目标的&lt;CLGR&gt;ＨＰ微量恢复&lt;CLNR&gt;，&lt;CLGR&gt;并从中毒的异常状态中恢复&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：暂时让目标的&lt;CLGR&gt;所有能力值上升&lt;CLNR&gt;。且无法战斗后，&lt;CLGR&gt;将在下次行动时自动复活&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：让目标的&lt;CLGR&gt;行动顺序稍微延后&lt;CLNR&gt;。直到目标开始行动为止，这个效果每次使用过后威力都会逐渐减弱。" permit="true"/>
+    <LibraryEsp note="效果：因热能所造成的持续伤害。效果较小。" permit="true"/>
+    <LibraryEsp note="效果：让目标因冷气而&lt;CLGR&gt;敏捷降低&lt;CLNR&gt;，&lt;CLGR&gt;并在低机率下陷入迟缓状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：所有能力上升８。" permit="true"/>
+    <LibraryEsp note="效果：对噗尼、魔法生物的攻击伤害量上升。" permit="true"/>
+    <LibraryEsp note="效果：&lt;CLGR&gt;技能威力降低１０％&lt;CLNR&gt;，但&lt;CLGR&gt;消耗ＭＰ减轻３０％&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：使目标的&lt;CLGR&gt;防御力与敏捷降低&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：恢复目标的&lt;CLGR&gt;破防值&lt;CLNR&gt;。并少量缩短&lt;CLGR&gt;行动后的待机时间&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：攻击力上升７，并在攻击时发生少量的追加伤害。" permit="true"/>
+    <LibraryEsp note="效果：使目标的&lt;CLGR&gt;ＨＰ微量恢复&lt;CLNR&gt;，&lt;CLGR&gt;并从弱体化的异常状态中恢复&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：使目标的攻击回避率上升。此效果最多可持续５次行动。" permit="true"/>
+    <LibraryEsp note="效果：&lt;CLGR&gt;攻击道具的效果上升５％&lt;CLNR&gt;，并且&lt;CLGR&gt;有机率陷入弱体化状态&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：使目标的&lt;CLGR&gt;ＨＰ微量恢复&lt;CLNR&gt;，&lt;CLGR&gt;并从诅咒的异常状态中恢复&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：店头的收购价格大幅提升。" permit="true"/>
+    <LibraryEsp note="效果：攻击道具的效果上升15%。" permit="true"/>
+    <LibraryEsp note="效果：&lt;CLGR&gt;防御力上升１０&lt;CLNR&gt;，并且&lt;CLGR&gt;行动时ＨＰ中量恢复&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：&lt;CLGR&gt;恢复道具的效果上升３０％&lt;CLNR&gt;，但&lt;CLGR&gt;装备时的消耗栏增加５&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：使目标的&lt;CLGR&gt;最大ＨＰ值仅于战斗中暂时上升&lt;CLNR&gt;，&lt;CLGR&gt;减轻因异常状态发生的效果&lt;CLNR&gt;。效果较小。" permit="true"/>
+    <LibraryEsp note="效果：&lt;CLGR&gt;提升重击发生率&lt;CLNR&gt;，并在&lt;CLGR&gt;目标呈现破防状态时使给予的伤害上升&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：使目标从&lt;CLGR&gt;中毒与恢复无效的异常状态中恢复&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：店头的收购价格提升。" permit="true"/>
+    <LibraryEsp note="效果：对魔族、不死生物的攻击伤害量上升。" permit="true"/>
+    <LibraryEsp note="效果：&lt;CLGR&gt;给予破防中目标的伤害上升２０％&lt;CLNR&gt;，&lt;CLGR&gt;以给予的部分伤害恢复自身ＨＰ&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：&lt;CLGR&gt;所有能力上升１５&lt;CLNR&gt;之外并使&lt;CLGR&gt;技能的威力上升２０％&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEsp note="效果：&lt;CLGR&gt;从无法战斗中恢复&lt;CLNR&gt;并解除３个异常状态。" permit="true"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+    <LibraryEsp permit="false"/>
+</Root>

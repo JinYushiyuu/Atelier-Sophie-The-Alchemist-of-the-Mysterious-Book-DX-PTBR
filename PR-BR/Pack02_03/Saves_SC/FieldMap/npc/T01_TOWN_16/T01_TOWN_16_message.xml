@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_16_message message_data="MM09_010_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="真想再见到那两个人呢。" next_message_tag="MM09_010_FILON2"/>
+    <T01_TOWN_16_message message_data="MM09_010_FILON2" chara_tag="SOPHIE" name_tag="SOPHIE" voice_no1="-1" message1="啊哈哈……"/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_1" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="这个城镇真是个适合居住的好地方。&lt;CR&gt;我非常喜欢哦。"/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_2" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="人偶可是相当纤细的。&lt;CR&gt;要是稍微疏于维护，&lt;CR&gt;立刻就会出问题。"/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_3" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="下次的人偶剧要在哪里演出呢……&lt;CR&gt;广场吗……借教会也是可行呢……"/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_4" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="普拉芙妲还好吗？&lt;CR&gt;……这样啊，那就好了。"/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_5" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="哦，来得正好。&lt;CR&gt;要看人偶剧吗？&lt;CR&gt;这样好吗？这样啊……"/>
+    <T01_TOWN_16_message message_data="FILON_TOWN01_15_E" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="出去散个步好了……&lt;CR&gt;呃，可是人偶的维护也令人难以割舍……&lt;CR&gt;唔唔……"/>
+    <T01_TOWN_16_message message_data="TOWN_16_FILON_EV1" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="东西我确实收到了。" quest_tag="QC04_FRI_050" voice_no2="-1" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_16_message message_data="TOWN_16_FILON_EV2" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="东西我确实收到了。" quest_tag="MM04_020" voice_no2="-1" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_16_message message_data="TOWN_16_FILON_EV3" chara_tag="FILON" name_tag="FILON" voice_no1="11713" message1="东西我确实收到了。" quest_tag="QC04_FRI_210" voice_no2="-1" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_16_message message_data="TOWN_16_NPC26A_00" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="真期待下次的人偶剧～"/>
+    <T01_TOWN_16_message message_data="TOWN_16_NPC27B_00" chara_tag="NPC27B" name_tag="NPC27B" voice_no1="-1" message1="真期待下次的人偶剧呢。"/>
+</Root>

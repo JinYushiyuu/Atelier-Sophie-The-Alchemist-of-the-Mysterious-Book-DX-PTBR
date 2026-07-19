@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_10_message message_data="QC01_MON_015_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11695" message1="保险起见，我也去看了城镇外头，&lt;CR&gt;似乎没有来到这里呢。"/>
+    <T01_TOWN_10_message message_data="QC02_OSK_080_MONIKA_00" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="11695" message1="我问过城镇的人们，&lt;CR&gt;奥斯卡好像没有到外头去。" next_message_tag="QC02_OSK_080_MONIKA_01"/>
+    <T01_TOWN_10_message message_data="QC02_OSK_080_MONIKA_01" chara_tag="SOPHIE" name_tag="SOPHIE" voice_no1="-1" message1="知道了。摩妮卡就继续盯着，&lt;CR&gt;看奥斯卡有没有过来。" next_message_tag="QC02_OSK_080_MONIKA_02"/>
+    <T01_TOWN_10_message message_data="QC02_OSK_080_MONIKA_02" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="嗯，包在我身上。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_00" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="啊，早上了……" next_message_tag="TOWN_10_NPC20A_01"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_01" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="冒险的事前准备好忙，&lt;CR&gt;真伤脑筋呢。哈哈哈。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_02" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="有在这一带听过什么……&lt;CR&gt;不得了的传闻吗？" next_message_tag="TOWN_10_NPC20A_03"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_03" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="……像是有点强的噗尼之类的。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_04" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="毕竟晚上会出现&lt;CR&gt;跟白天不一样的魔物。" next_message_tag="TOWN_10_NPC20A_05"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_05" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="因为危险，所以我&lt;CR&gt;尽量不去外头。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_06" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="嗯，你说我为什么不去冒险？" next_message_tag="TOWN_10_NPC20A_07"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_07" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="今天是假日吧。&lt;CR&gt;冒险者也是需要休息的。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_10" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="啊，早上了……" next_message_tag="TOWN_10_NPC20A_11"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_11" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="晚上出去冒险，&lt;CR&gt;刚刚才回来呢。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_12" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="有在这一带听过什么……&lt;CR&gt;不得了的传闻吗？" next_message_tag="TOWN_10_NPC20A_13"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_13" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="……像是有点强的飞鹰之类的。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_14" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="毕竟晚上会出现&lt;CR&gt;跟白天不一样的魔物。" next_message_tag="TOWN_10_NPC20A_15"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_15" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="我正在做准备，&lt;CR&gt;待会要去冒险呢。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_16" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="嗯，你说我为什么不去冒险？" next_message_tag="TOWN_10_NPC20A_17"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_17" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="今天是假日吧。&lt;CR&gt;冒险者也是需要休息的。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_20" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="啊，早上了……" next_message_tag="TOWN_10_NPC20A_21"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_21" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="今天要去哪里冒险呢。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_22" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="有在这一带听过什么……&lt;CR&gt;不得了的传闻吗？" next_message_tag="TOWN_10_NPC20A_23"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_23" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="……像是有点强的龙之类的。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_24" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="毕竟晚上会出现&lt;CR&gt;跟白天不一样的魔物。" next_message_tag="TOWN_10_NPC20A_25"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_25" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="我正在做准备，&lt;CR&gt;要去寻找强大魔物呢。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_26" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="11777" message1="嗯，你说我为什么不去冒险？" next_message_tag="TOWN_10_NPC20A_27"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC20A_27" chara_tag="NPC20A" name_tag="NPC20A" voice_no1="-1" message1="今天是假日吧。&lt;CR&gt;冒险者也是需要休息的。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_OP_0" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="11772" message1="欢迎来到&lt;CR&gt;基尔亨‧贝尔！" next_message_tag="TOWN_10_NPC23A_OP_1"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_OP_1" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="我可以为您做介绍哦。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_00" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="11772" message1="欢迎来到&lt;CR&gt;基尔亨‧贝尔！" next_message_tag="TOWN_10_NPC23A_01"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_01" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="好好好，要去教会是吧。&lt;CR&gt;我懂我懂。" next_message_tag="TOWN_10_NPC23A_02"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_02" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="哎呀～我也是最～喜欢&lt;CR&gt;教会了呢……" next_message_tag="TOWN_10_NPC23A_03"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_03" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="每天都固定会祈祷哦。&lt;CR&gt;还有啊……"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_10" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="11772" message1="欢迎来到&lt;CR&gt;基尔亨‧贝尔！" next_message_tag="TOWN_10_NPC23A_11"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_11" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="嗯嗯，您的脸上就写着&lt;CR&gt;好想购物哦～" next_message_tag="TOWN_10_NPC23A_12"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_12" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="我懂。我也最喜欢&lt;CR&gt;购物了……" next_message_tag="TOWN_10_NPC23A_13"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_13" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="位于街道上的蔬果店，&lt;CR&gt;因为随时都能买到新鲜的商品&lt;CR&gt;而大获好评呢……还有啊……"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_20" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="11772" message1="欢迎来到&lt;CR&gt;基尔亨‧贝尔！" next_message_tag="TOWN_10_NPC23A_21"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_21" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="哦哦，您的脸上就写着&lt;CR&gt;好想住在这里哦～" next_message_tag="TOWN_10_NPC23A_22"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_22" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="我懂。其实我也是这阵子&lt;CR&gt;才刚搬过来没多久……" next_message_tag="TOWN_10_NPC23A_23"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC23A_23" chara_tag="NPC23A" name_tag="NPC23A_01" voice_no1="-1" message1="这里是个相当适合居住的好城镇……&lt;CR&gt;我也会以城镇导览员的身份，&lt;CR&gt;努力推广这个城镇的魅力哦～"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC25A_00" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="11813" message1="……钓不到呢。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC25A_10" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="11813" message1="我有试着换过钓竿，&lt;CR&gt;但是……钓不到呢。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC25A_20" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="11813" message1="虽然我很常在这里&lt;CR&gt;钓鱼……" next_message_tag="TOWN_10_NPC25A_21"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC25A_21" chara_tag="NPC25A" name_tag="NPC25A_01" voice_no1="-1" message1="……但实际上连一只&lt;CR&gt;都没钓到过。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_00" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="11814" message1="我一直在监视着，看看有没有&lt;CR&gt;魔物或可疑人物跑进来……" next_message_tag="TOWN_10_NPC21A_01"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_01" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="-1" message1="所幸目前并没有&lt;CR&gt;发生什么大问题。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_10" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="11814" message1="我一天会巡逻３次哦。" next_message_tag="TOWN_10_NPC21A_11"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_11" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="-1" message1="虽然主要的入口就只有这里……&lt;CR&gt;但还是多警戒一下比较好。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_20" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="11814" message1="我一直在警戒着，避免城镇的&lt;CR&gt;小孩子们误跑到外面去。" next_message_tag="TOWN_10_NPC21A_21"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC21A_21" chara_tag="NPC21A" name_tag="NPC21A_01" voice_no1="-1" message1="不只外头，守护城镇也是我们&lt;CR&gt;自警团的工作……"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_00" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="11807" message1="好了，&lt;CR&gt;再去田里忙一下好了。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_01" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="-1" message1="……"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_10" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="11807" message1="虽然大的比较受欢迎，&lt;CR&gt;但小的也是有它的需求。" next_message_tag="TOWN_10_NPC06A_11"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_11" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="-1" message1="对做果汁的人来说，&lt;CR&gt;他们就可以便宜收购。"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_20" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="11807" message1="植物的声音……你有听过吗？&lt;CR&gt;真是遗憾……" next_message_tag="TOWN_10_NPC06A_21"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_21" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="-1" message1="我已经在田里和植物&lt;CR&gt;相处了几十年了，&lt;CR&gt;从来就没听过……" next_message_tag="TOWN_10_NPC06A_22"/>
+    <T01_TOWN_10_message message_data="TOWN_10_NPC06A_22" chara_tag="NPC06A" name_tag="NPC06A_02" voice_no1="-1" message1="仔细想想，听不听得见，&lt;CR&gt;到头来……应该还是看心吧。"/>
+</Root>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="true">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" visible="false" color="255.00, 255.00, 255.00, 128.00" viewer_visible="false"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<!--***↓アニメーション ***-->
+	<node name="fm_icon_balloon" viewer_visible="true" visible="false">
+		<image name="iconbg" style="gen_a17_field01_icom" viewer_visible="false">
+			<text text="&lt;IM01&gt;" name="button" font_size="22.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="83, 50, 0" parent_rot_cancel="true"/>
+		</image>
+	</node>
+	<!--*** ↓怒りアイコン ***-->
+	<node name="fm_icon_anger" viewer_visible="false" visible="false">
+		<image name="image_2" style="gen_a17_field05_monster01" flick_time="0.20"/>
+	</node>
+	<!--*** ↓疑問アイコン ***-->
+	<node name="fm_icon_question" viewer_visible="false" visible="false" pos="-10.00, 10.00, 0.00">
+		<image name="image_2" style="gen_a17_field05_monster02" flick_time="0.20" pos="10.00, -10.00, 0.00" viewer_visible="false"/>
+	</node>
+	<!--*** ↓感嘆符アイコン ***-->
+	<node name="fm_icon_exclamation" viewer_visible="false" visible="false">
+		<image name="image_2" style="gen_a17_field05_monster03" flick_time="0.20" pos="30.00, 0.00, 0.00"/>
+	</node>
+	<!--***↓clone_target置き場(プログラムで使用) ***-->
+	<node name="fm_icon_double_balloon" visible="false" viewer_visible="true">
+		<image name="iconbg" style="gen_a17_field05_icombg" pos="0.00, 0.00, 0.00" viewer_visible="false">
+			<image name="icon1" style="gen_a17_field05_icom" pos="21.00, 10.00, -0.00" image_no="0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+			<text text="&lt;IM05&gt;" name="button1" pos="69.00, 44.83, -0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 0.90" viewer_visible="false"/>
+			<image name="icon2" style="gen_a17_field05_icom" pos="151.00, 10.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="&lt;IM00&gt;" name="button2" pos="201.00, 44.43, -0.00" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 0.90"/>
+		</image>
+	</node>
+	<node name="fm_icon" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+	<!--*** ↓点々ふきだし ***-->
+	<node name="fm_point" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="false">
+		<image name="pointbg" style="gen_a17_field01_pointbg"/>
+		<image name="point" style="gen_a17_field01_point" flick_time="0.50" pos="17, 27, 0"/>
+	</node>
+	<!--*** ↓LP数値 ***-->
+</root>

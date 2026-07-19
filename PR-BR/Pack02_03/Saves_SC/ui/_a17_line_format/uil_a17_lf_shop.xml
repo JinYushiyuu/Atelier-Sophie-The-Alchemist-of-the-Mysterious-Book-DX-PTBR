@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--ショップメニューの行の雛形-->
+	<node name="lf_shop">
+		<node name="text">
+			<text text="あいうえおかきくけこ" name="name_text" pos="21.00, 8.00, 0.00" word_space="-2.00" color="43.00, 22.00, 23.00, 255.00" menu_item_color_cancel="true"/>
+			<text text="库存 :" name="stock" pos="22.00, 40.00, 0.00" color="43.00, 22.00, 23.00, 255.00" menu_item_color_cancel="true"/>
+			<text text="99" name="stock_text" pos="118.00, 41.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="center" menu_item_color_cancel="true"/>
+			<text text=":" name="money" pos="180.00, 40.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="center" menu_item_color_cancel="true"/>
+			<text text="99999" name="price_text" pos="277.00, 41.00, 0.00" color="43.00, 22.00, 23.00, 255.00" align="right" menu_item_color_cancel="true"/>
+		</node>
+		<image name="moneyicon" pos="141, 38, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_moneyicon"/>
+		<node name="tag" pos="-66.00, 4.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="tag_image" style="gen_a17_shop01_tag" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+	</node>
+</root>

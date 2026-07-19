@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓アニメーションの読込み ***-->
+	<command load_anim="Saves/ui/a17_battle/uia_a17_battle.xml"/>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" color="255.00, 255.00, 255.00, 128.00" viewer_visible="false" visible="false"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" visible="false" viewer_visible="true">
+		<node name="result">
+			<image name="bg" style="gen_a17_battle04_resultbg" pos="-1.00, -3.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="face" style="gen_a17_battle05_resultim" pos="-2.00, -3.00, -0.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node name="lv" viewer_visible="false" pos="-18, 30, 0">
+				<text text="99" name="value" pos="480.00, 3.00, 0.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true"/>
+				<text name="max" pos="479.00, 3.00, 0.00" color="230.00, 0.00, 17.00, 255.00" align="left" text="max" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+				<text text="Lv" name="lv" pos="355.00, 3.00, 0.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="exp" pos="353, 61, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+				<text name="value" pos="75.00, -56.00, 0.00" align="left" text="99999999" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="1.00" visible="false" viewer_visible="true"/>
+				<text name="max" pos="99.00, -56.00, 0.00" color="230.00, 0.00, 17.00, 255.00" align="left" text="max" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+				<text name="add" pos="230.00, -56.00, 0.00" align="left" text="+99999" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="1.00" bold_size="2.00" font_color="142.00, 0.00, 5.00, 255.00" bold_color="255.00, 255.00, 255.00, 255.00" visible="false" viewer_visible="false"/>
+				<text text="Exp" name="exp" pos="-16.00, -56.00, 0.00" align="left" word_space="7.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true"/>
+			</node>
+			<node name="adv_exp" viewer_visible="true" pos="354.00, 59.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+				<text text="Adv Exp" name="adv_exp" pos="-16.00, -56.00, -0.00" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" color="214.00, 198.00, 224.00, 255.00"/>
+				<text name="value" pos="108.00, -55.00, 0.00" align="left" text="20" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="1.00"/>
+				<text text="Adv pt" name="adv_pt" pos="152.00, -56.00, -0.00" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="gauge" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="gauge" style="gen_a17_battle03_resultgauge_f" pos="437.00, 58.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="gauge_bar" style="gen_a17_battle03_resultgaugebar" pos="444.00, 63.00, -0.00" size_wh="171, 22" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<text text="Next" name="next" pos="337.00, 59.00, -0.00" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="resultimage" pos="847.00, 605.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node copy="result" clone_child_tree="result" name="chara0" pos="-847.00, -491.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+			<node copy="result" clone_child_tree="result" name="chara1" pos="-847.00, -386.33, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="result" clone_child_tree="result" name="chara2" pos="-847.00, -281.67, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="result" clone_child_tree="result" name="chara3" pos="-847.00, -177.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<anim_ctrl play="false" loop="false" end_visible="false" viewer_key_assign="6" name="image_exit" speed="3.00">
+				<bind_node node="resultimage" anim="common_l_out" speed="2.00" delay="0.00"/>
+			</anim_ctrl>
+			<anim_ctrl name="image_enter" play="false" loop="false" start_visible="true" viewer_key_assign="8" speed="3.00">
+				<bind_node node="resultimage" anim="common_l_in" speed="2.00" delay="0.00"/>
+			</anim_ctrl>
+		</node>
+		<node name="exp_g" pos="-1.00, -61.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="false">
+			<image name="moneyobi01" style="gen_a17_battle04_moneyobi01" pos="-2.00, 622.00, 0.00"/>
+			<text text="获得Exp" name="text_7" pos="38.00, 640.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<text text="9999999" name="exp_value" pos="220.00, 640.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="1.00" align="left"/>
+			<node name="bonus" pos="368.00, 641.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+				<text text="bonus" name="bonus" pos="0.00, -1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="1.00" align="left" color="214.00, 198.00, 224.00, 255.00"/>
+				<text name="bonus_count" pos="92.00, -1.00, 0.00" align="left" text="+99999" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="1.00" bold_size="2.00" font_color="142.00, 0.00, 5.00, 255.00" bold_color="255.00, 255.00, 255.00, 255.00"/>
+			</node>
+			<anim_ctrl name="exp_enter" play="false" loop="false" start_visible="true" viewer_key_assign="8" speed="3.00">
+				<bind_node node="exp" anim="common_l_in" speed="2.00" delay="0.00"/>
+			</anim_ctrl>
+			<anim_ctrl play="false" loop="false" end_visible="false" viewer_key_assign="6" name="exp_exit" speed="3.00">
+				<bind_node node="exp" anim="common_l_out" speed="2.00" delay="0.00"/>
+			</anim_ctrl>
+		</node>
+		<node name="money_g" pos="-1.00, -1.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+			<image name="moneyobi01" style="gen_a17_battle04_moneyobi01" pos="-2.00, 622.00, 0.00"/>
+			<text text="获得克隆" name="text_7" pos="38.00, 640.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="coin" style="gen_a17_battle04_coin" pos="161, 635, 0"/>
+			<text text="9999999" name="money_value" pos="220.00, 640.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="1.00" align="left"/>
+			<anim_ctrl play="false" loop="false" end_visible="false" viewer_key_assign="6" name="money_exit" speed="3.00">
+				<bind_node node="money" anim="common_l_out" speed="2.00" delay="0.00"/>
+			</anim_ctrl>
+			<anim_ctrl name="money_enter" play="false" loop="false" start_visible="true" viewer_key_assign="8" speed="3.00">
+				<bind_node node="money" anim="common_l_in" speed="2.00" delay="0.00"/>
+			</anim_ctrl>
+		</node>
+		<node name="result" pos="52.00, 6.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="resultbg" style="gen_a17_battle04_resultbg" pos="-111.00, 7.00, -0.00" rot="0.00, 0.00, -5.00" scale="1.00, 1.00, 1.00" visible="true"/>
+			<image name="result" style="gen_a17_battle04_result" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="levelup" pos="846.00, 605.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+			<image name="resultbg" style="gen_a17_battle04_resultbg" pos="464, -41, -0" rot="0.00, 180.00, -5.00" scale="1.00, 1.00, 1.00" visible="true"/>
+			<image name="result" style="gen_a17_battle04_levelup" pos="25, -1, -0" rot="0.00, 0.00, -4.00" scale="1.00, 1.00, 1.00"/>
+			<anim_ctrl name="levelup_exit" end_visible="false" speed="3.00" viewer_key_assign="9">
+				<bind_node node="levelup" anim="common_l_out"/>
+			</anim_ctrl>
+			<anim_ctrl name="levelup_enter" start_visible="true" viewer_key_assign="8" speed="3.00">
+				<bind_node node="levelup" anim="common_l_in"/>
+			</anim_ctrl>
+		</node>
+		<node name="status0" pos="-30.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="status" visible="false" viewer_visible="true">
+				<image name="bg" pos="892.00, 88.00, -0.00" style="gen_a17_battle03_st" size_wh="363.00, 472.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node name="name" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="bg" style="gen_a17_battle04_nametag01" pos="990.00, 73.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<text name="text" pos="1118.00, 88.00, -0.00" rot="-0.00, -0.00, 4.98" scale="1.00, 1.00, 1.00" font_size="27.00" align="center" text="あいうえおかきく"/>
+				</node>
+				<node name="lv" viewer_visible="false" pos="934.00, 178.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="Lv" name="lv" pos="17.00, -31.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="10.00"/>
+					<text text="99" name="value" pos="182.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="center" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="underline" pos="-0.00, -0.00, -0.00" style="gen_a17_battle03_stline" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<node name="exp" viewer_visible="false" pos="938.00, 240.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="Next" name="next" pos="13.00, -55.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text name="value" pos="178.00, -55.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="center" text="9999" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="Exp" name="exp" pos="219.00, -55.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="underline" pos="-0.00, -0.00, -0.00" style="gen_a17_battle03_stline" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node name="add" pos="17.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+						<image name="up_cursor" style="gen_a17_battle01_cursor_lv" pos="228, -52, 0"/>
+						<text name="value" pos="251.00, -51.00, 0.00" align="left" text="+999" bold_size="1.00" bold_color="255.00, 255.00, 255.00, 255.00" font_color="230.00, 0.00, 17.00, 255.00"/>
+					</node>
+					<node name="gauge" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<image name="bg" style="gen_a17_battle03_resultgauge_f" pos="76.00, -26.00, 0.00"/>
+						<image name="gauge_bar" style="gen_a17_battle03_resultgaugebar" pos="83, -21, 0" size_wh="171, 22"/>
+					</node>
+				</node>
+				<node name="hp" viewer_visible="false" pos="934.00, 281.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="H P" name="hp" pos="17.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="hp_value" pos="167.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="right" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="/" name="slash" pos="183.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="center" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="mhp_value" pos="249.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<image name="underline" pos="-0.00, -0.00, -0.00" style="gen_a17_battle03_stline" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node name="add" pos="21.00, 20.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<image name="up_cursor" style="gen_a17_battle01_cursor_lv" pos="228, -52, 0"/>
+						<text name="value" pos="251.00, -51.00, 0.00" align="left" text="+999" bold_size="1.00" font_color="230.00, 0.00, 17.00, 255.00" bold_color="255.00, 255.00, 255.00, 255.00"/>
+					</node>
+				</node>
+				<node name="mp" viewer_visible="false" pos="934.00, 321.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="M P" name="mp" pos="17.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="mp_value" pos="167.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="right" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="/" name="slash" pos="183.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="center" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="mmp_value" pos="249.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<image name="underline" pos="-0.00, -0.00, -0.00" style="gen_a17_battle03_stline" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node name="add" pos="21.00, 20.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<image name="up_cursor" style="gen_a17_battle01_cursor_lv" pos="228, -52, 0"/>
+						<text name="value" pos="251.00, -51.00, 0.00" align="left" text="+999" font_color="230.00, 0.00, 17.00, 255.00" bold_size="1.00" bold_color="255.00, 255.00, 255.00, 255.00"/>
+					</node>
+				</node>
+				<node name="lp" viewer_visible="false" pos="935, 361, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="L P" name="lp" pos="16.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="lp_value" pos="166.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="right" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="/" name="slash" pos="182.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="center" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="mlp_value" pos="248.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<image name="underline" pos="-0.00, -0.00, -0.00" style="gen_a17_battle03_stline" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node name="add" pos="20.00, 20.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<image name="up_cursor" style="gen_a17_battle01_cursor_lv" pos="228, -52, 0"/>
+						<text name="value" pos="251.00, -51.00, 0.00" align="left" text="+999" font_color="230.00, 0.00, 17.00, 255.00" bold_size="1.00" bold_color="255.00, 255.00, 255.00, 255.00"/>
+					</node>
+				</node>
+				<node name="dmg" viewer_visible="false" pos="936, 401, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="伤害" name="dmg" pos="13, -30, 0" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="dmg_min_value" pos="165.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="right" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="～" name="dmg_1" pos="169.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="dmg_max_value" pos="247.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<image name="underline" pos="-0.00, -0.00, -0.00" style="gen_a17_battle03_stline" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node name="add" pos="19.00, 20.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<image name="up_cursor" style="gen_a17_battle01_cursor_lv" pos="228, -52, 0"/>
+						<text name="value" pos="251.00, -51.00, 0.00" align="left" text="+999" font_color="230.00, 0.00, 17.00, 255.00" bold_size="1.00" bold_color="255.00, 255.00, 255.00, 255.00"/>
+					</node>
+				</node>
+				<node name="atk" viewer_visible="false" pos="936.00, 441.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="攻击力" name="atk" pos="15.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="atk_value" pos="180.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="center" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="underline" pos="-0.00, -0.00, -0.00" style="gen_a17_battle03_stline" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node name="add" pos="19.00, 20.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<image name="up_cursor" style="gen_a17_battle01_cursor_lv" pos="228, -52, 0"/>
+						<text name="value" pos="251.00, -51.00, 0.00" align="left" text="+999" font_color="230.00, 0.00, 17.00, 255.00" bold_size="1.00" bold_color="255.00, 255.00, 255.00, 255.00"/>
+					</node>
+				</node>
+				<node name="def" viewer_visible="false" pos="936.00, 481.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="防御力" name="def" pos="15.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="def_value" pos="180.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="center" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="underline" pos="-0.00, -0.00, -0.00" style="gen_a17_battle03_stline" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node name="add" pos="19.00, 20.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<image name="up_cursor" style="gen_a17_battle01_cursor_lv" pos="228, -52, 0"/>
+						<text name="value" pos="251.00, -51.00, 0.00" align="left" text="+999" font_color="230.00, 0.00, 17.00, 255.00" bold_size="1.00" bold_color="255.00, 255.00, 255.00, 255.00"/>
+					</node>
+				</node>
+				<node name="spd" viewer_visible="false" pos="936.00, 521.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<text text="敏捷" name="spd" pos="15.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="999" name="spd_value" pos="180.00, -30.00, 0.00" color="33.00, 20.00, 17.00, 255.00" align="center" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node name="add" pos="19.00, 18.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<image name="up_cursor" style="gen_a17_battle01_cursor_lv" pos="228, -52, 0"/>
+						<text name="value" pos="251.00, -51.00, 0.00" align="left" text="+999" font_color="230.00, 0.00, 17.00, 255.00" bold_size="1.00" bold_color="255.00, 255.00, 255.00, 255.00"/>
+					</node>
+				</node>
+				<node name="skill" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="false">
+					<image name="bg" style="gen_a17_battle03_sl" pos="344, 477, 0" size_wh="563, 117"/>
+					<node name="node" pos="640.00, 524.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					<node name="skillget0" pos="640.00, 524.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<node name="skill_name" pos="-9.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+							<text text="あいうえおかきくけこ" name="name" pos="-0.00, -0.00, -0.00" color="230.00, 0.00, 17.00, 255.00" align="right" word_space="-2.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+							<text text="已获得。" name="text" pos="9.00, -0.00, -0.00" color="33.00, 20.00, 17.00, 255.00" align="left" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="-2.00"/>
+							<anim_ctrl name="skillname_enter" play="false" loop="false" start_visible="true" viewer_key_assign="8" speed="3.00">
+								<bind_node node="skill_name" anim="common_l_in" speed="2.00" delay="0.00"/>
+							</anim_ctrl>
+							<anim_ctrl play="false" loop="false" end_visible="false" viewer_key_assign="6" name="skillname_exit" speed="3.00">
+								<bind_node node="skill_name" anim="common_l_out" speed="2.00" delay="0.00"/>
+							</anim_ctrl>
+						</node>
+					</node>
+					<node name="skillget1" pos="640.00, 524.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" clone_child_tree="skillget0" copy="skillget0"/>
+					<anim_ctrl play="false" loop="false" end_visible="false" viewer_key_assign="6" name="skillget_exit" speed="3.00">
+						<bind_node node="skill" anim="common_l_out" speed="2.00" delay="0.00"/>
+					</anim_ctrl>
+					<anim_ctrl name="skillget_enter" play="false" loop="false" start_visible="true" viewer_key_assign="8" speed="3.00">
+						<bind_node node="skill" anim="common_l_in" speed="2.00" delay="0.00"/>
+					</anim_ctrl>
+				</node>
+				<anim_ctrl play="false" loop="false" end_visible="false" viewer_key_assign="6" name="status_exit" speed="3.00">
+					<bind_node node="status" anim="common_l_out" speed="2.00" delay="0.00"/>
+				</anim_ctrl>
+				<anim_ctrl name="status_enter" play="false" loop="false" start_visible="true" viewer_key_assign="8" speed="3.00">
+					<bind_node node="status" anim="common_l_in" speed="2.00" delay="0.00"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<node name="status1" pos="-30.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" clone_child_tree="status0" copy="status0"/>
+		<node name="status2" pos="-30.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" clone_child_tree="status0" copy="status0"/>
+		<node name="status3" pos="-30.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" clone_child_tree="status0" copy="status0"/>
+		<!--ドロップアイテム-->
+		<node name="dropitem" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="dropitem_bg" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false" load="/Saves/ui/a17_common/uil_a17_bg01.xml"/>
+			<anim_ctrl name="dropitem_bg_enter" start_visible="true">
+				<bind_node anim="common_alpha_on" node="dropitem_bg"/>
+			</anim_ctrl>
+		</node>
+	</node>
+</root>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <LibraryBuild name="苏菲的炼金工房" img="0" note="“不用多说，这是我的工房！&lt;CR&gt;　虽然希望能有很多客人，&lt;CR&gt;　成为一间生意兴隆的店……&lt;CR&gt;　但有点难达成啊……”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="城镇入口" img="1" note="“基尔亨‧贝尔的城镇入口。&lt;CR&gt;　这座城镇虽然不大，&lt;CR&gt;　但会有一些观光客、冒险者，&lt;CR&gt;　跟行商的人来往，还算挺热闹的。”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="广场" img="2" note="“面对教会的大广场。&lt;CR&gt;　最大的特征是有个漂亮的喷水池。&lt;CR&gt;　附近也有种花，&lt;CR&gt;　坐在长椅上悠闲一下也不错哦。”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="教会" startEv="EVENT_QC09_PAM_010" img="3" note="“这间教会是城镇最著名的观光景点。&lt;CR&gt;　帕梅拉是这里的修女。&lt;CR&gt;　实际的名称是‘瓦尔姆教会’，&lt;CR&gt;　在城镇的每个角落都能听到钟声哦。”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="街道" img="4" note="“城镇中有许多店铺林立的大道。&lt;CR&gt;　是城镇最热闹的地方，想要什么东西，&lt;CR&gt;　这里几乎都买得到……诱惑很多，&lt;CR&gt;　得小心别买些多余的东西才行。”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="咖啡厅" startEv="EVENT_MM01_070" img="5" note="“霍尔斯特先生经营的咖啡厅。&lt;CR&gt;　这里的茶跟点心都非常好吃！&lt;CR&gt;　好像也有很多客人是为了听&lt;CR&gt;　霍尔斯特先生说话才来的哦。”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="蔬果店" startEv="EVENT_MM01_110" img="6" note="“玛格丽特阿姨的蔬果店！&lt;CR&gt;　总是摆放着好像很好吃的蔬菜，&lt;CR&gt;　看着看着就会肚子饿。&lt;CR&gt;　特别是早上刚采收的蔬菜更是美味哦！”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="锻冶屋" startEv="EVENT_QC08_LOG_020" img="7" note="“罗吉先生经营的锻冶屋。&lt;CR&gt;　因为有着加热熔化金属的火炉，&lt;CR&gt;　所以不管何时去都非常热，&lt;CR&gt;　热到我觉得自己都要融化了呢！”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="钟表店" startEv="EVENT_QC06_HAR_010" img="8" note="“哈罗尔的钟表店。&lt;CR&gt;　店里装饰了非常多的时钟哦。&lt;CR&gt;　……有这么多时钟的话，&lt;CR&gt;　约好的时间就绝对不能迟到了呢。”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="郊区" img="9" note="“基尔亨‧贝尔的的郊区。&lt;CR&gt;　虽然没有什么特别的东西，&lt;CR&gt;　但有座高台可一望城镇的景色。&lt;CR&gt;　我很喜欢从这里看到的景色哦。”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="旧市街" img="10" note="“旧市街。这座城镇刚兴建起来的时候，&lt;CR&gt;　几乎所有人都住在这里。&lt;CR&gt;　这里的一棵大树据说就是&lt;CR&gt;　城镇刚兴建时种的哦。”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="书店" startEv="EVENT_QC11_ELI_010" img="11" note="“爱莉婕姐姐的书店哦。&lt;CR&gt;　不管是适合小孩子看的图画书，还是那种&lt;CR&gt;　被书角打到会很痛，像是学者会看的书&lt;CR&gt;　都应有尽有，好像还有炼金术的书哦。”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="附近的森林" img="12" note="“镇后面的一座小森林。&lt;CR&gt;　因为大小很刚好，小孩子常在这里玩耍哦。&lt;CR&gt;　……而我很重要的人&lt;CR&gt;　就沉眠在这里的坟墓中。”" icon0="0" icon1="-1" icon2="-1" icon3="-1" permit="true"/>
+    <LibraryBuild name="备用栏位03" img="0" note="★备用字段０３暂定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryBuild name="备用栏位04" img="0" note="★備用欄位０４暫定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+    <LibraryBuild name="备用栏位05" img="0" note="★備用欄位０５暫定文字" icon0="-1" icon1="-1" icon2="-1" icon3="-1" permit="false"/>
+</Root>

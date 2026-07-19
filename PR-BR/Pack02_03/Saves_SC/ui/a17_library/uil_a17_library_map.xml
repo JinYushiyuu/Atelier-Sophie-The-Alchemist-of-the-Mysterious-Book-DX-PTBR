@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_node" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+		<node name="node_pointer" pos="81.00, 78.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<image name="mark00" style="gen_a17_library01_mark" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="21, 21">
+				<image name="mark00_1" style="gen_a17_library01_mark" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" mask_flag="true" alpha_blend="add" color="255.00, 255.00, 255.00, 128.00">
+					<anim_ctrl name="anim_ctrl" play="true" loop="true">
+						<bind_node node="." anim="anm_common_blink"/>
+					</anim_ctrl>
+				</image>
+			</image>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="node_map" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+		<image name="map" style="gen_a17_library04_worldmap" pos="13, -1, 0" size_wh="473, 288">
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer0" pos="236, 170, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer1" pos="383, 45, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer2" pos="182, 149, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer3" pos="299, 90, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer4" pos="215, 67, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer5" pos="130, 182, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer6" pos="80, 212, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer7" pos="165, 237, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer8" pos="165, 217, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer9" pos="275, 56, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer10" pos="111, 42, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer11" pos="282, 181, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer12" pos="325, 151, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer13" pos="231, 96, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer14" pos="182, 106, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer15" pos="111, 77, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer16" pos="283, 152, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer17" pos="201, 183, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer18" pos="352, 137, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer19" pos="388, 98, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer20" pos="150, 64, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer21" pos="339, 72, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer22" pos="307, 132, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer23" pos="152, 127, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer24" pos="387, 77, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer25" pos="368, 65, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer26" pos="80, 180, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer27" pos="348, 48, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer28" pos="326, 107, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer29" pos="278, 104, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer30" pos="387, 121, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer31" pos="307, 37, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer32" pos="80, 156, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer33" pos="219, 130, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer34" pos="373, 158, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer35" pos="166, 196, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer36" pos="81, 130, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer37" pos="181, 66, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer38" pos="318, 72, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer39" pos="82, 59, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="node_pointer" clone_child_tree="node_pointer" name="node_pointer40" pos="381.00, 246.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+		</image>
+	</node>
+</root>

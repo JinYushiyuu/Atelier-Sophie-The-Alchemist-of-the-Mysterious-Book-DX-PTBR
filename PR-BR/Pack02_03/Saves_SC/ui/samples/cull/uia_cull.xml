@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+	<anim name="anm_cull_rot">
+		<curve attr="rot">
+			<key time="0.0"		value="0, 0, 0, 0"/>
+			<key time="3.0"		value="0, 360, 0, 0"/>
+		</curve>
+	</anim>
+</root>
+

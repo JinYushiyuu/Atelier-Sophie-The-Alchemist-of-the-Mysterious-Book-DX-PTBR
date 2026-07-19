@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<command load_anim="Saves/ui/a17_mix/uia_a17_mix.xml"/>
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="false" visible="true">
+		<image name="chara_detail" style="gen_a17_mix05_result_bg" pos="927.00, 469.00, -0.00" size_wh="321, 114" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true">
+			<node name="Alc_lv" pos="67, 20, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text color="53.00, 19.00, 0.00, 255.00" pos="-28.00, 0.00, 0.00" align="left" text="炼金Lv" word_space="1.00" name="FIX_alclv" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text color="53.00, 19.00, 0.00, 255.00" pos="208.00, 0.00, 0.00" align="right" text="99" word_space="1.00" name="alclv" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="Next" pos="256, 22, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text color="53.00, 19.00, 0.00, 255.00" pos="-217.00, 37.00, 0.00" align="left" text="Next" word_space="1.00" name="FIX_next" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text color="53.00, 19.00, 0.00, 255.00" pos="19.00, 37.00, 0.00" text="9999" word_space="1.00" name="next" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+			</node>
+			<node name="GetExp" pos="239.00, 41.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+				<text color="53.00, 19.00, 0.00, 255.00" pos="-147.00, 33.00, -0.00" align="center" text="获得经验值" word_space="1.00" name="FIX_exp" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text color="53.00, 19.00, 0.00, 255.00" pos="39.00, 32.00, 0.00" align="right" text="+999" word_space="1.00" name="exp" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</image>
+		<node name="levelup" viewer_visible="true" visible="false" pos="220.00, 240.00, 0.00">
+			<image name="level_up" style="gen_a17_mix01_levelup" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="true"/>
+			<anim_ctrl name="level_up_anim" viewer_key_assign="2" start_visible="true">
+				<bind_node anim="anm_level_up" node="levelup"/>
+			</anim_ctrl>
+		</node>
+		<node name="levelup_pos" pos="640.00, 384.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+	</node>
+</root>

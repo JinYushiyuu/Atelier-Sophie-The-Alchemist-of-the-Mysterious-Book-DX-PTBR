@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_1" chara_tag="PAUL" name_tag="PAUL" voice_no1="9037" message1="真闲啊……怎么了？&lt;CR&gt;就算站在那里，我也不会端茶出来哦。"/>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_2" chara_tag="PAUL" name_tag="PAUL" voice_no1="9037" message1="太无聊了，我都快没精神了……&lt;CR&gt;没办法，来玩一下枪好了……"/>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_3" chara_tag="PAUL" name_tag="PAUL" voice_no1="9037" message1="反正又不会有客人上门。&lt;CR&gt;就算有也顶多是来调整时钟的。"/>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_4" chara_tag="PAUL" name_tag="PAUL" voice_no1="9037" message1="时钟这东西为什么会这么复杂啊。&lt;CR&gt;不管是做还是修都很累耶，真是的……"/>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_5" chara_tag="PAUL" name_tag="PAUL" voice_no1="9035" message1="是苏菲啊？你也要修理时钟吗？&lt;CR&gt;我可以特别算你便宜一点哦。"/>
+    <T01_TOWN_13_message message_data="PAUL_TOWN01_13_E" chara_tag="PAUL" name_tag="PAUL" voice_no1="9035" message1="嗯，出去转换一下心情好了……&lt;CR&gt;可是说不定会有客人上门……"/>
+    <T01_TOWN_13_message message_data="QC04_FRI_110_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="9040" message1="原来如此，我大概懂了。" next_message_tag="QC04_FRI_110_PAUL"/>
+    <T01_TOWN_13_message message_data="QC04_FRI_110_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="……是这样吗？"/>
+    <T01_TOWN_13_message message_data="QC01_MON_280_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9015" message1="平常真是谢谢了。" next_message_tag="QC01_MON_280_PAUL"/>
+    <T01_TOWN_13_message message_data="QC01_MON_280_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="毕竟那是工作。"/>
+    <T01_TOWN_13_message message_data="MS01_150_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="9046" message1="如何？有办法解决吗？" next_message_tag="MS01_150_PAUL"/>
+    <T01_TOWN_13_message message_data="MS01_150_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="确实有意思呢。"/>
+    <T01_TOWN_13_message message_data="MM09_010_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="9036" message1="结束了吧……"/>
+    <T01_TOWN_13_message message_data="TOWN_13_PAUL_EV1" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="嗯……那好吧。" quest_tag="MM04_220" voice_no2="9035" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_13_message message_data="TOWN_13_PAUL_EV2" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="嗯……那好吧。" quest_tag="QC05_COR_170" voice_no2="9035" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_13_message message_data="TOWN_13_PAUL_EV3" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="嗯……那好吧。" quest_tag="QC06_HAR_070" voice_no2="9035" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_13_message message_data="TOWN_13_PAUL_EV4" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="嗯……那好吧。" quest_tag="QC06_HAR_190" voice_no2="9035" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_13_message message_data="T01_TOWN_130" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="哇～好奇怪的时钟～"/>
+    <T01_TOWN_13_message message_data="T01_TOWN_131" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="哇～好奇怪的时钟～"/>
+    <T01_TOWN_13_message message_data="T01_TOWN_132" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="哇～好奇怪的时钟～"/>
+</Root>

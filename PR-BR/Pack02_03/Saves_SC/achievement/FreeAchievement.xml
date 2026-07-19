@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<FreeAchievement Name="就从能力所及的事情开始吧。" startEv="EVENT_MM00_OP2A_010" endEv="EVENT_MM02_C02A_020" WorkCond="ACHIEVEMENT_WORK_COND_FIELD_JUMP_COUNT" Prm1="5" envChangeType="ENV_CHANGE_NONE" envChangeShopTag="SHOP_NONE" envChangeAreaTag="FIELD_AREA_NONE"/>
+	<FreeAchievement Name="とりあえずジャンプ"/>
+</Root>

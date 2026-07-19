@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <QuestFlavorText no="1" text="这道课题可是用来测&lt;CR&gt;试你的实力，看看你究&lt;CR&gt;竟能不能胜任难度更高&lt;CR&gt;的委托。&lt;CR&gt;　请务必尝试挑战。&lt;CR&gt;　　　　（霍尔斯特）"/>
+    <QuestFlavorText no="2" text="为了测试你的实力所&lt;CR&gt;出的升级课题其之２。&lt;CR&gt;　只要你能完成这个课&lt;CR&gt;题，就能交给你更难的&lt;CR&gt;委托，报酬也比较高，&lt;CR&gt;请好好加油。&lt;CR&gt;　　　　（霍尔斯特）"/>
+    <QuestFlavorText no="3" text="……终于走到这一步&lt;CR&gt;了呢。&lt;CR&gt;　这也是最后一道用来&lt;CR&gt;测试你实力的升级课题&lt;CR&gt;了。&lt;CR&gt;　你究竟有没有能耐足&lt;CR&gt;以完成这个课题呢？&lt;CR&gt;　　（霍尔斯特）"/>
+    <QuestFlavorText no="4" text="我也算是个冒险者。&lt;CR&gt;身为一个冒险者，就是&lt;CR&gt;要到各处旅行呢。&lt;CR&gt;　不过我对自己的实力&lt;CR&gt;不太有自信，希望至少&lt;CR&gt;事前准备能做得确实点。"/>
+    <QuestFlavorText no="5" text="……我最近很在意那&lt;CR&gt;个人的事。一想到那个&lt;CR&gt;人，我就没办法念书，&lt;CR&gt;连晚上也睡不好。&lt;CR&gt;　所以我决定要送个礼&lt;CR&gt;物给那个人，有什么好&lt;CR&gt;东西吗？"/>
+    <QuestFlavorText no="6" text="我搭档好像在偷懒的&lt;CR&gt;样子，积了一堆东西没&lt;CR&gt;补。&lt;CR&gt;　店头贩卖的商品也因&lt;CR&gt;此不够了。&lt;CR&gt;　不好意思，有人可以&lt;CR&gt;帮忙进一下货吗？"/>
+    <QuestFlavorText no="7" text="我得到一个天大的好&lt;CR&gt;机会，是笔难得一见的&lt;CR&gt;大生意！&lt;CR&gt;　谈成我就能立刻变大&lt;CR&gt;商人……！&lt;CR&gt;　总之，我不想放过这&lt;CR&gt;个大好机会，希望求个&lt;CR&gt;好兆头！&lt;CR&gt;　再麻烦你咯！"/>
+    <QuestFlavorText no="8" text="我从以前在看童话故&lt;CR&gt;事的时候就会这么想，&lt;CR&gt;魔法使感觉很方便呢。&lt;CR&gt;　就算只有自己开心也&lt;CR&gt;好，我想当魔法使，请&lt;CR&gt;帮我收集那一类的东西&lt;CR&gt;吧。"/>
+    <QuestFlavorText no="9" text="站着工作就会觉得好&lt;CR&gt;热好热……&lt;CR&gt;　可以拿个什么能降温&lt;CR&gt;的东西来吗？&lt;CR&gt;　……还有，要是看到&lt;CR&gt;哪里有会令人感到燥热&lt;CR&gt;的家伙，请代我将他打&lt;CR&gt;倒。"/>
+    <QuestFlavorText no="10" text="我想亲自下厨，像飞&lt;CR&gt;鹰一样用料理紧紧抓住&lt;CR&gt;他的心。&lt;CR&gt;　美味的料理，最重要&lt;CR&gt;的是材料吧？&lt;CR&gt;　可以分我一点超棒的&lt;CR&gt;材料吗？"/>
+    <QuestFlavorText no="11" text="爱玩的儿子把衣服弄&lt;CR&gt;破了一个大洞……&lt;CR&gt;　我虽然不怎么擅长针&lt;CR&gt;线活，但想帮他把洞补&lt;CR&gt;一补。&lt;CR&gt;　可以帮我准备布跟线&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="12" text="田地……我的田地被&lt;CR&gt;魔物破坏了，一整个惨&lt;CR&gt;不忍睹。&lt;CR&gt;　有谁能够帮我啊……"/>
+    <QuestFlavorText no="13" text="妈妈有交代，所以我&lt;CR&gt;要去远方旅行了……&lt;CR&gt;　可是魔物非常可怕，&lt;CR&gt;实在是让人很不想去旅&lt;CR&gt;行。&lt;CR&gt;　有没有什么东西可以&lt;CR&gt;防范魔物呢？"/>
+    <QuestFlavorText no="14" text="任何时候看到修女都&lt;CR&gt;很漂亮呢……&lt;CR&gt;　我想送礼物给修女，&lt;CR&gt;把我指定的东西带过来&lt;CR&gt;吧。&lt;CR&gt;　附带一提，她喜欢的&lt;CR&gt;东西我可是已经确实查&lt;CR&gt;过咯！"/>
+    <QuestFlavorText no="15" text="虽说是水，但也有很&lt;CR&gt;多种类对吧？&lt;CR&gt;　我对口味很有兴趣，&lt;CR&gt;想喝喝看每种水。&lt;CR&gt;　期待你能带很多水回&lt;CR&gt;来！"/>
+    <QuestFlavorText no="16" text="我是靠调查遗迹为生&lt;CR&gt;的。&lt;CR&gt;　能请你到这附近的遗&lt;CR&gt;迹，把残留在里面的遗&lt;CR&gt;物拿给我吗？&lt;CR&gt;　另外，要是能顺便排&lt;CR&gt;除妨碍调查的魔物就太&lt;CR&gt;感激了。"/>
+    <QuestFlavorText no="17" text="我这么美丽，最配得&lt;CR&gt;上我的果然还是美丽的&lt;CR&gt;宝石。&lt;CR&gt;　可以帮我准备许多适&lt;CR&gt;合我的宝石吗？"/>
+    <QuestFlavorText no="18" text="虽然看图鉴学习是不&lt;CR&gt;错，不过还是会想亲眼&lt;CR&gt;看看实物呢。&lt;CR&gt;　我会拿我的零用钱答&lt;CR&gt;谢你，请让我看看“实&lt;CR&gt;物”吧。"/>
+    <QuestFlavorText no="19" text="呵呵，终于要跟他约&lt;CR&gt;会了！&lt;CR&gt;　……现在绝不能有任&lt;CR&gt;何差错……！&lt;CR&gt;　我不希望失败，能请&lt;CR&gt;你协助我做准备吗？"/>
+    <QuestFlavorText no="20" text="我跟朋友大吵一架。&lt;CR&gt;　我想跟他和好，所以&lt;CR&gt;想要拿他喜欢的东西给&lt;CR&gt;他，可是单凭我一个人&lt;CR&gt;准备不来……&lt;CR&gt;　不好意思，有谁可以&lt;CR&gt;帮我一下吗？"/>
+    <QuestFlavorText no="21" text="啊～压力一直累积！&lt;CR&gt;　最近在工作上有不好&lt;CR&gt;的事，所以一直都觉得&lt;CR&gt;很烦躁。&lt;CR&gt;　快把能够疗愈我的东&lt;CR&gt;西拿来！&lt;CR&gt;"/>
+    <QuestFlavorText no="22" text="为了让城镇有很多&lt;CR&gt;观光客造访，城镇&lt;CR&gt;附近的整洁果然还&lt;CR&gt;是很重要对吧！"/>
+    <QuestFlavorText no="23" text="最近日常用品之类的&lt;CR&gt;都好贵……到底是为什&lt;CR&gt;么啊？总之，要便宜&lt;CR&gt;的！再麻烦咯！"/>
+    <QuestFlavorText no="24" text="我想开家店，专门卖&lt;CR&gt;这地方相传的传统料&lt;CR&gt;理。材料就麻烦咯。"/>
+    <QuestFlavorText no="25" text="为了让这个城镇变得&lt;CR&gt;更有名，名产是绝对&lt;CR&gt;必要的！"/>
+    <QuestFlavorText no="26" text="我女儿在跟我要高价&lt;CR&gt;的东西了。麻烦你尽&lt;CR&gt;快帮我找咯。"/>
+    <QuestFlavorText no="27" text="虽然我是听我朋友说&lt;CR&gt;的，不过好像有很赞的&lt;CR&gt;东西耶！"/>
+    <QuestFlavorText no="28" text="跟以前相比，最近都&lt;CR&gt;没在动身体……能请&lt;CR&gt;你带个可以让我有精&lt;CR&gt;神的东西过来吗？"/>
+    <QuestFlavorText no="29" text="……你知道最近开量&lt;CR&gt;贩店的那个女生吗？&lt;CR&gt;她好像想让店变得更&lt;CR&gt;大的样子。&lt;CR&gt;那个……我会拿钱给&lt;CR&gt;你，你去那个女生的&lt;CR&gt;店里买点东西吧。"/>
+    <QuestFlavorText no="30" text="我的兴趣是钓鱼，你&lt;CR&gt;可以拿一些能当做钓&lt;CR&gt;饵的东西给我吗？"/>
+    <QuestFlavorText no="31" text="水晶球缺了一角，我&lt;CR&gt;想要刚好可以补那个&lt;CR&gt;洞的水晶片。"/>
+    <QuestFlavorText no="32" text="我想要高级食品。除&lt;CR&gt;了高级品外，我一概&lt;CR&gt;不认同哦。"/>
+    <QuestFlavorText no="33" text="在城镇附近看到不太&lt;CR&gt;妙的魔物。协助我扑&lt;CR&gt;灭吧。"/>
+    <QuestFlavorText no="34" text="蕾昂小姐真的很出色&lt;CR&gt;呢！&lt;CR&gt;　像我这种不起眼的女&lt;CR&gt;生，如果学她那样穿会&lt;CR&gt;不会看起来比较精明干&lt;CR&gt;练呀？&lt;CR&gt;　因此，要是能带美丽&lt;CR&gt;衣服给我的话，我会很&lt;CR&gt;高兴的。"/>
+    <QuestFlavorText no="35" text="家里过不久就要多个&lt;CR&gt;新成员了。&lt;CR&gt;　虽然还有点早，但我&lt;CR&gt;想买张新桌子给小孩子&lt;CR&gt;用。&lt;CR&gt;　可以协助我收集材料&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="36" text="我们家的小孩终于出&lt;CR&gt;生了。&lt;CR&gt;　我想要做个新玩具给&lt;CR&gt;他……&lt;CR&gt;　可以再麻烦你帮我收&lt;CR&gt;集材料吗？"/>
+    <QuestFlavorText no="37" text="好不容易做了一个令&lt;CR&gt;人开心兴奋的梦……&lt;CR&gt;　却在气氛正好的时候&lt;CR&gt;醒过来了！&lt;CR&gt;　我实在好在意那个梦&lt;CR&gt;的后续，请帮我准备能&lt;CR&gt;够再次做梦的东西。&lt;CR&gt;"/>
+    <QuestFlavorText no="38" text="虽然顺利看到那个梦&lt;CR&gt;的后续，但结局实在太&lt;CR&gt;烂了……&lt;CR&gt;　为什么最后会变成那&lt;CR&gt;样啊。&lt;CR&gt;　拜托你！请让那个梦&lt;CR&gt;从我的脑中消失得一干&lt;CR&gt;二净吧！"/>
+    <QuestFlavorText no="39" text="我自己说也有点怪，&lt;CR&gt;但我的头脑清楚，算是&lt;CR&gt;个天才。&lt;CR&gt;　可是，距离会被称为&lt;CR&gt;贤者的境界还很远。&lt;CR&gt;　因此，想请你帮我准&lt;CR&gt;备能学习先人智能的东&lt;CR&gt;西。"/>
+    <QuestFlavorText no="40" text="从地底深处现身的家伙们，他们的魔手已经如此逼近了。不巧的是，我的魔法系也已经衰弱，无法好好进行战斗。因此，为了击退他们，想请你暗中帮我准备一个东西。"/>
+    <QuestFlavorText no="41" text="虽然顺利击退他们，但我的魔法系修复也已经用尽了。不过他们因为害怕我们而开始撤退，现在正是击溃他们的大好时机，请助我一臂之力。"/>
+    <QuestFlavorText no="42" text="听说亚达雷特流行一&lt;CR&gt;种稀有服装。&lt;CR&gt;　以我们的观点来看，&lt;CR&gt;会觉得有些奇特……&lt;CR&gt;　我想实际穿穿看确认&lt;CR&gt;一下，能帮我准备衣服&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="43" text="之前请你帮我准备的&lt;CR&gt;那套衣服，那个……似&lt;CR&gt;乎跟我的感觉不太合。&lt;CR&gt;　重新打起精神，这次&lt;CR&gt;我想确认一下那边流行&lt;CR&gt;的食物。&lt;CR&gt;　能请你帮我准备吗？"/>
+    <QuestFlavorText no="44" text="亚达雷特的食物真的&lt;CR&gt;很好吃！&lt;CR&gt;　……想了很多之后，&lt;CR&gt;决定要去邻国旅行了。&lt;CR&gt;　能请你协助我做好旅&lt;CR&gt;行准备吗？"/>
+    <QuestFlavorText no="45" text="我朋友居然说海胆其&lt;CR&gt;实是种生物。&lt;CR&gt;　虽然应该不可能……&lt;CR&gt;但保险起见，我想确认&lt;CR&gt;一下。&lt;CR&gt;　因此，能请你帮我采&lt;CR&gt;集海胆吗？"/>
+    <QuestFlavorText no="46" text="听说在远离人群的地&lt;CR&gt;方有种相当稀有的花悄&lt;CR&gt;悄生长。&lt;CR&gt;　用那种花做成的花束&lt;CR&gt;一定会是相当出色的终&lt;CR&gt;级花束。&lt;CR&gt;　能请你务必将那种花&lt;CR&gt;分我一点吗？"/>
+    <QuestFlavorText no="47" text="这次我要跟那家伙一&lt;CR&gt;较高下，看是谁比较厉&lt;CR&gt;害！&lt;CR&gt;　谁先吃到酸死人的随&lt;CR&gt;性草莓谁就算输，是场&lt;CR&gt;相当严苛的比赛哦！&lt;CR&gt;　所以，请帮我们采集&lt;CR&gt;随兴草莓！"/>
+    <QuestFlavorText no="48" text="世界已经疲惫了。我最近开始这么觉得。近期一定会发生什么不得了的事。为了以备不时之需，我想至少先把食粮带好。"/>
+    <QuestFlavorText no="49" text="我朋友好像要去亚达&lt;CR&gt;雷特旅行。&lt;CR&gt;　……比任何人都还要&lt;CR&gt;家居派的那家伙，居然&lt;CR&gt;会外出旅行。&lt;CR&gt;　所以想送个最棒的护&lt;CR&gt;符给他饯行。&lt;CR&gt;　再麻烦你咯！"/>
+    <QuestFlavorText no="50" text="最近有不规矩的家伙&lt;CR&gt;破坏田地。&lt;CR&gt;　总之，我想先设个陷&lt;CR&gt;阱。&lt;CR&gt;　制作陷阱的材料&lt;CR&gt;……就麻烦你了！"/>
+    <QuestFlavorText no="51" text="我想用炸裂莓做派，&lt;CR&gt;但那个不太好处理，一&lt;CR&gt;下子就会爆开呢。&lt;CR&gt;　就算有些会浪费掉也&lt;CR&gt;没关系，能请你尽量带&lt;CR&gt;多一点过来吗？"/>
+    <QuestFlavorText no="52" text="之前做的炸裂莓派大&lt;CR&gt;获好评呢。&lt;CR&gt;　我又想用些有点不太&lt;CR&gt;一样的材料做点心。&lt;CR&gt;　我想想……这次用夜&lt;CR&gt;光水之类的好像不错。&lt;CR&gt;　能帮我准备吗？"/>
+    <QuestFlavorText no="53" text="做了夜光水冻以后，&lt;CR&gt;又再度获得好评了！&lt;CR&gt;　可是……我想做的是&lt;CR&gt;更不一样……真正好吃&lt;CR&gt;的点心。&lt;CR&gt;　因此，能请你再一次&lt;CR&gt;协助我吗？"/>
+    <QuestFlavorText no="54" text="染色真是深奥。&lt;CR&gt;　即使用了看起来颜色&lt;CR&gt;相同的素材，但完成时&lt;CR&gt;却变成了完全不同的颜&lt;CR&gt;色。&lt;CR&gt;　我想尝试一些素材，&lt;CR&gt;能请你帮我准备吗？"/>
+    <QuestFlavorText no="55" text="拿到了自太古地层挖&lt;CR&gt;掘出来的古文书。&lt;CR&gt;　可是上面的文章因为&lt;CR&gt;长年的污垢看不清楚。&lt;CR&gt;　我想在不伤到书的状&lt;CR&gt;态下清理，请准备适合&lt;CR&gt;的布。"/>
+    <QuestFlavorText no="56" text="虽然古文书上的污垢&lt;CR&gt;清掉了，却是我没看过&lt;CR&gt;的文字体系，无法理解&lt;CR&gt;内容。&lt;CR&gt;　为了解读这篇文章，&lt;CR&gt;能请你帮我找找可用的&lt;CR&gt;资料吗？"/>
+    <QuestFlavorText no="57" text="解读完古文书，内容&lt;CR&gt;似乎是调合万能药的方&lt;CR&gt;法。&lt;CR&gt;　我想确认是不是真的&lt;CR&gt;是万能药。&lt;CR&gt;　想请你分一点调合药&lt;CR&gt;的材料给我。"/>
+    <QuestFlavorText no="58" text="其实我想做点小尝试&lt;CR&gt;……&lt;CR&gt;　有哪位可以帮我准备&lt;CR&gt;数种不同的植物吗？&lt;CR&gt;　　　　　（摩妮卡）"/>
+    <QuestFlavorText no="59" text="想请你准备好吃的点&lt;CR&gt;心。&lt;CR&gt;　能的话，越多越好。&lt;CR&gt;　……并不是我想要吃&lt;CR&gt;的，是我朋友想吃。&lt;CR&gt;　　　　　（摩妮卡）"/>
+    <QuestFlavorText no="60" text="这次我想去朋友家打&lt;CR&gt;扫……&lt;CR&gt;　那里似乎很脏，我想&lt;CR&gt;要做好万全准备。&lt;CR&gt;　可以请你帮我准备有&lt;CR&gt;助于打扫的东西吗？&lt;CR&gt;　　　　　（摩妮卡）"/>
+    <QuestFlavorText no="61" text="我实在是饿到没什么&lt;CR&gt;精神。&lt;CR&gt;　带些可以让我变得有&lt;CR&gt;精神的好吃东西来吧！&lt;CR&gt;　　　　　（奥斯卡）"/>
+    <QuestFlavorText no="62" text="有群不规矩的家伙在&lt;CR&gt;妨碍我观察植物！&lt;CR&gt;　谁来帮我修理一下他&lt;CR&gt;们吧！&lt;CR&gt;　　　　　（奥斯卡）"/>
+    <QuestFlavorText no="63" text="我想制作任何地方都&lt;CR&gt;没在卖的厉害肥料。&lt;CR&gt;　把看起来还不错的土&lt;CR&gt;跟营养应该很丰富的东&lt;CR&gt;西拿来给我吧！&lt;CR&gt;　　　　　（奥斯卡）"/>
+    <QuestFlavorText no="64" text="我身在教会，时时都&lt;CR&gt;需要祈祷……但祈祷所&lt;CR&gt;需的道具用完了。&lt;CR&gt;　有谁能分我一些必要&lt;CR&gt;的道具吗？&lt;CR&gt;　　　　　（朱利欧）"/>
+    <QuestFlavorText no="65" text="我喜欢在旅行的地方&lt;CR&gt;品尝各式各样的料理。&lt;CR&gt;　我也想试试这个城镇&lt;CR&gt;上的口味，能请你分一&lt;CR&gt;些料理给我吗？&lt;CR&gt;　　　　　（朱利欧）"/>
+    <QuestFlavorText no="66" text="教会来了指示，说是&lt;CR&gt;希望能收集一下与精灵&lt;CR&gt;有关的东西。&lt;CR&gt;　不过，我实在想不到&lt;CR&gt;有哪些……&lt;CR&gt;　有哪位可以协助我一&lt;CR&gt;下吗？&lt;CR&gt;　　　　　（朱利欧）"/>
+    <QuestFlavorText no="67" text="旅行前的准备是不可&lt;CR&gt;或缺的。&lt;CR&gt;　因此，想请你帮我准&lt;CR&gt;备一些药。&lt;CR&gt;　　　　　（弗利兹）"/>
+    <QuestFlavorText no="68" text="我想帮人偶装饰得更&lt;CR&gt;加美丽。&lt;CR&gt;　可以请你带一些点缀&lt;CR&gt;人偶的东西给我吗？&lt;CR&gt;　　　　　（弗利兹）"/>
+    <QuestFlavorText no="69" text="要做出好人偶就需要&lt;CR&gt;顶级的材料。&lt;CR&gt;　谁都好，可以帮我准&lt;CR&gt;备人偶的材料吗？&lt;CR&gt;　　　　　（弗利兹）"/>
+    <QuestFlavorText no="70" text="为了让店的生意变得&lt;CR&gt;更好，我想摆一些有点&lt;CR&gt;奇特的商品。&lt;CR&gt;　有哪位可以帮我带些&lt;CR&gt;足以成为店内名产的东&lt;CR&gt;西来吗？&lt;CR&gt;　　　（柯尔涅莉雅）"/>
+    <QuestFlavorText no="71" text="我喜欢噗嫩噗嫩的东&lt;CR&gt;西，所以想要噗嫩噗嫩&lt;CR&gt;的东西。&lt;CR&gt;　请拿噗嫩噗嫩的东西&lt;CR&gt;给我。&lt;CR&gt;　　　（柯尔涅莉雅）"/>
+    <QuestFlavorText no="72" text="为了长大，我想喝各&lt;CR&gt;种牛奶。&lt;CR&gt;　我会答谢你的，可以&lt;CR&gt;帮我准备吗？&lt;CR&gt;　　　（柯尔涅莉雅）"/>
+    <QuestFlavorText no="73" text="我想要能填入子弹的&lt;CR&gt;火药。&lt;CR&gt;　拿来给我。&lt;CR&gt;　　　　　（哈罗尔）"/>
+    <QuestFlavorText no="74" text="我想要可以拿来配酒&lt;CR&gt;的下酒菜。&lt;CR&gt;　如果还有醒酒用的水&lt;CR&gt;就太好了。&lt;CR&gt;　　　　　（哈罗尔）"/>
+    <QuestFlavorText no="75" text="修理时钟的材料不够&lt;CR&gt;了。&lt;CR&gt;　我会答谢你的，帮我&lt;CR&gt;带过来。&lt;CR&gt;　　　　　（哈罗尔）"/>
+    <QuestFlavorText no="76" text="我想知道这个城镇现&lt;CR&gt;在流行怎样的衣服。&lt;CR&gt;　可以请你带几件很有&lt;CR&gt;这个城镇风格的衣服给&lt;CR&gt;我吗？&lt;CR&gt;　　　　　　（蕾昂）"/>
+    <QuestFlavorText no="77" text="裁缝用的线不够了。&lt;CR&gt;　可以请你尽量找美丽&lt;CR&gt;的线给我吗？&lt;CR&gt;　　　　　　（蕾昂）"/>
+    <QuestFlavorText no="78" text="好想创作。&lt;CR&gt;　感觉现在一定可以做&lt;CR&gt;出很多很棒的衣服。&lt;CR&gt;　想请你帮我准备许多&lt;CR&gt;适合作为材料的美丽的&lt;CR&gt;布。&lt;CR&gt;　　　　　　（蕾昂）"/>
+    <QuestFlavorText no="79" text="最近炉子的火力不太&lt;CR&gt;够。&lt;CR&gt;　可能是因为燃料不好&lt;CR&gt;吧，可以请你帮我准备&lt;CR&gt;良质的燃料吗？&lt;CR&gt;　　　　　　（罗吉）"/>
+    <QuestFlavorText no="80" text="我想要用来制作武器&lt;CR&gt;的矿石。&lt;CR&gt;　订单太多了，材料一&lt;CR&gt;下子就不够用……&lt;CR&gt;　再麻烦了。&lt;CR&gt;　　　　　　（罗吉）"/>
+    <QuestFlavorText no="81" text="我想试个东西，想请&lt;CR&gt;你准备几个武器。&lt;CR&gt;　再麻烦咯。&lt;CR&gt;　　　　　　（罗吉）"/>
+    <QuestFlavorText no="82" text="我会为小孩子们准备&lt;CR&gt;点心～&lt;CR&gt;　麻烦要准备超级好吃&lt;CR&gt;的点心哦～&lt;CR&gt;　　　　　（帕梅拉）"/>
+    <QuestFlavorText no="83" text="我想要能当作晒衣架&lt;CR&gt;的长东西～&lt;CR&gt;　我想想……&lt;CR&gt;　像是长枪或杖之类的&lt;CR&gt;应该很刚好～&lt;CR&gt;　有人能够帮我带过来&lt;CR&gt;吗～？&lt;CR&gt;　　　　　（帕梅拉）"/>
+    <QuestFlavorText no="84" text="理由我不能说，但想&lt;CR&gt;要一个东西～&lt;CR&gt;　可以请你偷偷带来给&lt;CR&gt;我吗～？&lt;CR&gt;　　　　　（帕梅拉）"/>
+    <QuestFlavorText no="85" text="我想大大地装饰一下&lt;CR&gt;店面。&lt;CR&gt;　麻烦帮我带几个美丽&lt;CR&gt;东西过来吧！&lt;CR&gt;　　　　　　（缇丝）"/>
+    <QuestFlavorText no="86" text="想要可爱的装饰品，&lt;CR&gt;但是店家卖的又太贵，&lt;CR&gt;我买不下去……&lt;CR&gt;　旧的也没关系，有谁&lt;CR&gt;可以拿来给我吗？&lt;CR&gt;　　　　　　（缇丝）"/>
+    <QuestFlavorText no="87" text="想要新衣服。&lt;CR&gt;　虽然给不了多少钱，&lt;CR&gt;但要是可以给我很棒的&lt;CR&gt;衣服我会很高兴的！&lt;CR&gt;　　　　　　（缇丝）"/>
+    <QuestFlavorText no="88" text="我有在想要写本书，&lt;CR&gt;机会难得，想试试看各&lt;CR&gt;种纸写起来的感觉。&lt;CR&gt;　可以请你帮我准备好&lt;CR&gt;写的纸吗？&lt;CR&gt;　　　　　（爱莉婕）"/>
+    <QuestFlavorText no="89" text="之前进了某本书，但&lt;CR&gt;那个好像是魔物，结果&lt;CR&gt;就飞到外面去了。&lt;CR&gt;　不好意思，有谁可以&lt;CR&gt;替我扑灭吗？&lt;CR&gt;　　　　　（爱莉婕）"/>
+    <QuestFlavorText no="90" text="我想知道一些在一般&lt;CR&gt;书上得不到的知识。&lt;CR&gt;　因此，可以请你准备&lt;CR&gt;几个神秘道具吗？&lt;CR&gt;　　　　　（爱莉婕）&lt;CR&gt;"/>
+    <QuestFlavorText no="91" text="平常会送蔬菜过来的&lt;CR&gt;商人好像受伤了。&lt;CR&gt;　有人可以代替商人送&lt;CR&gt;蔬菜过来吗？&lt;CR&gt;　　　　（玛格丽特）"/>
+    <QuestFlavorText no="92" text="最近好像有不规矩的&lt;CR&gt;魔物在妨碍进货。&lt;CR&gt;　有谁能帮忙扑灭吗？&lt;CR&gt;　　　　（玛格丽特）"/>
+    <QuestFlavorText no="93" text="我想要试试几种营养&lt;CR&gt;剂。&lt;CR&gt;　我想知道用在蔬菜上&lt;CR&gt;会长成怎样。&lt;CR&gt;　如果可以帮我准备就&lt;CR&gt;太好了。&lt;CR&gt;　　　　（玛格丽特）"/>
+    <QuestFlavorText no="94" text="为了在店里卖更好喝&lt;CR&gt;的茶，我想说各方面研&lt;CR&gt;究看看。&lt;CR&gt;　因此，想请你准备良&lt;CR&gt;质的茶的材料……&lt;CR&gt;　　　　（霍尔斯特）"/>
+    <QuestFlavorText no="95" text="最近好像有不少客人&lt;CR&gt;想吃些简朴的料理。&lt;CR&gt;　说是朴素的料理……&lt;CR&gt;也不太容易，我想做些&lt;CR&gt;尝试，能请你调度一些&lt;CR&gt;材料吗？&lt;CR&gt;　　　　（霍尔斯特）"/>
+    <QuestFlavorText no="96" text="我想做些有点不同的&lt;CR&gt;料理。&lt;CR&gt;　因此，有在思考使用&lt;CR&gt;稀有的材料来做……&lt;CR&gt;　有哪位可以替我准备&lt;CR&gt;吗？&lt;CR&gt;　　　　（霍尔斯特）"/>
+    <QuestFlavorText no="97" text="可恶……噗尼！&lt;CR&gt;　居然一大群围攻我一&lt;CR&gt;个！&lt;CR&gt;　去打倒那些可恨的噗&lt;CR&gt;尼！"/>
+    <QuestFlavorText no="98" text="我在城镇外看到很不&lt;CR&gt;妙的噗尼！&lt;CR&gt;　不只有脸，连整个身&lt;CR&gt;体都是红的！&lt;CR&gt;　……那一定是在对人&lt;CR&gt;类生气吧。&lt;CR&gt;　在传出灾情前去打倒&lt;CR&gt;他们吧！"/>
+    <QuestFlavorText no="99" text="……红噗尼的事是我&lt;CR&gt;太贸然了……&lt;CR&gt;　但这次我看到了令人&lt;CR&gt;看不出是不是噗尼的&lt;CR&gt;噗尼！&lt;CR&gt;　在纯洁的冒险者误以&lt;CR&gt;为是普通噗尼受伤前，&lt;CR&gt;请去扑灭他们！"/>
+    <QuestFlavorText no="100" text="发现了不错的钓场，&lt;CR&gt;但是那些岛鱼实在太吵&lt;CR&gt;了，让人无法好好专心&lt;CR&gt;钓鱼。&lt;CR&gt;　可以请你去打倒几只&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="101" text="受欢迎的男人还真辛&lt;CR&gt;苦啊。&lt;CR&gt;　前阵子还被腥红女士&lt;CR&gt;给包围示爱。&lt;CR&gt;　……之类的，再这样&lt;CR&gt;下去我就没命了。&lt;CR&gt;　在我被害死前，请去&lt;CR&gt;打倒她们吧！"/>
+    <QuestFlavorText no="102" text="唔唔……就连现在回&lt;CR&gt;想起来，心脏都还……&lt;CR&gt;　之前在森林中被鬼魂&lt;CR&gt;威胁。&lt;CR&gt;　老是被欺负觉得很不&lt;CR&gt;甘心，谁来帮我去修理&lt;CR&gt;他们吧。"/>
+    <QuestFlavorText no="103" text="小恶魔们好像在举行&lt;CR&gt;可疑的仪式。&lt;CR&gt;　虽然不晓得他们想做&lt;CR&gt;什么，但感觉很不好，&lt;CR&gt;能请你去打倒他们吗？"/>
+    <QuestFlavorText no="104" text="小恶魔们之所以举行&lt;CR&gt;仪式，好像是为了要召&lt;CR&gt;唤很厉害的恶魔哦！&lt;CR&gt;　恶魔们都飞到各地去&lt;CR&gt;了。&lt;CR&gt;　可以请你……打倒他&lt;CR&gt;们召唤出来的恶魔吗？"/>
+    <QuestFlavorText no="105" text="……为了要成为有钱&lt;CR&gt;人，我打算把感觉很有&lt;CR&gt;钱的家伙们给踹下去。&lt;CR&gt;　……就先从这个闪闪&lt;CR&gt;发光在向人炫耀的金噗&lt;CR&gt;尼开始。&lt;CR&gt;　呵呵呵呵……麻烦你&lt;CR&gt;咯……"/>
+    <QuestFlavorText no="106" text="……我要成为有钱人&lt;CR&gt;的计划还在进行哦。&lt;CR&gt;　下一个是巫妖。&lt;CR&gt;　是个从名字就在炫耀&lt;CR&gt;自己有钱的可恨家伙。&lt;CR&gt;　……咦？找碴？……&lt;CR&gt;谁管他啊。"/>
+    <QuestFlavorText no="107" text="……我的有钱人计划&lt;CR&gt;也到最终阶段了。&lt;CR&gt;　只要再把大巫妖这家&lt;CR&gt;伙赶下来，竞争率应该&lt;CR&gt;就会降低不少。&lt;CR&gt;　……又在找碴？……&lt;CR&gt;总、总之只要打倒他就&lt;CR&gt;行了！"/>
+    <QuestFlavorText no="108" text="最近森林不平静。&lt;CR&gt;　那也是因为很像植物&lt;CR&gt;的魔物在作乱造成的。&lt;CR&gt;　实在是很烦人，可以&lt;CR&gt;请你去打倒他们吗？"/>
+    <QuestFlavorText no="109" text="以前我曾在这里发出&lt;CR&gt;委托，请你去打倒植物&lt;CR&gt;魔物。&lt;CR&gt;　在那之后，森林好像&lt;CR&gt;生气了。&lt;CR&gt;　植物魔物又变得比之&lt;CR&gt;前更多了。&lt;CR&gt;　能请你再去打倒他们&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="110" text="总觉得位于郊区的树&lt;CR&gt;木最近好像没有什么精&lt;CR&gt;神。&lt;CR&gt;　毕竟是一直守护城镇&lt;CR&gt;的树木，我不忍看它们&lt;CR&gt;枯萎。&lt;CR&gt;　可以请你带营养剂过&lt;CR&gt;来吗？"/>
+    <QuestFlavorText no="111" text="我是听传闻知道的，&lt;CR&gt;好像长出了大到不得了&lt;CR&gt;的大魔法草耶！？&lt;CR&gt;　实在很想亲眼看看，&lt;CR&gt;能请你采集拿过来吗！"/>
+    <QuestFlavorText no="112" text="不小心花太多钱了，&lt;CR&gt;得节制一点才行呢。&lt;CR&gt;　但想吃好吃的东西。&lt;CR&gt;　所以，我想要传闻中&lt;CR&gt;便宜又好吃的麦子。&lt;CR&gt;　你可以采集给我吗？"/>
+    <QuestFlavorText no="113" text="听说有非常小的蛋。&lt;CR&gt;　我很好奇它究竟有多&lt;CR&gt;小，能请你采集几个给&lt;CR&gt;我吗？"/>
+    <QuestFlavorText no="114" text="我有事要去城镇外，&lt;CR&gt;可是如果出现龙不是很&lt;CR&gt;可怕吗？&lt;CR&gt;　听说龙有讨厌的花，&lt;CR&gt;能请你采集给我吗？"/>
+    <QuestFlavorText no="115" text="听说会刺绣的人会受&lt;CR&gt;欢迎……所以我想要开&lt;CR&gt;始刺绣。&lt;CR&gt;　既然要做，不就会想&lt;CR&gt;拿漂亮的金丝来试吗？&lt;CR&gt;　因此，可以请你带金&lt;CR&gt;丝给我吗？"/>
+    <QuestFlavorText no="116" text="有一个学说……说这&lt;CR&gt;地方过去曾是海。&lt;CR&gt;　为了证明这个说法，&lt;CR&gt;可以请你带海底泥给我&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="117" text="好想抓住星星，但我&lt;CR&gt;已经不是三岁小孩了，&lt;CR&gt;知道那是不可能的事。&lt;CR&gt;　但希望至少手边能有&lt;CR&gt;星星粉末……&lt;CR&gt;　有谁能分我一点呢？"/>
+    <QuestFlavorText no="118" text="好像有个结晶，据说&lt;CR&gt;有受过精灵祝福，或是&lt;CR&gt;是精灵遗忘的东西呢。&lt;CR&gt;　实在是让人想亲眼看&lt;CR&gt;看，你愿意为了我采集&lt;CR&gt;过来吗？"/>
+    <QuestFlavorText no="119" text="不是有个让众多噗尼&lt;CR&gt;服从的噗尼头目吗？&lt;CR&gt;　要是放任那种家伙不&lt;CR&gt;管，一定会有大麻烦发&lt;CR&gt;生。&lt;CR&gt;　请你去打倒那个噗尼&lt;CR&gt;……司令噗尼！"/>
+    <QuestFlavorText no="120" text="城镇附近有蓝噗尼，&lt;CR&gt;观光客应该也不方便来&lt;CR&gt;城镇吧。&lt;CR&gt;　为了城镇的发展，可&lt;CR&gt;以请你去将蓝噗尼打倒&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="121" text="我家孩子最近好像还&lt;CR&gt;跑到城镇外玩的样子。&lt;CR&gt;　有精神虽然是好事，&lt;CR&gt;但还是会有点担心，在&lt;CR&gt;我家小孩受伤前，可以&lt;CR&gt;请你先打倒蓝噗尼吗？"/>
+    <QuestFlavorText no="122" text="DUMMY"/>
+    <QuestFlavorText no="123" text="DUMMY"/>
+    <QuestFlavorText no="124" text="绿噗尼那家伙！&lt;CR&gt;　在地上滚来滚去，妨&lt;CR&gt;碍我运送货物！&lt;CR&gt;　这样下去我没办法工&lt;CR&gt;作，请你打倒那个碍事&lt;CR&gt;的家伙！"/>
+    <QuestFlavorText no="125" text="DUMMY"/>
+    <QuestFlavorText no="126" text="听朋友说有可怕的妖&lt;CR&gt;怪……&lt;CR&gt;　自此之后我晚上就睡&lt;CR&gt;不着了……&lt;CR&gt;　拜托你，打倒妖怪让&lt;CR&gt;我安心吧！"/>
+    <QuestFlavorText no="127" text="DUMMY"/>
+    <QuestFlavorText no="128" text="在森林里有种会发出&lt;CR&gt;惊人叫声的魔物。&lt;CR&gt;　他们还会到处走动，&lt;CR&gt;实在是吵死人了。&lt;CR&gt;　在我耳朵被搞坏前，&lt;CR&gt;请你去打倒他们吧。"/>
+    <QuestFlavorText no="129" text="DUMMY"/>
+    <QuestFlavorText no="130" text="噗尼中有个红色的家&lt;CR&gt;伙有点危险。&lt;CR&gt;　因为他比一般的噗尼&lt;CR&gt;还要好战。&lt;CR&gt;　因此，在有人受伤之&lt;CR&gt;前，麻烦你去扑灭他。"/>
+    <QuestFlavorText no="131" text="DUMMY"/>
+    <QuestFlavorText no="132" text="之前遇到很可爱的魔&lt;CR&gt;物哦。&lt;CR&gt;　但毕竟还是魔物……&lt;CR&gt;　我一时大意接近就被&lt;CR&gt;他打了。&lt;CR&gt;　……虽然痛心，但请&lt;CR&gt;去打倒他吧！"/>
+    <QuestFlavorText no="133" text="DUMMY"/>
+    <QuestFlavorText no="134" text="DUMMY"/>
+    <QuestFlavorText no="135" text="DUMMY"/>
+    <QuestFlavorText no="136" text="有群鸟把我种在田里&lt;CR&gt;的种子给吃掉了。&lt;CR&gt;　可以请你去扑灭那些&lt;CR&gt;害鸟吗？"/>
+    <QuestFlavorText no="137" text="DUMMY"/>
+    <QuestFlavorText no="138" text="啊唔唔……&lt;CR&gt;　虽然我不是很清楚，&lt;CR&gt;但我好像被某种妖怪盯&lt;CR&gt;上了……&lt;CR&gt;　拜托你，请打倒那个&lt;CR&gt;妖怪吧……"/>
+    <QuestFlavorText no="139" text="DUMMY"/>
+    <QuestFlavorText no="140" text="不是有个金光闪闪的&lt;CR&gt;噗尼吗？&lt;CR&gt;　……不过是个噗尼还&lt;CR&gt;这么嚣张！&lt;CR&gt;　谁去给那家伙一点教&lt;CR&gt;训！"/>
+    <QuestFlavorText no="141" text="DUMMY"/>
+    <QuestFlavorText no="142" text="有种叫做毒树根的魔&lt;CR&gt;物，他的叶子具有随煎&lt;CR&gt;煮时间不同会变成毒或&lt;CR&gt;药的性质。&lt;CR&gt;　我需要用到，能请你&lt;CR&gt;收集几片叶子给我吗？"/>
+    <QuestFlavorText no="143" text="DUMMY"/>
+    <QuestFlavorText no="144" text="最近经常发生奇美拉&lt;CR&gt;袭击旅行者的事件。&lt;CR&gt;　为了确保大众的旅行&lt;CR&gt;安全，想请你打倒几只&lt;CR&gt;奇美拉。"/>
+    <QuestFlavorText no="145" text="DUMMY"/>
+    <QuestFlavorText no="146" text="面对使徒绝对不能大&lt;CR&gt;意。&lt;CR&gt;　那家伙个头小却带有&lt;CR&gt;毒爪。&lt;CR&gt;　最近数量好像稍微增&lt;CR&gt;加了，请你在这里驱逐&lt;CR&gt;几只吧。"/>
+    <QuestFlavorText no="147" text="DUMMY"/>
+    <QuestFlavorText no="148" text="好像有种被称为皇帝&lt;CR&gt;的鸟群。&lt;CR&gt;　……不就鸟吗！&lt;CR&gt;　就算是开玩笑也没人&lt;CR&gt;这样称呼过我耶！……&lt;CR&gt;咳哼。&lt;CR&gt;　毕竟那似乎是大型的&lt;CR&gt;强力魔物，哪个人去削&lt;CR&gt;减一下他们的数量吧。"/>
+    <QuestFlavorText no="149" text="DUMMY"/>
+    <QuestFlavorText no="150" text="岛鱼不管是陆地或海&lt;CR&gt;洋都能生存。&lt;CR&gt;　虽然他们并不好战，&lt;CR&gt;但体积大，偶尔会妨碍&lt;CR&gt;到运送货物。&lt;CR&gt;　虽不忍心，但能请你&lt;CR&gt;稍微削减一下他们的数&lt;CR&gt;量吗？"/>
+    <QuestFlavorText no="151" text="DUMMY"/>
+    <QuestFlavorText no="152" text="出、出现了！蠢蠢欲&lt;CR&gt;动的黑色家伙……黑噗&lt;CR&gt;尼！&lt;CR&gt;　要、要是那种东西出&lt;CR&gt;现在房里……真是令人&lt;CR&gt;颤抖啊！&lt;CR&gt;　哪个人快去打倒他们&lt;CR&gt;吧！"/>
+    <QuestFlavorText no="153" text="DUMMY"/>
+    <QuestFlavorText no="154" text="之前有个动作相当绅&lt;CR&gt;士的妖怪哦。&lt;CR&gt;　虽然后来被他舔遍全&lt;CR&gt;身，最后还被揍了一顿&lt;CR&gt;就是。&lt;CR&gt;　请绅士地打倒那个打&lt;CR&gt;着绅士名义招摇撞骗的&lt;CR&gt;家伙吧！"/>
+    <QuestFlavorText no="155" text="DUMMY"/>
+    <QuestFlavorText no="156" text="……希望只是我多心&lt;CR&gt;啦，我好像看到会动的&lt;CR&gt;骸骨。请你去调查一下&lt;CR&gt;吧。&lt;CR&gt;　万一不是我多心……&lt;CR&gt;就请你打倒那家伙吧！"/>
+    <QuestFlavorText no="157" text="DUMMY"/>
+    <QuestFlavorText no="158" text="DUMMY"/>
+    <QuestFlavorText no="159" text="DUMMY"/>
+    <QuestFlavorText no="160" text="听说有种叫花妖的魔&lt;CR&gt;物，全身都是毒，光是&lt;CR&gt;碰到就很危险呢～&lt;CR&gt;　毕竟那样实在太危险&lt;CR&gt;了，可以请你去打倒他&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="161" text="DUMMY"/>
+    <QuestFlavorText no="162" text="不行！&lt;CR&gt;　那个叫闪电的魔物速&lt;CR&gt;度太快了，我完全不认&lt;CR&gt;为自己能赢过他！&lt;CR&gt;　有谁对自己速度有自&lt;CR&gt;信，去打倒那家伙吧。&lt;CR&gt;"/>
+    <QuestFlavorText no="163" text="DUMMY"/>
+    <QuestFlavorText no="164" text="我被一只有巨大角&lt;CR&gt;的鱼袭击了！&lt;CR&gt;　还好被袭击的是我，&lt;CR&gt;勉强闪开了，要是一般&lt;CR&gt;的冒险者可是会受重伤&lt;CR&gt;哦！&lt;CR&gt;　能请对实力有自信的&lt;CR&gt;人去狩猎那只魔物吗？"/>
+    <QuestFlavorText no="165" text="DUMMY"/>
+    <QuestFlavorText no="166" text="DUMMY"/>
+    <QuestFlavorText no="167" text="DUMMY"/>
+    <QuestFlavorText no="168" text="唔唔……不知道为什&lt;CR&gt;么被小恶魔缠上了……&lt;CR&gt;　我不记得曾对他做过&lt;CR&gt;什么啊……&lt;CR&gt;　在被他诅咒前，能够&lt;CR&gt;请你帮我扑灭那个魔物&lt;CR&gt;吗……？"/>
+    <QuestFlavorText no="169" text="DUMMY"/>
+    <QuestFlavorText no="170" text="剑爪鸦那家伙的脚爪&lt;CR&gt;就像刀刃一样，连铠甲&lt;CR&gt;都能划破。&lt;CR&gt;　最近那些家伙的数量&lt;CR&gt;增加了。&lt;CR&gt;　想请你帮忙协助扑灭&lt;CR&gt;他们。"/>
+    <QuestFlavorText no="171" text="DUMMY"/>
+    <QuestFlavorText no="172" text="火焰恶魔这种魔物不&lt;CR&gt;仅外观令人燥热，连行&lt;CR&gt;动也是。&lt;CR&gt;　他的存在本身就让人&lt;CR&gt;燥热到不行。&lt;CR&gt;　……我很容易出汗，&lt;CR&gt;所以无法忍受那家伙。&lt;CR&gt;　有谁能在我出现脱水&lt;CR&gt;症状前打倒他吗……！"/>
+    <QuestFlavorText no="173" text="DUMMY"/>
+    <QuestFlavorText no="174" text="唔唔……最近总觉得&lt;CR&gt;有人在跟踪我……&lt;CR&gt;　问了熟人说可能是名&lt;CR&gt;为黑影的魔物做的。&lt;CR&gt;　不好意思，能请你去&lt;CR&gt;打倒黑影吗？"/>
+    <QuestFlavorText no="175" text="DUMMY"/>
+    <QuestFlavorText no="176" text="DUMMY"/>
+    <QuestFlavorText no="177" text="DUMMY"/>
+    <QuestFlavorText no="178" text="爷爷说他以前看过黑&lt;CR&gt;色的妖怪。&lt;CR&gt;　那东西真的存在吗？&lt;CR&gt;　……如果真的存在，&lt;CR&gt;因为感觉很可怕，还请&lt;CR&gt;你要打倒他哦。&lt;CR&gt;　拜托了！"/>
+    <QuestFlavorText no="179" text="DUMMY"/>
+    <QuestFlavorText no="180" text="从金木树上采下来的&lt;CR&gt;叶子有很香的味道，可&lt;CR&gt;以用来做成香水。&lt;CR&gt;　为了准备叶子，想请&lt;CR&gt;你去狩猎魔物……"/>
+    <QuestFlavorText no="181" text="DUMMY"/>
+    <QuestFlavorText no="182" text="名为古斯塔夫的鸟不&lt;CR&gt;但体型大又相当有力。&lt;CR&gt;　听说就连人类都能一&lt;CR&gt;把紧紧抓住。&lt;CR&gt;　这么危险的家伙不能&lt;CR&gt;坐视不管。&lt;CR&gt;　对自己实力有自信的&lt;CR&gt;家伙！讨伐就麻烦咯！"/>
+    <QuestFlavorText no="183" text="DUMMY"/>
+    <QuestFlavorText no="184" text="利牙们盯上我家的家&lt;CR&gt;畜。&lt;CR&gt;　请保护我们家可爱的&lt;CR&gt;家畜远离利牙的迫害！"/>
+    <QuestFlavorText no="185" text="DUMMY"/>
+    <QuestFlavorText no="186" text="我最讨厌打雷！&lt;CR&gt;　结果查了一下，据说&lt;CR&gt;是种叫雷霆的魔物引起&lt;CR&gt;打雷的。&lt;CR&gt;　这么没规矩的魔物，&lt;CR&gt;谁来代替我教训他！"/>
+    <QuestFlavorText no="187" text="DUMMY"/>
+    <QuestFlavorText no="188" text="唔唔唔……！&lt;CR&gt;　被名叫捣蛋鬼的魔物&lt;CR&gt;狠狠恶整了一番……！&lt;CR&gt;　谁、谁快去打倒他们&lt;CR&gt;替我报仇！"/>
+    <QuestFlavorText no="189" text="DUMMY"/>
+    <QuestFlavorText no="190" text="仔细看大星鱼，身上&lt;CR&gt;好像有星形的图案呢。&lt;CR&gt;　据说只要赢大星鱼，&lt;CR&gt;赌运就会变好哦。&lt;CR&gt;　……我也想得到那种&lt;CR&gt;效果，哪位去打赢大星&lt;CR&gt;鱼吧。"/>
+    <QuestFlavorText no="191" text="DUMMY"/>
+    <QuestFlavorText no="192" text="我的妻子目前患病。&lt;CR&gt;在病床上不断痛苦低喃&lt;CR&gt;着死亡审判官要来了。&lt;CR&gt;　为了妻子，我什么都&lt;CR&gt;想试试。&lt;CR&gt;　……拜托你，请打倒&lt;CR&gt;死亡审判官。"/>
+    <QuestFlavorText no="193" text="DUMMY"/>
+    <QuestFlavorText no="194" text="双头兽这种魔物的尾&lt;CR&gt;巴相当发达。&lt;CR&gt;　甚至还有人在怀疑尾&lt;CR&gt;巴其实是头。&lt;CR&gt;　可以请你打倒几只，&lt;CR&gt;确认这番话有几分真实&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="195" text="DUMMY"/>
+    <QuestFlavorText no="196" text="确认到有地狱守卫之&lt;CR&gt;称的魔物炼狱之门。&lt;CR&gt;　请立刻前往现场进行&lt;CR&gt;讨伐。"/>
+    <QuestFlavorText no="197" text="DUMMY"/>
+    <QuestFlavorText no="198" text="暴君角鱼这种魔物会&lt;CR&gt;大声吼叫，实在吵死人&lt;CR&gt;了！&lt;CR&gt;　在我的鼓膜破掉前，&lt;CR&gt;你能去打倒那家伙吗？"/>
+    <QuestFlavorText no="199" text="DUMMY"/>
+    <QuestFlavorText no="200" text="好像有人目击到大巫&lt;CR&gt;妖在进行什么仪式的样&lt;CR&gt;子。&lt;CR&gt;　大概是咒术之类的吧&lt;CR&gt;……不管怎样都不是件&lt;CR&gt;好事。&lt;CR&gt;　要是发现他们就立刻&lt;CR&gt;讨伐。"/>
+    <QuestFlavorText no="201" text="DUMMY"/>
+    <QuestFlavorText no="202" text="听我那个当冒险者的&lt;CR&gt;朋友说，好像有个不得&lt;CR&gt;了的恶魔呢。&lt;CR&gt;　要是让那种家伙跑到&lt;CR&gt;城镇就完了！&lt;CR&gt;　好可怕哦，哪个人快&lt;CR&gt;去解决他！"/>
+    <QuestFlavorText no="203" text="DUMMY"/>
+    <QuestFlavorText no="204" text="只要把海胆装进袋子&lt;CR&gt;里，再混入些许火药就&lt;CR&gt;能够制成简易炸药的样&lt;CR&gt;子。&lt;CR&gt;　能请你准备那种炸弹&lt;CR&gt;让我防身吗？"/>
+    <QuestFlavorText no="205" text="DUMMY"/>
+    <QuestFlavorText no="206" text="唔，跟孙子讲了过去&lt;CR&gt;的丰功伟业，他就要我&lt;CR&gt;去扑灭魔物。&lt;CR&gt;　……为了不让孙子失&lt;CR&gt;望，能请你分我一些连&lt;CR&gt;我都能打倒魔物的炸弹&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="207" text="DUMMY"/>
+    <QuestFlavorText no="208" text="我想要让湖水冻结，&lt;CR&gt;在上面溜冰玩耍。&lt;CR&gt;　不是有一种很冷的炸&lt;CR&gt;弹吗？&lt;CR&gt;　不晓得你能不能分我&lt;CR&gt;一点。"/>
+    <QuestFlavorText no="209" text="DUMMY"/>
+    <QuestFlavorText no="210" text="不是有种炸弹会让人&lt;CR&gt;全身发麻吗？&lt;CR&gt;　只要有了那东西，任&lt;CR&gt;何魔物一定都能瞬间解&lt;CR&gt;决！&lt;CR&gt;　呐，谁都好！请把那&lt;CR&gt;种炸弹让给我吧！"/>
+    <QuestFlavorText no="211" text="DUMMY"/>
+    <QuestFlavorText no="212" text="我需要去旅行一段时&lt;CR&gt;间，最让人不安的果然&lt;CR&gt;还是魔物吧。&lt;CR&gt;　有人有能将魔物炸飞&lt;CR&gt;的炸弹吗……"/>
+    <QuestFlavorText no="213" text="DUMMY"/>
+    <QuestFlavorText no="214" text="用带有雷电力量的水&lt;CR&gt;晶占卜就能更鲜明地看&lt;CR&gt;见未来。&lt;CR&gt;　可是雷电的力量一下&lt;CR&gt;就没了。&lt;CR&gt;　有谁可以把新的东西&lt;CR&gt;让给我吗？"/>
+    <QuestFlavorText no="215" text="DUMMY"/>
+    <QuestFlavorText no="216" text="听说有噗嫩噗嫩的子&lt;CR&gt;弹对吧？&lt;CR&gt;　我最爱噗嫩噗嫩的东&lt;CR&gt;西了。&lt;CR&gt;　要是能把噗嫩噗嫩的&lt;CR&gt;子弹让给我，我会给你&lt;CR&gt;谢礼哦。"/>
+    <QuestFlavorText no="217" text="DUMMY"/>
+    <QuestFlavorText no="218" text="山师之药的效果还可&lt;CR&gt;以，价格也还好，真是&lt;CR&gt;庶民好友呢。&lt;CR&gt;　因为我自己的存量用&lt;CR&gt;完了，有谁可以让给我&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="219" text="DUMMY"/>
+    <QuestFlavorText no="220" text="出外旅行时难免会受&lt;CR&gt;伤。&lt;CR&gt;　所以有没有带着药应&lt;CR&gt;该差很多。&lt;CR&gt;　为了旅行准备，可以&lt;CR&gt;分一些补给瓶给我吗？"/>
+    <QuestFlavorText no="221" text="DUMMY"/>
+    <QuestFlavorText no="222" text="我累了……老是在工&lt;CR&gt;作，身体的疲惫一直无&lt;CR&gt;法消除……&lt;CR&gt;　有谁……消除工作疲&lt;CR&gt;劳的东西……"/>
+    <QuestFlavorText no="223" text="DUMMY"/>
+    <QuestFlavorText no="224" text="为了能让作物健康成&lt;CR&gt;长，我想施加一些叫生&lt;CR&gt;命之蜜的东西。&lt;CR&gt;　可是，我完全不晓得&lt;CR&gt;哪里采得到。&lt;CR&gt;　有谁可以帮忙我准备&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="225" text="DUMMY"/>
+    <QuestFlavorText no="226" text="最近忘东西的状况很&lt;CR&gt;严重……&lt;CR&gt;　就连采买的内容都会&lt;CR&gt;忘掉呢。&lt;CR&gt;　有没有能治好健忘症&lt;CR&gt;的药呢……"/>
+    <QuestFlavorText no="227" text="DUMMY"/>
+    <QuestFlavorText no="228" text="啊啊，真想回归童心&lt;CR&gt;吃些朴素的点心……&lt;CR&gt;　超想吃的……&lt;CR&gt;　但出去买又……所以&lt;CR&gt;我就发出委托了。&lt;CR&gt;　麻烦咯。"/>
+    <QuestFlavorText no="229" text="DUMMY"/>
+    <QuestFlavorText no="230" text="我好想喝附近姊姊泡&lt;CR&gt;的茶哦。&lt;CR&gt;　可是老是跟人伸手好&lt;CR&gt;过意不去……&lt;CR&gt;　类似的就行了，谁去&lt;CR&gt;帮我找来吧。"/>
+    <QuestFlavorText no="231" text="DUMMY"/>
+    <QuestFlavorText no="232" text="我之前有看到女孩子&lt;CR&gt;在吃噗尼。&lt;CR&gt;　……真的很冲击呢。&lt;CR&gt;原来噗尼是能吃的呀。&lt;CR&gt;　我也想尝味道，请你&lt;CR&gt;带能吃的噗尼来吧！"/>
+    <QuestFlavorText no="233" text="DUMMY"/>
+    <QuestFlavorText no="234" text="不是有种名字很怪的&lt;CR&gt;点心吗？&lt;CR&gt;　是叫苏……什么吗？&lt;CR&gt;　总之，我满好奇味道&lt;CR&gt;的。&lt;CR&gt;　我会给带过来的人谢&lt;CR&gt;礼哦。"/>
+    <QuestFlavorText no="235" text="DUMMY"/>
+    <QuestFlavorText no="236" text="听说那个叫焦味……&lt;CR&gt;什么的茶很好喝呢。&lt;CR&gt;　我会给谢礼的，也让&lt;CR&gt;我喝喝那个焦味什么的&lt;CR&gt;吧。"/>
+    <QuestFlavorText no="237" text="DUMMY"/>
+    <QuestFlavorText no="238" text="好想舔个非常甜的糖&lt;CR&gt;果哦！&lt;CR&gt;　我快克制不了这股冲&lt;CR&gt;动了。&lt;CR&gt;　再这样下去搞不好会&lt;CR&gt;把家里的砂糖拿来吃。&lt;CR&gt;　在变成那样前，请给&lt;CR&gt;我甜的糖果！"/>
+    <QuestFlavorText no="239" text="DUMMY"/>
+    <QuestFlavorText no="240" text="原味松饼的口味会随&lt;CR&gt;做的人不同对吧。&lt;CR&gt;　我妈做的有点差强人&lt;CR&gt;意……&lt;CR&gt;　有谁可以让我吃吃好&lt;CR&gt;吃的原味松饼吗？"/>
+    <QuestFlavorText no="241" text="DUMMY"/>
+    <QuestFlavorText no="242" text="啊啊，我饿了！说到&lt;CR&gt;在饿的时候吃的东西，&lt;CR&gt;从以前就是三明治啊！&lt;CR&gt;　在我的肚子撑不下去&lt;CR&gt;前，给我吃贝果三明治&lt;CR&gt;吧！"/>
+    <QuestFlavorText no="243" text="DUMMY"/>
+    <QuestFlavorText no="244" text="偶尔想豁出去，喝个&lt;CR&gt;顶级的热牛奶呢。&lt;CR&gt;　所以麻烦做杯超好喝&lt;CR&gt;的哦。"/>
+    <QuestFlavorText no="245" text="DUMMY"/>
+    <QuestFlavorText no="246" text="我讨厌药……而且药&lt;CR&gt;又苦。&lt;CR&gt;　可是不晓得是不是因&lt;CR&gt;为我不吃药，感冒一直&lt;CR&gt;都好不了……&lt;CR&gt;　有那种连我都吃得了&lt;CR&gt;的药吗？"/>
+    <QuestFlavorText no="247" text="DUMMY"/>
+    <QuestFlavorText no="248" text="如果不用好喝澄净的&lt;CR&gt;水就做不出真正好吃的&lt;CR&gt;料理。&lt;CR&gt;　有哪位可以分我一些&lt;CR&gt;未含有不纯物的干净水&lt;CR&gt;呢？"/>
+    <QuestFlavorText no="249" text="DUMMY"/>
+    <QuestFlavorText no="250" text="要给点心添加风味就&lt;CR&gt;需要水果糖精……&lt;CR&gt;　但是附近的店好像都&lt;CR&gt;没库存了。&lt;CR&gt;　拜托你，可以分一些&lt;CR&gt;水果糖精给我吗？"/>
+    <QuestFlavorText no="251" text="DUMMY"/>
+    <QuestFlavorText no="252" text="我没钱，现在只靠着&lt;CR&gt;罗梅麦粉在过活。&lt;CR&gt;　不过，那也快要吃完&lt;CR&gt;了。&lt;CR&gt;　呐，谁都好。就当是&lt;CR&gt;帮我一把，用便宜价格&lt;CR&gt;分我一些罗梅麦粉吧。"/>
+    <QuestFlavorText no="253" text="DUMMY"/>
+    <QuestFlavorText no="254" text="蜂蜜！&lt;CR&gt;　我想吃甜甜的蜂蜜！&lt;CR&gt;……嗯？与其说吃……&lt;CR&gt;不如说是想舔？&lt;CR&gt;　随便啦。我想快点吃&lt;CR&gt;到，请尽快拿来哦！&lt;CR&gt;　拜托你咯！"/>
+    <QuestFlavorText no="255" text="DUMMY"/>
+    <QuestFlavorText no="256" text="我们店里使用天然酵&lt;CR&gt;母做的面包很受欢迎。&lt;CR&gt;　……可是，我们的天&lt;CR&gt;然酵母因为管理失败，&lt;CR&gt;全都坏掉了。&lt;CR&gt;　有人能分一些尽可能&lt;CR&gt;是良质的天然酵母给我&lt;CR&gt;们呢？"/>
+    <QuestFlavorText no="257" text="DUMMY"/>
+    <QuestFlavorText no="258" text="我们药店有卖很多药&lt;CR&gt;哦。&lt;CR&gt;　只要有了万药之本，&lt;CR&gt;任何药都调得出来。&lt;CR&gt;　差不多也到该备药的&lt;CR&gt;时候了，请你送万药之&lt;CR&gt;本过来。"/>
+    <QuestFlavorText no="259" text="DUMMY"/>
+    <QuestFlavorText no="260" text="记录、记录……&lt;CR&gt;　我很容易忘东忘西，&lt;CR&gt;所以很仔细地做笔记。&lt;CR&gt;　但纸越来越少了……&lt;CR&gt;　请给我能写很多东西&lt;CR&gt;的纸！"/>
+    <QuestFlavorText no="261" text="DUMMY"/>
+    <QuestFlavorText no="262" text="排毒油可以帮助身体&lt;CR&gt;将毒素排出体外。&lt;CR&gt;　可以请你分我一点在&lt;CR&gt;健康上不可或缺的排毒&lt;CR&gt;油吗？"/>
+    <QuestFlavorText no="263" text="DUMMY"/>
+    <QuestFlavorText no="264" text="我是个新手锻冶师，&lt;CR&gt;由于我老是失败，作为&lt;CR&gt;材料的金属用完了……&lt;CR&gt;　不好意思，有谁可以&lt;CR&gt;帮忙准备金属块吗？"/>
+    <QuestFlavorText no="265" text="DUMMY"/>
+    <QuestFlavorText no="266" text="我想用坚固的钢铁金&lt;CR&gt;属制作铠甲。&lt;CR&gt;　不过一旦要做铠甲，&lt;CR&gt;需要的量就会很多。&lt;CR&gt;　所以想请你帮忙调度&lt;CR&gt;一下。"/>
+    <QuestFlavorText no="267" text="DUMMY"/>
+    <QuestFlavorText no="268" text="散发高尚银色光辉的&lt;CR&gt;金属，丝薇丽银。&lt;CR&gt;　不觉得跟高尚的我很&lt;CR&gt;配吗？&lt;CR&gt;　我想拿来做装饰品，&lt;CR&gt;材料就麻烦你调度了。"/>
+    <QuestFlavorText no="269" text="DUMMY"/>
+    <QuestFlavorText no="270" text="铷是种有着漂亮颜色&lt;CR&gt;的铸造金属，每个颜色&lt;CR&gt;都微妙地不一样哦。&lt;CR&gt;　我想拿来摆在房里，&lt;CR&gt;可以请你分一点铷给我&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="271" text="DUMMY"/>
+    <QuestFlavorText no="272" text="我想盖一栋配得上我&lt;CR&gt;这有钱人的金色房子！&lt;CR&gt;　因此要你去收集需要&lt;CR&gt;的材料！&lt;CR&gt;　我会答谢你的！怎么&lt;CR&gt;说，我都是有钱人啊！&lt;CR&gt;哈哈哈哈哈！"/>
+    <QuestFlavorText no="273" text="DUMMY"/>
+    <QuestFlavorText no="274" text="好像有种铸造金属，&lt;CR&gt;就连传说中出现的武器&lt;CR&gt;都锻造得出来呢……&lt;CR&gt;　如果有人有，可以分&lt;CR&gt;一点给我吗？"/>
+    <QuestFlavorText no="275" text="DUMMY"/>
+    <QuestFlavorText no="276" text="我想做个置物盒给我&lt;CR&gt;熟人的孙子。&lt;CR&gt;　有谁可以分一点作为&lt;CR&gt;材料的布呢？&lt;CR&gt;　布越漂亮越好，我会&lt;CR&gt;很开心的。"/>
+    <QuestFlavorText no="277" text="DUMMY"/>
+    <QuestFlavorText no="278" text="要做可爱的玩偶就是&lt;CR&gt;要用摸起来毛茸茸的毛&lt;CR&gt;布！&lt;CR&gt;　所以咯，只要一点点&lt;CR&gt;就好，分一点毛布给我&lt;CR&gt;吧。"/>
+    <QuestFlavorText no="279" text="DUMMY"/>
+    <QuestFlavorText no="280" text="亚达布料。是以邻国&lt;CR&gt;亚达雷特制法编织成，&lt;CR&gt;特征为具有高伸缩性。&lt;CR&gt;　虽然很贵重……但要&lt;CR&gt;是有人有，可以请他让&lt;CR&gt;给我吗？"/>
+    <QuestFlavorText no="281" text="DUMMY"/>
+    <QuestFlavorText no="282" text="松软！朋友说有种很&lt;CR&gt;松软的布哦！&lt;CR&gt;　我也想要用那种松软&lt;CR&gt;的布让自己轻飘飘！&lt;CR&gt;　所以松软的布……就&lt;CR&gt;麻烦你咯！"/>
+    <QuestFlavorText no="283" text="DUMMY"/>
+    <QuestFlavorText no="284" text="我喜欢细致布料的触&lt;CR&gt;感，所以想要用来做衣&lt;CR&gt;服，但是我的块头比较&lt;CR&gt;大，布可能会不够。&lt;CR&gt;　请为了我准备作为材&lt;CR&gt;料的细致布料吧……！"/>
+    <QuestFlavorText no="285" text="DUMMY"/>
+    <QuestFlavorText no="286" text="我想要缝一件兼具美&lt;CR&gt;丽、坚韧，又很适合我&lt;CR&gt;的衣服。&lt;CR&gt;　可以替我准备顶级的&lt;CR&gt;布吗？"/>
+    <QuestFlavorText no="287" text="DUMMY"/>
+    <QuestFlavorText no="288" text="魔法草有很多用途，&lt;CR&gt;相当方便呢。&lt;CR&gt;　如果你在外头有多采&lt;CR&gt;集一些，请务必分我一&lt;CR&gt;点哦。"/>
+    <QuestFlavorText no="289" text="我想试着在院子里种&lt;CR&gt;魔法草，自己繁殖。&lt;CR&gt;　因此请替我多采集一&lt;CR&gt;点魔法草哦。"/>
+    <QuestFlavorText no="290" text="我想将钴蓝草剁碎加&lt;CR&gt;入料理增添味道深度。&lt;CR&gt;　为了做出更美味的料&lt;CR&gt;理，可以请你替我采集&lt;CR&gt;钴蓝草回来吗？"/>
+    <QuestFlavorText no="291" text="DUMMY"/>
+    <QuestFlavorText no="292" text="我想做个超好喝的香&lt;CR&gt;草茶。&lt;CR&gt;　因此需要良质的神秘&lt;CR&gt;香草。&lt;CR&gt;　要是有好心人替我采&lt;CR&gt;集神秘香草，我会很高&lt;CR&gt;兴的。"/>
+    <QuestFlavorText no="293" text="DUMMY"/>
+    <QuestFlavorText no="294" text="DUMMY"/>
+    <QuestFlavorText no="295" text="伸手碰雷电矿就被狠&lt;CR&gt;狠电了一下，但那种感&lt;CR&gt;觉真是令人着迷呢！&lt;CR&gt;　不好意思，麻烦你采&lt;CR&gt;集几个新鲜的雷电矿！"/>
+    <QuestFlavorText no="296" text="DUMMY"/>
+    <QuestFlavorText no="297" text="克普鲁矿相当坚硬，&lt;CR&gt;只要加工一下装在农具&lt;CR&gt;的前端，甚至还能敲碎&lt;CR&gt;小石头。&lt;CR&gt;　由于耕作的速度也会&lt;CR&gt;大有不同，要是能帮忙&lt;CR&gt;采集回来就太感激了。"/>
+    <QuestFlavorText no="298" text="DUMMY"/>
+    <QuestFlavorText no="299" text="珀冷石总是会释放冷&lt;CR&gt;气呢。&lt;CR&gt;　光是放在房间就能稍&lt;CR&gt;微降温。&lt;CR&gt;　最近这阵子都很热，&lt;CR&gt;要是能替我采集回来，&lt;CR&gt;我会很高兴的。"/>
+    <QuestFlavorText no="300" text="DUMMY"/>
+    <QuestFlavorText no="301" text="不知为何，看着灵魂&lt;CR&gt;之石就会情绪高涨，创&lt;CR&gt;作欲望源源不绝呢。&lt;CR&gt;　为了创作出好作品，&lt;CR&gt;请让我看看灵魂之石！"/>
+    <QuestFlavorText no="302" text="DUMMY"/>
+    <QuestFlavorText no="303" text="黑燃料球很赞对吧！&lt;CR&gt;　不但黑，还会燃烧！&lt;CR&gt;　我想用来装饰院子，&lt;CR&gt;帮我在外面采集几个回&lt;CR&gt;来吧！"/>
+    <QuestFlavorText no="304" text="DUMMY"/>
+    <QuestFlavorText no="305" text="夜水晶就是颜色有如&lt;CR&gt;黑夜般的深色水晶，很&lt;CR&gt;漂亮哦。&lt;CR&gt;　虽然理由我不能说，&lt;CR&gt;不过可以请你分一点夜&lt;CR&gt;水晶给我吗？"/>
+    <QuestFlavorText no="306" text="DUMMY"/>
+    <QuestFlavorText no="307" text="我想送女友闪闪发光&lt;CR&gt;的原石。&lt;CR&gt;　我觉得那很适合美丽&lt;CR&gt;的她。&lt;CR&gt;　不过，我完全不晓得&lt;CR&gt;哪里可以取得……&lt;CR&gt;　如果有人可以替我准&lt;CR&gt;备就好了……"/>
+    <QuestFlavorText no="308" text="DUMMY"/>
+    <QuestFlavorText no="309" text="有种结晶听说有精灵&lt;CR&gt;寄宿在上面。&lt;CR&gt;　据说相当稀有，不知&lt;CR&gt;道有没有什么办法可以&lt;CR&gt;取得呢……"/>
+    <QuestFlavorText no="310" text="DUMMY"/>
+    <QuestFlavorText no="311" text="我想要做羽毛饰品，&lt;CR&gt;需要一些魔鸟羽毛！&lt;CR&gt;　麻烦你咯！"/>
+    <QuestFlavorText no="312" text="DUMMY"/>
+    <QuestFlavorText no="313" text="目前坚韧骨头的需求&lt;CR&gt;好像大增呢。&lt;CR&gt;　我们店里的存货也不&lt;CR&gt;多了。&lt;CR&gt;　抱歉，能分我一点坚&lt;CR&gt;韧骨头吗？"/>
+    <QuestFlavorText no="314" text="DUMMY"/>
+    <QuestFlavorText no="315" text="岛鱼鱼鳍呀，只要烤&lt;CR&gt;过后就很适合当下酒菜&lt;CR&gt;哦。&lt;CR&gt;　为了我的片刻休息，&lt;CR&gt;能替我采集鱼鳍吗？"/>
+    <QuestFlavorText no="316" text="DUMMY"/>
+    <QuestFlavorText no="317" text="我打算想用毛皮做件&lt;CR&gt;外套，反正都要做了，&lt;CR&gt;希望能做件超温暖的。&lt;CR&gt;　可以请你设法替我准&lt;CR&gt;备温暖的毛皮吗……？"/>
+    <QuestFlavorText no="318" text="DUMMY"/>
+    <QuestFlavorText no="319" text="听说有种毛皮像火一&lt;CR&gt;样红又坚韧。&lt;CR&gt;　……这应该能大赚一&lt;CR&gt;笔呢。&lt;CR&gt;　总之，可以让我看看&lt;CR&gt;那个毛皮吗？"/>
+    <QuestFlavorText no="320" text="DUMMY"/>
+    <QuestFlavorText no="321" text="只要用黏银丝做捕虫&lt;CR&gt;网，不管任何虫都能抓&lt;CR&gt;得到哦。&lt;CR&gt;　尽量帮我找个非常黏&lt;CR&gt;稠又新鲜的来吧！"/>
+    <QuestFlavorText no="322" text="DUMMY"/>
+    <QuestFlavorText no="323" text="听说有种跟黏银丝不&lt;CR&gt;同的坚韧丝线呢。&lt;CR&gt;　我非常想用那种丝线&lt;CR&gt;做裁缝……&lt;CR&gt;　不好意思，能请你帮&lt;CR&gt;我准备吗？"/>
+    <QuestFlavorText no="324" text="DUMMY"/>
+    <QuestFlavorText no="325" text="据说龙鳞片可以代替&lt;CR&gt;驱魔环呢。&lt;CR&gt;　最近有点衰事不断，&lt;CR&gt;我想也只能不顾一切地&lt;CR&gt;用尽各种方法了。&lt;CR&gt;　能请你分我一些龙鳞&lt;CR&gt;片吗？"/>
+    <QuestFlavorText no="326" text="DUMMY"/>
+    <QuestFlavorText no="327" text="夜光水总是会散发微&lt;CR&gt;弱的光。&lt;CR&gt;　所以晚上外出就能用&lt;CR&gt;来照明，相当方便呢。&lt;CR&gt;　要是谁有多的，请分&lt;CR&gt;我一点吧。"/>
+    <QuestFlavorText no="328" text="DUMMY"/>
+    <QuestFlavorText no="329" text="好像有一种麻烦的东&lt;CR&gt;西，明明是水却又是火&lt;CR&gt;药，一个弄不好就会爆&lt;CR&gt;炸耶！&lt;CR&gt;　我实在想亲眼看看！&lt;CR&gt;可以为我把那种水弄过&lt;CR&gt;来吗？"/>
+    <QuestFlavorText no="330" text="DUMMY"/>
+    <QuestFlavorText no="331" text="……可疑液体。很可&lt;CR&gt;疑，实在可疑。&lt;CR&gt;　而且居然连那液体究&lt;CR&gt;竟是什么都不晓得，再&lt;CR&gt;怎么可疑也该有个限度&lt;CR&gt;吧。&lt;CR&gt;　我想调查成分，请分&lt;CR&gt;一点给我吧。&lt;CR&gt;"/>
+    <QuestFlavorText no="332" text="DUMMY"/>
+    <QuestFlavorText no="333" text="冒险者是这么说的，&lt;CR&gt;听说噗尼偶尔会掉落液&lt;CR&gt;体？&lt;CR&gt;　……我对噗尼的体液&lt;CR&gt;究竟是怎样的东西有一&lt;CR&gt;点兴趣，可以让我看看&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="334" text="DUMMY"/>
+    <QuestFlavorText no="335" text="不是有种会散发七色&lt;CR&gt;光芒的神秘液体吗？&lt;CR&gt;　既然有那种液体存在&lt;CR&gt;我就想亲眼看看。&lt;CR&gt;　可以请你设法弄到手&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="336" text="DUMMY"/>
+    <QuestFlavorText no="337" text="我在寻找一种名为龙&lt;CR&gt;之血晶的东西当研究对&lt;CR&gt;象。&lt;CR&gt;　看来似乎是特殊成分&lt;CR&gt;的宝库呢。&lt;CR&gt;　虽然应该不好取得，&lt;CR&gt;不过就再麻烦了。"/>
+    <QuestFlavorText no="338" text="DUMMY"/>
+    <QuestFlavorText no="339" text="啊啊，好想把玩噗尼&lt;CR&gt;噗尼珠……&lt;CR&gt;　拜托，谁都好。请满&lt;CR&gt;足我的这股冲动吧……"/>
+    <QuestFlavorText no="340" text="DUMMY"/>
+    <QuestFlavorText no="341" text="我想让散发黄金光芒&lt;CR&gt;的噗尼噗尼珠漂在浴池&lt;CR&gt;里。&lt;CR&gt;　可以尽量帮我准备比&lt;CR&gt;较闪亮的吗？"/>
+    <QuestFlavorText no="342" text="DUMMY"/>
+    <QuestFlavorText no="343" text="我是听某个冒险者说&lt;CR&gt;的。&lt;CR&gt;　听说依据地方不同，&lt;CR&gt;有些地方是会吃蜂巢的&lt;CR&gt;呢。&lt;CR&gt;　……虽然有点可怕，&lt;CR&gt;不过我想试试看，再麻&lt;CR&gt;烦你咯。"/>
+    <QuestFlavorText no="344" text="DUMMY"/>
+    <QuestFlavorText no="345" text="我在收集漂亮的贝壳&lt;CR&gt;哦！&lt;CR&gt;　有各种图案真的很有&lt;CR&gt;趣呢！&lt;CR&gt;　要是你有感觉很稀有&lt;CR&gt;的贝壳要给我哦！"/>
+    <QuestFlavorText no="346" text="DUMMY"/>
+    <QuestFlavorText no="347" text="纯白贝壳好像偶尔可&lt;CR&gt;以采集得到，在某些地&lt;CR&gt;方还可以卖到不错的价&lt;CR&gt;钱哦。&lt;CR&gt;　我会支付报酬，可以&lt;CR&gt;请你设法找给我吗？"/>
+    <QuestFlavorText no="348" text="DUMMY"/>
+    <QuestFlavorText no="349" text="有种名为苍刚石的美&lt;CR&gt;丽结晶呢。&lt;CR&gt;　透彻的蓝色，只要照&lt;CR&gt;到光就会闪闪发光。&lt;CR&gt;　我想要摆在家里当装&lt;CR&gt;饰，真希望有各种形状&lt;CR&gt;的苍刚石～"/>
+    <QuestFlavorText no="350" text="DUMMY"/>
+    <QuestFlavorText no="351" text="小小的水晶碎片装进&lt;CR&gt;瓶子里很漂亮哦。&lt;CR&gt;　我也想分送给朋友，&lt;CR&gt;请帮我采集水芯片。"/>
+    <QuestFlavorText no="352" text="DUMMY"/>
+    <QuestFlavorText no="353" text="我想送那女孩会散发&lt;CR&gt;七色光芒的美丽碎片！&lt;CR&gt;　可是，好像一定得到&lt;CR&gt;城镇外才采集得到的样&lt;CR&gt;子……有谁可以代我采&lt;CR&gt;集回来吗……"/>
+    <QuestFlavorText no="354" text="DUMMY"/>
+    <QuestFlavorText no="355" text="DUMMY"/>
+    <QuestFlavorText no="356" text="DUMMY"/>
+    <QuestFlavorText no="357" text="DUMMY"/>
+    <QuestFlavorText no="358" text="DUMMY"/>
+    <QuestFlavorText no="359" text="DUMMY"/>
+    <QuestFlavorText no="360" text="DUMMY"/>
+    <QuestFlavorText no="361" text="DUMMY"/>
+    <QuestFlavorText no="362" text="DUMMY"/>
+    <QuestFlavorText no="363" text="DUMMY"/>
+    <QuestFlavorText no="364" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　由于人手不足，所以&lt;CR&gt;想请你协助调查巡礼街&lt;CR&gt;道。&lt;CR&gt;　毕竟是冒险者也会经&lt;CR&gt;过的路，应该没那么危&lt;CR&gt;险啦。"/>
+    <QuestFlavorText no="365" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西，但是&lt;CR&gt;不小心扭到脚……&lt;CR&gt;　想请人帮忙调查麦伯&lt;CR&gt;特农场。&lt;CR&gt;　我会致上一点点的心&lt;CR&gt;意。"/>
+    <QuestFlavorText no="366" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　我有花粉症，可以请&lt;CR&gt;你协助调查彩花园吗？&lt;CR&gt;　听说那一大片花田很&lt;CR&gt;壮观哦。"/>
+    <QuestFlavorText no="367" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　正好分不开身，想请&lt;CR&gt;你协助调查柴房。&lt;CR&gt;　啊，只要调查柴房外&lt;CR&gt;就行了。"/>
+    <QuestFlavorText no="368" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为家母感冒了，所&lt;CR&gt;以想请你协助调查原野&lt;CR&gt;遗迹。&lt;CR&gt;　等家母感冒一好我就&lt;CR&gt;立刻过去！"/>
+    <QuestFlavorText no="369" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为不小心踩到海胆&lt;CR&gt;受伤了，可以请你协助&lt;CR&gt;调查雏鸟林吗？&lt;CR&gt;　……请务必留意脚边&lt;CR&gt;的海胆。"/>
+    <QuestFlavorText no="370" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　由于不小心被蜜蜂螫&lt;CR&gt;了，所以想请你协助调&lt;CR&gt;查恩惠森林……&lt;CR&gt;　唔唔，居然偏偏还是&lt;CR&gt;脸被叮到……"/>
+    <QuestFlavorText no="371" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西……&lt;CR&gt;　由于睡眠不足，想请&lt;CR&gt;你协助调查有闲广场。&lt;CR&gt;　要是现在过去的话，&lt;CR&gt;我有绝对的把握一定会&lt;CR&gt;睡着……"/>
+    <QuestFlavorText no="372" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西……&lt;CR&gt;　但我最讨厌菌菇了，&lt;CR&gt;想请你协助调查菌丝乐&lt;CR&gt;园。&lt;CR&gt;　……对不起。唯独菌&lt;CR&gt;菇这项我真的不行。"/>
+    <QuestFlavorText no="373" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　由于我头痛的状况很&lt;CR&gt;严重，能请你协助调查&lt;CR&gt;悟道岩山吗？&lt;CR&gt;　……这一定是因为我&lt;CR&gt;前些日子熬夜思考悟道&lt;CR&gt;造成的。"/>
+    <QuestFlavorText no="374" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　由于被人拜托跑腿，&lt;CR&gt;能麻烦你去调查绿色旧&lt;CR&gt;址吗？&lt;CR&gt;　土薯跟罗梅麦也千万&lt;CR&gt;别忘了……"/>
+    <QuestFlavorText no="375" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　战斗我是完全不行，&lt;CR&gt;所以能麻烦你去调查野&lt;CR&gt;兽们的集会处吗？&lt;CR&gt;　呃，我真的很弱啦。&lt;CR&gt;连对上噗尼也是束手无&lt;CR&gt;策……"/>
+    <QuestFlavorText no="376" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　由于不小心跌倒肿了&lt;CR&gt;个包，可以麻烦你去调&lt;CR&gt;查岩地杂木林吗……？&lt;CR&gt;　头上真的是好大一个&lt;CR&gt;包呢……"/>
+    <QuestFlavorText no="377" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为我是个路痴，能&lt;CR&gt;麻烦你去调查困惑迷宫&lt;CR&gt;吗……？&lt;CR&gt;　……偶尔连回家的路&lt;CR&gt;都会搞不清楚呢……耶&lt;CR&gt;嘿嘿……"/>
+    <QuestFlavorText no="378" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为吃坏肚子了，能&lt;CR&gt;麻烦你去调查连理树门&lt;CR&gt;吗……？&lt;CR&gt;　唔唔，不该这样配着&lt;CR&gt;吃吗……"/>
+    <QuestFlavorText no="379" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　由于我是个旱鸭子，&lt;CR&gt;麻烦你去调查细流遗忘&lt;CR&gt;之物。&lt;CR&gt;　……要是溺水就糟了&lt;CR&gt;嘛……对吧！"/>
+    <QuestFlavorText no="380" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为不小心弄丢地图&lt;CR&gt;了，能请你去调查常雾&lt;CR&gt;树海吗？&lt;CR&gt;　……这是没有好好收&lt;CR&gt;拾整顿的现世报吧，呜&lt;CR&gt;呜。"/>
+    <QuestFlavorText no="381" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为受到噗尼袭击受&lt;CR&gt;伤了，所以想请你去调&lt;CR&gt;查三子桥之泉。&lt;CR&gt;　……居然被噗尼给打&lt;CR&gt;败，真没面子。"/>
+    <QuestFlavorText no="382" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为衣服全部拿去洗&lt;CR&gt;了，不晓得能不能请你&lt;CR&gt;帮忙调查晨间无风之畔&lt;CR&gt;呢？&lt;CR&gt;　……附带一提，这个&lt;CR&gt;委托我也有寄信过去。"/>
+    <QuestFlavorText no="383" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　由于在制作要在学会&lt;CR&gt;提出的资料，能请你去&lt;CR&gt;调查静寂湖畔吗……？&lt;CR&gt;　……我的资料还是一&lt;CR&gt;片空白呢。"/>
+    <QuestFlavorText no="384" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　但有朋友找我，能请&lt;CR&gt;你去调查丰饶湖滨吗？&lt;CR&gt;　……对不起。我禁不&lt;CR&gt;起甜食的诱惑……"/>
+    <QuestFlavorText no="385" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　由于弟弟离家出走，&lt;CR&gt;我正在找他，能请你去&lt;CR&gt;调查沉积小岛吗……？&lt;CR&gt;　他还算是个好弟弟。&lt;CR&gt;不好意思……"/>
+    <QuestFlavorText no="386" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为被亲戚阿姨给抓&lt;CR&gt;住了，可以请你去调查&lt;CR&gt;岩瘤山麓吗？&lt;CR&gt;　唔唔，就说现在结婚&lt;CR&gt;还太早了……"/>
+    <QuestFlavorText no="387" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为考试快要到了，&lt;CR&gt;能请你去调查青叶山丘&lt;CR&gt;吗？&lt;CR&gt;　啊，我还是个学生啦&lt;CR&gt;……是真的。"/>
+    <QuestFlavorText no="388" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为跟家父吵架了，&lt;CR&gt;能请你去调查境界山脚&lt;CR&gt;吗……？&lt;CR&gt;　对不起，我很快就会&lt;CR&gt;跟家父和好，过去调查&lt;CR&gt;的……"/>
+    <QuestFlavorText no="389" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　因为书柜倒了，房间&lt;CR&gt;一片狼藉，能麻烦你去&lt;CR&gt;调查枯木荒野吗……？&lt;CR&gt;　这个惨状，我该如何&lt;CR&gt;是好……"/>
+    <QuestFlavorText no="390" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　……有一点逼不得已&lt;CR&gt;的理由，所以想请你去&lt;CR&gt;调查骸骨森林。&lt;CR&gt;　……并不是因为那个&lt;CR&gt;地方感觉很恐怖哦。"/>
+    <QuestFlavorText no="391" text="DUMMY"/>
+    <QuestFlavorText no="392" text="DUMMY"/>
+    <QuestFlavorText no="393" text="DUMMY"/>
+    <QuestFlavorText no="394" text="DUMMY"/>
+    <QuestFlavorText no="395" text="DUMMY"/>
+    <QuestFlavorText no="396" text="DUMMY"/>
+    <QuestFlavorText no="397" text="DUMMY"/>
+    <QuestFlavorText no="398" text="DUMMY"/>
+    <QuestFlavorText no="399" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　我怕会破坏到遗迹，&lt;CR&gt;所以能请你去调查水滨&lt;CR&gt;古迹吗？&lt;CR&gt;　毕竟我的朋友都叫我&lt;CR&gt;“破坏狂”……"/>
+    <QuestFlavorText no="400" text="DUMMY"/>
+    <QuestFlavorText no="401" text="我在这个城镇附近调&lt;CR&gt;查能采集的东西。&lt;CR&gt;　能请你协助调查逝者&lt;CR&gt;之都吗？&lt;CR&gt;　炸弹跟药品都确实带&lt;CR&gt;了，我也已经做好万全&lt;CR&gt;准备咯！喝啊！"/>
+    <QuestFlavorText no="402" text="DUMMY"/>
+    <QuestFlavorText no="403" text="DUMMY"/>
+    <QuestFlavorText no="404" text="蓝、绿、红……噗尼&lt;CR&gt;虽然有各种颜色，但他&lt;CR&gt;们的共通点就是数量很&lt;CR&gt;多。&lt;CR&gt;　在城镇附近被噗尼给&lt;CR&gt;淹没前，请去狩猎他们&lt;CR&gt;吧。"/>
+    <QuestFlavorText no="405" text="噗尼真的有很多种类&lt;CR&gt;呢。&lt;CR&gt;　我想调查看看究竟有&lt;CR&gt;多少种类，请你去打倒&lt;CR&gt;几种后再告诉我吧。"/>
+    <QuestFlavorText no="406" text="外面地上有一本书。&lt;CR&gt;　结果一捡起来就被突&lt;CR&gt;然袭击了！&lt;CR&gt;　调查后发现那好像是&lt;CR&gt;书本型的魔物……&lt;CR&gt;　能请你在除了我以外&lt;CR&gt;的人被骗到前打倒那些&lt;CR&gt;家伙吗？"/>
+    <QuestFlavorText no="407" text="在被称为禁书而被封&lt;CR&gt;印的书当中，据说也有&lt;CR&gt;很多获得生命变成魔物&lt;CR&gt;的东西。&lt;CR&gt;　在他们招致灾厄前，&lt;CR&gt;有人能去扑灭他们吗？"/>
+    <QuestFlavorText no="408" text="妖、妖怪什么的，虽&lt;CR&gt;然我一点也完全不信，&lt;CR&gt;但要是真的有的话，要&lt;CR&gt;是不请人扑灭……就会&lt;CR&gt;很伤脑筋吧。&lt;CR&gt;　好了，自认非我莫属&lt;CR&gt;的冒险者快去扑灭吧！&lt;CR&gt;"/>
+    <QuestFlavorText no="409" text="高阶的灵好像一直虎&lt;CR&gt;视眈眈地在等待机会夺&lt;CR&gt;取人类的灵魂。&lt;CR&gt;　希望冒险者能在他们&lt;CR&gt;伸出魔爪之前先打倒他&lt;CR&gt;们。"/>
+    <QuestFlavorText no="410" text="啊～真是的！&lt;CR&gt;　那些植物魔物为什么&lt;CR&gt;会那么吵啊！&lt;CR&gt;　谁都可以，快去收割&lt;CR&gt;他们行吗？"/>
+    <QuestFlavorText no="411" text="大自然有时候很可怕&lt;CR&gt;呢……&lt;CR&gt;　尤其那些植物魔物。&lt;CR&gt;只要吸到他们的毒粉，&lt;CR&gt;任何人都会瞬间昏倒。&lt;CR&gt;　在菜鸟冒险者还没出&lt;CR&gt;现灾情前，能先去打倒&lt;CR&gt;他们吗？"/>
+    <QuestFlavorText no="412" text="那些小恶魔好像是一&lt;CR&gt;般恶魔的幼年体。&lt;CR&gt;　一旦长大一定会成为&lt;CR&gt;不小的威胁。&lt;CR&gt;　在那之前，我想先尽&lt;CR&gt;早处理。&lt;CR&gt;　你能协助吗？"/>
+    <QuestFlavorText no="413" text="现在是怎样！？&lt;CR&gt;　那些小恶魔到底是有&lt;CR&gt;多爱恶作剧！&lt;CR&gt;　我生气了！&lt;CR&gt;　只要将他们全部扑灭&lt;CR&gt;就行了！"/>
+    <QuestFlavorText no="414" text="唉……一看到费尽苦&lt;CR&gt;心耕作的田地被鸟群破&lt;CR&gt;坏就很不忍心呢……&lt;CR&gt;　有人可以替我扑灭那&lt;CR&gt;些害鸟吗……"/>
+    <QuestFlavorText no="415" text="吓、吓我一跳！&lt;CR&gt;　突然有只跟我差不多&lt;CR&gt;大还是比我大的鸟袭击&lt;CR&gt;我耶！&lt;CR&gt;　我绝不想再被那种东&lt;CR&gt;西袭击了！&lt;CR&gt;　呐，谁快去扑灭吧。"/>
+    <QuestFlavorText no="416" text="唉，本来想说要去旅&lt;CR&gt;行，但最近不是好像有&lt;CR&gt;很多野兽出现吗？&lt;CR&gt;　……有没有好心人愿&lt;CR&gt;意先帮我开路呀～"/>
+    <QuestFlavorText no="417" text="即使在魔物中，那些&lt;CR&gt;野兽也是特别危险呢。&lt;CR&gt;　不但面目狰狞又动作&lt;CR&gt;迅速。&lt;CR&gt;　无论是人类还什么都&lt;CR&gt;是他们的狩猎对象。&lt;CR&gt;　要是我们不主动出击&lt;CR&gt;就会出现更多伤者了。"/>
+    <QuestFlavorText no="418" text="那些陆鱼在妨碍我们&lt;CR&gt;捕鱼。&lt;CR&gt;　或许是因为那些家伙&lt;CR&gt;也是鱼吧……但这样我&lt;CR&gt;们就活不下去了。&lt;CR&gt;　打倒那些家伙的话，&lt;CR&gt;我会支付报酬的。"/>
+    <QuestFlavorText no="419" text="……陆鱼的口味真令&lt;CR&gt;人在意。不，应该不太&lt;CR&gt;好吃吧，但我还是想试&lt;CR&gt;试。&lt;CR&gt;　拜托了，只要一点点&lt;CR&gt;就好，请打倒后带切片&lt;CR&gt;过来吧。"/>
+    <QuestFlavorText no="420" text="真是的，我饶不了那&lt;CR&gt;些家伙！&lt;CR&gt;　居然想诅咒人类……&lt;CR&gt;就算是魔物也太过分了&lt;CR&gt;吧！&lt;CR&gt;　不管谁都好，快去给&lt;CR&gt;那些家伙一点教训！"/>
+    <QuestFlavorText no="421" text="有些人偏离了正道，&lt;CR&gt;将灵魂出卖给恶魔。在&lt;CR&gt;死后也作为一个魔物继&lt;CR&gt;续生存。&lt;CR&gt;　都变这样了，让他们&lt;CR&gt;能够安详地沉睡也是种&lt;CR&gt;慈悲。&lt;CR&gt;　有人可以送那些家伙&lt;CR&gt;上西天吗？"/>
+    <QuestFlavorText no="422" text="所谓的恶魔就是那个&lt;CR&gt;吧。做尽坏事的家伙。&lt;CR&gt;　要是能在发生坏&lt;CR&gt;事前先打倒他们会&lt;CR&gt;比较好吧……？"/>
+    <QuestFlavorText no="423" text="恶魔又怎样！&lt;CR&gt;　也不过是魔物罢了。&lt;CR&gt;　既然如此，应就能打&lt;CR&gt;倒才对。&lt;CR&gt;　好了，拿起你们手中&lt;CR&gt;的剑。该去扑灭恶魔了&lt;CR&gt;不是吗？"/>
+    <QuestFlavorText no="424" text="植物真不错呢。感觉&lt;CR&gt;我跟贝尔玛家的奥斯卡&lt;CR&gt;应该很合得来。&lt;CR&gt;　先不说这个了，我想&lt;CR&gt;被草木包围，可以给我&lt;CR&gt;一些不错的植物吗？"/>
+    <QuestFlavorText no="425" text="我是研究植物的人。&lt;CR&gt;　有几种植物我想观察&lt;CR&gt;习性，可以麻烦你去采&lt;CR&gt;集吗？"/>
+    <QuestFlavorText no="426" text="我正在进行料理的修&lt;CR&gt;行！&lt;CR&gt;　……因为我不想再被&lt;CR&gt;称为“烧焦高手”了。&lt;CR&gt;　因为练习得太过头，&lt;CR&gt;材料不够了，&lt;CR&gt;想请你准备几个食&lt;CR&gt;材！"/>
+    <QuestFlavorText no="427" text="一旦外出冒险就会开&lt;CR&gt;始有段期间没办法吃个&lt;CR&gt;饱了。&lt;CR&gt;　所以我想趁现在先吃&lt;CR&gt;个饱。&lt;CR&gt;  请多多地给我带来美&lt;CR&gt;味又抗饿的饭！"/>
+    <QuestFlavorText no="428" text="听附近的太太说黏土&lt;CR&gt;对小孩子的智育发展很&lt;CR&gt;不错呢。&lt;CR&gt;　再说我也希望小孩能&lt;CR&gt;够聪明些……&lt;CR&gt;　可以请你替我准备黏&lt;CR&gt;土吗？"/>
+    <QuestFlavorText no="429" text="我打算开始玩园艺，&lt;CR&gt;需要一些土。&lt;CR&gt;　虽然完全不晓得什么&lt;CR&gt;样的土比较好……总之&lt;CR&gt;我归类了几种，可以帮&lt;CR&gt;我带过来吗？"/>
+    <QuestFlavorText no="430" text="我想要一些矿石的标&lt;CR&gt;本。毕竟有些性质不亲&lt;CR&gt;眼看就不晓得呀。&lt;CR&gt;　就是这样，送一些良&lt;CR&gt;质的矿石过来吧。"/>
+    <QuestFlavorText no="431" text="我是个锻冶师。&lt;CR&gt;　最近突然想到。&lt;CR&gt;　只是很普通地锻冶很&lt;CR&gt;无聊。&lt;CR&gt;　既然要锻冶，干脆就&lt;CR&gt;让锻冶界吹起一股新风&lt;CR&gt;向……&lt;CR&gt;　就是这样，麻烦帮我&lt;CR&gt;准备奇怪的矿石哦。"/>
+    <QuestFlavorText no="432" text="虽然有各式各样的液&lt;CR&gt;体，但要去除房间污垢&lt;CR&gt;的话，哪种比较好呢？&lt;CR&gt;　我想试一下，可以帮&lt;CR&gt;我带各种液体过来吗？"/>
+    <QuestFlavorText no="433" text="我有在手工调制化妆&lt;CR&gt;水……&lt;CR&gt;　想说在水的方面多花&lt;CR&gt;点心思。&lt;CR&gt;　我有几种水想试试，&lt;CR&gt;能请你到各种地方打水&lt;CR&gt;过来吗？"/>
+    <QuestFlavorText no="434" text="记录……记录……记&lt;CR&gt;录用的纸不够了……&lt;CR&gt;　什么都好，就算是碎&lt;CR&gt;纸片也没差。&lt;CR&gt;　总之能写就好。&lt;CR&gt;　请给我能在上面写字&lt;CR&gt;的东西！"/>
+    <QuestFlavorText no="435" text="我想看各种书。&lt;CR&gt;　不是一般的书，而是&lt;CR&gt;有点不一样的哦。&lt;CR&gt;　取得管道我不过问，&lt;CR&gt;可以请你带奇怪的书过&lt;CR&gt;来吗？"/>
+    <QuestFlavorText no="436" text="料理最重要的就是火&lt;CR&gt;候……话虽这么说，但&lt;CR&gt;是真的吗？&lt;CR&gt;　我有点怀疑，不试过&lt;CR&gt;就不会晓得对吧。&lt;CR&gt;　就是这样，请你带可&lt;CR&gt;以提高火候的可燃物过&lt;CR&gt;来！"/>
+    <QuestFlavorText no="437" text="我想烧掉家里不要的&lt;CR&gt;东西，所以需要一些可&lt;CR&gt;以燃烧的东西。&lt;CR&gt;　只要能烧什么都行，&lt;CR&gt;请拿给我。"/>
+    <QuestFlavorText no="438" text="想要有效率地采集矿&lt;CR&gt;石，最好的方法就是爆&lt;CR&gt;破大岩石。&lt;CR&gt;　可是，要这么做就需&lt;CR&gt;要火药。&lt;CR&gt;　麻烦尽量给我良质的&lt;CR&gt;哦。"/>
+    <QuestFlavorText no="439" text="太阳粉末跟星星粉末&lt;CR&gt;……虽然不晓得来源是&lt;CR&gt;什么，但都很漂亮……&lt;CR&gt;　我知道这些东西很稀&lt;CR&gt;有，但能请你设法取得&lt;CR&gt;吗？"/>
+    <QuestFlavorText no="440" text="要说制作桶子光选择&lt;CR&gt;材料就已经决定八成也&lt;CR&gt;不为过。&lt;CR&gt;　为了制作好的桶子，&lt;CR&gt;调度材料的事……能麻&lt;CR&gt;烦你吗？"/>
+    <QuestFlavorText no="441" text="DUMMY"/>
+    <QuestFlavorText no="442" text="最符合我的东西果然&lt;CR&gt;还是美丽的东西呢！&lt;CR&gt;　好了，将美丽的东西&lt;CR&gt;献给我吧！&lt;CR&gt;　快、快、快！！"/>
+    <QuestFlavorText no="443" text="闪闪发光的东西果然&lt;CR&gt;很漂亮。&lt;CR&gt;　可以让我瞧瞧几个闪&lt;CR&gt;闪发光的素材吗？"/>
+    <QuestFlavorText no="444" text="我想调合药，所以想&lt;CR&gt;请你带可以作为材料使&lt;CR&gt;用的东西过来。&lt;CR&gt;　要是药没了可就麻烦&lt;CR&gt;了呢。"/>
+    <QuestFlavorText no="445" text="坊间相传有很多东西&lt;CR&gt;对身体不错。&lt;CR&gt;　总之，虽不说是治万&lt;CR&gt;病……但我想试试对身&lt;CR&gt;体有效的东西。"/>
+    <QuestFlavorText no="446" text="毒物与药一线之隔。&lt;CR&gt;一般当成毒使用的东西&lt;CR&gt;只要下点工夫就能变成&lt;CR&gt;药，反之亦是。&lt;CR&gt;　为了做出未知的药，&lt;CR&gt;我想要研究毒物。&lt;CR&gt;　可以替我准备一些像&lt;CR&gt;是毒物的东西吗？"/>
+    <QuestFlavorText no="447" text="DUMMY"/>
+    <QuestFlavorText no="448" text="我想做美丽的拼布。&lt;CR&gt;　能请你带一些可以作&lt;CR&gt;为材料的布过来吗？　&lt;CR&gt;"/>
+    <QuestFlavorText no="449" text="只要用漂亮的布做衣&lt;CR&gt;服，就算是我也能跃身&lt;CR&gt;变成时髦的女性……应&lt;CR&gt;该！&lt;CR&gt;　请为了我把布收齐带&lt;CR&gt;来～！"/>
+    <QuestFlavorText no="450" text="我是个冒险者。外出&lt;CR&gt;旅行便是我的生计。&lt;CR&gt;　成行与否就看事前准&lt;CR&gt;备的程度。&lt;CR&gt;　我想请你准备与魔物&lt;CR&gt;对峙时使用的炸弹。"/>
+    <QuestFlavorText no="451" text="听说炸弹也有很多种&lt;CR&gt;类呢。&lt;CR&gt;　我听说的好像是火、&lt;CR&gt;冰与雷的炸弹吧。&lt;CR&gt;　我有点兴趣，能请你&lt;CR&gt;让我看看这三种吗？"/>
+    <QuestFlavorText no="452" text="因为小孩太好动了，&lt;CR&gt;随时随地都有可能受伤&lt;CR&gt;呢。&lt;CR&gt;　为了以防万一，我想&lt;CR&gt;先备好一些药……能够&lt;CR&gt;请你准备吗？"/>
+    <QuestFlavorText no="453" text="我已经老了。死期也&lt;CR&gt;快到了。&lt;CR&gt;　但我还不想死。&lt;CR&gt;　……为了能再多活一&lt;CR&gt;点，你能帮我带传说中&lt;CR&gt;的灵药过来吗？"/>
+    <QuestFlavorText no="454" text="铠甲金属配件的部分&lt;CR&gt;坏了。&lt;CR&gt;　要是有材料，我自己&lt;CR&gt;也能修理……&lt;CR&gt;　总之可以请你先送些&lt;CR&gt;金属给我吗？"/>
+    <QuestFlavorText no="455" text="制作厉害的铠甲需要&lt;CR&gt;优良的材料。&lt;CR&gt;　为了制作抵挡各种攻&lt;CR&gt;击的铠甲，可以请你准&lt;CR&gt;备用得上的材料吗？"/>
+    <QuestFlavorText no="456" text="总之我就是想吃甜的&lt;CR&gt;点心啦。&lt;CR&gt;　不过，只有点心很可&lt;CR&gt;能会胃食道逆流，可以&lt;CR&gt;的话就连茶一起吧。&lt;CR&gt;　麻烦你准备好吃的东&lt;CR&gt;西哦！"/>
+    <QuestFlavorText no="457" text="DUMMY"/>
+    <QuestFlavorText no="458" text="啊啊，好想吃好吃的&lt;CR&gt;饭吃到饱……&lt;CR&gt;　只要能吃到饱，我别&lt;CR&gt;无所求……&lt;CR&gt;　拜托你，让我吃好吃&lt;CR&gt;的饭！"/>
+    <QuestFlavorText no="459" text="DUMMY"/>
+    <QuestFlavorText no="460" text="我想要邀请熟人开茶&lt;CR&gt;会。&lt;CR&gt;　可以请你准备好喝的&lt;CR&gt;茶跟配茶点心，还有用&lt;CR&gt;来作为邀请函的纸吗？"/>
+    <QuestFlavorText no="461" text="我想为男友展现一下&lt;CR&gt;厨艺，但是材料刚好用&lt;CR&gt;完了。&lt;CR&gt;　不好意思，能请你分&lt;CR&gt;一些材料给我吗？"/>
+    <QuestFlavorText no="462" text="跟劲敌一决胜负的时&lt;CR&gt;候到了。&lt;CR&gt;　……说是劲敌，也只&lt;CR&gt;是单方面一直打倒我的&lt;CR&gt;魔物啦。&lt;CR&gt;　这次我一定要赢，有&lt;CR&gt;很多东西都得准备呢！"/>
+    <QuestFlavorText no="463" text="我想做一些凉凉的点&lt;CR&gt;心清凉一下。&lt;CR&gt;　能请你准备水、让水&lt;CR&gt;冻结的东西，还有甜的&lt;CR&gt;东西吗？"/>
+    <QuestFlavorText no="464" text="最近有点胖了。&lt;CR&gt;　趁这个机会，我想瘦&lt;CR&gt;身顺便锻炼身体。&lt;CR&gt;　可以请你准备制作锻&lt;CR&gt;炼身体道具的&lt;CR&gt;材料吗？"/>
+    <QuestFlavorText no="465" text="我想改变一下形象，&lt;CR&gt;让自己成为一个充满神&lt;CR&gt;秘气息的女性！&lt;CR&gt;　但我不晓得怎样&lt;CR&gt;的感觉才算神秘！&lt;CR&gt;　总之，请你带感觉很&lt;CR&gt;神秘的东西过来！　"/>
+    <QuestFlavorText no="466" text="我认为接下来就是噗&lt;CR&gt;尼周边当道的时代了！&lt;CR&gt;　为了让身边的人了解&lt;CR&gt;噗尼周边的魅力，我想&lt;CR&gt;请你帮我准备几个噗尼&lt;CR&gt;周边。"/>
+    <QuestFlavorText no="467" text="这次要在我家附近办&lt;CR&gt;祭典哦。&lt;CR&gt;　但规模不大就是了。&lt;CR&gt;　不好意思，能请你协&lt;CR&gt;助我准备祭典需要的东&lt;CR&gt;西吗？"/>
+    <QuestFlavorText no="468" text="最近占卜变得不太准&lt;CR&gt;了。&lt;CR&gt;　我想从头开始再修行&lt;CR&gt;一次，可以请你帮我收&lt;CR&gt;集必要的道具吗？&lt;CR&gt;"/>
+    <QuestFlavorText no="469" text="据说传说中的贤者过&lt;CR&gt;去曾入达观之境。&lt;CR&gt;　我要是收集一些厉害&lt;CR&gt;道具，说不定也能入达&lt;CR&gt;观之境。&lt;CR&gt;　就是这样，请带些感&lt;CR&gt;觉很稀奇的道具来吧。"/>
+    <QuestFlavorText no="470" text="DUMMY"/>
+    <QuestFlavorText no="471" text="DUMMY"/>
+    <QuestFlavorText no="472" text="DUMMY"/>
+    <QuestFlavorText no="473" text="DUMMY"/>
+    <QuestFlavorText no="474" text="DUMMY"/>
+    <QuestFlavorText no="475" text="DUMMY"/>
+</Root>

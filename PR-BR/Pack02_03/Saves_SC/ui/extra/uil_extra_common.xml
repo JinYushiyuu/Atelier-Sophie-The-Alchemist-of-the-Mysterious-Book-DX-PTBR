@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓アニメーションxmlの読み込み-->
+		<command load_anim="Saves/ui/uia_common.xml"/>
+		<command load_anim="Saves/ui/extra/uia_extra.xml"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false">
+		<node name="select02_template" visible="false" viewer_visible="false" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<!--メニュー行の雛形-->
+			<node name="row_template" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<!--↓line_formatのposは(0,0,0)にしておいてください-->
+				<node name="line_format02" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+					<!-- メニューカーソル -->
+					<text text="さしすせそなにぬねの" name="CT_MenuEntryText" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="0.00, 0.00, 0.00" visible="true" align="left"/>
+				</node>
+			</node>
+			<image name="__uimenu_cursor_inactive" pos="-0.00, -8.00, -10.00" image_no="0" style="gen_a17_win01_hl" size_wh="250.00, 35.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+			<image name="__uimenu_cursor_active" pos="-0.00, -8.00, -0.00" image_no="0" style="gen_a17_win01_hl" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="250.00, 35.00, 0.00" visible="false">
+				<feed name="feed"/>
+				<!-- 明滅アニメーション -->
+				<anim_ctrl loop="true" play="true">
+					<bind_node node="__uimenu_cursor_active" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+			<!--メニューレイアウトの雛形-->
+			<node name="menu_template" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="bg" size_wh="292, 211" style="gen_a17_win01_w02" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<scroll_bar name="__uimenu_scroll_bar" pos_ratio="1,0" pos="262, 9, -0" size_h="388" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<!-- メニュー行のリスト(行以外は入れないこと)-->
+				<node name="__uimenu_item_list" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02" pos="10.00, 48.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_01" pos="10.00, 90.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<node copy="line_format02" clone_child_tree="line_format02" name="clone_line_format02_02" pos="10.00, 133.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="Top" visible="false" viewer_visible="true">
+		<menu name="MenuEntries" normal_font_color="53.00, 19.00, 0.00, 255.00" disp_lines="8" selected_font_color="255.00, 174.00, 43.00, 255.00" decided_font_color="255.00, 174.00, 43.00, 255.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" disp_scroll_bar="false" size_w="329"/>
+		<image name="MenuTitleImage" style="gen_window02_subtitle" viewer_visible="false" size_wh="356.00, 59.00, 0.00" pos="20.00, -18.00, 0.00" visible="false">
+			<text text="★选单标题" name="MenuTitleText" pos="176, 5, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" align="center" copy="TEXTCOLOR_BROWN"/>
+		</image>
+	</node>
+	<!--***↓アニメーションデータ ***-->
+	<anim_ctrl name="menu_enter" play="false" loop="false" reverse="false" viewer_key_assign="0">
+		<bind_node node="Top" anim="extra_common_fade_in"/>
+		<bind_node node="Top" anim="extra_common_slide_down_to"/>
+	</anim_ctrl>
+	<anim_ctrl name="menu_exit" play="false" loop="false" reverse="true" viewer_key_assign="1">
+		<bind_node node="Top" anim="extra_common_fade_in"/>
+		<bind_node node="Top" anim="extra_common_slide_down_to"/>
+	</anim_ctrl>
+</root>

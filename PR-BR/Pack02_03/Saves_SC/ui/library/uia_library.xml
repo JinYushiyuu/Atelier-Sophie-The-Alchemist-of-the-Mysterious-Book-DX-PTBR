@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+  <!-- 通常のフェードイン -->
+  <anim name="library_common_fade_in">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,  0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+  <!-- 通常のフェードアウト -->
+  <anim name="library_common_fade_out">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,255"/>
+      <key time="0.25"	value="255,255,255,  0"/>
+    </curve>
+  </anim>
+
+  <!-- 通常のスライドレフト -->
+  <anim name="library_slide_left">
+    <curve attr="pos">
+      <key time="0.0"   value="50.0,0"/>
+      <key time="0.25"   value="0.0,0"/>
+    </curve>
+  </anim>
+  
+  <!-- トップメニュー項目のスライドレフト -->
+  <anim name="library_topmenu_slide_left">
+    <curve attr="pos">
+      <key time="0.0"   value="0.0,0"/>
+      <key time="0.25"   value="-150.0,0"/>
+    </curve>
+  </anim>
+  <!-- トップメニュー項目のスライドライト -->
+  <anim name="library_topmenu_slide_right">
+    <curve attr="pos">
+      <key time="0.0"   value="-150.0,0"/>
+      <key time="0.25"   value="0.0,0"/>
+    </curve>
+  </anim>
+
+  <!-- サブメニューのフェードイン -->
+  <anim name="library_submenu_fade_in">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,  0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+  <!-- サブメニューのスライドアップ -->
+  <anim name="library_submenu_slide_up">
+    <curve attr="pos">
+      <key time="0.0"		value="0.0, 16.0, 0.0"/>
+      <key time="0.25"	  value="0.0, 0.0, 0.0"/>
+    </curve>
+  </anim>
+  <!-- サブメニューのフェードアウト -->
+  <anim name="library_submenu_fade_out">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,255"/>
+      <key time="0.25"	value="255,255,255,  0"/>
+    </curve>
+  </anim>
+  <!-- サブメニューのスライドダウン -->
+  <anim name="library_submenu_slide_down">
+    <curve attr="pos">
+      <key time="0.0"		value="0.0, 0.0, 0.0"/>
+      <key time="0.25"	  value="0.0, 16.0, 0.0"/>
+    </curve>
+  </anim>
+
+  <!-- 情報欄のフェードイン -->
+  <anim name="library_info_fade_in">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,  0"/>
+      <key time="0.25"	value="255,255,255,255"/>
+    </curve>
+  </anim>
+  <!-- 通常のフェードアウト -->
+  <anim name="library_info_fade_out">
+    <curve attr="color">
+      <key time="0.0"		value="255,255,255,255"/>
+      <key time="0.25"	value="255,255,255,  0"/>
+    </curve>
+  </anim>
+
+  <!-- 情報欄のフェードイン -->
+  <anim name="library_cursor_flash">
+    <curve attr="color">
+      <key time="0.0"	  value="255,255,255,160"/>
+      <key time="0.5"	  value="255,255,255,255"/>
+      <key time="1.0"	  value="255,255,255,160"/>
+    </curve>
+  </anim>
+  
+</root>

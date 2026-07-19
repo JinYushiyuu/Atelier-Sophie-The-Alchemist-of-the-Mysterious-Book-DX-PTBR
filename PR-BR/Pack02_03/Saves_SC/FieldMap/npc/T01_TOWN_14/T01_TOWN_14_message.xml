@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_14_message message_data="ELISE_TOWN01_14" chara_tag="ELISE" name_tag="ELISE" voice_no1="-1" message1="……"/>
+    <T01_TOWN_14_message message_data="QC01_MON_260_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="今天要看什么样的书？" next_message_tag="QC01_MON_260_MONIKA"/>
+    <T01_TOWN_14_message message_data="QC01_MON_260_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="这个嘛……"/>
+    <T01_TOWN_14_message message_data="QC01_MON_330_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="既然如此，那这本如何？" next_message_tag="QC01_MON_330_MONIKA"/>
+    <T01_TOWN_14_message message_data="QC01_MON_330_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="让我看看。"/>
+    <T01_TOWN_14_message message_data="QC03_JUL_040_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="说到最近流行的……" next_message_tag="QC03_JUL_040_JULIO"/>
+    <T01_TOWN_14_message message_data="QC03_JUL_040_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="-1" message1="也有那种东西吗？"/>
+    <T01_TOWN_14_message message_data="QC06_HAR_120_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="这类的如何呢？" next_message_tag="QC06_HAR_120_PAUL"/>
+    <T01_TOWN_14_message message_data="QC06_HAR_120_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="嗯……"/>
+    <T01_TOWN_14_message message_data="QC12_HOR_070_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="那这个如何呢？" next_message_tag="QC12_HOR_070_HELLMUT"/>
+    <T01_TOWN_14_message message_data="QC12_HOR_070_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="哦，这是……"/>
+    <T01_TOWN_14_message message_data="MS01_130_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="-1" message1="……" next_message_tag="MS01_130_PAUL"/>
+    <T01_TOWN_14_message message_data="MS01_130_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="……"/>
+    <T01_TOWN_14_message message_data="MM09_010_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="9071" message1="辛苦了。"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_00" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="11772" message1="虽说从后面往前阅读&lt;CR&gt;也很有意思……" next_message_tag="TOWN_14_NPC23A_01"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_01" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="-1" message1="但我喜欢将所有页面&lt;CR&gt;拆散后，再组合成&lt;CR&gt;我自己的故事。"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_10" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="11772" message1="为了在活着的期间多看一点书，&lt;CR&gt;所以我有在练习速读。" next_message_tag="TOWN_14_NPC23A_11"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_11" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="-1" message1="不过，一直都没办法变得更快。&lt;CR&gt;或许让自己活着的期间变长&lt;CR&gt;对我来说会比较简单吧。"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_20" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="11772" message1="我很怕把有趣的书看完，&lt;CR&gt;结果又从开始看了好几次。" next_message_tag="TOWN_14_NPC23A_21"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23A_21" chara_tag="NPC23A" name_tag="NPC23A_03" voice_no1="-1" message1="可能是因为这样，我第１页的阅读次数&lt;CR&gt;随便都能超过百次。"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_00" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="11739" message1="我正在研究&lt;CR&gt;魔物的生态。" next_message_tag="TOWN_14_NPC23B_01"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_01" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="-1" message1="有什么想知道的，&lt;CR&gt;尽管来问我哦。"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_10" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="11739" message1="似乎有不少魔物的行动&lt;CR&gt;会随天气改变呢。" next_message_tag="TOWN_14_NPC23B_11"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_11" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="-1" message1="像下雨或夜晚就是最好的例子。&lt;CR&gt;那些日子最好要多加注意。"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_20" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="11739" message1="众所皆知，大部分的魔物&lt;CR&gt;都有弱点。" next_message_tag="TOWN_14_NPC23B_21"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_21" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="-1" message1="当魔物体力减少时，或在战斗开始&lt;CR&gt;经过一段时间之后等的情况下……&lt;CR&gt;似乎就会做出特定的行动。"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_SP" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="11739" message1="你在调查魔物的事吗？&lt;CR&gt;我也是……" next_message_tag="TOWN_14_NPC23B_SP_00"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_SP_00" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="-1" message1="不介意的话，&lt;CR&gt;我们交换一下情报吧。" next_message_tag="TOWN_14_NPC23B_SP_01"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_SP_01" chara_tag="NPC23B" name_tag="NPC23B_01" voice_no1="-1" message1="…………&lt;CR&gt;…………" next_message_tag="TOWN_14_NPC23B_SP_02"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC23B_SP_02" chara_tag="NPC23B" voice_no1="-1" message1="&lt;CLGR&gt;请教了许多&lt;CR&gt;魔物相关的事。&lt;CLNR&gt;"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC27A_00" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="11743" message1="我在确认&lt;CR&gt;新刊出了没。"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC27A_10" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="11743" message1="系列作我会想一口气看完，&lt;CR&gt;所以会一次买整套。"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC27A_20" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="11743" message1="我喜欢有插画的小说。&lt;CR&gt;因为相当方便阅读。"/>
+    <T01_TOWN_14_message message_data="TOWN_14_NPC27A_21" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="-1" message1="……"/>
+</Root>

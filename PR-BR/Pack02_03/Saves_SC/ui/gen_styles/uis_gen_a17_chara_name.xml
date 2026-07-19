@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_chara_n03bg" texture="ui/a17_chara_name.g1t"  texture_index="3" prim_type="wrap" edge_margin="109,0,109,128" uvwh="0,0,576,128"/>
+	<image_list name="gen_a17_chara_name01">
+		<image name="gen_a17_chara_name01__xLIST01" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="0,0,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST02" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="0,96,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST03" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="0,192,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST04" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="0,288,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST05" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="0,384,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST06" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="0,480,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST07" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="0,576,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST08" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="0,672,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST09" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="620,0,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST10" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="620,96,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST11" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="620,192,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST12" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="620,288,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST13" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="620,384,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST14" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="620,480,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST15" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="620,576,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST16" texture="ui/a17_chara_name.g1t" texture_index="0" uvwh="620,672,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST17" texture="ui/a17_chara_name.g1t" texture_index="2" uvwh="0,576,615,96"/>
+		<image name="gen_a17_chara_name01__xLIST18" texture="ui/a17_chara_name.g1t" texture_index="2" uvwh="0,672,615,96"/>
+	</image_list>
+	<image_list name="gen_a17_chara_name02">
+		<image name="gen_a17_chara_name02__xLIST01" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,0,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST02" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,64,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST03" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,128,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST04" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,192,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST05" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,256,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST06" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,320,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST07" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,384,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST08" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,448,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST09" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,512,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST10" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,576,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST11" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,640,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST12" texture="ui/a17_chara_name.g1t" texture_index="1" uvwh="0,704,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST13" texture="ui/a17_chara_name.g1t" texture_index="2" uvwh="0,0,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST14" texture="ui/a17_chara_name.g1t" texture_index="2" uvwh="0,64,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST15" texture="ui/a17_chara_name.g1t" texture_index="2" uvwh="0,128,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST16" texture="ui/a17_chara_name.g1t" texture_index="2" uvwh="0,192,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST17" texture="ui/a17_chara_name.g1t" texture_index="2" uvwh="0,256,576,64"/>
+		<image name="gen_a17_chara_name02__xLIST18" texture="ui/a17_chara_name.g1t" texture_index="2" uvwh="0,320,576,64"/>
+	</image_list>
+	<image_list name="gen_a17_chara_name03_star">
+		<image name="gen_a17_chara_name03_star__xLIST01" texture="ui/a17_chara_name.g1t" texture_index="3" uvwh="640,0,64,64"/>
+		<image name="gen_a17_chara_name03_star__xLIST02" texture="ui/a17_chara_name.g1t" texture_index="3" uvwh="640,64,64,64"/>
+		<image name="gen_a17_chara_name03_star__xLIST03" texture="ui/a17_chara_name.g1t" texture_index="3" uvwh="640,128,64,64"/>
+		<image name="gen_a17_chara_name03_star__xLIST04" texture="ui/a17_chara_name.g1t" texture_index="3" uvwh="704,0,64,64"/>
+		<image name="gen_a17_chara_name03_star__xLIST05" texture="ui/a17_chara_name.g1t" texture_index="3" uvwh="704,64,64,64"/>
+		<image name="gen_a17_chara_name03_star__xLIST06" texture="ui/a17_chara_name.g1t" texture_index="3" uvwh="704,128,64,64"/>
+	</image_list>
+</root>

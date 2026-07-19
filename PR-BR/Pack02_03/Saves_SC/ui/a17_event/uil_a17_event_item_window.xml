@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<node name="top">
+		<image name="bg_image" style="gen_a17_item_info01_itembg02" pos="-11.00, -3.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="200.00, 200.00, 0.00"/>
+		<image name="item_image" style="etc_a17_item_l" pos="23, 29, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="128.00, 128.00, 0.00"/>
+	</node>
+</root>

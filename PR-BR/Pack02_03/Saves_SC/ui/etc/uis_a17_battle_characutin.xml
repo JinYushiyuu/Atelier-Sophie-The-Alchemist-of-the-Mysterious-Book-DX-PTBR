@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/CNN/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image_list name="etc_a17_battle_characutin">
+		<image name="etc_a17_battle_characutin_0000" texture="ui/a17_battle_characutin_000.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--ソフィー-->
+		<image name="etc_a17_battle_characutin_0001" texture="ui/a17_battle_characutin_001.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--プラフタ人体-->
+		<image name="etc_a17_battle_characutin_0002" texture="ui/a17_battle_characutin_002.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--モニカ-->
+		<image name="etc_a17_battle_characutin_0003" texture="ui/a17_battle_characutin_003.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--オスカー-->
+		<image name="etc_a17_battle_characutin_0004" texture="ui/a17_battle_characutin_004.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--ジュリオ-->
+		<image name="etc_a17_battle_characutin_0005" texture="ui/a17_battle_characutin_005.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--フリッツ-->
+		<image name="etc_a17_battle_characutin_0006" texture="ui/a17_battle_characutin_006.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--コルネリア-->
+		<image name="etc_a17_battle_characutin_0007" texture="ui/a17_battle_characutin_007.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--ハロル-->
+		<image name="etc_a17_battle_characutin_0008" texture="ui/a17_battle_characutin_008.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--アメリア-->
+		<image name="etc_a17_battle_characutin_0009" texture="ui/a17_battle_characutin_002.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--ロジーヌ-->
+		<image name="etc_a17_battle_characutin_0010" texture="ui/a17_battle_characutin_002.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--パメラ-->
+		<image name="etc_a17_battle_characutin_0011" texture="ui/a17_battle_characutin_002.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--テス-->
+		<image name="etc_a17_battle_characutin_0012" texture="ui/a17_battle_characutin_012.g1t" texture_index="0" uvwh=" 0, 0, 1920, 1080"/><!--ソフィー変身後-->
+	</image_list>
+</root>

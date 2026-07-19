@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <Rank Name="距离下个记忆……" TAG="RANK_00" LearnCnt="5" StartEvent="EVENT_NONE" EndEvent="EVENT_MM02_020" AchievementTag="ACHIEVEMENT_RED_03_00"/>
+    <Rank Name="距离下个记忆……" TAG="RANK_01" LearnCnt="12" StartEvent="EVENT_MM02_020" EndEvent="EVENT_MM02_050" AchievementTag="ACHIEVEMENT_RED_06_00"/>
+    <Rank Name="距离下个记忆……" TAG="RANK_02" LearnCnt="18" StartEvent="EVENT_MM02_050" EndEvent="EVENT_MM02_110" AchievementTag="ACHIEVEMENT_BLUE_10_00"/>
+    <Rank Name="距离下个记忆……" TAG="RANK_03" LearnCnt="24" StartEvent="EVENT_MM02_110" EndEvent="EVENT_MM02_130" AchievementTag="ACHIEVEMENT_GREEN_02_00"/>
+    <Rank Name="距离下个记忆……" TAG="RANK_04" LearnCnt="32" StartEvent="EVENT_MM02_130" EndEvent="EVENT_MM02_160" AchievementTag="ACHIEVEMENT_RED_07_00"/>
+    <Rank Name="距离下个记忆……" TAG="RANK_05" LearnCnt="36" StartEvent="EVENT_MM02_160" EndEvent="EVENT_MM02_190" AchievementTag="ACHIEVEMENT_RED_08_00"/>
+    <Rank Name="距离下个记忆……" TAG="RANK_06" LearnCnt="42" StartEvent="EVENT_MM02_190" EndEvent="EVENT_MM02_210" AchievementTag="ACHIEVEMENT_WHITE_20_00"/>
+    <Rank Name="距离下个记忆……" TAG="RANK_07" LearnCnt="45" StartEvent="EVENT_MM02_210" EndEvent="EVENT_MM06_040" AchievementTag="ACHIEVEMENT_RED_19_00"/>
+    <Rank Name="距离下个记忆……" TAG="RANK_08" LearnCnt="54" StartEvent="EVENT_MM06_040" EndEvent="EVENT_MM06_020" AchievementTag="ACHIEVEMENT_WHITE_14_00"/>
+    <Rank Name="距离下个记忆……" TAG="RANK_09" LearnCnt="57" StartEvent="EVENT_MM06_020" EndEvent="EVENT_MM07_010" AchievementTag="ACHIEVEMENT_WHITE_22_00"/>
+    <Rank Name="不可思议的炼金术士" TAG="RANK_10" LearnCnt="60" StartEvent="EVENT_MM07_010" EndEvent="EVENT_NONE" AchievementTag="ACHIEVEMENT_WHITE_22_00"/>
+    <Rank TAG="RANK_11" LearnCnt="84" StartEvent="EVENT_NONE" EndEvent="EVENT_NONE"/>
+    <Rank TAG="RANK_12" LearnCnt="100" StartEvent="EVENT_NONE" EndEvent="EVENT_NONE"/>
+</Root>

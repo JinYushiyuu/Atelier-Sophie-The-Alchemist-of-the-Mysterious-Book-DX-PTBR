@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root camera_fov="30" proj_to_near="1" proj_to_far="10000">
+	<command load_style="/Saves/ui/uis_common.xml"/>
+	<image name="image" style="common_white_image" size_wh="1280.00, 60.00, 0.00" pos="0.00, 662.00, 0.00" color="32.00, 64.00, 96.00, 128.00"/>
+	<text text="&lt;IM19&gt;:ヘルプ(P)  &lt;IM20&gt;:XMLを開く(O)  マウス左+shift:移動  マウス左+shift+ctrl:サイズ変更" name="line_help_text" pos="44, 668, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" font_size="16.00" drop_shadow="true"/>
+</root>

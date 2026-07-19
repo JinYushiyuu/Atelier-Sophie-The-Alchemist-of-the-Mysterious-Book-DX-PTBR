@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<command load_style="Saves/ui/samples/image/uis_image.xml" />
+
+	<image pos="100,100" style="8colors_window" size_wh="40,20" scale="20,20" rot="0,0,0"  />
+
+</root>
+

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓アニメーションの読込み ***-->
+	<command load_anim="Saves/ui/a17_battle/uia_a17_battle.xml"/>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="etc_a17_bg" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00" pos="0.00, -4.00, 0.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="hpmp" viewer_visible="false">
+			<node name="param" pos="91, -64, 0" viewer_visible="false">
+				<image name="param_frame" style="gen_a17_battle01_hpframe" pos="-39, 69, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="174, 72"/>
+				<node name="hp">
+					<image name="hp_gauge_bg" style="gen_a17_battle01_gaugeframe" pos="-14.00, 82.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="92.00, 10.00, 0.00"/>
+					<image name="hp_gauge" style="gen_a17_battle01_gauge_bighp" pos="-10.00, 84.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="80.00, 10.00, 0.00"/>
+					<text text="99" name="hp_text" pos="103.00, 78.00, 0.00" font="A17_BATTLE_ST_HP" word_space="-6.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<anim_ctrl name="gauge_hp_move">
+						<bind_node name="bind_node" node="hp_gauge" anim="gauge_move_f"/>
+					</anim_ctrl>
+				</node>
+				<node name="mp" pos="1, 22, 0">
+					<image name="mp_gauge_bg" style="gen_a17_battle01_gaugeframe" pos="-15.00, 82.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="92.00, 10.00, 0.00"/>
+					<image name="mp_gauge" style="gen_a17_battle01_gauge_bigmp" pos="-11.00, 84.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="80.00, 10.00, 0.00"/>
+					<text text="99" name="mp_text" pos="102.00, 79.00, 0.00" font="A17_BATTLE_ST_MP" word_space="-6.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+					<anim_ctrl name="gauge_mp_move">
+						<bind_node name="bind_node" node="mp_gauge" anim="gauge_move_f"/>
+					</anim_ctrl>
+				</node>
+			</node>
+			<node name="face" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="face_dead" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle02_image_d"/>
+				<image name="face_normal" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle02_image_a"/>
+				<image name="face_frame" pos="-2.00, -1.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle02_imageframe"/>
+			</node>
+			<image name="support" style="gen_a17_battle07_f" pos="-6.00, -5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+			<node name="icon" viewer_visible="false" pos="23, -2, 0">
+				<node name="condition_prev">
+					<image name="icon" style="gen_a17_battle05_icon01" pos="-12.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="true"/>
+					<anim_ctrl name="condition_in" speed="4.00">
+						<bind_node name="bind_node" node="icon" anim="common_r_in"/>
+					</anim_ctrl>
+					<anim_ctrl name="condition_out" speed="4.00">
+						<bind_node name="bind_node" node="icon" anim="common_l_out"/>
+					</anim_ctrl>
+				</node>
+				<node name="condition_now" clone_child_tree="condition_prev"/>
+				<node name="param_change_prev" pos="-35.00, 3.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="icon" style="gen_a17_battle05_icon02" pos="-11, -3, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+					<anim_ctrl name="param_change_out" speed="4.00">
+						<bind_node name="bind_node" node="icon" anim="common_l_out"/>
+					</anim_ctrl>
+					<anim_ctrl name="param_change_in" speed="4.00">
+						<bind_node name="bind_node" node="icon" anim="common_r_in"/>
+					</anim_ctrl>
+				</node>
+				<node name="param_change_now" pos="-35.00, 3.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" clone_child_tree="param_change_prev"/>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" viewer_visible="true" visible="true">
+		<node name="actname" pos="655.00, 45.00, 0.00">
+			<node name="actname1" visible="false" viewer_visible="true">
+				<image name="actname_bg" style="gen_a17_battle01_n" pos="-146.00, 2.00, -0.00" size_wh="304.00, 63.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="アイウエオカキクケコ" name="actname_text" rot="-0.00, -0.00, -0.00" pos="3.00, 14.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" align="center" font_size="29.00" color="53.00, 19.00, 0.00, 255.00" word_space="-3.00"/>
+				<anim_ctrl name="enter" viewer_key_assign="1" start_visible="true" end_visible="">
+					<bind_node name="bind_node" node="actname1" anim="skill_enter"/>
+				</anim_ctrl>
+			</node>
+			<node name="actname2" pos="-0.00, -0.00, -0.00" visible="false" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="actname_bg" style="gen_a17_battle01_n" pos="-146.00, 2.00, -0.00" size_wh="304.00, 63.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="アイウエオカキクケコ" name="actname_text" rot="-0.00, -0.00, -0.00" pos="3.00, 14.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" align="center" font_size="29.00" color="53.00, 19.00, 0.00, 255.00" word_space="-3.00"/>
+				<anim_ctrl name="enter" viewer_key_assign="1" start_visible="true" end_visible="" delay="2.00">
+					<bind_node name="bind_node" node="actname2" anim="skill_enter"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<node name="party" pos="350.00, 600.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="true">
+			<node copy="hpmp" clone_child_tree="hpmp" name="party_status_00" pos="-40.00, -27.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="hpmp" clone_child_tree="hpmp" name="party_status_01" pos="196.67, -25.33, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="hpmp" clone_child_tree="hpmp" name="party_status_02" pos="433.33, -23.67, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="hpmp" clone_child_tree="hpmp" name="party_status_03" pos="670.00, -22.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="command" viewer_visible="true" pos="-200, 91, 0" visible="false">
+			<node name="cmd_name" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="550.00, 225.00, 0.00" visible="true">
+				<image name="cmd_name_bg" style="gen_a17_battle03_commandoname"/>
+				<text text="あいうえお" name="cmd_name_text" color="238.00, 224.00, 255.00, 255.00" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="89, 6, 0" align="center" font_size="25.00"/>
+			</node>
+			<image name="circle" style="gen_a17_battle01_circle" pos="570, 301, 0"/>
+			<node name="cmd_icon_def" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="529.00, 329.00, 0.00">
+				<image name="cmd_icon_unselect" style="gen_a17_battle02_def" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true"/>
+				<image name="cmd_icon_select" style="gen_a17_battle02_def" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" visible="false" viewer_visible="false"/>
+				<anim_ctrl name="anim_ctrl" loop="true" play="true">
+					<bind_node anim="anm_common_cursor_blink" node="cmd_icon_select"/>
+				</anim_ctrl>
+			</node>
+			<node name="cmd_icon_esc" pos="595.00, 395.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="cmd_icon_unselect" style="gen_a17_battle02_escape" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="cmd_icon_select" style="gen_a17_battle02_escape" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" visible="false"/>
+				<anim_ctrl name="anim_ctrl" loop="true" play="true">
+					<bind_node anim="anm_common_cursor_blink" node="cmd_icon_select"/>
+				</anim_ctrl>
+			</node>
+			<node name="cmd_icon_skill" pos="660.00, 329.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<image name="cmd_icon_unselect" style="gen_a17_battle02_skill" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="cmd_icon_select" style="gen_a17_battle02_skill" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" visible="false" viewer_visible="false"/>
+				<anim_ctrl name="anim_ctrl" loop="true" play="true">
+					<bind_node anim="anm_common_cursor_blink" node="cmd_icon_select"/>
+				</anim_ctrl>
+			</node>
+			<node name="cmd_icon_item" pos="595.00, 263.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="cmd_icon_unselect" style="gen_a17_battle02_item" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="cmd_icon_select" style="gen_a17_battle02_item" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" visible="false" viewer_visible="false"/>
+				<anim_ctrl name="anim_ctrl" loop="true" play="true">
+					<bind_node anim="anm_common_cursor_blink" node="cmd_icon_select"/>
+				</anim_ctrl>
+			</node>
+			<node name="cmd_icon_atk" pos="595.00, 329.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="cmd_icon_unselect" style="gen_a17_battle02_atk" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="cmd_icon_select" style="gen_a17_battle02_atk" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" visible="false" viewer_visible="false"/>
+				<anim_ctrl name="anim_ctrl" loop="true" play="true">
+					<bind_node anim="anm_common_cursor_blink" node="cmd_icon_select"/>
+				</anim_ctrl>
+			</node>
+			<node name="cmd_explanation" pos="506.00, 474.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+				<image name="commando_sentence" style="gen_a17_battle03_commando_sentence"/>
+				<text name="text_11" color="53.00, 19.00, 0.00, 255.00" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="135.00, 7.00, -0.00" align="center" font_size="25.00"/>
+			</node>
+			<anim_ctrl name="enter" start_visible="true" speed="4.00">
+				<bind_node name="bind_node" node="command" anim="common_fade_in"/>
+			</anim_ctrl>
+			<anim_ctrl name="exit" end_visible="false" speed="4.00">
+				<bind_node name="bind_node" node="command" anim="common_fade_out"/>
+			</anim_ctrl>
+			<!--***↓0819_サポートをコマンド近くに移動 ***-->
+			<node name="support_stance">
+				<node name="stance_defence">
+					<image name="l1r1" pos="466.00, 278.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle07_s_l"/>
+					<text text="&lt;IM12&gt;" name="btn_text" font_size="17.00" pos="466.00, 278.00, 0.00" bold_color="0.00, 0.00, 0.00, 255.00" bold_size="1.50" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+						<!--DX用に切り替えようのボタンを追加-->
+					</text>
+					<image name="stance_defence" style="gen_a17_battle04_support" pos="487.00, 270.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<image name="stance_defence_1" style="gen_a17_battle04_support_l" pos="484.00, 265.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true"/>
+					<anim_ctrl name="anim_ctrl" loop="true" play="true">
+						<bind_node anim="anm_common_cursor_blink" node="stance_defence_1"/>
+					</anim_ctrl>
+				</node>
+				<node name="stance_attack" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="l1r1" pos="782.00, 278.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_battle07_s_r" image_no="1"/>
+					<text text="&lt;IM16&gt;" name="btn_text" font_size="17.00" pos="786.00, 279.00, 0.00" bold_color="0.00, 0.00, 0.00, 255.00" bold_size="1.50" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+						<!--DX用に切り替えようのボタンを追加-->
+					</text>
+					<image name="stance_attack" style="gen_a17_battle04_support" pos="682.00, 270.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+					<image name="stance_attack_1" style="gen_a17_battle04_support_l" pos="679.00, 265.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" image_no="1"/>
+					<anim_ctrl name="anim_ctrl_1" loop="true" play="true">
+						<bind_node anim="anm_common_cursor_blink" node="stance_attack_1"/>
+					</anim_ctrl>
+				</node>
+			</node>
+		</node>
+		<node name="damage" pos="400.00, 400.00, -0.00" visible="false" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="damage_digit" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-0.00, -0.00, -0.00" visible="true">
+				<text pos="-13.00, 2.00, -0.00" name="damage_hp_number" text="+100" align="right" word_space="-5.00" font="A17_BATTLE_HP" viewer_visible="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false"/>
+				<text pos="-13.00, 2.00, -0.00" name="damage_mp_number" text="+100" align="right" word_space="-5.00" font="A17_BATTLE_MP" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+				<anim_ctrl name="damage_prim1" play="false" loop="false" start_visible="true" viewer_key_assign="0">
+					<bind_node node="damage_digit" anim="damage_prim1" speed="4.00"/>
+				</anim_ctrl>
+				<anim_ctrl name="damage_prim2" play="false" loop="false" start_visible="true" viewer_key_assign="1">
+					<bind_node node="damage_digit" anim="damage_prim2" speed="4.00"/>
+				</anim_ctrl>
+			</node>
+			<node name="damage_type" viewer_visible="false">
+				<image name="damage_hp_img" style="gen_a17_battle01_hp" pos="-5.00, -5.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+				<image name="damage_mp_img" style="gen_a17_battle01_mp" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-5.00, -5.00, 0.00" visible="false" viewer_visible="false"/>
+			</node>
+			<anim_ctrl name="ac_start" play="false" loop="false" start_visible="true" viewer_key_assign="2">
+				<bind_node node="damage" anim="damage_normal"/>
+			</anim_ctrl>
+		</node>
+		<node name="monster" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true" pos="331, -90, 0">
+			<node name="monster_status" pos="-133.00, -37.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="bg" style="gen_a17_battle01_hpframe_m" pos="-5.00, 0.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+				<text text="ああああああああああ" name="name" rot="-0.00, -0.00, -0.00" pos="140, -2, 0" scale="1.00, 1.00, 1.00" viewer_visible="false" align="center" font_size="25.00" color="53.00, 19.00, 0.00, 255.00" word_space="-2.00"/>
+				<node name="hp" pos="148, -57, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="hp_gauge_bg" style="gen_a17_battle01_gaugeframe" pos="-59, 92, 0" rot="-0.00, -0.00, -0.00" scale="0.90, 1.00, 1.00" size_wh="122.00, 10.00, 0.00">
+						<image name="hp_gauge" style="gen_a17_battle01_gauge_bighp" pos="3.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="110.00, 10.00, 0.00" offset_uvwh="0.00, 0.00, 0.00, 0.00"/>
+					</image>
+					<text text="99" name="hp_text" pos="105.00, 87.00, 0.00" font="A17_BATTLE_ST_HP" word_space="-6.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" align="right"/>
+					<!--***↓0618追加 ***-->
+					<text text="99" name="lv_text" pos="-92, 87, 0" font="A17_BATTLE_MONSTER_LV" word_space="-6.00" align="left" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<anim_ctrl name="gauge_hp_move" viewer_key_assign="1">
+						<bind_node name="bind_node" node="hp_gauge" anim="gauge_move_f_monster"/>
+					</anim_ctrl>
+				</node>
+				<node name="icon">
+					<node name="condition_prev">
+						<image name="icon" style="gen_a17_battle05_icon01" pos="-20, -2, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+						<anim_ctrl name="condition_in" speed="4.00">
+							<bind_node name="bind_node" node="icon" anim="common_r_in"/>
+						</anim_ctrl>
+						<anim_ctrl name="condition_out" speed="4.00">
+							<bind_node name="bind_node" node="icon" anim="common_l_out"/>
+						</anim_ctrl>
+					</node>
+					<!--***↓新状態異常アイコン。場所はこのままでこのアイコンを適用してください。***-->
+					<node name="condition_now" pos="-0, 1, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" clone_child_tree="condition_prev"/>
+					<!--***↓旧状態異常アイコン削除してください。***-->
+					<node name="param_change_prev" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+						<node name="param_change" pos="-6.00, 30.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+							<image name="icon" style="gen_a17_battle05_icon02" pos="-15, -2, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+							<anim_ctrl name="param_change_out" speed="4.00">
+								<bind_node name="bind_node" node="param_change" anim="common_l_out"/>
+							</anim_ctrl>
+							<anim_ctrl name="param_change_in" speed="4.00">
+								<bind_node name="bind_node" node="param_change" anim="common_r_in"/>
+							</anim_ctrl>
+						</node>
+					</node>
+					<node name="param_change_now" pos="-6.00, 30.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" clone_child_tree="param_change_prev"/>
+				</node>
+				<anim_ctrl name="enter" start_visible="true" speed="4.00">
+					<bind_node node="monster_status" anim="common_fade_in"/>
+				</anim_ctrl>
+				<anim_ctrl name="exit" end_visible="false" speed="4.00">
+					<bind_node node="monster_status" anim="common_fade_out"/>
+				</anim_ctrl>
+			</node>
+		</node>
+		<node name="skill" pos="375.00, 343.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+			<node name="line_format" load="/Saves/ui/_a17_line_format/uil_a17_lf_skill_select.xml" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true"/>
+			<menu name="menu" style="common_menu_skill_select" pos="107.00, -171.00, 0.00" selected_font_color="175.00, 115.00, 0.00, 255.00"/>
+			<node name="explanation" pos="105.00, 124.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="bg" style="gen_a17_battle03_ss" size_wh="541.00, 150.00, 0.00"/>
+				<image name="line0" style="gen_a17_battle03_stlin_long" pos="18.00, 37.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="line1" style="gen_a17_battle03_stlin_long" pos="18.00, 72.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="あいうえおかきくけこさしすせそなにぬねのあいうえおかきくけこさしすせそなにぬねのあいうえおかきくけこさしすせそなにぬねの" name="message" color="53.00, 19.00, 0.00, 255.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" pos="12, 11, 0" line_char_length="20" line_space="10.00" font_size="25.00"/>
+			</node>
+			<anim_ctrl name="exit" end_visible="false" speed="4.00">
+				<bind_node name="bind_node" anim="common_l_out" node="skill"/>
+			</anim_ctrl>
+			<anim_ctrl name="enter" start_visible="true" speed="4.00">
+				<bind_node name="bind_node" anim="common_l_in" node="skill" start_visible="true"/>
+			</anim_ctrl>
+		</node>
+		<node name="burstgauge" pos="196, 17, 0" visible="false" viewer_visible="false">
+			<image name="burstgauge_bg" style="gen_a17_battle03_burstgaugebg" pos="-0.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<image name="burstgauge_bar" style="gen_a17_battle03_burstgaugebar" pos="61.00, 2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="170, 32"/>
+			<image name="burstgauge_frame" style="gen_a17_battle03_burst_g" pos="-3.00, -2.00, -0.00" size_wh="234.00, 74.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<!--***以下100％になった時のゲージ***-->
+			<node name="burstgauge_burst_frame" pos="-3.00, -2.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+				<image name="burstgauge_burst_frame" style="gen_a17_battle03_burst_g" pos="-0.00, -0.00, -0.00" size_wh="234.00, 74.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" viewer_visible="false"/>
+				<image name="burstgauge_burst" style="gen_a17_battle03_burst" pos="77.00, 43.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<text text="%" name="burstgauge_perct_unit" font="A17_BURST01" word_space="-16.00" pos="48, 37, 0" align="center"/>
+			<text text="100" name="burstgauge_perct_num" font="A17_BURST01" word_space="-16.00" pos="20, 17, 0" align="center"/>
+			<anim_ctrl name="burstgauge_stretch" viewer_key_assign="9" speed="4.00">
+				<bind_node name="bind_node" anim="burst_stretch" node="burstgauge_bar"/>
+			</anim_ctrl>
+		</node>
+		<!--***↓ここからA16 ***-->
+		<!--***↓a17のdamageletter ***-->
+		<node name="tag" visible="false" viewer_visible="true">
+			<image pos="-115, -18, 0" name="tag_prim" style="etc_a17_battle_damageletter" image_no="56"/>
+			<anim_ctrl name="ac_start" play="false" loop="false" speed="1.0" start_visible="true" viewer_key_assign="5">
+				<bind_node node="tag" anim="tag_normal" reverse="false"/>
+			</anim_ctrl>
+		</node>
+		<node name="common" viewer_visible="true">
+			<node name="c_burst" pos="640.00, 360.00, 0.00" visible="false" viewer_visible="false">
+				<anim_ctrl name="common_burst_enter" start_visible="true" end_visible="false">
+					<bind_node node="c_burst" anim="burst_in"/>
+				</anim_ctrl>
+				<image name="image_12" pos="-640.00, -80.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_battle10_burst_cutin"/>
+			</node>
+		</node>
+		<!--***↓A17のchainとmaxdamage ***-->
+		<node name="chain" viewer_visible="false" pos="858, -15, 0">
+			<node name="main" viewer_visible="true" visible="false" pivot_pos="200.00, 70.00, 0.00" pivot_enable="true" pos="-28, -1, 0">
+				<text text="12" name="chain_text" font="A17_CHAIN_MAXDAMAGE" pos="263.00, 59.00, 0.00" visible="true" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" word_space="-8.00"/>
+				<text text="23" name="damage_text" font="A17_CHAIN_MAXDAMAGE" pos="263.00, 124.00, 0.00" visible="true" word_space="-8.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="image_21" style="gen_a17_battle06_chain" pos="130, 54, -0" visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="image_26" style="gen_a17_battle06_maxdamage" pos="10.00, 120.00, 0.00" visible="true" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="240, 45"/>
+			</node>
+			<anim_ctrl name="enter" start_visible="true" speed="4.00">
+				<bind_node name="bind_node" anim="common_l_in" node="main"/>
+			</anim_ctrl>
+			<anim_ctrl name="up" speed="4.00">
+				<bind_node name="bind_node" anim="chain_up" node="main"/>
+			</anim_ctrl>
+			<anim_ctrl name="exit" end_visible="false" speed="4.00">
+				<bind_node name="bind_node" anim="common_l_out" node="main"/>
+			</anim_ctrl>
+		</node>
+		<!--***↓A17DX追加 戦闘速度倍率 ***-->
+		<node name="speed_rate" visible="false" viewer_visible="true" pos="1064, 532, 0">
+			<image name="bg_image" style="gen_a17_battle10_speedUp" pos="-19, -20, 0"/>
+			<node name="text_contents" pos="-3, 6, 0">
+				<text text="&lt;IM28&gt;" name="btn_text" font_size="15.00" pos="6, -3, 0" bold_color="0.00, 0.00, 0.00, 255.00" bold_size="1.50"/>
+				<text text="Speed Up (x1.5)" name="speed_comment" bold_size="1.50" bold_color="0.00, 0.00, 0.00, 255.00" font_size="15.00" pos="39, -3, 0"/>
+			</node>
+			<anim_ctrl name="enter" viewer_key_assign="9" speed="5.00" start_visible="true" exclusive_play="true">
+				<bind_node anim="common_fade_in" node="."/>
+			</anim_ctrl>
+			<anim_ctrl name="exit" viewer_key_assign="8" speed="5.00" end_visible="false" exclusive_play="true">
+				<bind_node anim="common_fade_out" node="."/>
+			</anim_ctrl>
+		</node>
+	</node>
+</root>

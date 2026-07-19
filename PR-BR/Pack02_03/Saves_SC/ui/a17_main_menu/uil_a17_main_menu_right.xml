@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false"/>
+	<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+	<node load="Saves/ui/uil_template.xml" name="template_loader" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="node" viewer_visible="true">
+			<node name="normal" viewer_visible="true">
+				<image name="bg" style="gen_a17_main_menu01_tag" visible="true" viewer_visible="true" pos="-0.00, -0.00, -0.00" image_no="0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="name" style="gen_a17_main_menu01_t_off" pos="50.00, 16.00, -0.00" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="icon" style="gen_a17_main_menu01_i01" pos="8.00, 9.00, -0.00" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node name="highlight" viewer_visible="true" visible="false">
+				<image name="bg_2" style="gen_a17_main_menu01_tag" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" viewer_visible="true"/>
+				<image name="bg" style="gen_a17_main_menu01_taglight" pos="0.00, 0.00, 0.00" viewer_visible="true"/>
+				<image name="name" style="gen_a17_main_menu01_t_on" pos="49, 15, 0" viewer_visible="true"/>
+				<anim_ctrl name="anim_ctrl" loop="true" play="true">
+					<bind_node node="bg" anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+				<image name="icon" style="gen_a17_main_menu01_i01" pos="8.00, 9.00, -0.00" viewer_visible="true" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+		<node name="node_1" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true">
+			<node name="sub_status" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false">
+				<image name="photoback" style="gen_a17_sub_status01_photoback" pos="0.00, 0.00, 0.00"/>
+				<image name="chara_image" style="gen_a17_sub_status01_ph01" pos="6, 12, 0">
+					<image name="status" pos="165, -13, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win02_w01" size_wh="236, 156"/>
+					<image name="tag" pos="-14.00, -24.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_sub_status01_tag" viewer_visible="false">
+						<text name="chara_name" copy="TEXTCOLOR_BROWN" rot="-0.00, -0.00, -2.98" pos="25.00, 18.00, -0.00" text="ロジーヌ" scale="1.00, 1.00, 1.00"/>
+					</image>
+				</image>
+				<node name="lv" pos="-784.00, -100.00, 0.00" viewer_visible="true">
+					<image name="lv" style="gen_a17_sub_status01_lv" pos="992, 114, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<text text="99" name="Lv_value" pos="112.00, -4.00, 0.00" copy="TEXTCOLOR_BROWN" font="A17_NUMBER01_30PX" word_space="-20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="center"/>
+					</image>
+					<image name="hp" style="gen_a17_sub_status01_hp" pos="988, 147, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" size_wh="42, 21">
+						<text text="999" name="HP_value" copy="TEXTCOLOR_BROWN" pos="102.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+						<text text="/" name="HP_slash" copy="TEXTCOLOR_BROWN" pos="104.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-15.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<text text="999" name="MHP_value" copy="TEXTCOLOR_BROWN" pos="120.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="left"/>
+					</image>
+					<image name="mp" style="gen_a17_sub_status01_mp" pos="988, 179, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<text text="999" name="MP_value" copy="TEXTCOLOR_BROWN" pos="102.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+						<text text="/" name="MP_slash" copy="TEXTCOLOR_BROWN" pos="104.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-15.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<text text="999" name="MMP_value" copy="TEXTCOLOR_BROWN" pos="120.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="left"/>
+					</image>
+					<image name="lp" style="gen_a17_sub_status01_lp" pos="989, 211, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<text text="999" name="LP_value" copy="TEXTCOLOR_BROWN" pos="102.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+						<text text="/" name="LP_slash" copy="TEXTCOLOR_BROWN" pos="104.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-15.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<text text="999" name="MLP_value" copy="TEXTCOLOR_BROWN" pos="120.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="left"/>
+					</image>
+				</node>
+			</node>
+			<node name="sub_status_photo" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="false">
+				<image name="photoback" style="gen_a17_sub_status01_photoback" pos="0.00, 0.00, 0.00"/>
+				<image name="chara_image" style="gen_a17_sub_status01_ph01" pos="8, 10, 0"/>
+			</node>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top" visible="true" viewer_visible="true">
+		<image name="book" style="etc_a17_bg" scale="0.84, 0.84, 0.84" pos="145.00, 12.00, 0.00" size_wh="1346.00, 854.00, 0.00" rot="-0.00, -0.00, -0.00" image_no="1"/>
+		<anim_ctrl name="get_in" start_visible="true" play="false" viewer_key_assign="8">
+			<bind_node node="top" anim="anm_common_fade_in"/>
+		</anim_ctrl>
+		<node name="main" pos="-30, -42, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="master" pos="-30, 86, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="true">
+				<!--***↓0520変更 ***-->
+				<image name="chara_image" style="gen_a17_main_menu02_ph01" pos="369.00, 51.00, 0.00" size_wh="303.00, 368.00, 0.00"/>
+				<image name="chara_bg" style="gen_a17_main_menu01_photoframe01" pos="339.00, 27.00, 0.00">
+					<text text="苏菲" name="chara_name" copy="TEXTCOLOR_BROWN" pos="157, 7, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+				<image name="bg_bookframe" style="gen_a17_main_menu01_photoframe02" pos="364.00, 428.00, 0.00" size_wh="365.00, 130.00, 0.00"/>
+				<!--***↓0727_追加 ***-->
+				<node name="recipe_idea_rank" pos="504.00, 517.00, -0.00" rot="-0.00, -0.00, -0.00" scale="0.90, 0.90, 1.00">
+					<image name="gauge_bg" style="gen_a17_main_menu01_gauge_bg">
+						<image name="gauge_main" style="gen_a17_main_menu01_gauge01" pos="9.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" size_wh="234, 29"/>
+						<image name="gauge_frame" style="gen_a17_main_menu01_gauge_f" pos="-13.00, -16.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+					</image>
+					<text text="熟練の錬金術師" name="rank_name" pos="125.78, -31.44, -0.00" rot="-0.00, -0.00, -0.00" scale="0.89, 0.89, 1.00" copy="TEXTCOLOR_BROWN" align="center"/>
+				</node>
+				<image name="main_menu01_complete" style="gen_a17_main_menu01_complete" pos="550.00, 495.00, 0.00" visible="false">
+					<text text="0" name="Perfection_value" copy="TEXTCOLOR_BROWN" font="A17_NUMBER01_34PX" word_space="-13.00" pos="61.00, -2.00, 0.00"/>
+					<text text="%" name="Perfection_percentage" copy="TEXTCOLOR_BROWN" font="A17_NUMBER01_34PX" word_space="-13.00" pos="116, -2, 0"/>
+				</image>
+				<node name="main_menu01_status" pos="572, 248, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+					<image name="main_menu01_status" pos="0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win02_w01" size_wh="236, 193"/>
+					<image name="lv" pos="33, 16, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_sub_status01_lv">
+						<text text="99" name="Lv_value" pos="100.00, -4.00, 0.00" copy="TEXTCOLOR_BROWN" font="A17_NUMBER01_30PX" word_space="-15.00" align="center" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</image>
+					<image name="hp" pos="29, 49, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" style="gen_a17_sub_status01_hp">
+						<text text="33" name="HP_value" copy="TEXTCOLOR_BROWN" pos="96.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" align="right" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<text text="/" name="HP_slash" copy="TEXTCOLOR_BROWN" pos="101.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-15.00" align="center" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<text text="33" name="MHP_value" copy="TEXTCOLOR_BROWN" pos="107.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</image>
+					<image name="mp" style="gen_a17_sub_status01_mp" pos="29, 81, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<text text="33" name="MP_value" copy="TEXTCOLOR_BROWN" pos="96.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" align="right" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<text text="/" name="MP_slash" copy="TEXTCOLOR_BROWN" pos="101.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-15.00" align="center" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<text text="33" name="MMP_value" copy="TEXTCOLOR_BROWN" pos="107.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" align="left" viewer_visible="true" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</image>
+					<image name="lp" style="gen_a17_sub_status01_lp" pos="29, 113, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+						<text text="33" name="LP_value" copy="TEXTCOLOR_BROWN" pos="96.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00" align="right"/>
+						<text text="/" name="LP_slash" copy="TEXTCOLOR_BROWN" pos="101.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-15.00" align="center" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+						<text text="33" name="MLP_value" copy="TEXTCOLOR_BROWN" pos="107.00, -4.00, 0.00" font="A17_NUMBER01_30PX" word_space="-20.00" align="left" viewer_visible="false" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					</image>
+					<image name="alclv" style="gen_a17_sub_status01_alclv" pos="27, 145, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+					<text text="99" name="mix_lv" pos="132, 141, -0" copy="TEXTCOLOR_BROWN" font="A17_NUMBER01_30PX" word_space="-15.00" align="center" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</node>
+				<!--***↓0529お金アイコン追加 ***-->
+				<image name="win01_moneybg" pos="533, 428, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" style="gen_a17_win01_moneybg" size_wh="206.00, 60.00, 0.00" viewer_visible="false">
+					<image name="moneyicon" style="gen_a17_win01_moneyicon" pos="20.00, 10.00, 0.00"/>
+					<text text="9999999" name="money" pos="180.00, 14.00, 0.00" font="A17_MONEY01" word_space="-15.00" align="right" font_size="20.00"/>
+				</image>
+			</node>
+			<node copy="sub_status" clone_child_tree="sub_status" name="clone_sub_status" pos="785, 142, 0" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="sub_status" clone_child_tree="sub_status" name="clone_sub_status_1" pos="785.00, 322.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="sub_status" clone_child_tree="sub_status" name="clone_sub_status_2" pos="785.00, 502.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="reserve">
+			<node copy="sub_status_photo" clone_child_tree="sub_status_photo" name="clone_sub_status_photo" pos="751.00, 499.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="sub_status_photo" clone_child_tree="sub_status_photo" name="clone_sub_status_photo_1" pos="966.00, 499.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<node name="book_navigator" pos="-64.00, 65.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+			<image name="book_icon" style="gen_a17_icon01_book" pos="362.00, 410.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" size_wh="138, 128"/>
+			<node name="node_log_cloud" pos="570, 475, 0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pivot_enable="true" pivot_pos="108.00, 57.00, 0.00" viewer_visible="false">
+				<image name="img_log_cloud" style="gen_a17_win01_bookserif01" pos="-269, 64, -0" rot="-0.00, -0.00, 0.00" scale="1.02, 1.02, 1.00" pivot_enable="true" pivot_pos="213.00, 53.00, 0.00">
+					<image name="img_log_cloud_1" style="gen_a17_win01_bookserif01" rot="-0.00, -0.00, -0.00" pivot_enable="false" size_wh="462, 102" pos="-1, 2, 0"/>
+					<image name="img_log_cloud2" style="gen_a17_win01_bookserif01_acce01" pos="120, -27, 0" rot="0.00, 0.00, 0.00" scale="0.95, 0.95, 1.00"/>
+					<text text="新しいレシピを確認しましょうね新しいレシピ" name="desc" copy="TEXTCOLOR_BROWN" pos="49.00, 19.00, 0.00" line_char_length="15" line_space="8.00"/>
+					<text text="&lt;IM07&gt;&lt;CLGR&gt;确认" name="help_text" copy="TEXTCOLOR_BROWN" pos="325, 57, -0" line_char_length="15" line_space="8.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				</image>
+			</node>
+		</node>
+	</node>
+</root>

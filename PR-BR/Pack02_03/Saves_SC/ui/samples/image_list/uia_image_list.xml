@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+    <anim name="anm_image_list">
+        <curve attr="image_no" interpolate="constant" >
+            <key time="0.0"		value="0"/>
+            <key time="1.0"	value="40"/>
+            <key time="2.0"	value="40"/>
+        </curve>
+    </anim>
+</root>
+

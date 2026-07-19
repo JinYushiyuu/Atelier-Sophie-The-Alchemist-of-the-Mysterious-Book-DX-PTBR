@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_1" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="唷，苏菲。&lt;CR&gt;今天也在爆炸吗？"/>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_2" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="下次替我顾店吧……&lt;CR&gt;行吗？"/>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_3" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="今天要去哪里观察植物呢……&lt;CR&gt;嘿嘿，我好期待啊！"/>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_4" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="要拿植物进行炼金术时，你要慎重点哦。&lt;CR&gt;不然我可是会生气的。"/>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_5" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="这世界的某个地方还长着&lt;CR&gt;我从没见过的植物对吧……&lt;CR&gt;唔～真想对话看看！"/>
+    <T01_TOWN_07_message message_data="OTTO_TOWN01_07_E" chara_tag="OTTO" name_tag="OTTO" voice_no1="9022" message1="好～那就出发……&lt;CR&gt;啊，糟糕！妈妈拜托我的事&lt;CR&gt;还没做呢……！"/>
+    <T01_TOWN_07_message message_data="TOWN_07_OTTO_EV1" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="喔喔，谢谢你。真不愧是苏菲。" quest_tag="MM07_040" voice_no2="11709" message2="拜托你的东西已经准备好了吗？"/>
+    <T01_TOWN_07_message message_data="QC01_MON_015_GIRL_A" chara_tag="NPC27A" name_tag="NPC27A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_07_message message_data="QC04_FRI_130_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="9042" message1="嗯嗯……原来如此……"/>
+    <T01_TOWN_07_message message_data="QC05_COR_210_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="-1" message1="……"/>
+    <T01_TOWN_07_message message_data="QC05_COR_220_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="-1" message1="……"/>
+    <T01_TOWN_07_message message_data="MS01_040_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="9021" message1="我已经没力气了啦" next_message_tag="MS01_040_PAUL"/>
+    <T01_TOWN_07_message message_data="MS01_040_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="我到现在还不习惯呢……"/>
+    <T01_TOWN_07_message message_data="QC07_LEO_120_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="9022" message1="这个嘛……" next_message_tag="QC07_LEO_120_HENRI"/>
+    <T01_TOWN_07_message message_data="QC07_LEO_120_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="原来如此，是这样啊。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_00" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="收到大笔订单。得在下次&lt;CR&gt;“果实”前完成才行呢。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_01" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="今天一天大概可以准备好&lt;CR&gt;４成订单。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_02" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="今天也很顺利呢。大概可以&lt;CR&gt;准备好６成订单。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_03" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="８成的订单已经准备好了。&lt;CR&gt;好，再努力一下。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_04" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="顺利完成工作了。&lt;CR&gt;今天应该可以好好睡吧。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_10" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="朋友拜托我，&lt;CR&gt;要我帮他一下。" next_message_tag="TOWN_07_NPC21B_11"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_11" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="-1" message1="还好啦……忙归忙，&lt;CR&gt;有工作算是件好事。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_20" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="11737" message1="收到很多人的订单，&lt;CR&gt;虽然不想辜负大家的期待……" next_message_tag="TOWN_07_NPC21B_21"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC21B_21" chara_tag="NPC21B" name_tag="NPC21B" voice_no1="-1" message1="但要是搞坏自己的身体就不用混了。&lt;CR&gt;我会适度努力的。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_00" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="11749" message1="真是不错的朝阳……&lt;CR&gt;这种日子很适合作画呢。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_01" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="11772" message1="真是不错的夕阳……&lt;CR&gt;这种日子很适合作画呢。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_02" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="11815" message1="真是不错的夜空……&lt;CR&gt;这种日子很适合作画呢。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_00_RAIN" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="-1" message1="颜色因雨水晕开……雨中的画&lt;CR&gt;又是一幅特别的画呢。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_10" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="11739" message1="以这里看出去的风景为主题&lt;CR&gt;绘制而成的画相当受欢迎哦。" next_message_tag="TOWN_07_NPC23C_11"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_11" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="-1" message1="我也喜欢从这里看出去的风景……&lt;CR&gt;一不注意就画了许多。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_20" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="11739" message1="其实，就算不到这边看着风景，&lt;CR&gt;我也能画出相同的画……" next_message_tag="TOWN_07_NPC23C_21"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC23C_21" chara_tag="NPC23C" name_tag="NPC23A_06" voice_no1="-1" message1="但因为想将五感当下的感受&lt;CR&gt;绘制成画，所以今天我也来到这里。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_00" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="唔嗯……虽然烤过就可以消除味道，&lt;CR&gt;但是口感会变差……" next_message_tag="TOWN_07_NPC04A_01"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_01" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="果然还是该多少保留一点味道，&lt;CR&gt;用蒸的比较好吗……" next_message_tag="TOWN_07_NPC04A_02"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_02" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="唔……脑子里想的都是食物的事，&lt;CR&gt;没办法专心工作啊。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_10" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="嗯……那个虽然味道不错，&lt;CR&gt;但外观实在让人难以接受……" next_message_tag="TOWN_07_NPC04A_11"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_11" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="也是可以干脆整个捣碎，&lt;CR&gt;让人看不出原型……" next_message_tag="TOWN_07_NPC04A_12"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_12" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="唔……脑子里想的都是食物的事，&lt;CR&gt;没办法专心工作啊。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_20" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="嗯……不过那还真是惊人呢。&lt;CR&gt;没想到那样的搭配……" next_message_tag="TOWN_07_NPC04A_21"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_21" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="居然能重现那个味道。&lt;CR&gt;得再多想些不同的搭配&lt;CR&gt;才行……" next_message_tag="TOWN_07_NPC04A_22"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC04A_22" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="唔……脑子里想的都是食物的事，&lt;CR&gt;没办法专心工作啊。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_00" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="11817" message1="节俭的基本原则是收拾整顿。&lt;CR&gt;首先，为了管理、维持物资……" next_message_tag="TOWN_07_NPC24A_01"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_01" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="-1" message1="得先从逐步减少加诸在&lt;CR&gt;自己身上的负担开始。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_10" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="11817" message1="究竟是买的比较便宜，&lt;CR&gt;还是自己筹备比较便宜……" next_message_tag="TOWN_07_NPC24A_11"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_11" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="-1" message1="如果跟店家打好关系，&lt;CR&gt;用买的应该会比较便宜吧。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_20" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="11817" message1="明明只需要买必要物品……&lt;CR&gt;可是一旦看到架上的其他商品&lt;CR&gt;就会不禁想去在意呢。" next_message_tag="TOWN_07_NPC24A_21"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC24A_21" chara_tag="NPC24A" name_tag="NPC24A" voice_no1="-1" message1="仔细想想，有些东西&lt;CR&gt;早就已经有了。&lt;CR&gt;在购买时得好好确认才行呢。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_00" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="还有３天才休假啊……&lt;CR&gt;真麻烦，不过也没办法。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_01" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="还有２天才休假啊……&lt;CR&gt;得注意不要一时松懈了。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_02" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="明天就休假了吗……&lt;CR&gt;那今天要好好努力呢。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_03" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="还有２天就要工作了……&lt;CR&gt;今天就悠哉一点吧。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_04" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="明天要工作了吗……&lt;CR&gt;得好好休息才行呢。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_10" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="一周的第一天都没什么干劲呢……"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_11" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="一周过了一半时，感觉还挺有干劲&lt;CR&gt;的吧……不是吗？"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_12" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="一想到明天休假就充满&lt;CR&gt;干劲呢……"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_13" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="明天也是休假……一这么想，&lt;CR&gt;就能够悠哉一点呢。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_14" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="明天要工作了……&lt;CR&gt;得调适心情才行呢。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_20" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="刚进入新的一周就会让人&lt;CR&gt;想订下很多计划吧。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_21" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="明天也要工作……一这么想，&lt;CR&gt;感觉还挺令人安心的吧。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_22" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="一想到明天休假，就会让人&lt;CR&gt;想拟休假计划吧。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_23" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="如果能充分享受休假，&lt;CR&gt;感觉还挺充实的吧。"/>
+    <T01_TOWN_07_message message_data="TOWN_07_NPC00A_24" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="从明天开始工作……&lt;CR&gt;好好加油吧。"/>
+</Root>

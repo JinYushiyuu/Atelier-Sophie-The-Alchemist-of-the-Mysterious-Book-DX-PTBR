@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+	</node>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false">
+		<node name="chara_icon">
+			<image name="chara_img" style="gen_a17_sub_status01_ph02" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-0.00, -0.00, -0.00"/>
+			<image name="highlight" style="gen_a17_win03_hlon" pos="-15, -20, -0" size_wh="102, 165" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<feed name="feed" pos="25, 21, 0"/>
+				<anim_ctrl name="blink" loop="true" play="true">
+					<bind_node node="." anim="anm_common_cursor_blink"/>
+				</anim_ctrl>
+			</image>
+			<image name="join_select" style="gen_a17_menustatus01_tag" pos="11.00, -32.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="true" visible="false" image_no="1"/>
+			<image name="join_other" style="gen_a17_menustatus01_tag" pos="11.00, -32.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" image_no="1" visible="false" viewer_visible="false"/>
+			<image name="main" style="gen_a17_menustatus01_tag" pos="11.00, -32.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false"/>
+		</node>
+	</node>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="top">
+		<node name="chara_select" pos="125.00, 201.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<node name="chara_line" pos="0.00, 0.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00">
+				<node copy="chara_icon" clone_child_tree="chara_icon" name="clone_chara_icon" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" pos="-0.00, -0.00, -0.00"/>
+				<node copy="chara_icon" clone_child_tree="chara_icon" name="clone_chara_icon_1" pos="120.67, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="chara_icon" clone_child_tree="chara_icon" name="clone_chara_icon_2" pos="241.33, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<node copy="chara_icon" clone_child_tree="chara_icon" name="clone_chara_icon_3" pos="362.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+			<node copy="chara_line" clone_child_tree="chara_line" name="clone_chara_line" pos="0.00, 157.50, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+			<node copy="chara_line" clone_child_tree="chara_line" name="clone_chara_line_1" pos="0.00, 315.00, 0.00" rot="0.00, -0.00, 0.00" scale="1.00, 1.00, 1.00"/>
+		</node>
+		<anim_ctrl name="get_in_party_select" viewer_key_assign="1">
+			<bind_node anim="anm_common_fade_in" node="."/>
+		</anim_ctrl>
+	</node>
+</root>

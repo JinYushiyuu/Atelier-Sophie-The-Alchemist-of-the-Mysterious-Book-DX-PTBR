@@ -1,0 +1,1484 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <LibraryEffDetail note="给予物理属性的伤害。&lt;CR&gt;物理属性的伤害，&lt;CR&gt;会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性的中量伤害。&lt;CR&gt;物理属性的伤害，&lt;CR&gt;会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性的强大伤害。&lt;CR&gt;物理属性的伤害，&lt;CR&gt;会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性非常强大的伤害。&lt;CR&gt;物理属性的伤害，&lt;CR&gt;会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性最高等级的伤害。&lt;CR&gt;物理属性的伤害，&lt;CR&gt;会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性终极等级的伤害。&lt;CR&gt;物理属性的伤害，&lt;CR&gt;会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予炎属性的伤害。&lt;CR&gt;炎属性的伤害，会随目标的炎耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予炎属性的中量伤害。&lt;CR&gt;炎属性的伤害，会随目标的炎耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予炎属性的强大伤害。&lt;CR&gt;炎属性的伤害，会随目标的炎耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予炎属性非常强大的伤害。&lt;CR&gt;炎属性的伤害，会随目标的炎耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予炎属性最高等级的伤害。&lt;CR&gt;炎属性的伤害，会随目标的炎耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予炎属性终极等级的伤害。&lt;CR&gt;炎属性的伤害，会随目标的炎耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予冰属性的伤害。&lt;CR&gt;冰属性的伤害，会随目标的冰耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予冰属性的中量伤害。&lt;CR&gt;冰属性的伤害，会随目标的冰耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予冰属性的强大伤害。&lt;CR&gt;冰属性的伤害，会随目标的冰耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予冰属性非常强大的伤害。&lt;CR&gt;冰属性的伤害，会随目标的冰耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予冰属性最高等级的伤害。&lt;CR&gt;冰属性的伤害，会随目标的冰耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予冰属性终极等级的伤害。&lt;CR&gt;冰属性的伤害，会随目标的冰耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予雷属性的伤害。&lt;CR&gt;雷属性的伤害，会随目标的雷耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予雷属性的中量伤害。&lt;CR&gt;雷属性的伤害，会随目标的雷耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予雷属性的强大伤害。&lt;CR&gt;雷属性的伤害，会随目标的雷耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予雷属性非常强大的伤害。&lt;CR&gt;雷属性的伤害，会随目标的雷耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予雷属性最高等级的伤害。&lt;CR&gt;雷属性的伤害，会随目标的雷耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予雷属性终极等级的伤害。&lt;CR&gt;雷属性的伤害，会随目标的雷耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予魔法属性的伤害。&lt;CR&gt;魔法属性的伤害，会随目标的魔法耐性&lt;CR&gt;而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予魔法属性的强大伤害。&lt;CR&gt;魔法属性的伤害，会随目标的魔法耐性&lt;CR&gt;而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予魔法属性非常强大的伤害。&lt;CR&gt;魔法属性的伤害，会随目标的魔法耐性&lt;CR&gt;而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予魔法属性最高等级的伤害。&lt;CR&gt;魔法属性的伤害，会随目标的魔法耐性&lt;CR&gt;而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予强大的物理伤害。&lt;CR&gt;会随机产生多种效果。" permit="true"/>
+    <LibraryEffDetail note="给予非常强大的物理伤害。&lt;CR&gt;会随机产生多种效果。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="给予最高等级的无属性伤害。&lt;CR&gt;不受任何耐性的影响，&lt;CR&gt;伤害配合所赋予的特性强度而上升。" permit="true"/>
+    <LibraryEffDetail note="给予终极等级的无属性伤害。&lt;CR&gt;不受任何耐性的影响，&lt;CR&gt;伤害配合所赋予的特性强度而上升。" permit="true"/>
+    <LibraryEffDetail note="海胆掉落下来，&lt;CR&gt;给予所有敌人物理属性的伤害，&lt;CR&gt;发行１张时间卡片。" permit="true"/>
+    <LibraryEffDetail note="噗尼掉落下来，&lt;CR&gt;给予所有敌人魔法属性的伤害，&lt;CR&gt;发行１张时间卡片。" permit="true"/>
+    <LibraryEffDetail note="陨石掉落下来，&lt;CR&gt;给予所有敌人炎属性的伤害，&lt;CR&gt;发行１张时间卡片。" permit="true"/>
+    <LibraryEffDetail note="？？？掉落下来，&lt;CR&gt;给予所有敌人物理属性的伤害，&lt;CR&gt;发行１张时间卡片。" permit="true"/>
+    <LibraryEffDetail note="流星掉落下来，&lt;CR&gt;给予所有敌人物理属性的伤害，&lt;CR&gt;发行１张时间卡片。" permit="true"/>
+    <LibraryEffDetail note="炸弹掉落下来，&lt;CR&gt;给予所有敌人炎属性的伤害，&lt;CR&gt;发行１张时间卡片。" permit="true"/>
+    <LibraryEffDetail note="岛鱼掉落下来，&lt;CR&gt;给予所有敌人物理属性的伤害，&lt;CR&gt;发行１张时间卡片。" permit="true"/>
+    <LibraryEffDetail note="宝箱掉落下来，&lt;CR&gt;给予所有敌人魔法属性的伤害，&lt;CR&gt;发行１张时间卡片。" permit="true"/>
+    <LibraryEffDetail note="召唤飞鹰，&lt;CR&gt;给予物理属性的伤害，&lt;CR&gt;并延后行动顺序。" permit="true"/>
+    <LibraryEffDetail note="召唤魔兽，给予物理属性的伤害。&lt;CR&gt;物理属性的伤害，会随目标的&lt;CR&gt;防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="召唤噗尼，给予物理属性的伤害。&lt;CR&gt;物理属性的伤害，会随目标的&lt;CR&gt;防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="召唤鬼魂，给予魔法属性的伤害。&lt;CR&gt;魔法属性的伤害，会随目标的&lt;CR&gt;魔法耐性而产生变动。" permit="true"/>
+    <LibraryEffDetail note="召唤曼陀罗，&lt;CR&gt;给予魔法属性的伤害，&lt;CR&gt;会有一定的机率陷入中毒状态。" permit="true"/>
+    <LibraryEffDetail note="召唤巫妖，给予魔法属性的伤害，&lt;CR&gt;给予的伤害中，有一部分将&lt;CR&gt;回馈为自己的ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性的伤害，&lt;CR&gt;仅会恢复给予伤害的一半。&lt;CR&gt;此伤害会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性的强大伤害，&lt;CR&gt;仅会恢复给予伤害的一半。&lt;CR&gt;此伤害会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性非常强大的伤害，&lt;CR&gt;仅会恢复给予伤害的一半。&lt;CR&gt;此伤害会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性的中量伤害。&lt;CR&gt;物理属性的伤害，&lt;CR&gt;会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性的中量伤害。&lt;CR&gt;物理属性的伤害，&lt;CR&gt;会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail note="给予物理属性的伤害。&lt;CR&gt;物理属性的伤害，&lt;CR&gt;会随目标的防御力而产生变动。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="以炸裂方式给予目标细微的物理伤害。&lt;CR&gt;威力非常小。" permit="true"/>
+    <LibraryEffDetail note="以爆炸方式给予目标物理伤害。威力较小。" permit="true"/>
+    <LibraryEffDetail note="装置于其中的锐利尖刺炸裂，&lt;CR&gt;给予目标物理伤害。威力中等。" permit="true"/>
+    <LibraryEffDetail note="尖刺刺穿后，会发生于行动时&lt;CR&gt;持续减少ＨＰ的效果，&lt;CR&gt;效果非常小。" permit="true"/>
+    <LibraryEffDetail note="容易造成伤害的尖刺刺穿后，会发生于行动时持续减少ＨＰ的效果，&lt;CR&gt;效果较小。" permit="true"/>
+    <LibraryEffDetail note="尖刺贯穿后，会发生于行动时&lt;CR&gt;持续减少ＨＰ的效果，效果中等。" permit="true"/>
+    <LibraryEffDetail note="给予目标不受防御力影响的固定伤害。&lt;CR&gt;威力非常小。" permit="true"/>
+    <LibraryEffDetail note="给予目标不受防御力影响的固定伤害。&lt;CR&gt;威力较小。" permit="true"/>
+    <LibraryEffDetail note="给予目标不受防御力影响的固定伤害。&lt;CR&gt;威力较大。" permit="true"/>
+    <LibraryEffDetail note="当目标的ＨＰ剩下的量低于一定程度时，&lt;CR&gt;就能一击打倒目标。不过，&lt;CR&gt;某些敌人能令此效果无效。" permit="true"/>
+    <LibraryEffDetail note="给予火伤造成的持续伤害。&lt;CR&gt;效果中等。" permit="true"/>
+    <LibraryEffDetail note="给予严重火伤造成的持续伤害。&lt;CR&gt;效果较大。" permit="true"/>
+    <LibraryEffDetail note="给予不断燃烧的火焰造成的持续伤害。&lt;CR&gt;效果非常大。" permit="true"/>
+    <LibraryEffDetail note="连续产生庞大的热量给予持续伤害。&lt;CR&gt;有最高等级的效果。" permit="true"/>
+    <LibraryEffDetail note="产生比一般炎烧还要高温的火焰，&lt;CR&gt;给予无视防御的强大追加伤害。" permit="true"/>
+    <LibraryEffDetail note="攻击范围变为单体，&lt;CR&gt;给予无视防御的终极等级追加伤害。" permit="true"/>
+    <LibraryEffDetail note="只将目标的行动顺序稍微延后一点。&lt;CR&gt;这个效果在目标行动之前，&lt;CR&gt;每次使用威力都会逐渐减少。" permit="true"/>
+    <LibraryEffDetail note="将目标的行动顺序延后。&lt;CR&gt;这个效果在目标行动之前，&lt;CR&gt;每次使用威力都会逐渐减少。" permit="true"/>
+    <LibraryEffDetail note="将目标的行动顺序大幅延后。&lt;CR&gt;这个效果在目标行动之前，&lt;CR&gt;每次使用威力都会逐渐减少。" permit="true"/>
+    <LibraryEffDetail note="强烈电击产生的震撼，能稍微减少&lt;CR&gt;目标的ＨＰ，减少的量会因目标的&lt;CR&gt;最大ＨＰ而产生变动。" permit="true"/>
+    <LibraryEffDetail note="用强烈寒气冻结目标，延后其行动顺序。&lt;CR&gt;直到目标开始行动为止，这个效果每次&lt;CR&gt;使用过后威力都会逐渐减弱。" permit="true"/>
+    <LibraryEffDetail note="用非常强烈的寒气冻结目标，延后其&lt;CR&gt;行动顺序。直到目标开始行动为止，&lt;CR&gt;这个效果每次使用过后威力都会逐渐减弱。" permit="true"/>
+    <LibraryEffDetail note="呼唤雨云，给予目标雷属性的伤害，&lt;CR&gt;并发行１张时间卡片。效果持续１回合。" permit="true"/>
+    <LibraryEffDetail note="呼唤雷云，给予目标雷属性的伤害，&lt;CR&gt;并发行１张时间卡片。效果持续２回合。" permit="true"/>
+    <LibraryEffDetail note="呼唤暴风雨，给予目标雷属性的伤害，&lt;CR&gt;并发行１张时间卡片。效果持续３回合。" permit="true"/>
+    <LibraryEffDetail note="少量扩张道具的效果范围。" permit="true"/>
+    <LibraryEffDetail note="扩张道具的效果范围。" permit="true"/>
+    <LibraryEffDetail note="大量扩张道具的效果范围。" permit="true"/>
+    <LibraryEffDetail note="装备者的ＨＰ少于２０％以下时，&lt;CR&gt;便会自动发动。" permit="true"/>
+    <LibraryEffDetail note="装备者的ＨＰ少于30%以下时，&lt;CR&gt;便会自动发动。" permit="true"/>
+    <LibraryEffDetail note="装备者的ＨＰ少于40%以下时，&lt;CR&gt;便会自动发动。" permit="true"/>
+    <LibraryEffDetail note="对目标追加大量固定伤害。" permit="true"/>
+    <LibraryEffDetail note="降下因火雨产生的流星，&lt;CR&gt;对目标追加大量固定伤害。" permit="true"/>
+    <LibraryEffDetail note="让目标高机率陷入中毒的异常状态。&lt;CR&gt;效果较大。一陷入中毒状态，&lt;CR&gt;在下次行动时便会受到伤害。" permit="true"/>
+    <LibraryEffDetail note="让目标持有的所有耐性下降１个阶段。&lt;CR&gt;无持有耐性时则不具效果，&lt;CR&gt;不会因为此效果而出现弱点。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="微量恢复目标的ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="少量恢复目标的ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="大量恢复目标的ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="大幅恢复目标的ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="非常大量恢复目标的ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="微量恢复目标的ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="少量恢复目标的ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="大量恢复目标的ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="大恢复复目标的ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="非常大量恢复目标的ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="微量恢复目标的ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="少量恢复目标的ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="大量恢复目标的ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="大幅恢复目标的ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="非常大量恢复目标的ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="微量恢复目标的ＨＰ与ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="少量恢复目标的ＨＰ与ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ与ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="大量恢复目标的ＨＰ与ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="大幅恢复目标的ＨＰ与ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="微量恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="少量恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="大量恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="大幅恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="微量恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="少量恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="大量恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="大幅恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="微量恢复队伍全体的ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="少量恢复队伍全体的ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="恢复队伍全体的ＨＰ。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="微量恢复目标的ＨＰ与ＬＰ。&lt;CR&gt;恢复量将配合最大ＨＰ值增加。" permit="true"/>
+    <LibraryEffDetail note="少量恢复目标的ＨＰ与ＬＰ。&lt;CR&gt;恢复量将配合最大ＨＰ值增加。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ与ＬＰ。&lt;CR&gt;恢复量将配合最大ＨＰ值增加。" permit="true"/>
+    <LibraryEffDetail note="大量恢复目标的ＨＰ与ＬＰ。&lt;CR&gt;恢复量将配合最大ＨＰ值增加。" permit="true"/>
+    <LibraryEffDetail note="大幅恢复目标的ＨＰ与ＬＰ。&lt;CR&gt;恢复量将配合最大ＨＰ值增加。" permit="true"/>
+    <LibraryEffDetail note="非常大量恢复目标的ＨＰ与ＬＰ。&lt;CR&gt;恢复量将配合最大ＨＰ值增加。" permit="true"/>
+    <LibraryEffDetail note="吃下的食物积存在肚子里，战斗中的行动顺序&lt;CR&gt;微微延后。ＬＰ也会恢复。" permit="true"/>
+    <LibraryEffDetail note="吃下的食物积存在肚子里，战斗中的行动顺序&lt;CR&gt;稍微延后。ＬＰ也会恢复。" permit="true"/>
+    <LibraryEffDetail note="吃下的食物大量积存在肚子里，&lt;CR&gt;战斗中的行动顺序延后。&lt;CR&gt;ＬＰ也会恢复。" permit="true"/>
+    <LibraryEffDetail note="由于太过坚硬而让行动驽钝，&lt;CR&gt;陷入迟缓状态。效果中等。" permit="true"/>
+    <LibraryEffDetail note="因吃下去的食物不好消化&lt;CR&gt;而陷入迟缓状态。效果较小。" permit="true"/>
+    <LibraryEffDetail note="吃下去的食物马上消化，&lt;CR&gt;不会对身体造成影响。" permit="true"/>
+    <LibraryEffDetail note="过于难吃而痛苦难耐，受到伤害。" permit="true"/>
+    <LibraryEffDetail note="非常美味而让ＨＰ少量恢复。" permit="true"/>
+    <LibraryEffDetail note="解除目标陷入睡眠的异常状态。" permit="true"/>
+    <LibraryEffDetail note="目标执行下次行动时，&lt;CR&gt;行动后的待机时间少量缩短。" permit="true"/>
+    <LibraryEffDetail note="微量恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="少量恢复目标的ＨＰ与ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="身体因为寒冷而动作迟钝，&lt;CR&gt;目标的敏捷稍微下降。" permit="true"/>
+    <LibraryEffDetail note="身体变得温暖，目标的敏捷稍微上升。" permit="true"/>
+    <LibraryEffDetail note="身体变得温暖，&lt;CR&gt;目标的敏捷大量上升，&lt;CR&gt;但也会受到持续伤害。" permit="true"/>
+    <LibraryEffDetail note="因黏稠的口感而心情萎靡，&lt;CR&gt;攻击力稍微降低。" permit="true"/>
+    <LibraryEffDetail note="因弹嫩的口感而心情愉悦。&lt;CR&gt;目标的攻击力稍微提升。" permit="true"/>
+    <LibraryEffDetail note="因初次尝到的口感而心情高涨，&lt;CR&gt;攻击力稍微提升，并给予目标&lt;CR&gt;在行动时ＨＰ微量恢复的效果。" permit="true"/>
+    <LibraryEffDetail note="因干燥的口感而心情萎靡，&lt;CR&gt;稍微降低防御力。" permit="true"/>
+    <LibraryEffDetail note="因松软的口感而心情放松。&lt;CR&gt;稍微提升目标的防御力。" permit="true"/>
+    <LibraryEffDetail note="因未知的弹力而让心情高涨，&lt;CR&gt;稍微提升防御力，并让目标的&lt;CR&gt;行动顺序稍微加快。" permit="true"/>
+    <LibraryEffDetail note="营养丰富的滋味，&lt;CR&gt;能使所有能力值少量上升。" permit="true"/>
+    <LibraryEffDetail note="营养满分的滋味，&lt;CR&gt;能使所有能力值上升。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ。&lt;CR&gt;越接近７点，恢复量越大。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ。&lt;CR&gt;越接近15点，恢复量越大。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ。&lt;CR&gt;越接近22点，恢复量越大。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ时发生微量奖励。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ时发生少量奖励。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ时发生奖励。" permit="true"/>
+    <LibraryEffDetail note="恢复目标的ＨＰ时发生很大的奖励。" permit="true"/>
+    <LibraryEffDetail note="使目标微量恢复破防值。" permit="true"/>
+    <LibraryEffDetail note="使目标少量恢复破防值。" permit="true"/>
+    <LibraryEffDetail note="使目标中量恢复破防值。" permit="true"/>
+    <LibraryEffDetail note="使目标恢复破防值。" permit="true"/>
+    <LibraryEffDetail note="使目标大量恢复破防值。" permit="true"/>
+    <LibraryEffDetail note="使目标大幅恢复破防值。" permit="true"/>
+    <LibraryEffDetail note="将目标由无法战斗中恢复，&lt;CR&gt;恢复微量ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="将目标由无法战斗中恢复，&lt;CR&gt;仅恢复少量ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="将目标由无法战斗中恢复，恢复ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="将目标由无法战斗中恢复，&lt;CR&gt;大量恢复ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="将目标由无法战斗中恢复，&lt;CR&gt;大幅恢复ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="使目标从睡眠的异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail note="使目标从中毒的异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail note="使目标从迟缓的异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail note="使目标从诅咒的异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail note="使目标从盲目的异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail note="使目标从弱体化的异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail note="使目标从恢复无效的异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail note="使目标从封印的异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail note="使目标从后遗症的异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail note="使目标从１个异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail note="使目标从2个异常状态中恢复。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="无法战斗之后，将在下次行动时自动复活。&lt;CR&gt;对我方全体都具有效果，&lt;CR&gt;复活时恢复少量ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="无法战斗之后，将在下次行动时自动复活。&lt;CR&gt;对我方全体都具有效果，&lt;CR&gt;复活时恢复中量ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="使目标所有能力值上升２０。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="赋予我方全体炎属性耐性。" permit="true"/>
+    <LibraryEffDetail note="赋予我方全体冰属性耐性。" permit="true"/>
+    <LibraryEffDetail note="赋予我方全体雷属性耐性。" permit="true"/>
+    <LibraryEffDetail note="赋予我方全体炎、冰、雷属性耐性。" permit="true"/>
+    <LibraryEffDetail note="暂时减轻目标所受的物理属性伤害。&lt;CR&gt;效果较小。" permit="true"/>
+    <LibraryEffDetail note="暂时减轻目标所受的物理属性伤害。&lt;CR&gt;效果中等。" permit="true"/>
+    <LibraryEffDetail note="暂时减轻目标所受的物理属性伤害。&lt;CR&gt;效果较大。" permit="true"/>
+    <LibraryEffDetail note="减轻目标下次受到攻击时的效果。" permit="true"/>
+    <LibraryEffDetail note="大量减轻目标下次受到攻击时的效果。" permit="true"/>
+    <LibraryEffDetail note="非常大量减轻目标下次受到攻击时的效果。" permit="true"/>
+    <LibraryEffDetail note="受到女神的庇护，&lt;CR&gt;使目标的等级暂时微量上升。&lt;CR&gt;藉由等级提高，让攻击力与敏捷提升。" permit="true"/>
+    <LibraryEffDetail note="受到女神的祝福，&lt;CR&gt;使目标的等级暂时少量上升。&lt;CR&gt;藉由等级提高，让攻击力与敏捷提升。" permit="true"/>
+    <LibraryEffDetail note="受到英灵的庇护，&lt;CR&gt;使目标的等级暂时上升。&lt;CR&gt;藉由等级提高，让攻击力与敏捷提升。" permit="true"/>
+    <LibraryEffDetail note="受到英灵的祝福，&lt;CR&gt;使目标的等级暂时大量上升。&lt;CR&gt;藉由等级提高，让攻击力与敏捷提升。" permit="true"/>
+    <LibraryEffDetail note="英灵之力加身，&lt;CR&gt;使目标的等级暂时非常大量上升。&lt;CR&gt;藉由等级提高，让攻击力与敏捷提升。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="虽然会给予目标伤害，&lt;CR&gt;但下次行动时的基本伤害会上升。" permit="true"/>
+    <LibraryEffDetail note="虽然会给予目标大量伤害，&lt;CR&gt;但下次行动时的基本伤害会大量上升。" permit="true"/>
+    <LibraryEffDetail note="虽然会给予目标特大伤害，&lt;CR&gt;但下次行动时的基本伤害会非常大量上升。" permit="true"/>
+    <LibraryEffDetail note="使用道具时可能不会减少使用次数。机率稍低。" permit="true"/>
+    <LibraryEffDetail note="使用道具时可能不会减少使用次数。机率低。" permit="true"/>
+    <LibraryEffDetail note="使用道具时可能不会减少使用次数。机率高。" permit="true"/>
+    <LibraryEffDetail note="道具变为时间类型，能再次发动。&lt;CR&gt;效果为１回合。" permit="true"/>
+    <LibraryEffDetail note="道具变为时间类型，能再次发动。&lt;CR&gt;效果为2回合。" permit="true"/>
+    <LibraryEffDetail note="道具变为时间类型，能再次发动。&lt;CR&gt;效果为3回合。" permit="true"/>
+    <LibraryEffDetail note="装备者的ＨＰ在２０％以下时，&lt;CR&gt;便会自动发动。" permit="true"/>
+    <LibraryEffDetail note="装备者的ＨＰ在30%以下时，&lt;CR&gt;便会自动发动。" permit="true"/>
+    <LibraryEffDetail note="装备者的ＨＰ在50%以下时，&lt;CR&gt;便会自动发动。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="使目标的攻击力少量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击力上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击力大量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的防御力少量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的防御力上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的防御力大量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的敏捷少量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的敏捷上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的敏捷大量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标所有能力值少量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标所有能力值上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标所有能力值大量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击命中率少量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击命中率上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击命中率大量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击回避率少量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击回避率上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击回避率大量上升。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="仅少量提升目标于行动时发生重击的机率。" permit="true"/>
+    <LibraryEffDetail note="中量提升目标于行动时发生重击的机率。" permit="true"/>
+    <LibraryEffDetail note="大量提升目标于行动时发生重击的机率。" permit="true"/>
+    <LibraryEffDetail note="使目标于重击发生时的调整值仅少量上升。" permit="true"/>
+    <LibraryEffDetail note="使目标于重击发生时的调整值中量上升。" permit="true"/>
+    <LibraryEffDetail note="使目标于重击发生时的调整值大量上升。" permit="true"/>
+    <LibraryEffDetail note="给予目标于行动时微量恢复ＨＰ的效果。&lt;CR&gt;此效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="给予目标于行动时仅少量恢复ＨＰ的效果。&lt;CR&gt;此效果最多可持续5次行动。" permit="true"/>
+    <LibraryEffDetail note="给予目标于行动时恢复ＨＰ的效果。&lt;CR&gt;此效果最多可持续5次行动。" permit="true"/>
+    <LibraryEffDetail note="给予目标于行动时大量恢复ＨＰ的效果。&lt;CR&gt;此效果最多可持续5次行动。" permit="true"/>
+    <LibraryEffDetail note="给予目标于行动时大幅恢复ＨＰ的效果。&lt;CR&gt;此效果最多可持续5次行动。" permit="true"/>
+    <LibraryEffDetail note="给予目标于行动时非常大量恢复ＨＰ的效果。此效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="仅限于战斗中，&lt;CR&gt;使目标的最大ＨＰ值暂时上升。&lt;CR&gt;效果较小。" permit="true"/>
+    <LibraryEffDetail note="仅限于战斗中，&lt;CR&gt;使目标的最大ＨＰ值暂时上升。&lt;CR&gt;效果中等。" permit="true"/>
+    <LibraryEffDetail note="仅限于战斗中，&lt;CR&gt;使目标的最大ＨＰ值暂时上升。&lt;CR&gt;效果较大。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="无法战斗之后，将在下次行动时自动复活。&lt;CR&gt;复活时恢复较少ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="无法战斗之后，将在下次行动时自动复活。&lt;CR&gt;复活时恢复中量ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="无法战斗之后，将在下次行动时自动复活。&lt;CR&gt;复活时恢复较多ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="仅稍微减轻因异常状态而&lt;CR&gt;发生的效果。" permit="true"/>
+    <LibraryEffDetail note="中量减轻因异常状态而&lt;CR&gt;发生的效果。" permit="true"/>
+    <LibraryEffDetail note="减轻不少因异常状态而&lt;CR&gt;发生的效果。" permit="true"/>
+    <LibraryEffDetail note="轻微缩短目标于下次行动后的待机时间。" permit="true"/>
+    <LibraryEffDetail note="稍微缩短目标于下次行动后的待机时间。" permit="true"/>
+    <LibraryEffDetail note="小幅缩短目标于下次行动后的待机时间。" permit="true"/>
+    <LibraryEffDetail note="目标的连续攻击发生率提升２５％。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="目标的连续攻击发生率提升50%。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="目标的连续攻击发生率提升75%。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="对破防状态的敌方提升２５％伤害。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="对破防状态的敌方提升35%伤害。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail note="对破防状态的敌方提升50%伤害。&lt;CR&gt;效果最多可持续５次行动。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="有机率使目标陷入中毒‧盲目‧弱体化&lt;CR&gt;三种异常状态。" permit="true"/>
+    <LibraryEffDetail note="只将目标的行动顺序稍微延后一点。&lt;CR&gt;这个效果在目标行动之前，&lt;CR&gt;每次使用威力都会逐渐减少。" permit="true"/>
+    <LibraryEffDetail note="将目标的行动顺序延后。&lt;CR&gt;这个效果在目标行动之前，&lt;CR&gt;每次使用威力都会逐渐减少。" permit="true"/>
+    <LibraryEffDetail note="将目标的行动顺序大幅延后。&lt;CR&gt;这个效果在目标行动之前，&lt;CR&gt;每次使用威力都会逐渐减少。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="使目标的攻击力稍微降低，&lt;CR&gt;让自己的攻击力暂时随着降低的量上升。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击力降低，&lt;CR&gt;让自己的攻击力暂时随着降低的量上升。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击力大幅降低，&lt;CR&gt;让自己的攻击力暂时随着降低的量上升。" permit="true"/>
+    <LibraryEffDetail note="使目标的防御力稍微降低，&lt;CR&gt;让自己的防御力暂时随着降低的量上升。" permit="true"/>
+    <LibraryEffDetail note="使目标的防御力降低，&lt;CR&gt;让自己的防御力暂时随着降低的量上升。" permit="true"/>
+    <LibraryEffDetail note="使目标的防御力大幅降低，&lt;CR&gt;让自己的防御力暂时随着降低的量上升。" permit="true"/>
+    <LibraryEffDetail note="使目标的敏捷稍微降低，&lt;CR&gt;让自己的敏捷暂时随着降低的量上升。" permit="true"/>
+    <LibraryEffDetail note="使目标的敏捷降低，&lt;CR&gt;让自己的敏捷暂时随着降低的量上升。" permit="true"/>
+    <LibraryEffDetail note="使目标的敏捷大幅降低，&lt;CR&gt;让自己的敏捷暂时随着降低的量上升。" permit="true"/>
+    <LibraryEffDetail note="让目标的１个强化效果无效化。" permit="true"/>
+    <LibraryEffDetail note="让目标的2个强化效果无效化。" permit="false"/>
+    <LibraryEffDetail note="让目标的3个强化效果无效化。" permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="使目标的攻击力稍微降低。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击力降低。" permit="true"/>
+    <LibraryEffDetail note="使目标的攻击力大幅降低。" permit="true"/>
+    <LibraryEffDetail note="使目标的防御力稍微降低。" permit="true"/>
+    <LibraryEffDetail note="使目标的防御力降低。" permit="true"/>
+    <LibraryEffDetail note="使目标的防御力大幅降低。" permit="true"/>
+    <LibraryEffDetail note="使目标的敏捷稍微降低。" permit="true"/>
+    <LibraryEffDetail note="使目标的敏捷降低。" permit="true"/>
+    <LibraryEffDetail note="使目标的敏捷大幅降低。" permit="true"/>
+    <LibraryEffDetail note="使目标所有能力值稍微降低。" permit="true"/>
+    <LibraryEffDetail note="使目标所有能力值降低。" permit="true"/>
+    <LibraryEffDetail note="使目标所有能力值大幅降低。" permit="true"/>
+    <LibraryEffDetail note="让目标低机率陷入睡眠的异常状态。&lt;CR&gt;一陷入睡眠状态，&lt;CR&gt;即使轮到目标时也无法行动。" permit="true"/>
+    <LibraryEffDetail note="让目标中机率陷入睡眠的异常状态。&lt;CR&gt;一陷入睡眠状态，&lt;CR&gt;即使轮到目标时也无法行动。" permit="true"/>
+    <LibraryEffDetail note="让目标高机率陷入睡眠的异常状态。&lt;CR&gt;一陷入睡眠状态，&lt;CR&gt;即使轮到目标时也无法行动。" permit="true"/>
+    <LibraryEffDetail note="让目标低机率陷入中毒的异常状态。&lt;CR&gt;效果较小。一陷入中毒状态，&lt;CR&gt;在下次行动时会受到伤害。" permit="true"/>
+    <LibraryEffDetail note="让目标中机率陷入中毒的异常状态。&lt;CR&gt;效果中等。一陷入中毒状态，&lt;CR&gt;在下次行动时会受到伤害。" permit="true"/>
+    <LibraryEffDetail note="让目标高机率陷入中毒的异常状态。&lt;CR&gt;效果较大。一陷入中毒状态，&lt;CR&gt;在下次行动时会受到伤害。" permit="true"/>
+    <LibraryEffDetail note="让目标低机率陷入迟缓的异常状态。&lt;CR&gt;效果较小。一陷入迟缓状态，&lt;CR&gt;行动后到下次行动的待机时间会比平常长。" permit="true"/>
+    <LibraryEffDetail note="让目标中机率陷入迟缓的异常状态。&lt;CR&gt;效果中等。一陷入迟缓状态，&lt;CR&gt;行动后到下次行动的待机时间会比平常长。" permit="true"/>
+    <LibraryEffDetail note="让目标高机率陷入迟缓的异常状态。&lt;CR&gt;效果较大。一陷入迟缓状态，&lt;CR&gt;行动后到下次行动的待机时间会比平常长。" permit="true"/>
+    <LibraryEffDetail note="让目标低机率陷入诅咒的异常状态。&lt;CR&gt;效果较小。一陷入诅咒状态，&lt;CR&gt;便会因恢复效果而受到伤害。" permit="true"/>
+    <LibraryEffDetail note="让目标低机率陷入诅咒的异常状态。&lt;CR&gt;效果中等。一陷入诅咒状态，&lt;CR&gt;便会因恢复效果而受到伤害。" permit="true"/>
+    <LibraryEffDetail note="让目标低机率陷入诅咒的异常状态。&lt;CR&gt;效果较大。一陷入诅咒状态，&lt;CR&gt;便会因恢复效果而受到伤害。" permit="true"/>
+    <LibraryEffDetail note="让目标低机率陷入盲目的异常状态。&lt;CR&gt;效果较小。一陷入盲目状态，&lt;CR&gt;攻击的命中率和回避率都会降低。" permit="true"/>
+    <LibraryEffDetail note="让目标中机率陷入盲目的异常状态。&lt;CR&gt;效果中等。一陷入盲目状态，&lt;CR&gt;攻击的命中率和回避率都会降低。" permit="true"/>
+    <LibraryEffDetail note="让目标高机率陷入盲目的异常状态。&lt;CR&gt;效果较大。一陷入盲目状态，&lt;CR&gt;攻击的命中率和回避率都会降低。" permit="true"/>
+    <LibraryEffDetail note="让目标低机率陷入弱体化的异常状态。&lt;CR&gt;效果较小。一陷入弱体化状态，&lt;CR&gt;所有技能威力都会降低。" permit="true"/>
+    <LibraryEffDetail note="让目标中机率陷入弱体化的异常状态。&lt;CR&gt;效果中等。一陷入弱体化状态，&lt;CR&gt;所有技能威力都会降低。" permit="true"/>
+    <LibraryEffDetail note="让目标高机率陷入弱体化的异常状态。&lt;CR&gt;效果较大。一陷入弱体化状态，&lt;CR&gt;所有技能威力都会降低。" permit="true"/>
+    <LibraryEffDetail note="让目标低机率陷入恢复无效的异常状态。&lt;CR&gt;一陷入恢复无效状态，&lt;CR&gt;所有的恢复效果都会变为０。" permit="true"/>
+    <LibraryEffDetail note="让目标中机率陷入恢复无效的异常状态。&lt;CR&gt;一陷入恢复无效状态，&lt;CR&gt;所有的恢复效果都会变为０。" permit="true"/>
+    <LibraryEffDetail note="让目标高机率陷入恢复无效的异常状态。&lt;CR&gt;一陷入恢复无效状态，&lt;CR&gt;所有的恢复效果都会变为０。" permit="true"/>
+    <LibraryEffDetail note="让目标低机率陷入封印的异常状态。&lt;CR&gt;陷入封印状态的敌人将无法使出强大的攻击。" permit="true"/>
+    <LibraryEffDetail note="让目标中机率陷入封印的异常状态。&lt;CR&gt;陷入封印状态的敌人将无法使出强大的攻击。" permit="true"/>
+    <LibraryEffDetail note="让目标高机率陷入封印的异常状态。&lt;CR&gt;陷入封印状态的敌人将无法使出强大的攻击。" permit="true"/>
+    <LibraryEffDetail note="随机给予目标３种异常状态。&lt;CR&gt;机率与效果较低。" permit="true"/>
+    <LibraryEffDetail note="随机给予目标３种异常状态。&lt;CR&gt;机率与效果中等。" permit="true"/>
+    <LibraryEffDetail note="随机给予目标３种异常状态。&lt;CR&gt;机率与效果较高。" permit="true"/>
+    <LibraryEffDetail note="让目标持有的所有耐性下降１个阶段。&lt;CR&gt;无持有耐性时则不具效果，&lt;CR&gt;不会因为此效果而出现弱点。" permit="true"/>
+    <LibraryEffDetail note="让目标持有的炎属性耐性下降１个阶段。&lt;CR&gt;无持有耐性时则不具效果，&lt;CR&gt;不会因为此效果而出现弱点。" permit="true"/>
+    <LibraryEffDetail note="让目标持有的冰属性耐性下降１个阶段。&lt;CR&gt;无持有耐性时则不具效果，&lt;CR&gt;不会因为此效果而出现弱点。" permit="true"/>
+    <LibraryEffDetail note="让目标持有的雷属性耐性下降１个阶段。&lt;CR&gt;无持有耐性时则不具效果，&lt;CR&gt;不会因为此效果而出现弱点。" permit="true"/>
+    <LibraryEffDetail note="目标等级少量下降。等级一旦下降，&lt;CR&gt;所有能力与给予的伤害都会减少。" permit="true"/>
+    <LibraryEffDetail note="目标等级下降。等级一旦下降，&lt;CR&gt;所有能力与给予的伤害都会减少。" permit="true"/>
+    <LibraryEffDetail note="目标等级大幅下降。等级一旦下降，&lt;CR&gt;所有能力与给予的伤害都会减少。" permit="true"/>
+    <LibraryEffDetail note="给予目标持续伤害。&lt;CR&gt;效果较小，持续回合也较短。" permit="true"/>
+    <LibraryEffDetail note="给予目标持续伤害。&lt;CR&gt;效果中等，持续回合短。" permit="true"/>
+    <LibraryEffDetail note="给予目标持续伤害。&lt;CR&gt;虽然效果较大，但持续回合短。" permit="true"/>
+    <LibraryEffDetail note="使目标的重击发生率降低。" permit="true"/>
+    <LibraryEffDetail note="提高发生在目标身上的异常状态效果。&lt;CR&gt;这个效果并非提升异常状态发生的机率。" permit="true"/>
+    <LibraryEffDetail note="以一定比例提高发生在目标身上的伤害值。&lt;CR&gt;效果无法叠加，仅有效果最高的会产生效用。" permit="true"/>
+    <LibraryEffDetail note="提升给予目标的破防效果。&lt;CR&gt;但目标为复数时，效果将会分散。" permit="true"/>
+    <LibraryEffDetail note="较为提升给予目标的破防效果。&lt;CR&gt;但目标为复数时，效果将会分散。" permit="true"/>
+    <LibraryEffDetail note="大幅提升给予目标的破防效果。&lt;CR&gt;但目标为复数时，效果将会分散。" permit="true"/>
+    <LibraryEffDetail note="飞跃性地提升给予目标的破防效果。&lt;CR&gt;但目标为复数时，效果将会分散。" permit="true"/>
+    <LibraryEffDetail note="稍微缓和敌人发动强大攻击的频率。" permit="true"/>
+    <LibraryEffDetail note="缓和敌人发动强大攻击的频率。" permit="true"/>
+    <LibraryEffDetail note="大幅缓和敌人发动强大攻击的频率。" permit="true"/>
+    <LibraryEffDetail note="让敌人沉静化，稍微推迟强大攻击的发生。" permit="true"/>
+    <LibraryEffDetail note="让敌人沉静化，较为推迟强大攻击的发生。" permit="true"/>
+    <LibraryEffDetail note="让敌人沉静化，推迟强大攻击的发生。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="消耗微量ＨＰ。&lt;CR&gt;消耗值会随最大ＨＰ产生变化。" permit="true"/>
+    <LibraryEffDetail note="消耗少量ＨＰ。&lt;CR&gt;消耗值会随最大ＨＰ产生变化。" permit="true"/>
+    <LibraryEffDetail note="消耗ＨＰ。消耗值会随最大ＨＰ产生变化。" permit="true"/>
+    <LibraryEffDetail note="消耗大量ＨＰ。&lt;CR&gt;消耗值会随最大ＨＰ产生变化。" permit="true"/>
+    <LibraryEffDetail note="消耗非常大量ＨＰ。&lt;CR&gt;消耗值会随最大ＨＰ产生变化。" permit="true"/>
+    <LibraryEffDetail note="消耗微量ＭＰ。若ＭＰ不足，效果会减弱。" permit="true"/>
+    <LibraryEffDetail note="消耗少量ＭＰ。若ＭＰ不足，效果会减弱。" permit="true"/>
+    <LibraryEffDetail note="消耗ＭＰ。若ＭＰ不足，效果会减弱。" permit="true"/>
+    <LibraryEffDetail note="消耗大量ＭＰ。若ＭＰ不足，效果会减弱。" permit="true"/>
+    <LibraryEffDetail note="消耗非常大量ＭＰ。&lt;CR&gt;若ＭＰ不足，效果会减弱。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="提高在原野上发现更好素材的可能性。" permit="true"/>
+    <LibraryEffDetail note="大幅提高在原野上发现更好素材的可能性。" permit="true"/>
+    <LibraryEffDetail note="休息５小时，&lt;CR&gt;恢复ＨＰ、ＭＰ、ＬＰ的５０％。" permit="true"/>
+    <LibraryEffDetail note="休息１０小时，完全恢复ＨＰ、ＭＰ、ＬＰ。" permit="true"/>
+    <LibraryEffDetail note="休息到傍晚，恢复ＨＰ、ＭＰ、ＬＰ。&lt;CR&gt;恢复量会因休息时间的长短而产生变动。" permit="true"/>
+    <LibraryEffDetail note="休息到晚上，恢复ＨＰ、ＭＰ、ＬＰ。&lt;CR&gt;恢复量会因休息时间的长短而产生变动。" permit="true"/>
+    <LibraryEffDetail note="一旦使用，可瞬间返回工房。" permit="true"/>
+    <LibraryEffDetail note="可少量选择采集到的道具送回工房。&lt;CR&gt;最多一次可送回１０个。" permit="true"/>
+    <LibraryEffDetail note="可选择采集到的道具送回工房。&lt;CR&gt;最多一次可送回３０个。" permit="true"/>
+    <LibraryEffDetail note="可大量选择采集到的道具送回工房。&lt;CR&gt;最多一次可送回５０个。" permit="true"/>
+    <LibraryEffDetail note="存在感变得薄弱，短时间内不易被魔物察觉到。" permit="true"/>
+    <LibraryEffDetail note="抹去存在感，短时间内不会被魔物察觉。&lt;CR&gt;但要小心别太过接近。" permit="true"/>
+    <LibraryEffDetail note="稍微降低意外的发生率。" permit="true"/>
+    <LibraryEffDetail note="降低意外的发生率。" permit="true"/>
+    <LibraryEffDetail note="大幅降低意外的发生率。" permit="true"/>
+    <LibraryEffDetail note="在世界地图遇到魔物时，&lt;CR&gt;能不进行战斗就通过。&lt;CR&gt;一旦发挥效果，使用次数便会减少。" permit="false"/>
+    <LibraryEffDetail note="在世界地图遇到魔物时，&lt;CR&gt;能不进行战斗就通过。&lt;CR&gt;一旦发挥效果，使用次数便会减少。" permit="false"/>
+    <LibraryEffDetail note="在世界地图遇到魔物时，&lt;CR&gt;能不进行战斗就通过。&lt;CR&gt;一旦发挥效果，使用次数便会减少。" permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="在世界地图移动消耗的ＬＰ&lt;CR&gt;减轻２５％。" permit="true"/>
+    <LibraryEffDetail note="在世界地图移动消耗的ＬＰ&lt;CR&gt;减轻一半。" permit="true"/>
+    <LibraryEffDetail note="在世界地图移动消耗的ＬＰ&lt;CR&gt;完全变为０。" permit="true"/>
+    <LibraryEffDetail note="移动速度加快１０％。" permit="true"/>
+    <LibraryEffDetail note="移动速度加快20%。" permit="true"/>
+    <LibraryEffDetail note="移动速度加快30%。" permit="true"/>
+    <LibraryEffDetail note="可持有道具的数量增加２０个。" permit="true"/>
+    <LibraryEffDetail note="可持有道具的数量增加40个。" permit="true"/>
+    <LibraryEffDetail note="稍微减少在全灭时失去道具的数量。" permit="true"/>
+    <LibraryEffDetail note="减少在全灭时失去道具的数量。" permit="true"/>
+    <LibraryEffDetail note="大幅减少在全灭时失去道具的数量。" permit="true"/>
+    <LibraryEffDetail note="稍微增加在１次采集中可获得的道具数量。" permit="true"/>
+    <LibraryEffDetail note="增加在１次采集中可获得的道具数量。" permit="true"/>
+    <LibraryEffDetail note="大幅增加在１次采集中可获得的道具数量。" permit="true"/>
+    <LibraryEffDetail note="稍微提升战斗获得的金钱量。&lt;CR&gt;获得的金钱量为０时不上升。" permit="true"/>
+    <LibraryEffDetail note="提升战斗获得的金钱量。&lt;CR&gt;获得的金钱量为０时不上升。" permit="true"/>
+    <LibraryEffDetail note="大幅提升战斗获得的金钱量。&lt;CR&gt;即使获得的金钱量为０时，&lt;CR&gt;也可获得微量的金钱。" permit="true"/>
+    <LibraryEffDetail note="稍微提升战斗获得的经验值。" permit="true"/>
+    <LibraryEffDetail note="提升战斗获得的经验值。" permit="true"/>
+    <LibraryEffDetail note="大幅提升战斗获得的经验值。" permit="true"/>
+    <LibraryEffDetail note="交付礼物时，稍微提升友好度的上升值。" permit="true"/>
+    <LibraryEffDetail note="交付礼物时，提升友好度的上升值。" permit="true"/>
+    <LibraryEffDetail note="交付礼物时，大幅提升友好度的上升值。" permit="true"/>
+    <LibraryEffDetail note="采集等级与敌人的等级容易上升。" permit="true"/>
+    <LibraryEffDetail note="采集等级与敌人的等级不容易上升。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="战斗中，能力在每次行动时上升。&lt;CR&gt;上升值有限。" permit="true"/>
+    <LibraryEffDetail note="战斗中，能力虽会暂时上升，&lt;CR&gt;但上升量将随行动次数递减。" permit="true"/>
+    <LibraryEffDetail note="稍微提升重击发生率。" permit="true"/>
+    <LibraryEffDetail note="稍微提升重击发生率&lt;CR&gt;与重击发生时的伤害奖励。" permit="true"/>
+    <LibraryEffDetail note="提升重击发生率与重击发生时的伤害奖励。" permit="true"/>
+    <LibraryEffDetail note="所有辅助行动的效果稍微上升。" permit="true"/>
+    <LibraryEffDetail note="所有辅助行动的效果上升。" permit="true"/>
+    <LibraryEffDetail note="所有辅助行动的效果大幅上升。" permit="true"/>
+    <LibraryEffDetail note="异常状态的持续回合稍微缩短。" permit="true"/>
+    <LibraryEffDetail note="异常状态的持续回合大幅缩短。" permit="true"/>
+    <LibraryEffDetail note="战斗中稍微不容易成为攻击对象。" permit="true"/>
+    <LibraryEffDetail note="战斗中不容易成为攻击对象。" permit="true"/>
+    <LibraryEffDetail note="战斗中稍微容易成为攻击对象。" permit="true"/>
+    <LibraryEffDetail note="战斗中容易成为攻击对象。" permit="true"/>
+    <LibraryEffDetail note="所有行动后的待机时间稍微缩短。" permit="true"/>
+    <LibraryEffDetail note="所有行动后的待机时间缩短。" permit="true"/>
+    <LibraryEffDetail note="所有行动后的待机时间大幅缩短。" permit="true"/>
+    <LibraryEffDetail note="连续攻击的发生率稍微上升。" permit="true"/>
+    <LibraryEffDetail note="连续攻击的发生率上升。" permit="true"/>
+    <LibraryEffDetail note="连续攻击的发生率大幅上升。" permit="true"/>
+    <LibraryEffDetail note="连续攻击的发生率飞跃性地上升。" permit="true"/>
+    <LibraryEffDetail note="将ＨＰ和ＭＰ的最大值取５０％互相交换。" permit="true"/>
+    <LibraryEffDetail note="将ＨＰ和ＭＰ的最大值完全互相交换。" permit="true"/>
+    <LibraryEffDetail note="承受的伤害减轻１０％，由ＭＰ承受伤害。" permit="true"/>
+    <LibraryEffDetail note="承受的伤害减轻１０％，但会延后行动。" permit="true"/>
+    <LibraryEffDetail note="承受的伤害减轻１０％，但破防值会上升。" permit="true"/>
+    <LibraryEffDetail note="攻击时偶尔出现高期待值。" permit="true"/>
+    <LibraryEffDetail note="攻击时容易出现高期待值。" permit="true"/>
+    <LibraryEffDetail note="攻击时相当容易出现高期待值。" permit="true"/>
+    <LibraryEffDetail note="配合使用技能后的待机时间，&lt;CR&gt;提升使用过的攻击技能威力。" permit="true"/>
+    <LibraryEffDetail note="攻击力‧防御力‧敏捷仅上升&lt;CR&gt;变化前之最大ＨＰ的２０％。" permit="true"/>
+    <LibraryEffDetail note="攻击力‧防御力‧敏捷仅上升&lt;CR&gt;变化前之最大ＭＰ的２５％。" permit="true"/>
+    <LibraryEffDetail note="当ＨＰ残量在２５％以下时，&lt;CR&gt;重击发生率或回避率等&lt;CR&gt;数值上升。" permit="true"/>
+    <LibraryEffDetail note="战斗中，陷入无法战斗的状态下&lt;CR&gt;轮到角色行动时，会自动由无法战斗中复活。复活时的ＨＰ仅有一点点。" permit="true"/>
+    <LibraryEffDetail note="战斗中，陷入无法战斗的状态下&lt;CR&gt;轮到角色行动时，会自动由无法战斗中复活。复活时的ＨＰ中等。" permit="true"/>
+    <LibraryEffDetail note="战斗中，陷入无法战斗的状态下&lt;CR&gt;轮到角色行动时，会自动由无法战斗中复活。复活时的ＨＰ约一半。" permit="true"/>
+    <LibraryEffDetail note="受到使行动顺序延后的效果时，&lt;CR&gt;使其效果减轻。" permit="true"/>
+    <LibraryEffDetail note="受到使行动顺序延后的效果时，&lt;CR&gt;使其效果减半。" permit="true"/>
+    <LibraryEffDetail note="早上时段的攻击力、防御力、敏捷&lt;CR&gt;提升１５％。在此以外的时段则无效。" permit="true"/>
+    <LibraryEffDetail note="中午时段的攻击力、防御力、敏捷&lt;CR&gt;提升１５％。在此以外的时段则无效。" permit="true"/>
+    <LibraryEffDetail note="傍晚时段的攻击力、防御力、敏捷&lt;CR&gt;提升１５％。在此以外的时段则无效。" permit="true"/>
+    <LibraryEffDetail note="晚上时段的攻击力、防御力、敏捷&lt;CR&gt;提升１５％。在此以外的时段则无效。" permit="true"/>
+    <LibraryEffDetail note="早上与中午的攻击力、防御力、敏捷&lt;CR&gt;提升１５％。傍晚及晚上的时段则无效。" permit="true"/>
+    <LibraryEffDetail note="傍晚与晚上的攻击力、防御力、敏捷&lt;CR&gt;提升１５％。早上及中午的时段则无效。" permit="true"/>
+    <LibraryEffDetail note="攻击力减少１５％，&lt;CR&gt;减少的部分会让防御力上升。" permit="true"/>
+    <LibraryEffDetail note="防御力减少１５％，&lt;CR&gt;减少的部分会让攻击力上升。" permit="true"/>
+    <LibraryEffDetail note="进行ＨＰ恢复或解除１个异常状态时，&lt;CR&gt;会额外恢复少量ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="每次ＨＰ恢复时，&lt;CR&gt;解除２个异常状态。" permit="true"/>
+    <LibraryEffDetail note="进行ＨＰ恢复或解除１个异常状态时，&lt;CR&gt;会额外恢复ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="战斗时，&lt;CR&gt;ＨＰ承受伤害的１０％会回馈于ＭＰ，&lt;CR&gt;ＭＰ消耗值的１０％会回馈于ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="战斗时，&lt;CR&gt;ＨＰ承受伤害的15%会回馈于ＭＰ，&lt;CR&gt;ＭＰ消耗值的15%会回馈于ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="解除异常状态时，&lt;CR&gt;攻击力‧防御力‧敏捷会暂时上升。" permit="true"/>
+    <LibraryEffDetail note="解除异常状态时，&lt;CR&gt;攻击力‧防御力‧敏捷会暂时大幅上升。" permit="true"/>
+    <LibraryEffDetail note="因力量符文潜藏的魔力，攻击力上升１５。" permit="true"/>
+    <LibraryEffDetail note="因守备符文潜藏的魔力，防御力上升１５。" permit="true"/>
+    <LibraryEffDetail note="因速度符文潜藏的魔力，敏捷上升１５。" permit="true"/>
+    <LibraryEffDetail note="因刚力符文潜藏的魔力，攻击力上升２５。" permit="true"/>
+    <LibraryEffDetail note="因守护符文潜藏的魔力，防御力上升２５。" permit="true"/>
+    <LibraryEffDetail note="因疾风符文潜藏的魔力，敏捷上升２５。" permit="true"/>
+    <LibraryEffDetail note="因武器符文潜藏的魔力，基础伤害值上升。" permit="true"/>
+    <LibraryEffDetail note="因道具符文潜藏的魔力，&lt;CR&gt;道具威力上升，待机时间缩短。" permit="true"/>
+    <LibraryEffDetail note="透过防壁符文潜藏的魔力，减轻所有伤害。" permit="true"/>
+    <LibraryEffDetail note="敏捷减少１５％，&lt;CR&gt;减少的部分会让攻击力上升。" permit="true"/>
+    <LibraryEffDetail note="基础伤害值因精灵之力上升。" permit="true"/>
+    <LibraryEffDetail note="基础伤害值因精灵王之力上升许多。" permit="true"/>
+    <LibraryEffDetail note="基础伤害值因精灵神之力大幅上升。" permit="true"/>
+    <LibraryEffDetail note="攻击力‧防御力‧敏捷上升。&lt;CR&gt;上升量依装备者的等级比例提升。" permit="true"/>
+    <LibraryEffDetail note="攻击力‧防御力‧敏捷上升。&lt;CR&gt;上升量依装备者的等级比例加倍提升。" permit="true"/>
+    <LibraryEffDetail note="找出似乎能逃离的路线，&lt;CR&gt;大幅提升“逃跑”的成功率。" permit="true"/>
+    <LibraryEffDetail note="潜藏的斗志熊熊燃烧，&lt;CR&gt;和比自己还要强的敌人战斗时，&lt;CR&gt;能够发挥力量。" permit="true"/>
+    <LibraryEffDetail note="英雄之魂附体，&lt;CR&gt;和强大的敌人战斗时，&lt;CR&gt;能够发挥力量。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="行动时仅恢复少量ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="行动时恢复中量ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="行动时恢复ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="行动时恢复大量ＨＰ。" permit="true"/>
+    <LibraryEffDetail note="行动时仅恢复少量ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="行动时恢复中量ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="行动时ＭＰ恢复。" permit="true"/>
+    <LibraryEffDetail note="行动时恢复大量ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="最大ＨＰ上升１０。" permit="true"/>
+    <LibraryEffDetail note="最大ＨＰ上升15。" permit="true"/>
+    <LibraryEffDetail note="最大ＨＰ上升20。" permit="true"/>
+    <LibraryEffDetail note="最大ＨＰ上升25。" permit="true"/>
+    <LibraryEffDetail note="最大ＨＰ上升30。" permit="true"/>
+    <LibraryEffDetail note="最大ＭＰ上升１０。" permit="true"/>
+    <LibraryEffDetail note="最大ＭＰ上升15。" permit="true"/>
+    <LibraryEffDetail note="最大ＭＰ上升20。" permit="true"/>
+    <LibraryEffDetail note="最大ＭＰ上升25。" permit="true"/>
+    <LibraryEffDetail note="最大ＭＰ上升30。" permit="true"/>
+    <LibraryEffDetail note="攻击力上升５。" permit="true"/>
+    <LibraryEffDetail note="攻击力上升10。" permit="true"/>
+    <LibraryEffDetail note="攻击力上升15。" permit="true"/>
+    <LibraryEffDetail note="攻击力上升20。" permit="true"/>
+    <LibraryEffDetail note="攻击力上升25。" permit="true"/>
+    <LibraryEffDetail note="防御力上升５。" permit="true"/>
+    <LibraryEffDetail note="防御力上升10。" permit="true"/>
+    <LibraryEffDetail note="防御力上升15。" permit="true"/>
+    <LibraryEffDetail note="防御力上升20。" permit="true"/>
+    <LibraryEffDetail note="防御力上升25。" permit="true"/>
+    <LibraryEffDetail note="敏捷上升５。" permit="true"/>
+    <LibraryEffDetail note="敏捷上升10。" permit="true"/>
+    <LibraryEffDetail note="敏捷上升15。" permit="true"/>
+    <LibraryEffDetail note="敏捷上升20。" permit="true"/>
+    <LibraryEffDetail note="敏捷上升25。" permit="true"/>
+    <LibraryEffDetail note="攻击命中率上升10%。" permit="true"/>
+    <LibraryEffDetail note="攻击命中率上升15%。" permit="true"/>
+    <LibraryEffDetail note="攻击命中率上升20%。" permit="true"/>
+    <LibraryEffDetail note="攻击命中率上升２５％。" permit="true"/>
+    <LibraryEffDetail note="攻击命中率上升30%。" permit="true"/>
+    <LibraryEffDetail note="攻击回避率上升4%。" permit="true"/>
+    <LibraryEffDetail note="攻击回避率上升6%。" permit="true"/>
+    <LibraryEffDetail note="攻击回避率上升8%。" permit="true"/>
+    <LibraryEffDetail note="攻击回避率上升10%。" permit="true"/>
+    <LibraryEffDetail note="攻击回避率上升12%。" permit="true"/>
+    <LibraryEffDetail note="重击发生率上升3%。" permit="true"/>
+    <LibraryEffDetail note="重击发生率上升6%。" permit="true"/>
+    <LibraryEffDetail note="重击发生率上升9%。" permit="true"/>
+    <LibraryEffDetail note="重击发生率上升12%。" permit="true"/>
+    <LibraryEffDetail note="重击发生率上升15%。" permit="true"/>
+    <LibraryEffDetail note="重击发生时，伤害奖励&lt;CR&gt;上升3%。" permit="true"/>
+    <LibraryEffDetail note="重击发生时，伤害奖励&lt;CR&gt;上升6%。" permit="true"/>
+    <LibraryEffDetail note="重击发生时，伤害奖励&lt;CR&gt;上升9%。" permit="true"/>
+    <LibraryEffDetail note="重击发生时，伤害奖励&lt;CR&gt;上升12%。" permit="true"/>
+    <LibraryEffDetail note="重击发生时，伤害奖励&lt;CR&gt;上升15%。" permit="true"/>
+    <LibraryEffDetail note="技能威力上升５％。" permit="true"/>
+    <LibraryEffDetail note="技能威力上升7%。" permit="true"/>
+    <LibraryEffDetail note="技能威力上升10%。" permit="true"/>
+    <LibraryEffDetail note="技能威力上升15%。" permit="true"/>
+    <LibraryEffDetail note="道具威力上升10%。" permit="true"/>
+    <LibraryEffDetail note="道具威力上升15%。" permit="true"/>
+    <LibraryEffDetail note="道具威力上升20%。" permit="true"/>
+    <LibraryEffDetail note="使用道具时的待机时间&lt;CR&gt;缩短１０％。" permit="true"/>
+    <LibraryEffDetail note="使用道具时的待机时间&lt;CR&gt;缩短15%。" permit="true"/>
+    <LibraryEffDetail note="使用道具时的待机时间&lt;CR&gt;缩短20%。" permit="true"/>
+    <LibraryEffDetail note="爆发量表的上升量增加１％。" permit="true"/>
+    <LibraryEffDetail note="爆发量表的上升量增加2%。" permit="true"/>
+    <LibraryEffDetail note="爆发量表的上升量增加3%。" permit="true"/>
+    <LibraryEffDetail note="使睡眠的异常状态无效化。" permit="true"/>
+    <LibraryEffDetail note="使中毒的异常状态无效化。" permit="true"/>
+    <LibraryEffDetail note="使迟缓的异常状态无效化。" permit="true"/>
+    <LibraryEffDetail note="使诅咒的异常状态无效化。" permit="true"/>
+    <LibraryEffDetail note="使盲目的异常状态无效化。" permit="true"/>
+    <LibraryEffDetail note="使弱体化的异常状态无效化。" permit="true"/>
+    <LibraryEffDetail note="使恢复无效的异常状态无效化。" permit="true"/>
+    <LibraryEffDetail note="使封印的异常状态无效化。" permit="true"/>
+    <LibraryEffDetail note="使后遗症的异常状态无效化。" permit="true"/>
+    <LibraryEffDetail note="使无法战斗的效果无效化。" permit="true"/>
+    <LibraryEffDetail note="使所有异常状态无效化。" permit="true"/>
+    <LibraryEffDetail note="陷入异常状态的机率微量下降。" permit="true"/>
+    <LibraryEffDetail note="陷入异常状态的机率少量下降。" permit="true"/>
+    <LibraryEffDetail note="陷入异常状态的机率中量下降。" permit="true"/>
+    <LibraryEffDetail note="陷入异常状态的机率大量下降。" permit="true"/>
+    <LibraryEffDetail note="陷入异常状态的机率下降。" permit="true"/>
+    <LibraryEffDetail note="受到伤害使ＨＰ降为０时，&lt;CR&gt;有一定机率ＨＰ会剩下１。&lt;CR&gt;发生率非常低。" permit="true"/>
+    <LibraryEffDetail note="受到伤害使ＨＰ降为０时，&lt;CR&gt;有一定机率ＨＰ会剩下１。&lt;CR&gt;发生率很低。" permit="true"/>
+    <LibraryEffDetail note="受到伤害使ＨＰ降为０时，&lt;CR&gt;有一定机率ＨＰ会剩下１。&lt;CR&gt;发生率稍低。" permit="true"/>
+    <LibraryEffDetail note="受到伤害使ＨＰ降为０时，&lt;CR&gt;有一定机率ＨＰ会剩下１。&lt;CR&gt;发生率中等。" permit="true"/>
+    <LibraryEffDetail note="受到伤害使ＨＰ降为０时，&lt;CR&gt;有一定机率ＨＰ会剩下１。&lt;CR&gt;发生率高。" permit="true"/>
+    <LibraryEffDetail note="装备时获得火耐性。" permit="true"/>
+    <LibraryEffDetail note="装备时获得冰耐性。" permit="true"/>
+    <LibraryEffDetail note="装备时获得雷耐性。" permit="true"/>
+    <LibraryEffDetail note="将给予目标伤害中的一部分&lt;CR&gt;回馈给自己的ＨＰ。效果较小。" permit="true"/>
+    <LibraryEffDetail note="将给予目标伤害中的一部分&lt;CR&gt;回馈给自己的ＨＰ。效果中等。" permit="true"/>
+    <LibraryEffDetail note="将给予目标伤害中的一部分&lt;CR&gt;回馈给自己的ＨＰ。效果较大。" permit="true"/>
+    <LibraryEffDetail note="将给予目标伤害中的一部分&lt;CR&gt;回馈给自己的ＨＰ。效果非常大。" permit="true"/>
+    <LibraryEffDetail note="伤害减轻５％。" permit="true"/>
+    <LibraryEffDetail note="伤害减轻6%。" permit="true"/>
+    <LibraryEffDetail note="伤害减轻8%。" permit="true"/>
+    <LibraryEffDetail note="伤害减轻10%。" permit="true"/>
+    <LibraryEffDetail note="攻击敌人时的破防值&lt;CR&gt;会微量上升。" permit="true"/>
+    <LibraryEffDetail note="攻击敌人时的破防值&lt;CR&gt;会少量上升。" permit="true"/>
+    <LibraryEffDetail note="攻击敌人时的破防值&lt;CR&gt;会上升。" permit="true"/>
+    <LibraryEffDetail note="攻击敌人时的破防值&lt;CR&gt;会大量上升。" permit="true"/>
+    <LibraryEffDetail note="破防的耐久值少量上升。" permit="true"/>
+    <LibraryEffDetail note="破防的耐久值中量上升。" permit="true"/>
+    <LibraryEffDetail note="破防的耐久值上升。" permit="true"/>
+    <LibraryEffDetail note="敌人为破防状态时，给予的伤害微量上升。" permit="true"/>
+    <LibraryEffDetail note="敌人为破防状态时，给予的伤害少量上升。" permit="true"/>
+    <LibraryEffDetail note="敌人为破防状态时，给予的伤害上升。" permit="true"/>
+    <LibraryEffDetail note="敌人为破防状态时，给予的伤害大量上升。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="炼金釜与面板的颜色会随着星期改变。&lt;CR&gt;从原本的颜色依&lt;CR&gt;&lt;CLGR&gt;红→蓝→绿→黄→白→红&lt;CLNR&gt;的顺序变化。" permit="true"/>
+    <LibraryEffDetail note="调合时，右侧出现的是普拉芙妲而不是苏菲。" permit="false"/>
+    <LibraryEffDetail note="具备“相乘效果”、“同步”、“时间限制”与“周围染色”所有效果的炼金釜。" permit="true"/>
+    <LibraryEffDetail note="在１次调合中增加２０秒的限制时间。&lt;CR&gt;在限制时间内调合完，&lt;CR&gt;可以取得更多调合奖励。" permit="false"/>
+    <LibraryEffDetail note="调合面板的开启等级为１。&lt;CR&gt;开启等级越高，开始调合时配置的奖励也越多。" permit="true"/>
+    <LibraryEffDetail note="调合面板的开启等级为2。&lt;CR&gt;开启等级越高，开始调合时配置的奖励也越多。" permit="true"/>
+    <LibraryEffDetail note="调合面板的开启等级为3。&lt;CR&gt;开启等级越高，开始调合时配置的奖励也越多。" permit="true"/>
+    <LibraryEffDetail note="调合面板的开启等级为３。&lt;CR&gt;开启等级越高，面板上的调合奖励数量也会变多。" permit="false"/>
+    <LibraryEffDetail note="将面板尺寸变为４×４。" permit="true"/>
+    <LibraryEffDetail note="将面板尺寸变为5×5。" permit="true"/>
+    <LibraryEffDetail note="将面板尺寸变为6×6。" permit="true"/>
+    <LibraryEffDetail note="苏菲从奶奶手中继承而来的炼金釜。&lt;CR&gt;由于经过长时间的使用，只剩下炼金釜最低限度的力量。" permit="true"/>
+    <LibraryEffDetail note="就算质量０的情况下进行调合也不会失败，&lt;CR&gt;能够得到想要的调合物。" permit="true"/>
+    <LibraryEffDetail note="见习炼金术士用来练习的炼金釜。&lt;CR&gt;因为是练习用的，所以只有最低限度的机能。" permit="true"/>
+    <LibraryEffDetail note="取得与炼金釜液体颜色同色的奖励时，&lt;CR&gt;上升的效果值增加５０％。" permit="true"/>
+    <LibraryEffDetail note="取得与已配置材料颜色同色的调合奖励时，&lt;CR&gt;效果值会随着该材料也取得的&lt;CR&gt;调合奖励而上升。" permit="true"/>
+    <LibraryEffDetail note="有６０秒的时间限制，超过即&lt;CLGR&gt;失败&lt;CLNR&gt;。一旦选择配置材料便开始倒数，无法返回&lt;CLGR&gt;选择炼金釜&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEffDetail note="配置好材料时，所配置材料周遭８个方向的调合奖励会变成与配置的材料同色。" permit="true"/>
+    <LibraryEffDetail note="只有占调合盘面比例最多的颜色，在完成时能获得的炼金术经验值会增加。" permit="true"/>
+    <LibraryEffDetail note="只有占调合盘面比例最多的颜色，能提升调合物的质量。" permit="true"/>
+    <LibraryEffDetail note="拥有除了“时间限制”以外，所有炼金锅效果的究极炼金釜。" permit="true"/>
+    <LibraryEffDetail note="配置材料时，按下&lt;IM11&gt;&lt;IM16&gt;可上下颠倒材料。" permit="true"/>
+    <LibraryEffDetail note="配置材料时，按下&lt;IM11&gt;&lt;IM16&gt;可左右颠倒材料。" permit="true"/>
+    <LibraryEffDetail note="配置材料时，按下&lt;IM11&gt;&lt;IM16&gt;可旋转材料。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="改变道具的颜色为&lt;CLGR&gt;红色&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEffDetail note="改变道具的颜色为&lt;CLGR&gt;蓝色&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEffDetail note="改变道具的颜色为&lt;CLGR&gt;绿色&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEffDetail note="改变道具的颜色为&lt;CLGR&gt;黄色&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEffDetail note="改变道具的颜色为&lt;CLGR&gt;白色&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEffDetail note="赋予类别值１０的&lt;CLGR&gt;（食材）&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEffDetail note="赋予类别值１０的&lt;CLGR&gt;（燃料）&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEffDetail note="赋予类别值１０的&lt;CLGR&gt;（药材）&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEffDetail note="赋予类别值１０的&lt;CLGR&gt;（有毒材料）&lt;CLNR&gt;。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="&lt;CLGR&gt;（食材）&lt;CLNR&gt;的类别值增加５。" permit="true"/>
+    <LibraryEffDetail note="&lt;CLGR&gt;（火药）&lt;CLNR&gt;的类别值增加５。" permit="true"/>
+    <LibraryEffDetail note="&lt;CLGR&gt;（木材）&lt;CLNR&gt;的类别值增加５。" permit="true"/>
+    <LibraryEffDetail note="&lt;CLGR&gt;（中和剂）&lt;CLNR&gt;的类别值增加５。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail note="获得终极的破坏力。&lt;CR&gt;重击时的伤害奖励上升３０％。" permit="true"/>
+    <LibraryEffDetail note="获得终极的不动力。&lt;CR&gt;让行动顺序推迟的效果１００％无效。" permit="true"/>
+    <LibraryEffDetail note="获得终极的反转力。&lt;CR&gt;所承受之伤害的１５％&lt;CR&gt;会转变为ＭＰ伤害并减轻。" permit="true"/>
+    <LibraryEffDetail note="获得终极的瞬发力。&lt;CR&gt;技能行动后的待机时间缩短２０％。" permit="true"/>
+    <LibraryEffDetail note="获得终极的再生力。&lt;CR&gt;ＨＰ会在每次行动时恢复５０。" permit="true"/>
+    <LibraryEffDetail note="获得终极的自信力。&lt;CR&gt;重击发生率上升５０％。" permit="true"/>
+    <LibraryEffDetail note="获得终极的转换力。&lt;CR&gt;所承受之伤害的２０％会回馈为ＭＰ。" permit="true"/>
+    <LibraryEffDetail note="获得终极的进化力。&lt;CR&gt;参数配合装备者的等级大量强化。" permit="true"/>
+    <LibraryEffDetail note="获得终极的生命力。&lt;CR&gt;最大ＨＰ上升１００。" permit="true"/>
+    <LibraryEffDetail note="获得终极的精神力。&lt;CR&gt;最大ＭＰ上升１００。" permit="true"/>
+    <LibraryEffDetail note="获得终极的强化力。&lt;CR&gt;最大ＨＰ与ＭＰ上升５０。" permit="true"/>
+    <LibraryEffDetail note="获得终极的攻击力。&lt;CR&gt;攻击力上升５０。" permit="true"/>
+    <LibraryEffDetail note="获得终极的防御力。&lt;CR&gt;防御力上升５０。" permit="true"/>
+    <LibraryEffDetail note="获得终极的行动力。&lt;CR&gt;敏捷上升５０。" permit="true"/>
+    <LibraryEffDetail note="获得终极的命中力。&lt;CR&gt;命中率上升５０％。" permit="true"/>
+    <LibraryEffDetail note="获得终极的回避力。&lt;CR&gt;回避率上升１５％。" permit="true"/>
+    <LibraryEffDetail note="获得终极的炎耐性。&lt;CR&gt;得到火超耐性。" permit="true"/>
+    <LibraryEffDetail note="获得终极的冰耐性。&lt;CR&gt;得到冰超耐性。" permit="true"/>
+    <LibraryEffDetail note="获得终极的雷耐性。&lt;CR&gt;得到雷超耐性。" permit="true"/>
+    <LibraryEffDetail note="获得终极的耐性力。&lt;CR&gt;得到对所有异常状态的耐性。" permit="true"/>
+    <LibraryEffDetail note="获得终极的援护力。&lt;CR&gt;辅助行动的效果强化１５％。" permit="true"/>
+    <LibraryEffDetail note="获得终极的调整力。&lt;CR&gt;技能威力上升３０％。" permit="true"/>
+    <LibraryEffDetail note="获得终极的成长力。&lt;CR&gt;伤害期待值大幅上升。" permit="true"/>
+    <LibraryEffDetail note="获得终极的复活力。&lt;CR&gt;无法战斗后，轮到下一次的回合时，&lt;CR&gt;获得自动复活的能力。" permit="true"/>
+    <LibraryEffDetail note="获得终极的逆转力。&lt;CR&gt;与强敌战斗时的能力大幅上升。" permit="true"/>
+    <LibraryEffDetail note="获得终极的爆发力。&lt;CR&gt;爆发时的伤害调整上升１５％。" permit="true"/>
+    <LibraryEffDetail note="获得终极的无敌力。&lt;CR&gt;受到伤害而无法战斗时，&lt;CR&gt;有３５％的机率ＨＰ会剩下１。" permit="true"/>
+    <LibraryEffDetail note="获得终极的缩短力。&lt;CR&gt;行动时，有３５％的机率&lt;CR&gt;会缩短２５％行动后的待机时间。" permit="true"/>
+    <LibraryEffDetail note="获得终极的减轻力。&lt;CR&gt;所有的伤害减轻１０％。" permit="true"/>
+    <LibraryEffDetail note="获得终极的燃烧力。&lt;CR&gt;攻击时的爆发量表增加量增加１０％。" permit="true"/>
+    <LibraryEffDetail note="获得终极的昏厥力。&lt;CR&gt;攻击时的破防值大量增加。" permit="true"/>
+    <LibraryEffDetail note="获得终极的对抗力。&lt;CR&gt;与强大敌人战斗时，&lt;CR&gt;给予的伤害与承受的伤害会随之增减。" permit="true"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+    <LibraryEffDetail permit="false"/>
+</Root>

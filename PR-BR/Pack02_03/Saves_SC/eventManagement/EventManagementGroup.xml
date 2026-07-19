@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+	<EventManagementGroup No="0" title="重要的事"/>
+	<EventManagementGroup No="1" title="普拉芙妲的记忆"/>
+	<EventManagementGroup No="2" title="摩妮卡"/>
+	<EventManagementGroup No="3" title="奥斯卡"/>
+	<EventManagementGroup No="4" title="朱利欧先生"/>
+	<EventManagementGroup No="5" title="弗利兹先生"/>
+	<EventManagementGroup No="6" title="小柯柯"/>
+	<EventManagementGroup No="7" title="哈罗尔"/>
+	<EventManagementGroup No="8" title="蕾昂小姐"/>
+	<EventManagementGroup No="9" title="罗吉先生"/>
+	<EventManagementGroup No="10" title="帕梅拉"/>
+	<EventManagementGroup No="11" title="缇丝小姐"/>
+	<EventManagementGroup No="12" title="霍尔斯特先生"/>
+	<EventManagementGroup No="13" title="纳萨尔斯先生"/>
+	<EventManagementGroup No="14" title="普拉芙妲的事"/>
+	<EventManagementGroup No="15" title="在意的两人"/>
+	<EventManagementGroup No="16" title="原点的伪装"/>
+</Root>

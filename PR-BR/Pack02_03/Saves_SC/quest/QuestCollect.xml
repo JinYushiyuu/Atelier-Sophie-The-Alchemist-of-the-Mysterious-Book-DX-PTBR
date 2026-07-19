@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <QuestCollect name="收集！　魔法草" numMin="3" numMax="7" money="12" priority="0" percent="100" forceMulti="7" property_lv_max="3" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　钴蓝草" numMin="3" numMax="7" money="18" priority="30" percent="60" forceMulti="7" item="ITEM_MAT_COBALT_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　妖精毒草" numMin="3" numMax="6" money="66" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_FAIRY_POISONOUS_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　神秘香草" numMin="2" numMax="5" money="90" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MYSTIC_HERB" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　枯草" numMin="3" numMax="7" money="12" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_DRIED_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　缠绕的藤蔓" numMin="3" numMax="6" money="60" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_VINES_TWINE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　峰棉花" numMin="3" numMax="6" money="42" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_PEAK_COTTON" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　青苔漂流木" numMin="3" numMax="6" money="78" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MOSSY_WOOD" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　颚松" numMin="3" numMax="6" money="60" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_KIFA" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　祭坛藓" numMin="3" numMax="6" money="48" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_ARUTARU" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　红草" numMin="3" numMax="6" money="84" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_CRIMSON_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　白姬草" numMin="2" numMax="5" money="102" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_WHITE_PRINCESS_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　常世仙花" numMin="2" numMax="4" money="204" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_AFTERLIFE_LILIES" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　一夜花" numMin="1" numMax="2" money="300" priority="5" percent="60" forceMulti="7" item="ITEM_MAT_DUNKELHEIT" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　星夜花" numMin="1" numMax="3" money="222" priority="5" percent="60" forceMulti="7" item="ITEM_MAT_DUNKELSTERN" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　艾森矿" numMin="3" numMax="6" money="42" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_EISEN_MINERAL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　雷电矿" numMin="3" numMax="6" money="54" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_REIDEN_MINERAL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　克普鲁矿" numMin="3" numMax="6" money="54" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_KUPFER_MINERAL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　火岩石" numMin="3" numMax="6" money="30" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_KAREN_STONE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　珀冷石" numMin="3" numMax="6" money="42" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_HAKUREI_STONE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　稀有金属" numMin="2" numMax="5" money="90" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_RARE_MATAL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　黑块" numMin="2" numMax="5" money="138" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_BLACK_MASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　泥丸子" numMin="3" numMax="7" money="18" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MUD_DUMPLING" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　湖底泥" numMin="3" numMax="6" money="54" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_BOTTOM_SOIL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　海底泥" numMin="3" numMax="6" money="66" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_SEABED_SOIL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　古老石板" numMin="2" numMax="5" money="90" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_LITHOGRAPH" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　碎裂的石材" numMin="3" numMax="6" money="66" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_INFORMAL_STONE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　古代石柱" numMin="2" numMax="5" money="126" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_ANCIENT_STONE_PILLAR" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　可锻性物质" numMin="2" numMax="5" money="114" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MALLEABLE_MATERIA" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　发晶石" numMin="2" numMax="4" money="150" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_FADENRITE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　夜水晶" numMin="2" numMax="4" money="174" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_NIGHT_CRYSTAL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　微型少女" numMin="2" numMax="4" money="204" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_GARDEN_MAIDEN" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　银灵结晶" numMin="2" numMax="4" money="168" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_SILVER_SPIRIT_CRYSTAL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　精灵结晶" numMin="1" numMax="3" money="234" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_ELEMENT_CRYSTAL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　魔鸟羽毛" numMin="3" numMax="7" money="24" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_DEMON_BIRD_FEATHER" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　坚韧骨头" numMin="3" numMax="6" money="36" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_STRONG_BONES" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　岛鱼鱼鳍" numMin="3" numMax="6" money="84" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_ISLAND_FISH_FIN" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　野兽毛皮" numMin="3" numMax="6" money="48" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_BEAST_FUR" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　赤月兽毛皮" numMin="2" numMax="5" money="126" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_DUSK_FUR" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　黏银丝" numMin="3" numMax="6" money="60" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_SILVER_THREAD" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　黏金钢丝" numMin="2" numMax="4" money="180" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_GOLD_THREAD" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　龙鳞片" numMin="1" numMax="3" money="234" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_DRAGON_SCALE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　井水" numMin="3" numMax="7" money="6" priority="5" percent="60" forceMulti="7" item="ITEM_MAT_WELL_WATER" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　好喝的水" numMin="3" numMax="6" money="48" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_DELICIOUS_WATER" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　基尔亨牛奶" numMin="3" numMax="6" money="60" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_KIRUHEN_MILK" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　夜光水" numMin="2" numMax="5" money="138" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_NIGHT_GLOW_WATER" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　硝基水" numMin="2" numMax="4" money="180" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_NITRO_WATER" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　可疑液体" numMin="2" numMax="5" money="120" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_SUSPICIOUS_LIQUID" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　噗尼的体液" numMin="3" numMax="6" money="54" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_PUNI_LIQUID" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　彩虹噗尼的体液" numMin="1" numMax="3" money="210" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_RAINBOW_PUNI_LIQUID" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　龙之血晶" numMin="1" numMax="3" money="252" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_DRAGON_BLOOD_CRYSTAL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　圣水" numMin="3" numMax="6" money="60" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_HOLY_WATER" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　噗尼噗尼珠" numMin="3" numMax="7" money="24" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_PUNIPUNI_BALL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　黄金噗尼噗尼珠" numMin="2" numMax="5" money="90" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_GOLDEN_PUNIPUNI_BALL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　海胆" numMin="3" numMax="7" money="12" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_UNI" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　红海胆" numMin="3" numMax="6" money="54" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_RED_UNI" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　罗梅麦" numMin="3" numMax="6" money="36" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_LAMER_WEIZEN" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　维沏粉" numMin="3" numMax="6" money="84" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_WEIZENMEHL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　土薯" numMin="3" numMax="6" money="54" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_SOIL_POTATO" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　银薯" numMin="2" numMax="5" money="90" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_SILVER_POTATO" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　蜂巢" numMin="3" numMax="6" money="54" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_HONEY_BEEHIVE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　来路不明的蛋" numMin="2" numMax="5" money="102" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_UNIDENTFIED_EGG" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　随兴草莓" numMin="3" numMax="6" money="60" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_WHIM_STRAWBERRY" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　炸裂莓" numMin="3" numMax="6" money="66" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_BURST_BERRY" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　纸屑" numMin="3" numMax="6" money="30" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_SCRAP_PAPER" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　天然油" numMin="3" numMax="6" money="54" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_NATURE_OIL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　分层油" numMin="3" numMax="6" money="78" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_SAFLOR_OIL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　教会卡牌" numMin="3" numMax="6" money="60" priority="5" percent="60" forceMulti="7" item="ITEM_MAT_CHURCH_AMULETS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　高级卡牌" numMin="2" numMax="5" money="102" priority="5" percent="60" forceMulti="7" item="ITEM_MAT_LUXURY_CHURCH_AMULETS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　虔诚信徒用卡牌" numMin="2" numMax="4" money="156" priority="5" percent="60" forceMulti="7" item="ITEM_MAT_PIOUS_CHURCH_AMULETS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　美丽贝壳" numMin="3" numMax="6" money="30" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_BEAUTIFUL_SEASHELL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　贝雷姆贝" numMin="2" numMax="5" money="96" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_PELREM_SHELL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　苍刚石" numMin="2" numMax="4" money="156" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_BLUE_CRYSTAL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　星星粉末" numMin="1" numMax="3" money="216" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_STAR_POWDER" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　太阳粉末" numMin="1" numMax="3" money="222" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_SUN_POWDER" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　小晶石" numMin="3" numMax="6" money="66" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_SMALL_CRYSTAL_PIECES" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　七色水芯片" numMin="2" numMax="4" money="150" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_RAINBOW_CRYSTAL_PIECES" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　梨形宝石" numMin="3" numMax="6" money="84" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_PENDEROCK" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　梨形绿宝石" numMin="2" numMax="4" money="168" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_PENDEGRUN" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　邪恶核石" numMin="2" numMax="5" money="132" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_DEVIOUS_CORE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　龙核" numMin="1" numMax="3" money="240" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_DRAGON_CORE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　被遗忘的灵树" numMin="1" numMax="3" money="258" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_FORGOTTEN_BRANCH" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　被遗忘的宝石" numMin="1" numMax="3" money="240" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_FORGOTTEN_JEWEL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　被遗忘的矿物" numMin="1" numMax="3" money="246" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_FORGOTTEN_ORE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　被遗忘的零件" numMin="1" numMax="3" money="258" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_FORGOTTEN_PARTS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　劣作的碎片" numMin="3" numMax="7" money="18" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_BASTARDS_PIECES" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　烧焦的碎片" numMin="3" numMax="7" money="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_BURNT_PIECES" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　很臭的碎片" numMin="3" numMax="7" money="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_SMELL_PIECES" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　美丽的碎片" numMin="3" numMax="7" money="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_BEAUTIFUL_PIECES" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　失败作的灰烬" numMin="3" numMax="7" money="6" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_FAILURE_ASH" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　胧草花瓣" numMin="2" numMax="4" money="168" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_OBORO_PETAL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　久远龙鳞" numMin="2" numMax="4" money="168" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_ANCIENT_DRAGON_SCALE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="收集！　约会券" numMin="3" numMax="7" money="6" priority="20" percent="60" forceMulti="7" item="ITEM_KEY_ITEM_013" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="寻求方便的植物" numMin="2" numMax="5" money="45" need_pt="0" priority="100" percent="100" forceMulti="0" day_min="20" day_max="50" flavor_text="288" item="ITEM_MAT_MAGIC_GRASS"/>
+    <QuestCollect name="收集！魔法草" numMin="2" numMax="5" money="45" need_pt="0" priority="1" percent="100" forceMulti="0" day_min="20" day_max="50" flavor_text="289" item="ITEM_MAT_MAGIC_GRASS"/>
+    <QuestCollect name="为了给料理添加一味" numMin="2" numMax="4" money="60" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" flavor_text="290" item="ITEM_MAT_COBALT_GRASS"/>
+    <QuestCollect name="收集！钴蓝草" numMin="2" numMax="4" money="60" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" flavor_text="291" item="ITEM_MAT_COBALT_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="想泡好喝的茶" numMin="2" numMax="4" money="315" need_pt="0" priority="250" percent="60" forceMulti="5" day_min="25" day_max="55" flavor_text="292" item="ITEM_MAT_MYSTIC_HERB" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="收集！神秘香草" numMin="2" numMax="4" money="315" need_pt="0" priority="250" percent="60" forceMulti="5" day_min="25" day_max="55" flavor_text="293" item="ITEM_MAT_MYSTIC_HERB" startEv="EVENT_AA01_010" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="收集！雷电矿" numMin="2" numMax="4" money="180" need_pt="0" priority="250" percent="60" forceMulti="5" day_min="25" day_max="55" flavor_text="294" item="ITEM_MAT_REIDEN_MINERAL" startEv="EVENT_AA01_010" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="啪叽啪叽爆开的矿石" numMin="2" numMax="4" money="180" need_pt="0" priority="250" percent="60" forceMulti="5" day_min="25" day_max="55" flavor_text="295" item="ITEM_MAT_REIDEN_MINERAL" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="收集！克普鲁矿" numMin="2" numMax="4" money="180" need_pt="0" priority="250" percent="60" forceMulti="5" day_min="25" day_max="55" flavor_text="296" item="ITEM_MAT_KUPFER_MINERAL" startEv="EVENT_AA01_010" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="我在寻求坚硬的矿石" numMin="2" numMax="4" money="180" need_pt="0" priority="250" percent="60" forceMulti="5" day_min="25" day_max="55" flavor_text="297" item="ITEM_MAT_KUPFER_MINERAL" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="收集！珀冷石" numMin="2" numMax="4" money="150" need_pt="0" priority="100" percent="60" forceMulti="3" day_min="20" day_max="50" flavor_text="298" item="ITEM_MAT_HAKUREI_STONE" startEv="EVENT_AA01_010" condEv="EVENT_XG11_020"/>
+    <QuestCollect name="想用石头降个温" numMin="2" numMax="4" money="150" need_pt="0" priority="100" percent="60" forceMulti="3" day_min="20" day_max="50" flavor_text="299" item="ITEM_MAT_HAKUREI_STONE" condEv="EVENT_XG11_020"/>
+    <QuestCollect name="收集！稀有金属" numMin="1" numMax="3" money="210" need_pt="0" priority="500" percent="20" forceMulti="11" day_min="30" day_max="60" flavor_text="300" item="ITEM_MAT_RARE_MATAL" startEv="EVENT_AA01_010" condEv="EVENT_XG11_060"/>
+    <QuestCollect name="撼动灵魂的贵重石头" numMin="1" numMax="3" money="210" need_pt="0" priority="500" percent="20" forceMulti="11" day_min="30" day_max="60" flavor_text="301" item="ITEM_MAT_RARE_MATAL" condEv="EVENT_XG11_060"/>
+    <QuestCollect name="收集！黑块" numMin="2" numMax="3" money="340" need_pt="0" priority="750" percent="40" forceMulti="17" day_min="35" day_max="65" flavor_text="302" item="ITEM_MAT_BLACK_MASS" startEv="EVENT_AA01_010" condEv="EVENT_XG11_080"/>
+    <QuestCollect name="想要帅气的黑块" numMin="2" numMax="3" money="340" need_pt="0" priority="750" percent="40" forceMulti="17" day_min="35" day_max="65" flavor_text="303" item="ITEM_MAT_BLACK_MASS" condEv="EVENT_XG11_080"/>
+    <QuestCollect name="收集！夜水晶" numMin="1" numMax="3" money="360" need_pt="0" priority="250" percent="60" forceMulti="7" day_min="25" day_max="55" flavor_text="304" item="ITEM_MAT_NIGHT_CRYSTAL" startEv="EVENT_AA01_010" condEv="EVENT_XG11_040"/>
+    <QuestCollect name="不为人知的夜水晶" numMin="1" numMax="3" money="360" need_pt="0" priority="250" percent="60" forceMulti="7" day_min="25" day_max="55" flavor_text="305" item="ITEM_MAT_NIGHT_CRYSTAL" condEv="EVENT_XG11_040"/>
+    <QuestCollect name="收集！微型少女" numMin="2" numMax="4" money="612" need_pt="0" priority="1000" percent="40" forceMulti="19" day_min="40" day_max="70" flavor_text="306" item="ITEM_MAT_GARDEN_MAIDEN" startEv="EVENT_AA01_010" condEv="EVENT_XG11_090"/>
+    <QuestCollect name="适合女友的宝石" numMin="2" numMax="4" money="612" need_pt="0" priority="1000" percent="40" forceMulti="19" day_min="40" day_max="70" flavor_text="307" item="ITEM_MAT_GARDEN_MAIDEN" condEv="EVENT_XG11_090"/>
+    <QuestCollect name="收集！精灵结晶" numMin="1" numMax="2" money="700" need_pt="0" priority="500" percent="60" forceMulti="11" day_min="30" day_max="60" flavor_text="308" item="ITEM_MAT_ELEMENT_CRYSTAL" startEv="EVENT_AA01_010" condEv="EVENT_XG11_060"/>
+    <QuestCollect name="精灵寄宿的结晶" numMin="1" numMax="2" money="700" need_pt="0" priority="500" percent="60" forceMulti="11" day_min="30" day_max="60" flavor_text="309" item="ITEM_MAT_ELEMENT_CRYSTAL" condEv="EVENT_XG11_060"/>
+    <QuestCollect name="收集！魔鸟羽毛" numMin="2" numMax="5" money="75" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" flavor_text="310" item="ITEM_MAT_DEMON_BIRD_FEATHER" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="我想做羽毛饰品" numMin="2" numMax="5" money="75" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" flavor_text="311" item="ITEM_MAT_DEMON_BIRD_FEATHER"/>
+    <QuestCollect name="收集！坚韧骨头" numMin="2" numMax="4" money="99" need_pt="0" priority="250" percent="60" forceMulti="7" day_min="25" day_max="55" flavor_text="312" item="ITEM_MAT_STRONG_BONES" startEv="EVENT_AA01_010" condEv="EVENT_XG11_040"/>
+    <QuestCollect name="对骨头的需求好像变高了" numMin="2" numMax="4" money="99" need_pt="0" priority="250" percent="60" forceMulti="7" day_min="25" day_max="55" flavor_text="313" item="ITEM_MAT_STRONG_BONES" condEv="EVENT_XG11_040"/>
+    <QuestCollect name="收集！岛鱼鱼鳍" numMin="2" numMax="3" money="210" need_pt="0" priority="250" percent="40" forceMulti="5" day_min="25" day_max="55" flavor_text="314" item="ITEM_MAT_ISLAND_FISH_FIN" startEv="EVENT_AA01_010" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="适合当下酒菜的稀有美食" numMin="2" numMax="3" money="210" need_pt="0" priority="250" percent="40" forceMulti="5" day_min="25" day_max="55" flavor_text="315" item="ITEM_MAT_ISLAND_FISH_FIN" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="收集！野兽毛皮" numMin="2" numMax="4" money="180" need_pt="0" priority="100" percent="60" forceMulti="3" day_min="20" day_max="50" flavor_text="316" item="ITEM_MAT_BEAST_FUR" startEv="EVENT_AA01_010" condEv="EVENT_XG11_010"/>
+    <QuestCollect name="想要温暖的毛皮" numMin="2" numMax="4" money="180" need_pt="0" priority="100" percent="60" forceMulti="3" day_min="20" day_max="50" flavor_text="317" item="ITEM_MAT_BEAST_FUR" condEv="EVENT_XG11_010"/>
+    <QuestCollect name="收集！赤月兽毛皮" numMin="1" numMax="3" money="520" need_pt="0" priority="250" percent="30" forceMulti="5" day_min="25" day_max="55" flavor_text="318" item="ITEM_MAT_DUSK_FUR" startEv="EVENT_AA01_010" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="既红又实在的毛皮" numMin="1" numMax="3" money="520" need_pt="0" priority="250" percent="30" forceMulti="5" day_min="25" day_max="55" flavor_text="319" item="ITEM_MAT_DUSK_FUR" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="收集！黏银丝" numMin="2" numMax="5" money="165" need_pt="0" priority="100" percent="60" forceMulti="3" day_min="20" day_max="50" flavor_text="320" item="ITEM_MAT_SILVER_THREAD" startEv="EVENT_AA01_010" condEv="EVENT_XG11_020"/>
+    <QuestCollect name="用来抓虫的银丝" numMin="2" numMax="5" money="165" need_pt="0" priority="100" percent="60" forceMulti="3" day_min="20" day_max="50" flavor_text="321" item="ITEM_MAT_SILVER_THREAD" condEv="EVENT_XG11_020"/>
+    <QuestCollect name="收集！黏金钢丝" numMin="1" numMax="3" money="800" need_pt="0" priority="250" percent="20" forceMulti="7" day_min="25" day_max="55" flavor_text="322" item="ITEM_MAT_GOLD_THREAD" startEv="EVENT_AA01_010" condEv="EVENT_XG11_040"/>
+    <QuestCollect name="听说有相当坚韧的丝" numMin="1" numMax="3" money="800" need_pt="0" priority="250" percent="20" forceMulti="7" day_min="25" day_max="55" flavor_text="323" item="ITEM_MAT_GOLD_THREAD" condEv="EVENT_XG11_040"/>
+    <QuestCollect name="收集！龙鳞片" numMin="1" numMax="2" money="700" need_pt="0" priority="500" percent="10" forceMulti="11" day_min="30" day_max="60" flavor_text="324" item="ITEM_MAT_DRAGON_SCALE" startEv="EVENT_AA01_010" condEv="EVENT_XG11_060"/>
+    <QuestCollect name="龙鳞片采集委托" numMin="1" numMax="2" money="700" need_pt="0" priority="500" percent="10" forceMulti="11" day_min="30" day_max="60" flavor_text="325" item="ITEM_MAT_DRAGON_SCALE" condEv="EVENT_XG11_060"/>
+    <QuestCollect name="收集！夜光水" numMin="2" numMax="3" money="322" need_pt="0" priority="250" percent="30" forceMulti="9" day_min="25" day_max="55" flavor_text="326" item="ITEM_MAT_NIGHT_GLOW_WATER" startEv="EVENT_AA01_010" condEv="EVENT_XG11_050"/>
+    <QuestCollect name="夜晚探索的良伴" numMin="2" numMax="3" money="322" need_pt="0" priority="250" percent="30" forceMulti="9" day_min="25" day_max="55" flavor_text="327" item="ITEM_MAT_NIGHT_GLOW_WATER" condEv="EVENT_XG11_050"/>
+    <QuestCollect name="收集！硝基水" numMin="2" numMax="3" money="360" need_pt="0" priority="750" percent="30" forceMulti="17" day_min="35" day_max="65" flavor_text="328" item="ITEM_MAT_NITRO_WATER" startEv="EVENT_AA01_010" condEv="EVENT_XG11_080"/>
+    <QuestCollect name="会爆炸的神秘水" numMin="2" numMax="3" money="360" need_pt="0" priority="750" percent="30" forceMulti="17" day_min="35" day_max="65" flavor_text="329" item="ITEM_MAT_NITRO_WATER" condEv="EVENT_XG11_080"/>
+    <QuestCollect name="收集！可疑液体" numMin="2" numMax="3" money="280" need_pt="0" priority="100" percent="30" forceMulti="3" day_min="20" day_max="50" flavor_text="330" item="ITEM_MAT_SUSPICIOUS_LIQUID" startEv="EVENT_AA01_010" condEv="EVENT_XG11_020"/>
+    <QuestCollect name="带有可疑味道的液体" numMin="2" numMax="3" money="280" need_pt="0" priority="100" percent="30" forceMulti="3" day_min="20" day_max="50" flavor_text="331" item="ITEM_MAT_SUSPICIOUS_LIQUID" condEv="EVENT_XG11_020"/>
+    <QuestCollect name="收集！噗尼的体液" numMin="3" numMax="5" money="164" need_pt="0" priority="100" percent="40" forceMulti="0" day_min="20" day_max="50" flavor_text="332" item="ITEM_MAT_PUNI_LIQUID" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="想看看噗尼的体液" numMin="3" numMax="4" money="123" need_pt="0" priority="100" percent="40" forceMulti="0" day_min="20" day_max="50" flavor_text="333" item="ITEM_MAT_PUNI_LIQUID"/>
+    <QuestCollect name="收集！彩虹噗尼的体液" numMin="1" numMax="2" money="560" need_pt="0" priority="1000" percent="20" forceMulti="20" day_min="45" day_max="75" flavor_text="334" item="ITEM_MAT_RAINBOW_PUNI_LIQUID" startEv="EVENT_AA01_010" condEv="EVENT_XG11_100"/>
+    <QuestCollect name="好像有会发出七彩光芒的液体" numMin="1" numMax="2" money="560" need_pt="0" priority="1000" percent="20" forceMulti="20" day_min="45" day_max="75" flavor_text="335" item="ITEM_MAT_RAINBOW_PUNI_LIQUID" condEv="EVENT_XG11_100"/>
+    <QuestCollect name="收集！龙之血晶" numMin="1" numMax="2" money="1000" need_pt="0" priority="1000" percent="10" forceMulti="20" day_min="45" day_max="75" flavor_text="336" item="ITEM_MAT_DRAGON_BLOOD_CRYSTAL" startEv="EVENT_AA01_010" condEv="EVENT_XG11_100"/>
+    <QuestCollect name="我想要龙之血晶" numMin="1" numMax="2" money="1000" need_pt="0" priority="1000" percent="10" forceMulti="20" day_min="45" day_max="75" flavor_text="337" item="ITEM_MAT_DRAGON_BLOOD_CRYSTAL" condEv="EVENT_XG11_100"/>
+    <QuestCollect name="收集！噗尼噗尼珠" numMin="3" numMax="6" money="100" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" flavor_text="338" item="ITEM_MAT_PUNIPUNI_BALL" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="疗愈心灵的噗尼噗尼珠" numMin="3" numMax="5" money="100" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" flavor_text="339" item="ITEM_MAT_PUNIPUNI_BALL"/>
+    <QuestCollect name="收集！黄金噗尼噗尼珠" numMin="1" numMax="3" money="260" need_pt="0" priority="500" percent="10" forceMulti="11" day_min="30" day_max="60" flavor_text="340" item="ITEM_MAT_GOLDEN_PUNIPUNI_BALL" startEv="EVENT_AA01_010" condEv="EVENT_XG11_060"/>
+    <QuestCollect name="想放在澡盆的水上漂" numMin="1" numMax="3" money="260" need_pt="0" priority="500" percent="10" forceMulti="11" day_min="30" day_max="60" flavor_text="341" item="ITEM_MAT_GOLDEN_PUNIPUNI_BALL" condEv="EVENT_XG11_060"/>
+    <QuestCollect name="收集！蜂巢" numMin="2" numMax="5" money="135" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" flavor_text="342" item="ITEM_MAT_HONEY_BEEHIVE" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="好想吃蜂巢" numMin="2" numMax="5" money="135" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" flavor_text="343" item="ITEM_MAT_HONEY_BEEHIVE"/>
+    <QuestCollect name="收集！美丽贝壳" numMin="2" numMax="4" money="105" need_pt="0" priority="100" percent="50" forceMulti="0" day_min="20" day_max="50" flavor_text="344" item="ITEM_MAT_BEAUTIFUL_SEASHELL" startEv="EVENT_AA01_010" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="想要各式各样的贝壳" numMin="2" numMax="4" money="105" need_pt="0" priority="100" percent="50" forceMulti="0" day_min="20" day_max="50" flavor_text="345" item="ITEM_MAT_BEAUTIFUL_SEASHELL" condEv="EVENT_XG11_030"/>
+    <QuestCollect name="收集！贝雷姆贝" numMin="1" numMax="3" money="700" need_pt="0" priority="750" percent="50" forceMulti="17" day_min="35" day_max="65" flavor_text="346" item="ITEM_MAT_PELREM_SHELL" startEv="EVENT_AA01_010" condEv="EVENT_XG11_080"/>
+    <QuestCollect name="纯白的贝壳" numMin="1" numMax="3" money="700" need_pt="0" priority="750" percent="50" forceMulti="17" day_min="35" day_max="65" flavor_text="347" item="ITEM_MAT_PELREM_SHELL" condEv="EVENT_XG11_080"/>
+    <QuestCollect name="收集！苍刚石" numMin="2" numMax="4" money="468" need_pt="0" priority="100" percent="40" forceMulti="3" day_min="20" day_max="50" flavor_text="348" item="ITEM_MAT_BLUE_CRYSTAL" startEv="EVENT_AA01_010" condEv="EVENT_XG11_010"/>
+    <QuestCollect name="想摆在家里的蓝色结晶" numMin="2" numMax="4" money="468" need_pt="0" priority="100" percent="40" forceMulti="3" day_min="20" day_max="50" flavor_text="349" item="ITEM_MAT_BLUE_CRYSTAL" condEv="EVENT_XG11_010"/>
+    <QuestCollect name="收集！小晶石" numMin="2" numMax="5" money="180" need_pt="0" priority="100" percent="50" forceMulti="3" day_min="20" day_max="50" flavor_text="350" item="ITEM_MAT_SMALL_CRYSTAL_PIECES" startEv="EVENT_AA01_010" condEv="EVENT_XG11_010"/>
+    <QuestCollect name="闪闪发亮的美丽水晶" numMin="2" numMax="5" money="180" need_pt="0" priority="100" percent="50" forceMulti="3" day_min="20" day_max="50" flavor_text="351" item="ITEM_MAT_SMALL_CRYSTAL_PIECES" condEv="EVENT_XG11_010"/>
+    <QuestCollect name="收集！七色水芯片" numMin="2" numMax="4" money="450" need_pt="0" priority="100" percent="60" forceMulti="3" day_min="20" day_max="50" flavor_text="352" item="ITEM_MAT_RAINBOW_CRYSTAL_PIECES" startEv="EVENT_AA01_010" condEv="EVENT_XG11_020"/>
+    <QuestCollect name="送给那孩子的七色宝物" numMin="2" numMax="4" money="450" need_pt="0" priority="100" percent="60" forceMulti="3" day_min="20" day_max="50" flavor_text="353" item="ITEM_MAT_RAINBOW_CRYSTAL_PIECES" condEv="EVENT_XG11_020"/>
+    <QuestCollect name="升级课题　～最初的关卡～" numMin="10" numMax="10" money="600" chara_tag="CHARA_HELLMUT" friend_point="1" need_pt="20" priority="100000" percent="100" forceMulti="0" day_min="20" day_max="50" flavor_text="1" item="ITEM_MAT_KIFA" endEv="EVENT_QC12_HOR_100" reqEv="EVENT_QC12_HOR_090" cmpEv="EVENT_QC12_HOR_100"/>
+    <QuestCollect name="想要巨大的魔法草！" numMin="3" numMax="3" money="150" need_pt="0" priority="100" percent="100" forceMulti="3" day_min="20" day_max="50" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_16" flavor_text="111" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_XG01_110" condRumor="RUMOR_GEAR_17"/>
+    <QuestCollect name="寻求便宜又好吃的麦" numMin="5" numMax="5" money="275" need_pt="10" priority="250" percent="100" forceMulti="5" day_min="25" day_max="55" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_17" flavor_text="112" item="ITEM_MAT_LAMER_WEIZEN" startEv="EVENT_XG01_120" condRumor="RUMOR_GEAR_18"/>
+    <QuestCollect name="想看看小颗的蛋" numMin="3" numMax="3" money="180" need_pt="45" priority="500" percent="60" forceMulti="9" day_min="35" day_max="65" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_18" flavor_text="113" item="ITEM_MAT_UNIDENTFIED_EGG" startEv="EVENT_XG01_210" condRumor="RUMOR_GEAR_23"/>
+    <QuestCollect name="为了旅途请把龙赶走" numMin="2" numMax="2" money="200" need_pt="30" priority="500" percent="60" forceMulti="7" day_min="30" day_max="60" property_table="QUEST_PROPERTY_TABLE_QUESTPROPERTYTABLE_19" flavor_text="114" item="ITEM_MAT_PEAK_COTTON" startEv="EVENT_XG02_100" condRumor="RUMOR_GEAR_30"/>
+    <QuestCollect name="刺绣需要金线" numMin="2" numMax="2" money="1000" need_pt="10" priority="250" percent="60" forceMulti="5" day_min="25" day_max="55" flavor_text="115" item="ITEM_MAT_GOLD_THREAD" startEv="EVENT_XG01_020" condRumor="RUMOR_GEAR_01"/>
+    <QuestCollect name="想调查海泥" numMin="3" numMax="3" money="1200" need_pt="30" priority="500" percent="60" forceMulti="7" day_min="30" day_max="60" flavor_text="116" item="ITEM_MAT_SEABED_SOIL" startEv="EVENT_XG01_030" condRumor="RUMOR_GEAR_02"/>
+    <QuestCollect name="请抓住星星" numMin="3" numMax="3" money="1500" need_pt="30" priority="500" percent="60" forceMulti="7" day_min="30" day_max="60" flavor_text="117" item="ITEM_MAT_STAR_POWDER" startEv="EVENT_XG01_050" condRumor="RUMOR_GEAR_04"/>
+    <QuestCollect name="精灵遗失的东西" numMin="2" numMax="2" money="2000" need_pt="45" priority="500" percent="60" forceMulti="9" day_min="35" day_max="65" flavor_text="118" item="ITEM_MAT_ELEMENT_CRYSTAL" startEv="EVENT_XG01_040" condRumor="RUMOR_GEAR_03"/>
+    <QuestCollect name="为了来到这世上的孩子" numMin="3" numMax="3" money="300" need_pt="0" priority="100" percent="60" forceMulti="3" day_min="20" day_max="50" flavor_text="36" item="ITEM_MAT_PEAK_COTTON" startEv="EVENT_XG02_090" condQt="QUEST_GROUP_ITEM_MIX_UNIQUE_02" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_08"/>
+    <QuestCollect name="与组织对抗之人" numMin="3" numMax="7" money="0" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" item="ITEM_MIX_END_FLASHPOINT" startEv="EVENT_AA01_010" endEv="EVENT_MM01_010" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_09" cmpEv="EVENT_MM01_010"/>
+    <QuestCollect name="想调查海胆" numMin="10" numMax="10" money="300" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" flavor_text="45" item="ITEM_MAT_UNI" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_10"/>
+    <QuestCollect name="终极花束" numMin="2" numMax="2" money="3000" need_pt="60" priority="750" percent="60" forceMulti="12" day_min="40" day_max="70" flavor_text="46" item="ITEM_MAT_DUNKELHEIT" startEv="EVENT_XG01_010" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_11" condRumor="RUMOR_GEAR_00"/>
+    <QuestCollect name="与朋友的对决" numMin="5" numMax="5" money="200" need_pt="30" priority="500" percent="60" forceMulti="7" day_min="30" day_max="60" flavor_text="47" item="ITEM_MAT_WHIM_STRAWBERRY" startEv="EVENT_XG02_100" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_12"/>
+    <QuestCollect name="与逐渐毁灭的世界一起" numMin="3" numMax="7" money="0" need_pt="0" priority="100" percent="60" forceMulti="0" day_min="20" day_max="50" item="ITEM_MIX_ITEM_ROCK_COOKIES" startEv="EVENT_AA01_010" endEv="EVENT_MM01_010" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_13" cmpEv="EVENT_MM01_010"/>
+    <QuestCollect name="最棒的护符" numMin="2" numMax="2" money="1700" need_pt="35" priority="500" percent="60" forceMulti="11" day_min="30" day_max="60" flavor_text="49" item="ITEM_MAT_DRAGON_SCALE" startEv="EVENT_XG11_060" condQt="QUEST_GROUP_ITEM_MIX_UNIQUE_09" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_14"/>
+    <QuestCollect name="想守护田地！" numMin="5" numMax="5" money="350" need_pt="20" priority="250" percent="60" forceMulti="5" day_min="25" day_max="55" flavor_text="50" item="ITEM_MAT_REIDEN_MINERAL" startEv="EVENT_XG11_030" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_15"/>
+    <QuestCollect name="制作奇特的点心" numMin="10" numMax="10" money="700" need_pt="30" priority="500" percent="60" forceMulti="7" day_min="30" day_max="60" flavor_text="51" item="ITEM_MAT_BURST_BERRY" startEv="EVENT_XG01_050" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_16"/>
+    <QuestCollect name="制作特别的点心" numMin="5" numMax="5" money="250" need_pt="60" priority="750" percent="60" forceMulti="12" day_min="40" day_max="70" flavor_text="52" item="ITEM_MAT_NIGHT_GLOW_WATER" startEv="EVENT_XG02_070" condQt="QUEST_GROUP_ITEM_MAT_UNIQUE_16" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_17"/>
+    <QuestCollect name="开发新染料" numMin="5" numMax="5" money="500" need_pt="60" priority="750" percent="60" forceMulti="12" day_min="40" day_max="70" flavor_text="54" item="ITEM_MAT_CRIMSON_GRASS" startEv="EVENT_QC02_OSK_180" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_18"/>
+    <QuestCollect name="解读古文书" numMin="3" numMax="3" money="225" need_pt="60" priority="750" percent="60" forceMulti="12" day_min="40" day_max="70" flavor_text="56" item="ITEM_MAT_LITHOGRAPH" startEv="EVENT_XG02_150" condQt="QUEST_GROUP_ITEM_MIX_UNIQUE_11" condQtNot="QUEST_GROUP_ITEM_MAT_UNIQUE_19"/>
+    <QuestCollect name="采取ユニーク依頼２１" numMin="3" numMax="7" money="0" need_pt="0" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="採取ユニーク依頼２２" numMin="3" numMax="7" money="0" need_pt="0" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="採取ユニーク依頼２３" numMin="3" numMax="7" money="0" need_pt="0" priority="10" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="採取ユニーク依頼２４" numMin="3" numMax="7" money="0" need_pt="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="採取ユニーク依頼２５" numMin="3" numMax="7" money="0" need_pt="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="採取ユニーク依頼２６" numMin="3" numMax="7" money="0" need_pt="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="採取ユニーク依頼２７" numMin="3" numMax="7" money="0" need_pt="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="採取ユニーク依頼２８" numMin="3" numMax="7" money="0" need_pt="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="採取ユニーク依頼２９" numMin="3" numMax="7" money="0" need_pt="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="採取ユニーク依頼３０" numMin="3" numMax="7" money="0" need_pt="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+    <QuestCollect name="採取ユニーク依頼３１" numMin="3" numMax="7" money="0" need_pt="0" priority="20" percent="60" forceMulti="7" item="ITEM_MAT_MAGIC_GRASS" startEv="EVENT_AA01_010"/>
+</Root>

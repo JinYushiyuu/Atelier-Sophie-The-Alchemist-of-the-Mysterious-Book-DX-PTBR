@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <mixKettleData ItemName="奶奶的炼金釜" itemTag="ITEM_MIX_TIMEWORN_ALCHEMY_KETTLE" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE" description="苏菲祖母曾使用过的炼金釜。&lt;CR&gt;即使是新手炼金术士也能轻易使用，但相对不容易产生高质量的道具。"/>
+    <mixKettleData ItemName="练习用的炼金釜" itemTag="ITEM_MIX_SP_KETTLE_001" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="同步的炼金釜" itemTag="ITEM_MIX_SP_KETTLE_002" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="达人的炼金釜" itemTag="ITEM_MIX_SP_KETTLE_003" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="妖精的炼金釜" itemTag="ITEM_MIX_BEGINNERS_ALCHEMY_KETTLE" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE" description="材料投入时，相同颜色的材料不能邻接。&lt;CR&gt;投入所有材料达成条件，道具便能更加强化。"/>
+    <mixKettleData ItemName="古代的炼金釜" itemTag="ITEM_MIX_ALCHEMYST_KETTLE" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="师范的炼金锅" itemTag="ITEM_MIX_GURU_ALCHEMY_KETTLE" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="仙人的炼金锅" itemTag="ITEM_MIX_SOPIE_ALCHEMY_KETTLE" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+    <mixKettleData ItemName="奇迹的炼金锅" itemTag="ITEM_MIX_AUS_JEM" panel_0="MIX_KETTLE_PANEL_BASE" panel_1="MIX_KETTLE_PANEL_BASE" panel_2="MIX_KETTLE_PANEL_BASE" panel_3="MIX_KETTLE_PANEL_BASE" panel_4="MIX_KETTLE_PANEL_BASE"/>
+</Root>

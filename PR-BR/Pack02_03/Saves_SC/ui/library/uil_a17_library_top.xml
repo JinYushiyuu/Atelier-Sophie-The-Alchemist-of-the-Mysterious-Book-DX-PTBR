@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root viewer_visible="false">
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓アニメーションxmlの読み込み-->
+		<command load_anim="Saves/ui/uia_common.xml"/>
+		<command load_anim="Saves/ui/library/uia_library.xml"/>
+	</node>
+	
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="false" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<node name="Root" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+		<node name="node_menus" pos="118.00, 172.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+			<menu name="menu_top" style="common_menu_atex_select" pos="-0.00, 2.00, -0.00" disp_scroll_bar="false" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<text text="构思配方" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="道具" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="效果‧特性" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="怪物" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="采集地" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="设施" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<text text="ＨＥＬＰ" name="text_2" pos="94.00, 5.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</menu>
+			<node name="node_lines" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="menuline01_1" style="gen_a17_library01_menuline01" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_2" style="gen_a17_library01_menuline01" pos="0.00, 58.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_3" style="gen_a17_library01_menuline01" pos="0.00, 116.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_4" style="gen_a17_library01_menuline01" pos="0.00, 174.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_5" style="gen_a17_library01_menuline01" pos="0.00, 232.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_6" style="gen_a17_library01_menuline01" pos="0.00, 290.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+				<image name="menuline01_7" style="gen_a17_library01_menuline01" pos="0.00, 348.00, 0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</node>
+		</node>
+		<image name="ImageBase" style="gen_common08_dictionary_bg" pos="719.00, 267.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true" viewer_visible="false"/>
+		<node name="Entry_0" pos="47.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+			<text text="构思配方" name="text_title" pos="761.00, 162.00, 0.00" font_color="128.00, 200.00, 255.00, 255.00" font_size="56.00" drop_shadow="false" bold_size="1.00">
+				<image name="image_4" style="gen_common08_dictionary_item" pos="118, 208, -0" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 0.80" offset_uvwh="245.00, 0.00, -245.00, -80.00"/>
+				<image name="image_1" style="gen_common08_dictionary_item" pos="-31, 324, -0" rot="0.00, 0.00, -60.00" scale="1.00, 1.00, 1.00" offset_uvwh="245.00, 0.00, -245.00, -80.00"/>
+				<image name="image_3" style="gen_common08_dictionary_item" pos="171, 231, -0" rot="0.00, 0.00, 40.00" scale="1.00, 1.00, 1.00" offset_uvwh="245.00, 0.00, -245.00, -80.00"/>
+			</text>
+		</node>
+		<!--アイテム-->
+		<node name="Entry_1" pos="47.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+			<image name="image_2" style="gen_common08_dictionary_text01" pos="753.00, 169.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00">
+				<image name="image_4" style="gen_common08_dictionary_item" pos="-58.00, 144.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+		</node>
+		<!--効果・特性-->
+		<node name="Entry_2" pos="47.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+			<text text="效果‧特性" name="text_title" pos="761.00, 162.00, 0.00" font_color="128.00, 200.00, 255.00, 255.00" font_size="56.00" drop_shadow="false" bold_size="1.00">
+				<image name="image_4" style="gen_common08_dictionary_item" pos="118, 208, -0" rot="-0.00, -0.00, -0.00" scale="0.80, 0.80, 0.80" offset_uvwh="245.00, 0.00, -245.00, -80.00"/>
+				<image name="image_1" style="gen_common08_dictionary_item" pos="-31, 324, -0" rot="0.00, 0.00, -60.00" scale="1.00, 1.00, 1.00" offset_uvwh="245.00, 0.00, -245.00, -80.00"/>
+				<image name="image_3" style="gen_common08_dictionary_item" pos="171, 231, -0" rot="0.00, 0.00, 40.00" scale="1.00, 1.00, 1.00" offset_uvwh="245.00, 0.00, -245.00, -80.00"/>
+			</text>
+		</node>
+		<!--モンスター-->
+		<node name="Entry_3" pos="47.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false">
+			<image name="image_5" style="gen_common08_dictionary_text02" pos="753.00, 169.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="true">
+				<image name="image_4" style="gen_common08_dictionary_monster" pos="46, 116, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+		</node>
+		<!--採取地-->
+		<node name="Entry_4" pos="47.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="true">
+			<text text="采集地" name="text_title" pos="827, 164, 0" font_color="128.00, 200.00, 255.00, 255.00" font_size="56.00" drop_shadow="false" bold_size="1.00">
+				<image name="image_8" style="gen_common08_dictionary_help" pos="-119, 144, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</text>
+		</node>
+		<!--施設-->
+		<node name="Entry_5" pos="47.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+			<text text="设施" name="text_title" pos="852, 162, 0" font_color="128.00, 200.00, 255.00, 255.00" font_size="56.00" drop_shadow="false" bold_size="1.00">
+				<image name="image_7" style="gen_common08_dictionary_help" pos="-155.00, 143.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</text>
+		</node>
+		<!--ヘルプ-->
+		<node name="Entry_6" pos="47.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" visible="false" viewer_visible="false">
+			<image name="image_6" style="gen_common08_dictionary_text03" pos="753.00, 169.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false">
+				<image name="image_4" style="gen_common08_dictionary_help" pos="-47, 161, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+			</image>
+		</node>
+		<image name="LineTop" style="gen_common08_dictionary_acce" pos="730.00, 126.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" viewer_visible="false" visible="true"/>
+		<image name="LineBottom" style="gen_common08_dictionary_acce" pos="1173.00, 275.00, -0.00" rot="-0.00, -0.00, -179.97" scale="1.00, 1.00, 1.00" visible="true"/>
+	</node>
+	<!--***↓アニメーション ***-->
+</root>
+
+<anim_ctrl copy="getIn" clone_child_tree="getIn" name="clone_getIn"/>
+
+<anim_ctrl copy="getIn" clone_child_tree="getIn" name="clone_getIn"/>

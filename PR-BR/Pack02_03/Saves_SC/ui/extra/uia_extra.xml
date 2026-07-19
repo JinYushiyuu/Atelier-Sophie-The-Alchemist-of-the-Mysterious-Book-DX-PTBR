@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uia.dtd">
+<root>
+  <!-- フェードイン -->
+  <anim name="extra_common_fade_in">
+    <curve attr="color">
+      <key time="0.0" value="255,255,255,  0"/>
+      <key time="0.2" value="255,255,255,255"/>
+    </curve>
+  </anim>
+
+  <!-- スライドダウン。元の座標に向かう。 -->
+  <anim name="extra_common_slide_down_to">
+    <curve attr="pos">
+      <key time="0.0" value="0.0,-16 0.0, 0.0"/>
+      <key time="0.2" value="0.0, 0.0, 0.0"/>
+    </curve>
+  </anim>
+
+  <!-- スライドレフト。元の座標に向かう。 -->
+  <anim name="extra_common_slide_left_to">
+    <curve attr="pos">
+      <key time="0.0" value="16.0, 0.0, 0.0"/>
+      <key time="0.2" value="0.0, 0.0, 0.0"/>
+    </curve>
+  </anim>
+</root>

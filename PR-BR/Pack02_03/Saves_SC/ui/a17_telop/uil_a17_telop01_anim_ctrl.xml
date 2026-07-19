@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<anim_ctrl name="fadeOut" viewer_key_assign="1">
+		<bind_node anim="anm_common_fade_in" node="../*" reverse="true" start_visible="1"/>
+	</anim_ctrl>
+	<anim_ctrl name="fadeIn" viewer_key_assign="0">
+		<bind_node anim="anm_common_fade_in" node="../*"/>
+	</anim_ctrl>
+	<anim_ctrl name="a0" viewer_key_assign="2">
+		<bind_node anim="anm_a0" node="../*"/>
+	</anim_ctrl>
+	<anim_ctrl name="a255" viewer_key_assign="3">
+		<bind_node anim="anm_a255" node="../*"/>
+	</anim_ctrl>
+</root>

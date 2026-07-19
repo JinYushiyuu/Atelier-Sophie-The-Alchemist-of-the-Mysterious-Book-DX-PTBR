@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<node name="lf_bgm_select" viewer_visible="true">
+		<text name="text" text="アイウエオかきくけこ" font_size="20.00" pos="18, 2, 0"  word_space="-1" viewer_visible="true"/>
+		<image name="icon" style="gen_option01_flagicon" pos="-15, -3, 0"/>
+	</node>
+</root>

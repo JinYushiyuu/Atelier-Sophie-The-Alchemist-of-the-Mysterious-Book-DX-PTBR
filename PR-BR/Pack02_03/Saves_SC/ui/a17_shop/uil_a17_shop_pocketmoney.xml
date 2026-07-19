@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template"/>
+		<!--↓アニメーションxmlの読み込み-->
+		<command load_anim="Saves/ui/uia_common.xml"/>
+		<command load_anim="Saves/ui/a17_shop/uia_a17_store.xml"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<node name="clone_targets" viewer_visible="true" visible="false"/>
+	<!--***↓画面パーツの配置場所 ***-->
+	<!--画面左領域-->
+	<node name="Top" pos="1016, 20, 0" viewer_visible="false">
+		<image name="moneybg" style="gen_a17_win01_moneybg">
+			<image name="moneyicon" style="gen_a17_win01_moneyicon" pos="21.00, 11.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		</image>
+		<text text="99999999" name="PocketMoneyValueText" pos="209, 11, -0" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" word_space="-12.00" font="A17_MONEY01" align="right"/>
+	</node>
+	<!--***↓アニメーションデータ ***-->
+	<anim_ctrl name="fade_in" viewer_key_assign="0">
+		<bind_node node="Top" anim="store_common_fade_in"/>
+	</anim_ctrl>
+	<anim_ctrl name="fade_out" viewer_key_assign="1">
+		<bind_node node="Top" anim="store_common_fade_out"/>
+	</anim_ctrl>
+</root>

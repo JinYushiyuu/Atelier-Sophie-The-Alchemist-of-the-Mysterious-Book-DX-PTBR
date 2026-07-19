@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_09_message message_data="QC01_MON_015_BOY_A" chara_tag="NPC26A" name_tag="NPC26A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_09_message message_data="QC01_MON_270_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9017" message1="哪种蔬菜比较好呢？" next_message_tag="QC01_MON_270_OTTO"/>
+    <T01_TOWN_09_message message_data="QC01_MON_270_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="当然是每个都好啊。"/>
+    <T01_TOWN_09_message message_data="QC01_MON_270_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="……"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_080_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9018" message1="又来了呀……" next_message_tag="QC02_OSK_080_MARGRIT"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_080_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="就是说啊……"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_130_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9017" message1="哪种蔬菜比较好呢？" next_message_tag="QC02_OSK_130_OTTO"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_130_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="那就是这个啦！"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_130_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="……"/>
+    <T01_TOWN_09_message message_data="QC04_FRI_100_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="9047" message1="嗯～真惊人呢。" next_message_tag="QC04_FRI_100_FILON"/>
+    <T01_TOWN_09_message message_data="QC04_FRI_100_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="-1" message1="会吗？"/>
+    <T01_TOWN_09_message message_data="QC07_LEO_160_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="9067" message1="可是……" next_message_tag="QC07_LEO_160_HENRI"/>
+    <T01_TOWN_09_message message_data="QC07_LEO_160_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="……你请回吧。"/>
+    <T01_TOWN_09_message message_data="QC09_PAM_040_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="……"/>
+    <T01_TOWN_09_message message_data="QC09_PAM_040_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="-1" message1="……"/>
+    <T01_TOWN_09_message message_data="QC10_TES_020_TESS" chara_tag="TESS" name_tag="TESS" voice_no1="9062" message1="该怎么办呢……"/>
+    <T01_TOWN_09_message message_data="QC12_HOR_080_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="11718" message1="那这个怎样？" next_message_tag="QC12_HOR_080_HELLMUT"/>
+    <T01_TOWN_09_message message_data="QC12_HOR_080_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="哦哦，我看看……"/>
+    <T01_TOWN_09_message message_data="MS01_030_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="9031" message1="如何……？" next_message_tag="MS01_030_OTTO"/>
+    <T01_TOWN_09_message message_data="MS01_030_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="太完美了。"/>
+    <T01_TOWN_09_message message_data="MS01_060_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="9048" message1="真是的，这样不行啦。" next_message_tag="MS01_060_JULIO"/>
+    <T01_TOWN_09_message message_data="MS01_060_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="-1" message1="对不起……"/>
+    <T01_TOWN_09_message message_data="MS01_080_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="9030" message1="如何……？" next_message_tag="MS01_080_FILON"/>
+    <T01_TOWN_09_message message_data="MS01_080_FILON" chara_tag="FILON" name_tag="FILON" voice_no1="-1" message1="放心，没问题。"/>
+    <T01_TOWN_09_message message_data="MS01_100_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="9033" message1="有什么秘诀吗？" next_message_tag="MS01_100_MONIKA"/>
+    <T01_TOWN_09_message message_data="MS01_100_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="这个嘛……"/>
+    <T01_TOWN_09_message message_data="MS01_140_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="9046" message1="谢谢你。" next_message_tag="MS01_140_OTTO"/>
+    <T01_TOWN_09_message message_data="MS01_140_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="这不算什么啦。"/>
+    <T01_TOWN_09_message message_data="MS01_180_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="……"/>
+    <T01_TOWN_09_message message_data="MS01_180_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="……"/>
+    <T01_TOWN_09_message message_data="MS01_200_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="11718" message1="这样就好了。"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_010_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="9023" message1="饶了我吧！" next_message_tag="QC02_OSK_010_MARGRIT"/>
+    <T01_TOWN_09_message message_data="QC02_OSK_010_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="-1" message1="你快点去！"/>
+    <T01_TOWN_09_message message_data="MM09_010_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="9031" message1="都结束了。"/>
+    <T01_TOWN_09_message message_data="MM09_010_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="9046" message1="结束了呢。"/>
+    <T01_TOWN_09_message message_data="MM09_010_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="11718" message1="辛苦了，苏菲。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_OTTO_EV1" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="……" quest_tag="MM07_040" voice_no2="11709" message2="拜托你的东西已经准备好了吗？"/>
+    <T01_TOWN_09_message message_data="TOWN_09_OTTO_EV2" chara_tag="OTTO" name_tag="OTTO" voice_no1="-1" message1="……" quest_tag="QC02_OSK_140" voice_no2="11709" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_09_message message_data="TOWN_09_CANARIA_EV1" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="-1" message1="……" quest_tag="MM04_170" voice_no2="11698" message2="啊～真想喝牛奶。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_HENRI_EV1" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="……" quest_tag="QC07_LEO_020" voice_no2="11714" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_09_message message_data="TOWN_09_HENRI_EV2" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="……" quest_tag="QC07_LEO_200" voice_no2="11714" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_09_message message_data="TOWN_09_HENRI_EV3" chara_tag="HENRI" name_tag="HENRI" voice_no1="-1" message1="……" quest_tag="MM04_300" voice_no2="11714" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_MARGRIT" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="11718" message1="好吃的蔬菜应有尽有哦～"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_HENRI" chara_tag="HENRI" name_tag="HENRI" voice_no1="11714" message1="来看看吧。"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="11711" message1="请、买点东西吧……"/>
+    <T01_TOWN_09_message message_data="MARGRIT_00" chara_tag="MARGRIT" name_tag="MARGRIT" voice_no1="11718" message1="抱歉，正准备要开店呢。&lt;CR&gt;晚点再过来吧。"/>
+    <T01_TOWN_09_message message_data="HENRI_00" chara_tag="HENRI" name_tag="HENRI" voice_no1="9046" message1="不但教会漂亮，饭也很好吃。&lt;CR&gt;这个城镇真的很棒呢。"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_1" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="唷，苏菲。&lt;CR&gt;今天也在爆炸吗？"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_2" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="下次替我顾店吧……&lt;CR&gt;行吗？"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_3" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="今天要去哪里观察植物呢……&lt;CR&gt;嘿嘿，我好期待啊！"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_4" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="要拿植物进行炼金术时，你要慎重点哦。&lt;CR&gt;不然我可是会生气的。"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_5" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="这世界的某个地方还长着&lt;CR&gt;我从没见过的植物对吧……&lt;CR&gt;唔～真想对话看看！"/>
+    <T01_TOWN_09_message message_data="TOWN01_09_OTTO_E" chara_tag="OTTO" name_tag="OTTO" voice_no1="11709" message1="好～那就出发……&lt;CR&gt;啊，糟糕！妈妈拜托我的事&lt;CR&gt;还没做呢……！"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_00" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="得把平常使用的武器&lt;CR&gt;重新锻造一下呢。" next_message_tag="TOWN_09_NPC20A_01"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_01" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="也是可以趁这机会&lt;CR&gt;换把新武器……"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_10" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="随着基底的材料不同，&lt;CR&gt;能请店家锻造的东西好像也会不一样。" next_message_tag="TOWN_09_NPC20A_11"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_11" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="我正好拿到不错的材料，&lt;CR&gt;正想拿去请店家锻造呢。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_20" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="制作武器的时候，&lt;CR&gt;也得留意继承的特性。" next_message_tag="TOWN_09_NPC20A_21"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC20A_21" chara_tag="NPC20A" name_tag="NPC20A_01" voice_no1="-1" message1="虽然特性越好就越花钱，&lt;CR&gt;但这么做还是有它的价值的。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23A_00" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="11772" message1="购物很开心吧。" next_message_tag="TOWN_09_NPC23A_01"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23A_01" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="-1" message1="果实、种子的日子，&lt;CR&gt;我总是在这一带买东西哦。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23A_10" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="11772" message1="我看看，待会再买那个……&lt;CR&gt;啊，这个也得买啊。" next_message_tag="TOWN_09_NPC23A_11"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23A_11" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="-1" message1="嗯～逛得完吗……"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23A_20" chara_tag="NPC23A" name_tag="NPC23A" voice_no1="11772" message1="买太多，篮子都装满了……&lt;CR&gt;可是还想再买其他东西，&lt;CR&gt;……干脆稍微卖掉一点好了。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_00" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="11739" message1="哦……&lt;CR&gt;这红茶真不错呢。" next_message_tag="TOWN_09_NPC23C_01"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_01" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="-1" message1="是用今天早上采下的茶叶&lt;CR&gt;调配而成的吗……"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_10" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="11739" message1="嗯，这红茶比例……&lt;CR&gt;不算差。" next_message_tag="TOWN_09_NPC23C_11"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_11" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="-1" message1="……但温度好像不是很恰当。&lt;CR&gt;香味有点散不出来呢。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_20" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="11739" message1="我会配合当下的心情与状态&lt;CR&gt;改变红茶的调配方法。" next_message_tag="TOWN_09_NPC23C_21"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23C_21" chara_tag="NPC23A" name_tag="NPC23A_05" voice_no1="-1" message1="毕竟还是希望不论何时&lt;CR&gt;都能享用到最棒的红茶。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_00" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="11815" message1="反正没客人上门……&lt;CR&gt;来算一下明天的天气好了。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_10" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="11815" message1="反正也没半个客人……&lt;CR&gt;来算一下明天会有多少客人上门好了。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_11" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="-1" message1="……"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_20" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="11815" message1="唉……明明就很准，&lt;CR&gt;为什么都没人上门啊……" next_message_tag="TOWN_09_NPC23B_21"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_21" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="-1" message1="果然还是得穿得一身，&lt;CR&gt;一看就知道是占卜师的装扮才行吗？"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_SP" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="11815" message1="说到占卜未来会用到的东西，&lt;CR&gt;果然还是水晶球吧。" next_message_tag="TOWN_09_NPC23B_SP_00"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_SP_00" chara_tag="NPC23B" name_tag="NPC23A_02" voice_no1="-1" message1="…………&lt;CR&gt;…………" next_message_tag="TOWN_09_NPC23B_SP_01"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC23B_SP_01" chara_tag="NPC23B" voice_no1="-1" message1="&lt;CLGR&gt;请教了&lt;CR&gt;预知未来的方法。&lt;CLNR&gt;"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC24A_00" chara_tag="NPC24A" name_tag="NPC24A_02" voice_no1="-1" message1="食材得趁新鲜的时候&lt;CR&gt;先买起来……"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC24A_01" chara_tag="NPC24A" name_tag="NPC24A_02" voice_no1="-1" message1="有些食材是……&lt;CR&gt;重量不重质……" next_message_tag="TOWN_09_NPC24A_02"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC24A_02" chara_tag="NPC24A" name_tag="NPC24A_02" voice_no1="-1" message1="那类食材只要在便宜的时候&lt;CR&gt;先买起来放就赚到了。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_00" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="11774" message1="虽然外观不佳，&lt;CR&gt;但做得似乎还挺好的呢。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_01" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="-1" message1="……"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_10" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="11774" message1="嗯……虽然很想附加&lt;CR&gt;这个或那个的特性……" next_message_tag="TOWN_09_NPC06A_11"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_11" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="-1" message1="不过在那之前，&lt;CR&gt;得先准备好材料才行啊。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_20" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="11774" message1="好的工作就会有&lt;CR&gt;好的报酬……" next_message_tag="TOWN_09_NPC06A_21"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC06A_21" chara_tag="NPC06A" name_tag="NPC06A_01" voice_no1="-1" message1="那就久违地靠讨伐委托&lt;CR&gt;小赚一笔好了。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_00" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="11771" message1="经商有时会得到&lt;CR&gt;一些传闻。" next_message_tag="TOWN_09_NPC22A_01"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_01" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="-1" message1="抢手的传闻还能拿来卖……&lt;CR&gt;可以赚到不少的钱哦。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_10" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="11771" message1="同样的传闻&lt;CR&gt;未必能经常得到……" next_message_tag="TOWN_09_NPC22A_11"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_11" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="-1" message1="如果有在意的传闻，&lt;CR&gt;那就试着多去几次吧。"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_20" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="11771" message1="魔物相关的传闻&lt;CR&gt;不太好卖呢。" next_message_tag="TOWN_09_NPC22A_21"/>
+    <T01_TOWN_09_message message_data="TOWN_09_NPC22A_21" chara_tag="NPC22A" name_tag="NPC22A_01" voice_no1="-1" message1="再说会乐意去战斗的，&lt;CR&gt;大概也就只有冒险者吧。"/>
+</Root>

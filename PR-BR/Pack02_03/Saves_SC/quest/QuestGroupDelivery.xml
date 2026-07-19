@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <QuestGroupDelivery tag="DUMMY_DELIVERY" name="グループ依頼ダミー" numMin="2" numMax="3" quest0="QUEST_GM_MM04_020"/>
+    <QuestGroupDelivery tag="MM04_020" name="交付人偶材料" numMin="1" numMax="1" quest0="QUEST_GM_MM04_020" cmpEv="EVENT_MM04_030"/>
+    <QuestGroupDelivery tag="MM04_170" name="交付牛奶" numMin="1" numMax="1" quest0="QUEST_GG_MM04_170" cmpEv="EVENT_MM04_180"/>
+    <QuestGroupDelivery tag="MM04_220" name="交付发条材料" numMin="1" numMax="1" quest0="QUEST_GM_MM04_220" cmpEv="EVENT_MM04_230"/>
+    <QuestGroupDelivery tag="MM04_300" name="交付伸缩自如的布" numMin="1" numMax="1" quest0="QUEST_GM_MM04_300" cmpEv="EVENT_MM04_310"/>
+    <QuestGroupDelivery tag="MM05_010" name="转移普拉芙妲的灵魂" numMin="1" numMax="1" quest0="QUEST_GM_MM05_010" cmpEv="EVENT_MS09_090"/>
+    <QuestGroupDelivery tag="MM06_050" name="交付委托的东西" numMin="1" numMax="1" quest0="QUEST_GM_MM06_050" cmpEv="EVENT_MM06_060"/>
+    <QuestGroupDelivery tag="MM07_040" name="交付胧草的肥料" numMin="1" numMax="1" quest0="QUEST_GM_MM07_040" cmpEv="EVENT_MM07_050"/>
+    <QuestGroupDelivery tag="QC01_MON_150" name="交付点心" numMin="1" numMax="1" quest0="QUEST_GM_QC01_MON_150" cmpEv="EVENT_QC01_MON_160"/>
+    <QuestGroupDelivery tag="QC02_OSK_140" name="交付蔬菜用营养剂" numMin="1" numMax="1" quest0="QUEST_GM_QC02_OSK_140" cmpEv="EVENT_QC02_OSK_150"/>
+    <QuestGroupDelivery tag="QC03_JUL_100" name="交付药" numMin="1" numMax="1" quest0="QUEST_GM_QC03_JUL_100" cmpEv="EVENT_QC03_JUL_130"/>
+    <QuestGroupDelivery tag="QC03_JUL_190" name="交付药" numMin="1" numMax="1" quest0="QUEST_GM_QC03_JUL_190" cmpEv="EVENT_XF02_020"/>
+    <QuestGroupDelivery tag="QC04_FRI_050" name="交付人偶用的线" numMin="1" numMax="1" quest0="QUEST_GM_QC04_FRI_050" cmpEv="EVENT_QC04_FRI_060"/>
+    <QuestGroupDelivery tag="QC04_FRI_210" name="交付人偶材料" numMin="1" numMax="1" quest0="QUEST_GM_QC04_FRI_210" cmpEv="EVENT_QC04_FRI_220"/>
+    <QuestGroupDelivery tag="QC05_COR_170" name="交付盒子的零件" numMin="1" numMax="1" quest0="QUEST_GM_QC05_COR_170" cmpEv="EVENT_QC05_COR_180"/>
+    <QuestGroupDelivery tag="QC06_HAR_070" name="交付火药" numMin="1" numMax="1" quest0="QUEST_GG_QC06_HAR_070" cmpEv="EVENT_QC06_HAR_080"/>
+    <QuestGroupDelivery tag="QC06_HAR_190" name="交付用来修理时钟的材料" numMin="1" numMax="1" quest0="QUEST_GG_QC06_HAR_190" cmpEv="EVENT_QC06_HAR_200"/>
+    <QuestGroupDelivery tag="QC07_LEO_020" name="交付布" numMin="1" numMax="1" quest0="QUEST_GM_QC07_LEO_020" cmpEv="EVENT_QC07_LEO_030"/>
+    <QuestGroupDelivery tag="QC07_LEO_200" name="交付礼物" numMin="1" numMax="1" quest0="QUEST_GM_QC07_LEO_200" cmpEv="EVENT_QC07_LEO_210"/>
+    <QuestGroupDelivery tag="QC08_LOG_050" name="交付材料" numMin="1" numMax="1" quest0="QUEST_GM_QC08_LOG_050" cmpEv="EVENT_QC08_LOG_060"/>
+    <QuestGroupDelivery tag="QC08_LOG_080" name="交付用来强化炉子的东西" numMin="1" numMax="1" quest0="QUEST_GM_QC08_LOG_080" cmpEv="EVENT_QC08_LOG_090"/>
+    <QuestGroupDelivery tag="QC09_PAM_100" name="交付用来修理漏水的东西" numMin="1" numMax="1" quest0="QUEST_GM_QC09_PAM_100" cmpEv="EVENT_QC09_PAM_110"/>
+    <QuestGroupDelivery tag="QC10_TES_030" name="交付炸弹" numMin="1" numMax="1" quest0="QUEST_GM_QC10_TES_030" cmpEv="EVENT_QC10_TES_040"/>
+    <QuestGroupDelivery tag="QC10_TES_050" name="交付木材" numMin="1" numMax="1" quest0="QUEST_GM_QC10_TES_050" cmpEv="EVENT_QC10_TES_060"/>
+    <QuestGroupDelivery tag="QC10_TES_070" name="交付毒物" numMin="1" numMax="1" quest0="QUEST_GM_QC10_TES_070" cmpEv="EVENT_QC10_TES_080"/>
+    <QuestGroupDelivery tag="QC10_TES_090" name="交付营养剂" numMin="1" numMax="1" quest0="QUEST_GM_QC10_TES_090" cmpEv="EVENT_QC10_TES_100"/>
+    <QuestGroupDelivery tag="QC10_TES_120" name="交付甜药" numMin="1" numMax="1" quest0="QUEST_GM_QC10_TES_120" cmpEv="EVENT_QC10_TES_130"/>
+    <QuestGroupDelivery tag="QC12_HOR_170" name="交付制酒的材料" numMin="1" numMax="1" quest0="QUEST_GM_QC12_HOR_170" cmpEv="EVENT_QC12_HOR_180"/>
+</Root>

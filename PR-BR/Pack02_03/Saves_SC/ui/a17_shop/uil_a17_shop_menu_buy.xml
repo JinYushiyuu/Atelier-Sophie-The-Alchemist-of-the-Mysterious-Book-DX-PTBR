@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<root>
+	<!--***↓お決まり関連(必ず一番上に置いておく) ***-->
+	<node name="usuals" visible="false" viewer_visible="false">
+		<!--↓テンプレート(文字色やカスタムフォント)の読み込み-->
+		<node load="Saves/ui/uil_template.xml" name="font_template" viewer_visible="false"/>
+		<node name="menu_line_format" load="Saves/ui/_a17_line_format/uil_a17_lf_shop.xml" viewer_visible="true" pos="-0.00, -0.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00"/>
+		<!--↓アニメーションxmlの読み込み-->
+		<command load_anim="Saves/ui/uia_common.xml"/>
+		<command load_anim="Saves/ui/a17_shop/uia_a17_store.xml"/>
+	</node>
+	<!--***↓指示書画像(Data/Win32/ui_bg/ui_bg_sample_g1t) ***-->
+	<image name="ui_bg" style="common_bg_sample" visible="false" viewer_visible="false" color="255.00, 255.00, 255.00, 128.00"/>
+	<!--***↓クローン元パーツを入れておく場所 ***-->
+	<!--***↓画面パーツの配置場所 ***-->
+	<!--画面左領域-->
+	<node name="LeftArea">
+		<menu name="MenuWindow" pos="55.00, 140.00, 0.00" style="common_menu_a17_shop" disp_lines="5">
+			<node name="node" clone_child_tree="lf_shop"/>
+			<node name="node" clone_child_tree="lf_shop"/>
+			<node name="node" clone_child_tree="lf_shop"/>
+			<node name="node" clone_child_tree="lf_shop"/>
+			<node name="node" clone_child_tree="lf_shop"/>
+		</menu>
+	</node>
+	<!--***↓アニメーションデータ ***-->
+	<anim_ctrl name="fade_in" play="false" loop="false" reverse="false" viewer_key_assign="0">
+		<bind_node node="LeftArea" anim="store_common_fade_in"/>
+	</anim_ctrl>
+	<anim_ctrl name="fade_out" play="false" loop="false" reverse="false" viewer_key_assign="1">
+		<bind_node node="LeftArea" anim="store_common_fade_out"/>
+	</anim_ctrl>
+</root>

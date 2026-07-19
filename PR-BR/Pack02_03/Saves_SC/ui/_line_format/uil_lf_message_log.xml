@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uil.dtd">
+<!--
+	汎用メニューの定型行を定義している
+-->
+<root visible="false" viewer_visible="true">
+	<!--メッセージログの行のひな形-->
+	<node name="lf_message_log">
+		<image name="voice" style="gen_log01_voice" pos="116, 59, 0"/>
+		<image name="name" style="gen_log01_name" pos="-45, 6, 0">
+			<image name="name_shallie" style="gen_log01_name_shallie" pos="93, 11, 0"/>
+			<text text="シャリーB" name="name_text" pos="131, 10, 0" menu_item_color_cancel="true" font_color="207.00, 186.00, 171.00, 255.00" align="center"/>
+		</image>
+		<text text="あいうえおかきくけこさしすせそかきくけこ!さしすせそ&lt;CR&gt;月化水目金月化水目金月化水目金月化水目金" name="text" pos="200.00, 12.00, -0.00" rot="-0.00, -0.00, -0.00" scale="1.00, 1.00, 1.00" line_char_length="20" line_space="8.00" font_size="24.00"/>
+	</node>
+</root>

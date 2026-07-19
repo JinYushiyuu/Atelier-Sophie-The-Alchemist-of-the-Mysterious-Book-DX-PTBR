@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_11_message message_data="TESS_TOWN01_11" chara_tag="TESS" name_tag="TESS" voice_no1="11717" message1="唷呵～苏菲，&lt;CR&gt;慢慢坐哦！"/>
+    <T01_TOWN_11_message message_data="HELLMUT_TOWN01_11" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="11720" message1="哦，苏菲，有什么事吗？"/>
+    <T01_TOWN_11_message message_data="MONIKA_TOWN01_11" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9017" message1="真向往唱歌的工作……"/>
+    <T01_TOWN_11_message message_data="SONGER_TOWN01_11" chara_tag="NPC23C" name_tag="NPC23C_01" voice_no1="-1" message1="欢迎光临。慢慢听哦。"/>
+    <T01_TOWN_11_message message_data="QC01_MON_150_TESS" chara_tag="TESS" name_tag="TESS" voice_no1="9062" message1="还请多通融！拜托了！" next_message_tag="QC01_MON_150_MONIKA"/>
+    <T01_TOWN_11_message message_data="QC01_MON_150_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="不、不行就是不行啦！"/>
+    <T01_TOWN_11_message message_data="QC01_MON_150_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="QC01_MON_310_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="QC01_MON_310_SONGER" chara_tag="NPC23C" name_tag="NPC23C_01" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="QC03_JUL_030_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="9025" message1="这点小事不算什么。" next_message_tag="QC03_JUL_030_HELLMUT"/>
+    <T01_TOWN_11_message message_data="QC03_JUL_030_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="太好了。"/>
+    <T01_TOWN_11_message message_data="QC06_HAR_060_PAUL" chara_tag="PAUL" name_tag="PAUL" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="QC06_HAR_060_MACHI_A" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="QC06_HAR_060_MACHI_B" chara_tag="NPC00B" name_tag="NPC00B" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="QC11_ELI_040_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_160_LOGIX" chara_tag="LOGIX" name_tag="LOGIX" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_160_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_200_MONIKA" chara_tag="MONIKA" name_tag="MONIKA" voice_no1="9015" message1="真是谢谢了。" next_message_tag="QC12_HOR_200_HELLMUT"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_200_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="没什么，我才要谢谢你呢。"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_210_OTTO" chara_tag="OTTO" name_tag="OTTO" voice_no1="9020" message1="真不愧是霍尔斯特先生。" next_message_tag="QC12_HOR_210_HELLMUT"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_210_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="谢谢。"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_220_JULIO" chara_tag="JULIO" name_tag="JULIO" voice_no1="9025" message1="谢谢。" next_message_tag="QC12_HOR_220_HELLMUT"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_220_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="不客气。"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_230_PLACHTA" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="9012" message1="原来如此……" next_message_tag="QC12_HOR_230_HELLMUT"/>
+    <T01_TOWN_11_message message_data="QC12_HOR_230_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="还合您的口味吗？"/>
+    <T01_TOWN_11_message message_data="MS01_110_CANARIA" chara_tag="CANARIA" name_tag="CANARIA" voice_no1="-1" message1="……" next_message_tag="MS01_110_HELLMUT"/>
+    <T01_TOWN_11_message message_data="MS01_110_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="MS01_170_PAMELA" chara_tag="PAMELA" name_tag="PAMELA" voice_no1="9051" message1="我吃饱了～" next_message_tag="MS01_170_HELLMUT"/>
+    <T01_TOWN_11_message message_data="MS01_170_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="还合您的口味吗？"/>
+    <T01_TOWN_11_message message_data="MS01_170_TESS" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="MM09_010_HELLMUT" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="9066" message1="请慢慢坐哦。"/>
+    <T01_TOWN_11_message message_data="MM09_010_TESS" chara_tag="TESS" name_tag="TESS" voice_no1="9060" message1="很有男子气概哦！" next_message_tag="MM09_010_TESS2"/>
+    <T01_TOWN_11_message message_data="MM09_010_TESS2" chara_tag="SOPHIE" name_tag="SOPHIE" voice_no1="-1" message1="请你别再这样说了……"/>
+    <T01_TOWN_11_message message_data="TOWN_11_TESS_EV1" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="……" quest_tag="QC10_TES_030" voice_no2="11717" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_11_message message_data="TOWN_11_TESS_EV2" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="……" quest_tag="QC10_TES_050" voice_no2="11717" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_11_message message_data="TOWN_11_TESS_EV3" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="……" quest_tag="QC10_TES_070" voice_no2="11717" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_11_message message_data="TOWN_11_TESS_EV4" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="……" quest_tag="QC10_TES_090" voice_no2="11717" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_11_message message_data="TOWN_11_TESS_EV5" chara_tag="TESS" name_tag="TESS" voice_no1="-1" message1="……" quest_tag="QC10_TES_120" voice_no2="11717" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_11_message message_data="TOWN_11_HELLMUT_EV1" chara_tag="HELLMUT" name_tag="HELLMUT" voice_no1="-1" message1="……" quest_tag="QC12_HOR_170" voice_no2="-1" message2="拜托你的东西准备好了吗？"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_00" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="烹煮……火烤……两种方式&lt;CR&gt;都还算不错……" next_message_tag="TOWN_11_NPC04A_01"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_01" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="但也可以选择烟熏呢。&lt;CR&gt;有机会来试试看好了。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_10" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="就是因为采取的行动有效，&lt;CR&gt;所以才会得到灵感哦。" next_message_tag="TOWN_11_NPC04A_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_11" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="在想新的调理方法时，&lt;CR&gt;嘴里总是在吃着东西呢。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_20" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="11783" message1="先冰一次再解冻，&lt;CR&gt;口感可能也会因此改变……" next_message_tag="TOWN_11_NPC04A_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC04A_21" chara_tag="NPC04A" name_tag="NPC04A" voice_no1="-1" message1="食材的可能性简直是&lt;CR&gt;无限大呢。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_00" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="11802" message1="因为工作成功了，&lt;CR&gt;所以正在庆祝。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_01" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_10" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="11802" message1="这是给平常努力工作的自己&lt;CR&gt;一点奖励。" next_message_tag="TOWN_11_NPC20A_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_11" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="-1" message1="存下来的钱。偶尔就是要&lt;CR&gt;一次大笔地花掉。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_20" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="11802" message1="最近迷上了新酒……" next_message_tag="TOWN_11_NPC20A_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC20A_21" chara_tag="NPC20A" name_tag="NPC20A_02" voice_no1="-1" message1="尝试做跟平常不同的事&lt;CR&gt;也不错。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_00" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="11803" message1="这杯就是要用来疗愈一周的疲惫……&lt;CR&gt;至少今天一定要喝。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_01" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_10" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="11803" message1="听说酒是以前神明赐予的&lt;CR&gt;礼物哦……" next_message_tag="TOWN_11_NPC21A_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_11" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="-1" message1="的确，光是喝下就能变得有朝气，&lt;CR&gt;是很了不起的东西。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_20" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="11803" message1="长大成人以后，&lt;CR&gt;开心的事情就会变少了。" next_message_tag="TOWN_11_NPC21A_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC21A_21" chara_tag="NPC21A" name_tag="NPC21A" voice_no1="-1" message1="……不过小时候没办法像这样&lt;CR&gt;喝酒，所以也是会增加一些&lt;CR&gt;乐趣就是。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_00" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11772" message1="欢迎光临。" next_message_tag="TOWN_11_NPC23A_01"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_01" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="要来个点心吗？&lt;CR&gt;刚出炉的很好吃哦。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_02" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11815" message1="欢迎光临。" next_message_tag="TOWN_11_NPC23A_03"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_03" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="要来点这个吗？&lt;CR&gt;可以帮助脑袋清醒哦。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_10" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11772" message1="欢迎光临。" next_message_tag="TOWN_11_NPC23A_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_11" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="要来点冰品吗？&lt;CR&gt;炎炎夏日非常推荐哦。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_12" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11815" message1="欢迎光临。" next_message_tag="TOWN_11_NPC23A_13"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_13" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="要来杯热牛奶吗？&lt;CR&gt;就算是难以入睡的夜晚&lt;CR&gt;也能睡得很沉哦。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_20" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11772" message1="欢迎光临。" next_message_tag="TOWN_11_NPC23A_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_21" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="要来个最近相当受欢迎的&lt;CR&gt;干口粮吗？"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_22" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="11815" message1="欢迎光临。" next_message_tag="TOWN_11_NPC23A_23"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC23A_23" chara_tag="NPC23A" name_tag="NPC23A_04" voice_no1="-1" message1="要试试这个吗？味道跟酒很像，&lt;CR&gt;小孩子也能喝哦。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC00A_00" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="11748" message1="听说缇丝小姐回来工作了，&lt;CR&gt;当然要多点一点咯。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC00A_10" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="11748" message1="唔唔，好像吃太多了……&lt;CR&gt;明明是准备好充足的金钱才来的……&lt;CR&gt;我的身体却撑不下去……"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC00A_20" chara_tag="NPC00A" name_tag="NPC00A" voice_no1="11748" message1="最近为了能在店里待久一点，&lt;CR&gt;我在研究点餐方法。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_00" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="我在思考有效解决&lt;CR&gt;委托的方法……" next_message_tag="TOWN_11_NPC26B_01"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_01" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="首先是一个一个确实完成，&lt;CR&gt;这应该比较合我的个性吧。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_10" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="可以接到困难的委托&lt;CR&gt;固然是好事……" next_message_tag="TOWN_11_NPC26B_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_11" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="但也是会有难处理的。&lt;CR&gt;拒绝也是需要勇气呢。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_20" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="我能解决的委托大概就是&lt;CR&gt;调度素材吧……" next_message_tag="TOWN_11_NPC26B_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26B_21" chara_tag="NPC26B" name_tag="NPC26B_01" voice_no1="-1" message1="越在行的人，似乎就越不容易碰到&lt;CR&gt;这类简单的委托呢。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC27A_00" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="-1" message1="毕竟平日没有&lt;CR&gt;特别的活动……" next_message_tag="TOWN_11_NPC27A_01"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC27A_01" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="-1" message1="这时就可以不用特别在意，&lt;CR&gt;专心在自己的事情上呢。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC27A_10" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="-1" message1="当平常都在的人突然不在原本的&lt;CR&gt;地方时会在意对吧。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC27A_20" chara_tag="NPC27A" name_tag="NPC27A_03" voice_no1="-1" message1="呼，今天要去哪里呢～"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_00" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="啊啊……在飘飘然之中&lt;CR&gt;微微残留的虚幻……" next_message_tag="TOWN_11_NPC26A_01"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_01" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="那个感觉捕捉了我的心，&lt;CR&gt;不肯散去啊……"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_10" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="嗯～大姐姐呢……&lt;CR&gt;是气场不够吗？" next_message_tag="TOWN_11_NPC26A_11"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_11" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="好好学学人家吧，&lt;CR&gt;像是帕梅拉小姐之类的。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_20" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="呵呵，今天也说不完呢……&lt;CR&gt;哎呀，再说本来就不可能说得完。" next_message_tag="TOWN_11_NPC26A_21"/>
+    <T01_TOWN_11_message message_data="TOWN_11_NPC26A_21" chara_tag="NPC26A" name_tag="NPC26A_01" voice_no1="-1" message1="就算花一辈子也讲不完吧，&lt;CR&gt;帕梅拉小姐的魅力。"/>
+    <T01_TOWN_11_message message_data="TOWN_11_DUMMY_MSG" voice_no1="-1" message1="……"/>
+</Root>

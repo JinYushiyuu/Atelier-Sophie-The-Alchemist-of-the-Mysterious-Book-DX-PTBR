@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="SHIFT_JIS" standalone="no"?>
+<!DOCTYPE root SYSTEM "file://st01/project/A17/_Programmer/ui/uis.dtd">
+<root resolution_hd="1080">
+	<image name="gen_a17_recipe01_line" texture="ui/a17_recipe.g1t" texture_index="0" uvwh="464,656,128,48"/>
+	<image name="gen_a17_recipe01_line_long" texture="ui/a17_recipe.g1t" texture_index="0" uvwh="464,704,304,64"/>
+	<image name="gen_a17_recipe01_material_frame01" texture="ui/a17_recipe.g1t" texture_index="0" uvwh="209,193,192,192"/>
+	<image name="gen_a17_recipe01_material_frame02" texture="ui/a17_recipe.g1t" texture_index="0" uvwh="209,1,192,192"/>
+	<image name="gen_a17_recipe01_material_frame03" texture="ui/a17_recipe.g1t" texture_index="0" uvwh="405,1,190,190"/>
+	<image name="gen_a17_recipe01_material_frame04" texture="ui/a17_recipe.g1t" texture_index="0" uvwh="403,193,194,194"/>
+	<image name="gen_a17_recipe01_material_key" texture="ui/a17_recipe.g1t" texture_index="0" uvwh="1,211,92,92"/>
+	<image name="gen_a17_recipe01_material_light" texture="ui/a17_recipe.g1t" texture_index="0" uvwh="1,1,208,208"/>
+	<image name="gen_a17_recipe01_material_light02" texture="ui/a17_recipe.g1t" texture_index="0" uvwh="396,389,208,208"/>
+	<image name="gen_a17_recipe01_tag10" texture="ui/a17_recipe.g1t" texture_index="3" uvwh="128,488,464,96"/>
+	<image name="gen_a17_recipe01_tag15" texture="ui/a17_recipe.g1t" texture_index="3" uvwh="0,595,592,96"/>
+	<image name="gen_a17_recipe02_bookframe" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="192,160,160,112"/>
+	<image_list name="gen_a17_recipe02_f_off">
+		<image name="gen_a17_recipe02_f_off__xLIST01" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="0,0,96,96"/>
+		<image name="gen_a17_recipe02_f_off__xLIST02" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="0,96,96,96"/>
+		<image name="gen_a17_recipe02_f_off__xLIST03" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="0,192,96,96"/>
+		<image name="gen_a17_recipe02_f_off__xLIST04" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="0,288,96,96"/>
+		<image name="gen_a17_recipe02_f_off__xLIST05" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="192,64,96,96"/>
+	</image_list>
+	<image_list name="gen_a17_recipe02_f_on">
+		<image name="gen_a17_recipe02_f_on__xLIST01" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="96,0,96,96"/>
+		<image name="gen_a17_recipe02_f_on__xLIST02" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="96,96,96,96"/>
+		<image name="gen_a17_recipe02_f_on__xLIST03" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="96,192,96,96"/>
+		<image name="gen_a17_recipe02_f_on__xLIST04" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="96,288,96,96"/>
+		<image name="gen_a17_recipe02_f_on__xLIST05" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="288,64,96,96"/>
+	</image_list>
+	<image name="gen_a17_recipe02_nomix" texture="ui/a17_recipe.g1t" texture_index="1" uvwh="192,0,184,64"/>
+	<image_list name="gen_a17_recipe03_circle01">
+		<image name="gen_a17_recipe03_circle01__xLIST01" texture="ui/a17_recipe.g1t" texture_index="3" uvwh="0,0,240,240"/>
+		<image name="gen_a17_recipe03_circle01__xLIST02" texture="ui/a17_recipe.g1t" texture_index="3" uvwh="240,0,240,240"/>
+		<image name="gen_a17_recipe03_circle01__xLIST03" texture="ui/a17_recipe.g1t" texture_index="3" uvwh="0,240,240,240"/>
+		<image name="gen_a17_recipe03_circle01__xLIST04" texture="ui/a17_recipe.g1t" texture_index="3" uvwh="240,240,240,240"/>
+	</image_list>
+	<image name="gen_a17_recipe03_circle02" texture="ui/a17_recipe.g1t" texture_index="3" uvwh="484,0,284,280"/>
+	<image name="gen_a17_recipe03_circlebg" texture="ui/a17_recipe.g1t" texture_index="4" uvwh="0,0,768,768"/>
+	<image_list name="gen_a17_recipe03_light01">
+		<image name="gen_a17_recipe03_light01__xLIST01" texture="ui/a17_recipe.g1t" texture_index="2" uvwh="0,0,364,364"/>
+		<image name="gen_a17_recipe03_light01__xLIST02" texture="ui/a17_recipe.g1t" texture_index="2" uvwh="368,0,364,364"/>
+		<image name="gen_a17_recipe03_light01__xLIST03" texture="ui/a17_recipe.g1t" texture_index="2" uvwh="0,368,364,364"/>
+		<image name="gen_a17_recipe03_light01__xLIST04" texture="ui/a17_recipe.g1t" texture_index="2" uvwh="368,368,364,364"/>
+	</image_list>
+	<image name="gen_a17_recipe03_light02" texture="ui/a17_recipe.g1t" texture_index="0" uvwh="0,392,384,376"/>
+	<image name="gen_a17_recipe03_question" texture="ui/a17_recipe.g1t" texture_index="3" uvwh="650,283,75,134"/>
+</root>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <T01_TOWN_04_message message_data="QC11_ELI_130_ELISE" chara_tag="ELISE" name_tag="ELISE" voice_no1="11719" message1="是、是真的吗……？" next_message_tag="QC11_ELI_130_PLACHTA"/>
+    <T01_TOWN_04_message message_data="QC11_ELI_130_PLACHTA" chara_tag="PLACHTA" name_tag="PLACHTA" voice_no1="-1" message1="嗯，是真的。"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_OP_0" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="摩妮卡吗？刚才好像&lt;CR&gt;有在广场看到她……" next_message_tag="TOWN_04_NPC25A_OP_1"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_OP_1" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="从广场通往郊区的坡道，&lt;CR&gt;对老人家而言很吃力呀……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_00" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="呼……要打个水也是&lt;CR&gt;很辛苦呢……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_01" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_10" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="呼……光爬个坡也是&lt;CR&gt;很辛苦呢……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_11" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_20" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="呼……今天也是个好天气呢。"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_21" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_30" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="呼……今天也是个好天气呢。"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_31" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_40" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="11780" message1="呼……今天也是个好天气呢。"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_41" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC25A_SLEEP" chara_tag="NPC25A" name_tag="NPC25A" voice_no1="-1" message1="……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_00" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="丢海胆很开心呢。&lt;CR&gt;虽然有点痛就是了……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_00" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="11776" message1="啊……打扰了。"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_10" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="丢海胆也有点腻了。&lt;CR&gt;来想点新游戏吧。"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_10" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="11776" message1="啊……打扰了。"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_20" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="用木棒将海胆&lt;CR&gt;远远打飞出去的游戏如何啊……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_20" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="11776" message1="我弟好像很喜欢&lt;CR&gt;想些新游戏。"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_21" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="-1" message1="……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_30" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="会用到海胆的新游戏啊？&lt;CR&gt;唔嗯～想不到……"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_30" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="11776" message1="啊……打扰了。"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_40" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="我想了不会弄痛人的&lt;CR&gt;丢海胆游戏。" next_message_tag="TOWN_04_NPC26A_41"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC26A_41" chara_tag="NPC26A" name_tag="NPC26A_02" voice_no1="11742" message1="玩法就是从这里丢海胆，&lt;CR&gt;谁刺中最远的树就算赢。"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_40" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="11776" message1="我弟想到的那个新游戏，&lt;CR&gt;感觉有点普通呢。" next_message_tag="TOWN_04_NPC27A_41"/>
+    <T01_TOWN_04_message message_data="TOWN_04_NPC27A_41" chara_tag="NPC27A" name_tag="NPC27A_01" voice_no1="-1" message1="果然还是要有丢有闪……&lt;CR&gt;不单纯靠蛮力取胜的&lt;CR&gt;丢海胆最有意思了呢。"/>
+</Root>

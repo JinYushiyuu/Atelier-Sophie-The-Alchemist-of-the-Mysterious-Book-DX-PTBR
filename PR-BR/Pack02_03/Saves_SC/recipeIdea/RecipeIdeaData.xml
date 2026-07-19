@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+    <RecipeIdeaData itemName="海胆袋" itemTag="ITEM_MIX_UNI_BAG" learnCond_0="RECIPE_LEARN_COND_MIX_UNI_BAG"/>
+    <RecipeIdeaData itemName="炎烧" itemTag="ITEM_MIX_FRAMME" EVENT_TAG="EVENT_MS05_030" scenarioLockFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_FRAMME" learnCond_1="RECIPE_LEARN_COND_MIX_FRAMME_01" learnCond_2="RECIPE_LEARN_COND_MIX_FRAMME_02"/>
+    <RecipeIdeaData itemName="冰精" itemTag="ITEM_MIX_REFERN" EVENT_TAG="EVENT_MM02_050" scenarioLockFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_REFERN" learnCond_1="RECIPE_LEARN_COND_MIX_REFERN_01" learnCond_2="RECIPE_LEARN_COND_MIX_REFERN_02"/>
+    <RecipeIdeaData itemName="电导之石" itemTag="ITEM_MIX_DONNER_STONE" learnCond_0="RECIPE_LEARN_COND_MIX_DONNER_STONE"/>
+    <RecipeIdeaData itemName="卡夫" itemTag="ITEM_MIX_CRAFT" learnCond_0="RECIPE_LEARN_COND_MIX_CRAFT"/>
+    <RecipeIdeaData itemName="火焰炎烧" itemTag="ITEM_MIX_ORI_FRAMME" learnCond_0="RECIPE_LEARN_COND_MIX_ORI_FRAMME"/>
+    <RecipeIdeaData itemName="冷冽冰精" itemTag="ITEM_MIX_STARK_REFERN" learnCond_0="RECIPE_LEARN_COND_MIX_STARK_REFERN"/>
+    <RecipeIdeaData itemName="电导水晶" itemTag="ITEM_MIX_DONNER_CRYSTAL" learnCond_0="RECIPE_LEARN_COND_MIX_DONNER_CRYSTAL"/>
+    <RecipeIdeaData itemName="噗尼噗尼弹" itemTag="ITEM_MIX_PUNIPUNI_MISSILE" learnCond_0="RECIPE_LEARN_COND_MIX_PUNIPUNI_MISSILE"/>
+    <RecipeIdeaData itemName="神遗落之物" itemTag="ITEM_MIX_GOD_LOST" learnCond_0="RECIPE_LEARN_COND_MIX_GOD_LOST"/>
+    <RecipeIdeaData itemName="初始之火种" itemTag="ITEM_MIX_PRIMORDIAL_FLASHPOINT" EVENT_TAG="EVENT_MM06_020" scenarioLockFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_PRIMORDIAL_FLASHPOINT" learnCond_1="RECIPE_LEARN_COND_MIX_PRIMORDIAL_FLASHPOINT_01" learnCond_2="RECIPE_LEARN_COND_MIX_PRIMORDIAL_FLASHPOINT_02"/>
+    <RecipeIdeaData itemName="魔法师之笛" itemTag="ITEM_MIX_WITCH_TRUMPET" learnCond_0="RECIPE_LEARN_COND_MIX_WITCH_TRUMPET"/>
+    <RecipeIdeaData itemName="红海胆袋" itemTag="ITEM_MIX_RED_UNI_BAG"/>
+    <RecipeIdeaData itemName="蓝色炎烧" itemTag="ITEM_MIX_BLAU_FRAMME"/>
+    <RecipeIdeaData itemName="紫色冰精" itemTag="ITEM_MIX_VIO_REFERN"/>
+    <RecipeIdeaData itemName="结晶石" itemTag="ITEM_MIX_BLITZ_STONE"/>
+    <RecipeIdeaData itemName="卡夫袋" itemTag="ITEM_MIX_CRAFT_BAG"/>
+    <RecipeIdeaData itemName="超巨大炎烧" itemTag="ITEM_MIX_PETA_FRAMME"/>
+    <RecipeIdeaData itemName="无限冰精" itemTag="ITEM_MIX_AIN_SOPH_REFERN"/>
+    <RecipeIdeaData itemName="结晶水晶" itemTag="ITEM_MIX_BLITZ_CRYSTAL"/>
+    <RecipeIdeaData itemName="黑噗尼弹" itemTag="ITEM_MIX_BLACK_PUNI_MISSILE"/>
+    <RecipeIdeaData itemName="天界大扫除" itemTag="ITEM_MIX_HEAVENLY_HOUSECLEANING" learnCond_0="RECIPE_LEARN_COND_MIX_HEAVENLY_HOUSECLEANING"/>
+    <RecipeIdeaData itemName="终焉之火种" itemTag="ITEM_MIX_END_FLASHPOINT" learnCond_0="RECIPE_LEARN_COND_MIX_END_FLASHPOINT"/>
+    <RecipeIdeaData itemName="死灵使之笛" itemTag="ITEM_MIX_NECROMANCER_TRUMPET" learnCond_0="RECIPE_LEARN_COND_MIX_NECROMANCER_TRUMPET"/>
+    <RecipeIdeaData itemName="攻击备用栏位０１" itemTag="ITEM_MIX_SP_ITEM_001"/>
+    <RecipeIdeaData itemName="攻击备用栏位０２" itemTag="ITEM_MIX_SP_ITEM_002"/>
+    <RecipeIdeaData itemName="攻击备用栏位０３" itemTag="ITEM_MIX_SP_ITEM_003"/>
+    <RecipeIdeaData itemName="攻击备用栏位０４" itemTag="ITEM_MIX_SP_ITEM_004"/>
+    <RecipeIdeaData itemName="攻击备用栏位０５" itemTag="ITEM_MIX_SP_ITEM_005"/>
+    <RecipeIdeaData itemName="攻击备用栏位０６" itemTag="ITEM_MIX_SP_ITEM_006"/>
+    <RecipeIdeaData itemName="攻击备用栏位０７" itemTag="ITEM_MIX_SP_ITEM_007"/>
+    <RecipeIdeaData itemName="攻击备用栏位０８" itemTag="ITEM_MIX_SP_ITEM_008"/>
+    <RecipeIdeaData itemName="攻击备用栏位０９" itemTag="ITEM_MIX_SP_ITEM_009"/>
+    <RecipeIdeaData itemName="攻击备用栏位１０" itemTag="ITEM_MIX_SP_ITEM_010"/>
+    <RecipeIdeaData itemName="攻击备用栏位１１" itemTag="ITEM_MIX_SP_ITEM_011"/>
+    <RecipeIdeaData itemName="攻击备用栏位１２" itemTag="ITEM_MIX_SP_ITEM_012"/>
+    <RecipeIdeaData itemName="攻击备用栏位１３" itemTag="ITEM_MIX_SP_ITEM_013"/>
+    <RecipeIdeaData itemName="攻击备用栏位１４" itemTag="ITEM_MIX_SP_ITEM_014"/>
+    <RecipeIdeaData itemName="攻击备用栏位１５" itemTag="ITEM_MIX_SP_ITEM_015"/>
+    <RecipeIdeaData itemName="攻击备用栏位１６" itemTag="ITEM_MIX_SP_ITEM_016"/>
+    <RecipeIdeaData itemName="攻击备用栏位１７" itemTag="ITEM_MIX_SP_ITEM_017"/>
+    <RecipeIdeaData itemName="攻击备用栏位１８" itemTag="ITEM_MIX_SP_ITEM_018"/>
+    <RecipeIdeaData itemName="攻击备用栏位１９" itemTag="ITEM_MIX_SP_ITEM_019"/>
+    <RecipeIdeaData itemName="攻击备用栏位２０" itemTag="ITEM_MIX_SP_ITEM_020"/>
+    <RecipeIdeaData itemName="攻击备用栏位２１" itemTag="ITEM_MIX_SP_ITEM_021"/>
+    <RecipeIdeaData itemName="攻击备用栏位２２" itemTag="ITEM_MIX_SP_ITEM_022"/>
+    <RecipeIdeaData itemName="攻击备用栏位２３" itemTag="ITEM_MIX_SP_ITEM_023"/>
+    <RecipeIdeaData itemName="攻击备用栏位２４" itemTag="ITEM_MIX_SP_ITEM_024"/>
+    <RecipeIdeaData itemName="攻击备用栏位２５" itemTag="ITEM_MIX_SP_ITEM_025"/>
+    <RecipeIdeaData itemName="攻击备用栏位２６" itemTag="ITEM_MIX_SP_ITEM_026"/>
+    <RecipeIdeaData itemName="攻击备用栏位２７" itemTag="ITEM_MIX_SP_ITEM_027"/>
+    <RecipeIdeaData itemName="攻击备用栏位２８" itemTag="ITEM_MIX_SP_ITEM_028"/>
+    <RecipeIdeaData itemName="攻击备用栏位２９" itemTag="ITEM_MIX_SP_ITEM_029"/>
+    <RecipeIdeaData itemName="攻击备用栏位３０" itemTag="ITEM_MIX_SP_ITEM_030"/>
+    <RecipeIdeaData itemName="攻击备用栏位３１" itemTag="ITEM_MIX_SP_ITEM_031"/>
+    <RecipeIdeaData itemName="攻击备用栏位３２" itemTag="ITEM_MIX_SP_ITEM_032"/>
+    <RecipeIdeaData itemName="攻击备用栏位３３" itemTag="ITEM_MIX_SP_ITEM_033"/>
+    <RecipeIdeaData itemName="攻击备用栏位３４" itemTag="ITEM_MIX_SP_ITEM_034"/>
+    <RecipeIdeaData itemName="攻击备用栏位３５" itemTag="ITEM_MIX_SP_ITEM_035"/>
+    <RecipeIdeaData itemName="攻击备用栏位３６" itemTag="ITEM_MIX_SP_ITEM_036"/>
+    <RecipeIdeaData itemName="攻击备用栏位３７" itemTag="ITEM_MIX_SP_ITEM_037"/>
+    <RecipeIdeaData itemName="攻击备用栏位３８" itemTag="ITEM_MIX_SP_ITEM_038"/>
+    <RecipeIdeaData itemName="攻击备用栏位３９" itemTag="ITEM_MIX_SP_ITEM_039"/>
+    <RecipeIdeaData itemName="攻击备用栏位４０" itemTag="ITEM_MIX_SP_ITEM_040"/>
+    <RecipeIdeaData itemName="攻击备用栏位４１" itemTag="ITEM_MIX_SP_ITEM_041"/>
+    <RecipeIdeaData itemName="攻击备用栏位４２" itemTag="ITEM_MIX_SP_ITEM_042"/>
+    <RecipeIdeaData itemName="攻击备用栏位４３" itemTag="ITEM_MIX_SP_ITEM_043"/>
+    <RecipeIdeaData itemName="攻击备用栏位４４" itemTag="ITEM_MIX_SP_ITEM_044"/>
+    <RecipeIdeaData itemName="攻击备用栏位４５" itemTag="ITEM_MIX_SP_ITEM_045"/>
+    <RecipeIdeaData itemName="攻击备用栏位４６" itemTag="ITEM_MIX_SP_ITEM_046"/>
+    <RecipeIdeaData itemName="攻击备用栏位４７" itemTag="ITEM_MIX_SP_ITEM_047"/>
+    <RecipeIdeaData itemName="攻击备用栏位４８" itemTag="ITEM_MIX_SP_ITEM_048"/>
+    <RecipeIdeaData itemName="攻击备用栏位４９" itemTag="ITEM_MIX_SP_ITEM_049"/>
+    <RecipeIdeaData itemName="攻击备用栏位５０" itemTag="ITEM_MIX_SP_ITEM_050"/>
+    <RecipeIdeaData itemName="山师之药" itemTag="ITEM_MIX_GUILT_MEDICINE" preReleaseFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_GUILT_MEDICINE"/>
+    <RecipeIdeaData itemName="补给瓶" itemTag="ITEM_MIX_REFUEL_BOTTLE" learnCond_0="RECIPE_LEARN_COND_MIX_REFUEL_BOTTLE"/>
+    <RecipeIdeaData itemName="微风香精油" itemTag="ITEM_MIX_BREEZE_AROMA" learnCond_0="RECIPE_LEARN_COND_MIX_BREEZE_AROMA"/>
+    <RecipeIdeaData itemName="生命之蜜" itemTag="ITEM_MIX_NECTAR_LIFE" learnCond_0="RECIPE_LEARN_COND_MIX_NECTAR_LIFE"/>
+    <RecipeIdeaData itemName="神秘灵药" itemTag="ITEM_MIX_ELIXIR_MYSTERY" learnCond_0="RECIPE_LEARN_COND_MIX_ELIXIR_MYSTERY"/>
+    <RecipeIdeaData itemName="朴素烘焙点心" itemTag="ITEM_MIX_BAKED_GOODS" learnCond_0="RECIPE_LEARN_COND_MIX_BAKED_GOODS"/>
+    <RecipeIdeaData itemName="苏茶" itemTag="ITEM_MIX_SOTEA" learnCond_0="RECIPE_LEARN_COND_MIX_SOTEA"/>
+    <RecipeIdeaData itemName="噗尼冻" itemTag="ITEM_MIX_PUNI_JELLY" learnCond_0="RECIPE_LEARN_COND_MIX_PUNI_JELLY" learnCond_1="RECIPE_LEARN_COND_MIX_PUNI_JELLY_01" learnCond_2="RECIPE_LEARN_COND_MIX_PUNI_JELLY_02"/>
+    <RecipeIdeaData itemName="苏砖蛋糕" itemTag="ITEM_MIX_SOPHINANSHU" learnCond_0="RECIPE_LEARN_COND_MIX_SOPHINANSHU"/>
+    <RecipeIdeaData itemName="焦味苏茶" itemTag="ITEM_MIX_PIROSOTEA" learnCond_0="RECIPE_LEARN_COND_MIX_PIROSOTEA"/>
+    <RecipeIdeaData itemName="炼金彩糖" itemTag="ITEM_MIX_ALCHEMY_DROP" learnCond_0="RECIPE_LEARN_COND_MIX_ALCHEMY_DROP"/>
+    <RecipeIdeaData itemName="原味松饼" itemTag="ITEM_MIX_PLAIN_WAFFLE" learnCond_0="RECIPE_LEARN_COND_MIX_PLAIN_WAFFLE"/>
+    <RecipeIdeaData itemName="贝果三明治" itemTag="ITEM_MIX_BAGEL_SAND" learnCond_0="RECIPE_LEARN_COND_MIX_BAGEL_SAND"/>
+    <RecipeIdeaData itemName="金色软膏" itemTag="ITEM_MIX_BRIGHT_YELLOW_OINTMENT"/>
+    <RecipeIdeaData itemName="发泄饮料" itemTag="ITEM_MIX_DIVERGENCE_DRINK"/>
+    <RecipeIdeaData itemName="妖精的气息" itemTag="ITEM_MIX_FAIRY_BREATH"/>
+    <RecipeIdeaData itemName="夺命水滴" itemTag="ITEM_MIX_TAKE_LIFE_DROPS"/>
+    <RecipeIdeaData itemName="女神之泪" itemTag="ITEM_MIX_ITEM_GODDESS_TEARS"/>
+    <RecipeIdeaData itemName="石头饼干" itemTag="ITEM_MIX_ITEM_ROCK_COOKIES"/>
+    <RecipeIdeaData itemName="黑沉苏茶" itemTag="ITEM_MIX_DARK_SOTEA"/>
+    <RecipeIdeaData itemName="彩虹噗尼冻" itemTag="ITEM_MIX_RAINBOW_PUNI_JELLY"/>
+    <RecipeIdeaData itemName="药膳蛋糕" itemTag="ITEM_MIX_HEALTH_FOOD_CAKE"/>
+    <RecipeIdeaData itemName="顶级热牛奶" itemTag="ITEM_MIX_FINEST_HOT_MILK" learnCond_0="RECIPE_LEARN_COND_MIX_FINEST_HOT_MILK"/>
+    <RecipeIdeaData itemName="蜂蜜糖浆" itemTag="ITEM_MIX_HONEY_SYRUP" EVENT_TAG="EVENT_QC10_TES_120" learnCond_0="RECIPE_LEARN_COND_MIX_HONEY_SYRUP"/>
+    <RecipeIdeaData itemName="恢复备用栏位０１" itemTag="ITEM_MIX_SP_ITEM_051"/>
+    <RecipeIdeaData itemName="恢复备用栏位０２" itemTag="ITEM_MIX_SP_ITEM_052"/>
+    <RecipeIdeaData itemName="恢复备用栏位０３" itemTag="ITEM_MIX_SP_ITEM_053"/>
+    <RecipeIdeaData itemName="恢复备用栏位０４" itemTag="ITEM_MIX_SP_ITEM_054"/>
+    <RecipeIdeaData itemName="恢复备用栏位０５" itemTag="ITEM_MIX_SP_ITEM_055"/>
+    <RecipeIdeaData itemName="恢复备用栏位０６" itemTag="ITEM_MIX_SP_ITEM_056"/>
+    <RecipeIdeaData itemName="恢复备用栏位０７" itemTag="ITEM_MIX_SP_ITEM_057"/>
+    <RecipeIdeaData itemName="恢复备用栏位０８" itemTag="ITEM_MIX_SP_ITEM_058"/>
+    <RecipeIdeaData itemName="恢复备用栏位０９" itemTag="ITEM_MIX_SP_ITEM_059"/>
+    <RecipeIdeaData itemName="恢复备用栏位１０" itemTag="ITEM_MIX_SP_ITEM_060"/>
+    <RecipeIdeaData itemName="恢复备用栏位１１" itemTag="ITEM_MIX_SP_ITEM_061"/>
+    <RecipeIdeaData itemName="恢复备用栏位１２" itemTag="ITEM_MIX_SP_ITEM_062"/>
+    <RecipeIdeaData itemName="恢复备用栏位１３" itemTag="ITEM_MIX_SP_ITEM_063"/>
+    <RecipeIdeaData itemName="恢复备用栏位１４" itemTag="ITEM_MIX_SP_ITEM_064"/>
+    <RecipeIdeaData itemName="恢复备用栏位１５" itemTag="ITEM_MIX_SP_ITEM_065"/>
+    <RecipeIdeaData itemName="恢复备用栏位１６" itemTag="ITEM_MIX_SP_ITEM_066"/>
+    <RecipeIdeaData itemName="恢复备用栏位１７" itemTag="ITEM_MIX_SP_ITEM_067"/>
+    <RecipeIdeaData itemName="恢复备用栏位１８" itemTag="ITEM_MIX_SP_ITEM_068"/>
+    <RecipeIdeaData itemName="恢复备用栏位１９" itemTag="ITEM_MIX_SP_ITEM_069"/>
+    <RecipeIdeaData itemName="恢复备用栏位２０" itemTag="ITEM_MIX_SP_ITEM_070"/>
+    <RecipeIdeaData itemName="恢复备用栏位２１" itemTag="ITEM_MIX_SP_ITEM_071"/>
+    <RecipeIdeaData itemName="恢复备用栏位２２" itemTag="ITEM_MIX_SP_ITEM_072"/>
+    <RecipeIdeaData itemName="恢复备用栏位２３" itemTag="ITEM_MIX_SP_ITEM_073"/>
+    <RecipeIdeaData itemName="恢复备用栏位２４" itemTag="ITEM_MIX_SP_ITEM_074"/>
+    <RecipeIdeaData itemName="恢复备用栏位２５" itemTag="ITEM_MIX_SP_ITEM_075"/>
+    <RecipeIdeaData itemName="恢复备用栏位２６" itemTag="ITEM_MIX_SP_ITEM_076"/>
+    <RecipeIdeaData itemName="恢复备用栏位２７" itemTag="ITEM_MIX_SP_ITEM_077"/>
+    <RecipeIdeaData itemName="恢复备用栏位２８" itemTag="ITEM_MIX_SP_ITEM_078"/>
+    <RecipeIdeaData itemName="恢复备用栏位２９" itemTag="ITEM_MIX_SP_ITEM_079"/>
+    <RecipeIdeaData itemName="恢复备用栏位３０" itemTag="ITEM_MIX_SP_ITEM_080"/>
+    <RecipeIdeaData itemName="恢复备用栏位３１" itemTag="ITEM_MIX_SP_ITEM_081"/>
+    <RecipeIdeaData itemName="恢复备用栏位３２" itemTag="ITEM_MIX_SP_ITEM_082"/>
+    <RecipeIdeaData itemName="恢复备用栏位３３" itemTag="ITEM_MIX_SP_ITEM_083"/>
+    <RecipeIdeaData itemName="恢复备用栏位３４" itemTag="ITEM_MIX_SP_ITEM_084"/>
+    <RecipeIdeaData itemName="恢复备用栏位３５" itemTag="ITEM_MIX_SP_ITEM_085"/>
+    <RecipeIdeaData itemName="恢复备用栏位３６" itemTag="ITEM_MIX_SP_ITEM_086"/>
+    <RecipeIdeaData itemName="恢复备用栏位３７" itemTag="ITEM_MIX_SP_ITEM_087"/>
+    <RecipeIdeaData itemName="恢复备用栏位３８" itemTag="ITEM_MIX_SP_ITEM_088"/>
+    <RecipeIdeaData itemName="恢复备用栏位３９" itemTag="ITEM_MIX_SP_ITEM_089"/>
+    <RecipeIdeaData itemName="恢复备用栏位４０" itemTag="ITEM_MIX_SP_ITEM_090"/>
+    <RecipeIdeaData itemName="恢复备用栏位４１" itemTag="ITEM_MIX_SP_ITEM_091"/>
+    <RecipeIdeaData itemName="恢复备用栏位４２" itemTag="ITEM_MIX_SP_ITEM_092"/>
+    <RecipeIdeaData itemName="恢复备用栏位４３" itemTag="ITEM_MIX_SP_ITEM_093"/>
+    <RecipeIdeaData itemName="恢复备用栏位４４" itemTag="ITEM_MIX_SP_ITEM_094"/>
+    <RecipeIdeaData itemName="恢复备用栏位４５" itemTag="ITEM_MIX_SP_ITEM_095"/>
+    <RecipeIdeaData itemName="恢复备用栏位４６" itemTag="ITEM_MIX_SP_ITEM_096"/>
+    <RecipeIdeaData itemName="恢复备用栏位４７" itemTag="ITEM_MIX_SP_ITEM_097"/>
+    <RecipeIdeaData itemName="恢复备用栏位４８" itemTag="ITEM_MIX_SP_ITEM_098"/>
+    <RecipeIdeaData itemName="恢复备用栏位４９" itemTag="ITEM_MIX_SP_ITEM_099"/>
+    <RecipeIdeaData itemName="恢复备用栏位５０" itemTag="ITEM_MIX_SP_ITEM_100"/>
+    <RecipeIdeaData itemName="天使的耳语" itemTag="ITEM_MIX_ANGEL_WHISPER" EVENT_TAG="EVENT_MM06_040" scenarioLockFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_ANGEL_WHISPER" learnCond_1="RECIPE_LEARN_COND_MIX_ANGEL_WHISPER_01" learnCond_2="RECIPE_LEARN_COND_MIX_ANGEL_WHISPER_02"/>
+    <RecipeIdeaData itemName="万能除厄香" itemTag="ITEM_MIX_UNIVERSAL_AMULET_INCENSE" EVENT_TAG="EVENT_QC03_JUL_100" learnCond_0="RECIPE_LEARN_COND_MIX_UNIVERSAL_AMULET_INCENSE"/>
+    <RecipeIdeaData itemName="不幸瓶" itemTag="ITEM_MIX_BOTTLING_MISFORTUNE" learnCond_0="RECIPE_LEARN_COND_MIX_BOTTLING_MISFORTUNE"/>
+    <RecipeIdeaData itemName="精灵编织之帐" itemTag="ITEM_MIX_ELEMENTAL_CURTAIN" learnCond_0="RECIPE_LEARN_COND_MIX_ELEMENTAL_CURTAIN"/>
+    <RecipeIdeaData itemName="火龙提神药" itemTag="ITEM_MIX_SALAMANDER" learnCond_0="RECIPE_LEARN_COND_MIX_SALAMANDER"/>
+    <RecipeIdeaData itemName="万物手抄本" itemTag="ITEM_MIX_ALL_THINGS_MANUSCRIPT" EVENT_TAG="EVENT_MM02_190" scenarioLockFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_ALL_THINGS_MANUSCRIPT" learnCond_1="RECIPE_LEARN_COND_MIX_ALL_THINGS_MANUSCRIPT_01" learnCond_2="RECIPE_LEARN_COND_MIX_ALL_THINGS_MANUSCRIPT_02"/>
+    <RecipeIdeaData itemName="小恶魔的恶作剧" itemTag="ITEM_MIX_SMALL_DEVIL_MISCHIEF" learnCond_0="RECIPE_LEARN_COND_MIX_SMALL_DEVIL_MISCHIEF"/>
+    <RecipeIdeaData itemName="英雄降灵药丸" itemTag="ITEM_MIX_SAVIOR_SOUL" learnCond_0="RECIPE_LEARN_COND_MIX_SAVIOR_SOUL"/>
+    <RecipeIdeaData itemName="堕天使之铃" itemTag="ITEM_MIX_FALLEN_ANGEL_BELL"/>
+    <RecipeIdeaData itemName="贪吃鬼之香" itemTag="ITEM_MIX_GLUTTONOUS_AROMA"/>
+    <RecipeIdeaData itemName="可食用的薄雾" itemTag="ITEM_MIX_EATEN_HAZE"/>
+    <RecipeIdeaData itemName="幻象胶卷" itemTag="ITEM_MIX_MIRAGE_FILM"/>
+    <RecipeIdeaData itemName="雷电果实" itemTag="ITEM_MIX_LEIDEN_PULLFT"/>
+    <RecipeIdeaData itemName="封住的白皮书" itemTag="ITEM_MIX_SEALED_BOOK" learnCond_0="RECIPE_LEARN_COND_WHITE_25_00"/>
+    <RecipeIdeaData itemName="大恶魔的恶作剧" itemTag="ITEM_MIX_DEVIL_MISCHIEF"/>
+    <RecipeIdeaData itemName="狂战士药丸" itemTag="ITEM_MIX_BERSERKER_SOUL"/>
+    <RecipeIdeaData itemName="辅助备用栏位０１" itemTag="ITEM_MIX_SP_ITEM_101"/>
+    <RecipeIdeaData itemName="辅助备用栏位０２" itemTag="ITEM_MIX_SP_ITEM_102"/>
+    <RecipeIdeaData itemName="辅助备用栏位０３" itemTag="ITEM_MIX_SP_ITEM_103"/>
+    <RecipeIdeaData itemName="辅助备用栏位０４" itemTag="ITEM_MIX_SP_ITEM_104"/>
+    <RecipeIdeaData itemName="辅助备用栏位０５" itemTag="ITEM_MIX_SP_ITEM_105"/>
+    <RecipeIdeaData itemName="辅助备用栏位０６" itemTag="ITEM_MIX_SP_ITEM_106"/>
+    <RecipeIdeaData itemName="辅助备用栏位０７" itemTag="ITEM_MIX_SP_ITEM_107"/>
+    <RecipeIdeaData itemName="辅助备用栏位０８" itemTag="ITEM_MIX_SP_ITEM_108"/>
+    <RecipeIdeaData itemName="辅助备用栏位０９" itemTag="ITEM_MIX_SP_ITEM_109"/>
+    <RecipeIdeaData itemName="辅助备用栏位１０" itemTag="ITEM_MIX_SP_ITEM_110"/>
+    <RecipeIdeaData itemName="辅助备用栏位１１" itemTag="ITEM_MIX_SP_ITEM_111"/>
+    <RecipeIdeaData itemName="辅助备用栏位１２" itemTag="ITEM_MIX_SP_ITEM_112"/>
+    <RecipeIdeaData itemName="辅助备用栏位１３" itemTag="ITEM_MIX_SP_ITEM_113"/>
+    <RecipeIdeaData itemName="辅助备用栏位１４" itemTag="ITEM_MIX_SP_ITEM_114"/>
+    <RecipeIdeaData itemName="辅助备用栏位１５" itemTag="ITEM_MIX_SP_ITEM_115"/>
+    <RecipeIdeaData itemName="辅助备用栏位１６" itemTag="ITEM_MIX_SP_ITEM_116"/>
+    <RecipeIdeaData itemName="辅助备用栏位１７" itemTag="ITEM_MIX_SP_ITEM_117"/>
+    <RecipeIdeaData itemName="辅助备用栏位１８" itemTag="ITEM_MIX_SP_ITEM_118"/>
+    <RecipeIdeaData itemName="辅助备用栏位１９" itemTag="ITEM_MIX_SP_ITEM_119"/>
+    <RecipeIdeaData itemName="辅助备用栏位２０" itemTag="ITEM_MIX_SP_ITEM_120"/>
+    <RecipeIdeaData itemName="辅助备用栏位２１" itemTag="ITEM_MIX_SP_ITEM_121"/>
+    <RecipeIdeaData itemName="辅助备用栏位２２" itemTag="ITEM_MIX_SP_ITEM_122"/>
+    <RecipeIdeaData itemName="辅助备用栏位２３" itemTag="ITEM_MIX_SP_ITEM_123"/>
+    <RecipeIdeaData itemName="辅助备用栏位２４" itemTag="ITEM_MIX_SP_ITEM_124"/>
+    <RecipeIdeaData itemName="辅助备用栏位２５" itemTag="ITEM_MIX_SP_ITEM_125"/>
+    <RecipeIdeaData itemName="辅助备用栏位２６" itemTag="ITEM_MIX_SP_ITEM_126"/>
+    <RecipeIdeaData itemName="辅助备用栏位２７" itemTag="ITEM_MIX_SP_ITEM_127"/>
+    <RecipeIdeaData itemName="辅助备用栏位２８" itemTag="ITEM_MIX_SP_ITEM_128"/>
+    <RecipeIdeaData itemName="辅助备用栏位２９" itemTag="ITEM_MIX_SP_ITEM_129"/>
+    <RecipeIdeaData itemName="辅助备用栏位３０" itemTag="ITEM_MIX_SP_ITEM_130"/>
+    <RecipeIdeaData itemName="辅助备用栏位３１" itemTag="ITEM_MIX_SP_ITEM_131"/>
+    <RecipeIdeaData itemName="辅助备用栏位３２" itemTag="ITEM_MIX_SP_ITEM_132"/>
+    <RecipeIdeaData itemName="辅助备用栏位３３" itemTag="ITEM_MIX_SP_ITEM_133"/>
+    <RecipeIdeaData itemName="辅助备用栏位３４" itemTag="ITEM_MIX_SP_ITEM_134"/>
+    <RecipeIdeaData itemName="辅助备用栏位３５" itemTag="ITEM_MIX_SP_ITEM_135"/>
+    <RecipeIdeaData itemName="辅助备用栏位３６" itemTag="ITEM_MIX_SP_ITEM_136"/>
+    <RecipeIdeaData itemName="辅助备用栏位３７" itemTag="ITEM_MIX_SP_ITEM_137"/>
+    <RecipeIdeaData itemName="辅助备用栏位３８" itemTag="ITEM_MIX_SP_ITEM_138"/>
+    <RecipeIdeaData itemName="辅助备用栏位３９" itemTag="ITEM_MIX_SP_ITEM_139"/>
+    <RecipeIdeaData itemName="辅助备用栏位４０" itemTag="ITEM_MIX_SP_ITEM_140"/>
+    <RecipeIdeaData itemName="辅助备用栏位４１" itemTag="ITEM_MIX_SP_ITEM_141"/>
+    <RecipeIdeaData itemName="辅助备用栏位４２" itemTag="ITEM_MIX_SP_ITEM_142"/>
+    <RecipeIdeaData itemName="辅助备用栏位４３" itemTag="ITEM_MIX_SP_ITEM_143"/>
+    <RecipeIdeaData itemName="辅助备用栏位４４" itemTag="ITEM_MIX_SP_ITEM_144"/>
+    <RecipeIdeaData itemName="辅助备用栏位４５" itemTag="ITEM_MIX_SP_ITEM_145"/>
+    <RecipeIdeaData itemName="辅助备用栏位４６" itemTag="ITEM_MIX_SP_ITEM_146"/>
+    <RecipeIdeaData itemName="辅助备用栏位４７" itemTag="ITEM_MIX_SP_ITEM_147"/>
+    <RecipeIdeaData itemName="辅助备用栏位４８" itemTag="ITEM_MIX_SP_ITEM_148"/>
+    <RecipeIdeaData itemName="辅助备用栏位４９" itemTag="ITEM_MIX_SP_ITEM_149"/>
+    <RecipeIdeaData itemName="辅助备用栏位５０" itemTag="ITEM_MIX_SP_ITEM_150"/>
+    <RecipeIdeaData itemName="万能促进剂" itemTag="ITEM_MIX_UNIVERSAL_ACCELERATOR" learnCond_0="RECIPE_LEARN_COND_MIX_UNIVERSAL_ACCELERATOR"/>
+    <RecipeIdeaData itemName="安眠帐篷" itemTag="ITEM_MIX_SLEEP_TENT"/>
+    <RecipeIdeaData itemName="妖精指路标" itemTag="ITEM_MIX_FAIRY_SIGNPOST" learnCond_0="RECIPE_LEARN_COND_MIX_FAIRY_SIGNPOST"/>
+    <RecipeIdeaData itemName="行动货车" itemTag="ITEM_MIX_ALIVE_CART" learnCond_0="RECIPE_LEARN_COND_MIX_ALIVE_CART"/>
+    <RecipeIdeaData itemName="透明糖豆" itemTag="ITEM_MIX_CLEAR_DROP" learnCond_0="RECIPE_LEARN_COND_MIX_CLEAR_DROP"/>
+    <RecipeIdeaData itemName="魔力羽毛" itemTag="ITEM_MIX_MANA_FEATHER" learnCond_0="RECIPE_LEARN_COND_MIX_MANA_FEATHER"/>
+    <RecipeIdeaData itemName="旅行者之靴" itemTag="ITEM_MIX_TRAVELER_SHOES" learnCond_0="RECIPE_LEARN_COND_MIX_TRAVELER_SHOES"/>
+    <RecipeIdeaData itemName="特制背包" itemTag="ITEM_MIX_SPECIAL_BACKPACK" learnCond_0="RECIPE_LEARN_COND_MIX_SPECIAL_BACKPACK"/>
+    <RecipeIdeaData itemName="紧急避难包" itemTag="ITEM_MIX_EMERGENCY_BAG" learnCond_0="RECIPE_LEARN_COND_MIX_EMERGENCY_BAG"/>
+    <RecipeIdeaData itemName="摘采手套" itemTag="ITEM_MIX_PICKING_GLOVES" EVENT_TAG="EVENT_MM02_170" learnCond_0="RECIPE_LEARN_COND_MIX_PICKING_GLOVES"/>
+    <RecipeIdeaData itemName="胜者护符" itemTag="ITEM_MIX_WINNER_TALISMAN" learnCond_0="RECIPE_LEARN_COND_MIX_WINNER_TALISMAN"/>
+    <RecipeIdeaData itemName="锻炼护符" itemTag="ITEM_MIX_DISCIPLINE_TALISMAN" learnCond_0="RECIPE_LEARN_COND_MIX_DISCIPLINE_TALISMAN"/>
+    <RecipeIdeaData itemName="驱魔护符" itemTag="ITEM_MIX_AMULET_TALISMAN" learnCond_0="RECIPE_LEARN_COND_MIX_AMULET_TALISMAN"/>
+    <RecipeIdeaData itemName="心型首饰" itemTag="ITEM_MIX_HEART_PENDANT" EVENT_TAG="EVENT_MM06_020" learnCond_0="RECIPE_LEARN_COND_MIX_HEART_PENDANT"/>
+    <RecipeIdeaData itemName="天之石" itemTag="ITEM_MIX_SP_ITEM_151"/>
+    <RecipeIdeaData itemName="探索予備枠０２" itemTag="ITEM_MIX_SP_ITEM_152"/>
+    <RecipeIdeaData itemName="探索予備枠０３" itemTag="ITEM_MIX_SP_ITEM_153"/>
+    <RecipeIdeaData itemName="探索予備枠０４" itemTag="ITEM_MIX_SP_ITEM_154"/>
+    <RecipeIdeaData itemName="探索予備枠０５" itemTag="ITEM_MIX_SP_ITEM_155"/>
+    <RecipeIdeaData itemName="探索予備枠０６" itemTag="ITEM_MIX_SP_ITEM_156"/>
+    <RecipeIdeaData itemName="探索予備枠０７" itemTag="ITEM_MIX_SP_ITEM_157"/>
+    <RecipeIdeaData itemName="探索予備枠０８" itemTag="ITEM_MIX_SP_ITEM_158"/>
+    <RecipeIdeaData itemName="探索予備枠０９" itemTag="ITEM_MIX_SP_ITEM_159"/>
+    <RecipeIdeaData itemName="探索予備枠１０" itemTag="ITEM_MIX_SP_ITEM_160"/>
+    <RecipeIdeaData itemName="探索予備枠１１" itemTag="ITEM_MIX_SP_ITEM_161"/>
+    <RecipeIdeaData itemName="探索予備枠１２" itemTag="ITEM_MIX_SP_ITEM_162"/>
+    <RecipeIdeaData itemName="探索予備枠１３" itemTag="ITEM_MIX_SP_ITEM_163"/>
+    <RecipeIdeaData itemName="探索予備枠１４" itemTag="ITEM_MIX_SP_ITEM_164"/>
+    <RecipeIdeaData itemName="探索予備枠１５" itemTag="ITEM_MIX_SP_ITEM_165"/>
+    <RecipeIdeaData itemName="探索予備枠１６" itemTag="ITEM_MIX_SP_ITEM_166"/>
+    <RecipeIdeaData itemName="探索予備枠１７" itemTag="ITEM_MIX_SP_ITEM_167"/>
+    <RecipeIdeaData itemName="探索予備枠１８" itemTag="ITEM_MIX_SP_ITEM_168"/>
+    <RecipeIdeaData itemName="探索予備枠１９" itemTag="ITEM_MIX_SP_ITEM_169"/>
+    <RecipeIdeaData itemName="探索予備枠２０" itemTag="ITEM_MIX_SP_ITEM_170"/>
+    <RecipeIdeaData itemName="探索予備枠２１" itemTag="ITEM_MIX_SP_ITEM_171"/>
+    <RecipeIdeaData itemName="探索予備枠２２" itemTag="ITEM_MIX_SP_ITEM_172"/>
+    <RecipeIdeaData itemName="探索予備枠２３" itemTag="ITEM_MIX_SP_ITEM_173"/>
+    <RecipeIdeaData itemName="探索予備枠２４" itemTag="ITEM_MIX_SP_ITEM_174"/>
+    <RecipeIdeaData itemName="探索予備枠２５" itemTag="ITEM_MIX_SP_ITEM_175"/>
+    <RecipeIdeaData itemName="探索予備枠２６" itemTag="ITEM_MIX_SP_ITEM_176"/>
+    <RecipeIdeaData itemName="探索予備枠２７" itemTag="ITEM_MIX_SP_ITEM_177"/>
+    <RecipeIdeaData itemName="探索予備枠２８" itemTag="ITEM_MIX_SP_ITEM_178"/>
+    <RecipeIdeaData itemName="探索予備枠２９" itemTag="ITEM_MIX_SP_ITEM_179"/>
+    <RecipeIdeaData itemName="探索予備枠３０" itemTag="ITEM_MIX_SP_ITEM_180"/>
+    <RecipeIdeaData itemName="探索予備枠３１" itemTag="ITEM_MIX_SP_ITEM_181"/>
+    <RecipeIdeaData itemName="探索予備枠３２" itemTag="ITEM_MIX_SP_ITEM_182"/>
+    <RecipeIdeaData itemName="探索予備枠３３" itemTag="ITEM_MIX_SP_ITEM_183"/>
+    <RecipeIdeaData itemName="探索予備枠３４" itemTag="ITEM_MIX_SP_ITEM_184"/>
+    <RecipeIdeaData itemName="探索予備枠３５" itemTag="ITEM_MIX_SP_ITEM_185"/>
+    <RecipeIdeaData itemName="探索予備枠３６" itemTag="ITEM_MIX_SP_ITEM_186"/>
+    <RecipeIdeaData itemName="探索予備枠３７" itemTag="ITEM_MIX_SP_ITEM_187"/>
+    <RecipeIdeaData itemName="探索予備枠３８" itemTag="ITEM_MIX_SP_ITEM_188"/>
+    <RecipeIdeaData itemName="探索予備枠３９" itemTag="ITEM_MIX_SP_ITEM_189"/>
+    <RecipeIdeaData itemName="探索予備枠４０" itemTag="ITEM_MIX_SP_ITEM_190"/>
+    <RecipeIdeaData itemName="探索予備枠４１" itemTag="ITEM_MIX_SP_ITEM_191"/>
+    <RecipeIdeaData itemName="探索予備枠４２" itemTag="ITEM_MIX_SP_ITEM_192"/>
+    <RecipeIdeaData itemName="探索予備枠４３" itemTag="ITEM_MIX_SP_ITEM_193"/>
+    <RecipeIdeaData itemName="探索予備枠４４" itemTag="ITEM_MIX_SP_ITEM_194"/>
+    <RecipeIdeaData itemName="探索予備枠４５" itemTag="ITEM_MIX_SP_ITEM_195"/>
+    <RecipeIdeaData itemName="探索予備枠４６" itemTag="ITEM_MIX_SP_ITEM_196"/>
+    <RecipeIdeaData itemName="探索予備枠４７" itemTag="ITEM_MIX_SP_ITEM_197"/>
+    <RecipeIdeaData itemName="探索予備枠４８" itemTag="ITEM_MIX_SP_ITEM_198"/>
+    <RecipeIdeaData itemName="探索予備枠４９" itemTag="ITEM_MIX_SP_ITEM_199"/>
+    <RecipeIdeaData itemName="探索予備枠５０" itemTag="ITEM_MIX_SP_ITEM_200"/>
+    <RecipeIdeaData itemName="中和剂‧红" itemTag="ITEM_MIX_RED_NEUTLIZER" learnCond_0="RECIPE_LEARN_COND_MIX_RED_NEUTLIZER"/>
+    <RecipeIdeaData itemName="中和剂‧蓝" itemTag="ITEM_MIX_BLUE_NEUTLIZER" learnCond_0="RECIPE_LEARN_COND_MIX_BLUE_NEUTLIZER"/>
+    <RecipeIdeaData itemName="中和剂‧绿" itemTag="ITEM_MIX_GREEN_NEUTLIZER" EVENT_TAG="EVENT_MM02_130" learnCond_0="RECIPE_LEARN_COND_MIX_GREEN_NEUTLIZER" learnCond_1="RECIPE_LEARN_COND_MIX_GREEN_NEUTLIZER_01"/>
+    <RecipeIdeaData itemName="中和剂‧黄" itemTag="ITEM_MIX_YELLOW_NEUTLIZER" learnCond_0="RECIPE_LEARN_COND_MIX_YELLOW_NEUTLIZER"/>
+    <RecipeIdeaData itemName="纯水" itemTag="ITEM_MIX_PURE_WATER" learnCond_0="RECIPE_LEARN_COND_MIX_PURE_WATER"/>
+    <RecipeIdeaData itemName="精灵之泪" itemTag="ITEM_MIX_ELEMENTAL_TEARS" learnCond_0="RECIPE_LEARN_COND_MIX_ELEMENTAL_TEARS"/>
+    <RecipeIdeaData itemName="水果糖精" itemTag="ITEM_MIX_APCALL" learnCond_0="RECIPE_LEARN_COND_MIX_APCALL"/>
+    <RecipeIdeaData itemName="罗梅麦粉" itemTag="ITEM_MIX_LAMER_WEIZENMEHL" learnCond_0="RECIPE_LEARN_COND_MIX_LAMER_WEIZENMEHL"/>
+    <RecipeIdeaData itemName="蜂蜜" itemTag="ITEM_MIX_HONEY" learnCond_0="RECIPE_LEARN_COND_MIX_HONEY"/>
+    <RecipeIdeaData itemName="天然酵母" itemTag="ITEM_MIX_NATURAL_YEAST" learnCond_0="RECIPE_LEARN_COND_MIX_NATURAL_YEAST"/>
+    <RecipeIdeaData itemName="万药之本" itemTag="ITEM_MIX_UNIVERSAL_MEDICINE" releaseOrFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_UNIVERSAL_MEDICINE" learnCond_1="RECIPE_LEARN_COND_MIX_UNIVERSAL_MEDICINE_01"/>
+    <RecipeIdeaData itemName="查科尔帖纸" itemTag="ITEM_MIX_ZETTEL" learnCond_0="RECIPE_LEARN_COND_MIX_ZETTEL"/>
+    <RecipeIdeaData itemName="排毒油" itemTag="ITEM_MIX_REFRESH_OIL" learnCond_0="RECIPE_LEARN_COND_MIX_REFRESH_OIL"/>
+    <RecipeIdeaData itemName="炎帝粉" itemTag="ITEM_MIX_FLAME_EMPEROR_POWDER" learnCond_0="RECIPE_LEARN_COND_MIX_FLAME_EMPEROR_POWDER"/>
+    <RecipeIdeaData itemName="结晶石块" itemTag="ITEM_MIX_BLITZRITE" learnCond_0="RECIPE_LEARN_COND_MIX_BLITZRITE"/>
+    <RecipeIdeaData itemName="心灵艾森矿" itemTag="ITEM_MIX_GEIST_EISEN" learnCond_0="RECIPE_LEARN_COND_MIX_GEIST_EISEN"/>
+    <RecipeIdeaData itemName="炼金黏土" itemTag="ITEM_MIX_ALCHEMY_CLAY" EVENT_TAG="EVENT_MM04_020" learnCond_0="RECIPE_LEARN_COND_MIX_ALCHEMY_CLAY"/>
+    <RecipeIdeaData itemName="捆起来的金线" itemTag="ITEM_MIX_BUNDLED_GOLD" learnCond_0="RECIPE_LEARN_COND_MIX_BUNDLED_GOLD"/>
+    <RecipeIdeaData itemName="云杉木" itemTag="ITEM_MIX_SPRUCE" learnCond_0="RECIPE_LEARN_COND_MIX_SPRUCE"/>
+    <RecipeIdeaData itemName="金属块" itemTag="ITEM_MIX_INGOT" EVENT_TAG="EVENT_MM02_020" scenarioLockFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_INGOT" learnCond_1="RECIPE_LEARN_COND_MIX_INGOT_01" learnCond_2="RECIPE_LEARN_COND_MIX_INGOT_02"/>
+    <RecipeIdeaData itemName="钢铁金属" itemTag="ITEM_MIX_STARK_METAL" EVENT_TAG="EVENT_MM02_130" scenarioLockFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_STARK_METAL" learnCond_1="RECIPE_LEARN_COND_MIX_STARK_METAL_01" learnCond_2="RECIPE_LEARN_COND_MIX_STARK_METAL_02"/>
+    <RecipeIdeaData itemName="丝薇丽银" itemTag="ITEM_MIX_SILVERIA" EVENT_TAG="EVENT_MM02_160" scenarioLockFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_SILVERIA" learnCond_1="RECIPE_LEARN_COND_MIX_SILVERIA_01" learnCond_2="RECIPE_LEARN_COND_MIX_SILVERIA_02"/>
+    <RecipeIdeaData itemName="铷" itemTag="ITEM_MIX_RUBYLIUM" EVENT_TAG="EVENT_MM06_010" scenarioLockFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_RUBYLIUM" learnCond_1="RECIPE_LEARN_COND_MIX_RUBYLIUM_01" learnCond_2="RECIPE_LEARN_COND_MIX_RUBYLIUM_02"/>
+    <RecipeIdeaData itemName="黄金艾森矿" itemTag="ITEM_MIX_INGOT_SP_1" learnCond_0="RECIPE_LEARN_COND_MIX_INGOT_SP_1"/>
+    <RecipeIdeaData itemName="精灵银块" itemTag="ITEM_MIX_INGOT_SP_2" learnCond_0="RECIPE_LEARN_COND_MIX_INGOT_SP_2"/>
+    <RecipeIdeaData itemName="布料" itemTag="ITEM_MIX_CLOTH" learnCond_0="RECIPE_LEARN_COND_MIX_CLOTH"/>
+    <RecipeIdeaData itemName="毛布" itemTag="ITEM_MIX_CLOTH_MOFCOT" learnCond_0="RECIPE_LEARN_COND_MIX_CLOTH_MOFCOT"/>
+    <RecipeIdeaData itemName="亚达布料" itemTag="ITEM_MIX_ITEM_KUPTAL_CLOTH" EVENT_TAG="EVENT_MM04_300" learnCond_0="RECIPE_LEARN_COND_MIX_ITEM_KUPTAL_CLOTH"/>
+    <RecipeIdeaData itemName="天使羽翼" itemTag="ITEM_MIX_FLUGEL" learnCond_0="RECIPE_LEARN_COND_MIX_FLUGEL"/>
+    <RecipeIdeaData itemName="细致布料" itemTag="ITEM_MIX_VERHEIT" learnCond_0="RECIPE_LEARN_COND_MIX_VERHEIT"/>
+    <RecipeIdeaData itemName="天鹅绒布" itemTag="ITEM_MIX_CLOTH_SP" learnCond_0="RECIPE_LEARN_COND_MIX_CLOTH_SP"/>
+    <RecipeIdeaData itemName="雪花水晶" itemTag="ITEM_MIX_SNOWFLAKE_CRYSTAL" learnCond_0="RECIPE_LEARN_COND_MIX_SNOWFLAKE_CRYSTAL"/>
+    <RecipeIdeaData itemName="高贵紫宝石" itemTag="ITEM_MIX_NOBLE_SAPPHIRE" learnCond_0="RECIPE_LEARN_COND_MIX_NOBLE_SAPPHIRE"/>
+    <RecipeIdeaData itemName="暮色水滴" itemTag="ITEM_MIX_DUSK_DROPS" learnCond_0="RECIPE_LEARN_COND_MIX_DUSK_DROPS" learnCond_1="RECIPE_LEARN_COND_MIX_DUSK_DROPS_01"/>
+    <RecipeIdeaData itemName="先知水晶球" itemTag="ITEM_MIX_FORESIGHT_CRYSTAL" learnCond_0="RECIPE_LEARN_COND_MIX_FORESIGHT_CRYSTAL"/>
+    <RecipeIdeaData itemName="幽冥罗盘" itemTag="ITEM_MIX_NOTSWAY_SCALE" EVENT_TAG="EVENT_MM04_160" learnCond_0="RECIPE_LEARN_COND_MIX_NOTSWAY_SCALE"/>
+    <RecipeIdeaData itemName="深红石" itemTag="ITEM_MIX_CRIMSON_STONE" learnCond_0="RECIPE_LEARN_COND_MIX_CRIMSON_STONE"/>
+    <RecipeIdeaData itemName="贤者之石" itemTag="ITEM_MIX_ALCHEMY_STONE" EVENT_TAG="EVENT_MM07_010" learnCond_0="RECIPE_LEARN_COND_MIX_ALCHEMY_STONE"/>
+    <RecipeIdeaData itemName="日轮之滴" itemTag="ITEM_MIX_SUN_DROPS" EVENT_TAG="EVENT_MM07_030" learnCond_0="RECIPE_LEARN_COND_MIX_SUN_DROPS"/>
+    <RecipeIdeaData itemName="矿物精华" itemTag="ITEM_MIX_SP_ITEM_201" learnCond_0="RECIPE_LEARN_COND_GREEN_23_00"/>
+    <RecipeIdeaData itemName="孕育绿意的活性土" itemTag="ITEM_MIX_SP_ITEM_202" EVENT_TAG="EVENT_MM07_040" learnCond_0="RECIPE_LEARN_COND_YELLOW_26_00"/>
+    <RecipeIdeaData itemName="精密零件" itemTag="ITEM_MIX_SP_ITEM_203" EVENT_TAG="EVENT_QC05_COR_170" learnCond_0="RECIPE_LEARN_COND_GREEN_25_00"/>
+    <RecipeIdeaData itemName="调合备用栏位０４" itemTag="ITEM_MIX_SP_ITEM_204"/>
+    <RecipeIdeaData itemName="调合备用栏位０５" itemTag="ITEM_MIX_SP_ITEM_205"/>
+    <RecipeIdeaData itemName="调合备用栏位０６" itemTag="ITEM_MIX_SP_ITEM_206"/>
+    <RecipeIdeaData itemName="调合备用栏位０７" itemTag="ITEM_MIX_SP_ITEM_207"/>
+    <RecipeIdeaData itemName="调合备用栏位０８" itemTag="ITEM_MIX_SP_ITEM_208"/>
+    <RecipeIdeaData itemName="调合备用栏位０９" itemTag="ITEM_MIX_SP_ITEM_209"/>
+    <RecipeIdeaData itemName="调合备用栏位１０" itemTag="ITEM_MIX_SP_ITEM_210"/>
+    <RecipeIdeaData itemName="调合备用栏位１１" itemTag="ITEM_MIX_SP_ITEM_211"/>
+    <RecipeIdeaData itemName="调合备用栏位１２" itemTag="ITEM_MIX_SP_ITEM_212"/>
+    <RecipeIdeaData itemName="调合备用栏位１３" itemTag="ITEM_MIX_SP_ITEM_213"/>
+    <RecipeIdeaData itemName="调合备用栏位１４" itemTag="ITEM_MIX_SP_ITEM_214"/>
+    <RecipeIdeaData itemName="调合备用栏位１５" itemTag="ITEM_MIX_SP_ITEM_215"/>
+    <RecipeIdeaData itemName="调合备用栏位１６" itemTag="ITEM_MIX_SP_ITEM_216"/>
+    <RecipeIdeaData itemName="调合备用栏位１７" itemTag="ITEM_MIX_SP_ITEM_217"/>
+    <RecipeIdeaData itemName="调合备用栏位１８" itemTag="ITEM_MIX_SP_ITEM_218"/>
+    <RecipeIdeaData itemName="调合备用栏位１９" itemTag="ITEM_MIX_SP_ITEM_219"/>
+    <RecipeIdeaData itemName="调合备用栏位２０" itemTag="ITEM_MIX_SP_ITEM_220"/>
+    <RecipeIdeaData itemName="调合备用栏位２１" itemTag="ITEM_MIX_SP_ITEM_221"/>
+    <RecipeIdeaData itemName="调合备用栏位２２" itemTag="ITEM_MIX_SP_ITEM_222"/>
+    <RecipeIdeaData itemName="调合备用栏位２３" itemTag="ITEM_MIX_SP_ITEM_223"/>
+    <RecipeIdeaData itemName="调合备用栏位２４" itemTag="ITEM_MIX_SP_ITEM_224"/>
+    <RecipeIdeaData itemName="调合备用栏位２５" itemTag="ITEM_MIX_SP_ITEM_225"/>
+    <RecipeIdeaData itemName="调合备用栏位２６" itemTag="ITEM_MIX_SP_ITEM_226"/>
+    <RecipeIdeaData itemName="调合备用栏位２７" itemTag="ITEM_MIX_SP_ITEM_227"/>
+    <RecipeIdeaData itemName="调合备用栏位２８" itemTag="ITEM_MIX_SP_ITEM_228"/>
+    <RecipeIdeaData itemName="调合备用栏位２９" itemTag="ITEM_MIX_SP_ITEM_229"/>
+    <RecipeIdeaData itemName="调合备用栏位３０" itemTag="ITEM_MIX_SP_ITEM_230"/>
+    <RecipeIdeaData itemName="调合备用栏位３１" itemTag="ITEM_MIX_SP_ITEM_231"/>
+    <RecipeIdeaData itemName="调合备用栏位３２" itemTag="ITEM_MIX_SP_ITEM_232"/>
+    <RecipeIdeaData itemName="调合备用栏位３３" itemTag="ITEM_MIX_SP_ITEM_233"/>
+    <RecipeIdeaData itemName="调合备用栏位３４" itemTag="ITEM_MIX_SP_ITEM_234"/>
+    <RecipeIdeaData itemName="调合备用栏位３５" itemTag="ITEM_MIX_SP_ITEM_235"/>
+    <RecipeIdeaData itemName="调合备用栏位３６" itemTag="ITEM_MIX_SP_ITEM_236"/>
+    <RecipeIdeaData itemName="调合备用栏位３７" itemTag="ITEM_MIX_SP_ITEM_237"/>
+    <RecipeIdeaData itemName="调合备用栏位３８" itemTag="ITEM_MIX_SP_ITEM_238"/>
+    <RecipeIdeaData itemName="调合备用栏位３９" itemTag="ITEM_MIX_SP_ITEM_239"/>
+    <RecipeIdeaData itemName="调合备用栏位４０" itemTag="ITEM_MIX_SP_ITEM_240"/>
+    <RecipeIdeaData itemName="调合备用栏位４１" itemTag="ITEM_MIX_SP_ITEM_241"/>
+    <RecipeIdeaData itemName="调合备用栏位４２" itemTag="ITEM_MIX_SP_ITEM_242"/>
+    <RecipeIdeaData itemName="调合备用栏位４３" itemTag="ITEM_MIX_SP_ITEM_243"/>
+    <RecipeIdeaData itemName="调合备用栏位４４" itemTag="ITEM_MIX_SP_ITEM_244"/>
+    <RecipeIdeaData itemName="调合备用栏位４５" itemTag="ITEM_MIX_SP_ITEM_245"/>
+    <RecipeIdeaData itemName="调合备用栏位４６" itemTag="ITEM_MIX_SP_ITEM_246"/>
+    <RecipeIdeaData itemName="调合备用栏位４７" itemTag="ITEM_MIX_SP_ITEM_247"/>
+    <RecipeIdeaData itemName="调合备用栏位４８" itemTag="ITEM_MIX_SP_ITEM_248"/>
+    <RecipeIdeaData itemName="调合备用栏位４９" itemTag="ITEM_MIX_SP_ITEM_249"/>
+    <RecipeIdeaData itemName="调合备用栏位５０" itemTag="ITEM_MIX_SP_ITEM_250"/>
+    <RecipeIdeaData itemName="奶奶的炼金釜" itemTag="ITEM_MIX_TIMEWORN_ALCHEMY_KETTLE" EVENT_TAG="EVENT_MS05_040" learnCond_0="RECIPE_LEARN_COND_MIX_TIMEWORN_ALCHEMY_KETTLE"/>
+    <RecipeIdeaData itemName="练习用的炼金釜" itemTag="ITEM_MIX_SP_KETTLE_001" learnCond_0="RECIPE_LEARN_COND_MIX_SP_KETTLE_001"/>
+    <RecipeIdeaData itemName="同步的炼金釜" itemTag="ITEM_MIX_SP_KETTLE_002" learnCond_0="RECIPE_LEARN_COND_MIX_SP_KETTLE_002"/>
+    <RecipeIdeaData itemName="达人的炼金釜" itemTag="ITEM_MIX_SP_KETTLE_003" learnCond_0="RECIPE_LEARN_COND_MIX_SP_KETTLE_003"/>
+    <RecipeIdeaData itemName="妖精的炼金釜" itemTag="ITEM_MIX_BEGINNERS_ALCHEMY_KETTLE" learnCond_0="RECIPE_LEARN_COND_MIX_BEGINNERS_ALCHEMY_KETTLE"/>
+    <RecipeIdeaData itemName="古代的炼金釜" itemTag="ITEM_MIX_ALCHEMYST_KETTLE" learnCond_0="RECIPE_LEARN_COND_MIX_ALCHEMYST_KETTLE"/>
+    <RecipeIdeaData itemName="师范的炼金锅" itemTag="ITEM_MIX_GURU_ALCHEMY_KETTLE" learnCond_0="RECIPE_LEARN_COND_MIX_GURU_ALCHEMY_KETTLE"/>
+    <RecipeIdeaData itemName="仙人的炼金锅" itemTag="ITEM_MIX_SOPIE_ALCHEMY_KETTLE" learnCond_0="RECIPE_LEARN_COND_MIX_SOPIE_ALCHEMY_KETTLE"/>
+    <RecipeIdeaData itemName="奇迹的炼金锅" itemTag="ITEM_MIX_AUS_JEM" learnCond_0="RECIPE_LEARN_COND_MIX_AUS_JEM"/>
+    <RecipeIdeaData itemName="清纯宝玉" itemTag="ITEM_MIX_REIN_JEM"/>
+    <RecipeIdeaData itemName="继承宝玉" itemTag="ITEM_MIX_FOLG_JEM"/>
+    <RecipeIdeaData itemName="成长宝玉" itemTag="ITEM_MIX_WACKS_JEM"/>
+    <RecipeIdeaData itemName="增生宝玉" itemTag="ITEM_MIX_SAMIR_JEM"/>
+    <RecipeIdeaData itemName="守护神之瞳" itemTag="ITEM_MIX_MERCURY_EYE" EVENT_TAG="EVENT_MM06_010" releaseOrFlag="-1" learnCond_0="RECIPE_LEARN_COND_MIX_MERCURY_EYE" learnCond_1="RECIPE_LEARN_COND_MIX_MERCURY_EYE_01"/>
+    <RecipeIdeaData itemName="炼金用的玻璃器具" itemTag="ITEM_MIX_ALCHEMY_GLASSWARE"/>
+    <RecipeIdeaData itemName="增殖加速器" itemTag="ITEM_MIX_GROWTH_ACCELERATOR"/>
+    <RecipeIdeaData itemName="坚持搅拌棒" itemTag="ITEM_MIX_GOOD_MIX_BAR"/>
+    <RecipeIdeaData itemName="器材备用栏位０１" itemTag="ITEM_MIX_SP_MACHINE_001"/>
+    <RecipeIdeaData itemName="器材备用栏位０２" itemTag="ITEM_MIX_SP_MACHINE_002"/>
+    <RecipeIdeaData itemName="器材备用栏位０３" itemTag="ITEM_MIX_SP_MACHINE_003"/>
+    <RecipeIdeaData itemName="器材备用栏位０４" itemTag="ITEM_MIX_SP_MACHINE_004"/>
+    <RecipeIdeaData itemName="器材备用栏位０５" itemTag="ITEM_MIX_SP_MACHINE_005"/>
+    <RecipeIdeaData itemName="器材备用栏位０６" itemTag="ITEM_MIX_SP_MACHINE_006"/>
+    <RecipeIdeaData itemName="器材备用栏位０７" itemTag="ITEM_MIX_SP_MACHINE_007"/>
+    <RecipeIdeaData itemName="器材备用栏位０８" itemTag="ITEM_MIX_SP_MACHINE_008"/>
+    <RecipeIdeaData itemName="器材备用栏位０９" itemTag="ITEM_MIX_SP_MACHINE_009"/>
+    <RecipeIdeaData itemName="器材备用栏位１０" itemTag="ITEM_MIX_SP_MACHINE_010"/>
+    <RecipeIdeaData itemName="器材备用栏位１１" itemTag="ITEM_MIX_SP_MACHINE_011"/>
+    <RecipeIdeaData itemName="器材备用栏位１２" itemTag="ITEM_MIX_SP_MACHINE_012"/>
+    <RecipeIdeaData itemName="器材备用栏位１３" itemTag="ITEM_MIX_SP_MACHINE_013"/>
+    <RecipeIdeaData itemName="器材备用栏位１４" itemTag="ITEM_MIX_SP_MACHINE_014"/>
+    <RecipeIdeaData itemName="器材备用栏位１５" itemTag="ITEM_MIX_SP_MACHINE_015"/>
+    <RecipeIdeaData itemName="器材备用栏位１６" itemTag="ITEM_MIX_SP_MACHINE_016"/>
+    <RecipeIdeaData itemName="器材备用栏位１７" itemTag="ITEM_MIX_SP_MACHINE_017"/>
+    <RecipeIdeaData itemName="器材备用栏位１８" itemTag="ITEM_MIX_SP_MACHINE_018"/>
+    <RecipeIdeaData itemName="器材备用栏位１９" itemTag="ITEM_MIX_SP_MACHINE_019"/>
+    <RecipeIdeaData itemName="器材备用栏位２０" itemTag="ITEM_MIX_SP_MACHINE_020"/>
+    <RecipeIdeaData itemName="器材备用栏位２１" itemTag="ITEM_MIX_SP_MACHINE_021"/>
+    <RecipeIdeaData itemName="器材备用栏位２２" itemTag="ITEM_MIX_SP_MACHINE_022"/>
+    <RecipeIdeaData itemName="器材备用栏位２３" itemTag="ITEM_MIX_SP_MACHINE_023"/>
+    <RecipeIdeaData itemName="器材备用栏位２４" itemTag="ITEM_MIX_SP_MACHINE_024"/>
+    <RecipeIdeaData itemName="器材备用栏位２５" itemTag="ITEM_MIX_SP_MACHINE_025"/>
+    <RecipeIdeaData itemName="器材备用栏位２６" itemTag="ITEM_MIX_SP_MACHINE_026"/>
+    <RecipeIdeaData itemName="器材备用栏位２７" itemTag="ITEM_MIX_SP_MACHINE_027"/>
+    <RecipeIdeaData itemName="器材备用栏位２８" itemTag="ITEM_MIX_SP_MACHINE_028"/>
+    <RecipeIdeaData itemName="器材备用栏位２９" itemTag="ITEM_MIX_SP_MACHINE_029"/>
+    <RecipeIdeaData itemName="器材备用栏位３０" itemTag="ITEM_MIX_SP_MACHINE_030"/>
+    <RecipeIdeaData itemName="器材备用栏位３１" itemTag="ITEM_MIX_SP_MACHINE_031"/>
+    <RecipeIdeaData itemName="器材备用栏位３２" itemTag="ITEM_MIX_SP_MACHINE_032"/>
+    <RecipeIdeaData itemName="器材备用栏位３３" itemTag="ITEM_MIX_SP_MACHINE_033"/>
+    <RecipeIdeaData itemName="器材备用栏位３４" itemTag="ITEM_MIX_SP_MACHINE_034"/>
+    <RecipeIdeaData itemName="器材备用栏位３５" itemTag="ITEM_MIX_SP_MACHINE_035"/>
+    <RecipeIdeaData itemName="器材备用栏位３６" itemTag="ITEM_MIX_SP_MACHINE_036"/>
+    <RecipeIdeaData itemName="器材备用栏位３７" itemTag="ITEM_MIX_SP_MACHINE_037"/>
+    <RecipeIdeaData itemName="器材备用栏位３８" itemTag="ITEM_MIX_SP_MACHINE_038"/>
+    <RecipeIdeaData itemName="器材备用栏位３９" itemTag="ITEM_MIX_SP_MACHINE_039"/>
+    <RecipeIdeaData itemName="器材备用栏位４０" itemTag="ITEM_MIX_SP_MACHINE_040"/>
+    <RecipeIdeaData itemName="器材备用栏位４１" itemTag="ITEM_MIX_SP_MACHINE_041"/>
+    <RecipeIdeaData itemName="器材备用栏位４２" itemTag="ITEM_MIX_SP_MACHINE_042"/>
+    <RecipeIdeaData itemName="器材备用栏位４３" itemTag="ITEM_MIX_SP_MACHINE_043"/>
+    <RecipeIdeaData itemName="器材备用栏位４４" itemTag="ITEM_MIX_SP_MACHINE_044"/>
+    <RecipeIdeaData itemName="器材备用栏位４５" itemTag="ITEM_MIX_SP_MACHINE_045"/>
+    <RecipeIdeaData itemName="器材备用栏位４６" itemTag="ITEM_MIX_SP_MACHINE_046"/>
+    <RecipeIdeaData itemName="器材备用栏位４７" itemTag="ITEM_MIX_SP_MACHINE_047"/>
+    <RecipeIdeaData itemName="器材备用栏位４８" itemTag="ITEM_MIX_SP_MACHINE_048"/>
+    <RecipeIdeaData itemName="器材备用栏位４９" itemTag="ITEM_MIX_SP_MACHINE_049"/>
+    <RecipeIdeaData itemName="器材备用栏位５０" itemTag="ITEM_MIX_SP_MACHINE_050"/>
+    <RecipeIdeaData itemName="生命手环" itemTag="ITEM_ACC_LIFE_BANGLE" learnCond_0="RECIPE_LEARN_COND_ACC_LIFE_BANGLE"/>
+    <RecipeIdeaData itemName="白热头带" itemTag="ITEM_ACC_INCANDESCENT_HEADBAND" learnCond_0="RECIPE_LEARN_COND_ACC_INCANDESCENT_HEADBAND"/>
+    <RecipeIdeaData itemName="天使领结" itemTag="ITEM_ACC_ANGEL_RIBBON" learnCond_0="RECIPE_LEARN_COND_ACC_ANGEL_RIBBON"/>
+    <RecipeIdeaData itemName="深绿羽毛饰品" itemTag="ITEM_ACC_GREEN_FEATHERS" learnCond_0="RECIPE_LEARN_COND_ACC_GREEN_FEATHERS"/>
+    <RecipeIdeaData itemName="物灵耳环" itemTag="ITEM_ACC_SPIRIT_EARRINGS" learnCond_0="RECIPE_LEARN_COND_ACC_SPIRIT_EARRINGS" learnCond_1="RECIPE_LEARN_COND_ACC_SPIRIT_EARRINGS_01" learnCond_2="RECIPE_LEARN_COND_ACC_SPIRIT_EARRINGS_02"/>
+    <RecipeIdeaData itemName="仙灵花冠" itemTag="ITEM_ACC_AMBROSIA_COROLLA" learnCond_0="RECIPE_LEARN_COND_ACC_AMBROSIA_COROLLA"/>
+    <RecipeIdeaData itemName="大师手套" itemTag="ITEM_ACC_MEISTER_MITTENS" learnCond_0="RECIPE_LEARN_COND_ACC_MEISTER_MITTENS"/>
+    <RecipeIdeaData itemName="心眼单眼镜" itemTag="ITEM_ACC_MONOCLE_MINDS_EYE" learnCond_0="RECIPE_LEARN_COND_ACC_MONOCLE_MINDS_EYE"/>
+    <RecipeIdeaData itemName="黑白眼镜" itemTag="ITEM_ACC_MONOCHROME_GLASS" learnCond_0="RECIPE_LEARN_COND_ACC_MONOCHROME_GLASS" learnCond_1="RECIPE_LEARN_COND_ACC_MONOCHROME_GLASS_01"/>
+    <RecipeIdeaData itemName="图腾项链" itemTag="ITEM_ACC_CHRONICLE_MARK" learnCond_0="RECIPE_LEARN_COND_ACC_CHRONICLE_MARK"/>
+    <RecipeIdeaData itemName="操时沙漏" itemTag="ITEM_ACC_MANIPULATE_HOURGLASS" learnCond_0="RECIPE_LEARN_COND_ACC_MANIPULATE_HOURGLASS"/>
+    <RecipeIdeaData itemName="友爱面具" itemTag="ITEM_ACC_FRATERNAL_PERSONA" EVENT_TAG="EVENT_MM02_110" scenarioLockFlag="-1" learnCond_0="RECIPE_LEARN_COND_ACC_FRATERNAL_PERSONA" learnCond_1="RECIPE_LEARN_COND_ACC_FRATERNAL_PERSONA_01" learnCond_2="RECIPE_LEARN_COND_ACC_FRATERNAL_PERSONA_02"/>
+    <RecipeIdeaData itemName="干劲腰带" itemTag="ITEM_ACC_HUSTLE_BELT" learnCond_0="RECIPE_LEARN_COND_ACC_HUSTLE_BELT"/>
+    <RecipeIdeaData itemName="元素盾" itemTag="ITEM_ACC_ELEMENT_SHIELD" learnCond_0="RECIPE_LEARN_COND_ACC_ELEMENT_SHIELD"/>
+    <RecipeIdeaData itemName="恩典戒指" itemTag="ITEM_ACC_GUNADE_RING" releaseOrFlag="-1" learnCond_0="RECIPE_LEARN_COND_ACC_GUNADE_RING" learnCond_1="RECIPE_LEARN_COND_ACC_GUNADE_RING_01"/>
+    <RecipeIdeaData itemName="装饰备用栏位０１" itemTag="ITEM_ACC_SP_ITEM_001"/>
+    <RecipeIdeaData itemName="装饰备用栏位０２" itemTag="ITEM_ACC_SP_ITEM_002"/>
+    <RecipeIdeaData itemName="装饰备用栏位０３" itemTag="ITEM_ACC_SP_ITEM_003"/>
+    <RecipeIdeaData itemName="装饰备用栏位０４" itemTag="ITEM_ACC_SP_ITEM_004"/>
+    <RecipeIdeaData itemName="装饰备用栏位０５" itemTag="ITEM_ACC_SP_ITEM_005"/>
+    <RecipeIdeaData itemName="装饰备用栏位０６" itemTag="ITEM_ACC_SP_ITEM_006"/>
+    <RecipeIdeaData itemName="装饰备用栏位０７" itemTag="ITEM_ACC_SP_ITEM_007"/>
+    <RecipeIdeaData itemName="装饰备用栏位０８" itemTag="ITEM_ACC_SP_ITEM_008"/>
+    <RecipeIdeaData itemName="装饰备用栏位０９" itemTag="ITEM_ACC_SP_ITEM_009"/>
+    <RecipeIdeaData itemName="装饰备用栏位１０" itemTag="ITEM_ACC_SP_ITEM_010"/>
+    <RecipeIdeaData itemName="装饰备用栏位１１" itemTag="ITEM_ACC_SP_ITEM_011"/>
+    <RecipeIdeaData itemName="装饰备用栏位１２" itemTag="ITEM_ACC_SP_ITEM_012"/>
+    <RecipeIdeaData itemName="装饰备用栏位１３" itemTag="ITEM_ACC_SP_ITEM_013"/>
+    <RecipeIdeaData itemName="装饰备用栏位１４" itemTag="ITEM_ACC_SP_ITEM_014"/>
+    <RecipeIdeaData itemName="装饰备用栏位１５" itemTag="ITEM_ACC_SP_ITEM_015"/>
+    <RecipeIdeaData itemName="装饰备用栏位１６" itemTag="ITEM_ACC_SP_ITEM_016"/>
+    <RecipeIdeaData itemName="装饰备用栏位１７" itemTag="ITEM_ACC_SP_ITEM_017"/>
+    <RecipeIdeaData itemName="装饰备用栏位１８" itemTag="ITEM_ACC_SP_ITEM_018"/>
+    <RecipeIdeaData itemName="装饰备用栏位１９" itemTag="ITEM_ACC_SP_ITEM_019"/>
+    <RecipeIdeaData itemName="装饰备用栏位２０" itemTag="ITEM_ACC_SP_ITEM_020"/>
+    <RecipeIdeaData itemName="装饰备用栏位２１" itemTag="ITEM_ACC_SP_ITEM_021"/>
+    <RecipeIdeaData itemName="装饰备用栏位２２" itemTag="ITEM_ACC_SP_ITEM_022"/>
+    <RecipeIdeaData itemName="装饰备用栏位２３" itemTag="ITEM_ACC_SP_ITEM_023"/>
+    <RecipeIdeaData itemName="装饰备用栏位２４" itemTag="ITEM_ACC_SP_ITEM_024"/>
+    <RecipeIdeaData itemName="装饰备用栏位２５" itemTag="ITEM_ACC_SP_ITEM_025"/>
+    <RecipeIdeaData itemName="装饰备用栏位２６" itemTag="ITEM_ACC_SP_ITEM_026"/>
+    <RecipeIdeaData itemName="装饰备用栏位２７" itemTag="ITEM_ACC_SP_ITEM_027"/>
+    <RecipeIdeaData itemName="装饰备用栏位２８" itemTag="ITEM_ACC_SP_ITEM_028"/>
+    <RecipeIdeaData itemName="装饰备用栏位２９" itemTag="ITEM_ACC_SP_ITEM_029"/>
+    <RecipeIdeaData itemName="装饰备用栏位３０" itemTag="ITEM_ACC_SP_ITEM_030"/>
+    <RecipeIdeaData itemName="装饰备用栏位３１" itemTag="ITEM_ACC_SP_ITEM_031"/>
+    <RecipeIdeaData itemName="装饰备用栏位３２" itemTag="ITEM_ACC_SP_ITEM_032"/>
+    <RecipeIdeaData itemName="装饰备用栏位３３" itemTag="ITEM_ACC_SP_ITEM_033"/>
+    <RecipeIdeaData itemName="装饰备用栏位３４" itemTag="ITEM_ACC_SP_ITEM_034"/>
+    <RecipeIdeaData itemName="装饰备用栏位３５" itemTag="ITEM_ACC_SP_ITEM_035"/>
+    <RecipeIdeaData itemName="装饰备用栏位３６" itemTag="ITEM_ACC_SP_ITEM_036"/>
+    <RecipeIdeaData itemName="装饰备用栏位３７" itemTag="ITEM_ACC_SP_ITEM_037"/>
+    <RecipeIdeaData itemName="装饰备用栏位３８" itemTag="ITEM_ACC_SP_ITEM_038"/>
+    <RecipeIdeaData itemName="装饰备用栏位３９" itemTag="ITEM_ACC_SP_ITEM_039"/>
+    <RecipeIdeaData itemName="装饰备用栏位４０" itemTag="ITEM_ACC_SP_ITEM_040"/>
+    <RecipeIdeaData itemName="装饰备用栏位４１" itemTag="ITEM_ACC_SP_ITEM_041"/>
+    <RecipeIdeaData itemName="装饰备用栏位４２" itemTag="ITEM_ACC_SP_ITEM_042"/>
+    <RecipeIdeaData itemName="装饰备用栏位４３" itemTag="ITEM_ACC_SP_ITEM_043"/>
+    <RecipeIdeaData itemName="装饰备用栏位４４" itemTag="ITEM_ACC_SP_ITEM_044"/>
+    <RecipeIdeaData itemName="装饰备用栏位４５" itemTag="ITEM_ACC_SP_ITEM_045"/>
+    <RecipeIdeaData itemName="装饰备用栏位４６" itemTag="ITEM_ACC_SP_ITEM_046"/>
+    <RecipeIdeaData itemName="装饰备用栏位４７" itemTag="ITEM_ACC_SP_ITEM_047"/>
+    <RecipeIdeaData itemName="装饰备用栏位４８" itemTag="ITEM_ACC_SP_ITEM_048"/>
+    <RecipeIdeaData itemName="装饰备用栏位４９" itemTag="ITEM_ACC_SP_ITEM_049"/>
+    <RecipeIdeaData itemName="装饰备用栏位５０" itemTag="ITEM_ACC_SP_ITEM_050"/>
+    <RecipeIdeaData itemName="魂盟之针" itemTag="ITEM_KEY_ITEM_004" EVENT_TAG="EVENT_MM04_100" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_004"/>
+    <RecipeIdeaData itemName="真理之钥" itemTag="ITEM_KEY_ITEM_005" EVENT_TAG="EVENT_MM07_010" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_005"/>
+    <RecipeIdeaData itemName="魔女‧黄金光环" itemTag="ITEM_KEY_ITEM_006" EVENT_TAG="EVENT_MM06_050" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_006"/>
+    <RecipeIdeaData itemName="艾尔莉丝胸针" itemTag="ITEM_KEY_ITEM_007" EVENT_TAG="EVENT_QC07_LEO_200" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_007"/>
+    <RecipeIdeaData itemName="人偶师的线" itemTag="ITEM_KEY_ITEM_010" EVENT_TAG="EVENT_QC04_FRI_050" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_010"/>
+    <RecipeIdeaData itemName="贤者之土" itemTag="ITEM_KEY_ITEM_011" EVENT_TAG="EVENT_QC04_FRI_210" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_011"/>
+    <RecipeIdeaData itemName="试作型营养剂" itemTag="ITEM_KEY_ITEM_012" EVENT_TAG="EVENT_MM08_080" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_012"/>
+    <RecipeIdeaData itemName="约会券" itemTag="ITEM_KEY_ITEM_013" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="滋润草" itemTag="ITEM_KEY_ITEM_014" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="" itemTag="ITEM_KEY_ITEM_015" EVENT_TAG="EVENT_YY02_120" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_015"/>
+    <RecipeIdeaData itemName="" itemTag="ITEM_KEY_ITEM_016" EVENT_TAG="EVENT_MS12_090" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_016"/>
+    <RecipeIdeaData itemName="" itemTag="ITEM_KEY_ITEM_017" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="" itemTag="ITEM_KEY_ITEM_018" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="" itemTag="ITEM_KEY_ITEM_019" EVENT_TAG="EVENT_XX01_010" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_019"/>
+    <RecipeIdeaData itemName="" itemTag="ITEM_KEY_ITEM_020" EVENT_TAG="EVENT_XX01_090" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_020"/>
+    <RecipeIdeaData itemName="" itemTag="ITEM_KEY_ITEM_021" EVENT_TAG="EVENT_XX01_180" learnCond_0="RECIPE_LEARN_COND_KEY_ITEM_021"/>
+    <RecipeIdeaData itemName="栏位１０" itemTag="ITEM_KEY_ITEM_022" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位１１" itemTag="ITEM_KEY_ITEM_023" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位１２" itemTag="ITEM_KEY_ITEM_024" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位１３" itemTag="ITEM_KEY_ITEM_025" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位１４" itemTag="ITEM_KEY_ITEM_026" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位１５" itemTag="ITEM_KEY_ITEM_027" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位１６" itemTag="ITEM_KEY_ITEM_028" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位１７" itemTag="ITEM_KEY_ITEM_029" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位１８" itemTag="ITEM_KEY_ITEM_030" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位１９" itemTag="ITEM_KEY_ITEM_031" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位２０" itemTag="ITEM_KEY_ITEM_032" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位２１" itemTag="ITEM_KEY_ITEM_033" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位２２" itemTag="ITEM_KEY_ITEM_034" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位２３" itemTag="ITEM_KEY_ITEM_035" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位２４" itemTag="ITEM_KEY_ITEM_036" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位２５" itemTag="ITEM_KEY_ITEM_037" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位２６" itemTag="ITEM_KEY_ITEM_038" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位２７" itemTag="ITEM_KEY_ITEM_039" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位２８" itemTag="ITEM_KEY_ITEM_040" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位２９" itemTag="ITEM_KEY_ITEM_041" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位３０" itemTag="ITEM_KEY_ITEM_042" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位３１" itemTag="ITEM_KEY_ITEM_043" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位３２" itemTag="ITEM_KEY_ITEM_044" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位３３" itemTag="ITEM_KEY_ITEM_045" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位３４" itemTag="ITEM_KEY_ITEM_046" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位３５" itemTag="ITEM_KEY_ITEM_047" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位３６" itemTag="ITEM_KEY_ITEM_048" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位３７" itemTag="ITEM_KEY_ITEM_049" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位３８" itemTag="ITEM_KEY_ITEM_050" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位３９" itemTag="ITEM_KEY_ITEM_051" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位４０" itemTag="ITEM_KEY_ITEM_052" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位４１" itemTag="ITEM_KEY_ITEM_053" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位４２" itemTag="ITEM_KEY_ITEM_054" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位４３" itemTag="ITEM_KEY_ITEM_055" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位４４" itemTag="ITEM_KEY_ITEM_056" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位４５" itemTag="ITEM_KEY_ITEM_057" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位４６" itemTag="ITEM_KEY_ITEM_058" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位４７" itemTag="ITEM_KEY_ITEM_059" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位４８" itemTag="ITEM_KEY_ITEM_060" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位４９" itemTag="ITEM_KEY_ITEM_061" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+    <RecipeIdeaData itemName="栏位５０" itemTag="ITEM_KEY_ITEM_062" learnCond_0="RECIPE_LEARN_COND_DUMMY" learnCond_1="RECIPE_LEARN_COND_DUMMY" learnCond_2="RECIPE_LEARN_COND_DUMMY"/>
+</Root>
